@@ -1,0 +1,75 @@
+n306068510  Беларуснафта / null / Белоруснефть / Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes
+    geometry : [53.9002600,30.3574800]
+n918326335  null / null / АГНКС Могилёв-1 / АГНКС Могилёв-1
+  other tags : amenity=fuel | fuel:cng=yes | opening_hours=24/7 | operator=Белтрансгаз | phone=+375-222-318717, +375-222-318707 | website=http://www.metan.by/
+    geometry : [53.9355769,30.3682494]
+n1249754554
+  other tags : amenity=fuel
+    geometry : [53.9281034,30.2676390]
+n1303514554
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes
+    geometry : [53.8631703,30.3593922]
+n1436844571  Захад / null / Запад
+  other tags : amenity=fuel
+    geometry : [53.9346054,30.3348915]
+n1476181533  null / null / Белоруснефть №59
+  other tags : addr:street=улица 30 лет Победы | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=08:10-20:0, 20:10-00:00, 00:25-08:00 | operator=Белоруснефть | phone=+375-222-323617 | website=http://www.belorusneft.by/
+    geometry : [53.9342291,30.3676698]
+n1488277760
+  other tags : amenity=fuel
+    geometry : [53.8967580,30.3404941]
+n1541641459
+  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=no | fuel:octane_95=yes | operator=Беларуснефть
+    geometry : [53.8728419,30.3727030]
+n2422195159  null / null / Белоруснефть №6
+  other tags : addr:housenumber=1А | addr:street=улица Ровчакова | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-222-256432 | ref=6 | shop=yes | website=http://beloil.by/
+    geometry : [53.9288849,30.2688426]
+n2422199042  null / null / Белоруснефть №43
+  other tags : addr:street=проспект Шмидта | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-222-488229 | ref=43 | website=http://beloil.by/
+    geometry : [53.8795201,30.3118918]
+n2422199043  null / null / Белоруснефть №43
+  other tags : addr:street=проспект Шмидта | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-222-488229 | ref=43 | website=http://beloil.by/
+    geometry : [53.8797105,30.3122350]
+n2459312737
+  other tags : amenity=fuel
+    geometry : [53.9176040,30.3485805]
+n2836081372  null / null / Белоруснефть №59
+  other tags : addr:street=улица 30 лет Победы | amenity=fuel | fuel:lpg=yes | opening_hours=08:10-20:0, 20:10-00:00, 00:25-08:00 | operator=Белоруснефть | phone=+375-222-323617 | website=http://www.belorusneft.by/
+    geometry : [53.9344434,30.3679425]
+w69712896
+  other tags : amenity=fuel
+    geometry : n833722907[53.9149378,30.3704819] n833722908[53.9146704,30.3710225] n833722910[53.9149839,30.3714697] n833722912[53.9152514,30.3709291] n833722907[53.9149378,30.3704819]
+w150945182
+  other tags : addr:housenumber=2А | addr:street=проспект Шмидта | amenity=fuel | building=yes | fuel:cng=no | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | opening_hours=24/7 | operator=Лукойл | phone=41-54-93 | ref=29
+    geometry : n1638048687[53.8794748,30.3151864] n1638048663[53.8793790,30.3152209] n2893204555[53.8793411,30.3149181] n2893204554[53.8792630,30.3149463] n1638048662[53.8792466,30.3148150] n1638048685[53.8795087,30.3147205] n2893204557[53.8795256,30.3148553] n2893204556[53.8794373,30.3148871] n1638048687[53.8794748,30.3151864]
+w150951606
+  other tags : addr:housenumber=39 | addr:street=Габровская улица | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Беларуснефть | phone=41-17-61 | ref=40 | shop=kiosk
+    geometry : n1638097818[53.8707972,30.3558797] n2892352342[53.8708652,30.3560089] n1638097825[53.8707061,30.3562500] n2892352341[53.8707716,30.3563744] n1638097823[53.8706882,30.3565007] n1638097800[53.8705547,30.3562471] n1638097818[53.8707972,30.3558797]
+w152380436
+  other tags : addr:housenumber=7А | addr:street=Гаражный переулок | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=РУП БЕЛОРУСНЕФТЬ-МОГИЛЕВОБЛНЕФТЕПРОДУКТ | phone=+375-222-237277 | ref=96 | shop=yes
+    geometry : n1652018023[53.8972170,30.2886213] n1652018025[53.8972293,30.2887745] n1652018019[53.8971179,30.2888002] n1652018014[53.8971056,30.2886471] n1652018023[53.8972170,30.2886213]
+w157449984  null / null / АГНКС Могилёв-2 / АГНКС Могилёв-2
+  other tags : addr:housenumber=215 | addr:street=улица Челюскинцев | amenity=fuel | building=yes | fuel:cng=yes | opening_hours=08:00-20:00 | operator=Белтрансгаз | phone=+375-222-315054, +375-222-314944 | website=http://www.metan.by/
+    geometry : n1696659269[53.8730862,30.2737733] n1696659267[53.8728790,30.2736629] n1696659260[53.8727783,30.2742060] n1696659262[53.8729855,30.2743164] n1696659269[53.8730862,30.2737733]
+w159696097
+  other tags : addr:street=улица Симонова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Беларуснефть | phone=0222 455745 | ref=45 | shop=yes
+    geometry : n1718038932[53.8620008,30.3074389] n1718038950[53.8621996,30.3077914] n1718038947[53.8621006,30.3079518] n1718038930[53.8619019,30.3075993] n1718038932[53.8620008,30.3074389]
+w163367205
+  other tags : addr:housenumber=8 | addr:street=Быховская улица | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | ref=37 | shop=yes
+    geometry : n1750770340[53.8934350,30.3253565] n1750770347[53.8936185,30.3254083] n1750770346[53.8936023,30.3255732] n1750770339[53.8934188,30.3255214] n1750770340[53.8934350,30.3253565]
+w166510300
+  other tags : addr:housenumber=80 | addr:street=проспект Димитрова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | image=http://wbi.beloil.by/beloil-map/getimage.htm?stationId=B89F84F7E3CF4F70E043BF0BA8C03722&imageType=PHOTO&order=1 | opening_hours=24/7 | operator=Белоруснефть | phone=(0222)460045 | ref=47 | shop=yes
+    geometry : n1779542738[53.8800005,30.3887035] n1779542740[53.8800623,30.3884454] n1779542750[53.8803006,30.3886097] n1779542746[53.8802388,30.3888678] n1779542738[53.8800005,30.3887035]
+w166510304
+  other tags : addr:housenumber=69А | addr:street=проспект Димитрова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Славнефть-старт | ref=47 | shop=yes
+    geometry : n1779542684[53.8784353,30.3900204] n1779542675[53.8783298,30.3904211] n1779542663[53.8782313,30.3903465] n1779542677[53.8783368,30.3899458] n1779542684[53.8784353,30.3900204]
+w183453834
+  other tags : addr:housenumber=27 | addr:street=Минское шоссе | amenity=fuel | building=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=ЛУКОЙЛ Белоруссия | ref=27 | shop=yes
+    geometry : n1938228578[53.9337513,30.2580718] n1938228579[53.9339759,30.2584037] n1938228576[53.9338973,30.2585571] n1938228574[53.9336727,30.2582253] n1938228578[53.9337513,30.2580718]
+w183453835
+  other tags : addr:housenumber=92 | addr:street=улица Челюскинцев | amenity=fuel | building=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=ЛУКОЙЛ Белоруссия | phone=(8-0222) 31-51-81 | ref=28 | shop=yes
+    geometry : n1938228561[53.8886141,30.2811821] n1938228566[53.8886975,30.2811184] n1938228568[53.8888185,30.2815737] n1938228567[53.8887352,30.2816374] n1938228561[53.8886141,30.2811821]
+w222153260  null / null / АЗС №16
+  other tags : addr:housenumber=29 | addr:street=проспект Шмидта | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_98=yes | opening_hours=24/7 | shop=yes
+    geometry : n2311302084[53.8538165,30.3355871] n2311302082[53.8536605,30.3355470] n2311302083[53.8536718,30.3354200] n2311302085[53.8538279,30.3354600] n2311302084[53.8538165,30.3355871]
