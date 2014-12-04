@@ -278,7 +278,7 @@ w205882132
   other tags : addr:housenumber=5 | addr:street=улица Волковича | building=residential | building:levels=5
     geometry : n2158674164[53.4123626,24.5203653] n2158674173[53.4119941,24.5211039] n2158674023[53.4118887,24.5209559] n2158674080[53.4122572,24.5202173] n2158674164[53.4123626,24.5203653]
 w205882133
-  other tags : building=residential | building:levels=2
+  other tags : building=residential | building:levels=1
     geometry : n2158674145[53.4144179,24.5328779] n2158673997[53.4143284,24.5334036] n2158674000[53.4142069,24.5333285] n2158674001[53.4143028,24.5328135] n2158674145[53.4144179,24.5328779]
 w205882135
   other tags : addr:housenumber=7 | addr:street=улица Волковича | building=residential | building:levels=5
@@ -299,7 +299,7 @@ w205882145
   other tags : addr:street=улица Волковича | building=residential | building:levels=2
     geometry : n2158674128[53.4133869,24.5224172] n2158674093[53.4133622,24.5225705] n2158674039[53.4131338,24.5224667] n2158674012[53.4131585,24.5223134] n2158674128[53.4133869,24.5224172]
 w205882149
-  other tags : building=residential
+  other tags : building=residential | building:levels=1
     geometry : n2158673927[53.4168212,24.5347732] n2158673942[53.4169296,24.5349063] n2158674064[53.4168439,24.5351027] n2158673918[53.4167355,24.5349696] n2158673927[53.4168212,24.5347732]
 w205882150
   other tags : addr:street=улица Волковича | building=residential | building:levels=1
