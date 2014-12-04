@@ -5128,7 +5128,7 @@ w28255890
   other tags : highway=unclassified | oneway=no | surface=asphalt
     geometry : n340399435[55.1612664,30.1753871] n2917557471[55.1612224,30.1754291] n2917557470[55.1611954,30.1754549] n310301546[55.1611457,30.1755025]
 w28255891
-  other tags : highway=primary | lanes=2 | maxspeed=60 | maxspeed:practical=40 | oneway=yes | turn:lanes=through|left
+  other tags : highway=primary | lanes=2 | maxspeed=60 | maxspeed:practical=40 | oneway=yes | turn:lanes=left|through
     geometry : n310301977[55.1991668,30.1854553] n310301969[55.1994866,30.1841123]
 w28255893
   other tags : highway=unclassified | surface=ground
@@ -6052,7 +6052,7 @@ w30975875
   other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=40 | maxspeed:practical=40 | oneway=yes
     geometry : n310302092[55.1990994,30.1854055] n310304622[55.1987970,30.1866613]
 w30975876
-  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed:practical=40 | oneway=yes | turn:lanes=through|left
+  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed:practical=40 | oneway=yes | turn:lanes=left|through
     geometry : n310304646[55.1988645,30.1867112] n310301977[55.1991668,30.1854553]
 w31027563
   other tags : highway=footway
