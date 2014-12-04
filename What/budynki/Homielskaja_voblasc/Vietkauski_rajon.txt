@@ -26,7 +26,7 @@ w238844441
   other tags : addr:housenumber=7 | addr:street=площадь Победы | building=yes
     geometry : n2466440974[52.5594820,31.1374611] n2466440953[52.5591290,31.1376407] n2466440956[52.5591643,31.1378280] n2466440978[52.5595172,31.1376485] n2466440974[52.5594820,31.1374611]
 w238844442
-  other tags : addr:housename=Административное здание | addr:street=улица Мира | building=yes | office=administrative
+  other tags : addr:city=н.п.Хальч | addr:housename=Административное здание | addr:housenumber=Контора | addr:street=улица Мира | building=yes | office=administrative
     geometry : n2466441006[52.5600143,31.1413804] n2466441000[52.5598406,31.1415582] n2466441003[52.5598875,31.1416822] n2466441008[52.5600612,31.1415044] n2466441006[52.5600143,31.1413804]
 w238844443
   other tags : addr:housenumber=1 | addr:street=площадь Победы | building=yes
@@ -38,7 +38,7 @@ w238844445  null / null / Магазин
   other tags : addr:housename=Магазин | addr:street=площадь Победы | building=yes | shop=yes
     geometry : n2466440958[52.5592258,31.1399621] n2466440947[52.5589445,31.1402523] n2466440951[52.5590438,31.1405127] n2466440964[52.5593251,31.1402226] n2466440958[52.5592258,31.1399621]
 w238844447
-  other tags : addr:housename=Дом культуры | addr:street=улица Мира | amenity=community_centre | building=yes
+  other tags : addr:city=н.п.Хальч | addr:housename=Дом культуры | addr:housenumber=Дом культуры | addr:street=улица Мира | amenity=community_centre | building=yes
     geometry : n2466441016[52.5603766,31.1405463] n2466441014[52.5601532,31.1407770] n2466441010[52.5600976,31.1406314] n2466441004[52.5599978,31.1407346] n2466441012[52.5601246,31.1410668] n2466441020[52.5604478,31.1407329] n2466441016[52.5603766,31.1405463]
 w240903893
   other tags : addr:housenumber=11 | addr:street=Ветковская улица | building=yes
@@ -452,7 +452,7 @@ w244384586
   other tags : addr:housenumber=5А | addr:street=Ветковская улица | building=yes
     geometry : n2517100866[52.5283622,31.0826056] n2517100871[52.5284796,31.0827367] n2517100870[52.5284586,31.0827875] n2517100872[52.5284829,31.0828147] n2517100869[52.5284461,31.0829036] n2517100867[52.5284246,31.0828796] n2517100868[52.5284328,31.0828598] n2517100863[52.5283306,31.0827457] n2517100865[52.5283576,31.0826803] n2517100864[52.5283397,31.0826602] n2517100866[52.5283622,31.0826056]
 w244652579
-  other tags : addr:street=площадь Победы | building=yes | generator:method=combustion | power=generator
+  other tags : addr:city=н.п.Хальч | addr:housename=Котельная | addr:housenumber=Котельная | addr:street=площадь Победы | building=yes | generator:method=combustion | power=generator
     geometry : n2519480381[52.5601816,31.1383622] n2519480382[52.5602345,31.1386271] n2519480380[52.5601372,31.1386798] n2519480379[52.5600842,31.1384149] n2519480381[52.5601816,31.1383622]
 w244652813
   other tags : addr:housename=ФАП | addr:housenumber=3 | addr:street=Сергеевой улица | building=yes
