@@ -5,8 +5,8 @@ n785111264  Дом быту / null / Дом быта
   other tags : shop=hairdresser
     geometry : [54.2236378,28.5127733]
 n785111296  null / null / Дом торговли / Дом торговли
-  other tags : addr:housenumber=4 | addr:street=улица Чапаева | shop=supermarket
-    geometry : [54.2244641,28.5108700]
+  other tags : addr:housenumber=4 | addr:street=улица Чапаева | shop=department_store
+    geometry : [54.2244282,28.5107225]
 n785111332  Рынак / null / Рынок / Рынок
   other names: name:uk=Ринок
   other tags : shop=outdoor
@@ -111,3 +111,6 @@ n3006940062  null / null / Каштан
 n3198730928  null / null / Магазин у дома
   other tags : shop=supermarket
     geometry : [54.2407543,28.5568225]
+n3217298384
+  other tags : shop=shoes
+    geometry : [54.2243561,28.5128624]
