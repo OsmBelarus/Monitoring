@@ -68,13 +68,13 @@ w101958574
   other tags : addr:housenumber=25 | addr:street=Советская улица | building=residential | building:levels=5
     geometry : n1177098017[53.4121123,24.5402878] n1177098023[53.4124284,24.5406754] n1177098029[53.4125038,24.5405024] n1177098031[53.4121877,24.5401148] n1177098017[53.4121123,24.5402878]
 w101958579
-  other tags : addr:street=улица 40 лет БССР | building=residential | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=улица 40 лет БССР | building=residential | building:levels=2
     geometry : n1177098057[53.4134141,24.5267685] n1177098059[53.4133398,24.5269116] n1177098060[53.4132525,24.5267840] n1177098063[53.4133267,24.5266409] n1177098057[53.4134141,24.5267685]
 w101958598
-  other tags : addr:street=улица 40 лет БССР | building=residential
+  other tags : addr:housenumber=9 | addr:street=улица 40 лет БССР | building=residential
     geometry : n1177098172[53.4136825,24.5274066] n1177098173[53.4137801,24.5275566] n1177098175[53.4138649,24.5274012] n1177098177[53.4137673,24.5272512] n1177098172[53.4136825,24.5274066]
 w101958603
-  other tags : addr:street=улица 40 лет БССР | building=residential | building:levels=2
+  other tags : addr:housenumber=11 | addr:street=улица 40 лет БССР | building=residential | building:levels=2
     geometry : n1177098184[53.4135342,24.5271918] n1177098186[53.4134403,24.5270587] n1177098189[53.4135176,24.5269052] n1177098192[53.4136115,24.5270383] n1177098184[53.4135342,24.5271918]
 w101958610
   other tags : building=residential | building:levels=2
@@ -278,7 +278,7 @@ w205882117
   other tags : building=residential
     geometry : n2158673919[53.4144805,24.5381259] n2158674042[53.4143573,24.5385655] n2158674089[53.4141519,24.5384035] n2158674086[53.4142751,24.5379640] n2158673919[53.4144805,24.5381259]
 w205882118
-  other tags : addr:street=улица Волковича | building=residential | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=улица Волковича | building=residential | building:levels=1
     geometry : n2158673915[53.4127481,24.5216328] n2158674117[53.4127126,24.5217914] n2158673946[53.4125515,24.5216900] n2158674078[53.4125869,24.5215314] n2158673915[53.4127481,24.5216328]
 w205882125
   other tags : addr:street=улица Волковича | building=residential | building:levels=1
@@ -287,7 +287,7 @@ w205882128
   other tags : addr:street=улица Волковича | building=residential | building:levels=1
     geometry : n2158673984[53.4140214,24.5197085] n2158674034[53.4139980,24.5198767] n2158673967[53.4137896,24.5197949] n2158674005[53.4138130,24.5196268] n2158673984[53.4140214,24.5197085]
 w205882131
-  other tags : addr:street=улица 40 лет БССР | building=residential | building:levels=2
+  other tags : addr:housenumber=17 | addr:street=улица 40 лет БССР | building=residential | building:levels=2
     geometry : n2158674038[53.4131480,24.5264992] n2158674017[53.4130766,24.5266364] n2158674171[53.4129843,24.5265011] n2158674112[53.4130557,24.5263639] n2158674038[53.4131480,24.5264992]
 w205882132
   other tags : addr:housenumber=5 | addr:street=улица Волковича | building=residential | building:levels=5
@@ -305,7 +305,7 @@ w205882140
   other tags : building=residential
     geometry : n2158673949[53.4142204,24.5362393] n2158674168[53.4141548,24.5365469] n2158673935[53.4140648,24.5364928] n2158674150[53.4141304,24.5361852] n2158673949[53.4142204,24.5362393]
 w205882142
-  other tags : addr:street=улица Волковича | building=residential
+  other tags : addr:housenumber=12 | addr:street=улица Волковича | building=residential
     geometry : n2158674029[53.4130273,24.5217490] n2158674059[53.4129954,24.5219359] n2158673930[53.4128333,24.5218582] n2158673992[53.4128651,24.5216712] n2158674029[53.4130273,24.5217490]
 w205882143  null / null / Сабрина
   other tags : addr:housenumber=8 | addr:street=улица Ленина | building=residential | shop=convenience
@@ -320,7 +320,7 @@ w205882150
   other tags : addr:street=улица Волковича | building=residential | building:levels=1
     geometry : n2158673943[53.4143191,24.5186619] n2158674096[53.4142593,24.5190721] n2158674018[53.4143488,24.5191088] n2158674026[53.4144086,24.5186986] n2158673943[53.4143191,24.5186619]
 w205882155
-  other tags : addr:street=улица Волковича | building=residential | building:levels=3
+  other tags : addr:housenumber=10А | addr:street=улица Волковича | building=residential | building:levels=3
     geometry : n2158674010[53.4126384,24.5220717] n2158674025[53.4126050,24.5222625] n2158674167[53.4123382,24.5221309] n2158674071[53.4123716,24.5219401] n2158674010[53.4126384,24.5220717]
 w205882158
   other tags : addr:street=улица Волковича | building=residential
@@ -349,9 +349,6 @@ w205884765
 w205884775
   other tags : building=residential | building:levels=1
     geometry : n2158734323[53.4098327,24.5398624] n2158734257[53.4096693,24.5400989] n2158734427[53.4095066,24.5397229] n2158734584[53.4096729,24.5394976] n2158734323[53.4098327,24.5398624]
-w205884783
-  other tags : building=residential | building:levels=1
-    geometry : n2158734308[53.4125136,24.5229549] n2158734371[53.4125111,24.5231640] n2158734559[53.4121593,24.5231521] n2158734361[53.4121618,24.5229430] n2158734308[53.4125136,24.5229549]
 w205884786
   other tags : building=residential | building:levels=2
     geometry : n2158734572[53.4094077,24.5247612] n2158734182[53.4094133,24.5249656] n2158734630[53.4088445,24.5250097] n2158734385[53.4088388,24.5248053] n2158734572[53.4094077,24.5247612]
@@ -371,7 +368,7 @@ w205895114
   other tags : addr:street=Полевая улица | building=residential | building:levels=1
     geometry : n2158887647[53.4185885,24.5296439] n2158887696[53.4186027,24.5298506] n2158887915[53.4184786,24.5298747] n2158887787[53.4184644,24.5296679] n2158887647[53.4185885,24.5296439]
 w205895123
-  other tags : addr:street=Полевая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Полевая улица | building=residential | building:levels=1
     geometry : n2158887505[53.4184826,24.5298775] n2158887301[53.4185054,24.5300914] n2158888011[53.4184088,24.5301204] n2158887345[53.4183860,24.5299066] n2158887505[53.4184826,24.5298775]
 w205895125
   other tags : addr:housenumber=3 | addr:street=улица Суворова | building=residential | building:levels=1
@@ -967,3 +964,18 @@ w314672234
 w314672235
   other tags : addr:city=Мосты | addr:housenumber=5 | addr:street=Луговая улица | building=apartments | building:levels=5
     geometry : n3207205522[53.4187845,24.5318997] n3207205523[53.4192134,24.5311893] n3207205524[53.4193283,24.5313847] n3207205525[53.4188994,24.5320951] n3207205522[53.4187845,24.5318997]
+w315569065
+  other tags : addr:housenumber=2 | addr:street=улица Волковича | building=residential | building:levels=2
+    geometry : n3216975314[53.4125084,24.5231541] n3216975310[53.4121555,24.5231253] n3216975311[53.4121559,24.5229303] n3216975315[53.4125150,24.5229435] n3216975314[53.4125084,24.5231541]
+w315569066
+  other tags : addr:housenumber=25 | addr:street=Лесная улица | building=apartments
+    geometry : n3216974360[53.3884033,24.5413722] n3216974359[53.3883949,24.5415855] n3216974355[53.3882898,24.5415783] n3216974356[53.3883013,24.5413649] n3216974360[53.3884033,24.5413722]
+w315569068
+  other tags : addr:housenumber=29 | addr:street=Лесная улица | building=apartments
+    geometry : n3216974340[53.3877043,24.5411948] n3216974339[53.3876336,24.5413454] n3216974334[53.3875472,24.5412808] n3216974338[53.3876179,24.5411300] n3216974340[53.3877043,24.5411948]
+w315569069
+  other tags : addr:housenumber=31 | addr:street=Лесная улица | building=apartments
+    geometry : n3216974331[53.3874816,24.5410642] n3216974327[53.3874110,24.5412148] n3216974321[53.3873246,24.5411502] n3216974326[53.3873953,24.5409995] n3216974331[53.3874816,24.5410642]
+w315569071
+  other tags : addr:housenumber=4 | addr:street=улица Волковича | building=residential | building:levels=2
+    geometry : n3216975324[53.4129052,24.5230915] n3216975322[53.4126798,24.5230783] n3216975323[53.4126802,24.5228833] n3216975325[53.4129056,24.5229017] n3216975324[53.4129052,24.5230915]
