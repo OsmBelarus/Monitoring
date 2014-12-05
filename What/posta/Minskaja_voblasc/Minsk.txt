@@ -51,7 +51,7 @@ n282312460  null / null / Отделение почтовой связи Мин�
   other tags : addr:housenumber=21 | addr:postcode=220071 | addr:street=Смолячкова | amenity=post_office | collection_times=Mo 16:00; Tu-Fr 16:30; Sa 14:40 | fax=+375 17 294 57 94 | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00 | operator=Белпочта | phone=+375 17 293 72 27 | ref=220071
     geometry : [53.9120619,27.5885165]
 n287867739
-  other tags : amenity=post_office
+  other tags : addr:housenumber=59 | addr:postcode=220104 | addr:street=улица Жудро | amenity=post_office
     geometry : [53.9209266,27.4800689]
 n288088956
   other tags : amenity=post_office
@@ -96,7 +96,7 @@ n305675308
   other tags : addr:postcode=722164 | amenity=post_office | ref=722164
     geometry : [53.8674866,27.4840271]
 n305675529
-  other tags : addr:postcode=722203 | amenity=post_office | ref=722203
+  other tags : addr:housenumber=118 | addr:postcode=220128 | addr:street=улица Петра Глебки | amenity=post_office | ref=722203
     geometry : [53.9273679,27.4813255]
 n305675532
   other tags : addr:postcode=722190 | amenity=post_office | ref=722190
