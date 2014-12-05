@@ -621,7 +621,7 @@ n1334767955  null / null / Дом культуры Фестивальный
 n1334767978  null / null / Дом культуры Фестивальный
   other tags : highway=bus_stop
     geometry : [52.4129854,30.9532045]
-n1334775309
+n1334775309  null / null / Торговый дом "Речицкий"
   other tags : highway=bus_stop
     geometry : [52.4093565,30.9343077]
 n1334775313  null / null / Торговый дом "Речицкий"
@@ -768,7 +768,7 @@ n2206123054  null / null / Рынок "Давыдовский"
 n2206123062  null / null / Торгово-экономический университет
   other tags : highway=bus_stop
     geometry : [52.4064037,30.9361167]
-n2412403898
+n2412403898  null / null / завод железобетонных изделий
   other tags : highway=bus_stop
     geometry : [52.4180172,30.9219935]
 n2412404971  null / null / Электрические сети
@@ -924,3 +924,6 @@ n2925803983
 n3048468430  null / null / Поворот на д. Севруки
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.3678269,31.0048170]
+n3220494713  null / null / улица Лазурная
+  other tags : highway=bus_stop
+    geometry : [52.4127373,30.9290886]
