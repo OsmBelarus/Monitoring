@@ -167,18 +167,18 @@ n1175558393  null / null / Рябиновая / Рябиновая
     geometry : [52.0657653,23.7293253]
 n1175569398  null / null / Вульковская
   other names: name:en=Vulkovskaya
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [52.0680745,23.7326616]
 n1175571690  null / null / Рябиновая / Рябиновая
   other names: name:en=Ryabinovaya
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.0663485,23.7305850]
 n1175606112  null / null / микрорайон Вулька
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [52.0708775,23.7367334]
 n1175634588  null / null / Вульковская
   other names: name:en=Vulkovskaya
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=no
     geometry : [52.0688364,23.7342185]
 n1180690113
   other tags : highway=bus_stop
