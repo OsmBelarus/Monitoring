@@ -8316,8 +8316,8 @@ n3098803529  null / null / Смаката, Магазин орехов и сух
   other tags : addr:housenumber=6 | addr:street=улица Бурдейного | shop=yes
     geometry : [53.9049602,27.4553141]
 n3098820442  null / null / Телефраст
-  other tags : addr:city=Минск | addr:housenumber=62К2 | addr:street=Притыцкого | shop=hifi
-    geometry : [53.9094959,27.4588420]
+  other tags : addr:city=Минск | addr:housenumber=62 к2,4 | addr:street=Притыцкого | shop=hifi
+    geometry : [53.9082464,27.4592803]
 n3098827033  null / null / Пелла
   other tags : addr:city=Минск | addr:housenumber=8 | addr:street=улица Лещинского | shop=dry_cleaning
     geometry : [53.9131316,27.4542511]
@@ -9455,3 +9455,6 @@ n3220261852  null / null / Зоомагазин
 n3221656945  null / null / Живинка
   other tags : opening_hours=9-23 | operator=Живинка | shop=yes
     geometry : [53.8554950,27.5151250]
+n3223114368
+  other tags : shop=kiosk
+    geometry : [53.9081255,27.4558093]
