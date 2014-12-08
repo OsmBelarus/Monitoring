@@ -4149,7 +4149,7 @@ n767183604  null / null / ст. М. парк Челюскинцев
     geometry : [53.9237587,27.6112892]
 n767183605  null / null / кинотеатр "Комсомолец"
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8698873,27.6272965]
+    geometry : [53.8699162,27.6273807]
 n767183606  null / null / Киев кинотеатр
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9289468,27.5568922]
@@ -4645,7 +4645,7 @@ n767183813  null / null / Пищекомбинат
     geometry : [53.8567269,27.6792898]
 n767183814  null / null / кинотеатр "Комсомолец"
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8708300,27.6281200]
+    geometry : [53.8706311,27.6279977]
 n767183815  null / null / Дачный проезд / Дачный проезд
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9204796,27.6537961]
@@ -5490,3 +5490,6 @@ n3213448946  Вулiца Я. Купалы / null / Улица Я. Купалы
 n3221312773
   other tags : highway=bus_stop
     geometry : [53.9350005,27.6027936]
+n3223436394  null / null / улица Сурикова
+  other tags : highway=bus_stop
+    geometry : [53.8644327,27.6313184]
