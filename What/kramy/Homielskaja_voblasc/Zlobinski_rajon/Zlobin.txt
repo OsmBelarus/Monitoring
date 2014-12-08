@@ -116,9 +116,6 @@ n1934077516  null / null / Киоски
 n1934326183  null / null / магазин "Данко"
   other tags : shop=convenience
     geometry : [52.8852435,30.0369285]
-n1934342278  null / null / Продукты
-  other tags : shop=convenience
-    geometry : [52.8764280,30.0514057]
 n1934349488
   other tags : shop=convenience
     geometry : [52.8950921,30.0578966]
@@ -200,9 +197,6 @@ n2708995747  null / null / Ромашка
 n2708995751  null / null / Центральная
   other tags : shop=hairdresser
     geometry : [52.8931703,30.0400173]
-n2778811502  null / null / "ОМА"
-  other tags : addr:housenumber=17а/1 | addr:street=улица Козлова | shop=hardware
-    geometry : [52.9002580,30.0184736]
 n2869847331  null / null / Планета цветов
   other tags : shop=florist
     geometry : [52.8927644,30.0397255]
@@ -233,9 +227,6 @@ n2984570150
 n2984570151
   other tags : addr:housenumber=17Б | addr:street=улица Козлова | shop=convenience
     geometry : [52.9023913,30.0176269]
-n2984654931
-  other tags : shop=furniture
-    geometry : [52.8936645,30.0438615]
 n3024525830  null / null / Магазин №26
   other tags : shop=convenience
     geometry : [52.8837766,29.9962480]
@@ -248,3 +239,6 @@ n3046800039  null / null / Магазин
 n3152086864
   other tags : shop=convenience
     geometry : [52.8805343,30.0908728]
+n3222767047  null / null / Рыболовный Центр
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-15:00 | shop=fishing
+    geometry : [52.8990552,30.0429238]
