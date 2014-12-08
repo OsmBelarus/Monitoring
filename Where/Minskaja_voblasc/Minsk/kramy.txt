@@ -6800,10 +6800,10 @@ n2599747644
   other tags : shop=yes
     geometry : [53.8526567,27.4430820]
 n2599747647  null / null / Продукты
-  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=08.00-23.00 | shop=convenience
+  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=08:00-23:00 | shop=convenience
     geometry : [53.8524455,27.4427428]
 n2599747650  null / null / Живое пиво
-  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=09.00-23.00 | shop=alcohol
+  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=09:00-23:00 | shop=alcohol
     geometry : [53.8521999,27.4422580]
 n2599747655  null / null / Салон красоты
   other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | shop=hairdresser
@@ -7454,7 +7454,7 @@ n2622767261  null / null / Свадебный салон «Gala»
   other tags : addr:city=Минск | addr:housenumber=15 | addr:street=Первомайская улица | opening_hours=Mo-Fr 11:00-20:00;Sa 11:00-17:00;Su off | phone=+375(29)6100781, +375(17)3352598 | shop=beauty | source=http://www.salongala.by | website=http://www.salongala.by
     geometry : [53.9045349,27.5838751]
 n2623684787  null / null / Second-hand "Адзенне"
-  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=10.00-20.00 | shop=clothes
+  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=10:00-20:00 | shop=clothes
     geometry : [53.8520569,27.4419015]
 n2623684799
   other tags : addr:housenumber=26 | addr:street=улица Громова | shop=hairdresser
@@ -8438,7 +8438,7 @@ n3116358150  null / null / Минсктранс
   other tags : shop=kiosk
     geometry : [53.8645412,27.6659081]
 n3118971221  null / null / Пивная застава
-  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=09.00-23.00 | shop=alcohol
+  other tags : addr:city=Минск | addr:housenumber=28 | addr:street=улица Громова | opening_hours=09:00-23:00 | shop=alcohol
     geometry : [53.8523366,27.4424857]
 n3123708529  null / null / 500 Ампер
   other tags : opening_hours=Mo-Fr 09:30-20:00; Sa 10:00-16:00 | shop=car_parts
