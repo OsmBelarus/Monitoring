@@ -3509,6 +3509,9 @@ n1980754937
 n1980754938
   other tags : addr:housenumber=7 | addr:street=3-й Сенненский переулок
     geometry : [55.1542545,30.1820215]
+n1981245577
+  other tags : noexit=yes
+    geometry : [55.1589070,30.2123768]
 n1982577699
   other tags : addr:housenumber=10 | addr:street=Ремесленная улица
     geometry : [55.2114979,30.2119665]
@@ -10820,6 +10823,12 @@ n3121533595
 n3121614353
   other tags : entrance=service
     geometry : [55.1587734,30.2120665]
+n3121614354
+  other tags : noexit=yes
+    geometry : [55.1588051,30.2120173]
+n3121614355
+  other tags : noexit=yes
+    geometry : [55.1589326,30.2120144]
 n3121614373
   other tags : entrance=main
     geometry : [55.1878973,30.2549049]
