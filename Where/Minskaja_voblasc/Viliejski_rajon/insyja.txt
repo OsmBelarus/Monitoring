@@ -1,3 +1,6 @@
+n243010793  Старынка / null / Старинка / Старинка
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | place=isolated_dwelling
+    geometry : [54.3078073,27.2986737]
 n243010820  Пуйтава / Pujtava / Пуйтово / Пуйтово
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | place=isolated_dwelling
     geometry : [54.2454200,27.3238600]
@@ -379,6 +382,15 @@ n2819524051
 n2867893995
   other tags : railway=level_crossing
     geometry : [54.4675609,26.8877221]
+n2924267065  Катоўка / null / Котовка / Котовка
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | place=isolated_dwelling
+    geometry : [54.3825639,27.3287417]
+n2924268852  Пасекі 2 / null / Пасеки 2 / Пасеки 2
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | alt_name:be=Другія Пасекі | place=isolated_dwelling
+    geometry : [54.3256789,27.3360328]
+n3105346171  Залессе / null / Залесье
+  other tags : place=isolated_dwelling
+    geometry : [54.3848649,27.3481178]
 n3137453839
   other tags : traffic_calming=hump
     geometry : [54.4514877,27.2844236]
@@ -409,6 +421,9 @@ n3212111724  null / null / Навес
 w25128633  Жардэцкія / Žardeckija / Жердецкие / Жердецкие
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | alt_name:be=Жардзецкая;Жардзецкія | landuse=residential | place=isolated_dwelling
     geometry : n273720528[54.3359034,27.3186153] n273720529[54.3367806,27.3190574] n1641653926[54.3370477,27.3174986] n273720538[54.3361705,27.3170565] n273720528[54.3359034,27.3186153]
+w25128675  Старынка / null / Старинка / Старинка
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | landuse=residential | place=isolated_dwelling
+    geometry : n273721077[54.3073303,27.2988643] n273721081[54.3081110,27.2993429] n273721084[54.3082664,27.2985984] n273721092[54.3074857,27.2981197] n273721077[54.3073303,27.2988643]
 w25128689  Палянка / Palianka / Полянка / Полянка
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | landuse=residential | place=isolated_dwelling
     geometry : n273721416[54.2583325,27.3136343] n273721419[54.2588371,27.3115447] n273721421[54.2571691,27.3103642] n1166194771[54.2566645,27.3124539] n273721416[54.2583325,27.3136343]
@@ -2251,6 +2266,9 @@ w247977243
 w247978394  Пянькоўка / Piańkoŭka / Пеньковка / Пеньковка
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | landuse=residential | place=isolated_dwelling
     geometry : n2548256901[54.4471061,27.3582703] n2548256899[54.4465302,27.3585918] n2548256900[54.4467363,27.3596837] n2548256902[54.4473122,27.3593623] n2548256901[54.4471061,27.3582703]
+w247978436  Пасекі 2 / null / Пасеки 2 / Пасеки 2
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | alt_name:be=Другія Пасекі | landuse=residential | place=isolated_dwelling
+    geometry : n2548257350[54.3260759,27.3355359] n2548257348[54.3254364,27.3353594] n2548257347[54.3253366,27.3364227] n2548257349[54.3259761,27.3365991] n2548257350[54.3260759,27.3355359]
 w247980757  Крынічына / Kryničyna / Криничино / Криничино
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | landuse=residential | place=isolated_dwelling
     geometry : n2548277535[54.4518673,27.4820894] n2548277531[54.4513346,27.4814505] n2548277530[54.4508785,27.4825754] n2548277532[54.4514112,27.4832143] n2548277535[54.4518673,27.4820894]
@@ -2384,6 +2402,9 @@ w288871986
 w288871987
   other tags : landuse=residential
     geometry : n2924267054[54.3780773,27.3336290] n2924267052[54.3777535,27.3342182] n2924267053[54.3779627,27.3345570] n2924267055[54.3782865,27.3339678] n2924267054[54.3780773,27.3336290]
+w288871988  Катоўка / null / Котовка / Котовка
+  other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | landuse=residential | place=isolated_dwelling
+    geometry : n2924267063[54.3827226,27.3275626] n2924267059[54.3820964,27.3279284] n2924267061[54.3826346,27.3306459] n2924267064[54.3832609,27.3302801] n2924267063[54.3827226,27.3275626]
 w288872549
   other tags : landuse=residential
     geometry : n2924269662[54.5389238,26.9598245] n2924269658[54.5384880,26.9601766] n2924269660[54.5387239,26.9610439] n2924269663[54.5391596,26.9606918] n2924269662[54.5389238,26.9598245]

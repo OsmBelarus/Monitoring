@@ -273,7 +273,7 @@ n242988164  Магуны / Mahuny / Могуны / Могуны
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : [54.0351400,25.1360300]
 n242988167  Подзітва / Podzitva / Подитва / Подитва
-  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Падзітва | place=hamlet
     geometry : [54.1298100,25.1004100]
 n242988169  Доцішкі / Dociški / Дотишки / Дотишки
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
@@ -640,7 +640,7 @@ n242991326  Мілюнцы / Miliuncy / Милюнцы / Милюнцы
     geometry : [54.1641400,25.3610000]
 n242991330  Бялюнцы / Bialiuncy / Белюнцы / Белюнцы
   other names: name:lt=Bilūnai
-  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Білюнцы | place=hamlet
     geometry : [54.1982200,25.4242500]
 n242991336  Білі / Bili / Били / Били
   other names: name:lt=Biliai
@@ -887,6 +887,10 @@ n2094070621  Навасады / Navasady / Новосады / Новосады
 n2095475910  Гудзінішкі / Hudzeniški / Гудинишки / Гуденишки
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.9422169,24.8004155]
+n2271196832  Воранава / Voranava / Вороново / Вороново
+  other names: name:en=Voranava
+  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=village | population=6059 | population:date=2012
+    geometry : [54.1491867,25.3140307]
 n2359321300  Вараноўка / Varanoŭka / Вороновка / Вороновка
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : [54.1651554,25.3437305]
@@ -973,11 +977,11 @@ n2789435996  null / null / Klimanai
   other names: name:lt=Klimanai
   other tags : place=hamlet
     geometry : [54.2687577,25.5111788]
-n3210429125  null / null / Смильгини / Смильгини
+n3210429125  Смільгіні / null / Смильгини / Смильгини
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : [54.1422031,24.8191684]
 n3210442566  Навасады / Navasady / Новосады / Новосады
-  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Навасады | place=hamlet
+  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Навасяды | place=hamlet
     geometry : [54.1654161,25.3833170]
 n3210451550  Малыя Канвелішкі / null / Малые Конвелишки / Малые Конвелишки
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
@@ -2091,9 +2095,9 @@ w267591812  Кульні / null / Кульни / Кульни
 w314958468  Абрамішкі / Abramiški / Абрамишки / Абрамишки
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : n3210426204[53.8978111,24.9712149] n3210426206[53.8982199,24.9688028] n3210426208[53.8986878,24.9690305] n3210426209[53.8989999,24.9671831] n3210426205[53.8978142,24.9666061] n3210426203[53.8975356,24.9682552] n3210426199[53.8966370,24.9678179] n3210426198[53.8963398,24.9695765] n3210426202[53.8969743,24.9698852] n3210426200[53.8966877,24.9715872] n3210426197[53.8962366,24.9719469] n3210426201[53.8968751,24.9742528] n3210426207[53.8983308,24.9730918] n3210426204[53.8978111,24.9712149]
-w314959105  null / null / Смильгини / Смильгини
+w314959105  Смільгіні / null / Смильгини / Смильгини
   other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | place=hamlet
     geometry : n3210429124[54.1426231,24.8187201] n3210429122[54.1419691,24.8178901] n3210429121[54.1415340,24.8188892] n3210429123[54.1421881,24.8197192] n3210429124[54.1426231,24.8187201]
 w314959955  Навасады / Navasady / Новосады / Новосады
-  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Навасады | place=hamlet
+  other tags : addr:country=BY | addr:district=Вороновский район | addr:region=Гродненская область | alt_name:be=Навасяды | place=hamlet
     geometry : n3210441425[54.1662988,25.3828238] n3210441419[54.1657189,25.3823916] n3210441414[54.1654860,25.3822180] n3210441412[54.1651285,25.3836171] n3210441410[54.1649752,25.3842172] n3210441420[54.1657880,25.3848231] n3210441425[54.1662988,25.3828238]
