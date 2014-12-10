@@ -94,6 +94,9 @@ n1365234459  Баранавічы / Baranovichi / Барановичи / Бар�
 n1422486394
   other tags : amenity=parking | parking=surface
     geometry : [53.1297111,26.0437161]
+n1447844517
+  other tags : amenity=cinema;marketplace
+    geometry : [53.1321348,26.0198727]
 n1447846266  null / null / Железнодорожный музей
   other tags : tourism=museum
     geometry : [53.1328237,26.0391122]
@@ -124,9 +127,6 @@ n2106319071  null / null / памятник коню
 n2106319727  null / null / Рай
   other tags : amenity=nightclub
     geometry : [53.1317611,26.0195294]
-n2106322298
-  other tags : amenity=marketplace
-    geometry : [53.1321348,26.0198727]
 n2106324138  null / null / памятник воробью
   other tags : historic=monument
     geometry : [53.1321667,26.0194114]
@@ -751,6 +751,15 @@ n3224545685
 n3224720583  null / null / Памятник пожарному автомобилю
   other tags : historic=monument
     geometry : [53.1478656,26.0399824]
+n3224752337  null / null / Страховая компания Би энд Би иншуренс
+  other tags : addr:city=Барановичи | addr:housenumber=8 | addr:postcode=225409 | addr:street=бульвар Хейнола | phone=+375 29 1217425 | website=bbinsurance.by
+    geometry : [53.1316483,26.0198605]
+n3224752339  null / null / жилой дом
+  other tags : addr:city=барановичи | addr:housenumber=32а | addr:street=1ый переулок Вильчковского
+    geometry : [53.1314820,25.9801032]
+n3224752340  null / null / жилой дом
+  other tags : addr:city=Барановичи | addr:housenumber=32 | addr:street=1ый переулок Вильчковского
+    geometry : [53.1314876,25.9797903]
 w24946729
   other tags : railway=rail | source=landsat | usage=main
     geometry : n271036363[53.1218690,25.9428947] n271036518[53.1148879,25.9406977]
