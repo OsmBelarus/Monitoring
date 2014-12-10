@@ -1187,7 +1187,7 @@ w210188285
   other tags : highway=residential | note=Проезд для автобусов и маршрутных такси | oneway=yes
     geometry : n2202939221[54.2827452,31.0005468] n2202939214[54.2822960,31.0016450] n2202939208[54.2819679,31.0012163] n2202939216[54.2824126,31.0002132]
 w210759959
-  other tags : highway=residential
+  other tags : highway=residential | maxspeed=60 | oneway=no
     geometry : n2208221118[54.2739960,30.9975701] n2614643681[54.2737400,31.0024554] n2208221121[54.2738392,31.0032664]
 w211412765
   other tags : highway=primary | maxspeed=90 | ref=Р123
