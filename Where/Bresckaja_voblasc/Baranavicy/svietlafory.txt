@@ -77,10 +77,10 @@ n3194537312  null / null / Красноармейская
   other tags : highway=bus_stop
     geometry : [53.1362804,26.0132540]
 n3194671744  null / null / улица Гагарина
-  other tags : highway=bus_stop
-    geometry : [53.1306609,26.0122725]
+  other tags : highway=bus_stop | operator=Автобусный парк №2 | shelter=yes
+    geometry : [53.1308169,26.0127312]
 n3194674795  null / null / улица Гагарина
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | operator=Автобусный парк №2 | shelter=no
     geometry : [53.1308089,26.0119882]
 n3195343404  null / null / Швейная фабрика
   other tags : highway=bus_stop
@@ -178,3 +178,9 @@ n3224705108
 n3224709881
   other tags : highway=bus_stop | operator=Автобусный парк №2 | shelter=yes
     geometry : [53.1281132,26.0034990]
+n3224712469
+  other tags : highway=bus_stop | operator=Автобусный парк №2 | shelter=no
+    geometry : [53.1289849,26.0063398]
+n3224714561
+  other tags : highway=bus_stop | operator=Автобусный парк №2 | shelter=yes
+    geometry : [53.1317728,26.0086167]
