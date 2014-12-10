@@ -449,7 +449,7 @@ w62323498  null / E 95 / null
   other tags : bridge=yes | highway=trunk | int_ref=E 95 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М8
     geometry : n275135533[54.6009167,30.4423570] n275135728[54.6000298,30.4426151]
 w62323502  null / E 95 / null
-  other tags : highway=trunk | int_ref=E 95 | lanes=2 | maxspeed=90 | oneway=yes | ref=М8
+  other tags : highway=trunk | int_ref=E 95 | lanes=2 | maxspeed=90 | oneway=yes | ref=М8 | surface=asphalt
     geometry : n1802965796[54.6145160,30.4379091] n275135535[54.6136481,30.4381708] n1802965793[54.6123766,30.4385497] n1802965791[54.6117205,30.4387484] n275135491[54.6110803,30.4389273] n1802965788[54.6080267,30.4398331] n1802965786[54.6057189,30.4405201] n1802965784[54.6048123,30.4408331] n275135534[54.6036691,30.4412974] n1802965782[54.6017499,30.4420853] n275135533[54.6009167,30.4423570]
 w68636954
   other tags : description=Смольяны - Репухово ч/з д. Поречье | highway=tertiary | ref=Н3141 | surface=unpaved
@@ -1679,7 +1679,7 @@ w120911899
   other tags : highway=path
     geometry : n1354555360[54.7203940,30.4355632] n275135320[54.7224700,30.4600200] n275135321[54.7227300,30.4620000]
 w120912367  null / E 95 / null
-  other tags : highway=trunk | int_ref=E 95 | lanes=2 | maxspeed=90 | oneway=yes | ref=М8
+  other tags : highway=trunk | int_ref=E 95 | lanes=2 | maxspeed=90 | oneway=yes | ref=М8 | surface=asphalt
     geometry : n275135536[54.6153643,30.4376741] n1802965796[54.6145160,30.4379091]
 w120912368  null / E 95 / null
   other tags : highway=trunk | int_ref=E 95 | maxspeed=90 | oneway=yes | ref=М8 | surface=asphalt
