@@ -27,7 +27,7 @@ n306069393  null / null / Жабчицы / Жабчицы
     geometry : [52.1366500,25.9885900]
 n306069456  Ясельда / Jasieĺda / Ясельда / Ясельда
   other tags : esr:user=133325 | railway=station
-    geometry : [52.1759992,26.2525712]
+    geometry : [52.1757855,26.2528124]
 n306069467
   other tags : tourism=viewpoint
     geometry : [52.1354500,26.1542400]
@@ -70,7 +70,7 @@ n1304330617
     geometry : [52.1992814,26.3111215]
 n1304330730
   other tags : railway=level_crossing
-    geometry : [52.1846778,26.2800670]
+    geometry : [52.1847271,26.2800000]
 n1366339026  Пінск / Pinsk / Пинск / Пинск
   other tags : height=142.1 | man_made=monitoring_station | ref=33019 | source=http://weather.gladstonefamily.net | website=http://meteoinfo.by/meteostation/?page=46
     geometry : [52.0999823,26.1000730]
@@ -272,6 +272,9 @@ n3189643170
 n3189643175
   other tags : man_made=water_well
     geometry : [52.0987216,25.9134221]
+n3226918563
+  other tags : railway=level_crossing
+    geometry : [52.1739732,26.2473645]
 w24946946
   other tags : railway=rail
     geometry : n443816842[52.1347561,26.1351706] n271036885[52.1350200,26.1363900] n271036884[52.1351000,26.1375900] n271036881[52.1350200,26.1379300] n271036880[52.1341600,26.1420500]
