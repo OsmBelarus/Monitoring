@@ -113,6 +113,9 @@ n310294592  null / null / Туловская
 n310295088
   other tags : barrier=bollard
     geometry : [55.1694900,30.1201481]
+n310297158
+  other tags : noexit=yes
+    geometry : [55.1953707,30.1469320]
 n310298401
   other tags : noexit=yes
     geometry : [55.1630668,30.1353081]
@@ -315,6 +318,12 @@ n674060109  Хладакамбінат / null / null / Хладокомбина�
 n676471286
   other tags : barrier=lift_gate
     geometry : [55.1690896,30.1957619]
+n677052668
+  other tags : noexit=yes
+    geometry : [55.1709298,30.2022473]
+n677052685
+  other tags : noexit=yes
+    geometry : [55.1705222,30.2028006]
 n683081979
   other tags : barrier=block
     geometry : [55.2240687,30.2530896]
@@ -3164,6 +3173,9 @@ n1814996916
 n1816212404
   other tags : noexit=yes
     geometry : [55.2096442,30.2268768]
+n1827188035
+  other tags : noexit=yes
+    geometry : [55.1701170,30.2027653]
 n1827516388
   other tags : addr:housenumber=14 | addr:street=Ручейный переулок
     geometry : [55.2065211,30.1816263]
@@ -6170,6 +6182,9 @@ n2755637450  null / null / фотоателье
 n2755645120  null / null / ремонт часов
   other tags : craft=clockmaker
     geometry : [55.1918460,30.2051848]
+n2758853209
+  other tags : noexit=yes
+    geometry : [55.1951397,30.1463246]
 n2758853223
   other tags : noexit=yes
     geometry : [55.1959647,30.1478416]
