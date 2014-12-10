@@ -59,7 +59,7 @@ n2496059274
   other tags : highway=bus_stop
     geometry : [53.1165825,26.0448517]
 n2841943683
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.1506349,26.0597351]
 n3057095177
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
@@ -97,3 +97,6 @@ n3223197812  null / null / улица Коммунистическая
 n3223255197  null / null / Дом школьника
   other tags : highway=bus_stop
     geometry : [53.1235126,26.0238796]
+n3224483663
+  other tags : highway=bus_stop | operator=Аўтобусны парк № 2 | shelter=yes
+    geometry : [53.1498249,26.0611504]
