@@ -380,7 +380,7 @@ w157658692
   other tags : addr:housenumber=15 | addr:street=улица Фрунзе | building=yes | building:levels=1
     geometry : n1699201997[54.8577906,29.1723557] n1699201971[54.8577063,29.1724767] n1699201963[54.8576421,29.1723419] n1699201985[54.8577264,29.1722208] n1699201997[54.8577906,29.1723557]
 w157658693
-  other tags : addr:housenumber=15-1 | addr:street=Цветочная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=151 | addr:street=Цветочная улица | building=yes | building:levels=1
     geometry : n1699200505[54.8483025,29.1647501] n1699200569[54.8483887,29.1648053] n1699200527[54.8483328,29.1650684] n1699200462[54.8482467,29.1650133] n1699200505[54.8483025,29.1647501]
 w157658694
   other tags : addr:housenumber=15А | addr:street=улица Лобанка | building=yes | building:levels=1
@@ -2488,3 +2488,6 @@ w314244405
 w316510732
   other tags : addr:housenumber=30 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n3226347437[54.8388996,29.2092747] n3226347435[54.8388228,29.2092084] n3226347436[54.8388567,29.2090900] n3226347438[54.8389335,29.2091563] n3226347437[54.8388996,29.2092747]
+w316520726
+  other tags : addr:housenumber=8 | addr:street=улица Гастелло | building=yes | building:levels=1
+    geometry : n3226438621[54.8616092,29.1560083] n3226438622[54.8616111,29.1562087] n3226438620[54.8615064,29.1562117] n3226438619[54.8615045,29.1560113] n3226438621[54.8616092,29.1560083]
