@@ -76,7 +76,7 @@ n456031323  Пажарная частка / null / Пожарная Часть
 n456031324  Стадыён / null / стадион / Стадион
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4508569,30.9658323]
-n456031333  ПК Гомсельмаша / null / ДК Гомсельмаша
+n456031333  ПК Гомсельмаша / null / ПК Гомсельмаша / ДК Гомсельмаша
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4470204,30.9712916]
 n456054756  null / null / стадион Локомотив
@@ -253,7 +253,7 @@ n795714518  Маладзёжны / null / Молодежная
 n795714520  Электратэхнічны завод / null / Электотехнический Завод
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4405035,30.9779968]
-n795714528  ПК Гомсельмаша / null / ДК Гомсельмаша
+n795714528  ПК Гомсельмаша / null / ПК Гомсельмаша / ДК Гомсельмаша
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4478643,30.9695422]
 n795714529  null / null / Автоцентр "Рено"
@@ -407,7 +407,7 @@ n994375262  null / null / Западный
 n994375295
   other tags : highway=bus_stop
     geometry : [52.4373372,30.9582427]
-n1067479560  вуліца Барыса Царыкава / vulica Barysa Carykava / улица Бориса Царикова / улица Бориса Царикова
+n1067479560  вуліца Барыса Царыкава / vulica Barysa Carykava / вуліца Барыса Царыкава / улица Бориса Царикова
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4466902,30.9600721]
 n1080315958  вуліца 50 год заводу Гомсельмаш / vulica 50 hod zavodu Homsieĺmaš / улица 50 лет заводу Гомсельмаш / улица 50 лет заводу Гомсельмаш
@@ -630,7 +630,7 @@ n1334775313  null / null / Торговый дом "Речицкий"
 n1334775333  null / null / Инженерный институт МЧС
   other tags : highway=bus_stop
     geometry : [52.4087318,30.9361569]
-n1360131325  Рынак "Сельмашаўскі" / null / Рынок "Сельмашевский" / Рынок "Сельмашевский"
+n1360131325  Рынак "Сельмашаўскі" / null / Рынак "Сельмашаўскі" / Рынок "Сельмашевский"
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4473296,30.9693824]
 n1361126003  null / null / Гипермаркет
@@ -747,13 +747,13 @@ n2166687359  null / null / Колледж Народных промыслов
 n2166687360  Завод станочных вузлоў / null / Завод станочных узлов
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4448749,30.9437533]
-n2166687361  Завод станочных вузлоў / null / Завод станочных узлов
+n2166687361  Завод станочных вузлоў / null / Завод станочных вузлоў / Завод станочных узлов
   other tags : highway=bus_stop | public_transport=platform
     geometry : [52.4456401,30.9445911]
-n2166687362  магазін "1000 дробязяў" / null / магазин "1000 мелочей"
+n2166687362  Магазін "1000 дробязяў" / null / Магазін "1000 дробязяў" / Магазин "1000 мелочей"
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [52.4459182,30.9525778]
-n2166687363  магазін "1000 дробязяў" / null / магазин "1000 мелочей"
+n2166687363  Магазін "1000 дробязяў" / null / Магазін "1000 дробязяў" / Магазин "1000 мелочей"
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [52.4461042,30.9510809]
 n2166791105  null / null / улица Чернышевского
@@ -795,10 +795,10 @@ n2445805212  null / null / Автосервис
 n2445805217  null / null / Автосервис
   other tags : highway=bus_stop
     geometry : [52.4786718,30.9868065]
-n2662965586  Рынак "Сельмашаўскі" / null / Рынок "Сельмашевский" / Рынок "Сельмашевский"
+n2662965586  Рынак "Сельмашаўскі" / null / Рынак "Сельмашаўскі" / Рынок "Сельмашевский"
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4469725,30.9680212]
-n2662968072  вуліца Барыса Царыкава / vulica Barysa Carykava / улица Бориса Царикова / улица Бориса Царикова
+n2662968072  вуліца Барыса Царыкава / vulica Barysa Carykava / вуліца Барыса Царыкава / улица Бориса Царикова
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.4465045,30.9617253]
 n2665572884  null / null / Центролит
