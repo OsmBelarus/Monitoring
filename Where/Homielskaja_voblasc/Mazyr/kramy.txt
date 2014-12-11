@@ -189,11 +189,8 @@ n2150148547
   other tags : shop=kiosk
     geometry : [52.0395787,29.2713734]
 n2150192831
-  other tags : shop=alcohol
+  other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=alcohol
     geometry : [52.0475834,29.2670207]
-n2150192832
-  other tags : shop=hifi
-    geometry : [52.0476726,29.2671870]
 n2150258967
   other tags : shop=laundry
     geometry : [52.0265613,29.2263498]
@@ -362,3 +359,12 @@ n3224886555  null / null / Надэкс
 n3224886556  null / null / Мир мебели
   other tags : addr:housenumber=47 | addr:street=Пролетарская улица | shop=furniture
     geometry : [52.0519164,29.2448643]
+n3227912919
+  other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=bookmaker
+    geometry : [52.0475486,29.2669925]
+n3227912920  null / null / Центр слуха
+  other tags : addr:housenumber=9 | addr:street=Ленинская улица | shop=hearing_aids
+    geometry : [52.0458990,29.2636934]
+n3227912929
+  other tags : addr:housenumber=19 | addr:street=Ленинская улица | shop=optician
+    geometry : [52.0455327,29.2615047]
