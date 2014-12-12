@@ -10,9 +10,6 @@ n577368227
 n1194011578
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [52.4750869,30.9691150]
-n3011144026
-  other tags : amenity=place_of_worship | building=church | religion=christian
-    geometry : [52.3454599,30.9677600]
 w125084864  null / null / Ереминская провославная церковь
   other tags : amenity=place_of_worship | building=yes
     geometry : n1390113835[52.5096447,30.9454061] n1390113848[52.5098410,30.9454030] n1390113852[52.5098436,30.9458497] n1390113839[52.5096473,30.9458528] n1390113835[52.5096447,30.9454061]
@@ -22,3 +19,6 @@ w238647832  null / null / Церковь Рождества Пресвятой �
 w316773456  null / null / Церковь
   other tags : addr:street=Приозёрная улица | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
     geometry : n3229536937[52.3672703,31.0004220] n3229536935[52.3672002,31.0004275] n3229536936[52.3672037,31.0005489] n3229536938[52.3672738,31.0005434] n3229536937[52.3672703,31.0004220]
+w316773685  null / null / Церковь
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : n3229535866[52.3454769,30.9675401] n3229535864[52.3453709,30.9677573] n3229535865[52.3454648,30.9678801] n3229535867[52.3455708,30.9676629] n3229535866[52.3454769,30.9675401]
