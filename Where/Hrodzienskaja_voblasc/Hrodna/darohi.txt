@@ -17337,6 +17337,9 @@ w316634374  вуліца Волкава / vulica Volkava / улица Волко
 w316643996
   other tags : construction=secondary | highway=construction | lanes=3 | oneway=yes | surface=asphalt
     geometry : n320744547[53.6348522,23.8094990] n3227864910[53.6357139,23.8104836] n559719002[53.6358713,23.8106633]
+w317073308
+  other tags : highway=footway
+    geometry : n320675094[53.6527807,23.7765723] n3232930571[53.6525545,23.7763076]
 r1069579  Савецкая плошча / null / Советская площадь / Советская площадь
   other tags : highway=pedestrian | layer=-1 | source=survey | surface=paving_stones | type=multipolygon
     geometry : <outer> w67614643: n816749312[53.6775667,23.8288729] n816814446[53.6776297,23.8288887] n816749176[53.6782344,23.8290407] : w67614643
