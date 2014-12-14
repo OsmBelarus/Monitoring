@@ -199,8 +199,8 @@ n1354459637  Струпкі / Strupki / Струпки / Струпки
 n1354459640  Лявонаўцы / Liavonaŭcy / Леоновцы / Леоновцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
     geometry : [55.5933509,27.5572269]
-n1354459680  Мёркі 2 / null / Миорки 2-е / Миорки 2-е
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
+n1354459680  Мёркі 2 / null / Мёрки 2 / Миорки 2-е
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Миорки 2 | place=isolated_dwelling
     geometry : [55.5986322,27.6048531]
 n1392961510
   other tags : railway=level_crossing
@@ -391,12 +391,6 @@ n2910203778  null / null / Petrol station Bielneftekhi.
 n2920627997
   other tags : amenity=hunting_stand
     geometry : [55.5701521,27.3516515]
-n3110518962  null / null / Наталино / Наталино
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
-    geometry : [55.6474480,27.6335165]
-n3110520769  null / null / Вороньки / Вороньки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
-    geometry : [55.6933267,27.7534465]
 n3194317234  null / null / Частный земельный участок
   other tags : 
     geometry : [55.7160363,27.5668621]
@@ -527,8 +521,8 @@ w25127130  Маласць / Malasć / Малость / Малость
 w25127138  Гентава / Hientava / Гентово / Гентово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
     geometry : n273680982[55.5900532,27.4958282] n273680984[55.5903132,27.4953182] n273680986[55.5902232,27.4948882] n273680987[55.5905632,27.4907682] n273680990[55.5898832,27.4893082] n273680991[55.5874731,27.4893082] n273681005[55.5872231,27.4947982] n273681008[55.5883331,27.4949682] n273680982[55.5900532,27.4958282]
-w25127142  Мёркі 2 / null / Миорки 2-е / Миорки 2-е
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
+w25127142  Мёркі 2 / null / Мёрки 2 / Миорки 2-е
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Миорки 2 | place=isolated_dwelling
     geometry : n273681043[55.6006000,27.6051200] n273681045[55.6000000,27.6052100] n273681047[55.6000000,27.6030600] n273681048[55.5988900,27.6029800] n273681050[55.5984600,27.6014300] n273681052[55.5973400,27.6004900] n273681053[55.5964000,27.6014300] n273681055[55.5964000,27.6031500] n2939401541[55.5970511,27.6049172] n273681059[55.5980300,27.6063300] n273681062[55.5981100,27.6076100] n273681063[55.6006000,27.6077900] n273681043[55.6006000,27.6051200]
 w25127143  Махіроўка / Machiroŭka / Махировка / Махировка
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
