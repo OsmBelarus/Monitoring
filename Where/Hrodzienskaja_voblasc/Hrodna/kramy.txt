@@ -65,7 +65,7 @@ n320409756  1000 дробязей / null / 1000 мелочей / 1000 мелоч
     geometry : [53.6712220,23.7929714]
 n320409764  null / null / Охота и рыбалка
   other tags : shop=specialized
-    geometry : [53.6710200,23.8008300]
+    geometry : [53.6711032,23.8008735]
 n320409771  Свіслач / null / Свислочь / Свислочь
   other tags : shop=convenience
     geometry : [53.6704900,23.7965391]
@@ -348,9 +348,6 @@ n827259278  null / null / Каскад
 n827272342  null / null / Респект
   other tags : shop=mobile_phone
     geometry : [53.6699499,23.8030573]
-n827272347  null / null / Очик, контактные линзы
-  other tags : shop=optician
-    geometry : [53.6711067,23.8008257]
 n846852279  Кнігі / null / null
   other tags : fixme:komzpa=добавить русское имя | shop=books | source=survey
     geometry : [53.6694830,23.8226970]
@@ -941,8 +938,8 @@ n2264596867  null / null / Виктория
 n2267020039
   other tags : shop=convenience
     geometry : [53.6747493,23.7732830]
-n2267020040  null / null / "Юлия"
-  other tags : addr:street=улица Советских Пограничников | shop=hairdresser
+n2267020040  null / null / Очки. Контактные линзы
+  other tags : addr:street=улица Советских Пограничников | shop=optician
     geometry : [53.6710647,23.7981033]
 n2267024520  null / null / "Литровик"
   other tags : shop=alcohol
