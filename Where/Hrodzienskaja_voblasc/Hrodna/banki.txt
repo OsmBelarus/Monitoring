@@ -25,9 +25,6 @@ n320409734  null / null / Беларусбанк
 n320409752  null / null / Беларусбанк 400/088
   other tags : amenity=bank | atm=yes
     geometry : [53.6718395,23.8194043]
-n320409760  null / null / Белагропромбанк
-  other tags : amenity=bank
-    geometry : [53.6711880,23.7993900]
 n320409765  Беларусбанк / null / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes
     geometry : [53.6708828,23.8079073]
@@ -160,6 +157,9 @@ n2637881425  null / null / Белинвестбанк, пункт
 n2958909571  null / null / Белинвестбанк
   other tags : addr:housenumber=13 | addr:street=улица Кабяка | amenity=bank | atm=yes
     geometry : [53.6434128,23.8515248]
+n3236277324  null / null / Белагропромбанк
+  other tags : amenity=bank
+    geometry : [53.6711240,23.7998313]
 w29124816
   other tags : addr:housenumber=34 | addr:street=бульвар Ленинского Комсомола | amenity=bank | building=yes | building:levels=1
     geometry : n320414203[53.6980430,23.8115670] n320414205[53.6979139,23.8116100] n320414206[53.6978640,23.8111950] n320414204[53.6979940,23.8111510] n320414203[53.6980430,23.8115670]

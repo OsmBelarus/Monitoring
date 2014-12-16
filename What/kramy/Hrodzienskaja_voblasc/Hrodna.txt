@@ -63,9 +63,9 @@ n320409756  1000 дробязей / null / 1000 мелочей / 1000 мелоч
   other names: name:uk=1000 дрібниць
   other tags : shop=garden_centre
     geometry : [53.6712220,23.7929714]
-n320409764  null / null / Охота и рыбалка
+n320409764  null / null / "Успех рыболова"
   other tags : shop=specialized
-    geometry : [53.6711032,23.8008735]
+    geometry : [53.6711805,23.8010140]
 n320409771  Свіслач / null / Свислочь / Свислочь
   other tags : shop=convenience
     geometry : [53.6704900,23.7965391]
@@ -938,8 +938,8 @@ n2264596867  null / null / Виктория
 n2267020039
   other tags : shop=convenience
     geometry : [53.6747493,23.7732830]
-n2267020040  null / null / Очки. Контактные линзы
-  other tags : addr:street=улица Советских Пограничников | shop=optician
+n2267020040  null / null / "Оптика"
+  other tags : addr:housenumber=112 | addr:street=улица Советских Пограничников | shop=optician
     geometry : [53.6710647,23.7981033]
 n2267024520  null / null / "Литровик"
   other tags : shop=alcohol
@@ -1256,3 +1256,6 @@ n3147980244  null / null / Кулинария
 n3147980245  null / null / Кругозор
   other tags : shop=books
     geometry : [53.6983295,23.8075848]
+n3236277322  null / null / Прачечная
+  other tags : shop=laundry
+    geometry : [53.6703295,23.8018029]
