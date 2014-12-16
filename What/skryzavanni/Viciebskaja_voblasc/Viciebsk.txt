@@ -119,7 +119,7 @@ n356933470
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1791397,30.2457788]
 n356933489
-  other tags : crossing=traffic_signals | crossing_ref=puffin | highway=crossing
+  other tags : button_operated=yes | crossing=traffic_signals | crossing_ref=puffin | highway=crossing
     geometry : [55.1886355,30.2326289]
 n360012959
   other tags : crossing=uncontrolled | highway=crossing
@@ -881,7 +881,7 @@ n1387886902
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1994596,30.1834737]
 n1397107616
-  other tags : crossing=traffic_signals | crossing_ref=puffin | highway=crossing
+  other tags : button_operated=yes | crossing=traffic_signals | crossing_ref=puffin | highway=crossing
     geometry : [55.1886482,30.2325343]
 n1397107638
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
@@ -1214,10 +1214,10 @@ n1856697588
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1733455,30.2490373]
 n1861121930
-  other tags : crossing=traffic_signals | crossing_ref=puffin | highway=crossing
+  other tags : button_operated=yes | crossing=traffic_signals | crossing_ref=puffin | highway=crossing
     geometry : [55.1945600,30.2372736]
 n1861121933
-  other tags : crossing=traffic_signals | crossing_ref=puffin | highway=crossing
+  other tags : button_operated=yes | crossing=traffic_signals | crossing_ref=puffin | highway=crossing
     geometry : [55.1946524,30.2372470]
 n1861121943
   other tags : crossing=traffic_signals | highway=crossing
