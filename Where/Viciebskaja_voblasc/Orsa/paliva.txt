@@ -4,11 +4,11 @@ n306065808
 n306065910
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes
     geometry : [54.4823400,30.3801800]
-n306066009  null / null / Белнефтехим №65
-  other tags : amenity=fuel | brand=Белнефтехим | fuel:diesel=yes | fuel:octane_91=yes | operator=Белнефтехим
+n306066009  Беларуснафта №65 / Belorusneft №65 / Белоруснефть №65 / Белоруснефть №65
+  other tags : amenity=fuel | brand=Белнефтехим | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белнефтехим | phone=+375-216-266057 | website=http://www.belorusneft.by/
     geometry : [54.4871005,30.4369947]
 n306066017  Беларуснафта №48 / Belorusneft №48 / Белоруснефть №48 / Белоруснефть №48
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-261082 | website=http://beloil.by/
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-261082 | website=http://www.belorusneft.by/
     geometry : [54.5413546,30.4472443]
 n1106506999
   other tags : amenity=fuel | fuel:lpg=yes
@@ -17,13 +17,13 @@ n1263184938  АГНКС Ворша / null / АГНКС Орша / АГНКС О�
   other tags : amenity=fuel | fuel:cng=yes | opening_hours=24/7 | operator=Белтрансгаз | phone=+375-216-291761, +375-216-244475 | website=http://www.metan.by/
     geometry : [54.5489856,30.4555756]
 n2568824443  Беларуснафта №51 / Belorusneft №51 / Белоруснефть №51 / Белоруснефть №51
-  other tags : addr:street=Пограничная улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-268823 | website=http://beloil.by/
+  other tags : addr:street=Пограничная улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-268823 | website=http://www.belorusneft.by/
     geometry : [54.5217436,30.4037878]
 n2568824444  Беларуснафта №51 / Belorusneft №51 / Белоруснефть №51 / Белоруснефть №51
-  other tags : addr:street=Пограничная улица | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | phone=+375-216-268823 | website=http://beloil.by/
+  other tags : addr:street=Пограничная улица | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | phone=+375-216-268823 | website=http://www.belorusneft.by/
     geometry : [54.5219926,30.4044590]
 n2568844292  Беларуснафта №48 / Belorusneft №48 / Белоруснефть №48 / Белоруснефть №48
-  other tags : addr:housenumber=214 | addr:street=улица Ленина | amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | opening_hours=24/7 | phone=+375-216-261082 | website=http://beloil.by/
+  other tags : addr:housenumber=214 | addr:street=улица Ленина | amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | opening_hours=24/7 | phone=+375-216-261082 | website=http://www.belorusneft.by/
     geometry : [54.5409916,30.4476414]
 n2568844294  null / null / Газпромнефть №43 / Газпромнефть №43
   other tags : addr:housenumber=221А | addr:street=улица Ленина | amenity=fuel | fuel:lpg=yes | phone=+375-216-268742 | website=http://azs.gazprom-neft.by/
@@ -39,4 +39,4 @@ w310990033  null / null / АЗС
     geometry : n3165008624[54.5273773,30.4376112] n3165008625[54.5271838,30.4386438] n3165008626[54.5268913,30.4384324] n3165008627[54.5270564,30.4377088] n3165008624[54.5273773,30.4376112]
 w310990226  null / null / АГЗС №51
   other tags : amenity=fuel | building=yes | operator=Белоруснефть
-    geometry : n3165012974[54.5213074,30.4040953] n3165012975[54.5216001,30.4034882] n3165012976[54.5218386,30.4034975] n3165012977[54.5220338,30.4038618] n3165012978[54.5220555,30.4042447] n3165012979[54.5218874,30.4047958] n3165012974[54.5213074,30.4040953]
+    geometry : n3165012974[54.5213074,30.4040953] n3165012975[54.5216001,30.4034882] n3165012976[54.5218386,30.4034975] n3165012977[54.5220338,30.4038618] n3165012978[54.5220811,30.4043168] n3165012979[54.5219455,30.4048238] n3165012974[54.5213074,30.4040953]
