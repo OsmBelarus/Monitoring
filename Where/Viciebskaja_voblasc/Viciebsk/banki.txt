@@ -209,9 +209,9 @@ n2509501360  null / null / Хоум Кредит Банк
 n2635025340
   other tags : amenity=bank | opening_hours=Mo-Fr 09:30-13:00, 14:00-17:30 | operator=Беларусбанк
     geometry : [55.1640530,30.1873837]
-n2820098954  Белаграпрамбанк / null / null / Белагропромбанк
-  other tags : amenity=bank | operator=Белагропромбанк
-    geometry : [55.1709533,30.2579190]
+n2820098954  Белаграпрамбанк / null / Белагропромбанк / Белагропромбанк
+  other tags : amenity=bank | contact:email=info@belapb.by | contact:phone=+375(212) 43-66-23, +375(212) 43-65-97 | contact:website=http://www.belapb.by/ | official_name=Расчётно-кассовый центр № 14 | opening_hours=Mo-Fr 09:40-13:00,14:00-18:30; Sa 09:40-12:30,13:15-16:00 | operator=ОАО «Белагропромбанк»
+    geometry : [55.1709582,30.2578888]
 n3067840544  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | operator=Беларусбанк
     geometry : [55.1610130,30.2174984]

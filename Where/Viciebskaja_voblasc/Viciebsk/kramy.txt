@@ -967,8 +967,8 @@ n1345287669  null / null / Первый
   other tags : opening_hours=08:00-22:30 | shop=convenience
     geometry : [55.1692419,30.2572309]
 n1345693879  null / null / Автозапчасти
-  other tags : shop=car_parts
-    geometry : [55.1709036,30.2579170]
+  other tags : opening_hours=Mo-Fr 08:30-19:00; Sa 08:30-15:00 | operator=ОДО «БилевАвто», ИП Соловьёв М. В. | shop=car_parts
+    geometry : [55.1709085,30.2578868]
 n1355206399  null / null / Фотопечать
   other tags : description=печать на разных носителях | shop=copyshop
     geometry : [55.1808460,30.2018621]
@@ -2660,7 +2660,7 @@ n2814939042  null / null / ВитарТур
     geometry : [55.1990377,30.2066415]
 n2823453960  null / null / Autosnab.by
   other tags : email=info@autosnab.by | operator=ЧТУП «Айман» | phone=+375292145145, +375291456145, +375212482040 | shop=car_parts | website=http://autosnab.by/
-    geometry : [55.1850829,30.2350826]
+    geometry : [55.1850786,30.2350322]
 n2824230907  null / null / Wildberries
   other tags : opening_hours=10:00-20:00 | phone=+375-17-3591900, добавочный 3011 | shop=clothes | website=http://www.wildberries.by/
     geometry : [55.2031296,30.2088806]
@@ -2930,7 +2930,7 @@ n2949719572  null / null / Эгоист
     geometry : [55.1808346,30.2019527]
 n2954678453  null / null / Крошка-маркет
   other tags : opening_hours=Mo-Su 08:00-22:00 | shop=convenience
-    geometry : [55.1873329,30.2330877]
+    geometry : [55.1873410,30.2330486]
 n2954678454  null / null / Хоз Сити
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-18:00 | operator=ЧТУП «Цыален» | shop=houseware
     geometry : [55.1908876,30.2489123]
@@ -3176,8 +3176,8 @@ n3097156348  null / null / Веста № 69
   other tags : opening_hours=Mo-Sa 12:00-19:00 | shop=deli
     geometry : [55.1929440,30.1915649]
 n3103286529  null / null / Ремонт одежды
-  other tags : craft=dressmaker | shop=tailor
-    geometry : [55.1856865,30.2351690]
+  other tags : craft=dressmaker | opening_hours=Mo-Fr 09:00-18:00 | shop=tailor
+    geometry : [55.1856909,30.2351462]
 n3103594327  null / null / B-flexy
   other tags : contact:phone=+ 375(29) 717-69-72 | description=массажный салон | shop=massage
     geometry : [55.1958768,30.2284353]
