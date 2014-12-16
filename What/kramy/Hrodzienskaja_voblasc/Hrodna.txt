@@ -78,21 +78,21 @@ n320409776
 n320409779  Кастрычніцкі / null / Октябрьский / Октябрьский
   other tags : shop=convenience
     geometry : [53.6700190,23.8174777]
-n320409786
+n320409786  null / null / 1000 мелочей (Мебельный)
   other tags : shop=furniture
-    geometry : [53.6687310,23.7908090]
+    geometry : [53.6687244,23.7908556]
 n320409788  null / null / Дисконт
   other tags : shop=convenience
     geometry : [53.6685330,23.8008490]
 n320409789  null / null / Магазин Кастрычник
   other tags : shop=convenience
-    geometry : [53.6684490,23.7901400]
+    geometry : [53.6684486,23.7901867]
 n320409800  Будматэрыялы / null / Стройматериалы / Стройматериалы
   other tags : shop=garden_centre
     geometry : [53.6671542,23.7827163]
 n320409803  null / null / Родная сторона
   other tags : shop=convenience
-    geometry : [53.6669120,23.7887930]
+    geometry : [53.6666573,23.7888655]
 n320409806  Космас / null / Космос / Космос
   other tags : shop=convenience
     geometry : [53.6667362,23.8000191]
@@ -768,8 +768,8 @@ n1771715315  null / null / "Мой ребёнок"
   other tags : addr:housenumber=45 | addr:street=улица Врублевского | shop=supermarket
     geometry : [53.7057735,23.8065619]
 n1774676581  null / null / Торговый центр "Фламинго"
-  other tags : shop=supermarket
-    geometry : [53.6632416,23.7848483]
+  other tags : entrance=yes | shop=supermarket
+    geometry : [53.6633290,23.7846343]
 n1776371495  null / null / Клеопатра
   other tags : shop=hairdresser
     geometry : [53.6713783,23.7968187]
@@ -1268,3 +1268,9 @@ n3236313713  null / null / Цветы 24 часа
 n3236313714  null / null / Изготовление ключей
   other tags : shop=locksmith
     geometry : [53.6717618,23.7989644]
+n3236339905  null / null / Крепёж
+  other tags : shop=doityourself
+    geometry : [53.6704317,23.7922071]
+n3236339921  null / null / "Буслiк"
+  other tags : shop=baby_goods
+    geometry : [53.6631413,23.7846362]
