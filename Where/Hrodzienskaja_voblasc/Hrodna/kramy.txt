@@ -386,8 +386,8 @@ n1089317932  null / null / Евроопт
   other tags : addr:floor=0 | shop=supermarket
     geometry : [53.6932169,23.8320840]
 n1099521666  null / null / Алми
-  other tags : shop=supermarket
-    geometry : [53.6717317,23.7989212]
+  other tags : entrance=yes | shop=supermarket
+    geometry : [53.6719563,23.7990399]
 n1125070642
   other tags : shop=yes
     geometry : [53.7197354,23.8465226]
@@ -1259,3 +1259,12 @@ n3147980245  null / null / Кругозор
 n3236277322  null / null / Прачечная
   other tags : shop=laundry
     geometry : [53.6703295,23.8018029]
+n3236313712  null / null / "Алло"
+  other tags : shop=mobile_phone
+    geometry : [53.6718023,23.7989792]
+n3236313713  null / null / Цветы 24 часа
+  other tags : shop=florist
+    geometry : [53.6718477,23.7989985]
+n3236313714  null / null / Изготовление ключей
+  other tags : shop=locksmith
+    geometry : [53.6717618,23.7989644]
