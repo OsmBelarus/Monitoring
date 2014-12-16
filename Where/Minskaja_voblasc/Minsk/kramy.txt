@@ -3328,7 +3328,7 @@ n1116601124  null / null / Кумир / Кумир
 n1116663794  null / null / Соседи / Событие
   other tags : opening_hours=9:00-22:00 | shop=department_store
     geometry : [53.9499761,27.6106521]
-n1116894350  null / null / Мясная кулинария "Гурман"
+n1116894350  null / null / Мясная кулинария «Гурман»
   other tags : shop=butcher
     geometry : [53.8993743,27.5601903]
 n1118728916  Буслік / null / Буслик / Буслик
@@ -3395,7 +3395,7 @@ n1123480219  null / null / Гастроном №5 / Гастроном №5
   other tags : shop=convenience
     geometry : [53.9269297,27.5953667]
 n1126565831  Цэнтральная / null / Центральный / Центральный
-  other tags : opening_hours=10:00-21:00 | shop=books
+  other tags : addr:city=19 | addr:street=проспект Независимости | opening_hours=10:00-21:00 | shop=books
     geometry : [53.8994368,27.5559980]
 n1128459680  null / null / Путейный
   other tags : opening_hours=08:00-22:00 | shop=convenience
@@ -5199,7 +5199,7 @@ n1714198219  null / null / Продуктовый магазин
 n1716486953  null / null / United Company
   other tags : shop=garden_centre
     geometry : [53.8450053,27.4708040]
-n1720525454  null / null / ООО "Билетик"
+n1720525454  null / null / ООО «Билетик»
   other tags : addr:street=Октябрьская улица | description=Продажа билетов на концерты | opening_hours=Mo-Fr 09:00-18:00 | shop=ticket | website=http://www.bileti.by/
     geometry : [53.8908781,27.5732245]
 n1721668924  null / null / Шиномонтаж
@@ -8647,7 +8647,7 @@ n3143682779  null / null / "Alladen"
 n3143690193  null / null / Окей
   other tags : shop=shoes
     geometry : [53.8929302,27.5516297]
-n3143692755  null / null / "Луч"
+n3143692755  null / null / «Луч»
   other tags : shop=shoes
     geometry : [53.8927486,27.5524370]
 n3143694629  null / null / Верони
