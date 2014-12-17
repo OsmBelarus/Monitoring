@@ -2759,7 +2759,7 @@ w227024271
   other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=90 | ref=Р51 | surface=asphalt
     geometry : n2357544286[53.6160982,24.6925377] n2357544283[53.6155128,24.6927797]
 w227024272
-  other tags : highway=motorway_link | lanes=1 | oneway=yes | surface=asphalt
+  other tags : highway=primary | lanes=1 | oneway=yes | surface=asphalt
     geometry : n2357544289[53.6170762,24.6945569] n3007703634[53.6168328,24.6945986] n2357544285[53.6166007,24.6945870] n2357544284[53.6164129,24.6943985]
 w227024273
   other tags : hgv=designated | highway=primary | lanes=3 | maxspeed=90 | ref=Р51 | surface=asphalt
@@ -2900,7 +2900,7 @@ w235385041
   other tags : highway=track
     geometry : n578113423[53.7204129,24.5215930] n2434521779[53.7204027,24.5213924] n2434521781[53.7204201,24.5207934] n2434521784[53.7205525,24.5180292] n2434521786[53.7205835,24.5172211]
 w235391739
-  other tags : highway=motorway_link | lanes=1 | oneway=yes | surface=asphalt
+  other tags : highway=primary | lanes=1 | oneway=yes | surface=asphalt
     geometry : n2434574932[53.6136785,24.6935769] n2434574934[53.6147340,24.6936531] n2434574935[53.6154976,24.6938369] n2434574936[53.6159112,24.6941204] n2434574937[53.6162799,24.6945235]
 w235392754
   other tags : highway=track
