@@ -1,7 +1,7 @@
 n255915640
   other tags : highway=bus_stop
     geometry : [53.9166872,27.3302226]
-n275320174  null / null / ул. Путейская
+n275320174  null / null / Путейская улица
   other tags : highway=bus_stop
     geometry : [53.9489296,27.7818752]
 n275320176  null / null / ж/д ст. Колодищи
@@ -61,7 +61,7 @@ n439285504  null / null / аг. Лесной
 n439285519  null / null / аг. Лесной
   other tags : highway=bus_stop | shelter=yes
     geometry : [54.0050203,27.6769957]
-n439285523  null / null / аг. Лесной
+n439285523  null / null / Посёлок Лесной
   other tags : highway=bus_stop | shelter=yes
     geometry : [54.0054299,27.6780653]
 n439285530  null / null / аг. Лесной
@@ -109,7 +109,7 @@ n442889826  Экспацэнтр / null / Экспоцентр
 n455943009
   other tags : highway=bus_stop
     geometry : [54.1149576,27.2374531]
-n476263404  null / null / Тарасово-1
+n476263404  null / null / Садовая
   other tags : description=242; 1242 | highway=bus_stop | website=http://tarasovo.hram.by/download/TP_sched_transp.doc
     geometry : [53.9176506,27.3901231]
 n489458352
@@ -118,16 +118,16 @@ n489458352
 n489465400  null / null / Сосновый
   other tags : highway=bus_stop
     geometry : [53.8293790,27.7001590]
-n499482687  Мінская / null / Минская / Минская
+n499482687  Мінская / null / улица Геофизика / Минская
   other tags : highway=bus_stop
     geometry : [53.9497378,27.7591628]
-n499482689  Мінская / null / Минская / Минская
+n499482689  Мінская / null / улица Геофизика / Минская
   other tags : highway=bus_stop
     geometry : [53.9498043,27.7597285]
-n499482690  null / null / Петровская
+n499482690  null / null / Петровский переулок
   other tags : highway=bus_stop
     geometry : [53.9482834,27.7449070]
-n499482691  null / null / Петровская
+n499482691  null / null / Петровский переулок
   other tags : highway=bus_stop
     geometry : [53.9479771,27.7443035]
 n519909600  Радыёцэнтр / null / Радиоцентр / Радиоцентр
@@ -404,22 +404,22 @@ n767184148  null / null / база "Коммунальник"
 n767184162  null / null / 1-е ворота
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9851500,27.5356100]
-n767485283  null / null / Тарасово-2
+n767485283  null / null / Тарасово
   other tags : highway=bus_stop | website=http://tarasovo.hram.by/download/TP_sched_transp.doc
     geometry : [53.9240930,27.3834450]
 n767485924  null / null / Тарасово-1
   other tags : description=242; 1242 | highway=bus_stop | website=http://tarasovo.hram.by/download/TP_sched_transp.doc
     geometry : [53.9213411,27.3901172]
-n803817102  вуліца К. Астрожскага / null / ул. К. Острожского / ул. К. Острожского
+n803817102  вуліца К. Астрожскага / null / улица Острожского / ул. К. Острожского
   other tags : bench=yes | highway=bus_stop | shelter=no
     geometry : [53.9491226,27.7502591]
-n803817103  вуліца К. Астрожскага / null / ул. К. Острожского / ул. К. Острожского
+n803817103  вуліца К. Астрожскага / null / улица Острожского / ул. К. Острожского
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.9489850,27.7484773]
 n808568170  null / null / пов. Вербицкие
   other tags : highway=bus_stop
     geometry : [54.0218543,27.6734507]
-n814012858  null / null / ул. Путейская
+n814012858  null / null / Путейская улица
   other tags : highway=bus_stop
     geometry : [53.9497772,27.7827135]
 n817806216  Прывольны / null / Привольный / Привольный
@@ -721,16 +721,16 @@ n1349700346  null / null / ул. Хвойная
 n1359186738  null / null / Волмянский шлях
   other tags : highway=bus_stop
     geometry : [53.9502412,27.8007413]
-n1359186739  null / null / ул. Путейская
+n1359186739  null / null / Путейская улица
   other tags : highway=bus_stop
     geometry : [53.9500191,27.7840868]
 n1363867487  null / null / улица 40 лет Победы / улица 40 лет Победы
   other tags : highway=bus_stop
     geometry : [53.9902545,27.6767212]
-n1367053815  null / null / Октябрьская / Октябрьская
+n1367053815  null / null / Октябрьская улица / Октябрьская
   other tags : highway=bus_stop
     geometry : [53.9529356,27.7662705]
-n1367053819  null / null / Октябрьская / Октябрьская
+n1367053819  null / null / Октябрьская улица / Октябрьская
   other tags : highway=bus_stop
     geometry : [53.9529848,27.7666572]
 n1378089747  null / null / поворот на Сельхоз посёлок "Большевик"
@@ -892,7 +892,7 @@ n1686374240  null / null / Ул. Строителей
 n1686374279  null / null / Ул. Строителей
   other tags : highway=bus_stop
     geometry : [53.8413217,27.3972854]
-n1692358230  null / null / магазин
+n1692358230  null / null / Магазин
   other tags : highway=bus_stop
     geometry : [53.8406940,27.3932254]
 n1692362169  null / null / Озерцо
@@ -1000,7 +1000,7 @@ n1938799528  null / null / ст. Радошковичи
 n1944859189
   other tags : highway=bus_stop
     geometry : [53.7636932,27.5602904]
-n1944951108  null / null / поворот на Мачулищи
+n1944951108  null / null / Поворот на Мачулищи
   other tags : highway=bus_stop
     geometry : [53.7877737,27.5274335]
 n1946094137  null / null / Урожайная
@@ -1048,7 +1048,7 @@ n2124820097  null / null / Байдаки
 n2146882990  null / null / Полигон
   other tags : highway=bus_stop
     geometry : [53.9281441,27.7406299]
-n2200300405  null / null / Тарасово-1
+n2200300405  null / null / Церковь
   other tags : highway=bus_stop
     geometry : [53.9202356,27.3902672]
 n2315713006
@@ -1075,7 +1075,7 @@ n2424691992
 n2424692001
   other tags : highway=bus_stop
     geometry : [53.9514910,27.7919483]
-n2424692031  null / null / поворот Колодищи
+n2424692031  null / null / Поворот на Колодищи
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9679066,27.7514155]
 n2426337896  null / null / Байдаки
@@ -1168,10 +1168,10 @@ n2805421775  null / null / Вишневка
 n2805421776  null / null / Вишневка
   other tags : highway=bus_stop
     geometry : [53.6772803,27.5006803]
-n2805421781  null / null / Пятевщина
+n2805421781  null / null / Поворот на Пятевщину
   other tags : highway=bus_stop
     geometry : [53.7036519,27.5250417]
-n2805421782  null / null / Пятевщина
+n2805421782  null / null / Поворот на Пятевщину
   other tags : highway=bus_stop
     geometry : [53.7058425,27.5241097]
 n2814834111  null / null / Луговая Слобода / Волма
