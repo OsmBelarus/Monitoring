@@ -182,7 +182,7 @@ w82699325
   other tags : addr:housenumber=23 | addr:street=улица Даумана | building=yes | building:levels=3
     geometry : n962904095[55.3436152,29.3075217] n962904109[55.3436244,29.3066956] n962904242[55.3437647,29.3067009] n962904182[55.3437545,29.3075224] n962904095[55.3436152,29.3075217]
 w82699329
-  other tags : addr:housenumber=10в | addr:street=Поддубная улица | building=yes
+  other tags : addr:housenumber=11 | addr:street=Поддубная улица | building=yes
     geometry : n962904073[55.3469163,29.3033056] n962904206[55.3468981,29.3036048] n962904355[55.3467719,29.3035810] n962904143[55.3467901,29.3032819] n962904073[55.3469163,29.3033056]
 w82699331
   other tags : addr:housenumber=9 | addr:street=Первомайская улица | building=yes | building:levels=3
@@ -596,7 +596,7 @@ w236831885
   other tags : addr:housenumber=10Б | addr:street=Поддубная улица | building=yes | building:levels=1
     geometry : n2447999395[55.3464788,29.3023386] n2447999394[55.3464431,29.3028161] n2447999392[55.3462593,29.3027737] n2447999393[55.3462949,29.3022961] n2447999395[55.3464788,29.3023386]
 w236831886
-  other tags : addr:housenumber=8 | addr:street=Поддубная улица | building=yes | building:levels=1
+  other tags : addr:street=Поддубная улица | building=yes | building:levels=1
     geometry : n2447999402[55.3475857,29.3024572] n2447999400[55.3474148,29.3025528] n2447999401[55.3474580,29.3027912] n2447999403[55.3476288,29.3026956] n2447999402[55.3475857,29.3024572]
 w236840793
   other tags : addr:housenumber=11А | addr:street=Комсомольская улица | building=yes | building:levels=1
@@ -689,7 +689,7 @@ w252437735
   other tags : building=yes | building:levels=1
     geometry : n2584950564[55.3488749,29.3024736] n2584950560[55.3487140,29.3023931] n2584950558[55.3486496,29.3027917] n2584950563[55.3488104,29.3028721] n2584950564[55.3488749,29.3024736]
 w252437736
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=10б | addr:street=Поддубная улица | building=yes
     geometry : n2584950511[55.3473034,29.3033851] n2584950501[55.3471913,29.3034049] n2584950503[55.3472117,29.3037629] n2584950514[55.3473238,29.3037430] n2584950511[55.3473034,29.3033851]
 w252437737
   other tags : building=yes | building:levels=1
@@ -710,7 +710,7 @@ w252437742
   other tags : building=yes | building:levels=1
     geometry : n2584950556[55.3485000,29.3025929] n2584950550[55.3483381,29.3025811] n2584950547[55.3483331,29.3027928] n2584950553[55.3484950,29.3028046] n2584950556[55.3485000,29.3025929]
 w252437743
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Поддубная улица | building=yes
     geometry : n2584950532[55.3479350,29.3030905] n2584950522[55.3477997,29.3031000] n2584950524[55.3478059,29.3033760] n2584950534[55.3479413,29.3033665] n2584950532[55.3479350,29.3030905]
 w252437744
   other tags : building=yes | building:levels=1
@@ -722,7 +722,7 @@ w252437746
   other tags : addr:housenumber=10 | addr:street=Поддубная улица | building=yes
     geometry : n2584950506[55.3472939,29.3026044] n2584950496[55.3471133,29.3026172] n2584950499[55.3471193,29.3028811] n2584950508[55.3473000,29.3028683] n2584950506[55.3472939,29.3026044]
 w252437747
-  other tags : addr:housenumber=10б | addr:street=Поддубная улица | building=yes
+  other tags : addr:housenumber=10в | addr:street=Поддубная улица | building=yes
     geometry : n2584950494[55.3471073,29.3034421] n2584950489[55.3469868,29.3034125] n2584950486[55.3469619,29.3037264] n2584950492[55.3470824,29.3037560] n2584950494[55.3471073,29.3034421]
 w252582922
   other tags : building=yes | building:levels=1
