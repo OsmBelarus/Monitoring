@@ -55,7 +55,7 @@ n320409735  null / null / "Аэлита"
     geometry : [53.6729580,23.8140370]
 n320409753  Хлебны / null / Хлебный
   other tags : shop=bakery
-    geometry : [53.6714809,23.8039014]
+    geometry : [53.6714816,23.8038400]
 n320409755
   other tags : shop=convenience
     geometry : [53.6713842,23.8046270]
@@ -66,9 +66,6 @@ n320409756  1000 дробязей / null / 1000 мелочей / 1000 мелоч
 n320409764  null / null / "Успех рыболова"
   other tags : shop=specialized
     geometry : [53.6711805,23.8010140]
-n320409771  Свіслач / null / Свислочь / Свислочь
-  other tags : shop=convenience
-    geometry : [53.6704900,23.7965391]
 n320409772  null / null / Сервис
   other tags : shop=convenience
     geometry : [53.6704533,23.8237150]
@@ -81,21 +78,18 @@ n320409779  Кастрычніцкі / null / Октябрьский / Октя�
 n320409786  null / null / 1000 мелочей (Мебельный)
   other tags : shop=furniture
     geometry : [53.6687244,23.7908556]
-n320409788  null / null / Дисконт
-  other tags : shop=convenience
-    geometry : [53.6685330,23.8008490]
 n320409789  null / null / Магазин Кастрычник
   other tags : shop=convenience
     geometry : [53.6684486,23.7901867]
 n320409800  Будматэрыялы / null / Стройматериалы / Стройматериалы
   other tags : shop=garden_centre
     geometry : [53.6671542,23.7827163]
+n320409801  null / null / Second Hand
+  other tags : communication:mobile_phone=gsm | shop=clothes | tower:type=communication
+    geometry : [53.6671750,23.8005561]
 n320409803  null / null / Родная сторона
-  other tags : shop=convenience
-    geometry : [53.6666573,23.7888655]
-n320409806  Космас / null / Космос / Космос
-  other tags : shop=convenience
-    geometry : [53.6667362,23.8000191]
+  other tags : addr:city=Гродно | addr:housenumber=70 | addr:street=улица Ольги Соломовой | operator=СООО «НТС» | shop=supermarket | wheelchair=yes
+    geometry : [53.6666730,23.7888641]
 n320409810  null / null / Военторг
   other tags : shop=convenience
     geometry : [53.6663890,23.7770800]
@@ -343,11 +337,11 @@ n827240199  null / null / Обувьторг
   other tags : shop=shoes
     geometry : [53.6601621,23.8054628]
 n827259278  null / null / Каскад
-  other tags : shop=convenience
-    geometry : [53.6698037,23.8030251]
+  other tags : entrance=yes | shop=convenience
+    geometry : [53.6697650,23.8029598]
 n827272342  null / null / Респект
-  other tags : shop=mobile_phone
-    geometry : [53.6699499,23.8030573]
+  other tags : shop=mobile_phone | wheelchair=yes
+    geometry : [53.6700414,23.8030998]
 n846852279  Кнігі / null / null
   other tags : fixme:komzpa=добавить русское имя | shop=books | source=survey
     geometry : [53.6694830,23.8226970]
@@ -386,7 +380,7 @@ n1089317932  null / null / Евроопт
   other tags : addr:floor=0 | shop=supermarket
     geometry : [53.6932169,23.8320840]
 n1099521666  null / null / Алми
-  other tags : entrance=yes | shop=supermarket
+  other tags : entrance=yes | shop=supermarket | wheelchair=yes
     geometry : [53.6719563,23.7990399]
 n1125070642
   other tags : shop=yes
@@ -510,7 +504,7 @@ n1256893553
     geometry : [53.6756510,23.8297552]
 n1256894607
   other tags : shop=books
-    geometry : [53.6707700,23.8078785]
+    geometry : [53.6707731,23.8078676]
 n1257993437
   other tags : shop=convenience
     geometry : [53.6758554,23.8297183]
@@ -951,13 +945,13 @@ n2267081963  null / null / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.7037666,23.7978942]
 n2267091312  null / null / Дом мебели "Светлана"
-  other tags : shop=furniture
+  other tags : shop=furniture | wheelchair=no
     geometry : [53.6716753,23.8062117]
 n2267106409  null / null / Фото
   other tags : shop=photo
     geometry : [53.6702962,23.7920599]
 n2267108440  null / null / Экспресс-фото
-  other tags : shop=photo
+  other tags : addr:housenumber=116 | addr:street=улица Советских Пограничников | shop=photo | wheelchair=no
     geometry : [53.6715005,23.7959550]
 n2268454052  null / null / Детский мир
   other tags : shop=toys
@@ -1260,17 +1254,26 @@ n3236277322  null / null / Прачечная
   other tags : shop=laundry
     geometry : [53.6703295,23.8018029]
 n3236313712  null / null / "Алло"
-  other tags : shop=mobile_phone
-    geometry : [53.6718023,23.7989792]
+  other tags : shop=mobile_phone | wheelchair=yes
+    geometry : [53.6718024,23.7989967]
 n3236313713  null / null / Цветы 24 часа
-  other tags : shop=florist
-    geometry : [53.6718477,23.7989985]
+  other tags : shop=florist | wheelchair=yes
+    geometry : [53.6718468,23.7990130]
 n3236313714  null / null / Изготовление ключей
-  other tags : shop=locksmith
-    geometry : [53.6717618,23.7989644]
+  other tags : shop=locksmith | wheelchair=yes
+    geometry : [53.6717609,23.7989788]
 n3236339905  null / null / Крепёж
   other tags : shop=doityourself
     geometry : [53.6704317,23.7922071]
 n3236339921  null / null / "Буслiк"
   other tags : shop=baby_goods
     geometry : [53.6631413,23.7846362]
+n3245269346  null / null / Мясной магазин
+  other tags : shop=butcher
+    geometry : [53.6658603,23.7872233]
+n3245269350  null / null / Сухофрукты
+  other tags : shop=yes | wheelchair=yes
+    geometry : [53.6718883,23.7990309]
+n3245269939  null / null / Обувной магазин "Неман"
+  other tags : shop=shoes
+    geometry : [53.6715451,23.8070960]

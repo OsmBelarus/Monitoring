@@ -23,9 +23,6 @@ n320409751  Царква ў імя прападобнай Марфы / null / Ц
 n320409824  null / null / Свято-Владимирская церковь
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.6645086,23.8280185]
-n320409859
-  other tags : amenity=place_of_worship | denomination=catholic | religion=christian
-    geometry : [53.6621390,23.7924990]
 n320409871
   other tags : amenity=place_of_worship
     geometry : [53.6613035,23.8678065]
@@ -68,6 +65,10 @@ w29125475  null / null / Приход костела Милосердия Бож
 w29125524  null / null / Храм в честь "Собора всех Белорусских Святых" / Храм в честь "Собора всех Белорусских Святых"
   other tags : addr:housenumber=90 | addr:street=проспект Янки Купалы | amenity=place_of_worship | building=church | denomination=orthodox | phone=54 53 14 | religion=christian
     geometry : n320420727[53.6523810,23.8563150] n320420724[53.6524160,23.8563170] n320420725[53.6524160,23.8562160] n320420728[53.6523810,23.8562160] n320420730[53.6523810,23.8560690] n320420734[53.6523320,23.8560670] n320420736[53.6523320,23.8560250] n320420741[53.6522820,23.8560230] n320420742[53.6522780,23.8560670] n320420757[53.6522290,23.8560650] n320420747[53.6522290,23.8562120] n320420763[53.6521980,23.8562100] n320420762[53.6521980,23.8563110] n320420760[53.6522250,23.8563110] n320420759[53.6522250,23.8564540] n320420746[53.6522630,23.8564560] n320420744[53.6522750,23.8564940] n320420739[53.6523050,23.8565100] n320420737[53.6523280,23.8564960] n320420733[53.6523390,23.8564580] n320420731[53.6523780,23.8564580] n320420727[53.6523810,23.8563150]
+w29125682  null / null / Пресвятой Девы Марии Милосердия
+  other names: name:pl=Matki Boski Milosierdzia
+  other tags : addr:housenumber=2 | addr:postcode=230027 | addr:street=улица Репина | amenity=place_of_worship | building=yes | denomination=catholic | religion=christian
+    geometry : n320422114[53.6622708,23.7926138] n320422116[53.6620412,23.7925046] n320422115[53.6620707,23.7923282] n320422113[53.6623003,23.7924374] n3245269347[53.6622865,23.7925196] n320422114[53.6622708,23.7926138]
 w29125792  Свята-Барыса-Глебская Каложская царква / null / Свято-Борисо-Глебская Коложская церковь / Свято-Борисо-Глебская Коложская церковь
   other names: name:en=Kalozha Church
   other tags : addr:housenumber=8 | addr:street=улица Коложа | amenity=place_of_worship | building=church | building:levels=3 | denomination=orthodox | religion=christian | website=http://kalozha.by/

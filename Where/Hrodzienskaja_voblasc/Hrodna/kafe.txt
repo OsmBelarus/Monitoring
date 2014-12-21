@@ -273,18 +273,18 @@ n2940748803  null / null / Столовая
 n2958909569  null / null / Спадчына
   other tags : addr:housenumber=21 | addr:street=Лидская улица | amenity=cafe
     geometry : [53.6712260,23.8532418]
-n2967941797  null / null / Тапаз
-  other tags : amenity=restaurant
-    geometry : [53.6725633,23.8083371]
 n2969282036  null / null / Жемчужина
   other tags : amenity=cafe
     geometry : [53.6999768,23.8115062]
 n3236277323  null / null / "Шашлычный двор"
   other tags : amenity=restaurant
     geometry : [53.6707991,23.8010918]
-n3236339917  null / null / Суши
-  other tags : amenity=cafe
+n3236339917  null / null / Пицца&Суши
+  other tags : addr:housenumber=70 | addr:postcode=230027 | addr:street=улица Ольги Соломовой | amenity=cafe | cuisine=pizza | smoking=no
     geometry : [53.6664798,23.7887348]
 n3236339923  null / null / "Фламинго"
   other tags : amenity=cafe
     geometry : [53.6634703,23.7848052]
+n3245269351  null / null / Шашлычный двор
+  other tags : amenity=fast_food | cuisine=regional | opening_hours=24 часа | smoking=outside
+    geometry : [53.6709982,23.8006097]

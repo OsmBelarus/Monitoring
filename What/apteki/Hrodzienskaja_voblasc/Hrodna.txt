@@ -17,8 +17,8 @@ n320409653  Аптэка-музей / null / Аптека-музей
   other tags : amenity=pharmacy | email=muz@biotest.by | operator=Биотест | phone=+375 152 740 081 | tourism=viewpoint | website=http://am.biotest.by/ | wikipedia:ru=Аптека-музей_(Гродно)
     geometry : [53.6784838,23.8311286]
 n320409754
-  other tags : amenity=pharmacy
-    geometry : [53.6714534,23.8036843]
+  other tags : amenity=pharmacy | opening_hours=24 часа
+    geometry : [53.6713527,23.8036592]
 n320409846
   other tags : amenity=pharmacy
     geometry : [53.6637110,23.7907000]
@@ -139,3 +139,6 @@ n2690057473  null / null / Аптека
 n3236339916
   other tags : amenity=pharmacy
     geometry : [53.6665736,23.7887777]
+n3245269901  null / null / Медтехника
+  other tags : amenity=pharmacy
+    geometry : [53.6709544,23.8075396]
