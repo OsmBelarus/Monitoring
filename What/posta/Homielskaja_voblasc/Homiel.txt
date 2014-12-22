@@ -40,9 +40,6 @@ n1343518072
 n1429147825  null / null / Почтовое отделение № 28
   other tags : amenity=post_office | operator=Белпочта
     geometry : [52.4518350,31.0029828]
-n1818034114
-  other tags : amenity=post_office
-    geometry : [52.4673161,31.0368687]
 n2166725139  null / null / Белпочта
   other tags : amenity=post_office
     geometry : [52.4441424,30.9445874]
@@ -52,3 +49,6 @@ n2588765670  null / null / Почтовое отделение №6
 n3127511608  null / null / 246045
   other tags : amenity=post_office
     geometry : [52.4777688,31.0239081]
+n3245783162  null / null / Белпочта
+  other tags : addr:city=Гомель | addr:housenumber=33А | addr:postcode=246038 | addr:street=Чечерская улица | amenity=post_office | operator=Белпочта
+    geometry : [52.4673120,31.0370428]
