@@ -350,7 +350,7 @@ n1114721428  Аўтасвет 777 / null / Авто Мир 777
     geometry : [55.1626688,30.2206841]
 n1114726273  null / null / Автозапчасти
   other tags : shop=car_parts
-    geometry : [55.1771805,30.2322339]
+    geometry : [55.1771806,30.2322339]
 n1114726279  null / null / Парикмахерская № 7
   other tags : opening_hours=Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 08:00-15:00 | operator=ОАО "МИР УСЛУГ Плюс" | shop=hairdresser
     geometry : [55.1773060,30.2312540]
@@ -1948,7 +1948,7 @@ n2400898764  null / null / Котофей
     geometry : [55.1908086,30.2030524]
 n2401575418  null / null / Орхидея
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-15:00 | shop=chemist
-    geometry : [55.1774528,30.2297234]
+    geometry : [55.1774527,30.2297234]
 n2401891191  Жасмін / null / Жасмин
   other tags : opening_hours=Mo-Fr 10:00-15:00, 15:30-19:00; Sa 10:00-17:00 | shop=chemist
     geometry : [55.1767804,30.2341167]
@@ -3301,7 +3301,7 @@ n3229287870
   other tags : shop=convenience
     geometry : [55.1683859,30.2509774]
 n3229287872  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : service=tyres | shop=car_repair
+  other tags : opening_hours=08:00-20:00 | phone=+375-33-3955346 | service=tyres | shop=car_repair
     geometry : [55.1676451,30.2519613]
 n3230206915  Аўтазапчасткі / null / Автозапчасти
   other tags : shop=car_parts
@@ -3309,3 +3309,6 @@ n3230206915  Аўтазапчасткі / null / Автозапчасти
 n3243229581  null / null / Мастер
   other tags : contact:email=danchon@mail.ru | contact:phone=+375(29) 8888-156, +375(29) 2222-156 | contact:website=http://master-vit.by/ | description=садовая техника, инструмент | shop=electrotools
     geometry : [55.1603437,30.2132698]
+n3245827940  null / null / СТО Евро
+  other tags : phone=+375- 29-3773100, +375-33-3773100 | shop=car_repair | website=http://www.stoevro.by/
+    geometry : [55.1796405,30.1836174]
