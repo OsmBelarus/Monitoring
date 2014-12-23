@@ -818,7 +818,7 @@ n2810991730  null / null / "Газовский" магазин
   other tags : addr:housenumber=9 | addr:street=Советская улица | shop=convenience
     geometry : [53.7420189,27.6949390]
 n2810991731  null / null / Магазин "ЮГ"
-  other tags : shop=convenience
+  other tags : shop=food
     geometry : [53.7444162,27.6954718]
 n2813175648  null / null / Соседи
   other tags : shop=supermarket
@@ -835,9 +835,9 @@ n2816515921
 n2822250079  null / null / Продуктовый
   other tags : shop=convenience
     geometry : [53.7462726,27.6885202]
-n2822251742  null / null / Продукты
-  other tags : shop=convenience
-    geometry : [53.7451798,27.6901186]
+n2822251742  null / null / Евроопт
+  other tags : shop=convenience | time=10-21
+    geometry : [53.7451678,27.6901785]
 n2822251743  null / null / Промтовары
   other tags : shop=convenience
     geometry : [53.7460046,27.6908911]
