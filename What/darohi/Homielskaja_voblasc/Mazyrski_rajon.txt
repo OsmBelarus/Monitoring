@@ -2896,8 +2896,8 @@ w242403937  null / null / улица Ковпака
 w242403938
   other tags : highway=residential
     geometry : n2498839214[52.0534215,29.1771198] n2776646254[52.0535595,29.1779440] n2498839216[52.0536198,29.1783045] n2498839218[52.0536568,29.1800859] n2498839217[52.0536198,29.1808466] n2498839220[52.0537798,29.1810067] n2498839223[52.0542090,29.1812658] n2498839224[52.0543120,29.1814162]
-w242464833
-  other tags : addr:street=Молодёжная улица | highway=residential | lanes=2 | lit=yes | living_street=yes | surface=asphalt
+w242464833  null / null / Молодёжная улица
+  other tags : addr:street=Молодёжная улица | highway=living_street | lanes=2 | lit=yes | living_street=yes | surface=asphalt
     geometry : n2499269086[51.9903552,29.3347850] n2749013438[51.9910968,29.3338160] n2499269090[51.9917273,29.3329115] n2499269092[51.9923541,29.3318070]
 w242464838  null / null / Садовая улица
   other tags : highway=tertiary | lanes=2 | lit=yes | surface=asphalt
