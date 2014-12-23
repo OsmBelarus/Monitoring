@@ -1,9 +1,3 @@
-n616960845  null / null / Эллада / Эллада
-  other tags : amenity=restaurant
-    geometry : [52.0474008,29.2396269]
-n617575812  Славянскі / null / null / Славянский
-  other tags : amenity=restaurant
-    geometry : [52.0310724,29.2475461]
 n674417771  null / null / Папарать кветка
   other tags : amenity=restaurant
     geometry : [52.0405400,29.2738900]
@@ -13,8 +7,8 @@ n674419623  null / null / Сузорье
 n674420716  null / null / Пиццерия
   other tags : amenity=restaurant
     geometry : [52.0492558,29.2687073]
-n674421712
-  other tags : amenity=restaurant
+n674421712  null / null / Припять
+  other tags : addr:housenumber=8 | addr:street=Пролетарская улица | amenity=restaurant | cuisine=regional
     geometry : [52.0527172,29.2537975]
 n1281986746  null / null / Che Guevara / Че Гевара
   other tags : amenity=cafe | cuisine=pizza
