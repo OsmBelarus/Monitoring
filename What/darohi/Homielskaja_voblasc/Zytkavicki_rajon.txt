@@ -1258,8 +1258,8 @@ w48959374  вуліца Горкага / vulica Horkaha / улица Горьк�
 w48959375  вуліца Дзяржынскага / vulica Dziaržynskaha / улица Дзержинского / улица Дзержинского
   other tags : bridge=yes | highway=residential | layer=1
     geometry : n621183138[52.2086079,27.8503561] n620014710[52.2083223,27.8504447]
-w48959376
-  other tags : highway=residential
+w48959376  null / null / Луговая улица
+  other tags : highway=residential | surface=unpaved
     geometry : n621183138[52.2086079,27.8503561] n2469905224[52.2089009,27.8517337] n2469905229[52.2090373,27.8524460] n2469905231[52.2091066,27.8527953] n621183142[52.2091452,27.8531315]
 w48959377
   other tags : bridge=yes | highway=residential
