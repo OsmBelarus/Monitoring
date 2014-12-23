@@ -4,9 +4,12 @@ n306064755  null / null / Сергия Радонежского Храм
 n3213961475  null / null / Евангельская церковь "Источник жизни"
   other tags : addr:housenumber=57 | addr:street=Нагорная улица | amenity=place_of_worship | denomination=evangelical | religion=christian
     geometry : [52.0470399,29.2502655]
-n3213961477  null / null / Церковь иконы Богоматери
+n3213961477  null / null / храм иконы Божией Матери «Всех скорбящих Радость»
   other tags : addr:housenumber=69А | addr:street=Социалистическая улица | amenity=place_of_worship | denomination=russian_orthodox | religion=christian
     geometry : [52.0717832,29.2034574]
+n3247484365  null / null / храм Преображения Господня (Святого Спаса)
+  other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
+    geometry : [52.0482610,29.2685200]
 w112889427
   other tags : amenity=place_of_worship | building=yes | religion=christian
     geometry : n1282047360[52.0862764,29.2266380] n1282047230[52.0863142,29.2265690] n1282047461[52.0863604,29.2266361] n1282047052[52.0863227,29.2267051] n1282047360[52.0862764,29.2266380]
@@ -19,7 +22,7 @@ w204548755  null / null / Свято-Михайловский Собор / Св�
 w205044380  null / null / Приход храма Николая Чудотворца
   other tags : addr:housenumber=153 | addr:street=Советская улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2150209236[52.0477618,29.2699172] n2150209235[52.0478739,29.2700888] n2150209237[52.0477188,29.2703678] n2150209234[52.0476045,29.2701929] n2150209236[52.0477618,29.2699172]
-w263260180  null / null / Приход "ВВедение во храм Пресвятой богородицы"
+w263260180  null / null / храм Введения во храм Пресвятой Богородицы
   other tags : addr:housenumber=10А | addr:street=улица Нелидова | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2688782309[52.0865929,29.2266676] n2688782310[52.0864710,29.2268527] n2688782311[52.0864331,29.2267883] n2688782312[52.0865583,29.2266005] n2688782309[52.0865929,29.2266676]
 w270923250  Георгіеўская царква / null / Георгиевская церковь
