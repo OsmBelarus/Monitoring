@@ -1607,7 +1607,7 @@ w170608009
   other tags : addr:housenumber=8 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n1817760982[55.0051758,30.7704743] n1817760996[55.0052697,30.7706657] n1817760981[55.0051383,30.7708617] n1817760978[55.0050444,30.7706703] n1817760982[55.0051758,30.7704743]
 w170608010
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=Школьный переулок | building=yes | building:levels=1
     geometry : n1817761011[55.0053830,30.7701756] n1817761017[55.0054769,30.7703670] n1817761007[55.0053455,30.7705631] n1817760984[55.0052516,30.7703717] n1817761011[55.0053830,30.7701756]
 w170608011
   other tags : building=yes | building:levels=1
@@ -1655,7 +1655,7 @@ w170608036
   other tags : building=yes
     geometry : n1817760517[54.9877711,30.8238488] n1817760573[54.9879001,30.8238434] n1817760577[54.9879027,30.8240305] n1817760519[54.9877737,30.8240359] n1817760517[54.9877711,30.8238488]
 w170608037
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Школьный переулок | building=yes | building:levels=1
     geometry : n1817761041[55.0055904,30.7698636] n1817761052[55.0056843,30.7700550] n1817761024[55.0055529,30.7702511] n1817761016[55.0054590,30.7700597] n1817761041[55.0055904,30.7698636]
 w170608038
   other tags : addr:housenumber=10 | addr:street=Школьная улица | building=yes | building:levels=1
@@ -1754,7 +1754,7 @@ w170896142
   other tags : addr:housenumber=14 | addr:street=Школьный переулок | building=yes | building:levels=1
     geometry : n1820270518[55.0050737,30.7731140] n1820270525[55.0051484,30.7732768] n1820270516[55.0050707,30.7733852] n1820270507[55.0049960,30.7732224] n1820270518[55.0050737,30.7731140]
 w170896145
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=49 | addr:street=улица Чкалова | building=yes | building:levels=1
     geometry : n1820270608[55.0058206,30.7682175] n1820270618[55.0059077,30.7681540] n1820270626[55.0059629,30.7683842] n1820270614[55.0058758,30.7684477] n1820270608[55.0058206,30.7682175]
 w170896146
   other tags : addr:housenumber=39 | addr:street=улица Чкалова | building=yes | building:levels=1
@@ -1787,7 +1787,7 @@ w170896165
   other tags : building=yes | building:levels=1
     geometry : n1820270744[55.0079149,30.7723776] n1820270747[55.0079810,30.7725137] n1820270743[55.0079120,30.7726157] n1820270741[55.0078458,30.7724797] n1820270744[55.0079149,30.7723776]
 w170896168
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=47 | addr:street=улица Чкалова | building=yes | building:levels=1
     geometry : n1820270631[55.0060527,30.7688602] n1820270634[55.0061125,30.7687718] n1820270639[55.0061822,30.7689150] n1820270635[55.0061224,30.7690034] n1820270631[55.0060527,30.7688602]
 w170896170
   other tags : addr:housenumber=26 | addr:street=Лесная улица | building=yes | building:levels=1
@@ -16075,3 +16075,6 @@ w312060483
 w312060573
   other tags : addr:housenumber=97А | addr:street=улица Дачная | building=yes | building:levels=1
     geometry : n3178730405[55.0964631,30.7788973] n3178730407[55.0965599,30.7788302] n3178730408[55.0966145,30.7790709] n3178730406[55.0965177,30.7791379] n3178730405[55.0964631,30.7788973]
+w318476033
+  other tags : addr:housenumber=2 | addr:street=Школьный переулок | building=yes | building:levels=1
+    geometry : n3248829613[55.0057218,30.7698553] n3248829616[55.0057648,30.7699416] n3248829620[55.0058735,30.7697767] n3248829618[55.0058305,30.7696904] n3248829613[55.0057218,30.7698553]
