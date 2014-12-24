@@ -1091,7 +1091,7 @@ w244256793
   other tags : addr:housenumber=11/1 11/2 | addr:street=улица Строителей | building=residential
     geometry : n2515962488[51.7854485,28.3153411] n2515962482[51.7853727,28.3156370] n2515962479[51.7853139,28.3155976] n2515962484[51.7853897,28.3153018] n2515962488[51.7854485,28.3153411]
 w244256794
-  other tags : addr:housenumber=12А | addr:street=Садовая улица | building=residential
+  other tags : addr:housenumber=12 | addr:street=Садовая улица | building=residential
     geometry : n2515962518[51.7929933,28.3250646] n2515962517[51.7929460,28.3252621] n2515962515[51.7928690,28.3252139] n2515962516[51.7929163,28.3250164] n2515962518[51.7929933,28.3250646]
 w244256795
   other tags : addr:housenumber=24 | addr:street=Молодёжная улица | building=house
@@ -1151,7 +1151,7 @@ w244256814
   other tags : addr:housenumber=5/1 5/2 5/3 | addr:street=улица Строителей | building=residential
     geometry : n2515962457[51.7850102,28.3170866] n2515962452[51.7849420,28.3173541] n2515962447[51.7848746,28.3173091] n2515962453[51.7849429,28.3170416] n2515962457[51.7850102,28.3170866]
 w244256815
-  other tags : addr:housenumber=18 | addr:street=Садовая улица | building=residential
+  other tags : addr:housenumber=16 | addr:street=Садовая улица | building=residential
     geometry : n2515962510[51.7922949,28.3245254] n2515962509[51.7922326,28.3247142] n2515962507[51.7921617,28.3246530] n2515962508[51.7922240,28.3244642] n2515962510[51.7922949,28.3245254]
 w244256816
   other tags : addr:housenumber=13/2 13/1 | addr:street=улица Строителей | building=residential
@@ -1160,7 +1160,7 @@ w244256817
   other tags : addr:housenumber=2 | addr:street=Садовая улица | building=residential
     geometry : n2515962548[51.7942656,28.3251252] n2515962546[51.7942615,28.3253208] n2515962543[51.7941798,28.3253163] n2515962544[51.7941840,28.3251207] n2515962548[51.7942656,28.3251252]
 w244256818
-  other tags : addr:housenumber=16 | addr:street=Садовая улица | building=residential
+  other tags : addr:housenumber=14 | addr:street=Садовая улица | building=residential
     geometry : n2515962514[51.7924998,28.3247395] n2515962512[51.7924514,28.3248949] n2515962511[51.7924035,28.3248559] n2515962513[51.7924520,28.3247005] n2515962514[51.7924998,28.3247395]
 w244256819
   other tags : addr:housenumber=3 | addr:street=Садовая улица | building=residential
@@ -1202,7 +1202,7 @@ w244650636
   other tags : addr:housenumber=13 | addr:street=Садовая улица | building=residential
     geometry : n2519455265[51.7922480,28.3251159] n2519455264[51.7922136,28.3252572] n2519455262[51.7921595,28.3252228] n2519455263[51.7921939,28.3250815] n2519455265[51.7922480,28.3251159]
 w244650637
-  other tags : addr:housenumber=14 | addr:street=Садовая улица | building=residential
+  other tags : addr:housenumber=12А | addr:street=Садовая улица | building=residential
     geometry : n2519455277[51.7927892,28.3249178] n2519455271[51.7926929,28.3248417] n2519455270[51.7926365,28.3250283] n2519455273[51.7927328,28.3251043] n2519455277[51.7927892,28.3249178]
 w244650638
   other tags : addr:housenumber=15 | addr:street=Садовая улица | building=residential
@@ -1220,7 +1220,7 @@ w244650642
   other tags : addr:housenumber=20 | addr:street=Садовая улица | building=residential
     geometry : n2519455245[51.7915559,28.3238380] n2519455242[51.7914876,28.3240444] n2519455238[51.7914157,28.3239822] n2519455241[51.7914840,28.3237758] n2519455245[51.7915559,28.3238380]
 w244650643
-  other tags : addr:housenumber=20А | addr:street=Садовая улица | building=residential
+  other tags : addr:housenumber=18 | addr:street=Садовая улица | building=residential
     geometry : n2519455259[51.7920767,28.3243551] n2519455257[51.7920339,28.3244705] n2519455254[51.7919761,28.3244144] n2519455256[51.7920189,28.3242990] n2519455259[51.7920767,28.3243551]
 w244650644
   other tags : addr:housenumber=21 | addr:street=Садовая улица | building=residential
@@ -9076,3 +9076,6 @@ w318478250
 w318478700
   other tags : addr:housenumber=11А | addr:street=Ленина улица | building=house
     geometry : n3248855564[51.7886716,28.3298493] n3248855562[51.7885586,28.3298111] n3248855561[51.7885371,28.3299777] n3248855563[51.7886500,28.3300159] n3248855564[51.7886716,28.3298493]
+w318481184
+  other tags : addr:housenumber=20А | addr:street=Садовая улица | building=house
+    geometry : n3248877832[51.7917432,28.3240310] n3248877830[51.7916478,28.3239661] n3248877829[51.7915975,28.3241690] n3248877831[51.7916980,28.3242340] n3248877832[51.7917432,28.3240310]
