@@ -143,7 +143,7 @@ w260333049
   other tags : addr:postcode=231908 | addr:street=Молодёжная улица | building=house | building:levels=1
     geometry : n2658024634[53.3709283,24.3538463] n2658024637[53.3709267,24.3540286] n2658024639[53.3708258,24.3540260] n2658024642[53.3708275,24.3538437] n2658024634[53.3709283,24.3538463]
 w260333514
-  other tags : addr:postcode=231908 | addr:street=Молодёжная улица | building=residential
+  other tags : addr:housenumber=6 | addr:postcode=231908 | addr:street=Молодёжная улица | building=residential
     geometry : n2658034576[53.3709393,24.3534539] n2658034579[53.3708425,24.3534620] n2658034582[53.3708370,24.3532747] n2658034584[53.3709337,24.3532666] n2658034576[53.3709393,24.3534539]
 w260333605
   other tags : addr:postcode=231908 | addr:street=Молодёжная улица | building=house
@@ -1148,7 +1148,7 @@ w263349152
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2689692680[53.3692672,24.3629007] n2689692683[53.3692831,24.3629807] n2689692686[53.3690507,24.3631097] n2689692688[53.3690349,24.3630296] n2689692680[53.3692672,24.3629007]
 w263349155
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=13 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2689692706[53.3692802,24.3636000] n2689692716[53.3692965,24.3636914] n2689692718[53.3691627,24.3637581] n2689692722[53.3691464,24.3636667] n2689692706[53.3692802,24.3636000]
 w263349368
   other tags : addr:housenumber=15 | addr:postcode=231908 | addr:street=Центральная улица | building=residential | building:levels=1
@@ -4064,91 +4064,91 @@ w267046015  null / null / КЖ № 1
   other tags : building=residential
     geometry : n2725260489[53.3394562,24.2626708] n2725260486[53.3393558,24.2625961] n2725260483[53.3392568,24.2628973] n2725260487[53.3393586,24.2629814] n2725260489[53.3394562,24.2626708]
 w267196595
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=17 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726659564[53.3697528,24.3636431] n2726659565[53.3697714,24.3637284] n2726659566[53.3696632,24.3637945] n2726659567[53.3696447,24.3637091] n2726659564[53.3697528,24.3636431]
 w267196596
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=33 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726659568[53.3693892,24.3646004] n2726659569[53.3693998,24.3646461] n2726659570[53.3694299,24.3646266] n2726659571[53.3694567,24.3647424] n2726659572[53.3693546,24.3648087] n2726659573[53.3693173,24.3646471] n2726659568[53.3693892,24.3646004]
 w267196597
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=25 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726659574[53.3697575,24.3640417] n2726659575[53.3697779,24.3641394] n2726659576[53.3696705,24.3642024] n2726659577[53.3696500,24.3641047] n2726659574[53.3697575,24.3640417]
 w267196598
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=35 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726659578[53.3694141,24.3650504] n2726659579[53.3694517,24.3651622] n2726659580[53.3696221,24.3650010] n2726659581[53.3695845,24.3648892] n2726659578[53.3694141,24.3650504]
 w267196599
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=29 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726659582[53.3699220,24.3648200] n2726659583[53.3699679,24.3649179] n2726659584[53.3699878,24.3648917] n2726659585[53.3700223,24.3649654] n2726659586[53.3699532,24.3650566] n2726659587[53.3698727,24.3648850] n2726659582[53.3699220,24.3648200]
 w267197037
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726661708[53.3699009,24.3643296] n2726661709[53.3699240,24.3644299] n2726661710[53.3698149,24.3645005] n2726661711[53.3697918,24.3644001] n2726661708[53.3699009,24.3643296]
 w267197038
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=27 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726661712[53.3698323,24.3645907] n2726661713[53.3698858,24.3647378] n2726661714[53.3698311,24.3647936] n2726661715[53.3697777,24.3646464] n2726661712[53.3698323,24.3645907]
 w267197039
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=37 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726661716[53.3695174,24.3654037] n2726661717[53.3695679,24.3655164] n2726661718[53.3696681,24.3653906] n2726661719[53.3696364,24.3653196] n2726661720[53.3695818,24.3653881] n2726661721[53.3695631,24.3653463] n2726661716[53.3695174,24.3654037]
 w267197040
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=29 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726661722[53.3696124,24.3655807] n2726661723[53.3696530,24.3656668] n2726661724[53.3697306,24.3655638] n2726661725[53.3697493,24.3656033] n2726661726[53.3697862,24.3655543] n2726661727[53.3697270,24.3654288] n2726661722[53.3696124,24.3655807]
 w267197041
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=32а | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726661728[53.3696982,24.3657340] n2726661729[53.3697819,24.3658804] n2726661730[53.3698351,24.3657950] n2726661731[53.3697515,24.3656485] n2726661728[53.3696982,24.3657340]
 w267197407
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=30а | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665435[53.3699409,24.3660938] n2726665436[53.3700170,24.3662262] n2726665437[53.3700764,24.3661302] n2726665438[53.3700269,24.3660441] n2726665439[53.3700158,24.3660620] n2726665440[53.3699892,24.3660157] n2726665435[53.3699409,24.3660938]
 w267197408
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=31 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665441[53.3701488,24.3655222] n2726665442[53.3702096,24.3656588] n2726665443[53.3702931,24.3655543] n2726665444[53.3702632,24.3654870] n2726665445[53.3702372,24.3655195] n2726665446[53.3702063,24.3654503] n2726665441[53.3701488,24.3655222]
 w267197409
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665447[53.3703113,24.3658683] n2726665448[53.3703564,24.3659733] n2726665449[53.3704239,24.3658917] n2726665450[53.3703788,24.3657867] n2726665447[53.3703113,24.3658683]
 w267197410
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=8 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665451[53.3688747,24.3628579] n2726665452[53.3689074,24.3629915] n2726665453[53.3688105,24.3630581] n2726665454[53.3687899,24.3629741] n2726665455[53.3688375,24.3629414] n2726665456[53.3688254,24.3628918] n2726665451[53.3688747,24.3628579]
 w267197411
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=10 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665457[53.3693130,24.3652412] n2726665458[53.3693370,24.3653243] n2726665459[53.3691659,24.3654629] n2726665460[53.3691420,24.3653799] n2726665457[53.3693130,24.3652412]
 w267197412
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=12 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665461[53.3695465,24.3656757] n2726665462[53.3695835,24.3657542] n2726665463[53.3694745,24.3658985] n2726665464[53.3694375,24.3658200] n2726665461[53.3695465,24.3656757]
 w267197413
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665465[53.3693924,24.3658222] n2726665466[53.3694378,24.3659486] n2726665467[53.3693642,24.3660228] n2726665468[53.3693188,24.3658963] n2726665465[53.3693924,24.3658222]
 w267197414
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=14 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665469[53.3696768,24.3659043] n2726665470[53.3697168,24.3659862] n2726665471[53.3695851,24.3661668] n2726665472[53.3695451,24.3660850] n2726665469[53.3696768,24.3659043]
 w267197415
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665473[53.3694092,24.3662393] n2726665474[53.3694426,24.3663508] n2726665475[53.3693292,24.3664462] n2726665476[53.3692959,24.3663346] n2726665473[53.3694092,24.3662393]
 w267197416
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=16 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665477[53.3699758,24.3663795] n2726665478[53.3700230,24.3664579] n2726665479[53.3699516,24.3665788] n2726665480[53.3699043,24.3665004] n2726665477[53.3699758,24.3663795]
 w267197417
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=18 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665481[53.3700305,24.3665173] n2726665482[53.3700627,24.3665900] n2726665483[53.3699375,24.3667455] n2726665484[53.3699054,24.3666728] n2726665481[53.3700305,24.3665173]
 w267197418
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=20 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665485[53.3701699,24.3666961] n2726665486[53.3702604,24.3668415] n2726665487[53.3702086,24.3669322] n2726665488[53.3701180,24.3667868] n2726665485[53.3701699,24.3666961]
 w267197419
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=22\24 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665489[53.3702976,24.3669735] n2726665490[53.3703964,24.3671682] n2726665491[53.3703069,24.3672957] n2726665492[53.3702897,24.3672618] n2726665493[53.3702683,24.3672924] n2726665494[53.3702471,24.3672506] n2726665495[53.3702096,24.3673042] n2726665496[53.3701623,24.3672112] n2726665497[53.3702025,24.3671540] n2726665498[53.3701893,24.3671280] n2726665489[53.3702976,24.3669735]
 w267197420
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=31 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665499[53.3704339,24.3669121] n2726665500[53.3705221,24.3670537] n2726665501[53.3705765,24.3669585] n2726665502[53.3704883,24.3668169] n2726665499[53.3704339,24.3669121]
 w267197421
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
-    geometry : n2726665503[53.3706660,24.3671848] n2726665504[53.3707187,24.3672698] n2726665505[53.3707910,24.3671437] n2726665506[53.3707384,24.3670587] n2726665503[53.3706660,24.3671848]
+  other tags : addr:housenumber=33 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+    geometry : n2726665503[53.3706907,24.3671552] n2726665504[53.3707434,24.3672402] n2726665505[53.3708157,24.3671141] n2726665506[53.3707631,24.3670291] n2726665503[53.3706907,24.3671552]
 w267197422
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=28 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726665507[53.3703875,24.3674674] n2726665508[53.3704217,24.3675715] n2726665509[53.3705383,24.3674638] n2726665510[53.3704843,24.3672994] n2726665511[53.3704230,24.3673560] n2726665512[53.3704322,24.3673841] n2726665513[53.3704108,24.3674039] n2726665514[53.3704214,24.3674362] n2726665507[53.3703875,24.3674674]
 w267197445
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=30 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726666691[53.3704992,24.3676011] n2726666693[53.3705304,24.3677060] n2726666695[53.3706126,24.3676373] n2726666697[53.3705815,24.3675325] n2726666691[53.3704992,24.3676011]
 w267197447
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726666698[53.3703499,24.3679305] n2726666700[53.3703740,24.3680305] n2726666702[53.3702853,24.3680904] n2726666704[53.3702530,24.3679560] n2726666706[53.3702791,24.3679383] n2726666707[53.3702874,24.3679728] n2726666698[53.3703499,24.3679305]
 w267197448
-  other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=32 | addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
     geometry : n2726666709[53.3707041,24.3675366] n2726666711[53.3708179,24.3677229] n2726666713[53.3707720,24.3678016] n2726666715[53.3706582,24.3676153] n2726666709[53.3707041,24.3675366]
 w267197449
   other tags : addr:postcode=231908 | addr:street=Мостовская улица | building=residential | building:levels=1
@@ -11986,3 +11986,12 @@ w318035548
 w318035549
   other tags : addr:housenumber=20 | building=house
     geometry : n3243960994[53.3127869,24.1915901] n3243960996[53.3128414,24.1916795] n3243960995[53.3128033,24.1917445] n3243960993[53.3127488,24.1916551] n3243960994[53.3127869,24.1915901]
+w318703260
+  other tags : addr:housenumber=19 | building=house
+    geometry : n3250744264[53.3701114,24.3636774] n3250742360[53.3700094,24.3637703] n3250744261[53.3700421,24.3638713] n3250744265[53.3701442,24.3637783] n3250744264[53.3701114,24.3636774]
+w318703261
+  other tags : addr:housenumber=21 | building=house
+    geometry : n3250744267[53.3701719,24.3640576] n3250744262[53.3700498,24.3641629] n3250744263[53.3700804,24.3642627] n3250744269[53.3702025,24.3641574] n3250744267[53.3701719,24.3640576]
+w318703262
+  other tags : addr:housenumber=23 | building=house
+    geometry : n3250744270[53.3702392,24.3642442] n3250744266[53.3701492,24.3643422] n3250744268[53.3701825,24.3644279] n3250744271[53.3702724,24.3643299] n3250744270[53.3702392,24.3642442]
