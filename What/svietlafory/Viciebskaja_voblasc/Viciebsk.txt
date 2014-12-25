@@ -312,7 +312,7 @@ n673997874  null / null / Улица Коноплёва
     geometry : [55.2007282,30.2545486]
 n673997877  Аптовая база / null / Оптовая база
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.2013849,30.2641839]
+    geometry : [55.2025539,30.2656811]
 n673997878  Аптовая база / null / Оптовая база
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.2014060,30.2623574]
@@ -747,8 +747,8 @@ n2351614835  25-я школа / null / 25-я школа
   other tags : highway=bus_stop
     geometry : [55.1735616,30.2141276]
 n2352602719  Завод «ВіЗАС» / null / Завод «ВиЗАС»
-  other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.1971021,30.2621249]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
+    geometry : [55.1971083,30.2620885]
 n2356011617  null / null / Давыдовка
   other tags : highway=bus_stop
     geometry : [55.2350927,30.1164198]
@@ -838,7 +838,7 @@ n2447618892  null / null / Посёлок Билево
     geometry : [55.1729152,30.2702304]
 n2450757533  null / null / Микрорайон Фрунзе
   other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.1988409,30.2682835]
+    geometry : [55.1988388,30.2682463]
 n2476556640  null / null / Библиотека им. Лынькова
   other tags : bus=yes | highway=bus_stop | public_transport=platform | tram=yes
     geometry : [55.1638498,30.1857674]
