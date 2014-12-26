@@ -337,8 +337,8 @@ w45669224
 w45669226
   other tags : highway=residential
     geometry : n416836036[52.7090528,25.3400987] n2822495728[52.7098414,25.3441892] n581983753[52.7098699,25.3443372]
-w45669231
-  other tags : highway=residential
+w45669231  null / null / улица Шевченко
+  other tags : highway=residential | maxspeed=40 | surface=asphalt
     geometry : n581983759[52.7146920,25.3339223] n581983766[52.7180604,25.3318228]
 w45669232
   other tags : highway=residential
@@ -616,6 +616,3 @@ w315598028
 w315598029
   other tags : highway=residential
     geometry : n3217232234[52.7150069,25.3476347] n581983787[52.7147450,25.3479042] n275441440[52.7144024,25.3482641]
-w318432986  null / null / Шевченко
-  other tags : highway=living_street | maxspeed=40 | surface=asphalt
-    geometry : n581983759[52.7146920,25.3339223] n581983766[52.7180604,25.3318228]
