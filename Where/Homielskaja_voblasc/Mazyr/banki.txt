@@ -31,6 +31,12 @@ n2763834862  null / null / Идея Банк
 n3229311541  null / null / Отделение "Беларусбанка"
   other tags : amenity=bank
     geometry : [52.0355179,29.2626640]
+n3253246188  null / null / Белагропромбанк
+  other tags : addr:housenumber=32 | addr:street=улица Пушкина | amenity=bank | atm=yes
+    geometry : [52.0475942,29.2585603]
+n3253246210  null / null / Беларусбанк
+  other tags : addr:housenumber=130 | addr:street=Советская улица | amenity=bank | atm=yes | opening_hours=7/24
+    geometry : [52.0501279,29.2644773]
 w115822468  null / null / БелВЭБ
   other tags : addr:housenumber=4 | addr:street=улица Саета | amenity=bank | atm=yes | building=yes
     geometry : n1307488224[52.0496977,29.2623622] n1307488350[52.0496046,29.2624368] n1307488340[52.0497107,29.2627872] n1307488368[52.0498039,29.2627126] n1307488224[52.0496977,29.2623622]

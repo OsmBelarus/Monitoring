@@ -8,7 +8,7 @@ n306064787  СТА / null / null / СТО
   other tags : shop=car
     geometry : [52.0271861,29.2247856]
 n613399261  Еўраопт / null / null / Евроопт
-  other tags : shop=convenience
+  other tags : shop=supermarket
     geometry : [52.0486949,29.2667886]
 n616095143  null / null / Интерплаза
   other tags : shop=convenience
@@ -74,8 +74,8 @@ n965704590  null / null / Аметист
 n1118901404  Светач / null / Светоч / Светоч
   other tags : shop=books
     geometry : [52.0498328,29.2649330]
-n1118901406  null / null / Венеция / Венеция
-  other tags : shop=hifi
+n1118901406  null / null / Венеция
+  other tags : shop=electronics
     geometry : [52.0488531,29.2665850]
 n1209943632
   other tags : shop=convenience
@@ -104,9 +104,9 @@ n1285652876  null / null / Белые Росы
 n1286125421  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : addr:street=Интернациональная улица | service=tyres | shop=car_repair
     geometry : [52.0265940,29.2500504]
-n1286202878  null / null / Корзинка
-  other tags : shop=supermarket
-    geometry : [52.0432398,29.2490725]
+n1286202878  null / null / Родная сторона
+  other tags : addr:housenumber=75 | addr:street=Ленинская улица | shop=supermarket
+    geometry : [52.0433621,29.2500027]
 n1315457979
   other tags : shop=supermarket
     geometry : [52.0315838,29.2343097]
@@ -152,10 +152,10 @@ n2145442526  null / null / ZIKO
 n2145443616  null / null / Элема
   other tags : shop=clothes
     geometry : [52.0503210,29.2661239]
-n2145451130  null / null / Цифровик
-  other tags : shop=hifi
+n2145451130  null / null / ТВОЁ
+  other tags : addr:street=Советская улица | shop=clothes
     geometry : [52.0517116,29.2619091]
-n2145457522
+n2145457522  null / null / Союзпечать
   other tags : shop=kiosk
     geometry : [52.0468306,29.2722661]
 n2145467297
@@ -395,3 +395,45 @@ n3235822682  null / null / Природа
 n3235822683  null / null / Корм для животных
   other tags : shop=yes
     geometry : [52.0521831,29.2599617]
+n3253244548  null / null / Мир Керамики
+  other tags : shop=yes
+    geometry : [52.0441028,29.2483934]
+n3253244554  null / null / Витязь
+  other tags : addr:housenumber=77 | addr:street=Ленинская улица | shop=video
+    geometry : [52.0431328,29.2489084]
+n3253244555  null / null / Мебель
+  other tags : shop=furniture
+    geometry : [52.0432879,29.2496111]
+n3253244556  null / null / Союзпечать
+  other tags : shop=kiosk
+    geometry : [52.0433918,29.2496219]
+n3253246206  null / null / Культтовары
+  other tags : shop=yes
+    geometry : [52.0489204,29.2663709]
+n3253246207  null / null / Союзпечать
+  other tags : shop=kiosk
+    geometry : [52.0494087,29.2654697]
+n3253246208  null / null / МТС
+  other tags : addr:housenumber=27А | addr:street=Советская улица | shop=mobile_phone
+    geometry : [52.0512462,29.2644666]
+n3253246209  null / null / Velcom
+  other tags : shop=mobile_phone
+    geometry : [52.0511604,29.2648421]
+n3253246211  null / null / Mark Formelle
+  other tags : shop=clothes
+    geometry : [52.0503720,29.2640910]
+n3253246212  null / null / Зима-лето
+  other tags : shop=clothes
+    geometry : [52.0504743,29.2639247]
+n3253246213  null / null / WBR.by
+  other tags : shop=clothes
+    geometry : [52.0509196,29.2632059]
+n3253246214  null / null / КулинариЯ
+  other tags : shop=farm
+    geometry : [52.0518466,29.2583350]
+n3253246215
+  other tags : shop=florist
+    geometry : [52.0526482,29.2580561]
+n3253246222
+  other tags : shop=stationery
+    geometry : [52.0519456,29.2613713]
