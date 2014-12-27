@@ -137,7 +137,7 @@ w38002462
   other tags : highway=trunk_link | oneway=no
     geometry : n446318834[54.3149534,26.2447043] n1408027096[54.3150667,26.2445435] n446318835[54.3151802,26.2444779]
 w38002474
-  other tags : highway=primary_link | surface=asphalt
+  other tags : highway=primary_link | ref=Р63 | surface=asphalt
     geometry : n1350029366[54.4910215,26.3680213] n446318960[54.4911426,26.3682768] n446318959[54.4912557,26.3683981] n446318967[54.4914805,26.3684723]
 w38282288
   other tags : bridge=yes | highway=primary | layer=1 | official_name=Молодечно — Сморгонь | ref=Р106
@@ -3512,7 +3512,7 @@ w207970454
   other tags : highway=primary_link | junction=roundabout | oneway=yes
     geometry : n451691027[54.5087593,26.4429578] n1359005944[54.5086788,26.4429450] n442090694[54.5085702,26.4430006]
 w207970455
-  other tags : highway=primary_link | surface=asphalt
+  other tags : highway=primary_link | ref=Р63 | surface=asphalt
     geometry : n1350029387[54.4909921,26.3673316] n2182344583[54.4909637,26.3675758] n446318961[54.4909748,26.3678042] n1350029366[54.4910215,26.3680213]
 w207970456
   other tags : highway=primary_link | junction=roundabout | oneway=yes
@@ -3521,16 +3521,16 @@ w207970459
   other tags : highway=primary_link | junction=roundabout | oneway=yes
     geometry : n1359005942[54.5088306,26.4437615] n442090697[54.5088985,26.4436563] n1359005874[54.5089321,26.4435572] n1359005699[54.5089521,26.4433959]
 w207970462
-  other tags : highway=primary_link | surface=asphalt
+  other tags : highway=primary_link | ref=Р63 | surface=asphalt
     geometry : n446318964[54.4918743,26.3671532] n1639081171[54.4917845,26.3669756] n446318968[54.4916882,26.3668625] n446318957[54.4915962,26.3667991] n2182344599[54.4915161,26.3667715]
 w207970472
   other tags : highway=primary_link | junction=roundabout | oneway=yes
     geometry : n1359005699[54.5089521,26.4433959] n275393193[54.5089359,26.4432308] n1359005755[54.5089020,26.4431233] n442090693[54.5088478,26.4430301] n451691027[54.5087593,26.4429578]
 w207970478
-  other tags : highway=primary_link | surface=asphalt
+  other tags : highway=primary_link | ref=Р63 | surface=asphalt
     geometry : n2182344599[54.4915161,26.3667715] n446318963[54.4914533,26.3667658] n1350029343[54.4912738,26.3668275] n446318962[54.4911828,26.3669104] n1639081007[54.4910735,26.3670824] n1350029387[54.4909921,26.3673316]
 w207970486
-  other tags : highway=primary_link | surface=asphalt
+  other tags : highway=primary_link | ref=Р63 | surface=asphalt
     geometry : n446318967[54.4914805,26.3684723] n2182344601[54.4915937,26.3684409] n1350029347[54.4917411,26.3683214] n446318966[54.4918338,26.3681781] n1350029354[54.4919311,26.3678801] n446318958[54.4919535,26.3675589] n1350029390[54.4919135,26.3672788] n446318964[54.4918743,26.3671532]
 w224374088
   other tags : bicycle=yes | foot=yes | highway=track | horse=yes | motor_vehicle=yes | surface=ground | trail_visibility=good
