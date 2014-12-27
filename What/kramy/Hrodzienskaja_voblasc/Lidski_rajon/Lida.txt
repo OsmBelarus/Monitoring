@@ -220,6 +220,9 @@ n2062743025  null / null / Алми
 n2072721604
   other tags : shop=laundry
     geometry : [53.8945899,25.3005244]
+n2518826804  null / null / Цифра
+  other tags : addr:housenumber=27 | addr:street=проспект Победы | phone=8(029) 596-44-27 | shop=Электроника
+    geometry : [53.8924879,25.2975942]
 n2577099239  null / null / 5 Элемент
   other tags : addr:housenumber=12 | addr:street=улица Машерова | phone=8(017)2-900-100 | shop=supermarket | website=http://www.5element.by/
     geometry : [53.8718063,25.2817917]
@@ -271,9 +274,18 @@ n3126230189  null / null / Мужской зал
 n3126234656  null / null / МТС
   other tags : shop=mobile_phone
     geometry : [53.8910726,25.2961898]
+n3126237640  null / null / СПОРТ РЫБОЛОВ
+  other tags : shop=yes
+    geometry : [53.8924191,25.2968189]
 n3127099494  null / null / Продукты
   other tags : shop=yes
     geometry : [53.8967553,25.3003878]
+n3127101562  null / null / Columbia Sportswear
+  other tags : opening_hours=10:00 - 18:00 | shop=yes
+    geometry : [53.8933729,25.2963323]
+n3127101563  null / null / Addidas
+  other tags : opening_hours=10:00 - 18:00 | shop=yes
+    geometry : [53.8933951,25.2962142]
 n3127103117  null / null / Цветы
   other tags : opening_hours=10:00 - 18:00 | shop=florist
     geometry : [53.8931390,25.2973944]
