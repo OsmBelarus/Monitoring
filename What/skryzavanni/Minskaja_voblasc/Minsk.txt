@@ -6876,16 +6876,16 @@ n1785843780
     geometry : [53.9071670,27.6363143]
 n1786141714
   other tags : highway=crossing
-    geometry : [53.8388173,27.6767875]
+    geometry : [53.8388078,27.6767626]
 n1786141736
   other tags : highway=crossing
     geometry : [53.8389826,27.6833440]
 n1786141749
-  other tags : highway=crossing
-    geometry : [53.8391130,27.6768168]
+  other tags : crossing=zebra | highway=crossing
+    geometry : [53.8390971,27.6769142]
 n1786141770
-  other tags : highway=crossing
-    geometry : [53.8392464,27.6763653]
+  other tags : crossing=zebra | highway=crossing
+    geometry : [53.8392493,27.6763240]
 n1786141871
   other tags : highway=crossing
     geometry : [53.8410642,27.6828558]
@@ -9040,3 +9040,9 @@ n3255187157
 n3255187160
   other tags : crossing=zebra | highway=crossing
     geometry : [53.8369163,27.6899815]
+n3255307210
+  other tags : crossing=zebra | highway=crossing
+    geometry : [53.8341415,27.6894530]
+n3255307221
+  other tags : crossing=zebra | highway=crossing
+    geometry : [53.8316758,27.6880823]
