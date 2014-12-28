@@ -491,7 +491,7 @@ w199800129  null / null / детский дом
   other tags : building=yes
     geometry : n2097990085[54.2881659,30.9809327] n2097990075[54.2880059,30.9812798] n2097990070[54.2879161,30.9811583] n2097990080[54.2880761,30.9808113] n2097990085[54.2881659,30.9809327]
 w199800131  null / null / "Лакомка"
-  other tags : amenity=cafe | building=yes | cuisine=pizza | internet_access=no | opening_hours=10.00-23.00 | smoking=separated
+  other tags : amenity=cafe | building=yes | cuisine=pizza | internet_access=no | opening_hours=10:00-23:00 | smoking=separated
     geometry : n2097990137[54.2888655,30.9834122] n2097990123[54.2887753,30.9833085] n2097990116[54.2886971,30.9835082] n2097990126[54.2887873,30.9836119] n2097990137[54.2888655,30.9834122]
 w199800133  null / null / Неведомственная охрана
   other tags : building=yes | office=administrative
@@ -1007,7 +1007,7 @@ w203437283
   other tags : building=yes
     geometry : n2134532097[54.2885000,30.9733034] n2134532086[54.2884761,30.9733530] n2134532105[54.2885181,30.9734122] n2134532114[54.2885419,30.9733626] n2134532097[54.2885000,30.9733034]
 w203437284  null / null / Каприз
-  other tags : addr:city=Горки | addr:street=улица Якубовского | building=yes | opening_hours=9.00-18.00 | operator=ЧП КАприз | shop=cosmetics
+  other tags : addr:city=Горки | addr:street=улица Якубовского | building=yes | opening_hours=9:00-18:00 | operator=ЧП КАприз | shop=cosmetics
     geometry : n2134531870[54.2878588,30.9854664] n2134531854[54.2877997,30.9856146] n2134531835[54.2877390,30.9855435] n2134531852[54.2877981,30.9853953] n2134531870[54.2878588,30.9854664]
 w203437285
   other tags : building=yes
@@ -6611,5 +6611,5 @@ w306271356  null / null / Амфитеатр
   other tags : addr:city=Горки | addr:street=улица Мичурина | building=yes
     geometry : n3111354340[54.2959374,30.9906331] n3111354341[54.2959324,30.9910352] n3111354342[54.2955727,30.9910222] n3111354343[54.2955776,30.9906202] n3111354340[54.2959374,30.9906331]
 w318954770  null / null / Городской рынок
-  other tags : addr:city=Горки | addr:street=переулок Якубовского | amenity=marketplace | building=yes | opening_hours=8.00-16.00 | operator=Горецкий РИК
+  other tags : addr:city=Горки | addr:street=переулок Якубовского | amenity=marketplace | building=yes | opening_hours=8:00-16:00 | operator=Горецкий РИК
     geometry : n3253563861[54.2873444,30.9821543] n3253563862[54.2872411,30.9820363] n3253563863[54.2871065,30.9823581] n3253563864[54.2872067,30.9824815] n3253563861[54.2873444,30.9821543]
