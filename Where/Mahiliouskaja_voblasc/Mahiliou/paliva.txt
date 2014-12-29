@@ -1,6 +1,6 @@
 n306068510  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes
-    geometry : [53.9002600,30.3574800]
+    geometry : [53.9006757,30.3570419]
 n918326335  null / null / АГНКС Могилёв-1 / АГНКС Могилёв-1
   other tags : amenity=fuel | fuel:cng=yes | opening_hours=24/7 | operator=Белтрансгаз | phone=+375-222-318717, +375-222-318707 | website=http://www.metan.by/
     geometry : [53.9355769,30.3682494]
@@ -73,3 +73,6 @@ w183453835
 w222153260  null / null / АЗС №16
   other tags : addr:housenumber=29 | addr:street=проспект Шмидта | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_98=yes | opening_hours=24/7 | shop=yes
     geometry : n2311302084[53.8538165,30.3355871] n2311302082[53.8536605,30.3355470] n2311302083[53.8536718,30.3354200] n2311302085[53.8538279,30.3354600] n2311302084[53.8538165,30.3355871]
+w319211955
+  other tags : amenity=fuel
+    geometry : n3256278063[53.9007391,30.3566771] n3256267668[53.9008403,30.3571792] n3256278062[53.8999566,30.3576921] n3256278061[53.8999297,30.3577077] n3256267664[53.8998285,30.3572056] n3256278063[53.9007391,30.3566771]
