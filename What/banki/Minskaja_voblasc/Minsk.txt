@@ -769,9 +769,9 @@ n2365928123  null / null / Беларусьбанк
 n2377107838  Франсабанк / null / Франсабанк / Франсабанк
   other tags : amenity=bank
     geometry : [53.9114949,27.4545673]
-n2379967640  null / null / Белагропромбанк
-  other tags : amenity=bank | atm=yes
-    geometry : [53.8598320,27.4367878]
+n2379967640  null / null / Белагропромбанк, РКЦ №24
+  other tags : addr:city=Минск | addr:housenumber=88А | addr:postcode=220051 | addr:street=Рафиева | amenity=bank | atm=yes | opening_hours=пн-пт: 09.00-19.30, сб: 09.30-16.30, вс: выходной;вторая пятница каждого месяца: 10.00-19.30, последний рабочий день месяц: 9.30-18.00 | phone=+375 17 206-13-93 | website=bapb.by
+    geometry : [53.8599040,27.4368686]
 n2405146444  null / null / МТБанк
   other tags : amenity=bank
     geometry : [53.9251653,27.5084647]
