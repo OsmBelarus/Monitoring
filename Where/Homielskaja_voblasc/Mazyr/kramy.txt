@@ -389,7 +389,7 @@ n3235804664  null / null / Промтовары
 n3235804665
   other tags : shop=hairdresser
     geometry : [52.0523653,29.2443888]
-n3235822682  null / null / Природа
+n3235822682  null / null / Зоо-Природа
   other tags : shop=yes
     geometry : [52.0522556,29.2605089]
 n3235822683  null / null / Корм для животных
@@ -426,7 +426,7 @@ n3253246212  null / null / Зима-лето
   other tags : shop=clothes
     geometry : [52.0504743,29.2639247]
 n3253246213  null / null / WBR.by
-  other tags : shop=clothes
+  other tags : addr:housenumber=128 | addr:street=Советская улица | shop=clothes
     geometry : [52.0509196,29.2632059]
 n3253246214  null / null / КулинариЯ
   other tags : shop=farm
@@ -437,3 +437,12 @@ n3253246215
 n3253246222
   other tags : shop=stationery
     geometry : [52.0519456,29.2613713]
+n3257797495
+  other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=hairdresser
+    geometry : [52.0475133,29.2574272]
+n3257797496  null / null / Полесье-6
+  other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=yes
+    geometry : [52.0478828,29.2580441]
+n3257797500  null / null / Стужка
+  other tags : addr:housenumber=132 | addr:street=Советская улица | shop=curtain
+    geometry : [52.0499694,29.2647443]
