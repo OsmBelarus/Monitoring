@@ -5279,7 +5279,7 @@ n1740173470  null / null / Фирменный магазин часового з
 n1740228900  null / null / Рублёвский
   other tags : shop=convenience
     geometry : [53.9268808,27.6139413]
-n1740330553  null / null / Звычайны
+n1740330553  null / null / Родная сторона
   other tags : shop=convenience
     geometry : [53.9545882,27.6181238]
 n1740330556  null / null / Продукты
@@ -6948,9 +6948,6 @@ n2613144934  null / null / Мини-маг
 n2613165417  null / null / Лит.ra
   other tags : addr:street=проспект Рокоссовского | opening_hours=9:00-23:00 | shop=alcohol
     geometry : [53.8554082,27.6093392]
-n2613166805  null / null / Детский мир
-  other tags : addr:street=Логойский тракт | shop=toys
-    geometry : [53.9529816,27.6179867]
 n2613169438  null / null / Минимаркет
   other tags : addr:street=улица Калинина | shop=Продуктовый
     geometry : [53.9301176,27.5989913]
@@ -9055,8 +9052,8 @@ n3205827776  null / null / Русское золото
 n3205827842  null / null / Butterfly
   other tags : shop=yes
     geometry : [53.9438468,27.6091529]
-n3205832182
-  other tags : shop=furniture
+n3205832182  null / null / Атлас
+  other tags : addr:housenumber=27 | addr:street=Логойский тракт | shop=furniture
     geometry : [53.9521414,27.6172902]
 n3205834935  null / null / Белсоюзпечать
   other tags : shop=kiosk
@@ -9166,12 +9163,9 @@ n3206014223
 n3206016277  null / null / Эгоистка
   other tags : shop=beauty
     geometry : [53.9466657,27.6113142]
-n3206019265  null / null / солярий
-  other tags : shop=beauty
+n3206020411  null / null / velcom;солярий
+  other tags : addr:housenumber=25/1 | addr:street=Логойский тракт | shop=mobile_phone;beauty
     geometry : [53.9532637,27.6182987]
-n3206020411  null / null / velcom
-  other tags : shop=mobile_phone
-    geometry : [53.9531835,27.6182987]
 n3206178275  null / null / Баернкрафт
   other tags : shop=car_parts
     geometry : [53.8828088,27.4395096]
@@ -9319,8 +9313,8 @@ n3208646752  null / null / Студия красоты "Дива"
 n3208647134  null / null / Тритон
   other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | shop=pet
     geometry : [53.9475326,27.6290112]
-n3208650144  null / null / ООО АРТГОР
-  other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | shop=optician
+n3208650144  null / null / Оптика
+  other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | operator=ООО АРТГОР | shop=optician
     geometry : [53.9475001,27.6285091]
 n3208650145  null / null / ООО Охота
   other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | shop=yes
@@ -9336,7 +9330,7 @@ n3208652349  null / null / Молодечномебель
     geometry : [53.9471134,27.6285895]
 n3208654166  null / null / Сивельга
   other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | shop=shoes
-    geometry : [53.9470787,27.6299199]
+    geometry : [53.9472964,27.6295514]
 n3208654836  null / null / ПростоСтрой
   other tags : shop=supermarket
     geometry : [53.9153981,27.4355065]
@@ -9661,3 +9655,15 @@ n3258012721
 n3258013433
   other tags : shop=optician
     geometry : [53.8760509,27.6276699]
+n3259047245  null / null / Мила
+  other tags : addr:city=Минск | addr:housenumber=55Д | addr:postcode=220103 | addr:street=улица Калиновского | shop=cosmetics
+    geometry : [53.9473690,27.6291920]
+n3259057424  null / null / Белсоюзпечать
+  other tags : addr:city=минск | addr:street=Логойский тракт | shop=kiosk
+    geometry : [53.9536669,27.6211454]
+n3259070096  null / null / Детский мир
+  other tags : addr:housenumber=27 | addr:street=Логойский тракт | shop=baby_goods
+    geometry : [53.9510216,27.6162316]
+n3259075545  null / null / Дюа-ли
+  other tags : addr:housenumber=1 | addr:street=улица Гамарника | shop=hairdresser
+    geometry : [53.9549907,27.6175573]
