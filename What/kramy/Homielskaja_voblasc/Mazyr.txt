@@ -20,7 +20,7 @@ n616960665  Аўтазапчасткі / null / null / Автозапчасти
   other tags : shop=car_parts
     geometry : [52.0476343,29.2400045]
 n617964437  null / null / Мегатоп
-  other tags : shop=clothes
+  other tags : addr:housenumber=96А | addr:street=Интернациональная улица | shop=shoes
     geometry : [52.0365492,29.2644023]
 n674417844  null / null / Рынок Привоз
   other tags : shop=yes
@@ -138,7 +138,7 @@ n1513512264  null / null / Ofiston
   other tags : shop=stationery
     geometry : [52.0334073,29.2598255]
 n2143742204  null / null / Гарсия
-  other tags : shop=alcohol
+  other tags : addr:housenumber=96А | addr:street=Интернациональная улица | shop=alcohol
     geometry : [52.0363447,29.2647883]
 n2143742791  null / null / Белсоюзпечать
   other tags : shop=kiosk

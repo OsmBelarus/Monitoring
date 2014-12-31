@@ -1,11 +1,11 @@
 n1139323121  Беларусбанк / null / Беларусбанк / Беларусбанк
-  other tags : amenity=bank
-    geometry : [52.0788046,29.1985517]
+  other tags : addr:housenumber=120 | addr:street=Социалистическая улица | amenity=bank | atm=yes
+    geometry : [52.0780481,29.1997088]
 n2150262519
   other tags : amenity=bank
     geometry : [52.0364294,29.2187004]
 n2154238300  null / null / Беларусбанк
-  other tags : amenity=bank
+  other tags : addr:housenumber=39 | addr:street=бульвар Юности | amenity=bank | atm=yes
     geometry : [52.0321672,29.2229572]
 n2154240600  null / null / Белросбанк
   other tags : amenity=bank
@@ -25,9 +25,9 @@ n2763760310  null / null / Альфа-Банк
 n2763834862  null / null / Идея Банк
   other tags : amenity=bank
     geometry : [52.0359392,29.2095674]
-n3229311541  null / null / Отделение "Беларусбанка"
-  other tags : amenity=bank
-    geometry : [52.0355179,29.2626640]
+n3229311541  null / null / Беларусбанк
+  other tags : addr:housenumber=126 | addr:street=Интернациональная улица | amenity=bank | atm=yes
+    geometry : [52.0355217,29.2625556]
 n3253246188  null / null / Белагропромбанк
   other tags : addr:housenumber=32 | addr:street=улица Пушкина | amenity=bank | atm=yes
     geometry : [52.0475942,29.2585603]
@@ -37,6 +37,12 @@ n3253246210  null / null / Беларусбанк
 n3257797498  null / null / ХоумКредитБанк
   other tags : addr:housenumber=132 | addr:street=Советская улица | amenity=bank
     geometry : [52.0497764,29.2647389]
+n3259602862  null / null / Беларусбанк
+  other tags : addr:housenumber=10 | addr:street=улица Нефтестроителей | amenity=bank | atm=yes
+    geometry : [52.0403791,29.2161051]
+n3259602863  null / null / Беларусбанк
+  other tags : addr:housenumber=131 | addr:street=бульвар Юности | amenity=bank | atm=yes
+    geometry : [52.0254752,29.2069105]
 w115822468  null / null / БелВЭБ
   other tags : addr:housenumber=4 | addr:street=улица Саета | amenity=bank | atm=yes | building=yes
     geometry : n1307488224[52.0496977,29.2623622] n1307488350[52.0496046,29.2624368] n1307488340[52.0497107,29.2627872] n1307488368[52.0498039,29.2627126] n1307488224[52.0496977,29.2623622]
@@ -67,3 +73,9 @@ w293844480  null / null / Дельта-Банк / Дельта Банк
 w319528884  null / null / Беларусбанк
   other tags : addr:housenumber=14 | addr:street=улица Притыцкого | amenity=bank | atm=yes | building=yes
     geometry : n1285961162[52.0365035,29.2131250] n3259532761[52.0365946,29.2134444] n3259532762[52.0364016,29.2135785] n3259532763[52.0363092,29.2132459] n1285961098[52.0363579,29.2132240] n1285961162[52.0365035,29.2131250]
+w319538340  null / null / Беларусбанк
+  other tags : addr:housenumber=5 | addr:street=Страконицкий бульвар | amenity=bank | atm=yes | building=yes
+    geometry : n3259601120[52.0270650,29.2442494] n3259601122[52.0269302,29.2444592] n3259601123[52.0268334,29.2442950] n3259601124[52.0269518,29.2441105] n3259601125[52.0269659,29.2441343] n3259601121[52.0269822,29.2441089] n3259601120[52.0270650,29.2442494]
+w319538345  null / null / Беларусбанк
+  other tags : addr:housenumber=32 | addr:street=Полесская улица | amenity=bank | area=yes | atm=yes | building=yes
+    geometry : n2497695238[52.0571262,29.2245475] n3259601145[52.0570745,29.2246187] n3259601146[52.0570951,29.2246581] n3259601147[52.0570440,29.2247284] n3259601148[52.0569398,29.2245281] n3259601149[52.0569655,29.2244927] n3259601150[52.0569263,29.2244175] n3259601151[52.0571540,29.2241040] n3259601152[52.0572771,29.2243405] n2497695251[52.0572066,29.2244376] n2497695238[52.0571262,29.2245475]
