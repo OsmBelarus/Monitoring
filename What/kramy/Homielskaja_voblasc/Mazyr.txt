@@ -7,8 +7,8 @@ n306064734  СТА / null / null / СТО
 n306064787  СТА / null / null / СТО
   other tags : shop=car
     geometry : [52.0271861,29.2247856]
-n613399261  Еўраопт / null / null / Евроопт
-  other tags : shop=supermarket
+n613399261  Еўраопт / null / Евроопт / Евроопт
+  other tags : addr:housenumber=138 | addr:street=Советская улица | shop=supermarket
     geometry : [52.0486949,29.2667886]
 n616095143  null / null / Интерплаза
   other tags : shop=convenience
@@ -112,16 +112,13 @@ n1315457979
     geometry : [52.0315838,29.2343097]
 n1345884663  null / null / Магазин Аметист
   other tags : shop=supermarket
-    geometry : [52.0350738,29.2145411]
-n1345886023  null / null / Бахус
-  other tags : shop=convenience
-    geometry : [52.0353245,29.2090402]
+    geometry : [52.0350048,29.2144153]
 n1345886494  null / null / Корзинка
   other tags : shop=convenience
     geometry : [52.0319716,29.2145733]
 n1345888060
   other tags : shop=hairdresser
-    geometry : [52.0347504,29.2149488]
+    geometry : [52.0347078,29.2148069]
 n1345889522  null / null / Дом Быта
   other tags : shop=laundry
     geometry : [52.0446154,29.2721244]
@@ -440,3 +437,9 @@ n3257797500  null / null / Стужка
 n3259525691  null / null / Оптика
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
     geometry : [52.0490255,29.2415459]
+n3259700370  null / null / Евроопт
+  other tags : addr:housenumber=34 | addr:street=Полесская улица | shop=supermarket
+    geometry : [52.0582466,29.2255358]
+n3259700371  null / null / Евроопт
+  other tags : addr:housenumber=48 | addr:street=Первомайская улица | shop=supermarket
+    geometry : [52.0452360,29.2383782]

@@ -1,6 +1,3 @@
-n306064755  null / null / Сергия Радонежского Храм
-  other tags : amenity=place_of_worship
-    geometry : [52.0318300,29.2131400]
 n3213961475  null / null / Евангельская церковь "Источник жизни"
   other tags : addr:housenumber=57 | addr:street=Нагорная улица | amenity=place_of_worship | denomination=evangelical | religion=christian
     geometry : [52.0470399,29.2502655]
@@ -22,6 +19,9 @@ w204548755  null / null / Кафедральный собор святого А�
 w205044380  null / null / Храм святителя Николая Чудотворца
   other tags : addr:housenumber=154 | addr:street=Советская улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2150209236[52.0477618,29.2699172] n2150209235[52.0478739,29.2700888] n2150209237[52.0477188,29.2703678] n2150209234[52.0476045,29.2701929] n2150209236[52.0477618,29.2699172]
+w242270953  null / null / Храм Сергия Радонежского
+  other tags : addr:housenumber=16А | addr:street=бульвар Юности | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n2497786164[52.0321413,29.2133457] n2497786158[52.0319550,29.2130166] n2497786156[52.0318178,29.2132218] n2497786160[52.0320042,29.2135509] n2497786164[52.0321413,29.2133457]
 w263260180  null / null / храм Введения во храм Пресвятой Богородицы
   other tags : addr:housenumber=10А | addr:street=улица Нелидова | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2688782309[52.0865929,29.2266676] n2688782310[52.0864710,29.2268527] n2688782311[52.0864331,29.2267883] n2688782312[52.0865583,29.2266005] n2688782309[52.0865929,29.2266676]
