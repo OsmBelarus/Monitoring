@@ -11,10 +11,10 @@ n674421712  null / null / Припять
   other tags : addr:housenumber=8 | addr:street=Пролетарская улица | amenity=restaurant | cuisine=regional
     geometry : [52.0527172,29.2537975]
 n1281986746  null / null / Che Guevara / Че Гевара
-  other tags : amenity=cafe | cuisine=pizza
+  other tags : addr:housenumber=3 | addr:street=бульвар Дружбы | amenity=cafe | cuisine=pizza | opening_hours=mo-su 10:00-23:00
     geometry : [52.0306420,29.2406699]
-n1282245423
-  other tags : amenity=restaurant
+n1282245423  null / null / Старый город
+  other tags : addr:housenumber=1 | addr:street=Октябрьская улица | amenity=restaurant | cuisine=regional
     geometry : [52.0527080,29.2448318]
 n1501904251  null / null / Joy Cafe
   other tags : addr:housenumber=17 | addr:street=площадь Ленина | amenity=cafe | cuisine=pizza
@@ -23,7 +23,7 @@ n2147526606  null / null / Нестерка
   other tags : amenity=cafe
     geometry : [52.0447618,29.2568598]
 n2150284779  null / null / York
-  other tags : amenity=pub
+  other tags : addr:housenumber=1А | addr:street=улица Малинина Н.И. | amenity=pub
     geometry : [52.0368402,29.2065607]
 n3023037788  null / null / Полесье
   other tags : amenity=restaurant
@@ -35,7 +35,7 @@ n3030145690
   other tags : amenity=cafe
     geometry : [52.0328086,29.2221045]
 n3144538416  null / null / Зебра
-  other tags : amenity=cafe
+  other tags : addr:housenumber=11а | addr:street=бульвар Дружбы | amenity=cafe | cuisine=sushi
     geometry : [52.0307779,29.2425321]
 n3171934542  null / null / Летнее кафе
   other tags : amenity=cafe
@@ -43,3 +43,12 @@ n3171934542  null / null / Летнее кафе
 n3235804662  null / null / Столовая
   other tags : addr:housenumber=14 | addr:street=Октябрьская улица | amenity=cafe | cuisine=regional
     geometry : [52.0537838,29.2415779]
+n3260037083  null / null / Кок
+  other tags : addr:housenumber=22 | addr:street=улица Нефтестроителей | amenity=cafe
+    geometry : [52.0380961,29.2082570]
+n3260037085  null / null / Пеперони
+  other tags : addr:housenumber=8 | addr:street=улица Притыцкого | amenity=cafe | cuisine=pizza
+    geometry : [52.0375664,29.2145682]
+n3260037088  null / null / Стиль
+  other tags : addr:housenumber=7 | addr:street=Ленинская улица | amenity=cafe
+    geometry : [52.0460262,29.2644198]
