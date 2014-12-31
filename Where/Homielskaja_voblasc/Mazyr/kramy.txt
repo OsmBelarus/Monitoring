@@ -119,9 +119,6 @@ n1345886023  null / null / Бахус
 n1345886494  null / null / Корзинка
   other tags : shop=convenience
     geometry : [52.0319716,29.2145733]
-n1345887927  Гаспадарчыя тавары / null / Хозтовары / Хозтовары
-  other tags : shop=doityourself
-    geometry : [52.0360836,29.2101852]
 n1345888060
   other tags : shop=hairdresser
     geometry : [52.0347504,29.2149488]
@@ -230,12 +227,6 @@ n2674885121  null / null / Эконом
 n2674890721  null / null / Дары от зари 22
   other tags : shop=convenience
     geometry : [52.0863272,29.2279286]
-n2759481313  null / null / Старажытны
-  other tags : shop=furniture
-    geometry : [52.0362699,29.2126868]
-n2759481316  null / null / Старажытны
-  other tags : shop=convenience
-    geometry : [52.0363190,29.2130583]
 n2759481319
   other tags : shop=stationery
     geometry : [52.0365849,29.2151859]
@@ -337,7 +328,7 @@ n3171934543  null / null / Мебельный
     geometry : [52.0344298,29.2140927]
 n3171934548
   other tags : shop=garden_centre
-    geometry : [52.0360971,29.2101044]
+    geometry : [52.0360885,29.2097689]
 n3171959206  null / null / Пиво в розлив
   other tags : shop=alcohol
     geometry : [52.0266723,29.2137472]
@@ -362,7 +353,7 @@ n3227912919
 n3227912920  null / null / Центр слуха
   other tags : addr:housenumber=9 | addr:street=Ленинская улица | shop=hearing_aids
     geometry : [52.0458990,29.2636934]
-n3227912929
+n3227912929  null / null / Оптика
   other tags : addr:housenumber=19 | addr:street=Ленинская улица | shop=optician
     geometry : [52.0455327,29.2615047]
 n3229298065  null / null / Магазин "Марко"
@@ -446,3 +437,6 @@ n3257797496  null / null / Полесье-6
 n3257797500  null / null / Стужка
   other tags : addr:housenumber=132 | addr:street=Советская улица | shop=curtain
     geometry : [52.0499694,29.2647443]
+n3259525691  null / null / Оптика
+  other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
+    geometry : [52.0490255,29.2415459]
