@@ -5,10 +5,10 @@ n1285652860  null / null / Приорбанк
   other tags : addr:housenumber=162 | addr:street=Интернациональная улица | amenity=bank | atm=yes
     geometry : [52.0335127,29.2598700]
 n2154238300  null / null / Беларусбанк
-  other tags : addr:housenumber=39 | addr:street=бульвар Юности | amenity=bank | atm=yes
+  other tags : addr:housenumber=39А | addr:street=бульвар Юности | amenity=bank | atm=yes
     geometry : [52.0321672,29.2229572]
 n2154240600  null / null / Белросбанк
-  other tags : amenity=bank
+  other tags : addr:housenumber=39Б | addr:street=бульвар Юности | amenity=bank | atm=yes
     geometry : [52.0317184,29.2236437]
 n2674890720  null / null / Беларусбанк
   other tags : amenity=bank
@@ -20,7 +20,7 @@ n2760147840  null / null / Приорбанк
   other tags : amenity=bank
     geometry : [52.0362354,29.2062407]
 n2763760310  null / null / Альфа-Банк
-  other tags : amenity=bank
+  other tags : addr:housenumber=14 | addr:street=бульвар Дружбы | amenity=bank | atm=yes
     geometry : [52.0300320,29.2432266]
 n2763834862  null / null / Идея Банк
   other tags : amenity=bank

@@ -4,9 +4,6 @@ n306064579
 n674418503  Аптэка / null / Аптека №190 Центральная / Аптека
   other tags : addr:housenumber=3 | addr:street=улица Рыжкова | amenity=pharmacy
     geometry : [52.0476600,29.2546800]
-n674423181  Аптэка / null / Аптека "Нелли-фарм" / Аптека
-  other tags : amenity=pharmacy | dispensing=yes
-    geometry : [52.0395688,29.2721702]
 n674423880  Аптэка / null / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [52.0263179,29.2312014]
@@ -19,11 +16,8 @@ n2145441507  null / null / Планета здоровья
 n2145457521
   other tags : amenity=pharmacy
     geometry : [52.0466458,29.2719016]
-n2150275393  null / null / Нелли-фарм
-  other tags : amenity=pharmacy
-    geometry : [52.0369771,29.2186253]
 n2154238063  null / null / Планета Здоровья
-  other tags : amenity=pharmacy
+  other tags : addr:housenumber=37А | addr:street=бульвар Юности | amenity=pharmacy
     geometry : [52.0324197,29.2225145]
 n2154240604
   other tags : amenity=pharmacy
@@ -34,15 +28,12 @@ n2755885428  null / null / аптека №63
 n2758938583  null / null / Аптека
   other tags : addr:housenumber=2Г | addr:postcode=247760 | addr:street=улица Притыцкого | amenity=pharmacy
     geometry : [52.0368005,29.2178734]
-n2760147843
-  other tags : amenity=pharmacy
+n2760147843  null / null / Планета здоровья
+  other tags : addr:housenumber=13 | addr:street=улица Малинина Н.И. | amenity=pharmacy
     geometry : [52.0352362,29.2016756]
 n2763834883
   other tags : amenity=pharmacy
     geometry : [52.0367599,29.2066079]
-n3031649737  null / null / Аптека
-  other tags : addr:housenumber=79 | addr:postcode=247760 | addr:street=бульвар Юности | amenity=pharmacy
-    geometry : [52.0282799,29.2146035]
 n3227912928  null / null / Аптека №62
   other tags : addr:housenumber=19 | addr:street=Ленинская улица | amenity=pharmacy
     geometry : [52.0455525,29.2616657]
@@ -61,3 +52,9 @@ n3259601127
 n3259602861
   other tags : addr:housenumber=156 | addr:street=Интернациональная улица | amenity=pharmacy
     geometry : [52.0351917,29.2615364]
+n3259750927  null / null / Планета здоровья
+  other tags : addr:housenumber=82 | addr:street=Пролетарская улица | amenity=pharmacy
+    geometry : [52.0517706,29.2439129]
+n3259750929  null / null / Плантеа здоровья
+  other tags : addr:housenumber=79А | addr:street=бульвар Юности | amenity=pharmacy
+    geometry : [52.0282453,29.2146862]
