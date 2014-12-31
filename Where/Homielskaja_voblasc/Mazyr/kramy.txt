@@ -22,9 +22,6 @@ n617964437  null / null / Мегатоп
 n674417844  null / null / Рынок Привоз
   other tags : shop=yes
     geometry : [52.0297700,29.2411400]
-n674417856  null / null / На Ростанях
-  other tags : shop=supermarket
-    geometry : [52.0290200,29.2416200]
 n674417881
   other tags : shop=yes
     geometry : [52.0324900,29.2358400]
@@ -43,16 +40,10 @@ n674419910  null / null / Санта / Санта
 n674420655  null / null / Сосновый / Сосновый
   other tags : shop=car_repair
     geometry : [52.0225600,29.2296600]
-n674421433  null / null / Смак
-  other tags : shop=supermarket
-    geometry : [52.0397568,29.2723873]
 n674421955  Аўтарынак / null / Авторынок / Авторынок
   other names: name:uk=Авторынок
   other tags : service=parts | shop=car
     geometry : [52.0395090,29.1935432]
-n674423362
-  other tags : shop=convenience
-    geometry : [52.0255600,29.2272600]
 n674424021  null / null / Новосёл
   other tags : shop=hardware
     geometry : [52.0326200,29.2602800]
@@ -87,7 +78,7 @@ n1231316238  null / null / фотосалон Точка
   other tags : level=1 | shop=photo
     geometry : [52.0352669,29.2090351]
 n1282245340  null / null / ЭкономЪ
-  other tags : shop=supermarket
+  other tags : addr:housenumber=1А | addr:street=улица Рыжкова | shop=supermarket
     geometry : [52.0480075,29.2550025]
 n1284595356  СТА / null / СТО / СТО
   other tags : addr:street=Интернациональная улица | shop=car_repair
@@ -104,9 +95,6 @@ n1286125421  Шынамантаж / null / Шиномонтаж / Шиномон
 n1286202878  null / null / Родная сторона
   other tags : addr:housenumber=75 | addr:street=Ленинская улица | shop=supermarket
     geometry : [52.0433621,29.2500027]
-n1315457979
-  other tags : shop=supermarket
-    geometry : [52.0315838,29.2343097]
 n1345884663  null / null / Магазин Аметист
   other tags : shop=supermarket
     geometry : [52.0350048,29.2144153]
@@ -176,9 +164,6 @@ n2150148547
 n2150192831
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=alcohol
     geometry : [52.0475834,29.2670207]
-n2150258967
-  other tags : shop=laundry
-    geometry : [52.0265613,29.2263498]
 n2150262769  null / null / Союзпечать
   other tags : shop=newsagent
     geometry : [52.0367675,29.2182310]
@@ -203,9 +188,6 @@ n2154240617
 n2349847816  null / null / Соседи
   other tags : shop=supermarket
     geometry : [52.0307744,29.2426045]
-n2349859899
-  other tags : shop=convenience
-    geometry : [52.0288766,29.2412821]
 n2674863463  null / null / Свежая выпечка
   other tags : shop=convenience
     geometry : [52.0845793,29.2319782]
@@ -408,7 +390,7 @@ n3253246213  null / null / WBR.by
   other tags : addr:housenumber=128 | addr:street=Советская улица | shop=clothes
     geometry : [52.0509196,29.2632059]
 n3253246214  null / null / КулинариЯ
-  other tags : shop=farm
+  other tags : addr:housenumber=116 | addr:street=Советская улица | shop=farm
     geometry : [52.0518466,29.2583350]
 n3253246215
   other tags : shop=florist
@@ -434,3 +416,15 @@ n3259700370  null / null / Евроопт
 n3259700371  null / null / Евроопт
   other tags : addr:housenumber=48 | addr:street=Первомайская улица | shop=supermarket
     geometry : [52.0452360,29.2383782]
+n3259863647  null / null / Жемчужина
+  other tags : addr:housenumber=44 | addr:street=Студенческая улица | shop=yes
+    geometry : [52.0492218,29.2573682]
+n3259863648  null / null / Припять
+  other tags : addr:housenumber=14 | addr:street=улица Котловца М.П. | shop=yes
+    geometry : [52.0262546,29.2313025]
+n3259863649  null / null / Припятский
+  other tags : shop=yes
+    geometry : [52.0522139,29.2442683]
+n3259863650  null / null / Мясная лавка
+  other tags : addr:housenumber=20 | addr:street=бульвар Юности | shop=butcher
+    geometry : [52.0346360,29.2139701]
