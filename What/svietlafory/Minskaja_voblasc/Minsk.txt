@@ -465,7 +465,7 @@ n320719183  Таварная / null / Товарная
     geometry : [53.8847242,27.5356556]
 n320719185  Таварная / null / Товарная
   other tags : highway=bus_stop
-    geometry : [53.8843800,27.5357000]
+    geometry : [53.8842448,27.5357863]
 n320719187  ст.м. Інстытут Культуры / null / Институт Культуры
   other tags : highway=bus_stop
     geometry : [53.8858319,27.5408611]
@@ -5502,3 +5502,9 @@ n3248338914  null / null / Просп. газ "Звезда"
 n3268510199  null / null / ДС Калиновского
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9437400,27.6428262]
+n3269450819  null / null / Железнодорожная
+  other tags : highway=bus_stop
+    geometry : [53.8706778,27.4938347]
+n3269450820  Гандлёвы цэнтр «Кірмаш» / null / ТЦ Кирмаш / Торговый Центр «Кирмаш»
+  other tags : highway=bus_stop
+    geometry : [53.8647791,27.4836324]
