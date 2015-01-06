@@ -14,52 +14,52 @@ w29225752
   other tags : addr:city=Колодищи | addr:housenumber=7 | addr:street=Минская улица | building=house
     geometry : n321449618[53.9552763,27.7761350] n321449619[53.9551939,27.7761921] n321449620[53.9552366,27.7763706] n321449621[53.9553270,27.7763081] n3174484241[53.9553159,27.7762622] n3174484242[53.9553570,27.7762338] n3174484240[53.9553352,27.7761427] n3174484239[53.9552863,27.7761765] n321449618[53.9552763,27.7761350]
 w29225874
-  other tags : building=apartments
+  other tags : addr:housenumber=6 | addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n321451361[53.9535925,27.7805943] n321451363[53.9534408,27.7805939] n321451364[53.9534401,27.7813955] n321451365[53.9535917,27.7813959] n321451361[53.9535925,27.7805943]
 w29225876
-  other tags : building=apartments
+  other tags : addr:housenumber=12 | addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n321451500[53.9533209,27.7820398] n321451501[53.9533244,27.7822499] n321451502[53.9528243,27.7822740] n321451504[53.9528208,27.7820639] n321451500[53.9533209,27.7820398]
 w29230091
-  other tags : addr:housenumber=10 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=10 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n321506455[53.9482636,27.7700435] n321506456[53.9482878,27.7702086] n321506457[53.9479321,27.7703586] n321506458[53.9479079,27.7701935] n321506455[53.9482636,27.7700435]
 w29230098
-  other tags : building=apartments | building:type=house
+  other tags : addr:street=Короткая улица | building=apartments | building:levels=4 | building:type=house
     geometry : n321506479[53.9471641,27.7728084] n321506480[53.9472397,27.7729708] n321506481[53.9469969,27.7732972] n321506482[53.9469213,27.7731347] n321506479[53.9471641,27.7728084]
 w29230103
-  other tags : addr:housenumber=13 | addr:street=Лесная улица | building=apartments | building:type=house
+  other tags : addr:housenumber=13 | addr:street=Короткая улица | building=apartments | building:levels=4 | building:type=house
     geometry : n321506488[53.9471957,27.7737677] n321506489[53.9472731,27.7739436] n321506490[53.9475480,27.7735944] n321506491[53.9474706,27.7734185] n321506488[53.9471957,27.7737677]
 w29230107
-  other tags : addr:housenumber=4 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=4 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n321506494[53.9478822,27.7724164] n321506495[53.9479144,27.7725980] n321506496[53.9475626,27.7727781] n321506497[53.9475304,27.7725965] n321506494[53.9478822,27.7724164]
 w29230110
-  other tags : addr:housenumber=3 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=3 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n321506506[53.9478229,27.7720558] n321506507[53.9478518,27.7722197] n321506508[53.9474962,27.7724005] n321506509[53.9474673,27.7722366] n321506506[53.9478229,27.7720558]
 w29230111
-  other tags : addr:housenumber=6 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=6 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n321506512[53.9479825,27.7705267] n321506513[53.9476264,27.7707141] n321506514[53.9476557,27.7708753] n321506515[53.9480118,27.7706879] n321506512[53.9479825,27.7705267]
 w29230116
-  other tags : addr:housenumber=7 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=7 | addr:street=улица Геофизика | building=apartments | building:levels=2
     geometry : n321506535[53.9478956,27.7708628] n321506536[53.9479487,27.7711756] n321506537[53.9480453,27.7711282] n321506538[53.9479922,27.7708154] n1620313889[53.9479593,27.7708316] n321506535[53.9478956,27.7708628]
 w29499987
-  other tags : addr:housenumber=11 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=11 | addr:street=улица Геофизика | building=apartments | building:levels=2
     geometry : n325178383[53.9483362,27.7703565] n325178384[53.9482337,27.7703776] n325178385[53.9482573,27.7707083] n325178386[53.9483597,27.7706872] n325178383[53.9483362,27.7703565]
 w29500007
-  other tags : addr:housenumber=12 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=12 | addr:street=улица Геофизика | building=apartments | building:levels=2
     geometry : n325178640[53.9482980,27.7709120] n325178643[53.9483427,27.7712434] n325178646[53.9484357,27.7712071] n325178648[53.9483911,27.7708758] n325178640[53.9482980,27.7709120]
 w29500012
-  other tags : addr:housenumber=13 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=13 | addr:street=улица Геофизика | building=apartments | building:levels=2
     geometry : n325178710[53.9484456,27.7712149] n325178712[53.9485203,27.7717014] n325178713[53.9486304,27.7716526] n325178714[53.9485557,27.7711661] n325178710[53.9484456,27.7712149]
 w29500020
-  other tags : addr:housenumber=1 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=1 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n325178754[53.9476653,27.7710720] n325178755[53.9476937,27.7712378] n325178756[53.9473395,27.7714127] n325178757[53.9473111,27.7712468] n325178754[53.9476653,27.7710720]
 w29500043
-  other tags : addr:housenumber=2 | addr:street=улица Геофизика | building=apartments | building:type=house
+  other tags : addr:housenumber=2 | addr:street=улица Геофизика | building=apartments | building:levels=2 | building:type=house
     geometry : n325178763[53.9473703,27.7716367] n325178764[53.9473972,27.7717969] n325178765[53.9477515,27.7716252] n325178766[53.9477246,27.7714650] n325178763[53.9473703,27.7716367]
 w29500057
-  other tags : addr:housenumber=8 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=8 | addr:street=улица Геофизика | building=apartments | building:levels=4
     geometry : n325178794[53.9479783,27.7714292] n325178796[53.9480515,27.7717434] n325178798[53.9482091,27.7716375] n325178800[53.9481359,27.7713233] n325178794[53.9479783,27.7714292]
 w29500064
-  other tags : addr:housenumber=9 | addr:street=улица Геофизика | building=apartments
+  other tags : addr:housenumber=9 | addr:street=улица Геофизика | building=apartments | building:levels=3
     geometry : n325178894[53.9482197,27.7722254] n325178895[53.9481245,27.7719345] n325178897[53.9482150,27.7718489] n325178900[53.9483103,27.7721398] n325178894[53.9482197,27.7722254]
 w29500099
   other tags : addr:city=Колодищи | addr:housenumber=32 | addr:street=Лесная улица | building=apartments | building:levels=3 | building:type=house
@@ -344,10 +344,10 @@ w67169957
   other tags : addr:housenumber=4 | addr:street=Кольцевая улица | building=house | building:levels=2 | source=http://obkgroup.by/ | website=http://obkgroup.by/contacts/contact_us.php
     geometry : n811245100[53.9731928,27.5375555] n811245583[53.9732294,27.5377777] n811245381[53.9730153,27.5378797] n811244716[53.9729787,27.5376574] n811245100[53.9731928,27.5375555]
 w76048247
-  other tags : addr:city=Колодищи | addr:housenumber=1 | addr:street=Минская улица | building=apartments
+  other tags : addr:city=Колодищи | addr:housenumber=1 | addr:street=Минская улица | building=apartments | building:levels=5
     geometry : n897347756[53.9564537,27.7833982] n897347757[53.9559039,27.7839011] n897347758[53.9559652,27.7840945] n897347759[53.9565149,27.7835917] n897347756[53.9564537,27.7833982]
 w76232908
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n899309823[53.9532383,27.7804938] n899309824[53.9532379,27.7806999] n899309825[53.9528193,27.7806980] n899309826[53.9528197,27.7804918] n899309823[53.9532383,27.7804938]
 w76726460
   other tags : addr:housenumber=36 | addr:street=улица Громовой | building=house
@@ -950,7 +950,7 @@ w223013556
   other tags : addr:housenumber=23 | addr:postcode=223048 | addr:street=Щедровщина | building=house | roof:material=eternit | roof:shape=gabled
     geometry : n2319608745[54.1533716,27.3628234] n2319608757[54.1534496,27.3629392] n2319608763[54.1535127,27.3628151] n2319608755[54.1534347,27.3626994] n2319608745[54.1533716,27.3628234]
 w223670572
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n2325403353[53.9532327,27.7815304] n2325403347[53.9524306,27.7815274] n2325403348[53.9524309,27.7813331] n2325403354[53.9532329,27.7813360] n2325403353[53.9532327,27.7815304]
 w225277478
   other tags : addr:housenumber=271 | addr:street=10 линия | building=house | building:levels=3
@@ -3758,10 +3758,10 @@ w307494363
   other tags : addr:housenumber=23 | addr:street=Новосельская улица | building=residential
     geometry : n3126679673[54.0002998,27.7195560] n3126679676[54.0003850,27.7195936] n3126679677[54.0003949,27.7195285] n3126679680[54.0004316,27.7195447] n3126679681[54.0004444,27.7194611] n3126679678[54.0004095,27.7194457] n3126679679[54.0004172,27.7193956] n3126679675[54.0003301,27.7193572] n3126679674[54.0003207,27.7194188] n3126679673[54.0002998,27.7195560]
 w308558183
-  other tags : addr:city=Колодищи | addr:street=Минская улица | building=apartments
+  other tags : addr:city=Колодищи | addr:street=Минская улица | building=apartments | building:levels=5
     geometry : n3138252694[53.9556961,27.7832925] n3138252695[53.9563839,27.7826815] n3138252696[53.9563143,27.7824551] n3138252697[53.9556265,27.7830661] n3138252694[53.9556961,27.7832925]
 w308558540
-  other tags : addr:city=Колодищи | addr:street=Минская улица | building=apartments
+  other tags : addr:city=Колодищи | addr:street=Минская улица | building=apartments | building:levels=5
     geometry : n3162586770[53.9565403,27.7828396] n3138257530[53.9566713,27.7827270] n3138257531[53.9567249,27.7828423] n3162586761[53.9567542,27.7829635] n3162586762[53.9567777,27.7830729] n3162586763[53.9567785,27.7831893] n3162586764[53.9567565,27.7832997] n3162586765[53.9567131,27.7833922] n3162586766[53.9565884,27.7834954] n3162586771[53.9565261,27.7832996] n3162586767[53.9565679,27.7832634] n3162586768[53.9565576,27.7832312] n3162586769[53.9566318,27.7831749] n3162586770[53.9565403,27.7828396]
 w308614860
   other tags : addr:city=Колодищи | addr:housenumber=33А | addr:street=Минская улица | building=house | building:levels=2
@@ -3773,10 +3773,10 @@ w308638426
   other tags : addr:city=Колодищи | building=house
     geometry : n3139070572[53.9546977,27.7745748] n3139070573[53.9546061,27.7746397] n3139070574[53.9546559,27.7748426] n3139070575[53.9547475,27.7747777] n3139070572[53.9546977,27.7745748]
 w308638518
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3139069065[53.9531976,27.7796401] n3139069066[53.9529646,27.7796430] n3139069067[53.9529656,27.7798903] n3139069068[53.9531987,27.7798873] n3139069065[53.9531976,27.7796401]
 w308638519
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3139069069[53.9527250,27.7800518] n3139069070[53.9524893,27.7800548] n3139069071[53.9524903,27.7802872] n3139069072[53.9527261,27.7802842] n3139069069[53.9527250,27.7800518]
 w309594206
   other tags : building=house
@@ -4682,7 +4682,7 @@ w311729144
   other tags : building=house
     geometry : n3174474314[53.9477365,27.7738576] n3174474315[53.9477645,27.7739352] n3174474316[53.9477991,27.7738993] n3174474317[53.9478492,27.7740386] n3174474318[53.9477163,27.7741768] n3174474319[53.9476664,27.7740381] n3174474320[53.9477233,27.7739789] n3174474321[53.9476951,27.7739006] n3174474314[53.9477365,27.7738576]
 w311730297
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n3174485484[53.9523299,27.7819826] n3174485485[53.9522217,27.7820814] n3174485486[53.9524188,27.7827051] n3174485487[53.9525271,27.7826063] n3174485484[53.9523299,27.7819826]
 w312717406
   other tags : building=house
@@ -4778,10 +4778,10 @@ w312913531
   other tags : building=house
     geometry : n3188335885[53.9184188,27.3828649] n3188335886[53.9185470,27.3828897] n3188335887[53.9185532,27.3827216] n3188335888[53.9184219,27.3826968] n3188335885[53.9184188,27.3828649]
 w313081678
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3190032211[53.9546199,27.7817783] n3190032212[53.9543651,27.7817770] n3190032213[53.9543643,27.7822397] n3190032214[53.9544866,27.7822403] n3190032215[53.9544870,27.7820163] n3190032216[53.9546195,27.7820170] n3190032211[53.9546199,27.7817783]
 w313083784
-  other tags : building=apartments
+  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3190032211[53.9546199,27.7817783] n3190038614[53.9548331,27.7817780] n3190038615[53.9548328,27.7820657] n3190038616[53.9546201,27.7820651] n3190032211[53.9546199,27.7817783]
 w313167883  null / null / Сауна
   other tags : building=house
