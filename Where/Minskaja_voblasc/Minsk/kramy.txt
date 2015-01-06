@@ -9003,7 +9003,7 @@ n3203331495
     geometry : [53.9015940,27.5529632]
 n3203331497
   other tags : shop=second_hand
-    geometry : [53.9031650,27.5518144]
+    geometry : [53.9032049,27.5517972]
 n3203332470
   other tags : shop=florist
     geometry : [53.9012473,27.5535936]
@@ -10141,3 +10141,12 @@ n3270426971  null / null / Баста
 n3270445909  null / null / Джамбо
   other tags : shop=yes
     geometry : [53.8956380,27.5478356]
+n3270484294  null / null / ДЮНА
+  other tags : addr:housenumber=2 | addr:street=улица Короля | opening_hours=12 00 - 06 00 | operator=САУНА-ЛЮКС | shop=beauty
+    geometry : [53.9007078,27.5460936]
+n3270484295  null / null / BODYJAZZ (БОДИДЖАЗ)
+  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | opening_hours=09 00 - 21 00 | operator=ЦЕНТР ЭСТЕТИКИ | shop=beauty
+    geometry : [53.9030979,27.5518584]
+n3270484296  null / null / VIP-САУНА
+  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | opening_hours=00 00 - 24 00 | shop=beauty
+    geometry : [53.9031896,27.5519611]
