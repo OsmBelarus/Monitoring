@@ -14,10 +14,10 @@ n2444392345  null / null / Лана
   other tags : shop=yes
     geometry : [54.6579745,29.1415848]
 n2444393349
-  other tags : shop=fishmonger
+  other tags : addr:city=Новолукомль | addr:postcode=211162 | shop=fishmonger
     geometry : [54.6578262,29.1414687]
 n2444393350  null / null / Промтовары
-  other tags : addr:city=Новолукомль | addr:postcode=211162 | shop=convenience
+  other tags : addr:city=Новолукомль | addr:postcode=211162 | opening_hours=с 8 до 20 00 | shop=convenience
     geometry : [54.6577583,29.1415215]
 n2444393351  null / null / Техносеть
   other tags : shop=electronics
@@ -47,7 +47,7 @@ n2463405979  null / null / МТС
   other tags : shop=mobile_phone
     geometry : [54.6524519,29.1359207]
 n2464212317  null / null / Рубин
-  other tags : shop=yes
+  other tags : shop=gift
     geometry : [54.6569861,29.1403000]
 n2491363576  null / null / Вектор
   other tags : shop=yes
