@@ -17,7 +17,7 @@ n2300732455
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [54.5530500,30.4554119]
 n2341171036
-  other tags : barrier=gate | motor_vehicle=yes
+  other tags : access=private | barrier=gate | motor_vehicle=yes
     geometry : [54.5394837,30.4540955]
 n2341202509
   other tags : barrier=gate | motor_vehicle=yes
@@ -112,6 +112,12 @@ n3037244895
 n3037244896
   other tags : barrier=gate
     geometry : [54.5207380,30.3734740]
+n3267320468
+  other tags : barrier=gate | motor_vehicle=yes
+    geometry : [54.5394053,30.4515110]
+n3267320480
+  other tags : barrier=gate | motor_vehicle=yes
+    geometry : [54.5398205,30.4528176]
 w178464223
   other tags : barrier=fence | fence_type=pole
     geometry : n1888151811[54.5562588,30.4480777] n1888151825[54.5563456,30.4480164]
