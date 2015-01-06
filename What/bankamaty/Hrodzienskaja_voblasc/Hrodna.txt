@@ -78,7 +78,7 @@ n320409896  null / null / Приорбанк (BYR)
     geometry : [53.6567709,23.8412239]
 n320409936  null / null / Беларусбанк (BYR)
   other tags : amenity=atm | operator=Беларусбанк
-    geometry : [53.6480801,23.8402996]
+    geometry : [53.6480970,23.8403793]
 n320409946  null / null / Трастбанк
   other tags : amenity=atm
     geometry : [53.6445500,23.8211150]
@@ -298,3 +298,6 @@ n3236313709  null / null / Белинвестбанк
 n3245269356  null / null / Приорбанк
   other tags : amenity=atm | operator=Приорбанк | wheelchair=yes
     geometry : [53.6700190,23.8030550]
+n3268653596
+  other tags : amenity=atm | operator=Приорбанк
+    geometry : [53.6480938,23.8402157]
