@@ -1630,8 +1630,8 @@ w203870403
 w203870404
   other tags : addr:housenumber=4 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n2138814544[55.3188970,29.4331913] n2138814540[55.3188018,29.4334463] n2138814545[55.3189383,29.4336035] n2138814547[55.3190334,29.4333485] n2138814544[55.3188970,29.4331913]
-w203870406  null / null / 4а
-  other tags : building=yes | building:levels=1
+w203870406
+  other tags : addr:housenumber=4а | addr:street=Ласкунова улица | building=yes
     geometry : n2138814440[55.3173259,29.4375634] n2138814437[55.3171989,29.4375517] n2138814436[55.3171915,29.4377986] n2138814439[55.3173185,29.4378103] n2138814440[55.3173259,29.4375634]
 w203870407
   other tags : addr:housenumber=2 | building=yes | building:levels=1
