@@ -11620,6 +11620,9 @@ w311076325
 w311076327
   other tags : addr:country=BY | building=yes
     geometry : n3166227667[52.8963678,30.6641854] n3166227668[52.8963937,30.6642920] n3166227671[52.8964814,30.6642334] n3166227670[52.8964555,30.6641268] n3166227667[52.8963678,30.6641854]
+w311076329
+  other tags : building=yes | power=sub_station
+    geometry : n3166227677[52.8965660,30.6639667] n3166227675[52.8965526,30.6639460] n3166227672[52.8965355,30.6639584] n3166227673[52.8965364,30.6639937] n3166227674[52.8965472,30.6640019] n3166227676[52.8965630,30.6639950] n3166227677[52.8965660,30.6639667]
 w312718123
   other tags : addr:country=BY | addr:hamlet=Калинино | addr:housenumber=15 | addr:street=улица Советская | building=yes
     geometry : n3186088616[52.5923919,30.8641921] n3186088612[52.5923211,30.8641865] n3186088613[52.5923258,30.8640230] n3186088617[52.5923966,30.8640285] n3186088616[52.5923919,30.8641921]
@@ -12164,229 +12167,229 @@ w314468087
   other tags : building=yes | building:levels=1
     geometry : n3205174373[52.6340930,30.6444779] n3205174375[52.6342058,30.6446173] n3205174371[52.6339964,30.6450773] n3205174369[52.6338836,30.6449379] n3205174373[52.6340930,30.6444779]
 w319673631
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295008[52.8941632,30.6736106] n3261295010[52.8942079,30.6737744] n3261295016[52.8943007,30.6737050] n3261295014[52.8942560,30.6735411] n3261295008[52.8941632,30.6736106]
 w319673632
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=19 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=19 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295020[52.8944057,30.6736406] n3261295018[52.8943618,30.6734755] n3261295024[52.8944580,30.6734054] n3261295026[52.8945018,30.6735705] n3261295020[52.8944057,30.6736406]
 w319673633
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=20 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=20 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295030[52.8946017,30.6734882] n3261295028[52.8945605,30.6733300] n3261295034[52.8946562,30.6732616] n3261295036[52.8946974,30.6734198] n3261295030[52.8946017,30.6734882]
 w319673634
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=21 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=21 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295038[52.8947147,30.6730299] n3261295039[52.8947572,30.6731914] n3261295045[52.8948541,30.6731214] n3261295044[52.8948116,30.6729599] n3261295038[52.8947147,30.6730299]
 w319673635
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=22 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=22 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295048[52.8949156,30.6728796] n3261295049[52.8949580,30.6730396] n3261295055[52.8950502,30.6729725] n3261295054[52.8950078,30.6728124] n3261295048[52.8949156,30.6728796]
 w319673636
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=23 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=23 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295063[52.8952573,30.6728264] n3261295062[52.8952182,30.6726637] n3261295058[52.8951157,30.6727315] n3261295059[52.8951353,30.6728133] n3261295060[52.8951521,30.6728022] n3261295061[52.8951715,30.6728831] n3261295063[52.8952573,30.6728264]
 w319673639
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=4 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=4 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295057[52.8950977,30.6722426] n3261295053[52.8950022,30.6723230] n3261295050[52.8949679,30.6722109] n3261295052[52.8949951,30.6721880] n3261295051[52.8949856,30.6721568] n3261295056[52.8950539,30.6720993] n3261295057[52.8950977,30.6722426]
 w319673640
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=5 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=5 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295047[52.8949066,30.6723848] n3261295043[52.8948078,30.6724596] n3261295040[52.8947755,30.6723424] n3261295042[52.8948044,30.6723206] n3261295041[52.8947966,30.6722923] n3261295046[52.8948665,30.6722393] n3261295047[52.8949066,30.6723848]
 w319673641
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=6 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=6 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295031[52.8946064,30.6726049] n3261295029[52.8945778,30.6724943] n3261295033[52.8946179,30.6724659] n3261295032[52.8946095,30.6724335] n3261295035[52.8946727,30.6723885] n3261295037[52.8947097,30.6725314] n3261295031[52.8946064,30.6726049]
 w319673642
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=7 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=7 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295019[52.8943806,30.6726381] n3261295021[52.8944063,30.6727402] n3261295027[52.8945145,30.6726653] n3261295025[52.8944805,30.6725300] n3261295022[52.8944077,30.6725803] n3261295023[52.8944161,30.6726136] n3261295019[52.8943806,30.6726381]
 w319673643
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=8 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=8 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295009[52.8941848,30.6727783] n3261295012[52.8942130,30.6728905] n3261295017[52.8943181,30.6728179] n3261295015[52.8942821,30.6726745] n3261295011[52.8942123,30.6727226] n3261295013[52.8942201,30.6727539] n3261295009[52.8941848,30.6727783]
 w319673644
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=9 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=9 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261295002[52.8940000,30.6729208] n3261295004[52.8940250,30.6730242] n3261295007[52.8941270,30.6729563] n3261295006[52.8940904,30.6728052] n3261295003[52.8940148,30.6728555] n3261295005[52.8940263,30.6729033] n3261295002[52.8940000,30.6729208]
 w319691632
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=1 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=1 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481965[52.8957850,30.6715418] n3261481967[52.8958279,30.6716896] n3261481973[52.8959167,30.6716188] n3261481970[52.8958739,30.6714710] n3261481965[52.8957850,30.6715418]
 w319691633
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=10 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=10 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481613[52.8938286,30.6731714] n3261481611[52.8937832,30.6729994] n3261481616[52.8938815,30.6729282] n3261481617[52.8939269,30.6731003] n3261481613[52.8938286,30.6731714]
 w319691634
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481600[52.8936344,30.6733062] n3261481598[52.8935902,30.6731418] n3261481604[52.8936846,30.6730720] n3261481607[52.8937288,30.6732364] n3261481600[52.8936344,30.6733062]
 w319691635
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481588[52.8933946,30.6732915] n3261481590[52.8934424,30.6734562] n3261481596[52.8935373,30.6733805] n3261481592[52.8934895,30.6732158] n3261481588[52.8933946,30.6732915]
 w319691636
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481581[52.8931925,30.6734400] n3261481582[52.8932410,30.6736047] n3261481586[52.8933385,30.6735258] n3261481583[52.8932900,30.6733611] n3261481581[52.8931925,30.6734400]
 w319691637
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481585[52.8933371,30.6740462] n3261481587[52.8933838,30.6742178] n3261481593[52.8934921,30.6741368] n3261481591[52.8934455,30.6739652] n3261481585[52.8933371,30.6740462]
 w319691638
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481595[52.8935354,30.6739049] n3261481597[52.8935821,30.6740695] n3261481603[52.8936803,30.6739930] n3261481599[52.8936336,30.6738284] n3261481595[52.8935354,30.6739049]
 w319691639
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481610[52.8937766,30.6739157] n3261481609[52.8937333,30.6737576] n3261481614[52.8938295,30.6736852] n3261481615[52.8938728,30.6738433] n3261481610[52.8937766,30.6739157]
 w319691640
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481620[52.8940156,30.6739257] n3261481619[52.8939724,30.6737652] n3261481622[52.8940627,30.6736959] n3261481623[52.8941058,30.6738585] n3261481620[52.8940156,30.6739257]
 w319691641
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=2 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=2 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481659[52.8956253,30.6718456] n3261481656[52.8955814,30.6716806] n3261481961[52.8956904,30.6716009] n3261481963[52.8957343,30.6717659] n3261481659[52.8956253,30.6718456]
 w319691642
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=24 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=24 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481652[52.8954655,30.6724680] n3261481653[52.8955101,30.6726346] n3261481657[52.8956005,30.6725682] n3261481654[52.8955559,30.6724016] n3261481652[52.8954655,30.6724680]
 w319691643
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=25 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=25 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481660[52.8956651,30.6723372] n3261481962[52.8957099,30.6724906] n3261481966[52.8957930,30.6724238] n3261481964[52.8957482,30.6722704] n3261481660[52.8956651,30.6723372]
 w319691644
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=26 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=26 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481969[52.8958607,30.6721916] n3261481972[52.8959027,30.6723389] n3261481975[52.8959960,30.6722659] n3261481974[52.8959540,30.6721186] n3261481969[52.8958607,30.6721916]
 w319691645
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=27 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=27 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481977[52.8960534,30.6720431] n3261481978[52.8960951,30.6721969] n3261481980[52.8961781,30.6721350] n3261481979[52.8961363,30.6719812] n3261481977[52.8960534,30.6720431]
 w319691646
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=28 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=28 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481983[52.8962947,30.6720449] n3261481981[52.8962535,30.6718979] n3261481984[52.8963395,30.6718317] n3261481985[52.8963806,30.6719787] n3261481983[52.8962947,30.6720449]
 w319691647
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=29 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=29 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481986[52.8964435,30.6717475] n3261481988[52.8964865,30.6719055] n3261481990[52.8965723,30.6718414] n3261481989[52.8965292,30.6716833] n3261481986[52.8964435,30.6717475]
 w319691648
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=3 | addr:street=Гагарина | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=3 | addr:street=улица Юрия Гагарина | building=yes
     geometry : n3261481642[52.8952322,30.6719584] n3261481644[52.8952823,30.6721213] n3261481650[52.8953720,30.6720454] n3261481648[52.8953393,30.6719390] n3261481647[52.8953216,30.6719540] n3261481645[52.8953043,30.6718975] n3261481642[52.8952322,30.6719584]
 w319691649
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=40 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=40 | addr:street=улица Школьная | building=yes
     geometry : n3261481632[52.8950250,30.6713802] n3261481633[52.8950558,30.6714565] n3261481636[52.8951096,30.6713970] n3261481638[52.8951217,30.6714271] n3261481640[52.8951687,30.6713751] n3261481637[52.8951164,30.6712453] n3261481634[52.8950755,30.6712906] n3261481635[52.8950848,30.6713139] n3261481632[52.8950250,30.6713802]
 w319696526
-  other tags : addr:housename=Магазин | building=yes
+  other tags : building=yes | shop=yes
     geometry : n3261521768[52.8920472,30.6715799] n3261521769[52.8920748,30.6716682] n3261521772[52.8921154,30.6716334] n3261521771[52.8920878,30.6715451] n3261521768[52.8920472,30.6715799]
 w319696527
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=улица Гомельская | building=yes
     geometry : n3261521641[52.8913269,30.6703938] n3261521642[52.8913771,30.6705470] n3261521644[52.8914495,30.6704818] n3261521643[52.8913993,30.6703286] n3261521641[52.8913269,30.6703938]
 w319696528
   other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=Алексеевская | building=yes
     geometry : n3261521765[52.8919527,30.6720373] n3261521761[52.8918478,30.6721294] n3261521660[52.8918148,30.6720262] n3261521764[52.8919196,30.6719341] n3261521765[52.8919527,30.6720373]
 w319696529
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=улица Гомельская | building=yes
     geometry : n3261521631[52.8909591,30.6709158] n3261521634[52.8910317,30.6708521] n3261521632[52.8909891,30.6707189] n3261521626[52.8908913,30.6708047] n3261521627[52.8909184,30.6708898] n3261521630[52.8909437,30.6708676] n3261521631[52.8909591,30.6709158]
 w319696530
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=улица Гомельская | building=yes
     geometry : n3261521613[52.8906943,30.6709399] n3261521621[52.8907617,30.6708754] n3261521623[52.8908161,30.6710314] n3261521618[52.8907343,30.6711098] n3261521614[52.8906986,30.6710076] n3261521616[52.8907131,30.6709937] n3261521613[52.8906943,30.6709399]
 w319696531
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=улица Гомельская | building=yes
     geometry : n3261521605[52.8905733,30.6712384] n3261521601[52.8905176,30.6710703] n3261521606[52.8905837,30.6710102] n3261521611[52.8906324,30.6711572] n3261521608[52.8905955,30.6711908] n3261521609[52.8906024,30.6712119] n3261521605[52.8905733,30.6712384]
 w319696532
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=улица Гомельская | building=yes
     geometry : n3261521595[52.8904110,30.6711618] n3261521590[52.8903421,30.6712230] n3261521594[52.8903968,30.6713924] n3261521598[52.8904336,30.6713597] n3261521597[52.8904272,30.6713400] n3261521599[52.8904594,30.6713114] n3261521595[52.8904110,30.6711618]
 w319696533
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=19 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=19 | addr:street=улица Гомельская | building=yes
     geometry : n3261521581[52.8902025,30.6715857] n3261521579[52.8901554,30.6714305] n3261521583[52.8902252,30.6713724] n3261521587[52.8902779,30.6715461] n3261521586[52.8902446,30.6715739] n3261521584[52.8902390,30.6715554] n3261521581[52.8902025,30.6715857]
 w319696534
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=20 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=20 | addr:street=улица Гомельская | building=yes
     geometry : n3261521575[52.8899706,30.6715784] n3261521576[52.8900255,30.6717544] n3261521578[52.8901108,30.6716813] n3261521577[52.8900559,30.6715053] n3261521575[52.8899706,30.6715784]
 w319696535
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=21 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=21 | addr:street=улица Гомельская | building=yes
     geometry : n3261521580[52.8901605,30.6721653] n3261521582[52.8902160,30.6723301] n3261521588[52.8902964,30.6722557] n3261521585[52.8902410,30.6720909] n3261521580[52.8901605,30.6721653]
 w319696536
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=22 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=22 | addr:street=улица Гомельская | building=yes
     geometry : n3261521593[52.8903958,30.6721716] n3261521589[52.8903382,30.6720076] n3261521591[52.8903794,30.6719679] n3261521592[52.8903865,30.6719881] n3261521596[52.8904157,30.6719599] n3261521600[52.8904662,30.6721037] n3261521593[52.8903958,30.6721716]
 w319696537
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=23 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=23 | addr:street=улица Гомельская | building=yes
     geometry : n3261521610[52.8906024,30.6717589] n3261521612[52.8906583,30.6719410] n3261521607[52.8905888,30.6719996] n3261521602[52.8905382,30.6718348] n3261521604[52.8905730,30.6718055] n3261521603[52.8905677,30.6717881] n3261521610[52.8906024,30.6717589]
 w319696538
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=24 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=24 | addr:street=улица Гомельская | building=yes
     geometry : n3261521615[52.8907058,30.6716881] n3261521619[52.8907357,30.6716590] n3261521617[52.8907260,30.6716318] n3261521622[52.8907669,30.6715920] n3261521624[52.8908313,30.6717736] n3261521620[52.8907605,30.6718425] n3261521615[52.8907058,30.6716881]
 w319696539
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=25 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=25 | addr:street=улица Гомельская | building=yes
     geometry : n3261521628[52.8909218,30.6716126] n3261521625[52.8908698,30.6714529] n3261521629[52.8909381,30.6713919] n3261521633[52.8909901,30.6715516] n3261521628[52.8909218,30.6716126]
 w319696540
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=26 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=26 | addr:street=улица Гомельская | building=yes
     geometry : n3261521635[52.8910632,30.6713067] n3261521636[52.8911103,30.6714468] n3261521640[52.8912030,30.6713611] n3261521639[52.8911733,30.6712730] n3261521638[52.8911411,30.6713028] n3261521637[52.8911236,30.6712509] n3261521635[52.8910632,30.6713067]
 w319696541
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=27 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=27 | addr:street=улица Гомельская | building=yes
     geometry : n3261521645[52.8914633,30.6709591] n3261521646[52.8914966,30.6710656] n3261521650[52.8916047,30.6709728] n3261521648[52.8915714,30.6708663] n3261521645[52.8914633,30.6709591]
 w319696542
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=28 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=28 | addr:street=улица Гомельская | building=yes
     geometry : n3261521651[52.8916237,30.6713184] n3261521652[52.8916759,30.6714799] n3261521656[52.8917540,30.6714108] n3261521653[52.8917019,30.6712492] n3261521651[52.8916237,30.6713184]
 w319696543
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=29 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=29 | addr:street=улица Гомельская | building=yes
     geometry : n3261521654[52.8917331,30.6716541] n3261521657[52.8917836,30.6718163] n3261521762[52.8918601,30.6717509] n3261521658[52.8918096,30.6715887] n3261521654[52.8917331,30.6716541]
 w319696544
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=42 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=42 | addr:street=улица Школьная | building=yes
     geometry : n3261521813[52.8948679,30.6710043] n3261521812[52.8948404,30.6709328] n3261521815[52.8949022,30.6708673] n3261521814[52.8948921,30.6708413] n3261521816[52.8949141,30.6708180] n3261521817[52.8949517,30.6709155] n3261521813[52.8948679,30.6710043]
 w319696545
   other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=45 | addr:street=Школьная | building=yes
     geometry : n3261521806[52.8941638,30.6709595] n3261521807[52.8942119,30.6711141] n3261521809[52.8942782,30.6710573] n3261521808[52.8942301,30.6709028] n3261521806[52.8941638,30.6709595]
 w319696546
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=46 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=46 | addr:street=улица Школьная | building=yes
     geometry : n3261521800[52.8937682,30.6711891] n3261521801[52.8937972,30.6713423] n3261521805[52.8938723,30.6713033] n3261521804[52.8938637,30.6712581] n3261521803[52.8938419,30.6712694] n3261521802[52.8938214,30.6711614] n3261521800[52.8937682,30.6711891]
 w319696547
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=47 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=47 | addr:street=улица Школьная | building=yes
     geometry : n3261521797[52.8936385,30.6712290] n3261521798[52.8936701,30.6713759] n3261521796[52.8936103,30.6714113] n3261521795[52.8935787,30.6712644] n3261521797[52.8936385,30.6712290]
 w319696548
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=48 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=48 | addr:street=улица Школьная | building=yes
     geometry : n3261521791[52.8934320,30.6713541] n3261521792[52.8934755,30.6715547] n3261521794[52.8935435,30.6715141] n3261521793[52.8934999,30.6713135] n3261521791[52.8934320,30.6713541]
 w319696549
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=51 | addr:street=Школьная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=51 | addr:street=улица Школьная | building=yes
     geometry : n3261521778[52.8925246,30.6718820] n3261521779[52.8925515,30.6720046] n3261521783[52.8926400,30.6719513] n3261521782[52.8926053,30.6717932] n3261521780[52.8925711,30.6718138] n3261521781[52.8925788,30.6718493] n3261521778[52.8925246,30.6718820]
 w319696550
   other tags : addr:country=BY | addr:hamlet=Дербичи | building=yes
     geometry : n3261521787[52.8928268,30.6713837] n3261521788[52.8928535,30.6714787] n3261521786[52.8927833,30.6715330] n3261521785[52.8927566,30.6714380] n3261521787[52.8928268,30.6713837]
 w319698239
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=улица Гомельская | building=yes
     geometry : n3261536223[52.8909196,30.6692727] n3261536224[52.8909576,30.6693773] n3261536229[52.8910642,30.6692709] n3261536226[52.8910262,30.6691663] n3261536223[52.8909196,30.6692727]
 w319698240
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=улица Гомельская | building=yes
     geometry : n3261536228[52.8910625,30.6695711] n3261536231[52.8911114,30.6697276] n3261536236[52.8911876,30.6696622] n3261536232[52.8911387,30.6695057] n3261536228[52.8910625,30.6695711]
 w319698241
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=улица Гомельская | building=yes
     geometry : n3261536235[52.8911846,30.6699516] n3261536237[52.8912310,30.6701024] n3261536239[52.8913078,30.6700375] n3261536238[52.8912615,30.6698867] n3261536235[52.8911846,30.6699516]
 w319698242
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=5 | addr:street=Гомельская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=5 | addr:street=улица Гомельская | building=yes
     geometry : n3261536214[52.8905280,30.6696559] n3261536213[52.8905166,30.6696213] n3261536212[52.8904747,30.6696593] n3261536216[52.8905289,30.6698239] n3261536220[52.8906518,30.6697127] n3261536219[52.8905987,30.6695514] n3261536217[52.8905689,30.6695784] n3261536218[52.8905791,30.6696095] n3261536214[52.8905280,30.6696559]
 w319698243
-  other tags : building=yes
+  other tags : addr:street=улица Гомельская | building=yes
     geometry : n3261536258[52.8924029,30.6702809] n3261536254[52.8923479,30.6701049] n3261536257[52.8923955,30.6700640] n3261536256[52.8923845,30.6700290] n3261536255[52.8923634,30.6700472] n3261536253[52.8923106,30.6698782] n3261536259[52.8924277,30.6697776] n3261536260[52.8924687,30.6699088] n3261536267[52.8925815,30.6698120] n3261536268[52.8926354,30.6699846] n3261536264[52.8925266,30.6700780] n3261536263[52.8925160,30.6700440] n3261536262[52.8925017,30.6700563] n3261536265[52.8925361,30.6701666] n3261536258[52.8924029,30.6702809]
 w319698244
   other tags : building=yes
     geometry : n3261536261[52.8925015,30.6712520] n3261536266[52.8925424,30.6713763] n3261536270[52.8927489,30.6711898] n3261536269[52.8927080,30.6710655] n3261536261[52.8925015,30.6712520]
 w319698245
-  other tags : building=yes
+  other tags : addr:street=улица Гомельская | building=yes
     geometry : n3261536248[52.8918578,30.6708063] n3261536245[52.8917284,30.6704011] n3261536247[52.8917544,30.6703783] n3261536246[52.8917341,30.6703149] n3261536251[52.8921146,30.6699810] n3261536252[52.8921827,30.6701941] n3261536249[52.8919348,30.6704117] n3261536250[52.8920164,30.6706672] n3261536248[52.8918578,30.6708063]
 w319699997
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=10 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=10 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566613[52.8947270,30.6673560] n3261566612[52.8947199,30.6673301] n3261566610[52.8946966,30.6673477] n3261566609[52.8946719,30.6672581] n3261566614[52.8948498,30.6671232] n3261566618[52.8948742,30.6672114] n3261566615[52.8948570,30.6672244] n3261566616[52.8948645,30.6672517] n3261566613[52.8947270,30.6673560]
 w319699998
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=11 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566599[52.8944671,30.6675575] n3261566598[52.8944592,30.6675305] n3261566596[52.8944334,30.6675512] n3261566595[52.8944068,30.6674599] n3261566603[52.8945873,30.6673154] n3261566607[52.8946152,30.6674111] n3261566605[52.8945951,30.6674272] n3261566606[52.8946017,30.6674497] n3261566599[52.8944671,30.6675575]
 w319699999
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=12 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566587[52.8942052,30.6677575] n3261566586[52.8941969,30.6677282] n3261566585[52.8941671,30.6677515] n3261566584[52.8941414,30.6676615] n3261566590[52.8943017,30.6675358] n3261566592[52.8943358,30.6676551] n3261566587[52.8942052,30.6677575]
 w319700000
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=13 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566594[52.8944051,30.6679068] n3261566589[52.8942865,30.6679966] n3261566591[52.8943234,30.6681304] n3261566597[52.8944420,30.6680406] n3261566594[52.8944051,30.6679068]
 w319700001
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=14 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566600[52.8945492,30.6677897] n3261566604[52.8945934,30.6679435] n3261566611[52.8947055,30.6678550] n3261566608[52.8946613,30.6677012] n3261566600[52.8945492,30.6677897]
 w319700002
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=15 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566626[52.8949941,30.6674392] n3261566619[52.8949230,30.6674962] n3261566624[52.8949461,30.6675753] n3261566620[52.8949274,30.6675904] n3261566623[52.8949452,30.6676513] n3261566628[52.8950350,30.6675793] n3261566626[52.8949941,30.6674392]
 w319700003
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=16 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566634[52.8951825,30.6674755] n3261566631[52.8951390,30.6673140] n3261566637[52.8952169,30.6672565] n3261566639[52.8952603,30.6674179] n3261566634[52.8951825,30.6674755]
 w319700004
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=17 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566641[52.8953253,30.6671844] n3261566643[52.8953788,30.6673822] n3261566649[52.8954925,30.6672977] n3261566646[52.8954390,30.6670998] n3261566641[52.8953253,30.6671844]
 w319700005
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=18 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566656[52.8955614,30.6671643] n3261566651[52.8955308,30.6670595] n3261566655[52.8955530,30.6670418] n3261566653[52.8955447,30.6670131] n3261566658[52.8956868,30.6668992] n3261566659[52.8956987,30.6669400] n3261566660[52.8957171,30.6669253] n3261567261[52.8957441,30.6670179] n3261566656[52.8955614,30.6671643]
 w319700006
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=6 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=6 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566650[52.8955046,30.6666309] n3261566652[52.8955363,30.6667450] n3261566648[52.8954802,30.6667878] n3261566647[52.8954485,30.6666738] n3261566650[52.8955046,30.6666309]
 w319700007
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=7 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=7 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566645[52.8954257,30.6668181] n3261566642[52.8953510,30.6668725] n3261566640[52.8953243,30.6667720] n3261566644[52.8953990,30.6667175] n3261566645[52.8954257,30.6668181]
 w319700008
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=8 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=8 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566632[52.8951467,30.6670248] n3261566630[52.8951166,30.6669069] n3261566635[52.8951897,30.6668556] n3261566638[52.8952198,30.6669735] n3261566632[52.8951467,30.6670248]
 w319700009
-  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=9 | addr:street=Молодёжная | building=yes
+  other tags : addr:country=BY | addr:hamlet=Дербичи | addr:housenumber=9 | addr:street=улица Молодёжная | building=yes
     geometry : n3261566629[52.8950478,30.6671242] n3261566625[52.8949812,30.6671754] n3261566622[52.8949432,30.6670398] n3261566627[52.8950098,30.6669885] n3261566629[52.8950478,30.6671242]
 w319700010
   other tags : building=yes

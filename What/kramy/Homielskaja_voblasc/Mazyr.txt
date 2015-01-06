@@ -61,10 +61,10 @@ n965704590  null / null / Аметист
     geometry : [52.0408248,29.2794264]
 n1118901404  Светач / null / Светоч / Светоч
   other tags : shop=books
-    geometry : [52.0498328,29.2649330]
-n1118901406  null / null / Венеция
+    geometry : [52.0498969,29.2649978]
+n1118901406  null / null / Техноград
   other tags : shop=electronics
-    geometry : [52.0488531,29.2665850]
+    geometry : [52.0488395,29.2665588]
 n1209943632
   other tags : shop=convenience
     geometry : [52.0787009,29.1986694]
@@ -161,7 +161,7 @@ n2147579227
 n2150148547
   other tags : shop=kiosk
     geometry : [52.0395787,29.2713734]
-n2150192831
+n2150192831  null / null / Вино
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=alcohol
     geometry : [52.0475834,29.2670207]
 n2150262769  null / null / Союзпечать
@@ -314,7 +314,7 @@ n3224886555  null / null / Надэкс
 n3224886556  null / null / Мир мебели
   other tags : addr:housenumber=47 | addr:street=Пролетарская улица | shop=furniture
     geometry : [52.0519164,29.2448643]
-n3227912919
+n3227912919  null / null / Пари-матч
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=bookmaker
     geometry : [52.0475486,29.2669925]
 n3227912920  null / null / Центр слуха
@@ -403,7 +403,7 @@ n3257797496  null / null / Полесье-6
     geometry : [52.0478828,29.2580441]
 n3257797500  null / null / Стужка
   other tags : addr:housenumber=132 | addr:street=Советская улица | shop=curtain
-    geometry : [52.0499694,29.2647443]
+    geometry : [52.0499909,29.2648556]
 n3259525691  null / null / Оптика
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
     geometry : [52.0490255,29.2415459]
@@ -449,3 +449,9 @@ n3260037095  null / null / Ритуальные услуги
 n3260037110  null / null / Ритуальные услуги
   other tags : addr:housenumber=21 | addr:street=Советская улица | shop=funeral_directors
     geometry : [52.0582343,29.2422486]
+n3264857389  null / null / Алло
+  other tags : shop=mobile_phone
+    geometry : [52.0501806,29.2644238]
+n3264857390
+  other tags : shop=yes
+    geometry : [52.0480576,29.2665695]
