@@ -377,11 +377,11 @@ n3208590761  null / null / Стадион Спартак (конечная)
   other tags : highway=bus_stop
     geometry : [52.0429706,29.2646201]
 n3208590762  null / null / ОШ №10
-  other tags : highway=bus_stop
-    geometry : [52.0407599,29.2598886]
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.0402360,29.2586161]
 n3208590763  null / null / ОШ №10
   other tags : highway=bus_stop
-    geometry : [52.0409909,29.2596526]
+    geometry : [52.0403812,29.2584712]
 n3208590764  null / null / Ларёк
   other tags : highway=bus_stop | shelter=no
     geometry : [52.0351298,29.2512300]
@@ -529,10 +529,10 @@ n3213674189  null / null / улица Гоголя
 n3247697474
   other tags : highway=bus_stop
     geometry : [52.0222497,29.2419716]
-n3257782342
+n3257782342  null / null / Промэкс
   other tags : highway=bus_stop | shelter=no
     geometry : [52.0419670,29.2695522]
-n3257782343
+n3257782343  null / null / Промэкс
   other tags : highway=bus_stop | shelter=no
     geometry : [52.0419341,29.2700242]
 n3257782345  null / null / Районо
@@ -559,3 +559,9 @@ n3257797475  null / null / ГРОВД-2
 n3257797476  null / null / ГРОВД-2
   other tags : highway=bus_stop | shelter=no
     geometry : [52.0421461,29.2513534]
+n3270038240  null / null / Первая остановка
+  other tags : highway=bus_stop | shelter=no
+    geometry : [52.0366326,29.2543138]
+n3270038241  null / null / Первая остановка
+  other tags : highway=bus_stop | shelter=no
+    geometry : [52.0378767,29.2555584]

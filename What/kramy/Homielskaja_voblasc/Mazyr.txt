@@ -58,7 +58,7 @@ n965704590  null / null / Аметист
     geometry : [52.0408248,29.2794264]
 n1118901404  Светач / null / Светоч / Светоч
   other tags : shop=books
-    geometry : [52.0498969,29.2649978]
+    geometry : [52.0498596,29.2649901]
 n1118901406  null / null / Техноград
   other tags : shop=electronics
     geometry : [52.0488395,29.2665588]
@@ -136,7 +136,7 @@ n2145467297
     geometry : [52.0472133,29.2674543]
 n2145472665  null / null / Славия
   other tags : shop=jewelry
-    geometry : [52.0491801,29.2658839]
+    geometry : [52.0491858,29.2659250]
 n2146585571  null / null / Комп
   other tags : shop=hifi
     geometry : [52.0398625,29.2726099]
@@ -158,9 +158,9 @@ n2147579227
 n2150148547
   other tags : shop=kiosk
     geometry : [52.0395787,29.2713734]
-n2150192831  null / null / Вино
+n2150192831  null / null / Штофф
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=alcohol
-    geometry : [52.0475834,29.2670207]
+    geometry : [52.0476692,29.2670566]
 n2150262769  null / null / Союзпечать
   other tags : shop=newsagent
     geometry : [52.0367675,29.2182310]
@@ -313,7 +313,7 @@ n3224886556  null / null / Мир мебели
     geometry : [52.0519164,29.2448643]
 n3227912919  null / null / Пари-матч
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=bookmaker
-    geometry : [52.0475486,29.2669925]
+    geometry : [52.0475311,29.2669899]
 n3227912920  null / null / Центр слуха
   other tags : addr:housenumber=9 | addr:street=Ленинская улица | shop=hearing_aids
     geometry : [52.0458990,29.2636934]
@@ -345,11 +345,11 @@ n3235804665
   other tags : shop=hairdresser
     geometry : [52.0523653,29.2443888]
 n3235822682  null / null / Зоо-Природа
-  other tags : shop=yes
+  other tags : shop=pet
     geometry : [52.0522556,29.2605089]
-n3235822683  null / null / Корм для животных
-  other tags : shop=yes
-    geometry : [52.0521831,29.2599617]
+n3235822683  null / null / Dogs&Cats
+  other tags : shop=pet
+    geometry : [52.0520973,29.2600014]
 n3253244548  null / null / Мир Керамики
   other tags : shop=yes
     geometry : [52.0441028,29.2483934]
@@ -367,7 +367,7 @@ n3253246206  null / null / Культтовары
     geometry : [52.0489204,29.2663709]
 n3253246207  null / null / Союзпечать
   other tags : shop=kiosk
-    geometry : [52.0494087,29.2654697]
+    geometry : [52.0493192,29.2653484]
 n3253246208  null / null / МТС
   other tags : addr:housenumber=27А | addr:street=Советская улица | shop=mobile_phone
     geometry : [52.0512462,29.2644666]
@@ -377,9 +377,6 @@ n3253246209  null / null / Velcom
 n3253246211  null / null / Mark Formelle
   other tags : shop=clothes
     geometry : [52.0503072,29.2642138]
-n3253246212  null / null / Зима-лето
-  other tags : shop=clothes
-    geometry : [52.0504743,29.2639247]
 n3253246213  null / null / WBR.by
   other tags : addr:housenumber=128 | addr:street=Советская улица | shop=clothes
     geometry : [52.0509196,29.2632059]
@@ -400,7 +397,7 @@ n3257797496  null / null / Полесье-6
     geometry : [52.0478828,29.2580441]
 n3257797500  null / null / Стужка
   other tags : addr:housenumber=132 | addr:street=Советская улица | shop=curtain
-    geometry : [52.0499909,29.2648556]
+    geometry : [52.0499844,29.2649334]
 n3259525691  null / null / Оптика
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
     geometry : [52.0490255,29.2415459]
@@ -428,7 +425,7 @@ n3260037081  null / null / Дары от зари 5
 n3260037082  null / null / Дары от зари 6
   other tags : addr:housenumber=32 | addr:street=Полесская улица | shop=butcher
     geometry : [52.0570217,29.2244843]
-n3260037087  null / null / Лагуна
+n3260037087  null / null / Ами-мебель
   other tags : addr:housenumber=7 | addr:street=Ленинская улица | shop=furniture
     geometry : [52.0460361,29.2643983]
 n3260037092  null / null / Ритуальные услуги
@@ -452,3 +449,21 @@ n3264857389  null / null / Алло
 n3264857390  null / null / Милавица
   other tags : addr:housenumber=17 | addr:street=площадь Ленина | shop=clothes
     geometry : [52.0480576,29.2665695]
+n3270038181  null / null / Цветы
+  other tags : shop=florist
+    geometry : [52.0519847,29.2579026]
+n3270038243  null / null / Цветы
+  other tags : shop=florist
+    geometry : [52.0415757,29.2620868]
+n3270045662  null / null / Код красоты
+  other tags : addr:housenumber=134 | addr:street=Советская улица | shop=cosmetics
+    geometry : [52.0491676,29.2657933]
+n3270045667  null / null / Твоё бельё
+  other tags : shop=clothes
+    geometry : [52.0504573,29.2639832]
+n3270045735  null / null / Котлы
+  other tags : shop=yes
+    geometry : [52.0485064,29.2645129]
+n3270045736  null / null / Мясная лавка
+  other tags : addr:street=Интернациональная улица | shop=butcher
+    geometry : [52.0343296,29.2614337]
