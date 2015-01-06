@@ -290,9 +290,6 @@ n702573996  null / null / Орбита-сервис
 n768026230  null / null / Алми
   other tags : addr:housenumber=31А | addr:street=улица Пушкина | description=Универсам ОДО "Закрама на Партизанском" | opening_hours=24/7 | shop=supermarket | source=survey
     geometry : [53.6965168,23.8340205]
-n775654951  Мэбля / null / Мебель / Мебель
-  other tags : shop=furniture | source=survey
-    geometry : [53.6907835,23.8064419]
 n775723833  null / null / Автозапчасти "ООО Рукша"
   other tags : shop=car_parts
     geometry : [53.6707275,23.8251818]
@@ -633,7 +630,7 @@ n1412493319  null / null / Электрик
   other tags : shop=doityourself
     geometry : [53.6722894,23.8517071]
 n1463843136  null / null / Приём б/у АКБ, продажа новых АКБ, Группа компаний "ПАК"
-  other tags : shop=car
+  other tags : shop=car | website=http://1ak.by/
     geometry : [53.6582322,23.8075613]
 n1463853141  null / null / GPS Repair
   other tags : addr:housenumber=12 | addr:street=улица Ленина | shop=doityourself

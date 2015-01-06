@@ -16,9 +16,9 @@ n1436844571  Захад / null / Запад
 n1476181533  null / null / Белоруснефть №59
   other tags : addr:street=улица 30 лет Победы | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=08:10-20:0, 20:10-00:00, 00:25-08:00 | operator=Белоруснефть | phone=+375-222-323617 | website=http://www.belorusneft.by/
     geometry : [53.9342291,30.3676698]
-n1488277760
-  other tags : amenity=fuel
-    geometry : [53.8964490,30.3406095]
+n1488277760  null / null / Белоруснефть №99
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=09:10-21:00; 21:10-00:00; 00:25-09:00 | operator=Белоруснефть | phone=+375-222-223901 | website=http://www.belorusneft.by/
+    geometry : [53.8964490,30.3405300]
 n1541641459
   other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=no | fuel:octane_95=yes | operator=Беларуснефть
     geometry : [53.8728419,30.3727030]
@@ -73,6 +73,3 @@ w183453835
 w222153260  null / null / АЗС №16
   other tags : addr:housenumber=29 | addr:street=проспект Шмидта | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_98=yes | opening_hours=24/7 | shop=yes
     geometry : n2311302084[53.8538165,30.3355871] n2311302082[53.8536605,30.3355470] n2311302083[53.8536718,30.3354200] n2311302085[53.8538279,30.3354600] n2311302084[53.8538165,30.3355871]
-w319243971  null / null / Беларуснефть
-  other tags : amenity=fuel
-    geometry : n3256545074[53.8964013,30.3396594] n3256544290[53.8961353,30.3401334] n3256569762[53.8962373,30.3406251] n3256570061[53.8964482,30.3410341] n3256570361[53.8967115,30.3404998] n3256545074[53.8964013,30.3396594]
