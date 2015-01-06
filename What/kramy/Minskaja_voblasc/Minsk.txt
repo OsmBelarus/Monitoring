@@ -3403,8 +3403,8 @@ n1133967987  Шынамантаж / null / Шиномонтаж / Шиномон
   other tags : shop=car_repair
     geometry : [53.9339534,27.6320256]
 n1135035804  null / null / Авоська
-  other tags : shop=convenience
-    geometry : [53.9258437,27.6026216]
+  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220012 | addr:street=улица Кузьмы Чорного | opening_hours=8-22 | shop=convenience
+    geometry : [53.9259223,27.6027620]
 n1135047496  null / null / Аланлюкс
   other tags : shop=convenience
     geometry : [53.8798271,27.6018438]
@@ -9748,3 +9748,6 @@ n3266595087  null / null / Спортмастер
 n3266595088  null / null / 5 элемент
   other tags : shop=electronics
     geometry : [53.8602444,27.6742037]
+n3268522980  null / null / Русиничка
+  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220012 | addr:street=улица Кузьмы Чорного | opening_hours=8-22 | shop=butcher
+    geometry : [53.9258591,27.6025527]
