@@ -3650,7 +3650,7 @@ w317781410  null / null / Проектируемая №4 2-я Радунска�
   other tags : highway=construction
     geometry : n3240849584[53.9178532,25.2271386] n3240849581[53.9152544,25.2271483] n3240849576[53.9148138,25.2267031]
 w320359633  null / null / H7506
-  other tags : highway=tertiary | oneway=no | surface=asphalt
+  other tags : highway=tertiary | maxspeed=60 | oneway=no | surface=asphalt
     geometry : n1199243541[53.8421611,25.2862390] n1199244000[53.8430406,25.2927279] n1199244360[53.8441959,25.2993751] n1199241442[53.8454727,25.3067437] n1199241886[53.8456381,25.3075488]
 w320360814  null / null / H7506
   other tags : highway=tertiary | oneway=no
