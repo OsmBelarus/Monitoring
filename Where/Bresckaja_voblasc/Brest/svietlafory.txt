@@ -327,9 +327,6 @@ n1202810259
 n1202840086
   other tags : highway=bus_stop
     geometry : [52.0983887,23.7858781]
-n1203834842
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.1028320,23.7813083]
 n1206336472  null / null / Акимочкина / Акимочкина
   other tags : highway=bus_stop
     geometry : [52.1091133,23.6562689]
@@ -718,3 +715,9 @@ n3158890684  null / null / Янки Купалы
 n3158890685  null / null / Янки Купалы
   other tags : highway=bus_stop | shelter=no
     geometry : [52.0999213,23.7263188]
+n3269987408  null / null / Восточный микрорайон
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.1031769,23.7805840]
+n3269987409  null / null / Восточный микрорайон
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.1030696,23.7823750]
