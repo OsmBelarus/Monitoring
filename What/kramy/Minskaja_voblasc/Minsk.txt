@@ -4211,15 +4211,12 @@ n1421776203  null / null / Алкогольный магазин
 n1421782410
   other tags : shop=kiosk
     geometry : [53.9096035,27.4903697]
-n1421782411
-  other tags : shop=kiosk
-    geometry : [53.9090632,27.4950423]
 n1421782412
   other tags : shop=kiosk
     geometry : [53.9098152,27.4935079]
 n1421782413
   other tags : shop=kiosk
-    geometry : [53.9090142,27.4949322]
+    geometry : [53.9091721,27.4948947]
 n1421782414
   other tags : shop=music
     geometry : [53.9092103,27.4948160]
@@ -4619,7 +4616,7 @@ n1537931568
     geometry : [53.9176660,27.5641309]
 n1539465918
   other tags : shop=hairdresser
-    geometry : [53.8938686,27.4223180]
+    geometry : [53.8939305,27.4222730]
 n1542123273  null / null / СТО "Rosso Korsa"
   other tags : shop=car_repair
     geometry : [53.9146975,27.4511666]
@@ -6501,9 +6498,6 @@ n2556422371
 n2559459603  null / null / Белмаркет
   other tags : shop=yes
     geometry : [53.8448129,27.4839231]
-n2559459935
-  other tags : shop=hairdresser
-    geometry : [53.8458096,27.4852855]
 n2559463350
   other tags : shop=beauty
     geometry : [53.8445620,27.4816820]
@@ -6594,9 +6588,9 @@ n2574072162  null / null / Остров вкуса
 n2574327241  null / null / Мэрилин
   other tags : shop=hairdresser
     geometry : [53.9096784,27.4908477]
-n2574327242
-  other tags : shop=hairdresser
-    geometry : [53.9006900,27.4442461]
+n2574327242  null / null / ВЕЧЕРНЯЯ ЗВЕЗДА
+  other tags : addr:housenumber=22/1 | addr:street=улица Одинцова | opening_hours=пн. — вс.: 08:00 — 21:00 | operator=ПАРИКМАХЕРСКАЯ | shop=hairdresser;beauty
+    geometry : [53.9006486,27.4447402]
 n2574327245  null / null / Салон-парикмахерская "Три Грации"
   other tags : shop=hairdresser
     geometry : [53.8964786,27.4382248]
@@ -9168,7 +9162,7 @@ n3206178275  null / null / Баернкрафт
     geometry : [53.8828088,27.4395096]
 n3206737565  null / null / Рыболовные снасти
   other tags : shop=yes
-    geometry : [53.9486247,27.6141782]
+    geometry : [53.9486279,27.6141891]
 n3206748973
   other tags : shop=beverages
     geometry : [53.9445982,27.6087926]
@@ -10225,3 +10219,60 @@ n3270536261  null / null / RED ROSE (РЕД РОУЗ)
 n3270537524  null / null / МЭРИЛИН
   other tags : addr:housenumber=28 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 08:00 — 21:00 сб.: 08:00 — 18:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
     geometry : [53.9053809,27.4971405]
+n3270538688  null / null / ЦЕНТР КРАСОТЫ
+  other tags : addr:housenumber=39 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 09:00 — 20:00 сб.: 09:00 — 18:00 вс.: выходной | shop=beauty
+    geometry : [53.9090645,27.4949269]
+n3270540325  null / null / МЭРИЛИН
+  other tags : addr:housenumber=38 | addr:street=улица Притыцкого | opening_hours=пн. — пт.: 08:00 — 20:00 сб.: 08:00 — 18:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.9096004,27.4895584]
+n3270541801  null / null / ЦЫРУЛЬНЯ
+  other tags : addr:housenumber=40 | addr:street=улица Притыцкого | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.9096021,27.4872241]
+n3270541802  null / null / ВИАНИКА
+  other tags : addr:housenumber=10 | addr:street=улица Данилы Сердича | opening_hours=пн. — сб.: 08:00 — 20:00 вс.: 10:00 — 19:00 пн. — сб.: 08:00 — 21:00 | operator=СТУДИЯ КРАСОТЫ | shop=beauty
+    geometry : [53.9116403,27.4891640]
+n3270543878  null / null / №1Б
+  other tags : addr:housenumber=2 | addr:street=улица Бельского | opening_hours=пн. — сб.: 09:00 — 21:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.9069560,27.4806326]
+n3270544678  null / null / УЛЬТРОСТРОНГ
+  other tags : operator=КОСМЕТИЧЕСКИЙ КАБИНЕТ | shop=beauty
+    geometry : [53.9065636,27.4851770]
+n3270545975  null / null / ГАРСОН
+  other tags : addr:housenumber=95 | addr:street=улица Одоевского | opening_hours=пн.: 07:00 — 20:00 сб.: 08:00 — 20:00 вс.: выходной | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.9019180,27.4863082]
+n3270547842  null / null / МАЙТРИ
+  other tags : opening_hours=пн. — сб.: 08:00 — 20:00 вс.: 10:00 — 16:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.8995914,27.4896929]
+n3270548167  null / null / BEAUTY EYES (БЬЮТИ АЙЗ)
+  other tags : operator=СТУДИЯ КРАСОТЫ | shop=beauty
+    geometry : [53.9006960,27.4755469]
+n3270550971  null / null / ШАРМИ
+  other tags : addr:housenumber=9 | addr:street=переулок Одинцова | operator=САЛОН КРАСОТЫ | shop=beauty
+    geometry : [53.8981814,27.4561635]
+n3270555061  null / null / АНИСИЯ
+  other tags : opening_hours=пн. — вс.: 08:00 — 19:00 | shop=beauty
+    geometry : [53.8980049,27.4509261]
+n3270556948  null / null / ЦЫРУЛЬНЯ
+  other tags : opening_hours=пн. — пт.: 08:00 — 20:00 сб.: 08:00 — 18:00 вс.: 10:00 — 17:00 | shop=beauty
+    geometry : [53.9021297,27.4361532]
+n3270560661  null / null / АНИСИЯ
+  other tags : addr:housenumber=11 | addr:street=улица Ивана Шамякина | opening_hours=пн. — вс.: 08:00 — 21:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.8938770,27.4222439]
+n3270560662  null / null / АЙША
+  other tags : addr:housenumber=70 | addr:street=Сухаревская улица | opening_hours=пн. — сб.: 09:00 — 20:00 вс.: 10:00 — 17:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.8864593,27.4174869]
+n3270563100
+  other tags : shop=beauty
+    geometry : [53.8873794,27.4299444]
+n3270563101  null / null / АРГАВУС
+  other tags : addr:housenumber=81 | addr:street=улица Лобанка | opening_hours=пн. — сб.: 09:00 — 21:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.8874442,27.4301026]
+n3270563262  null / null / ЗАЗЕРКАЛЬЕ
+  other tags : addr:housenumber=94 | addr:street=улица Лобанка | opening_hours=пн. — вс.: 09:00 — 21:00 | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
+    geometry : [53.8866435,27.4281331]
+n3270565558  null / null / ХРАМ СОЛНЦА
+  other tags : addr:housenumber=16 | addr:street=Сухаревская улица | opening_hours=пн. — вс.: 10:00 — 20:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+    geometry : [53.8861299,27.4385690]
+n3270566382  null / null / ЛИЛИТА
+  other tags : opening_hours=пн. — сб.: 08:00 — 21:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
+    geometry : [53.8870272,27.4370653]
