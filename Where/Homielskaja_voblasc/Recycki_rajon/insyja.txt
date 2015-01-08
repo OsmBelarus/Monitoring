@@ -1277,7 +1277,7 @@ w172829983
   other tags : electrified=no | gauge=1520 | railway=rail | usage=main
     geometry : n1836801965[52.3321368,30.1718908] n271085920[52.3309843,30.1561778] n271085884[52.3310032,30.1511273] n1836801980[52.3310562,30.1502479] n2782655616[52.3318953,30.1363224] n2782655617[52.3326344,30.1234052] n271085883[52.3326137,30.1215358] n2782654818[52.3325827,30.1205768]
 w172829984
-  other tags : bridge=yes | electrified=no | gauge=1520 | railway=rail | usage=main
+  other tags : bridge=yes | electrified=no | gauge=1520 | layer=1 | railway=rail | usage=main
     geometry : n271085881[52.3321590,30.1721934] n1836801965[52.3321368,30.1718908]
 w172832331
   other tags : railway=disused
@@ -3098,7 +3098,7 @@ w273402946
   other tags : railway=rail | service=siding
     geometry : n2782654623[52.3222467,30.0810752] n2782654625[52.3224520,30.0819558] n2782654630[52.3253218,30.0913397] n2782654637[52.3259275,30.0933203] n2782654643[52.3266800,30.0957811] n2782654645[52.3268460,30.0962612] n2782654647[52.3270095,30.0966478]
 w273402981
-  other tags : bridge=yes | electrified=no | gauge=1520 | railway=rail | usage=main
+  other tags : bridge=yes | electrified=no | gauge=1520 | layer=1 | railway=rail | usage=main
     geometry : n2782654818[52.3325827,30.1205768] n2782654817[52.3325738,30.1203686]
 w273402982
   other tags : electrified=no | gauge=1520 | railway=rail | usage=main
