@@ -4241,8 +4241,8 @@ w283544330
 w289025617  null / null / Зал тяжелой атлетики
   other tags : addr:street=Ленинская улица | building=yes | building:levels=1 | leisure=sports_centre | sport=weightlifting
     geometry : n2925749874[53.8904747,25.2908117] n2925749875[53.8905007,25.2909759] n2925749876[53.8904023,25.2910207] n2925749877[53.8903763,25.2908565] n2925749874[53.8904747,25.2908117]
-w307459504  null / null / Шиномонтаж
-  other tags : area=yes | building=yes | shop=car_repair
+w307459504  null / null / Шиномонтаж, автомойка
+  other tags : area=yes | building=yes | name_1=автомойка | shop=car_repair
     geometry : n3126169467[53.8886738,25.2742843] n3126169468[53.8884494,25.2743970] n3126169469[53.8884936,25.2746544] n3126169470[53.8887149,25.2745418] n3126169467[53.8886738,25.2742843]
 w307527733  null / null / Оазис
   other tags : amenity=cafe | building=yes
