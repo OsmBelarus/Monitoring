@@ -394,9 +394,6 @@ n3207498271
 n3207498454
   other tags : building=house
     geometry : [53.9670499,27.5168361]
-n3270228823  null / null / г. Минск, ул. Гамарника, д.9
-  other tags : building=residential
-    geometry : [53.9554274,27.6130085]
 w23388940
   other tags : addr:housenumber=17 | addr:postcode=220021 | addr:street=Центральная улица | building=apartments | building:levels=2
     geometry : n253241462[53.8701973,27.6511786] n253241463[53.8701632,27.6513107] n253241464[53.8702414,27.6513687] n253241465[53.8702754,27.6512366] n253241462[53.8701973,27.6511786]
@@ -538,6 +535,9 @@ w25427765
 w25428167
   other tags : addr:housenumber=3 | addr:postcode=220026 | addr:street=улица Грекова | building=apartments | building:type=house
     geometry : n277122064[53.8673324,27.6276418] n277122065[53.8670244,27.6274706] n277122077[53.8670639,27.6272662] n277122079[53.8673719,27.6274373] n277122064[53.8673324,27.6276418]
+w25428324
+  other tags : addr:housenumber=9 | addr:postcode=220090 | addr:street=улица Гамарника | building=residential | building:levels=5 | building:type=house
+    geometry : n277124603[53.9555846,27.6126780] n277124624[53.9553082,27.6135533] n277124625[53.9551967,27.6134516] n277124628[53.9554731,27.6125763] n277124603[53.9555846,27.6126780]
 w25428410
   other tags : addr:city=Минск | addr:housenumber=28 к3 | addr:postcode=220090 | addr:street=Логойский тракт | building=apartments | building:levels=5
     geometry : n277126221[53.9508890,27.6200960] n277126223[53.9506640,27.6208190] n277126225[53.9505460,27.6207120] n277126227[53.9507710,27.6199930] n277126221[53.9508890,27.6200960]
