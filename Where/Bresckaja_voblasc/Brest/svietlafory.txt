@@ -336,12 +336,12 @@ n1206336831  null / null / Речица / Речица
 n1206337055  null / null / Хлебпром / Хлебпром
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.1072698,23.6448059]
-n1210703604
+n1210703604  null / null / Зубачёва
   other tags : highway=bus_stop
-    geometry : [52.0920388,23.6644626]
-n1210703964
+    geometry : [52.0919275,23.6643025]
+n1210703964  null / null / Зубачёва
   other tags : highway=bus_stop
-    geometry : [52.0916778,23.6627835]
+    geometry : [52.0917049,23.6628446]
 n1211955519  null / null / Дом ветеранов
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.1069206,23.7860120]
@@ -724,3 +724,6 @@ n3269987409  null / null / Восточный микрорайон
 n3272669556  null / null / Брест-Западный
   other tags : highway=bus_stop
     geometry : [52.0915965,23.6478690]
+n3275416179  null / null / Турбаза
+  other tags : highway=bus_stop
+    geometry : [52.0918400,23.6570905]
