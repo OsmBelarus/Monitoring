@@ -10,6 +10,12 @@ n3276660796  null / null / Храм Рождества Христова
 n3276700669  null / null / Храм Успения Пресвятой Богородицы
   other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
     geometry : [51.8105968,28.3826716]
+n3276770652  null / null / Храм Воскресения Христова
+  other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
+    geometry : [51.9247890,28.2588501]
+n3276782517  null / null / Храм святителя Николая Чудотворца
+  other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
+    geometry : [51.8256402,27.8070427]
 w320956127  null / null / Храм Георгия Победоносца
   other tags : addr:housenumber=89а | addr:street=улица Комсомольская | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3276599947[51.7095865,28.0605408] n3276599948[51.7095815,28.0607032] n3276599949[51.7095387,28.0606998] n3276599950[51.7095399,28.0606599] n3276599951[51.7094611,28.0606536] n3276599952[51.7094648,28.0605311] n3276599947[51.7095865,28.0605408]
@@ -25,3 +31,9 @@ w320964691  null / null / Храм двенадцати апостолов
 w320964697  null / null / Храм Успения Пресвятой Богородицы
   other tags : addr:housenumber=84а | addr:street=улица Советская | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3276700681[51.6563729,27.9326613] n3276700682[51.6564474,27.9329124] n3276700683[51.6565213,27.9328554] n3276700684[51.6564468,27.9326044] n3276700681[51.6563729,27.9326613]
+w320972870  null / null / Храм Покрова Пресвятой Богородицы
+  other tags : addr:housenumber=7 | addr:street=улица Приозёрная | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3276770659[51.6725272,27.8183241] n3276770660[51.6724540,27.8184528] n3276782361[51.6725339,27.8185601] n3276782362[51.6726004,27.8184421] n3276770659[51.6725272,27.8183241]
+w320972893  null / null / Храм Богоявления
+  other tags : addr:housenumber=2 | addr:street=улица Школьная | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3276782414[51.8812789,28.0833589] n3276782415[51.8812625,28.0834223] n3276782416[51.8812148,28.0833898] n3276782417[51.8811746,28.0835447] n3276782418[51.8812170,28.0835736] n3276782419[51.8812057,28.0836172] n3276782420[51.8812816,28.0836689] n3276782421[51.8812958,28.0836141] n3276782422[51.8813329,28.0836393] n3276782423[51.8813665,28.0835098] n3276782424[51.8813292,28.0834844] n3276782425[51.8813493,28.0834068] n3276782414[51.8812789,28.0833589]
