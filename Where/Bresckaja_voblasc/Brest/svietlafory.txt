@@ -28,7 +28,7 @@ n768087588  Арджанікідзэ / null / Орджоникидзе / Орд�
 n768087605  null / null / Промстройбанк / Промстройбанк
   other names: name:by=Прамбудбанк
   other tags : highway=bus_stop
-    geometry : [52.0966251,23.6840471]
+    geometry : [52.0966251,23.6840390]
 n768087773  вуліца К. Маркса / null / улица К. Маркса / улица К.Маркса
   other tags : highway=bus_stop
     geometry : [52.0886158,23.6890708]
@@ -365,19 +365,19 @@ n1248253819
     geometry : [52.1202778,23.7682719]
 n1282812302  null / null / Площадь Ленина
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0930827,23.6855894]
+    geometry : [52.0929946,23.6856277]
 n1282812316  null / null / Парк 1 мая
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0960422,23.6819148]
+    geometry : [52.0958671,23.6820783]
 n1282812340  null / null / Мицкевича
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0962573,23.6839808]
 n1282812343  null / null / Парк 1 мая
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0962267,23.6822742]
+    geometry : [52.0963252,23.6821427]
 n1282829329  null / null / Театр
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0907261,23.6865335]
+    geometry : [52.0908526,23.6865742]
 n1298185680  Электратэхнічны завод / null / null
   other tags : fixme:komzpa=добавить русское имя | highway=bus_stop
     geometry : [52.1150905,23.7372776]
@@ -524,7 +524,7 @@ n2075985554
     geometry : [52.1189415,23.6338173]
 n2077972866  null / null / Мицкевича
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0956794,23.6838110]
+    geometry : [52.0956331,23.6837091]
 n2078431232  Газаапарат / null / Газоаппарат / Газоаппарат
   other tags : bench=yes | highway=bus_stop | shelter=no | tactile_paving=no
     geometry : [52.1010845,23.6920353]
@@ -591,9 +591,9 @@ n2299919577  null / null / Интурист
 n2299919578  null / null / Ленина
   other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0862669,23.6883832]
-n2299919579  null / null / Музей спасенных ценностей
+n2299919579  null / null / Музей
   other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0871924,23.6865784]
+    geometry : [52.0870989,23.6866599]
 n2299919580  Прыгарадны вакзал / Pryharadny vakzal / Пригородный вокзал / Пригородный вокзал
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | tactile_paving=no
     geometry : [52.1015297,23.6805742]
@@ -602,7 +602,7 @@ n2299919581  null / null / Республиканская
     geometry : [52.1029358,23.6791914]
 n2299919582  null / null / Сквер Иконникова
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0885931,23.6869868]
+    geometry : [52.0885925,23.6869845]
 n2311226264
   other tags : highway=bus_stop
     geometry : [52.0711795,23.7552681]
@@ -729,10 +729,10 @@ n3275416179  null / null / Торговый колледж
     geometry : [52.0918400,23.6570905]
 n3278128766  null / null / ТЭЦ
   other tags : highway=bus_stop
-    geometry : [52.0856571,23.6770241]
+    geometry : [52.0856645,23.6770239]
 n3278128767  null / null / ТЭЦ
-  other tags : highway=bus_stop
-    geometry : [52.0856243,23.6793176]
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.0856035,23.6793255]
 n3278128797  null / null / Торговый колледж
   other tags : highway=bus_stop
     geometry : [52.0918624,23.6576823]
