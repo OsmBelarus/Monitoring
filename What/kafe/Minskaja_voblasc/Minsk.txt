@@ -1873,7 +1873,7 @@ n2497006573  null / null / Кафе-бистро "Ежедневник"
   other tags : addr:housenumber=33 | addr:street=Кальварийская улица | amenity=cafe | takeaway=yes
     geometry : [53.9067507,27.5160579]
 n2503787675  null / null / СУШИ ВЕСЛА СУШИ-БАР
-  other tags : addr:housenumber=78 | addr:postcode=220035 | addr:street=проспект Машерова | amenity=cafe | cuisine=japanese | internet_access=no | phone=8 029 3210000
+  other tags : addr:housenumber=78 | addr:postcode=220035 | addr:street=проспект Машерова | amenity=cafe | cuisine=japanese | internet_access=no | opening_hours=11.00-23.00 | phone=8 029 3210000 | website=http://sushivesla.by/
     geometry : [53.9126126,27.5325572]
 n2507179323  null / null / Кава i печыва
   other tags : amenity=cafe | cuisine=coffee_shop
@@ -2669,8 +2669,11 @@ n3279228464  null / null / кафе-бар
   other tags : amenity=cafe
     geometry : [53.8763170,27.6305246]
 n3280385738  null / null / Мон Кафе
-  other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=вт.-чт. 11.00-24.00;пт., сб. 11.00-02.00 | smoking=isolated
+  other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=пн.-чт. 11.00-24.00;пт., сб. 11.00-02.00;вс. 11.00-00.00 | phone=+ 375 29 623 99 57;+ 375 29 860 99 57 | smoking=isolated | website=http://www.moncafe.by/
     geometry : [53.9059617,27.5428430]
+n3280410268  null / null / Ресторан индийской кухни «Taj»
+  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant | cuisine=indian | opening_hours=12.00-24.00 | phone=+375447111110;+375173062961 | website=http://www.taj.by/
+    geometry : [53.9048626,27.5440771]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
