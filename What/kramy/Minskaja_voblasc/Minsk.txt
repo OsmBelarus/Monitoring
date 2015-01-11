@@ -7855,7 +7855,7 @@ n2713543008  null / null / Минсктранс
     geometry : [53.9172997,27.4171352]
 n2713543009  null / null / Церковная лавка
   other tags : shop=religion
-    geometry : [53.9110418,27.4381452]
+    geometry : [53.9112230,27.4379623]
 n2713844585  null / null / Белсоюзпечать
   other tags : shop=newsagent
     geometry : [53.9156271,27.4365508]
@@ -10411,3 +10411,6 @@ n3279313766  null / null / солярий
 n3279313791  null / null / оптика
   other tags : shop=optician
     geometry : [53.8757603,27.6313943]
+n3280259261  null / null / Евроопт
+  other tags : addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=9-22 | operator=Евроторг | shop=supermarket
+    geometry : [53.9116372,27.4349498]
