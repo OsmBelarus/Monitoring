@@ -8893,11 +8893,11 @@ n3185020519  null / null / Велопланета
 n3187187730
   other tags : shop=kiosk
     geometry : [53.9036512,27.4967289]
-n3188975685  null / null / Магазин "На денек"
+n3188975685  null / null / минимаркет "На денек"
   other tags : addr:city=Минск | addr:housenumber=90 | addr:street=улица Матусевича | shop=supermarket
     geometry : [53.9164482,27.4380092]
 n3188975686  null / null / Салон красоты "Комильфо"
-  other tags : phone=+375 17 254-33-54 +375 29 667-27-27 | shop=beauty
+  other tags : addr:city=Минск | phone=+375 17 254-33-54 +375 29 667-27-27 | shop=beauty
     geometry : [53.9166172,27.4377805]
 n3188976348  null / null / BIGZ
   other tags : shop=supermarket
@@ -9325,14 +9325,11 @@ n3208652349  null / null / Молодечномебель
 n3208654166  null / null / Сивельга
   other tags : addr:city=Минск | addr:housenumber=55 | addr:street=улица Калиновского | shop=shoes
     geometry : [53.9472964,27.6295514]
-n3208654836  null / null / ПростоСтрой
-  other tags : shop=supermarket
-    geometry : [53.9153981,27.4355065]
 n3208655027  null / null / Тениси
   other tags : addr:city=Минск | addr:housenumber=55Г | addr:street=улица Калиновского | shop=bookmaker
     geometry : [53.9470502,27.6280263]
 n3208657397  null / null / Цветочный магазин
-  other tags : shop=florist
+  other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=florist
     geometry : [53.9153746,27.4355253]
 n3208663014  null / null / Мясная Кулинария Советский Век
   other tags : addr:city=Минск | addr:housenumber=55Г | addr:street=улица Калиновского | shop=yes
@@ -10415,7 +10412,7 @@ n3279313791  null / null / оптика
   other tags : shop=optician
     geometry : [53.8757603,27.6313943]
 n3280259261  null / null / Евроопт
-  other tags : addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=9-22 | operator=Евроторг | shop=supermarket
+  other tags : addr:city=Минск | addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=9-22 | operator=Евроторг | shop=supermarket
     geometry : [53.9116372,27.4349498]
 n3280267064  null / null / Bon Market
   other tags : shop=supermarket
@@ -10423,3 +10420,12 @@ n3280267064  null / null / Bon Market
 n3280267830  null / null / 1000 мелочей
   other tags : shop=kiosk
     geometry : [53.9164298,27.4395850]
+n3280584989  null / null / Магазин Разливного пива
+  other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=supermarket
+    geometry : [53.9154147,27.4354918]
+n3280592770  null / null / Подкова
+  other tags : addr:city=Минск | addr:housenumber=27 | addr:street=улица Кунцевщина | shop=supermarket
+    geometry : [53.9130014,27.4351098]
+n3280592831  null / null / Волковыйские продукты
+  other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=supermarket
+    geometry : [53.9147107,27.4353895]
