@@ -438,9 +438,6 @@ n306063564
 n306063569
   other tags : amenity=bar
     geometry : [52.0911200,23.6943800]
-n306063572  null / null / кафе в кинотеатре "Беларусь"
-  other tags : amenity=bar
-    geometry : [52.0908257,23.6943931]
 n306063576
   other tags : amenity=bar
     geometry : [52.0912900,23.6936700]
@@ -548,7 +545,7 @@ n306064129  Гарвыканкам / null / Горисполком / Горис�
     geometry : [52.0930000,23.6816300]
 n306064131  null / null / Суд Ленинского района / Суд Ленинского района
   other tags : addr:housenumber=1 | addr:street=улица Леваневского | amenity=courthouse
-    geometry : [52.0953200,23.6823000]
+    geometry : [52.0952603,23.6821360]
 n306064142
   other tags : man_made=tower
     geometry : [52.1148700,23.6432200]
@@ -1564,7 +1561,7 @@ n1190853027
     geometry : [52.0695457,23.7633673]
 n1195857915  null / null / Суд Московского района / Суд Московского района
   other tags : addr:housenumber=1 | addr:street=улица Леваневского | amenity=courthouse
-    geometry : [52.0954362,23.6823174]
+    geometry : [52.0953543,23.6823445]
 n1195858033
   other tags : railway=buffer_stop
     geometry : [52.0963145,23.6659398]
@@ -1574,9 +1571,6 @@ n1195858927
 n1195976170
   other tags : noexit=yes
     geometry : [52.0929200,23.6852895]
-n1195976174
-  other tags : amenity=vending_machine
-    geometry : [52.0942964,23.6846715]
 n1196095694
   other tags : amenity=parking
     geometry : [52.0957897,23.7613895]
@@ -1973,7 +1967,7 @@ n1257790671  null / null / Сфера
     geometry : [52.0725269,23.7601759]
 n1282812308
   other tags : amenity=fountain
-    geometry : [52.0939468,23.6850487]
+    geometry : [52.0943540,23.6847349]
 n1282861368  null / null / Тереспольские ворота
   other tags : tourism=attraction
     geometry : [52.0824641,23.6512902]
