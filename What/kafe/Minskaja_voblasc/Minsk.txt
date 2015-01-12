@@ -512,9 +512,6 @@ n305684728  null / null / Тифлисъ
 n305684780  null / null / Жили-были
   other tags : amenity=restaurant
     geometry : [53.9216965,27.5966210]
-n305684784  Вернісаж / Viernisaž / Вернисаж / Вернисаж
-  other tags : amenity=restaurant
-    geometry : [53.9301900,27.5960100]
 n305684792  null / null / Bella Rosa
   other tags : amenity=restaurant | opening_hours=Mo-Su 00:00-02:00,12:00-24:00
     geometry : [53.9161131,27.5879034]
@@ -2450,8 +2447,8 @@ n3148781196
   other tags : amenity=cafe
     geometry : [53.9188129,27.5914805]
 n3148781197  null / null / Clever Irish Pub
-  other tags : amenity=pub
-    geometry : [53.9150131,27.5893977]
+  other tags : addr:city=Минск | addr:housenumber=5 | addr:postcode=220005 | addr:street=улица Гикало | amenity=pub | opening_hours=Пн, Вт, Ср, Чт, Вс - 16:00-02:00, Пт, Сб - 16:00-04:00 | smoking=separated
+    geometry : [53.9150382,27.5893946]
 n3148781198  null / null / Гвоздь
   other tags : addr:housenumber=5 | addr:street=улица Гикало | amenity=pub
     geometry : [53.9145491,27.5900573]

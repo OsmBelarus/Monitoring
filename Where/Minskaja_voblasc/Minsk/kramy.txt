@@ -1563,6 +1563,9 @@ n305684768
 n305684770
   other tags : shop=car_repair
     geometry : [53.9184100,27.6102700]
+n305684784  null / Viernisaž / Виталюр / Виталюр
+  other tags : addr:housenumber=3 | addr:street=улица Некрасова | shop=department_store
+    geometry : [53.9301900,27.5960100]
 n305684817
   other tags : shop=car_repair
     geometry : [53.9208100,27.5899300]
@@ -4015,8 +4018,8 @@ n1359942129  null / null / На Уманской
 n1360570347  null / null / Недень
   other tags : addr:street=Долгобродская улица | opening_hours=07:00-23:00 | shop=organic
     geometry : [53.8768470,27.6276895]
-n1362172842  null / null / Гастроном
-  other tags : description=продовольственный магазин | opening_hours=09:00-22:00 | shop=department_store
+n1362172842  null / null / Продукты
+  other tags : description=продовольственный магазин | opening_hours=09:00-22:00 | operator=Зорина | shop=convenience
     geometry : [53.9290845,27.6042498]
 n1363241792  null / null / Горячий хлеб+все продукты
   other tags : shop=bakery
@@ -6947,7 +6950,7 @@ n2613170227  null / null / Срочное фото
     geometry : [53.9300544,27.5988089]
 n2613171040  null / null / Milavitsa
   other tags : addr:street=улица Сурганова | shop=Товары_для_женщин
-    geometry : [53.9252743,27.5958200]
+    geometry : [53.9253044,27.5958135]
 n2613175395  null / null / Московско-венский
   other tags : shop=mall
     geometry : [53.9175463,27.5883933]
@@ -10450,3 +10453,6 @@ n3282452361
 n3282467130  null / null / YVES ROCHER
   other tags : shop=cosmetics
     geometry : [53.8476211,27.4716689]
+n3282916505  null / null / Adidas, Reebok
+  other tags : addr:city=Минск | addr:housenumber=36 | addr:postcode=220012 | addr:street=улица Якуба Коласа | shop=sports
+    geometry : [53.9280243,27.5965549]
