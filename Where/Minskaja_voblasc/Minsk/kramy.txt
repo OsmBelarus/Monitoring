@@ -8911,8 +8911,8 @@ n3190097697  Панскі  пачастунак / null / «Панскі пача
 n3190097698  null / null / Продукты
   other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=10:00-22:00 | shop=convenience
     geometry : [53.8527561,27.4747322]
-n3190097703  null / null / Поляна
-  other tags : addr:city=Минск | addr:street=проспект Дзержинского | shop=convenience
+n3190097703  null / null / Поляна. магазин продуктовый
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=9.00 - 23.00 | shop=convenience
     geometry : [53.8517447,27.4769322]
 n3193011975  null / null / Шиномонтаж
   other tags : addr:city=Минск | addr:street=Железнодорожная улица | shop=car_repair
@@ -9463,8 +9463,8 @@ n3233072866  null / null / магазин "Мила" (косметика)
 n3233073552  null / null / Салодкая крама "Плюшка"
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=хлебобулочные_изделия,_конфеты
     geometry : [53.8496844,27.4782156]
-n3233073895  null / null / Марк формэль
-  other tags : shop=clothes
+n3233073895  null / null / Mark Formelle (магазин одежды и нижнего белья)
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8521291,27.4770204]
 n3233074628  null / null / Цветы
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
@@ -9479,7 +9479,7 @@ n3233086579  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.8465720,27.4872338]
 n3233093145
-  other tags : shop=toys
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=toys
     geometry : [53.8514755,27.4768092]
 n3233094150  null / null / OZ.by
   other tags : shop=books
@@ -9508,8 +9508,8 @@ n3240836612
 n3240836613
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=second_hand
     geometry : [53.8508107,27.4765225]
-n3240836614  null / null / магазин дверей
-  other tags : shop=yes
+n3240836614  null / null / магазин дверей и обоев
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8518609,27.4769454]
 n3240836615
   other tags : shop=convenience
@@ -9556,8 +9556,8 @@ n3241524821  null / null / Автосалон AV
 n3242762717  Вэлком / null / Велком
   other tags : shop=mobile_phone
     geometry : [53.8632125,27.6041094]
-n3247321866
-  other tags : shop=clothes
+n3247321866  null / null / одежда
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8511859,27.4766411]
 n3247321867  null / null / ПроЗдоровье
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
