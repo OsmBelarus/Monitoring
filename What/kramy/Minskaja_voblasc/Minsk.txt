@@ -9457,8 +9457,8 @@ n3233064585  null / null / Парничок №3
 n3233070812  null / null / Мила
   other tags : note=магазин | shop=yes
     geometry : [53.8501782,27.4733576]
-n3233072866  null / null / Мила
-  other tags : shop=yes
+n3233072866  null / null / магазин "Мила" (косметика)
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8505663,27.4763912]
 n3233073552  null / null / Салодкая крама
   other tags : note=магазин | shop=хлебобулочные_изделия,_конфеты
@@ -9488,16 +9488,19 @@ n3233095531  null / null / Baden
   other tags : shop=shoes
     geometry : [53.8501434,27.4736527]
 n3240836598  null / null / Second Hand
-  other tags : shop=clothes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8498206,27.4763543]
 n3240836599  null / null / Second Hand
-  other tags : shop=clothes
-    geometry : [53.8498151,27.4765411]
-n3240836603
-  other tags : shop=kitchen
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
+    geometry : [53.8498548,27.4765087]
+n3240836600  null / null / Магазин Milavitsa (женское нижнее белье)
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+    geometry : [53.8499907,27.4761609]
+n3240836603  null / null / Кухни и мебель
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8497251,27.4769322]
-n3240836610  null / null / Посудная лавка
-  other tags : shop=yes
+n3240836610  null / null / Посудная лавка (магазин посуды)
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8501840,27.4762670]
 n3240836612
   other tags : shop=clothes
@@ -9511,8 +9514,8 @@ n3240836614  null / null / магазин дверей
 n3240836615
   other tags : shop=convenience
     geometry : [53.8495117,27.4780902]
-n3240836616  null / null / магазин мяса
-  other tags : shop=yes
+n3240836616  null / null / магазин мясных изделий
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8497249,27.4767631]
 n3240836618
   other tags : shop=second_hand
@@ -9560,7 +9563,7 @@ n3247321866
   other tags : shop=clothes
     geometry : [53.8511859,27.4766411]
 n3247321867  null / null / ПроЗдоровье
-  other tags : shop=yes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8500774,27.4762263]
 n3247419935  Пёс і кот / null / Пёс и кот / Пёс и кот
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00 | shop=pet
