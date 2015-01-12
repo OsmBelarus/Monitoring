@@ -9460,14 +9460,14 @@ n3233070812  null / null / Мила
 n3233072866  null / null / магазин "Мила" (косметика)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8505663,27.4763912]
-n3233073552  null / null / Салодкая крама
-  other tags : note=магазин | shop=хлебобулочные_изделия,_конфеты
-    geometry : [53.8496861,27.4782905]
+n3233073552  null / null / Салодкая крама "Плюшка"
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=хлебобулочные_изделия,_конфеты
+    geometry : [53.8496844,27.4782156]
 n3233073895  null / null / Марк формэль
   other tags : shop=clothes
     geometry : [53.8521291,27.4770204]
 n3233074628  null / null / Цветы
-  other tags : addr:city=минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
     geometry : [53.8495190,27.4780424]
 n3233074779  null / null / Мила
   other tags : shop=косметика_бытовая_химия
@@ -9503,10 +9503,10 @@ n3240836610  null / null / Посудная лавка (магазин посу�
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8501840,27.4762670]
 n3240836612
-  other tags : shop=clothes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8507131,27.4764504]
 n3240836613
-  other tags : shop=second_hand
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=second_hand
     geometry : [53.8508107,27.4765225]
 n3240836614  null / null / магазин дверей
   other tags : shop=yes
@@ -9545,20 +9545,17 @@ n3240836637  null / null / Белита-Витекс
   other tags : shop=cosmetics
     geometry : [53.8521349,27.4747586]
 n3240836647  null / null / Магазин велосипедов ВелоГрад
-  other tags : shop=yes
-    geometry : [53.8495867,27.4782468]
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=yes
+    geometry : [53.8495942,27.4781324]
 n3240836648
-  other tags : shop=paint
-    geometry : [53.8497257,27.4781430]
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=paint
+    geometry : [53.8496623,27.4781700]
 n3241524821  null / null / Автосалон AV
   other tags : brand=Audi, Porsche | shop=car_repair
     geometry : [53.8445315,27.5362554]
 n3242762717  Вэлком / null / Велком
   other tags : shop=mobile_phone
     geometry : [53.8632125,27.6041094]
-n3247321865  null / null / Крышталь (фирменный магазин)
-  other tags : shop=yes
-    geometry : [53.8509962,27.4765646]
 n3247321866
   other tags : shop=clothes
     geometry : [53.8511859,27.4766411]
