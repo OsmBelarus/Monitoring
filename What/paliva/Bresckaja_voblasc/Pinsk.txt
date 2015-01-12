@@ -10,9 +10,9 @@ n497154145  null / null / Пинскрайгаз
 n497154163
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [52.1183594,26.0433040]
-n500851001
-  other tags : amenity=fuel
-    geometry : [52.1353916,26.0485103]
+n500851001  null / null / Белоруснефть №75
+  other tags : addr:housenumber=34 | addr:street=проспект Жолтовского | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=РУП «Производственное объединение «Белоруснефть» | phone=+375-165-362477 | website=http://www.belorusneft.by/
+    geometry : [52.1354498,26.0480957]
 n746251496
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | shop=kiosk
     geometry : [52.1178132,26.0637217]
@@ -25,9 +25,9 @@ n1271808365  Слаўнафта / null / Славнефть (закрыто)
 n1278080760
   other tags : amenity=fuel
     geometry : [52.1236372,26.0620567]
+n3282284825  null / null / Белоруснефть №75
+  other tags : addr:housenumber=34 | addr:street=проспект Жолтовского | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=РУП «Производственное объединение «Белоруснефть» | phone=+375-165-362477 | website=http://www.belorusneft.by/
+    geometry : [52.1355815,26.0487825]
 w307627461  null / null / Белоруснефть
   other tags : amenity=fuel | building=yes | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белоруснефть
     geometry : n3128249580[52.1143429,26.0497831] n3128249581[52.1144012,26.0499492] n3128249579[52.1142992,26.0500441] n3128249577[52.1142618,26.0499517] n3128249571[52.1141663,26.0499194] n3128249572[52.1141841,26.0498013] n3128249578[52.1142774,26.0498306] n3128249580[52.1143429,26.0497831]
-w316024603
-  other tags : amenity=fuel | building=yes
-    geometry : n3221409104[52.1356537,26.0480259] n3221409105[52.1355751,26.0480218] n3221409106[52.1353707,26.0480296] n3221409107[52.1353741,26.0481578] n3221409108[52.1356559,26.0482155] n3221409104[52.1356537,26.0480259]
