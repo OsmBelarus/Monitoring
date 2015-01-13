@@ -5954,9 +5954,6 @@ n2334747169  null / null / Cеконд-хэнд
 n2335018520  null / null / Кухни ЗОВ
   other tags : shop=kitchen
     geometry : [53.9098276,27.4202167]
-n2335018521
-  other tags : shop=convenience
-    geometry : [53.9096370,27.4203427]
 n2335018522  null / null / i'Beer
   other tags : drink=beer | note=Магазин разливного пива | shop=beverages
     geometry : [53.9096281,27.4205364]
@@ -10453,3 +10450,6 @@ n3282916505  null / null / Adidas, Reebok
 n3283597763  null / null / Евроопт
   other tags : addr:housenumber=3 | addr:street=Нёманская | shop=supermarket
     geometry : [53.9097381,27.4213485]
+n3283610865  null / null / 4kids
+  other tags : addr:housenumber=3 | addr:street=Нёманская | shop=baby_goods | website=4kids.by
+    geometry : [53.9096117,27.4208900]
