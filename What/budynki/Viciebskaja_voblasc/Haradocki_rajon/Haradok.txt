@@ -4049,7 +4049,7 @@ w154436571
   other tags : building=yes | building:levels=1
     geometry : n1669793381[55.4691683,29.9675294] n1669793358[55.4690187,29.9675541] n1669793360[55.4690221,29.9676174] n1669793383[55.4691717,29.9675927] n1669793381[55.4691683,29.9675294]
 w154436572
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=улица Мелиораторов | building=yes | building:levels=1
     geometry : n1669793422[55.4694781,29.9628429] n1669793412[55.4693893,29.9628690] n1669793414[55.4694001,29.9629829] n1669793424[55.4694889,29.9629568] n1669793422[55.4694781,29.9628429]
 w154436573
   other tags : addr:housenumber=13 | addr:street=улица 70 лет Октября | building=yes | building:levels=1
@@ -6005,10 +6005,10 @@ w155121910
   other tags : addr:housenumber=23 | addr:street=Вокзальная улица | building=yes | building:levels=1
     geometry : n1675593928[55.4661523,30.0035991] n1675593918[55.4660395,30.0035515] n1675593916[55.4660244,30.0036628] n2110338866[55.4660489,30.0036731] n2110338865[55.4660419,30.0037245] n2110338867[55.4660838,30.0037422] n2110338868[55.4660913,30.0036865] n1675593927[55.4661377,30.0037061] n1675593928[55.4661523,30.0035991]
 w155121911
-  other tags : addr:housenumber=30 | addr:street=Вокзальная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=32 | addr:street=Вокзальная улица | building=yes | building:levels=1
     geometry : n1675593878[55.4651456,30.0023723] n1675593874[55.4651327,30.0024701] n1675593882[55.4652352,30.0025121] n1675593885[55.4652521,30.0023833] n1675593881[55.4652041,30.0023637] n1675593880[55.4652000,30.0023945] n1675593878[55.4651456,30.0023723]
 w155121912
-  other tags : addr:housenumber=32 | addr:street=Вокзальная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=34 | addr:street=Вокзальная улица | building=yes | building:levels=1
     geometry : n1675593899[55.4654660,30.0024057] n1675593893[55.4654245,30.0023845] n1675593892[55.4653954,30.0025613] n1675593900[55.4654963,30.0026128] n1675593902[55.4655123,30.0025151] n1675593897[55.4654530,30.0024848] n1675593899[55.4654660,30.0024057]
 w155121913  Лясгас / null / Лесхоз
   other tags : addr:street=Вокзальная улица | building=yes | building:levels=1
@@ -7361,7 +7361,7 @@ w155283866
   other tags : building=yes | building:levels=1
     geometry : n1676861404[55.4674427,29.9580680] n1676861439[55.4676552,29.9586182] n1676861455[55.4677233,29.9585364] n1676861409[55.4675067,29.9579758] n1676861404[55.4674427,29.9580680]
 w155283868
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=55Г | addr:street=Старополоцкая улица | building=yes | building:levels=1
     geometry : n1676861344[55.4669388,29.9585591] n1676861337[55.4668934,29.9585202] n1676861343[55.4669352,29.9583685] n1676861345[55.4669806,29.9584074] n1676861344[55.4669388,29.9585591]
 w155283870
   other tags : building=yes | building:levels=1
@@ -7391,7 +7391,7 @@ w155283887
   other tags : building=yes | building:levels=1
     geometry : n1676861488[55.4678618,29.9575853] n1676861470[55.4678185,29.9576485] n1676861499[55.4680763,29.9581988] n1676861512[55.4681197,29.9581356] n1676861488[55.4678618,29.9575853]
 w155283889
-  other tags : addr:housenumber=55Г | addr:street=Старополоцкая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=55Б | addr:street=Старополоцкая улица | building=yes | building:levels=1
     geometry : n1676861346[55.4671341,29.9576812] n1676861354[55.4672218,29.9577769] n1676861362[55.4672732,29.9576301] n1676861347[55.4671855,29.9575344] n1676861346[55.4671341,29.9576812]
 w155283890
   other tags : building=yes | building:levels=1
@@ -8921,7 +8921,7 @@ w156188381
   other tags : addr:housenumber=35 | addr:street=улица Толкачёва | building=yes | building:levels=1
     geometry : n1684695900[55.4705406,29.9843085] n1684695865[55.4704667,29.9843160] n1684695867[55.4704706,29.9844363] n1684695905[55.4705445,29.9844289] n1684695900[55.4705406,29.9843085]
 w156188382
-  other tags : addr:housenumber=36 | addr:street=улица Толкачёва | building=yes | building:levels=1
+  other tags : addr:housenumber=42 | addr:street=улица Толкачёва | building=yes | building:levels=1
     geometry : n1684695109[55.4690018,29.9891205] n1684695098[55.4689205,29.9891856] n1684695101[55.4689600,29.9893390] n2104166951[55.4689738,29.9893279] n2104166954[55.4689848,29.9893706] n1684695118[55.4690522,29.9893166] n1684695109[55.4690018,29.9891205]
 w156188384
   other tags : addr:housenumber=37 | addr:street=улица Толкачёва | building=yes | building:levels=1
@@ -9689,7 +9689,7 @@ w157813370
   other tags : addr:housenumber=40 | addr:street=Заводская улица | building=yes | building:levels=1
     geometry : n1700659071[55.4691067,29.9935047] n1700659028[55.4690397,29.9935327] n1700659034[55.4690493,29.9936043] n1700659027[55.4690310,29.9936120] n1700659031[55.4690404,29.9936819] n1700659073[55.4691452,29.9936382] n1700659066[55.4691361,29.9935705] n1700659076[55.4691166,29.9935786] n1700659071[55.4691067,29.9935047]
 w157813371
-  other tags : addr:housenumber=42 | addr:street=Заводская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=47А | addr:street=Заводская улица | building=yes | building:levels=1
     geometry : n1700659130[55.4694848,29.9937676] n1700659117[55.4694039,29.9937518] n1700659114[55.4693931,29.9939254] n1700659120[55.4694739,29.9939411] n1700659130[55.4694848,29.9937676]
 w157813372
   other tags : addr:housenumber=43 | addr:street=Заводская улица | building=yes | building:levels=1
