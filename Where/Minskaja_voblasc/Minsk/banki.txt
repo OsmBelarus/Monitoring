@@ -1149,7 +1149,7 @@ n3283739477  Цэнтр банкаўскіх паслуг №702/3 / null / Це
   other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30 | operator=ОАО "БПС-Сбербанк" | ref=702/3
     geometry : [53.9395455,27.6910021]
 n3283855499  null / null / БПС-банк
-  other tags : amenity=bank
+  other tags : addr:housenumber=104 | addr:postcode=220116 | addr:street=проспект Дзержинского | amenity=bank
     geometry : [53.8613088,27.4804357]
 w25319049  null / null / Национальный
   other tags : addr:housenumber=72А | addr:postcode=220114 | addr:street=улица Калиновского | amenity=bank | building=yes
