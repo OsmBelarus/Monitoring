@@ -29,10 +29,10 @@ w31767273
   other tags : highway=service
     geometry : n355605673[55.4303665,30.1409961] n355605777[55.4304167,30.1368707]
 w101370749
-  other tags : addr:street=ул.Цветочная | highway=service | surface=unpaved
+  other tags : addr:street=ул. | highway=service | surface=unpaved
     geometry : n1170549024[55.3919052,30.0357668] n2285775934[55.3928582,30.0341809] n2285775935[55.3928986,30.0340120] n2285775932[55.3928195,30.0336594] n1453767290[55.3928314,30.0333927] n2285775936[55.3930851,30.0326927] n1170548907[55.3932003,30.0326420]
 w101370751
-  other tags : addr:street=ул.Садовая | highway=service | surface=unpaved
+  other tags : addr:street=ул. | highway=service | surface=unpaved
     geometry : n1170548830[55.3925536,30.0370992] n2285775947[55.3938777,30.0348846] n1170548928[55.3940086,30.0348597]
 w101370755
   other tags : highway=service | surface=unpaved
@@ -41,7 +41,7 @@ w101370756
   other tags : addr:street=ул.Центральная | highway=service | surface=unpaved
     geometry : n1170548907[55.3932003,30.0326420] n1170549044[55.3934519,30.0333777] n3240727011[55.3936700,30.0339516] n1170548991[55.3937271,30.0341108] n1170548928[55.3940086,30.0348597] n1453761002[55.3941817,30.0352192] n1170549056[55.3943211,30.0353050]
 w101370757
-  other tags : highway=service | surface=unpaved
+  other tags : addr:street=ул.Садовая | highway=service | surface=unpaved
     geometry : n1170549010[55.3926681,30.0380946] n1453767291[55.3936119,30.0365142] n2333145399[55.3939750,30.0359216] n1170549056[55.3943211,30.0353050]
 w111332065
   other tags : highway=service
@@ -887,7 +887,7 @@ w317768357
   other tags : addr:street=ул.Центральная | highway=service | surface=unpaved
     geometry : n3240727024[55.3941291,30.0333421] n3240727011[55.3936700,30.0339516]
 w317768358
-  other tags : highway=service | surface=unpaved
+  other tags : addr:street=ул.Цветочная | highway=service | surface=unpaved
     geometry : n2860781486[55.3923752,30.0373316] n2860781468[55.3923013,30.0372849] n2860781457[55.3922152,30.0370207] n2860781444[55.3921413,30.0366825] n1170548897[55.3921556,30.0365490] n2285775943[55.3936088,30.0341847] n1170548991[55.3937271,30.0341108]
 w319549611
   other tags : highway=service | surface=unpaved
