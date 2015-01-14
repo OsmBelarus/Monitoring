@@ -4739,7 +4739,7 @@ w204239065
   other tags : addr:housenumber=14 | addr:street=Красноармейская улица | building=house
     geometry : n2142511338[53.4356839,30.9974816] n2142511336[53.4356567,30.9976479] n2142511333[53.4355854,30.9976151] n2142511334[53.4356126,30.9974487] n2142511338[53.4356839,30.9974816]
 w204239066  null / null / Общежитие
-  other tags : building=apartments
+  other tags : addr:housenumber=61 | addr:street=улица Калинина | building=apartments
     geometry : n2142510983[53.4301296,30.9823000] n2142510980[53.4300186,30.9824642] n2142510976[53.4297633,30.9819784] n2142510977[53.4298743,30.9818141] n2142510983[53.4301296,30.9823000]
 w204239067  null / null / Общежитие
   other tags : building=apartments
@@ -4781,7 +4781,7 @@ w204239081
   other tags : addr:housenumber=8 | addr:street=улица Семашко | building=house
     geometry : n2142511243[53.4344559,30.9962205] n2523975217[53.4344270,30.9961707] n2142511225[53.4343867,30.9961013] n2142511238[53.4344273,30.9960349] n2142511253[53.4344965,30.9961541] n2142511243[53.4344559,30.9962205]
 w204239082
-  other tags : addr:housenumber=61 | addr:street=улица Калинина | building=apartments
+  other tags : addr:housenumber=59а | addr:street=улица Калинина | building=apartments
     geometry : n2142510985[53.4302823,30.9826113] n2142510990[53.4303993,30.9828319] n2142510982[53.4300542,30.9833472] n2142510979[53.4299372,30.9831266] n2142510985[53.4302823,30.9826113]
 w204239083
   other tags : addr:housenumber=50 | addr:street=улица Калинина | building=house
