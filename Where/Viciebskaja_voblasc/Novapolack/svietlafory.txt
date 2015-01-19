@@ -65,7 +65,7 @@ n1598477093  8-мы мікрараён / null / 8-ой микрорайон
   other tags : bus=yes | highway=bus_stop | local_ref=2, 4, 7, 8, 9, 10a, 12 | public_transport=platform
     geometry : [55.5084024,28.7006069]
 n1598477097  Гасцініца «Нафтан» / null / Гостицица "Нафтан"
-  other tags : bus=yes | highway=bus_stop | local_ref=2, 4, 5, 7, 8, 9, 10a, 12 | public_transport=platform
+  other tags : bus=yes | highway=bus_stop | local_ref=2, 4, 5, 7, 8, 9, 10a, 12 | public_transport=platform | shelter=yes
     geometry : [55.5210872,28.6814846]
 n1598477100  Паліміраўскі пасёлак / null / посёлок "Полимировский"
   other tags : bus=yes | highway=bus_stop | local_ref=2, 4, 7, 8, 9, 10a, 12 | public_transport=platform
@@ -106,9 +106,6 @@ n2456005039  null / null / Коптево
 n2525503095  null / null / Коптево
   other tags : highway=bus_stop
     geometry : [55.5404543,28.6712849]
-n2592465143  Гасцініца «Нафтан» / null / Гостицица "Нафтан"
-  other tags : bench=yes | bus=yes | highway=bus_stop | local_ref=2, 4, 5, 7, 8, 9, 10a, 12 | public_transport=platform | shelter=yes
-    geometry : [55.5221871,28.6808165]
 n2782982971  null / null / Нафтан
   other tags : highway=bus_stop | shelter=yes
     geometry : [55.5226439,28.5584267]
