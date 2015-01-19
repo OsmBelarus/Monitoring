@@ -2967,8 +2967,8 @@ n767088108  Школа / null / Школа / Школа
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8988332,27.4966644]
 n767088111  null / null / Проспект Жукова
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.8945441,27.4967507]
+  other tags : bench=yes | covered=no | generated=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8945596,27.4967438]
 n767088115  Фрунзенскі ун-сам / null / Универсам Фрунзенский
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9055100,27.4956400]
@@ -3048,7 +3048,7 @@ n767088168  Школа / null / Школа / Школа
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8999790,27.4972553]
 n767088169  Харкаўская вуліца / null / Харьковская / Харьковская улица
-  other tags : generated=yes | highway=bus_stop
+  other tags : bench=yes | covered=no | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8956818,27.4979277]
 n767088173  null / null / Холмогорская
   other tags : generated=yes | highway=bus_stop
@@ -4178,7 +4178,7 @@ n767183620  null / null / Жасминовая / Жасминовая
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9272126,27.6509524]
 n767183621  null / null / Проспект Жукова
-  other tags : generated=yes | highway=bus_stop
+  other tags : bench=yes | covered=no | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8953633,27.4998486]
 n767183622  вуліца Машынабудаўнікоў / null / Машиностроителей / улица Машиностроителей
   other tags : generated=yes | highway=bus_stop
@@ -4699,7 +4699,7 @@ n767183841  Брылеўская вул. / null / Брилевская / Бри�
     geometry : [53.8735000,27.5289900]
 n767183842  Харкаўская вуліца / null / Харьковская / Харьковская улица
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8941600,27.4977000]
+    geometry : [53.8941215,27.4980424]
 n767183844  вуліца Машынабудаўнікоў / null / Машиностроителей / улица Машиностроителей
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8558841,27.6365890]
