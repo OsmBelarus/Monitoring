@@ -522,9 +522,6 @@ n306063950  null / null / Прод. / Прод.
 n306063953  null / null / Продтовары 6 / Прод
   other tags : shop=department_store
     geometry : [52.0964000,23.6824000]
-n306063956  null / null / Автомагазин / Автомагазин
-  other tags : shop=general
-    geometry : [52.0886848,23.6740670]
 n306063957  null / null / Мир Подарков / Мир Подарков
   other tags : addr:housenumber=19 | addr:street=Пушкинская улица | shop=general
     geometry : [52.0951700,23.6894200]
@@ -1136,3 +1133,9 @@ n3279323693  null / null / Автозапчасти «Росавтоком»
 n3295396963  null / null / Юником-Сервис
   other tags : shop=computer
     geometry : [52.0920544,23.6800788]
+n3295540833  null / null / Хозтовары № 2
+  other tags : shop=hardware
+    geometry : [52.0931563,23.6848221]
+n3295555815  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [52.0897049,23.6750151]
