@@ -12140,7 +12140,7 @@ w282136789
   other tags : addr:housenumber=31 | addr:street=ул.Цветочная | building=yes | building:levels=1
     geometry : n2860781766[55.3928442,30.0349999] n2860781781[55.3929082,30.0351107] n2860781773[55.3928662,30.0351860] n2860781757[55.3928022,30.0350752] n2860781766[55.3928442,30.0349999]
 w282136790
-  other tags : addr:housenumber=8 | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782039[55.3932387,30.0369733] n2860782029[55.3931889,30.0370642] n2860782015[55.3931263,30.0369577] n2860782027[55.3931761,30.0368668] n2860782039[55.3932387,30.0369733]
 w282136791
   other tags : addr:housenumber=94 | addr:street=ул.Прибрежная | building=yes | building:levels=1
@@ -12176,7 +12176,7 @@ w282136801
   other tags : building=yes | building:levels=1
     geometry : n2860781734[55.3926647,30.0370270] n2860781745[55.3927208,30.0371354] n2860781737[55.3926754,30.0372084] n2860781726[55.3926192,30.0371000] n2860781734[55.3926647,30.0370270]
 w282136802
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782275[55.3948389,30.0346874] n2860782281[55.3948908,30.0347882] n2860782277[55.3948485,30.0348556] n2860782269[55.3947966,30.0347548] n2860782275[55.3948389,30.0346874]
 w282136803
   other tags : addr:housenumber=12 | addr:street=ул.Прибрежная | building=yes | building:levels=1
@@ -12221,7 +12221,7 @@ w282136816
   other tags : building=yes | building:levels=1
     geometry : n2860782032[55.3931995,30.0357344] n2860782038[55.3932376,30.0358051] n2860782030[55.3931946,30.0358770] n2860782020[55.3931565,30.0358063] n2860782032[55.3931995,30.0357344]
 w282136817
-  other tags : addr:housenumber=13 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=13 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782206[55.3936966,30.0365113] n2860782213[55.3937390,30.0365909] n2860782204[55.3936882,30.0366746] n2860782096[55.3936459,30.0365949] n2860782206[55.3936966,30.0365113]
 w282136818
   other tags : building=yes | building:levels=1
@@ -12239,7 +12239,7 @@ w282136822
   other tags : building=yes | building:levels=1
     geometry : n2860782057[55.3933496,30.0354526] n2860782065[55.3933938,30.0355401] n2860782059[55.3933562,30.0355988] n2860782049[55.3933121,30.0355114] n2860782057[55.3933496,30.0354526]
 w282136823
-  other tags : addr:housenumber=12 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782088[55.3935757,30.0364219] n2860782082[55.3935290,30.0364950] n2860782073[55.3934761,30.0363904] n2860782080[55.3935227,30.0363173] n2860782088[55.3935757,30.0364219]
 w282136824
   other tags : addr:housenumber=108 | addr:street=ул.Центральная | building=yes | building:levels=1
@@ -12251,7 +12251,7 @@ w282136826
   other tags : building=yes | building:levels=1
     geometry : n2860782019[55.3931554,30.0350776] n2860782033[55.3932017,30.0351651] n2860782022[55.3931618,30.0352308] n2860782013[55.3931154,30.0351433] n2860782019[55.3931554,30.0350776]
 w282136827
-  other tags : addr:housenumber=11 | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782086[55.3935649,30.0369828] n2860782083[55.3935295,30.0370400] n2860782070[55.3934561,30.0368993] n2860782077[55.3934914,30.0368421] n2860782086[55.3935649,30.0369828]
 w282136828
   other tags : building=yes | building:levels=1
@@ -12263,7 +12263,7 @@ w282136830
   other tags : addr:housenumber=33 | addr:street=ул.Цветочная | building=yes | building:levels=1
     geometry : n2860781748[55.3927405,30.0353030] n2860781756[55.3927989,30.0354138] n2860781749[55.3927562,30.0354838] n2860781742[55.3926977,30.0353730] n2860781748[55.3927405,30.0353030]
 w282136831
-  other tags : addr:housenumber=6 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782012[55.3930832,30.0372338] n2860782004[55.3930163,30.0373365] n2860781793[55.3929740,30.0372510] n2860782006[55.3930409,30.0371484] n2860782012[55.3930832,30.0372338]
 w282136832
   other tags : building=yes | building:levels=1
@@ -12281,7 +12281,7 @@ w282136836
   other tags : addr:housenumber=41 | addr:street=ул.Цветочная | building=yes | building:levels=1
     geometry : n2860781456[55.3922151,30.0360356] n2860781464[55.3922780,30.0361619] n2860781460[55.3922396,30.0362213] n2860781449[55.3921767,30.0360950] n2860781456[55.3922151,30.0360356]
 w282136837
-  other tags : addr:housenumber=4 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860781784[55.3929147,30.0374810] n2860781769[55.3928521,30.0375913] n2860781758[55.3928111,30.0375190] n2860781776[55.3928737,30.0374088] n2860781784[55.3929147,30.0374810]
 w282136838
   other tags : building=yes | building:levels=1
@@ -12290,7 +12290,7 @@ w282136839
   other tags : addr:housenumber=100 | addr:street=ул.Центральная | building=yes | building:levels=1
     geometry : n2860782068[55.3934275,30.0327584] n2860782071[55.3934683,30.0328864] n2860782066[55.3933994,30.0329544] n2860782061[55.3933586,30.0328264] n2860782068[55.3934275,30.0327584]
 w282136840
-  other tags : addr:housenumber=17 | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782248[55.3940692,30.0358857] n2860782252[55.3941156,30.0359846] n2860782247[55.3940674,30.0360547] n2860782242[55.3940210,30.0359559] n2860782248[55.3940692,30.0358857]
 w282136841
   other tags : building=yes | building:levels=1
@@ -12302,7 +12302,7 @@ w282136843
   other tags : building=yes | building:levels=1
     geometry : n2860782054[55.3933342,30.0359736] n2860782062[55.3933720,30.0360448] n2860782052[55.3933223,30.0361265] n2860782044[55.3932845,30.0360554] n2860782054[55.3933342,30.0359736]
 w282136844
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=104 | addr:street=ул.Центральная | building=yes | building:levels=1
     geometry : n2860782094[55.3936320,30.0333975] n2860782100[55.3936718,30.0335063] n2860782092[55.3936252,30.0335590] n2860782089[55.3935855,30.0334502] n2860782094[55.3936320,30.0333975]
 w282136845
   other tags : building=yes | building:levels=1
@@ -12311,13 +12311,13 @@ w282136846
   other tags : addr:housenumber=3 | addr:street=ул.Прибрежная | building=yes | building:levels=1
     geometry : n2860781454[55.3922035,30.0325853] n2860781462[55.3922621,30.0326857] n2860781453[55.3922012,30.0327956] n2860781445[55.3921427,30.0326952] n2860781454[55.3922035,30.0325853]
 w282136847
-  other tags : addr:housenumber=15 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782226[55.3938910,30.0362184] n2860782229[55.3939298,30.0362829] n2860782224[55.3938758,30.0363837] n2860782221[55.3938370,30.0363192] n2860782226[55.3938910,30.0362184]
 w282136848
-  other tags : addr:housenumber=1 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860781733[55.3926603,30.0382364] n2860781746[55.3927230,30.0383847] n2860781731[55.3926501,30.0384800] n2860781725[55.3925875,30.0383317] n2860781733[55.3926603,30.0382364]
 w282136849
-  other tags : addr:housenumber=16 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=16 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782238[55.3940033,30.0357050] n2860782232[55.3939567,30.0357888] n2860782227[55.3939060,30.0357014] n2860782231[55.3939525,30.0356176] n2860782238[55.3940033,30.0357050]
 w282136850
   other tags : addr:housenumber=106 | addr:street=ул.Центральная | building=yes | building:levels=1
@@ -12332,13 +12332,13 @@ w282136853
   other tags : building=yes | building:levels=1
     geometry : n2860781478[55.3923443,30.0366554] n2860781487[55.3923793,30.0367254] n2860781474[55.3923230,30.0368128] n2860781467[55.3922880,30.0367429] n2860781478[55.3923443,30.0366554]
 w282136854
-  other tags : addr:housenumber=5 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860781789[55.3929454,30.0378142] n2860781795[55.3929809,30.0378813] n2860781788[55.3929345,30.0379574] n2860781780[55.3928990,30.0378903] n2860781789[55.3929454,30.0378142]
 w282136855
-  other tags : addr:housenumber=14 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782211[55.3937279,30.0361595] n2860782205[55.3936892,30.0362309] n2860782095[55.3936428,30.0361530] n2860782202[55.3936815,30.0360815] n2860782211[55.3937279,30.0361595]
 w282136856
-  other tags : addr:housenumber=118 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:housenumber=118 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782280[55.3948728,30.0354254] n2860782283[55.3949160,30.0354973] n2860782279[55.3948641,30.0355941] n2860782273[55.3948209,30.0355222] n2860782280[55.3948728,30.0354254]
 w282136857
   other tags : addr:housenumber=86 | addr:street=ул.Прибрежная | building=yes | building:levels=1
@@ -12356,7 +12356,7 @@ w282136861
   other tags : building=yes | building:levels=1
     geometry : n2860782048[55.3933022,30.0332453] n2860782058[55.3933518,30.0333832] n2860782046[55.3933001,30.0334409] n2860782040[55.3932505,30.0333030] n2860782048[55.3933022,30.0332453]
 w282136862
-  other tags : addr:housenumber=19 | building=yes | building:levels=1
+  other tags : addr:housenumber=19 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782257[55.3943124,30.0357078] n2860782255[55.3942497,30.0358127] n2860782254[55.3941948,30.0357110] n2860782256[55.3942575,30.0356061] n2860782257[55.3943124,30.0357078]
 w282136863
   other tags : building=yes | building:levels=1
@@ -12377,7 +12377,7 @@ w282136868
   other tags : building=yes | building:levels=1
     geometry : n2860782002[55.3930119,30.0353574] n2860782009[55.3930539,30.0354352] n2860782001[55.3930092,30.0355098] n2860781792[55.3929673,30.0354321] n2860782002[55.3930119,30.0353574]
 w282136869
-  other tags : addr:housenumber=9 | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782051[55.3933208,30.0371464] n2860782060[55.3933643,30.0372216] n2860782047[55.3933016,30.0373338] n2860782041[55.3932582,30.0372585] n2860782051[55.3933208,30.0371464]
 w282136870
   other tags : addr:housenumber=97 | addr:street=ул.Центральная | building=yes | building:levels=1
@@ -12395,7 +12395,7 @@ w282136874
   other tags : building=yes | building:levels=1
     geometry : n2860782055[55.3933364,30.0343023] n2860782063[55.3933819,30.0343923] n2860782053[55.3933312,30.0344720] n2860782045[55.3932856,30.0343820] n2860782055[55.3933364,30.0343023]
 w282136875
-  other tags : addr:housenumber=7 | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n2860782037[55.3932258,30.0375019] n2860782028[55.3931879,30.0375636] n2860782017[55.3931339,30.0374610] n2860782026[55.3931718,30.0373992] n2860782037[55.3932258,30.0375019]
 w282136876
   other tags : building=yes | building:levels=1
