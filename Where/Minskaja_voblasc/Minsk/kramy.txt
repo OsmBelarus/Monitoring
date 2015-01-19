@@ -503,7 +503,7 @@ n282158548  null / null / Одежда
     geometry : [53.9017097,27.6025097]
 n286771606  null / null / Дивный
   other tags : shop=supermarket
-    geometry : [53.8601699,27.5715598]
+    geometry : [53.8602338,27.5715361]
 n286772444
   other tags : shop=convenience
     geometry : [53.8707145,27.5754484]
@@ -10801,3 +10801,6 @@ n3292139301  null / null / Офис www.antiradar.by
 n3294880456  null / null / Lady & Dandy
   other tags : addr:city=Минск | addr:housenumber=14 | addr:street=улица Ежи Гедройца | opening_hours=вт-вс: 10:00-20:00 | operator=ИП Алексеева Е.Е. | shop=clothes | source=http://lady-dandy.by | website=http://lady-dandy.by | wheelchair=no
     geometry : [53.8518499,27.4807327]
+n3295054034  null / null / Хозяюшка
+  other tags : opening_hours=Mo-Su 09:00-21:00 | shop=chemist
+    geometry : [53.8599442,27.5716570]
