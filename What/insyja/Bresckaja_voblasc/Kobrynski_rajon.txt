@@ -238,11 +238,11 @@ n2766722519  null / null / Санаторий Колос
   other tags : amenity=sanatorium | leisure=resort | tourism=hotel
     geometry : [52.1954550,24.2199610]
 n2766728122  null / null / Комарово
-  other tags : leisure=resort | tourism=hotel
-    geometry : [51.9890230,24.6023150]
+  other tags : leisure=resort | phone=+375 29 222-24-66 | tourism=hotel | website=http://komarovo.by/
+    geometry : [51.9892082,24.6032393]
 n2766728141  null / null / Любань
   other tags : leisure=resort | tourism=hotel
-    geometry : [51.9864667,24.6024000]
+    geometry : [51.9866553,24.6025641]
 n2788679911  Вятрак / null / Ветряк
   other tags : tourism=attraction
     geometry : [52.1347990,24.5158650]
@@ -420,6 +420,18 @@ n3192813211
 n3192813212
   other tags : toll=yes | toll_length=9,01
     geometry : [52.1998338,24.4159863]
+n3298951409  null / null / База отдыха "Вторчермета"
+  other tags : leisure=resort | tourism=guest_house
+    geometry : [51.9900727,24.6033489]
+n3298951410  null / null / База отдыха "Облгаз"
+  other tags : leisure=resort | operator=Облгаз | tourism=guest_house
+    geometry : [51.9905914,24.6032395]
+n3298951411  null / null / База отдыха "Телеком"
+  other tags : leisure=resort | tourism=hotel
+    geometry : [51.9884426,24.6031083]
+n3298951412  null / null / База отдыха колхоза
+  other tags : leisure=resort | tourism=guest_house
+    geometry : [51.9896147,24.6033270]
 w25143783
   other tags : admin_level=8 | boundary=administrative
     geometry : n274019370[52.2926900,24.7263600] n274019390[52.2924300,24.7292000] n274019391[52.2910600,24.7292800] n274019393[52.2910600,24.7332300] n274019395[52.2932900,24.7332300] n274019396[52.2934600,24.7280800] n274019399[52.2936300,24.7265300] n274019370[52.2926900,24.7263600]
