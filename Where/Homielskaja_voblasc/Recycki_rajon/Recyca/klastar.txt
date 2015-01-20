@@ -1,14 +1,14 @@
-n306064262  null / null / Храм Покрова Пресвятой Богородицы
-  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [52.3633876,30.3720182]
 n3279125385  null / null / Плебанiя Найсвяцейшай Тройцы
   other tags : addr:housenumber=132-8 | addr:street=улица Наумова | amenity=place_of_worship | denomination=roman_catholic | religion=christian
     geometry : [52.3570560,30.3949883]
+w239788312  null / null / Храм Покрова Пресвятой Богородицы
+  other tags : addr:housenumber=11 | addr:street=Пролетарский переулок | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n2475561799[52.3635418,30.3721374] n2475561793[52.3633507,30.3718076] n2475561789[52.3632519,30.3719611] n2475561797[52.3634431,30.3722909] n2475561799[52.3635418,30.3721374]
 w239852868  Касцёл Найсвяцейшай Тройцы / null / Касцёл Найсвяцейшай Тройцы
   other tags : addr:housenumber=31 | addr:street=Советская улица | amenity=place_of_worship | building=yes | denomination=roman_catholic | image=http://www.panoramio.com/photo/83493874 | religion=christian
     geometry : n2476366593[52.3712785,30.3890668] n2476366589[52.3711243,30.3892906] n2676269722[52.3711437,30.3893264] n2676269721[52.3711154,30.3893675] n2685372203[52.3711335,30.3894010] n2676269723[52.3711506,30.3894325] n2676269724[52.3711761,30.3893955] n2476366592[52.3711960,30.3894324] n2668237473[52.3712931,30.3892916] n2668237475[52.3713419,30.3893818] n2476366594[52.3714019,30.3892947] n2476366593[52.3712785,30.3890668]
-w261181776  null / null / Успенский собор
-  other tags : addr:housenumber=29 | addr:street=Советская улица | amenity=place_of_worship | building=yes | denomination=orthodox | image=http://www.panoramio.com/photo/12005533 | religion=christian
+w261181776  null / null / Храм Успения Пресвятой Богородицы
+  other tags : addr:housenumber=29 | addr:street=Советская улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | image=http://www.panoramio.com/photo/12005533 | religion=christian
     geometry : n2668122921[52.3718047,30.3883008] n2668122920[52.3717277,30.3884163] n2685372207[52.3717651,30.3884865] n2671223811[52.3718005,30.3885528] n2671223812[52.3718135,30.3885329] n2668122925[52.3718577,30.3886091] n2668122924[52.3718395,30.3886346] n2668122922[52.3718356,30.3886954] n2668122929[52.3719138,30.3888395] n2668122933[52.3719489,30.3888427] n2668122939[52.3720330,30.3887178] n2668122937[52.3720389,30.3886698] n2668122935[52.3719607,30.3885257] n2668122931[52.3719274,30.3885129] n2668122926[52.3719098,30.3885353] n2671223813[52.3718617,30.3884549] n2671223814[52.3718761,30.3884290] n2668122921[52.3718047,30.3883008]
 w261213682
   other tags : amenity=place_of_worship | building=chapel | denomination=russian_orthodox | religion=christian
