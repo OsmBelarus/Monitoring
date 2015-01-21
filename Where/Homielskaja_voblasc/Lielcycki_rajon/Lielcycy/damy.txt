@@ -7598,7 +7598,7 @@ w284619671
   other tags : addr:housenumber=2 | addr:street=Крестьянская улица | building=residential
     geometry : n2883423802[51.7810283,28.3246325] n2883423697[51.7810060,28.3247920] n2883423668[51.7809134,28.3247581] n2883423673[51.7809357,28.3245986] n2883423802[51.7810283,28.3246325]
 w284619672
-  other tags : addr:housenumber=14 | addr:street=Крестьянская улица | building=residential
+  other tags : addr:housenumber=12 | addr:street=Крестьянская улица | building=residential
     geometry : n2883424108[51.7813474,28.3225280] n2883424102[51.7813245,28.3227099] n2883423245[51.7812590,28.3226883] n2883423249[51.7812819,28.3225065] n2883424108[51.7813474,28.3225280]
 w284619674
   other tags : addr:housenumber=8 | addr:street=Крестьянская улица | building=residential
@@ -7646,7 +7646,7 @@ w284619691
   other tags : addr:housenumber=61 | addr:street=Колхозная улица | building=residential
     geometry : n2883423406[51.7795307,28.3181839] n2883423404[51.7795078,28.3183070] n2883423387[51.7794373,28.3182727] n2883423391[51.7794602,28.3181496] n2883423406[51.7795307,28.3181839]
 w284619693
-  other tags : addr:housenumber=16 | addr:street=Крестьянская улица | building=residential
+  other tags : addr:housenumber=14 | addr:street=Крестьянская улица | building=residential
     geometry : n2883423251[51.7814574,28.3219717] n2906811351[51.7814412,28.3220653] n2883424101[51.7814305,28.3221332] n2883423243[51.7813541,28.3220999] n2883423246[51.7813810,28.3219384] n2883423251[51.7814574,28.3219717]
 w284619694
   other tags : addr:housenumber=26 | addr:street=Колхозная улица | building=residential
@@ -7694,7 +7694,7 @@ w284619710
   other tags : addr:housenumber=41 | addr:street=Колхозная улица | building=residential
     geometry : n2883423386[51.7794328,28.3214488] n2883423384[51.7794098,28.3215719] n2883423375[51.7793393,28.3215376] n2883423378[51.7793623,28.3214145] n2883423386[51.7794328,28.3214488]
 w284619711
-  other tags : addr:housenumber=20 | addr:street=Крестьянская улица | building=residential
+  other tags : addr:housenumber=16 | addr:street=Крестьянская улица | building=residential
     geometry : n2883423258[51.7814389,28.3214384] n2883423256[51.7814120,28.3215999] n2883424103[51.7813356,28.3215666] n2883423252[51.7813625,28.3214052] n2883423258[51.7814389,28.3214384]
 w284619712
   other tags : addr:housenumber=29 | addr:street=Колхозная улица | building=residential
@@ -9103,3 +9103,6 @@ w323040554
 w323047040
   other tags : addr:housenumber=32а | addr:street=Крестьянская улица | building=house
     geometry : n3298485192[51.7813635,28.3193628] n3298485190[51.7812549,28.3193669] n3298485191[51.7812573,28.3195350] n3298485193[51.7813660,28.3195309] n3298485192[51.7813635,28.3193628]
+w323202812
+  other tags : addr:housenumber=20 | addr:street=Крестьянская улица | building=house
+    geometry : n3299890243[51.7815087,28.3209197] n3299890241[51.7814189,28.3209106] n3299890240[51.7814118,28.3210955] n3299890242[51.7815015,28.3211045] n3299890243[51.7815087,28.3209197]
