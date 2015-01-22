@@ -1,6 +1,3 @@
-n3168664874  null / null / Храм Святого Архистратига Божия Михаила
-  other tags : addr:housenumber=11 | addr:street=улица Победы | amenity=place_of_worship | denomination=russian_orthodox | religion=christian
-    geometry : [52.2290073,30.3255704]
 w261712838  null / null / Храм Святителя Николая Чудотворца
   other tags : addr:housenumber=71 | addr:street=Пролетарская улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2673105100[52.3231451,30.4756826] n2673105076[52.3230377,30.4756275] n2673105070[52.3230179,30.4757307] n2673105092[52.3231253,30.4757858] n2673105100[52.3231451,30.4756826]
@@ -31,3 +28,6 @@ w323208518  null / null / Храм святых Царственных стра�
 w323395938  Царква Святога апостала Іаана Багаслова / null / Храм Святого апостола Иоанна Богослова 1907г.
   other tags : addr:housenumber=85 | addr:street=Школьная улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
     geometry : n3301937191[52.2601726,30.4030296] n3301937192[52.2602908,30.4032281] n3301937193[52.2603565,30.4031476] n3301937194[52.2602350,30.4029384] n3301937191[52.2601726,30.4030296]
+w323398214  null / null / Храм Святого Архистратига Божия Михаила
+  other tags : addr:city=Ровенская Слобода | addr:housenumber=11 | addr:street=улица Победы | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3301963729[52.2300106,30.3209490] n3301963730[52.2299567,30.3212404] n3301963731[52.2300558,30.3212893] n3301963732[52.2301097,30.3209979] n3301963729[52.2300106,30.3209490]
