@@ -5546,7 +5546,7 @@ w161027826
   other tags : addr:housenumber=24А | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334877[54.4901429,30.4622395] n1730334881[54.4901115,30.4619965] n1730334883[54.4901903,30.4619664] n1730334879[54.4902216,30.4622092] n1730334877[54.4901429,30.4622395]
 w161027827
-  other tags : addr:housenumber=25 | addr:street=Свистёлки | building=yes | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334871[54.4900302,30.4622650] n1730334873[54.4899910,30.4620251] n1730334875[54.4900688,30.4619875] n1730334872[54.4901079,30.4622274] n2898712914[54.4900728,30.4622444] n1730334871[54.4900302,30.4622650]
 w161027828
   other tags : addr:housenumber=26А | addr:street=Вясковая улица | building=yes | building:levels=1
@@ -5627,7 +5627,7 @@ w161027856
   other tags : addr:housenumber=48А | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334678[54.4854358,30.4618290] n1730334687[54.4854062,30.4615853] n1730334688[54.4854853,30.4615569] n1730334679[54.4855148,30.4618005] n1730334678[54.4854358,30.4618290]
 w161027858
-  other tags : addr:housenumber=49 | addr:street=Свистёлки | building=yes | building:levels=1
+  other tags : addr:housenumber=49 | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334617[54.4850916,30.4615020] n1730334639[54.4851775,30.4614703] n1730334643[54.4851939,30.4616020] n1730334621[54.4851080,30.4616337] n1730334617[54.4850916,30.4615020]
 w161027859
   other tags : addr:housenumber=5 | addr:street=Вясковая улица | building=yes | building:levels=1
@@ -5711,10 +5711,10 @@ w161027890
   other tags : addr:housenumber=51А | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334605[54.4849369,30.4605919] n1730334631[54.4850374,30.4605494] n1730334636[54.4850547,30.4606708] n1730334609[54.4849542,30.4607133] n1730334605[54.4849369,30.4605919]
 w161027891
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334939[54.4933521,30.4611067] n1730334943[54.4933324,30.4608603] n1730334944[54.4934124,30.4608413] n1730334940[54.4934321,30.4610879] n1730334939[54.4933521,30.4611067]
 w161027892
-  other tags : addr:housenumber=10 | addr:street=Свистёлки | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334949[54.4937278,30.4612739] n1730334953[54.4937945,30.4612403] n2763594637[54.4938031,30.4612909] n1730334954[54.4938166,30.4613704] n1730334950[54.4937499,30.4614040] n1730334949[54.4937278,30.4612739]
 w161027893
   other tags : addr:housenumber=22 | addr:street=Вясковая улица | building=yes | building:levels=1
@@ -5735,13 +5735,13 @@ w161027898
   other tags : addr:housenumber=65Б | building=yes | building:levels=1
     geometry : n1730334665[54.4852577,30.4515412] n1730334677[54.4852297,30.4513528] n1730334681[54.4853038,30.4513202] n1730334669[54.4853318,30.4515086] n1730334665[54.4852577,30.4515412]
 w161027899
-  other tags : addr:housenumber=2 | addr:street=Свистёлки | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334969[54.4948935,30.4607826] n1730334973[54.4949612,30.4607493] n1730334975[54.4949805,30.4608660] n1730334971[54.4949128,30.4608993] n1730334969[54.4948935,30.4607826]
 w161027900
   other tags : addr:housenumber=71А | addr:street=1-й Северный переулок | building=yes | building:levels=1
     geometry : n1730334549[54.4805246,30.4524371] n1730334553[54.4806691,30.4524371] n1730334556[54.4806691,30.4525761] n1730334551[54.4805246,30.4525761] n1730334549[54.4805246,30.4524371]
 w161027901
-  other tags : addr:housenumber=41Б | addr:street=Свистёлки | building=yes | building:levels=1
+  other tags : addr:housenumber=41Б | addr:street=Вясковая улица | building=yes | building:levels=1
     geometry : n1730334637[54.4851364,30.4646562] n1730334655[54.4852782,30.4646085] n1730334656[54.4852936,30.4647449] n1730334638[54.4851518,30.4647926] n1730334637[54.4851364,30.4646562]
 w161027902
   other tags : addr:housenumber=34А | addr:street=Свистёлки | building=yes | building:levels=1
@@ -11597,7 +11597,7 @@ w223328920
   other tags : building=yes | building:levels=1
     geometry : n2322367702[54.3817537,30.4011011] n2322367705[54.3818129,30.4012760] n2322367701[54.3817424,30.4013462] n2322367697[54.3816833,30.4011713] n2322367702[54.3817537,30.4011011]
 w223328921
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=ул 8-е МАРТА | building=yes | building:levels=1
     geometry : n2322367576[54.3568809,30.3937235] n2322367577[54.3569434,30.3938912] n2322367575[54.3568116,30.3940357] n2322367573[54.3567491,30.3938680] n2322367576[54.3568809,30.3937235]
 w223328922
   other tags : addr:housenumber=12 | addr:street=8-Е Марта улица | building=yes | building:levels=1
