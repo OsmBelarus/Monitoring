@@ -4554,7 +4554,7 @@ n1509391745  null / null / Зоотовары
   other tags : shop=convenience
     geometry : [53.9069751,27.4920413]
 n1511640249  null / Parnichok / Парничок №6
-  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | designation=Магазин | shop=supermarket | website=http://www.greenstolitsa.by/
+  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | designation=Магазин | shop=supermarket | website=http://greenstolitsa.by
     geometry : [53.8495560,27.4796651]
 n1511658262  Цырульня «Вікторыя» / null / Парикмахерская «Виктория»
   other tags : addr:housenumber=10 | addr:street=улица Ежи Гедройца | shop=hairdresser | wheelchair=yes
@@ -8897,8 +8897,8 @@ n3188976348  null / null / BIGZ
 n3188983001  null / null / Мачулищи
   other tags : shop=supermarket
     geometry : [53.9237046,27.4408379]
-n3190097697  Панскі  пачастунак / null / «Панскі пачастунак» (кулинария)
-  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-22:00, сб: 10:00-21:00, 10:00-19:00 | shop=yes
+n3190097697  Панскі  пачастунак / null / Кулинария
+  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-22:00, сб: 10:00-21:00, 10:00-19:00 | shop=convenience
     geometry : [53.8502352,27.4731967]
 n3190097698  null / null / Продукты
   other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=10:00-22:00 | shop=convenience
@@ -9449,10 +9449,10 @@ n3233064585  null / null / Парничок №3
 n3233070812  null / null / Мила
   other tags : note=магазин | shop=yes
     geometry : [53.8501782,27.4733576]
-n3233072866  null / null / магазин "Мила" (косметика)
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+n3233072866  null / null / «Мила»
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=cosmetics
     geometry : [53.8505663,27.4763912]
-n3233073552  null / null / Салодкая крама "Плюшка"
+n3233073552  null / null / Салодкая крама «Плюшка»
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=хлебобулочные_изделия,_конфеты
     geometry : [53.8496844,27.4782156]
 n3233073895  null / null / Mark Formelle (магазин одежды и нижнего белья)
@@ -9462,7 +9462,7 @@ n3233074628  null / null / Цветы
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
     geometry : [53.8495190,27.4780424]
 n3233074779  null / null / Мила
-  other tags : shop=косметика_бытовая_химия
+  other tags : shop=косметика,_бытовая_химия
     geometry : [53.8493762,27.4811721]
 n3233078509  null / null / C&D
   other tags : shop=dry_cleaning
@@ -9486,7 +9486,7 @@ n3240836599  null / null / Second Hand
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8498548,27.4765087]
 n3240836600  null / null / Магазин Milavitsa (женское нижнее белье)
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8499907,27.4761609]
 n3240836603  null / null / Кухни и мебель
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
@@ -9504,7 +9504,7 @@ n3240836614  null / null / магазин дверей и обоев
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8518609,27.4769454]
 n3240836616  null / null / магазин мясных изделий
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=butcher
     geometry : [53.8497249,27.4767631]
 n3240836618
   other tags : shop=second_hand
@@ -9522,7 +9522,7 @@ n3240836622  null / null / МТС
   other tags : shop=mobile_phone
     geometry : [53.8487281,27.4788766]
 n3240836633  null / null / Магазин пива
-  other tags : shop=yes
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8513596,27.4744206]
 n3240836635
   other tags : shop=alcohol
@@ -9533,7 +9533,7 @@ n3240836636
 n3240836637  null / null / Белита-Витекс
   other tags : shop=cosmetics
     geometry : [53.8521349,27.4747586]
-n3240836647  null / null / Магазин велосипедов ВелоГрад
+n3240836647  null / null / Магазин велосипедов «ВелоГрад»
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=yes
     geometry : [53.8495942,27.4781324]
 n3240836648

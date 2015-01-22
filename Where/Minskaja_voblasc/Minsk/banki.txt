@@ -1008,7 +1008,7 @@ n3098540644  null / null / БелСвиссБанк
   other tags : amenity=bank
     geometry : [53.8495092,27.4570189]
 n3098540687  null / null / Белинвестбанк
-  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=bank
+  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=bank | atm=no
     geometry : [53.8494529,27.4806192]
 n3098540688  null / null / Белагропромбанк
   other tags : amenity=bank
@@ -1154,6 +1154,9 @@ n3283855499  null / null / БПС-банк
 n3284358889  null / null / Беларусбанк
   other tags : amenity=bank
     geometry : [53.8588261,27.4633896]
+n3302676381  null / null / ВТБ
+  other tags : amenity=bank | atm=yes
+    geometry : [53.8498192,27.4761940]
 w25319049  null / null / Национальный
   other tags : addr:housenumber=72А | addr:postcode=220114 | addr:street=улица Калиновского | amenity=bank | building=yes
     geometry : n275837443[53.9387421,27.6527470] n275837447[53.9387628,27.6529193] n3236937113[53.9388290,27.6528963] n275837451[53.9388713,27.6532480] n275837452[53.9386393,27.6533286] n275837454[53.9385945,27.6529573] n275837456[53.9386350,27.6529432] n275837458[53.9386166,27.6527907] n275837443[53.9387421,27.6527470]
