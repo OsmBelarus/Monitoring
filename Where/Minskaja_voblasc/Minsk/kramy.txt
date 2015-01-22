@@ -7386,7 +7386,7 @@ n2622414094
 n2622414097
   other tags : shop=yes
     geometry : [53.9214038,27.6243895]
-n2622415901  null / null / продукты
+n2622415901  null / null / Продукты
   other tags : shop=yes
     geometry : [53.9322013,27.6343903]
 n2622418001
@@ -7489,7 +7489,7 @@ n2626373406  null / null / Мила
   other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | shop=hardware
     geometry : [53.9447216,27.6906323]
 n2626784721  null / null / Компьютеры и комплектующие Iven
-  other tags : addr:housenumber=109 | addr:postcode=220114 | addr:street=проспект Независимости | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00 | phone=+375 17 267 22 25 | shop=electronics | website=http://www.iven.by/
+  other tags : addr:housenumber=109 | addr:postcode=220114 | addr:street=проспект Независимости | opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-16:00 | phone=+375 17 267 22 25 | shop=electronics | website=http://www.iven.by
     geometry : [53.9291655,27.6289640]
 n2626784723  null / null / Белкельме
   other tags : addr:housenumber=111 | addr:postcode=220114 | addr:street=проспект Независимости | shop=shoes
@@ -8885,6 +8885,9 @@ n3185020519  null / null / Велопланета
 n3187187730
   other tags : shop=kiosk
     geometry : [53.9036512,27.4967289]
+n3188666668  null / null / Продуктовый
+  other tags : shop=convenience
+    geometry : [53.9386155,27.6408905]
 n3188975685  null / null / минимаркет "На денек"
   other tags : addr:city=Минск | addr:housenumber=90 | addr:street=улица Матусевича | shop=supermarket
     geometry : [53.9164482,27.4380092]
