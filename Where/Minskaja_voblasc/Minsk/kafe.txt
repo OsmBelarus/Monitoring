@@ -1561,7 +1561,7 @@ n1870460887  null / null / Столовая МАЗ
   other tags : amenity=cafe | operator=КОМБИНАТ ОБЩЕСТВЕННОГО ПИТАНИЯ ОАО МАЗ | phone=+375172950063
     geometry : [53.8712645,27.6440470]
 n1870460893  null / null / Столовая в комн. 101
-  other tags : amenity=cafe | operator=РЭЙ-СЕРВИС ЧТПУП | phone=+375172801951
+  other tags : amenity=cafe | contact:phone=+375172801951 | operator=РЭЙ-СЕРВИС ЧТПУП
     geometry : [53.9269566,27.6138877]
 n1870460894  null / null / Столовая
   other tags : amenity=cafe | operator=ОАО БЕЛБАКАЛЕЯ | phone=+375173441572
@@ -2262,7 +2262,7 @@ n2831904633  null / null / Столовая ЧУП Канаш / Столовая
     geometry : [53.9228994,27.6715123]
 n2831922008  null / null / Столовая ОАО Минский Приборостроительный завод / Столовая ОАО Минский Приборостроительный завод
   other tags : amenity=fast_food | fast_food=cafeteria
-    geometry : [53.9183489,27.5884813]
+    geometry : [53.9183487,27.5884815]
 n2833115669  null / null / Гараж
   other tags : amenity=cafe | cuisine=international | opening_hours=8-23 | smoking=no
     geometry : [53.8597495,27.4820921]
