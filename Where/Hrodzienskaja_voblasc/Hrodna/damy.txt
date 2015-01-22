@@ -23308,8 +23308,8 @@ w29150496
 w29150498
   other tags : addr:housenumber=27 | addr:street=улица Менделеева | building=residential | building:levels=1
     geometry : n320646224[53.6845806,23.8528983] n320646225[53.6845824,23.8526968] n320646227[53.6844374,23.8526932] n320646226[53.6844356,23.8528947] n320646224[53.6845806,23.8528983]
-w29150516
-  other tags : addr:housenumber=17 | addr:street=улица Маяковского | building=residential | building:levels=1
+w29150516  null / null / 25
+  other tags : addr:housenumber=25 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320646228[53.6870040,23.8602001] n320646229[53.6870030,23.8600357] n320646231[53.6869035,23.8600374] n320646230[53.6869045,23.8602019] n320646228[53.6870040,23.8602001]
 w29150520
   other tags : addr:housenumber=11 | addr:street=улица Артёма | building=residential | building:levels=1
@@ -23347,11 +23347,11 @@ w29150551
 w29150553
   other tags : addr:housenumber=12 | addr:street=улица Менделеева | building=residential | building:levels=1
     geometry : n320646574[53.6830953,23.8529767] n320646576[53.6830255,23.8528071] n320646581[53.6829277,23.8529218] n320646578[53.6829975,23.8530914] n320646574[53.6830953,23.8529767]
-w29150555
-  other tags : building=residential | building:levels=1
+w29150555  null / null / 19
+  other tags : addr:housenumber=19 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320646583[53.6876796,23.8600962] n320646584[53.6876787,23.8599549] n320646586[53.6875658,23.8599569] n320646585[53.6875667,23.8600982] n320646583[53.6876796,23.8600962]
-w29150557
-  other tags : building=residential | building:levels=1
+w29150557  null / null / 23
+  other tags : addr:housenumber=23 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320646587[53.6872252,23.8601569] n320646589[53.6872240,23.8599879] n320646591[53.6870790,23.8599909] n320646590[53.6870802,23.8601599] n320646587[53.6872252,23.8601569]
 w29150558
   other tags : addr:housenumber=10 | addr:street=улица Менделеева | building=residential | building:levels=1
@@ -23377,8 +23377,8 @@ w29150594
 w29150595
   other tags : addr:housenumber=38 | addr:street=Пролетарская улица | building=residential | building:levels=1
     geometry : n320646693[53.6842399,23.8542727] n320646700[53.6842182,23.8541001] n320646702[53.6840351,23.8541656] n320646704[53.6840568,23.8543382] n320646693[53.6842399,23.8542727]
-w29150597
-  other tags : building=residential | building:levels=1
+w29150597  null / null / 17
+  other tags : addr:housenumber=17 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320646708[53.6879301,23.8601291] n320646712[53.6879282,23.8599651] n320646719[53.6877831,23.8599699] n320646716[53.6877850,23.8601339] n320646708[53.6879301,23.8601291]
 w29150598
   other tags : addr:housenumber=40 | addr:street=Пролетарская улица | building=residential | building:levels=1
@@ -23395,8 +23395,8 @@ w29150601
 w29150602
   other tags : addr:housenumber=44 | addr:street=Пролетарская улица | building=residential | building:levels=1
     geometry : n320646773[53.6846062,23.8541417] n320646774[53.6845846,23.8539691] n320646775[53.6844090,23.8540319] n320646776[53.6844306,23.8542045] n320646773[53.6846062,23.8541417]
-w29150604
-  other tags : building=residential | building:levels=1
+w29150604  null / null / 21
+  other tags : addr:housenumber=21 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320646777[53.6874604,23.8601879] n320646778[53.6874589,23.8600199] n320646780[53.6873248,23.8600233] n320646779[53.6873263,23.8601913] n320646777[53.6874604,23.8601879]
 w29150608
   other tags : building=residential | building:levels=1
@@ -23446,10 +23446,10 @@ w29150629
 w29150630
   other tags : building=residential | building:levels=1
     geometry : n320647015[53.6899026,23.8603780] n320647017[53.6899044,23.8602137] n320647020[53.6898100,23.8602109] n320647019[53.6898083,23.8603752] n320647015[53.6899026,23.8603780]
-w29150632
-  other tags : building=residential | building:levels=1
+w29150632  null / null / 11
+  other tags : addr:housenumber=11 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320647027[53.6887891,23.8599885] n320647029[53.6887880,23.8598491] n320647035[53.6886302,23.8598527] n320647031[53.6886314,23.8599921] n320647027[53.6887891,23.8599885]
-w29150633
+w29150633  null / null / 7
   other tags : addr:housenumber=7 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320647037[53.6894041,23.8599125] n320647040[53.6894028,23.8597465] n320647044[53.6892318,23.8597503] n320647042[53.6892331,23.8599163] n320647037[53.6894041,23.8599125]
 w29150634
@@ -23458,14 +23458,14 @@ w29150634
 w29150635
   other tags : building=residential | building:levels=1
     geometry : n320647095[53.6891290,23.8519626] n320647058[53.6892000,23.8518378] n320647102[53.6890688,23.8516249] n320647106[53.6889977,23.8517497] n320647095[53.6891290,23.8519626]
-w29150636
-  other tags : building=residential | building:levels=1
+w29150636  null / null / 9
+  other tags : addr:housenumber=9 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320647111[53.6891059,23.8599415] n320647114[53.6891047,23.8597760] n320647118[53.6889217,23.8597796] n320647116[53.6889228,23.8599451] n320647111[53.6891059,23.8599415]
-w29150639
-  other tags : building=residential | building:levels=1
+w29150639  null / null / 15
+  other tags : addr:housenumber=15 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320647134[53.6881910,23.8600515] n320647136[53.6881889,23.8598810] n320647141[53.6880790,23.8598850] n320647139[53.6880811,23.8600555] n320647134[53.6881910,23.8600515]
-w29150643
-  other tags : building=residential | building:levels=1
+w29150643  null / null / 13
+  other tags : addr:housenumber=13 | addr:street=улица Маяковского | building=residential | building:levels=1
     geometry : n320647148[53.6884764,23.8600308] n320647150[53.6884767,23.8598598] n320647154[53.6883117,23.8598591] n320647152[53.6883115,23.8600301] n320647148[53.6884764,23.8600308]
 w29150647
   other tags : building=residential | building:levels=1
