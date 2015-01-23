@@ -571,9 +571,10 @@ n1547482814  null / null / Банк Москва-Минск
 n1550866782  null / null / Франсабанк
   other tags : amenity=bank | website=http://fransabank.by/
     geometry : [53.9261369,27.6188838]
-n1550943088  null / null / IdeaBank
-  other tags : amenity=bank | atm=no
-    geometry : [53.8625785,27.6038800]
+n1550943088  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=no | description=ЦБУ №36 | opening_hours=Mo-Fr 09:00-20:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
+    geometry : [53.8625497,27.6038678]
 n1559379337  null / null / Альфа-Банк
   other tags : amenity=bank
     geometry : [53.9416685,27.6087332]
@@ -832,8 +833,9 @@ n2601829798  null / null / Беларусбанк
 n2607642030  null / null / ОАО «АСБ Беларусбанк» Отделение №511
   other tags : amenity=bank
     geometry : [53.9033852,27.6006103]
-n2608446841  null / null / IdeaBank
-  other tags : addr:housename=IdeaBank | amenity=bank
+n2608446841  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=no | description=ЦБУ №42 | opening_hours=Mo-Fr 09:00-19:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.9447625,27.6889728]
 n2613387258  null / null / Беларусбанк
   other tags : addr:housenumber=89 | addr:street=улица Кропоткина | amenity=bank
@@ -895,8 +897,9 @@ n2620202417  null / null / Белагропромбанк
 n2621041185  null / null / Беларусбанк
   other tags : amenity=bank
     geometry : [53.9384147,27.6096955]
-n2621314302  null / Idea Bank / Идея Банк
-  other tags : amenity=bank | atm=yes
+n2621314302  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=yes | description=ЦБУ №56 | opening_hours=Mo-Fr 09:00-20:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.9059005,27.4364167]
 n2621321497  null / null / Белвнешэкономбанк
   other tags : amenity=bank | atm=yes
@@ -1004,6 +1007,10 @@ n3059376979  null / null / МТБанк
 n3062955633  null / null / Белсвиссбанк
   other tags : amenity=bank
     geometry : [53.9042430,27.5570310]
+n3063644433  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=no | description=ЦБУ №6 | opening_hours=Mo-Fr 10:00-22:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
+    geometry : [53.9083160,27.5275910]
 n3098540644  null / null / БелСвиссБанк
   other tags : amenity=bank
     geometry : [53.8495092,27.4570189]
@@ -1016,8 +1023,9 @@ n3098540688  null / null / Белагропромбанк
 n3100339042  null / null / Банк ВТБ
   other tags : addr:city=Минск | addr:housenumber=70 | addr:postcode=220123 | addr:street=улица Максима Богдановича | amenity=bank | atm=no
     geometry : [53.9239931,27.5705053]
-n3100354520  null / null / ИдеяБанк
-  other tags : addr:city=Минск | addr:housenumber=18/1 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=bank | atm=yes | opening_hours=9 - 18 | phone=+375 29 699 47 11 | website=http://ideabank.by/contakt-maps-minsk
+n3100354520  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=yes | description=ЦБУ №37 | opening_hours=Mo-Fr 09:00-19:00 | operator=ЗАО "Идея Банк" | phone=+375 29 699 47 11 | website=https://ideabank.by
     geometry : [53.9213023,27.5696123]
 n3142270801  null / null / Отделение "БеларусБанк"
   other tags : amenity=bank
@@ -1046,8 +1054,9 @@ n3148007281  null / null / беларусбанк
 n3153219925  null / null / Приоранк
   other tags : amenity=bank | atm=yes
     geometry : [53.9060976,27.4309369]
-n3153233712  null / null / IdeaBank
-  other tags : amenity=bank | atm=yes
+n3153233712  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=no | description=ЦБУ №40 | opening_hours=Mo-Fr 09:00-20:00; Sa 10:0-15:00; Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.8919714,27.5511416]
 n3153234354  null / null / Беларусанк
   other tags : amenity=bank
@@ -1082,11 +1091,13 @@ n3221656947  null / null / Белагропромбанк
 n3225624845  null / null / Франсабанк
   other tags : amenity=bank
     geometry : [53.9062105,27.5392417]
-n3226728940  null / null / Идея Банк
-  other tags : addr:city=Минск | addr:housenumber=84 | addr:street=улица Кропоткина | amenity=bank | atm=yes | opening_hours=9 - 17 | website=https://ideabank.by/news/news/id/481
+n3226728940  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | atm=yes | description=РКЦ №1 ЦБУ №37 | opening_hours=Mo-Fr 09:00-17:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.9236542,27.5607737]
-n3234087422  null / null / Идея-Банк
-  other tags : addr:housenumber=9 | addr:street=улица Ленина | amenity=bank
+n3234087422  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | description=ЦБУ №11 | opening_hours=Mo-Fr 09:00-19:00 | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.9002537,27.5601165]
 n3234087423  null / null / Белаврусбанк
   other tags : addr:street=улица Карла Маркса | amenity=bank
@@ -1157,8 +1168,9 @@ n3284358889  null / null / Беларусбанк
 n3302676381  null / null / ВТБ
   other tags : amenity=bank | atm=yes
     geometry : [53.8498192,27.4761940]
-n3303585680  null / null / Идея Банк
-  other tags : amenity=bank | description=ЦОБ №1 | operator=ЗАО "Идея Банк" | website=https://ideabank.by
+n3303585680  null / IdeaBank / Идея Банк
+  other names: name:en=IdeaBank
+  other tags : amenity=bank | description=ЦОБ №1 | opening_hours=Mo-Fr 09:00-17:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
     geometry : [53.9037239,27.5856315]
 w25319049  null / null / Национальный
   other tags : addr:housenumber=72А | addr:postcode=220114 | addr:street=улица Калиновского | amenity=bank | building=yes
