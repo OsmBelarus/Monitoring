@@ -19,8 +19,8 @@ n452529879  Бальніца / null / больница / Больница
 n452540895  null / null / Зип
   other tags : highway=bus_stop
     geometry : [52.4176812,31.0013380]
-n452540899  null / null / Барыкина
-  other tags : highway=bus_stop
+n452540899  null / null / Улица Барыкина
+  other tags : highway=bus_stop | shelter=yes
     geometry : [52.4167035,30.9973561]
 n452540902  null / null / 3-я школа
   other tags : highway=bus_stop
@@ -627,7 +627,7 @@ n1334775309  null / null / Торговый дом "Речицкий"
 n1334775313  null / null / Торговый дом "Речицкий"
   other tags : highway=bus_stop
     geometry : [52.4085255,30.9336348]
-n1334775333  null / null / Инженерный институт МЧС
+n1334775333  null / null / Технический Университет им. Сухого
   other tags : highway=bus_stop
     geometry : [52.4087318,30.9361569]
 n1360131325  Рынак "Сельмашаўскі" / null / Рынок "Сельмашевский" / Рынок "Сельмашевский"
@@ -699,9 +699,6 @@ n1818034180  вул. Чачэрская / null / ул. Чечерская
 n1818034183  вул. Чачэрская / null / ул. Чечерская
   other tags : highway=bus_stop
     geometry : [52.4636424,31.0347186]
-n1818034187  вул. Чачэрская / null / ул. Чечерская
-  other tags : highway=bus_stop
-    geometry : [52.4680424,31.0410032]
 n1818034190  20а мікрараён / null / 20а микрорайон
   other tags : highway=bus_stop
     geometry : [52.4704247,31.0353135]
@@ -885,9 +882,9 @@ n2878891196  null / null / Улица Быховская
 n2878891210  null / null / улица 60 лет СССР
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.4058847,30.9813547]
-n2878891229
+n2878891229  null / null / Инженерный институт МЧС
   other tags : highway=bus_stop | trolleybus=no
-    geometry : [52.4097870,30.9404019]
+    geometry : [52.4097439,30.9404391]
 n2878891270  null / null / улица Жукова
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.4062256,30.9759416]
@@ -933,3 +930,27 @@ n3300178163  фабрыка 8 Сакавіка / null / фабрика 8 Мар�
 n3300178165  Цырк / null / Цирк / Цирк
   other tags : highway=bus_stop
     geometry : [52.4328531,31.0097807]
+n3304590075  null / null / Улица Чечерская
+  other tags : highway=bus_stop
+    geometry : [52.4682211,31.0398985]
+n3304590076  null / null / Улица Чечерская
+  other tags : highway=bus_stop
+    geometry : [52.4685704,31.0414204]
+n3304615500  null / null / Улица Макаёнка
+  other tags : highway=bus_stop
+    geometry : [52.4746950,31.0352910]
+n3304615501  null / null / Школа (Волотова)
+  other tags : highway=bus_stop
+    geometry : [52.4706985,31.0286741]
+n3304641443  null / null / Улица Барыкина
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.4164098,30.9972697]
+n3304644129  null / null / Институт Гомельпроект
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.4183244,31.0023616]
+n3304664076
+  other tags : highway=bus_stop
+    geometry : [52.4034919,30.9068445]
+n3304664897
+  other tags : highway=bus_stop
+    geometry : [52.4036648,30.9064008]

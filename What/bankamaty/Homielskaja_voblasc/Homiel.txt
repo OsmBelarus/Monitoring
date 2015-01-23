@@ -189,7 +189,7 @@ n2354862951  null / null / Москва-Минск
     geometry : [52.4392288,31.0050701]
 n2354864109  null / null / Технобанк
   other tags : amenity=atm
-    geometry : [52.4394086,31.0037397]
+    geometry : [52.4394708,31.0037000]
 n2589429425
   other tags : amenity=atm
     geometry : [52.4520705,31.0227843]
@@ -235,6 +235,9 @@ n3245783161
 n3245787165
   other tags : amenity=atm
     geometry : [52.4683267,31.0393762]
-n3284491389
-  other tags : amenity=atm
-    geometry : [52.4678525,31.0404288]
+n3284491389  null / null / Технобанк
+  other tags : amenity=atm | operator=Технобанк
+    geometry : [52.4678072,31.0404011]
+n3304590074  null / null / Банк ВТБ
+  other tags : amenity=atm | operator=Банк ВТБ
+    geometry : [52.4677339,31.0403374]

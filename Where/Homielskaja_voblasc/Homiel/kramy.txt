@@ -43,7 +43,7 @@ n306068290  СТА / null / СТО / СТО
     geometry : [52.4401635,30.9909846]
 n306068318
   other tags : shop=car_repair
-    geometry : [52.4240410,30.9423887]
+    geometry : [52.4240372,30.9424919]
 n419328532  null / null / Подорожник
   other tags : opening_hours=24/7 | shop=convenience
     geometry : [52.4670106,30.9736326]
@@ -937,7 +937,7 @@ n1362733634  null / null / Космозоо
     geometry : [52.4222562,31.0057126]
 n1362733635  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
-    geometry : [52.4208641,31.0046316]
+    geometry : [52.4208832,31.0046374]
 n1362733639  null / null / Швейное ателье
   other tags : shop=clothes
     geometry : [52.4224394,31.0058950]
@@ -1374,3 +1374,6 @@ n3267791971
 n3284531823
   other tags : shop=hairdresser
     geometry : [52.4695389,31.0362847]
+n3304645547  null / null / MART INN
+  other tags : operator=MART INN | shop=mall
+    geometry : [52.4212170,31.0033812]
