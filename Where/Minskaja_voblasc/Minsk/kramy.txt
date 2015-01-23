@@ -6403,7 +6403,7 @@ n2542023195  null / null / Студия маникюра "Мерилин Мон�
   other tags : addr:housenumber=30 | addr:postcode=220112 | addr:street=Игуменский тракт | opening_hours=10:00-22:00 | phone=+375-17-2640490 | shop=beauty
     geometry : [53.8400939,27.5731119]
 n2542034751  null / null / Ziko
-  other tags : addr:housenumber=9 | addr:postcode=220030 | addr:street=улица Карла Маркса | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375-17-327-43-56 | shop=jewelry | website=http://www.ziko.by/
+  other tags : opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375-17-327-43-56 | shop=jewelry | website=http://www.ziko.by/
     geometry : [53.8962279,27.5535848]
 n2542043137  null / null / Ziko
   other tags : addr:housenumber=1 | addr:street=улица Кирова | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375-17-225-59-20 | shop=jewelry | website=http://www.ziko.by/
@@ -6478,7 +6478,7 @@ n2554548215  null / null / Чистка подушек
   other tags : shop=dry_cleaning
     geometry : [53.9113181,27.4527617]
 n2555703340  null / null / Китайские продукты
-  other tags : addr:housenumber=2 | addr:street=Октябрьская улица | shop=yes
+  other tags : shop=yes
     geometry : [53.8930485,27.5649689]
 n2556422351
   other tags : shop=florist
@@ -9167,12 +9167,9 @@ n3207033562
 n3207764616  null / null / Nike
   other tags : shop=clothes
     geometry : [53.9004583,27.5516409]
-n3207769273  null / null / Nail-bar Nogotki
+n3207793703  null / null / Ноготки
   other tags : shop=beauty
-    geometry : [53.8995340,27.5555901]
-n3207793703  null / null / Nogotki
-  other tags : shop=beauty
-    geometry : [53.8995340,27.5555901]
+    geometry : [53.8995412,27.5556075]
 n3207793704  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [53.9229625,27.5561926]
@@ -9404,6 +9401,9 @@ n3213415134  null / null / Axis
 n3213421964
   other tags : shop=yes
     geometry : [53.8953285,27.5482881]
+n3218550861  null / null / Capolavori
+  other tags : phone=8 017 327-59-50 | shop=furniture | website=http://capolavori.by | wheelchair=no
+    geometry : [53.8950499,27.5543269]
 n3220261793  null / null / Живое пиво
   other tags : addr:city=Минск | addr:housenumber=65 | addr:street=улица Селицкого | opening_hours=9-23 | shop=alcohol
     geometry : [53.8368931,27.7014186]
@@ -10139,8 +10139,8 @@ n3270485961  null / null / САУНА НА РЕВОЛЮЦИОННОЙ
 n3270486661  null / null / МОНАСТЫРСКИЙ
   other tags : addr:housenumber=6 | addr:street=улица Кирилла и Мефодия | opening_hours=08 00 - 23 00 | operator=САУНА ОТЕЛЯ | shop=beauty
     geometry : [53.9049393,27.5574822]
-n3270488965  null / null / МАСТЕР-СТИЛЬ
-  other tags : addr:housenumber=21 | addr:street=улица Ленина | opening_hours=09 00 - 21 00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270488965  null / null / Мастер-стиль
+  other tags : opening_hours=Mo-Su 09:00-21:00 | shop=beauty
     geometry : [53.8963328,27.5647492]
 n3270491113  null / null / КУМИР
   other tags : addr:housenumber=2 | addr:street=Первомайская улица | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
@@ -10160,11 +10160,12 @@ n3270506504  null / null / УЛЫБКА
 n3270508877  null / null / БОН ШАНС
   other tags : addr:housenumber=1a | addr:street=Ленинградская улица | opening_hours=пн. — сб.: 09:00 — 21:00 вс.: 10:00 — 20:00 | operator=САЛОН КРАСОТЫ | shop=beauty
     geometry : [53.8933436,27.5508429]
-n3270508878  null / null / PRINCESS SPA (ПРИНЦЕСС СПА)
-  other tags : addr:housenumber=13 | addr:street=улица Кирова | opening_hours=пн. — вс.: 06:30 — 23:00 пн. — вс.: 08:00 — 21:00 | operator=САЛОН КРАСОТЫ, АКВА-ФИТНЕС ЦЕНТР | shop=beauty
-    geometry : [53.8951834,27.5549842]
+n3270508878  null / null / Принцесс СПА / Принцесс СПА
+  other names: name:en=Princess SPA
+  other tags : opening_hours=Mo-Su 08:00-21:00 | shop=beauty
+    geometry : [53.8951526,27.5549755]
 n3270512375  null / null / МОДА
-  other tags : addr:housenumber=15 | addr:street=улица Кирова | opening_hours=пн. — пт.: 09:00 — 18:00 сб. — вс.: выходной | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+  other tags : opening_hours=Mo-Fr 09:00-18:00; Sa-Su off | shop=hairdresser
     geometry : [53.8960600,27.5562364]
 n3270516871  null / null / EVEREST (ЭВЕРЕСТ)
   other tags : addr:housenumber=11/1 | addr:street=проспект Независимости | opening_hours=пн. — сб.: 08:00 — 21:00 вс.: 09:00 — 18:00 | operator=САЛОН КРАСОТЫ | shop=beauty

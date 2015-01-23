@@ -2491,9 +2491,6 @@ n3203110516  null / null / Forest Hall
 n3203301919  null / null / Блинная
   other tags : amenity=fast_food
     geometry : [53.9236303,27.5957670]
-n3203320309  null / null / Milano
-  other tags : amenity=restaurant
-    geometry : [53.8962741,27.5532305]
 n3203320766  null / null / Tapas Bar
   other tags : amenity=cafe
     geometry : [53.9015927,27.5535976]
@@ -2647,15 +2644,15 @@ n3270432662  null / null / SOBRANIE (СОБРАНИЕ)
 n3270433157  null / null / ЛОББИ-БАР
   other tags : addr:street=г. Минск, пр-т Независимости, 11 | amenity=restaurant | cuisine=regional
     geometry : [53.8969522,27.5511058]
-n3270461479  null / null / МАНУФАКТУРА
-  other tags : addr:housenumber=17 | addr:street=улица Карла Маркса | amenity=restaurant | cuisine=regional | opening_hours=09 00 - 23 00
+n3270461479  null / null / Мануфактура
+  other tags : amenity=restaurant | cuisine=regional | opening_hours=Mo-Su 09:00-23:00
     geometry : [53.8964337,27.5540427]
 n3270473261  null / null / SHEFF (ШЕФ)
   other tags : addr:housenumber=9 | addr:street=Московская улица | amenity=restaurant | opening_hours=11 00 - 23 00
     geometry : [53.8883810,27.5392551]
-n3270484293  null / null / MILANO (МИЛАНО)
-  other tags : addr:housenumber=19 | addr:street=улица Володарского | amenity=restaurant | cuisine=regional | opening_hours=08 00 - 12 00
-    geometry : [53.8962741,27.5532305]
+n3270484293  null / null / Milano
+  other tags : amenity=restaurant | cuisine=regional | opening_hours=Mo-Su 08:00-12:00
+    geometry : [53.8962689,27.5532228]
 n3272654852  null / null / Персия
   other tags : addr:housenumber=4 | addr:street=Аэродромная улица | amenity=cafe
     geometry : [53.8724695,27.5423694]
