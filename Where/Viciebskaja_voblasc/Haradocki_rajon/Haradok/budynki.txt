@@ -410,7 +410,7 @@ w152180275
   other tags : building=yes | building:levels=1
     geometry : n1650154876[55.4506982,30.0098544] n1650154849[55.4505979,30.0098887] n1650154851[55.4506147,30.0100404] n1650154886[55.4507149,30.0100061] n1650154876[55.4506982,30.0098544]
 w152180277
-  other tags : addr:street=Школьная улица | building=yes | building:levels=20
+  other tags : addr:housenumber=20 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n1650154260[55.4447561,29.9865943] n1650154245[55.4446437,29.9865788] n1650154243[55.4446362,29.9867475] n1650154257[55.4447487,29.9867630] n1650154260[55.4447561,29.9865943]
 w152180279
   other tags : addr:housenumber=41 | addr:street=улица Валиева | building=yes | building:levels=1
@@ -671,7 +671,7 @@ w152181394
   other tags : addr:housenumber=13 | addr:street=Озёрная улица | building=yes | building:levels=1
     geometry : n1650173575[55.4465912,29.9807224] n1650173562[55.4464869,29.9807107] n1650173560[55.4464801,29.9809002] n1682878179[55.4465016,29.9809026] n1682878180[55.4465707,29.9809104] n1682878181[55.4465715,29.9808910] n1650173574[55.4465851,29.9808925] n1650173575[55.4465912,29.9807224]
 w152181395
-  other tags : addr:street=Школьная улица | building=yes | building:levels=16
+  other tags : addr:housenumber=16 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n1650173515[55.4447892,29.9857545] n1650173513[55.4446889,29.9857417] n1650173511[55.4446752,29.9859377] n1650173514[55.4447800,29.9859524] n1650173515[55.4447892,29.9857545]
 w152181396
   other tags : addr:housenumber=24 | addr:street=Студенческая улица | building=yes | building:levels=1
@@ -10835,7 +10835,7 @@ w200248642
   other tags : addr:housenumber=12 | addr:street=Озёрная улица | building=yes | building:levels=1
     geometry : n2102449684[55.4468587,29.9812029] n2102449682[55.4467842,29.9811930] n2102449681[55.4467766,29.9813720] n2102449683[55.4468511,29.9813819] n2102449684[55.4468587,29.9812029]
 w200248643
-  other tags : addr:street=Школьная улица | building=yes | building:levels=22
+  other tags : addr:housenumber=22 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n2102449661[55.4448102,29.9871719] n2102449657[55.4447035,29.9871644] n2102449656[55.4447009,29.9872795] n2102449660[55.4448076,29.9872870] n2102449661[55.4448102,29.9871719]
 w200248644
   other tags : building=yes | building:levels=1
@@ -10847,7 +10847,7 @@ w200248646
   other tags : building=yes | building:levels=1
     geometry : n2102449702[55.4472175,29.9813070] n2102449693[55.4471315,29.9812980] n2102449691[55.4471256,29.9814721] n2102449701[55.4472116,29.9814812] n2102449702[55.4472175,29.9813070]
 w200248647
-  other tags : addr:street=Школьная улица | building=yes | building:levels=18
+  other tags : addr:housenumber=18 | addr:street=Школьная улица | building=yes | building:levels=1
     geometry : n2102449659[55.4447587,29.9862423] n2102449653[55.4446463,29.9862268] n2102449652[55.4446388,29.9863955] n2102449658[55.4447513,29.9864110] n2102449659[55.4447587,29.9862423]
 w200248648
   other tags : building=yes | building:levels=1
