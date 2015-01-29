@@ -5,7 +5,7 @@ n3279125380  null / null / парафія Звеставання Найсвяц�
   other tags : addr:housenumber=35а | addr:street=улица Карла Маркса | amenity=place_of_worship | denomination=roman_catholic | religion=christian
     geometry : [52.1290819,28.4873208]
 w297492213  null / null / Храм Вознесения Господня 1890г
-  other tags : addr:street=Коммунальная улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+  other tags : addr:housenumber=3 | addr:street=Коммунальная улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3013829215[52.1237216,28.4931715] n3013829218[52.1238612,28.4930653] n3013829217[52.1237581,28.4927055] n3013829213[52.1236799,28.4927650] n3013829216[52.1237493,28.4930071] n3013829214[52.1236878,28.4930538] n3013829215[52.1237216,28.4931715]
 w321089563  null / null / Храм Успения Пресвятой Богородицы 1642г
   other tags : addr:housenumber=1 | addr:street=улица Церковная | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
@@ -16,3 +16,6 @@ w321090642  null / null / Храм иконы Божией Матери «Неч
 w321104255  null / null / Храм святителя Николая Чудотворца
   other tags : addr:housenumber=2 | addr:street=улица Липунова | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3278222983[52.1245191,28.4992476] n3278222984[52.1245569,28.4997724] n3278222985[52.1244016,28.4998021] n3278222986[52.1243638,28.4992772] n3278222983[52.1245191,28.4992476]
+w324946358  null / null / Храм
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3316172618[52.1293091,28.5116055] n3316172619[52.1293618,28.5118094] n3316172620[52.1294210,28.5117664] n3316172621[52.1293815,28.5115626] n3316172618[52.1293091,28.5116055]
