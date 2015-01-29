@@ -5196,7 +5196,7 @@ n1723297120
   other tags : shop=hairdresser
     geometry : [53.9154182,27.5325499]
 n1723308211  Кветы / null / Цветы / Цветы
-  other tags : opening_hours=Mo-Sa 08:00-22:00; Su 09:00-21:00 | owner=ЧТУП "Городские цветы" УНП 190533660 | shop=florist
+  other tags : opening_hours=Mo-Sa 08:00-22:00; Su 09:00-21:00 | operator=ЧТУП "Городские цветы" УНП 190533660 | shop=florist
     geometry : [53.9267104,27.5930219]
 n1723311142  null / null / Лянок
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su off | shop=gift
@@ -7577,7 +7577,7 @@ n2627185250  null / null / НаталиМоторс
     geometry : [53.8962954,27.4990065]
 n2627189166  null / null / Автомагазин «Натали моторс»
   other names: name:en=Natali Motors
-  other tags : addr:city=Минск | addr:housenumber=86А | addr:postcode=220074 | addr:street=Харьковская улица | opening_hours=Mo-Fr 08:00-19:00 Sa 10:00-15:00 | owner=ИП Шипилов Павел Васильевич УНП: 200703294 | phone=+375 29 640 49 74 | phone_1=+375 17 207 67 97 | shop=car_parts
+  other tags : addr:city=Минск | addr:housenumber=86А | addr:postcode=220074 | addr:street=Харьковская улица | contact:phone=+375 29 640 49 74;+375 17 207 67 97 | opening_hours=Mo-Fr 08:00-19:00; Sa 10:00-15:00 | operator=ИП Шипилов Павел Васильевич УНП: 200703294 | shop=car_parts
     geometry : [53.8968740,27.5002030]
 n2627191322  null / null / СТО
   other tags : opening_hours=9:00-22:00 | shop=car_repair
@@ -9054,7 +9054,7 @@ n3205844663
   other tags : shop=copyshop
     geometry : [53.9521476,27.6067497]
 n3206002984  null / null / Салон-парикмахерская «Севилья»
-  other tags : addr:city=Минск | addr:housenumber=86А | addr:postcode=220074 | addr:street=Харьковская улица | opening_hours=09:00-21:00 | owner=ОДО "Сабиналь" УНП: 190854917 | phone=+375 17 221 20 15 | phone_1=+375 29 630 60 92 | phone_2=+375 33 630 60 90 | shop=hairdresser | website=http://sevilia.by
+  other tags : addr:city=Минск | addr:housenumber=86А | addr:postcode=220074 | addr:street=Харьковская улица | contact:phone=+375 17 221 20 15;+375 29 630 60 92;+375 33 630 60 90 | contact:website=http://sevilia.by | opening_hours=09:00-21:00 | operator=ОДО "Сабиналь" УНП: 190854917 | shop=hairdresser
     geometry : [53.8968186,27.5002553]
 n3206002989  null / null / Замена масла "Текс"
   other tags : shop=car_repair
@@ -10801,10 +10801,10 @@ n3295054034  null / null / Хозяюшка
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=chemist
     geometry : [53.8599442,27.5716570]
 n3298319830  Тэрміновае фота / null / Срочное фото / Срочное фото
-  other tags : addr:city=Минск | addr:housenumber=4 | addr:postcode=220012 | addr:street=улица Толбухина | contact:phone=+375 29 680-36-80 | contact:website=http://www.detect.by/plehanov | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00 | owner=ИП Плехов НН УНП 191678953 | shop=photo_studio | source=Владелец
+  other tags : addr:city=Минск | addr:housenumber=4 | addr:postcode=220012 | addr:street=улица Толбухина | contact:phone=+375 29 680-36-80 | contact:website=http://www.detect.by/plehanov | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00 | operator=ИП Плехов НН УНП 191678953 | shop=photo_studio | source=Владелец
     geometry : [53.9268142,27.6140331]
 n3298407900  Ключы дамафоны / null / Ключи домофоны / Ключи домофоны
-  other tags : addr:city=Минск | addr:housenumber=4 | addr:postcode=220012 | addr:street=улица Толбухина | contact:phone=+375 29 648-82-16 | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | owner=ИП Синкевич ВИ УНП 190856340 | shop=locksmith
+  other tags : addr:city=Минск | addr:housenumber=4 | addr:postcode=220012 | addr:street=улица Толбухина | contact:phone=+375 29 648-82-16 | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | operator=ИП Синкевич ВИ УНП 190856340 | shop=locksmith
     geometry : [53.9269079,27.6141153]
 n3301198191  Фотастудыя Быліна / null / Фотостудия Былина / Фотостудия Былина
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-18:00 | shop=photo_studio

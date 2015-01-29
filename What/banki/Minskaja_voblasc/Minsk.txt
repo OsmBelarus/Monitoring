@@ -68,7 +68,7 @@ n281716484
   other tags : amenity=bank
     geometry : [53.8791068,27.5342648]
 n281716765  Беларусбанк / null / Беларусбанк / Беларусбанк
-  other tags : amenity=bank | opening_hours=Mo-Fr 10:00-19:00; Th[3] 11:00-10:00 | owner=ОАО "АСБ Беларусбанк"
+  other tags : amenity=bank | opening_hours=Mo-Fr 10:00-19:00; Th[3] 11:00-10:00 | operator=ОАО "АСБ Беларусбанк"
     geometry : [53.8811939,27.5365558]
 n281722581  Беларусбанк / null / Беларусбанк / Беларусбанк
   other tags : amenity=bank
@@ -1154,10 +1154,10 @@ n3282077261
   other tags : amenity=bank
     geometry : [53.8802564,27.6685739]
 n3283053444  Аддзяленне №529/350 "Белсувязь" / null / Отделение №529/350 "Белсвязь" / Отделение №529/350 "Белсвязь"
-  other tags : amenity=bank | opening_hours=Mo-Sa 10:00-14:00,14:45-20:00 | owner=ОАО "АСБ Беларусбанк" | ref=529/350
+  other tags : amenity=bank | opening_hours=Mo-Sa 10:00-14:00,14:45-20:00 | operator=ОАО "АСБ Беларусбанк" | ref=529/350
     geometry : [53.9371074,27.6733478]
 n3283739477  Цэнтр банкаўскіх паслуг №702/3 / null / Центр банковских услуг №702/3 / Центр банковских услуг №702/3
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30 | owner=ОАО "БПС-Сбербанк" | ref=702/3
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30 | operator=ОАО "БПС-Сбербанк" | ref=702/3
     geometry : [53.9395455,27.6910021]
 n3283855499  null / null / БПС-банк
   other tags : addr:housenumber=104 | addr:postcode=220116 | addr:street=проспект Дзержинского | amenity=bank | atm=yes
