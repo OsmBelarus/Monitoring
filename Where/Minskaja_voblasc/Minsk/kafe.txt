@@ -840,9 +840,6 @@ n737214116  null / null / Академия
 n737214118  null / null / Академия
   other tags : amenity=cafe | opening_hours=Mo-Su 11:30-16:00
     geometry : [53.9244648,27.5991326]
-n737219657  null / null / МонКафе
-  other tags : amenity=cafe
-    geometry : [53.9058979,27.5428671]
 n745188296
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.8673968,27.6502137]
@@ -2656,9 +2653,9 @@ n3272654852  null / null / Персия
 n3279228464  null / null / кафе-бар
   other tags : amenity=cafe
     geometry : [53.8763170,27.6305246]
-n3280385738  null / null / Мон Кафе
+n3280385738  null / null / Мон Кафе;МонКафе
   other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=пн.-чт. 11.00-24.00;пт., сб. 11.00-02.00;вс. 11.00-00.00 | phone=+ 375 29 623 99 57;+ 375 29 860 99 57 | smoking=isolated | website=http://www.moncafe.by/
-    geometry : [53.9059617,27.5428430]
+    geometry : [53.9058979,27.5428671]
 n3280410268  null / null / Ресторан индийской кухни «Taj»
   other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant | cuisine=indian | opening_hours=12.00-24.00 | phone=+375447111110;+375173062961 | website=http://www.taj.by/
     geometry : [53.9048626,27.5440771]
