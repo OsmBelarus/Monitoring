@@ -565,7 +565,7 @@ n306064156
   other tags : shop=general
     geometry : [52.1271200,23.6543600]
 n306064273  null / null / АсСорти-6 / Прод.
-  other tags : addr:housenumber=42 | addr:street=улица Героев Обороны Брестской Крепости | opening_hours=9:00-21:00 без выходных | shop=convenience
+  other tags : addr:housenumber=42 | addr:street=улица Героев Обороны Брестской Крепости | opening_hours=9:00-21:00 | shop=convenience
     geometry : [52.0920636,23.6651669]
 n306068106  Брэст / null / Брест / Брест
   other tags : addr:housenumber=342 | addr:street=Московская улица | shop=mall
@@ -875,7 +875,7 @@ n1617453062  null / null / Сладкий уголок 3
   other tags : shop=bakery
     geometry : [52.0657330,23.7262957]
 n1628066757  null / null / Неман
-  other tags : addr:housenumber=42 | addr:street=улица Героев Обороны Брестской Крепости | opening_hours=10:00-19:00 без обеда и выходных | shop=kitchen
+  other tags : addr:housenumber=42 | addr:street=улица Героев Обороны Брестской Крепости | opening_hours=10:00-19:00 | shop=kitchen
     geometry : [52.0920156,23.6649778]
 n1628083729  null / null / Евроопт
   other tags : shop=convenience
