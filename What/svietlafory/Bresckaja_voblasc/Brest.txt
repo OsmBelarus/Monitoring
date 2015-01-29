@@ -309,9 +309,6 @@ n1196095700  Зарэчная / null / Заречная / Заречная
 n1196095701  null / null / Гузнянская
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0926022,23.7680977]
-n1196095705  null / null / Пугачево
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0724903,23.7632778]
 n1196095706  null / null / Пугачево
   other tags : bench=yes | highway=bus_stop | tactile_paving=no
     geometry : [52.0756900,23.7672536]
@@ -739,3 +736,6 @@ n3305784851
 n3307513819  null / null / Музей
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.0873222,23.6866680]
+n3308180205  null / null / Пугачево
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.0739597,23.7653529]
