@@ -298,9 +298,9 @@ n306063123  Оптыка / null / Оптика / Оптика
 n306063127  null / null / Быт. Техника / Быт. Техника
   other tags : shop=general
     geometry : [52.0953400,23.6898500]
-n306063132  null / null / Прод. / Прод.
-  other tags : addr:housenumber=1 | addr:street=Пушкинская улица | shop=general
-    geometry : [52.0940800,23.6864600]
+n306063132  null / null / Продукты / Продтовары-14
+  other tags : shop=convenience
+    geometry : [52.0940806,23.6864167]
 n306063134  null / null / Одежда / Одежда
   other tags : addr:housenumber=14 | addr:street=Советская улица | shop=general
     geometry : [52.0970000,23.6892700]
@@ -545,16 +545,16 @@ n306063975  null / null / Торговые Ряды Кирмаш / Торгов�
     geometry : [52.0962700,23.6911600]
 n306063977  null / null / Лакомка / Лакомка
   other tags : shop=general
-    geometry : [52.0932000,23.6881100]
+    geometry : [52.0931080,23.6879507]
 n306063980
   other tags : shop=general
     geometry : [52.0940100,23.6891600]
 n306063981  null / null / Торговые Ряды / Торговые Ряды
   other tags : addr:housenumber=13 | addr:street=улица Куйбышева | shop=mall
     geometry : [52.0970400,23.6910300]
-n306063986  Кнігі / null / Книги / Книги
-  other tags : addr:housenumber=4 | addr:street=Пушкинская улица | shop=general
-    geometry : [52.0943100,23.6861400]
+n306063986  Iскра / null / null / Искра
+  other tags : shop=books
+    geometry : [52.0942946,23.6862231]
 n306063989  null / null / Репка / Репка
   other tags : shop=general
     geometry : [52.0971400,23.6859900]
@@ -1154,3 +1154,21 @@ n3306870471  null / null / Орбита Мобил
 n3306870472  null / null / Belarusachka
   other tags : shop=clothes
     geometry : [52.0865164,23.6835922]
+n3307711119  null / null / Пресса № 1
+  other tags : shop=newsagent
+    geometry : [52.0940005,23.6862643]
+n3307711120  null / null / Мила
+  other tags : shop=cosmetics
+    geometry : [52.0939462,23.6861163]
+n3307711121  null / null / Белкельме
+  other tags : shop=shoes
+    geometry : [52.0939326,23.6865714]
+n3307711275  null / null / Снимок
+  other tags : shop=photo
+    geometry : [52.0941820,23.6859337]
+n3307711276  null / null / Елена
+  other tags : shop=beauty
+    geometry : [52.0940720,23.6856046]
+n3307711320  null / null / Сябрына
+  other tags : shop=books
+    geometry : [52.0945896,23.6858798]
