@@ -1,11 +1,11 @@
-n1177235423
-  other tags : amenity=fuel | brand=Белоруснефть | operator=Белоруснефть
-    geometry : [52.1814851,24.3683071]
+n1177235423  null / null / Белоруснефть №43
+  other tags : addr:street=60 км а/д М-1 (E30) | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1642-23615 | website=http://www.belorusneft.by/
+    geometry : [52.1816677,24.3683718]
 n1263169095  null / null / АГНКС Кобрин
   other tags : amenity=fuel | fuel:cng=yes | opening_hours=24/7 | operator=Белтрансгаз | phone=+375-1642-49450 | website=http://www.metan.by/
     geometry : [52.2309900,24.4128100]
-n2832448926
-  other tags : amenity=fuel | brand=Белоруснефть | operator=Белоруснефть
+n2832448926  null / null / Белоруснефть №42
+  other tags : addr:street=60 км а/д М-1 (E30) | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1642-23822 | website=http://www.belorusneft.by/
     geometry : [52.1823138,24.3669461]
 n2845986315
   other tags : amenity=fuel
@@ -13,3 +13,6 @@ n2845986315
 n3207512775  null / null / TATNEFT
   other tags : amenity=fuel | brand=TATNEFT | fuel:HGV_diesel=yes | fuel:diesel=yes | fuel:octane_80=no | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | shop=yes
     geometry : [52.1896797,24.2333037]
+n3314740014  null / null / Белоруснефть №43
+  other tags : addr:street=60 км а/д М-1 (E30) | amenity=fuel | brand=Белоруснефть | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1642-23615 | website=http://www.belorusneft.by/
+    geometry : [52.1814911,24.3687714]
