@@ -365,7 +365,7 @@ n1248253819
     geometry : [52.1202778,23.7682719]
 n1282812302  null / null / Площадь Ленина
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0929946,23.6856277]
+    geometry : [52.0929881,23.6856926]
 n1282812316  null / null / Парк 1 мая
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0958671,23.6820783]
@@ -590,10 +590,7 @@ n2299919577  null / null / Интурист
     geometry : [52.0859629,23.6897748]
 n2299919578  null / null / Ленина
   other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0862669,23.6883832]
-n2299919579  null / null / Музей
-  other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0870989,23.6866599]
+    geometry : [52.0861839,23.6882556]
 n2299919580  Прыгарадны вакзал / Pryharadny vakzal / Пригородный вокзал / Пригородный вокзал
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | tactile_paving=no
     geometry : [52.1015297,23.6805742]
@@ -739,3 +736,6 @@ n3278128797  null / null / Торговый колледж
 n3305784851
   other tags : highway=bus_stop
     geometry : [52.0731629,23.7199474]
+n3307513819  null / null / Музей
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.0873222,23.6866680]
