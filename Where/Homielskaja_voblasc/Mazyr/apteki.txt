@@ -25,14 +25,14 @@ n2154240604
 n2755885428  null / null / аптека №63
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | amenity=pharmacy
     geometry : [52.0490618,29.2416317]
-n2758938583  null / null / Аптека
+n2758938583  null / null / Моя аптека
   other tags : addr:housenumber=2Г | addr:postcode=247760 | addr:street=улица Притыцкого | amenity=pharmacy
     geometry : [52.0368005,29.2178734]
 n2760147843  null / null / Планета здоровья
   other tags : addr:housenumber=13 | addr:street=улица Малинина Н.И. | amenity=pharmacy
     geometry : [52.0352362,29.2016756]
-n2763834883
-  other tags : amenity=pharmacy
+n2763834883  null / null / Моя аптека
+  other tags : addr:housenumber=1а | addr:street=улица Малинина Н.И. | amenity=pharmacy
     geometry : [52.0367599,29.2066079]
 n3227912928  null / null / Аптека №62
   other tags : addr:housenumber=19 | addr:street=Ленинская улица | amenity=pharmacy
@@ -61,3 +61,6 @@ n3259750929  null / null / Плантеа здоровья
 n3270045732  null / null / Планета здоровья
   other tags : addr:housenumber=11 | addr:street=Ульяновская улица | amenity=pharmacy
     geometry : [52.0299782,29.2482373]
+n3311555242  null / null / Моя аптека
+  other tags : addr:housenumber=26 | addr:street=улица Нефтестроителей | amenity=pharmacy
+    geometry : [52.0391944,29.2064606]
