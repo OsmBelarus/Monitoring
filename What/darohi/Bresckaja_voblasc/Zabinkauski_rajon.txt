@@ -596,10 +596,10 @@ w123083376
   other tags : highway=residential
     geometry : n1373736706[52.1332535,23.9902553] n1373736703[52.1327189,23.9929811] n1373736716[52.1332256,23.9934314]
 w123325577
-  other tags : highway=primary | ref=Р7
+  other tags : highway=primary | maxspeed=90 | ref=Р7
     geometry : n441531896[52.1818672,24.0350828] n275459545[52.1801207,24.0358272] n3004370745[52.1786175,24.0368327] n1697396154[52.1770611,24.0374633] n275459546[52.1715800,24.0396300] n275459547[52.1666836,24.0417796] n275459536[52.1648627,24.0424720] n651312539[52.1641538,24.0430402] n441531862[52.1631958,24.0444268] n275459537[52.1598082,24.0503519] n275459538[52.1574969,24.0532780]
 w123325578
-  other tags : bicycle=yes | bridge=yes | highway=trunk_link | layer=1 | oneway=no | sidewalk=none
+  other tags : bicycle=yes | bridge=yes | highway=trunk_link | layer=1 | maxspeed=90 | oneway=no | sidewalk=none
     geometry : n441531865[52.1558204,24.0554111] n1375689669[52.1563938,24.0546806]
 w123325579
   other tags : highway=tertiary | ref=Н133
@@ -617,7 +617,7 @@ w123325583
   other tags : highway=unclassified | note=Подъезд от автодороги Р7 к деревне Федьковичи
     geometry : n275459536[52.1648627,24.0424720] n1375689657[52.1609814,24.0441670] n1375689654[52.1582908,24.0453700] n2833684997[52.1551911,24.0465580] n1375689664[52.1550734,24.0466031]
 w123325584
-  other tags : highway=trunk_link | oneway=no
+  other tags : highway=trunk_link | maxspeed=90 | oneway=no
     geometry : n1375689669[52.1563938,24.0546806] n275459538[52.1574969,24.0532780]
 w123325585
   other tags : highway=tertiary | ref=Н133
