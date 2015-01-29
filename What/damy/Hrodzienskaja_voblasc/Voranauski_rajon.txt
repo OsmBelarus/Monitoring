@@ -53,13 +53,13 @@ w288276496
   other tags : building=residential
     geometry : n2918345961[54.0385169,25.4080704] n2918345959[54.0384444,25.4080451] n2918345958[54.0384146,25.4082929] n2918345960[54.0384871,25.4083182] n2918345961[54.0385169,25.4080704]
 w288276497
-  other tags : addr:housenumber=103 | building=residential
+  other tags : addr:housenumber=103 | addr:street=Школьная улица | building=residential
     geometry : n2918345947[54.0381085,25.4076823] n2918345952[54.0381738,25.4077076] n2918345950[54.0381530,25.4078635] n2918345945[54.0380877,25.4078383] n2918345947[54.0381085,25.4076823]
 w288276498
-  other tags : addr:housenumber=105 | building=residential
+  other tags : addr:housenumber=105 | addr:street=Школьная улица | building=residential
     geometry : n2918345951[54.0381650,25.4072784] n2918345954[54.0382303,25.4073036] n2918345953[54.0382095,25.4074596] n2918345949[54.0381442,25.4074343] n2918345951[54.0381650,25.4072784]
 w288276499
-  other tags : addr:housenumber=100 | building=residential
+  other tags : addr:housenumber=100 | addr:street=Школьная улица | building=residential
     geometry : n2918345942[54.0379896,25.4084632] n2918345941[54.0379517,25.4087386] n2918345943[54.0380183,25.4087652] n2918345944[54.0380414,25.4085977] n2918345946[54.0380871,25.4086159] n2918345948[54.0381020,25.4085081] n2918345942[54.0379896,25.4084632]
 w294394291
   other tags : addr:street=Парковая улица | building=house
@@ -5414,46 +5414,46 @@ w315863873
   other tags : addr:housenumber=9 | addr:street=Садовая улица | building=residential
     geometry : n3219971839[54.1654545,25.3097419] n3219971830[54.1653215,25.3096855] n3219971829[54.1653023,25.3098177] n3219971833[54.1653463,25.3098363] n3219971832[54.1653366,25.3099026] n3219971837[54.1654257,25.3099403] n3219971839[54.1654545,25.3097419]
 w316340128
-  other tags : addr:housenumber=101 | building=residential
+  other tags : addr:housenumber=101 | addr:street=Школьная улица | building=residential
     geometry : n3224496610[54.0380537,25.4080629] n3224496609[54.0380321,25.4082290] n3224496612[54.0381150,25.4082603] n3224496614[54.0381366,25.4080942] n3224496610[54.0380537,25.4080629]
 w316340129
-  other tags : addr:housenumber=102 | building=residential
+  other tags : addr:housenumber=102 | addr:street=Школьная улица | building=residential
     geometry : n3224496599[54.0378158,25.4081093] n3224496591[54.0376971,25.4080584] n3224496590[54.0376685,25.4082519] n3224496596[54.0377873,25.4083027] n3224496599[54.0378158,25.4081093]
 w316340130
-  other tags : addr:housenumber=104 | building=residential
+  other tags : addr:housenumber=104 | addr:street=Школьная улица | building=residential
     geometry : n3224496604[54.0378726,25.4077386] n3224496602[54.0378534,25.4078911] n3224496593[54.0377613,25.4078575] n3224496595[54.0377806,25.4077049] n3224496604[54.0378726,25.4077386]
 w316340131
-  other tags : addr:housenumber=110 | building=residential
+  other tags : addr:housenumber=110 | addr:street=Школьная улица | building=residential
     geometry : n3224496671[54.0393972,25.4085200] n3224496667[54.0392987,25.4084913] n3224496666[54.0392799,25.4086787] n3224496669[54.0393784,25.4087074] n3224496671[54.0393972,25.4085200]
 w316340132
-  other tags : addr:housenumber=128 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=128 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496796[54.0413006,25.4132899] n3224496789[54.0411762,25.4132705] n3224496787[54.0411672,25.4134372] n3224496795[54.0412916,25.4134566] n3224496796[54.0413006,25.4132899]
 w316340133
-  other tags : addr:housenumber=129 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=129 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496794[54.0412604,25.4138551] n3224496786[54.0411633,25.4138375] n3224496784[54.0411528,25.4140056] n3224496793[54.0412499,25.4140232] n3224496794[54.0412604,25.4138551]
 w316340134
-  other tags : addr:housenumber=130 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=130 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496792[54.0412273,25.4142774] n3224496782[54.0411328,25.4142606] n3224496780[54.0411191,25.4144855] n3224496791[54.0412135,25.4145022] n3224496792[54.0412273,25.4142774]
 w316340135
-  other tags : addr:housenumber=131 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=131 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496790[54.0411858,25.4147921] n3224496776[54.0410873,25.4147729] n3224496774[54.0410736,25.4149777] n3224496788[54.0411721,25.4149969] n3224496790[54.0411858,25.4147921]
 w316340136
-  other tags : addr:housenumber=132 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=132 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496785[54.0411530,25.4151379] n3224496773[54.0410606,25.4151196] n3224496770[54.0410465,25.4153255] n3224496783[54.0411389,25.4153438] n3224496785[54.0411530,25.4151379]
 w316340137
-  other tags : addr:housenumber=133 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=133 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496781[54.0411231,25.4155170] n3224496768[54.0410220,25.4154968] n3224496766[54.0410061,25.4157280] n3224496779[54.0411072,25.4157482] n3224496781[54.0411231,25.4155170]
 w316340138
-  other tags : addr:housenumber=134 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=134 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496777[54.0410895,25.4158987] n3224496764[54.0409938,25.4158820] n3224496762[54.0409818,25.4160804] n3224496775[54.0410775,25.4160972] n3224496777[54.0410895,25.4158987]
 w316340139
-  other tags : addr:housenumber=135 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=135 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496772[54.0410604,25.4162878] n3224496760[54.0409628,25.4162702] n3224496759[54.0409509,25.4164619] n3224496771[54.0410485,25.4164794] n3224496772[54.0410604,25.4162878]
 w316340140
-  other tags : addr:housenumber=136 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=136 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496769[54.0410238,25.4166760] n3224496757[54.0409197,25.4166536] n3224496756[54.0409066,25.4168306] n3224496767[54.0410107,25.4168530] n3224496769[54.0410238,25.4166760]
 w316340141
-  other tags : addr:housenumber=137 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=137 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496763[54.0409929,25.4170530] n3224496755[54.0409009,25.4170346] n3224496754[54.0408888,25.4172099] n3224496761[54.0409808,25.4172283] n3224496763[54.0409929,25.4170530]
 w316340143
   other tags : addr:housenumber=50 | building=residential
@@ -5489,13 +5489,13 @@ w316340155
   other tags : addr:housenumber=73 | building=residential
     geometry : n3224496663[54.0391792,25.4148980] n3224496658[54.0391234,25.4149452] n3224496661[54.0391644,25.4150860] n3224496665[54.0392202,25.4150389] n3224496663[54.0391792,25.4148980]
 w316340156
-  other tags : addr:housenumber=74 | building=residential
+  other tags : addr:housenumber=74 | addr:street=улица Закипного | building=residential
     geometry : n3224496662[54.0391712,25.4158828] n3224496664[54.0391891,25.4160042] n3224496655[54.0390911,25.4160461] n3224496654[54.0390732,25.4159247] n3224496657[54.0391103,25.4159088] n3224496656[54.0391049,25.4158723] n3224496659[54.0391489,25.4158535] n3224496660[54.0391542,25.4158900] n3224496662[54.0391712,25.4158828]
 w316340157
-  other tags : addr:housenumber=75 | building=residential
+  other tags : addr:housenumber=75 | addr:street=улица Закипного | building=residential
     geometry : n3224496673[54.0394509,25.4165238] n3224496672[54.0394181,25.4163001] n3224496668[54.0393642,25.4163231] n3224496670[54.0393970,25.4165467] n3224496673[54.0394509,25.4165238]
 w316340158
-  other tags : addr:housenumber=76 | building=residential
+  other tags : addr:housenumber=76 | addr:street=улица Закипного | building=residential
     geometry : n3224496677[54.0396180,25.4170504] n3224496675[54.0395539,25.4170930] n3224496674[54.0394951,25.4168365] n3224496676[54.0395592,25.4167938] n3224496677[54.0396180,25.4170504]
 w316340159
   other tags : addr:housenumber=84 | addr:street=улица Закипного | building=residential
@@ -5537,43 +5537,43 @@ w316340171
   other tags : addr:housenumber=95a | addr:street=улица Закипного | building=residential
     geometry : n3224496750[54.0405378,25.4106304] n3224496744[54.0404597,25.4106069] n3224496741[54.0404416,25.4107809] n3224496749[54.0405198,25.4108044] n3224496750[54.0405378,25.4106304]
 w316340172
-  other tags : addr:housenumber=1 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=1 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496816[54.0417481,25.4125622] n3224496814[54.0416782,25.4125500] n3224496813[54.0416669,25.4127385] n3224496815[54.0417368,25.4127506] n3224496816[54.0417481,25.4125622]
 w316340173
-  other tags : addr:housenumber=5 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=5 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496802[54.0415110,25.4146238] n3224496798[54.0414415,25.4146068] n3224496797[54.0414257,25.4147943] n3224496801[54.0414952,25.4148113] n3224496802[54.0415110,25.4146238]
 w316340174
-  other tags : addr:housenumber=2 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=2 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496812[54.0416365,25.4130666] n3224496808[54.0415667,25.4130524] n3224496807[54.0415536,25.4132404] n3224496811[54.0416234,25.4132546] n3224496812[54.0416365,25.4130666]
 w316340175
   other tags : addr:street=улица Закипного | building=residential
     geometry : n3224496748[54.0405126,25.4110316] n3224496739[54.0404184,25.4109999] n3224496736[54.0404000,25.4111589] n3224496747[54.0404942,25.4111905] n3224496748[54.0405126,25.4110316]
 w316340177
-  other tags : addr:housenumber=3 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=3 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496810[54.0415956,25.4135905] n3224496804[54.0415258,25.4135770] n3224496803[54.0415132,25.4137652] n3224496809[54.0415830,25.4137787] n3224496810[54.0415956,25.4135905]
 w316340178
-  other tags : addr:housenumber=4 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=4 | addr:street=Молодёжная улица | building=residential
     geometry : n3224496806[54.0415528,25.4141106] n3224496800[54.0414830,25.4140969] n3224496799[54.0414702,25.4142850] n3224496805[54.0415400,25.4142988] n3224496806[54.0415528,25.4141106]
 w316352952
   other tags : addr:housenumber=47 | building=residential
     geometry : n3224616527[54.0350344,25.4070287] n3224616525[54.0349442,25.4069813] n3224616524[54.0349220,25.4071036] n3224616526[54.0350122,25.4071510] n3224616527[54.0350344,25.4070287]
 w316352953
-  other tags : addr:housenumber=77 | building=residential
+  other tags : addr:housenumber=77 | addr:street=улица Закипного | building=residential
     geometry : n3224616531[54.0396707,25.4173273] n3224616528[54.0396123,25.4173623] n3224616529[54.0396625,25.4176051] n3224616534[54.0397209,25.4175701] n3224616531[54.0396707,25.4173273]
 w316352954
-  other tags : addr:housenumber=78 | building=residential
+  other tags : addr:housenumber=78 | addr:street=улица Закипного | building=residential
     geometry : n3224616533[54.0397098,25.4177351] n3224616530[54.0396654,25.4177633] n3224616532[54.0397032,25.4179361] n3224616539[54.0397867,25.4178831] n3224616537[54.0397622,25.4177714] n3224616535[54.0397232,25.4177962] n3224616533[54.0397098,25.4177351]
 w316352955
-  other tags : addr:housenumber=79 | building=residential
+  other tags : addr:housenumber=79 | addr:street=улица Закипного | building=residential
     geometry : n3224616543[54.0398233,25.4180514] n3224616536[54.0397470,25.4181011] n3224616538[54.0397778,25.4182384] n3224616540[54.0398008,25.4182235] n3224616542[54.0398127,25.4182764] n3224616545[54.0398660,25.4182416] n3224616543[54.0398233,25.4180514]
 w316352956
-  other tags : addr:housenumber=80 | building=residential
+  other tags : addr:housenumber=80 | addr:street=улица Закипного | building=residential
     geometry : n3224616548[54.0399088,25.4184389] n3224616541[54.0398073,25.4184954] n3224616544[54.0398328,25.4186278] n3224616546[54.0398767,25.4186033] n3224616547[54.0398906,25.4186755] n3224616550[54.0399481,25.4186435] n3224616548[54.0399088,25.4184389]
 w316352957
-  other tags : addr:housenumber=81 | building=residential
+  other tags : addr:housenumber=81 | addr:street=улица Закипного | building=residential
     geometry : n3224616556[54.0400292,25.4189818] n3224616551[54.0399642,25.4190213] n3224616554[54.0400071,25.4192260] n3224616557[54.0400721,25.4191864] n3224616556[54.0400292,25.4189818]
 w316352958
-  other tags : addr:housenumber=82 | building=residential
+  other tags : addr:housenumber=82 | addr:street=улица Закипного | building=residential
     geometry : n3224616553[54.0399839,25.4204056] n3224616555[54.0400276,25.4206095] n3224616552[54.0399671,25.4206471] n3224616549[54.0399234,25.4204432] n3224616553[54.0399839,25.4204056]
 w316352965
   other tags : building=residential
@@ -5726,19 +5726,19 @@ w316378088
   other tags : addr:housenumber=9 | building=residential
     geometry : n3224852524[54.0322596,25.4078411] n3224852521[54.0322305,25.4079865] n3224852517[54.0321699,25.4079513] n3224852519[54.0321989,25.4078059] n3224852524[54.0322596,25.4078411]
 w316509071
-  other tags : addr:housenumber=10 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=10 | addr:street=Молодёжная улица | building=residential
     geometry : n3226326483[54.0413345,25.4173647] n3226326477[54.0412276,25.4173400] n3226326476[54.0412101,25.4175593] n3226326481[54.0413170,25.4175840] n3226326483[54.0413345,25.4173647]
 w316509087
-  other tags : addr:housenumber=6 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=6 | addr:street=Молодёжная улица | building=residential
     geometry : n3226326495[54.0415860,25.4151678] n3226326491[54.0414712,25.4151425] n3226326490[54.0414557,25.4153454] n3226326494[54.0415706,25.4153707] n3226326495[54.0415860,25.4151678]
 w316509090
-  other tags : addr:housenumber=7 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=7 | addr:street=Молодёжная улица | building=residential
     geometry : n3226326493[54.0415391,25.4157919] n3226326488[54.0414189,25.4157638] n3226326486[54.0414041,25.4159462] n3226326492[54.0415244,25.4159744] n3226326493[54.0415391,25.4157919]
 w316509092
-  other tags : addr:housenumber=8 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=8 | addr:street=Молодёжная улица | building=residential
     geometry : n3226326489[54.0414246,25.4163206] n3226326482[54.0413176,25.4162958] n3226326480[54.0413001,25.4165151] n3226326487[54.0414071,25.4165399] n3226326489[54.0414246,25.4163206]
 w316509094
-  other tags : addr:housenumber=9 | addr:street=Молодежная улица | building=residential
+  other tags : addr:housenumber=9 | addr:street=Молодёжная улица | building=residential
     geometry : n3226326485[54.0413736,25.4168373] n3226326479[54.0412667,25.4168125] n3226326478[54.0412492,25.4170318] n3226326484[54.0413561,25.4170566] n3226326485[54.0413736,25.4168373]
 w316509099
   other tags : building=residential
