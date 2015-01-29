@@ -3,7 +3,7 @@ n306068453
     geometry : [54.0455200,30.9722600]
 n306068455  Цёмны Лес / Ciomny Lies / Тёмный Лес / Тёмный Лес
   other tags : esr:user=158407 | railway=station
-    geometry : [54.0989100,31.2406500]
+    geometry : [54.0970478,31.2426723]
 n306068462
   other tags : tourism=viewpoint
     geometry : [54.0144500,30.9399000]
@@ -12,10 +12,10 @@ n306068557
     geometry : [54.1533300,30.7346000]
 n1195150458
   other tags : railway=level_crossing
-    geometry : [54.1004902,31.2384954]
+    geometry : [54.1002493,31.2377924]
 n1210853586
   other tags : railway=level_crossing
-    geometry : [54.1301137,31.1955957]
+    geometry : [54.1304133,31.1959244]
 n1251665264
   other tags : railway=level_crossing
     geometry : [54.1798166,31.1281954]
@@ -247,3 +247,6 @@ w314667486
 w314667593
   other tags : abandoned=yes | aeroway=runway
     geometry : n3207145168[54.0670226,31.0052875] n3207142055[54.0637910,31.0030172]
+w324513460
+  other tags : bridge=yes | electrified=no | layer=1 | railway=rail | usage=main
+    geometry : n3312243084[54.1791199,31.1310400] n3312243083[54.1789579,31.1317015]
