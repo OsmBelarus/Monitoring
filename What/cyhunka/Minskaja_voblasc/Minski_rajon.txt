@@ -2,7 +2,7 @@ n271040591  Садовы / Sadovy / Садовый / Садовый
   other tags : esr:user=140812 | railway=halt
     geometry : [53.9648266,27.8139683]
 n271042095  Асееўка / Asiejeŭka / Асеевка / Асеевка
-  other tags : esr:user=144832 | railway=halt
+  other tags : esr:user=144832 | public_transport=stop_position | railway=halt | train=yes
     geometry : [53.7686717,27.6535533]
 n271092098  Гай / Haj / Роща / Роща
   other tags : esr:user=144644 | railway=halt
@@ -30,5 +30,5 @@ n1379659795  Зялёнае / Zialionaje / Зелёное / Зелёное
   other tags : esr:user=143613 | railway=halt
     geometry : [53.9799484,27.2943412]
 n1630026190  Чыгуначны / Čyhunačny / Железнодорожный / Железнодорожный
-  other tags : esr:user=140526 | railway=halt
-    geometry : [53.8188487,27.5730621]
+  other tags : esr:user=140526 | public_transport=stop_position | railway=halt | train=yes
+    geometry : [53.8187435,27.5730166]
