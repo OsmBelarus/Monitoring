@@ -233,7 +233,7 @@ n2573648582
   other tags : crossing=unmarked | highway=crossing
     geometry : [55.5200292,28.6845827]
 n2575607014
-  other tags : bicycle=no | crossing=uncontrolled | highway=crossing
+  other tags : bicycle=no | crossing=uncontrolled | highway=crossing | traffic_calming=hump
     geometry : [55.5295401,28.6658527]
 n2575610297
   other tags : bicycle=no | crossing=uncontrolled | highway=crossing
@@ -326,10 +326,10 @@ n3221338691
   other tags : highway=crossing
     geometry : [55.5039779,28.6976044]
 n3221339399
-  other tags : highway=crossing
+  other tags : highway=crossing | traffic_calming=hump
     geometry : [55.5086784,28.6995865]
 n3221339408
-  other tags : highway=crossing
+  other tags : highway=crossing | traffic_calming=hump
     geometry : [55.5087729,28.6997874]
 n3221339420
   other tags : highway=crossing
