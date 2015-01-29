@@ -1,9 +1,9 @@
 n355681898
   other tags : amenity=fuel | operator=Белоруснефть
     geometry : [52.2228242,24.3332009]
-n441526705  Беларуснафта / null / Белоруснефть / Белоруснефть
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
-    geometry : [52.1895821,24.3373850]
+n441526705  Беларуснафта / null / Белоруснефть №40 / Белоруснефть
+  other tags : addr:housenumber=133 | addr:street=улица Дзержинского | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1642-22561 | website=http://www.belorusneft.by/
+    geometry : [52.1894815,24.3369746]
 n564931862
   other tags : amenity=fuel | fuel:lpg=yes | operator=Белоруснефть
     geometry : [52.2061055,24.3212359]
@@ -16,3 +16,6 @@ n1941227649  null / null / Белоруснефть №60
 n2500988742  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [52.2063493,24.3210279]
+n3314832069  Беларуснафта / null / Белоруснефть №40 / Белоруснефть
+  other tags : addr:housenumber=133 | addr:street=улица Дзержинского | amenity=fuel | brand=Белоруснефть | fuel:lpg=yes | opening_hours=07:00-23:00 | operator=Белоруснефть | phone=+375-1642-22561 | website=http://www.belorusneft.by/
+    geometry : [52.1899595,24.3372131]
