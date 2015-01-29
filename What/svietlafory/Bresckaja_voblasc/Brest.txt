@@ -377,7 +377,7 @@ n1282812343  null / null / Парк 1 мая
     geometry : [52.0963252,23.6821427]
 n1282829329  null / null / Театр
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0908510,23.6865732]
+    geometry : [52.0908476,23.6865865]
 n1298185680  Электратэхнічны завод / null / null
   other tags : fixme:komzpa=добавить русское имя | highway=bus_stop
     geometry : [52.1150905,23.7372776]
@@ -736,3 +736,6 @@ n3278128767  null / null / ТЭЦ
 n3278128797  null / null / Торговый колледж
   other tags : highway=bus_stop
     geometry : [52.0918424,23.6577888]
+n3305784851
+  other tags : highway=bus_stop
+    geometry : [52.0731629,23.7199474]

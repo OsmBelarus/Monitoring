@@ -32,9 +32,6 @@ n997645936  Мухавец / null / Мухавец / Мухавец
 n997646162  null / null / Фараон
   other tags : amenity=bar
     geometry : [52.5528519,24.4647838]
-n997646869  null / null / Лель
-  other tags : amenity=bar
-    geometry : [52.5563692,24.4551989]
 n997647174  null / null / Эдем
   other tags : amenity=bar
     geometry : [52.5673348,24.4743005]
@@ -170,6 +167,18 @@ n2788687632  Капліца / null / Часовня
 n3143749052  null / null / Стамоталогическая поликлиника 
   other tags : amenity=hospital
     geometry : [52.5615449,24.4642269]
+n3305904753
+  other tags : tourism=hotel
+    geometry : [52.5597595,24.4303889]
+n3305904756
+  other tags : building=retail
+    geometry : [52.5600002,24.4280736]
+n3305904758
+  other tags : leisure=sports_centre
+    geometry : [52.5597560,24.4322814]
+n3305904759  null / null / КУПП АПП "Пружанская архитектура"
+  other tags : office=company | smoking=outside
+    geometry : [52.5546046,24.4546709]
 w126213979  null / null / Еврейское кладбище
   other tags : landuse=cemetery
     geometry : n1399728329[52.5493369,24.4587940] n1399728294[52.5492199,24.4606864] n1399728298[52.5480213,24.4605297] n1399728290[52.5480883,24.4585765] n1399728329[52.5493369,24.4587940]

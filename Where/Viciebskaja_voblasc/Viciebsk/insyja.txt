@@ -2495,9 +2495,6 @@ n1627460348
 n1627460353
   other tags : addr:housenumber=3 | addr:street=3-я Прорезная улица
     geometry : [55.2148857,30.1964459]
-n1627460357
-  other tags : addr:housenumber=3 | addr:street=3-я Совхозная улица | building:levels=1
-    geometry : [55.2117469,30.2623256]
 n1627460361
   other tags : addr:housenumber=3 | addr:street=улица Серова
     geometry : [55.2127390,30.2330222]
@@ -3742,7 +3739,7 @@ n2034171962
   other tags : addr:housenumber=18 | addr:street=14-я Полоцкая улица
     geometry : [55.1942691,30.1538531]
 n2034405228
-  other tags : addr:housenumber=7А | addr:street=Майский переулок | building:levels=1
+  other tags : addr:housenumber=7а | addr:street=Майский переулок | building:levels=1
     geometry : [55.1752610,30.2734168]
 n2040807567
   other tags : noexit=yes
@@ -4029,9 +4026,6 @@ n2244854928
 n2244854929
   other tags : addr:housenumber=42 | addr:street=5-я Социалистическая улица | building:levels=1
     geometry : [55.1700626,30.1176930]
-n2244861452
-  other tags : addr:housenumber=97 | addr:street=улица Григорьева | building:levels=1
-    geometry : [55.1676154,30.1143719]
 n2244861453
   other tags : addr:housenumber=37 | addr:street=10-я Социалистическая улица | building:levels=1
     geometry : [55.1682164,30.1136949]
@@ -9488,7 +9482,7 @@ n2984209180
   other tags : addr:housenumber=43 | addr:street=улица 39-й Армии | building:levels=1
     geometry : [55.1725036,30.1245241]
 n2984209921
-  other tags : addr:housenumber=1А | addr:street=улица Тургенева
+  other tags : addr:housenumber=1а | addr:street=улица Тургенева
     geometry : [55.2041747,30.2469704]
 n2984214845
   other tags : addr:housenumber=38 | addr:street=Передовая улица
@@ -11048,9 +11042,6 @@ n3196211947
 n3196338659
   other tags : amenity=post_box
     geometry : [55.1647313,30.2302715]
-n3196787179
-  other tags : addr:housenumber=2 | addr:street=7-я Полоцкая улица
-    geometry : [55.1984694,30.1723553]
 n3197438415  null / null / Швейная мастерская
   other tags : craft=tailor | opening_hours=Mo-Sa 09:00-13:00,14:00-19:00
     geometry : [55.1889114,30.2471330]
