@@ -1819,8 +1819,8 @@ n523136979  null / null / Факультет Радиофизики
 n523136998  null / null / Наполеона Орды
   other tags : highway=bus_stop
     geometry : [53.8433127,27.4821447]
-n523136999  м-н "Брылевічы" / null / Брилевичи
-  other tags : highway=bus_stop
+n523136999  М-н «Брылевічы» / null / Микрорайон «Брилевичи»
+  other tags : highway=bus_stop | shelter=no
     geometry : [53.8434606,27.4750966]
 n523137032  null / null / Курчатова / улица Курчатова
   other tags : highway=bus_stop
@@ -3474,8 +3474,8 @@ n767088655  Каралінская / null / Каролинская
 n767088657  null / null / Минина
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8789000,27.5179300]
-n767088670  null / null / Брилевичи
-  other tags : generated=yes | highway=bus_stop
+n767088670  null / null / Микрорайон «Брилевичи»
+  other tags : generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8430823,27.4764987]
 n767088681  null / null / АвтоТаксоСервис
   other tags : generated=yes | highway=bus_stop
