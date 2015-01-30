@@ -1,6 +1,3 @@
-n1315857749
-  other tags : building=residential
-    geometry : [53.1197570,23.9686173]
 n1349422748
   other tags : building=residential
     geometry : [53.3639508,24.0660689]
@@ -19,54 +16,18 @@ n2341781980
 n2341783395
   other tags : building=residential
     geometry : [53.3355922,23.9518398]
-n2702281213
-  other tags : building=residential
-    geometry : [53.1229232,23.9488613]
 n2702309579
   other tags : building=residential
     geometry : [53.1171426,23.9791349]
 n2702309726
   other tags : building=residential
     geometry : [53.1184863,23.9740945]
-n2702310033
-  other tags : building=residential
-    geometry : [53.1207242,23.9739867]
-n2702434926  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1184329,23.9732673]
-n2702434943  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1186843,23.9728641]
-n2702434974  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1191058,23.9733321]
-n2702435154  null / null / ул. Машерова
-  other tags : building=residential
+n2702435154
+  other tags : addr:street=улица Машерова | building=residential
     geometry : [53.1199402,23.9762833]
-n2702435159  null / null / ул. Северная
-  other tags : building=residential
-    geometry : [53.1199699,23.9711184]
-n2702435172  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1200314,23.9712278]
-n2702435196  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1203264,23.9719977]
-n2702435245  null / null / ул. Машерова
-  other tags : building=residential
-    geometry : [53.1206295,23.9760166]
-n2702435255  null / null / ул. Пушкина
+n2702435255
   other tags : building=residential
     geometry : [53.1207063,23.9680015]
-n2702435318  null / null / ул. Юбилейная
-  other tags : building=residential
-    geometry : [53.1213799,23.9653319]
-n2702435333
-  other tags : building=residential
-    geometry : [53.1215777,23.9652969]
-n2702435399  null / null / ул. Юбилейная
-  other tags : building=residential
-    geometry : [53.1226649,23.9648859]
 n2703777875
   other tags : building=residential
     geometry : [53.2882700,23.9464004]
@@ -373,15 +334,9 @@ n2739980582
 n2977365164
   other tags : building=residential
     geometry : [53.3831302,24.0219447]
-n2977394956  null / null / ул. Машерова
-  other tags : building=residential
+n2977394956
+  other tags : addr:street=улица Машерова | building=residential
     geometry : [53.1209981,23.9756090]
-n2977394964  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
-    geometry : [53.1218772,23.9738553]
-n2977444038  null / null / ул. Комарова
-  other tags : building=residential
-    geometry : [53.1227238,23.9673623]
 n3016104600
   other tags : building=residential
     geometry : [53.3692527,24.0813007]
@@ -940,35 +895,35 @@ w225853884
 w225854327
   other tags : addr:street=улица Мира | building=residential
     geometry : n2346597285[53.3400907,23.9517484] n2346597273[53.3400203,23.9518769] n2346597275[53.3400973,23.9519950] n2346597289[53.3401676,23.9518665] n2346597285[53.3400907,23.9517484]
-w243637961  null / null / ул. Комарова
-  other tags : building=residential
+w243637961
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183674[53.1226411,23.9662122] n2510183672[53.1225253,23.9663509] n2510183673[53.1226016,23.9665277] n2510183677[53.1227174,23.9663890] n2510183674[53.1226411,23.9662122]
-w243637962  null / null / ул. Комарова
-  other tags : building=residential
+w243637962
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183620[53.1210737,23.9706797] n2510183617[53.1209064,23.9708782] n2510183619[53.1209596,23.9710027] n2510183621[53.1211269,23.9708041] n2510183620[53.1210737,23.9706797]
-w243637963  null / null / ул. Комарова
-  other tags : building=residential
+w243637963
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183666[53.1224553,23.9664739] n2510183662[53.1223329,23.9666235] n2510183664[53.1224045,23.9667861] n2510183671[53.1225269,23.9666365] n2510183666[53.1224553,23.9664739]
-w243637964  null / null / ул. Комарова
-  other tags : building=residential
+w243637964
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183663[53.1223355,23.9671083] n2510183668[53.1224843,23.9673903] n2510183665[53.1224097,23.9674997] n2510183659[53.1222609,23.9672177] n2510183663[53.1223355,23.9671083]
-w243637966  null / null / ул. Комарова
-  other tags : building=residential
+w243637966
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183686[53.1232045,23.9661104] n2510183684[53.1230887,23.9662963] n2510183685[53.1231716,23.9664395] n2510183687[53.1232873,23.9662537] n2510183686[53.1232045,23.9661104]
-w243637967  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w243637967
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2510183624[53.1213239,23.9706330] n2510183622[53.1212482,23.9707273] n2510183623[53.1213107,23.9708669] n2510183625[53.1213865,23.9707725] n2510183624[53.1213239,23.9706330]
-w243637968  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w243637968
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2510183628[53.1215111,23.9710273] n2510183626[53.1214346,23.9711168] n2510183627[53.1215020,23.9712766] n2510183630[53.1215784,23.9711871] n2510183628[53.1215111,23.9710273]
-w243637969  null / null / ул. Комарова
-  other tags : building=residential
+w243637969
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183616[53.1208727,23.9710204] n2510183610[53.1207616,23.9712018] n2510183604[53.1206944,23.9710874] n2510183613[53.1208055,23.9709061] n2510183616[53.1208727,23.9710204]
-w243637970  null / null / ул. Комарова
-  other tags : building=residential
+w243637970
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183690[53.1234944,23.9657928] n2510183688[53.1233659,23.9659642] n2510183689[53.1234537,23.9661471] n2510183691[53.1235823,23.9659757] n2510183690[53.1234944,23.9657928]
-w243637973  null / null / ул. Комарова
-  other tags : building=residential
+w243637973
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2510183680[53.1228237,23.9659639] n2510183675[53.1227158,23.9661045] n2510183679[53.1227891,23.9662608] n2510183683[53.1228970,23.9661202] n2510183680[53.1228237,23.9659639]
 w264560467  null / null / д. Кашенцы
   other tags : building=residential
@@ -1153,7 +1108,7 @@ w264563502
 w264563503
   other tags : addr:housenumber=15А | addr:street=Вороны | building=residential
     geometry : n2702281339[53.1240178,23.9539154] n2702281357[53.1241604,23.9539418] n2702281358[53.1241698,23.9538012] n2702281347[53.1241023,23.9537887] n2702281344[53.1240272,23.9537748] n2702281339[53.1240178,23.9539154]
-w264563504  null / null / ул. Юбилейная
+w264563504
   other tags : building=residential
     geometry : n2702281460[53.1258418,23.9621581] n2702281463[53.1259042,23.9623190] n2702281461[53.1258468,23.9623809] n2702281458[53.1258244,23.9623234] n2702281457[53.1257981,23.9623517] n2702281453[53.1257580,23.9622484] n2702281460[53.1258418,23.9621581]
 w264565901
@@ -1163,19 +1118,19 @@ w264565902
   other tags : addr:housenumber=10 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309666[53.1179992,23.9779863] n2702309668[53.1180025,23.9781603] n2702309647[53.1178980,23.9781658] n2702309646[53.1178948,23.9779918] n2702309666[53.1179992,23.9779863]
 w264565903
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=10 | addr:street=Восточная улица | building=residential
     geometry : n2702309846[53.1189865,23.9777752] n2702309849[53.1189914,23.9779915] n2702309782[53.1188757,23.9779988] n2702309777[53.1188707,23.9777826] n2702309846[53.1189865,23.9777752]
 w264565904
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=8 | addr:street=Восточная улица | building=residential
     geometry : n2702309844[53.1189804,23.9774146] n2702309848[53.1189831,23.9775764] n2702309797[53.1188852,23.9775810] n2702309792[53.1188825,23.9774191] n2702309844[53.1189804,23.9774146]
 w264565906
   other tags : addr:housenumber=15 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309722[53.1183537,23.9793065] n2702309720[53.1183505,23.9794618] n2702309691[53.1182424,23.9794555] n2702309692[53.1182456,23.9793003] n2702309722[53.1183537,23.9793065]
-w264565907  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Машерова | building=residential
+w264565907
+  other tags : addr:housenumber=8 | addr:street=улица Машерова | building=residential
     geometry : n2702310039[53.1208255,23.9738861] n2702310036[53.1207694,23.9737290] n2702310027[53.1206681,23.9738296] n2702310033[53.1207242,23.9739867] n2702310039[53.1208255,23.9738861]
 w264565908
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=9 | addr:street=Восточная улица | building=residential
     geometry : n2702309918[53.1193357,23.9769150] n2702309919[53.1193401,23.9771208] n2702309888[53.1191978,23.9771292] n2702309882[53.1191935,23.9769233] n2702309918[53.1193357,23.9769150]
 w264565909
   other tags : addr:housenumber=99 | addr:street=Советская улица | building=residential
@@ -1183,14 +1138,14 @@ w264565909
 w264565911
   other tags : building=residential
     geometry : n2702310152[53.1230042,23.9726794] n2702310155[53.1230296,23.9728907] n2702310144[53.1229366,23.9729217] n2702310141[53.1229112,23.9727104] n2702310152[53.1230042,23.9726794]
-w264565912  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565912
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310225[53.1240038,23.9729600] n2702310223[53.1239951,23.9731942] n2702310209[53.1238873,23.9731831] n2702310210[53.1238960,23.9729489] n2702310225[53.1240038,23.9729600]
-w264565913  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565913
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310123[53.1225483,23.9746478] n2702310126[53.1226306,23.9747815] n2702310122[53.1225438,23.9749300] n2702310118[53.1224615,23.9747963] n2702310123[53.1225483,23.9746478]
-w264565914  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565914
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310227[53.1240202,23.9715297] n2702310229[53.1240202,23.9717458] n2702310213[53.1239038,23.9717458] n2702310212[53.1239038,23.9715297] n2702310227[53.1240202,23.9715297]
 w264565915
   other tags : addr:housenumber=12 | addr:street=Октябрьская улица | building=residential
@@ -1198,20 +1153,20 @@ w264565915
 w264565916
   other tags : addr:housenumber=7 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309706[53.1183161,23.9776595] n2702309682[53.1182068,23.9776702] n2702309683[53.1182136,23.9778623] n2702309709[53.1183228,23.9778516] n2702309706[53.1183161,23.9776595]
-w264565917  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Машерова | building=residential
+w264565917
+  other tags : addr:housenumber=1 | addr:street=улица Машерова | building=residential
     geometry : n2702310017[53.1206271,23.9741074] n2702310024[53.1206870,23.9742581] n2702310012[53.1205818,23.9743743] n2702310009[53.1205219,23.9742236] n2702310017[53.1206271,23.9741074]
 w264565918
   other tags : building=residential
     geometry : n2702310188[53.1234186,23.9725390] n2702310186[53.1233895,23.9722923] n2702310173[53.1232694,23.9723317] n2702310175[53.1232985,23.9725784] n2702310188[53.1234186,23.9725390]
-w264565919  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565919
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310068[53.1217101,23.9714952] n2702310071[53.1217673,23.9717077] n2702310065[53.1216398,23.9718175] n2702310064[53.1215826,23.9715905] n2702310068[53.1217101,23.9714952]
 w264565920
   other tags : building=residential
     geometry : n2702310137[53.1228642,23.9716953] n2702310138[53.1228788,23.9718886] n2702310132[53.1227838,23.9719084] n2702310131[53.1227693,23.9717150] n2702310137[53.1228642,23.9716953]
-w264565921  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565921
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310171[53.1232672,23.9741570] n2702310176[53.1233364,23.9742997] n2702310164[53.1232155,23.9744626] n2702310160[53.1231463,23.9743199] n2702310171[53.1232672,23.9741570]
 w264565922
   other tags : addr:housenumber=107А | addr:street=Советская улица | building=residential
@@ -1219,89 +1174,89 @@ w264565922
 w264565924
   other tags : building=residential
     geometry : n2702310161[53.1231578,23.9730508] n2702310162[53.1231751,23.9732596] n2702310157[53.1230608,23.9732858] n2702310156[53.1230436,23.9730770] n2702310161[53.1231578,23.9730508]
-w264565925  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565925
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310102[53.1221975,23.9722411] n2702310104[53.1222602,23.9723562] n2702310099[53.1221842,23.9724714] n2702310095[53.1221215,23.9723563] n2702310102[53.1221975,23.9722411]
 w264565926
   other tags : building=residential
     geometry : n2702310185[53.1233790,23.9721746] n2702310183[53.1233526,23.9719512] n2702310170[53.1232296,23.9719915] n2702310172[53.1232559,23.9722149] n2702310185[53.1233790,23.9721746]
-w264565927  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Молодежная | building=residential
+w264565927
+  other tags : addr:housenumber=7 | addr:street=Молодежная улица | building=residential
     geometry : n2702309966[53.1199102,23.9739206] n2702309972[53.1199669,23.9740336] n2702309964[53.1198742,23.9741626] n2702309962[53.1198176,23.9740496] n2702309966[53.1199102,23.9739206]
 w264565928
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=11 | addr:street=Восточная улица | building=residential
     geometry : n2702309922[53.1193692,23.9773330] n2702309929[53.1193736,23.9775193] n2702309894[53.1192508,23.9775275] n2702309893[53.1192463,23.9773411] n2702309922[53.1193692,23.9773330]
-w264565929  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565929
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310128[53.1226965,23.9710825] n2702310125[53.1226162,23.9708837] n2702310120[53.1224938,23.9710209] n2702310124[53.1225741,23.9712198] n2702310128[53.1226965,23.9710825]
 w264565930
   other tags : addr:housenumber=105 | addr:street=Советская улица | building=residential
     geometry : n2702309619[53.1173991,23.9819853] n2702309621[53.1174017,23.9821867] n2702309607[53.1173226,23.9821896] n2702309606[53.1173199,23.9819882] n2702309619[53.1173991,23.9819853]
-w264565931  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Молодежная | building=residential
+w264565931
+  other tags : addr:housenumber=2 | addr:street=Молодежная улица | building=residential
     geometry : n2702309944[53.1194536,23.9752988] n2702309949[53.1195272,23.9754580] n2702309954[53.1196002,23.9753643] n2702309947[53.1195267,23.9752051] n2702309944[53.1194536,23.9752988]
 w264565932
   other tags : addr:housenumber=2 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309661[53.1179651,23.9762639] n2702309664[53.1179676,23.9765056] n2702309637[53.1178599,23.9765087] n2702309636[53.1178574,23.9762670] n2702309661[53.1179651,23.9762639]
-w264565933  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565933
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310108[53.1222930,23.9728300] n2702310111[53.1223656,23.9729580] n2702310105[53.1222798,23.9730933] n2702310100[53.1222071,23.9729653] n2702310108[53.1222930,23.9728300]
-w264565934  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565934
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310189[53.1233981,23.9705439] n2702310195[53.1234912,23.9705331] n2702310196[53.1234979,23.9706929] n2702310190[53.1234048,23.9707038] n2702310189[53.1233981,23.9705439]
-w264565935  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565935
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310072[53.1218180,23.9720168] n2702310073[53.1218304,23.9722184] n2702310067[53.1217162,23.9722379] n2702310066[53.1217037,23.9720364] n2702310072[53.1218180,23.9720168]
 w264565936
   other tags : addr:housenumber=6 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309657[53.1179773,23.9772004] n2702309653[53.1179749,23.9773669] n2702309638[53.1178902,23.9773636] n2702309639[53.1178926,23.9771970] n2702309657[53.1179773,23.9772004]
 w264565937
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=2 | addr:street=Восточная улица | building=residential
     geometry : n2702309821[53.1189506,23.9761943] n2702309822[53.1189530,23.9763911] n2702309751[53.1188077,23.9763961] n2702309747[53.1188052,23.9761993] n2702309821[53.1189506,23.9761943]
 w264565938
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=13 | addr:street=Восточная улица | building=residential
     geometry : n2702309933[53.1194110,23.9778007] n2702309936[53.1194161,23.9779834] n2702309899[53.1192763,23.9779943] n2702309897[53.1192712,23.9778116] n2702309933[53.1194110,23.9778007]
-w264565939  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Молодежная | building=residential
+w264565939
+  other tags : addr:housenumber=12 | addr:street=Молодежная улица | building=residential
     geometry : n2702310059[53.1212501,23.9736452] n2702310058[53.1212338,23.9734041] n2702310051[53.1211059,23.9734281] n2702310053[53.1211223,23.9736693] n2702310059[53.1212501,23.9736452]
 w264565940
   other tags : addr:housenumber=93 | addr:street=Советская улица | building=residential
     geometry : n2702309589[53.1172472,23.9791263] n2702309591[53.1172519,23.9792872] n2702309580[53.1171473,23.9792957] n2702309579[53.1171426,23.9791349] n2702309589[53.1172472,23.9791263]
-w264565941  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565941
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310089[53.1220606,23.9742992] n2702310090[53.1220653,23.9745151] n2702310081[53.1219531,23.9745219] n2702310080[53.1219484,23.9743060] n2702310089[53.1220606,23.9742992]
 w264565942
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=1 | addr:street=Восточная улица | building=residential
     geometry : n2702309932[53.1193702,23.9758261] n2702309931[53.1193588,23.9759806] n2702309884[53.1192052,23.9759491] n2702309890[53.1192166,23.9757946] n2702309932[53.1193702,23.9758261]
-w264565943  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Машерова | building=residential
+w264565943
+  other tags : addr:housenumber=11 | addr:street=улица Машерова | building=residential
     geometry : n2702310057[53.1212226,23.9758043] n2702310060[53.1212826,23.9759550] n2702310055[53.1211774,23.9760712] n2702310052[53.1211174,23.9759205] n2702310057[53.1212226,23.9758043]
-w264565944  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565944
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310076[53.1218803,23.9724959] n2702310077[53.1218848,23.9727275] n2702310070[53.1217641,23.9727341] n2702310069[53.1217596,23.9725035] n2702310076[53.1218803,23.9724959]
-w264565945  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Машерова | building=residential
+w264565945
+  other tags : addr:housenumber=13 | addr:street=улица Машерова | building=residential
     geometry : n2702310062[53.1213556,23.9760904] n2702310063[53.1214305,23.9762794] n2702310061[53.1213110,23.9764110] n2702310056[53.1212361,23.9762219] n2702310062[53.1213556,23.9760904]
 w264565947
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=12 | addr:street=Восточная улица | building=residential
     geometry : n2702309851[53.1190172,23.9781578] n2702309854[53.1190187,23.9783391] n2702309795[53.1188959,23.9783419] n2702309794[53.1188945,23.9781605] n2702309851[53.1190172,23.9781578]
-w264565948  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565948
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310231[53.1240438,23.9719577] n2702310232[53.1240450,23.9721775] n2702310219[53.1239417,23.9721791] n2702310217[53.1239405,23.9719593] n2702310231[53.1240438,23.9719577]
-w264565949  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565949
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310201[53.1236259,23.9705904] n2702310205[53.1237428,23.9706281] n2702310204[53.1237126,23.9708875] n2702310199[53.1235958,23.9708498] n2702310201[53.1236259,23.9705904]
 w264565950
   other tags : addr:housenumber=13 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309719[53.1183290,23.9789033] n2702309718[53.1183255,23.9791131] n2702309688[53.1182292,23.9791087] n2702309690[53.1182327,23.9788988] n2702309719[53.1183290,23.9789033]
-w264565951  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Молодежная | building=residential
+w264565951
+  other tags : addr:housenumber=10 | addr:street=Молодежная улица | building=residential
     geometry : n2702310049[53.1210499,23.9736932] n2702310046[53.1209991,23.9735118] n2702310040[53.1208772,23.9736065] n2702310043[53.1209280,23.9737880] n2702310049[53.1210499,23.9736932]
-w264565952  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565952
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310202[53.1236917,23.9737690] n2702310200[53.1236095,23.9736354] n2702310197[53.1235138,23.9737987] n2702310198[53.1235960,23.9739324] n2702310202[53.1236917,23.9737690]
-w264565953  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565953
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310130[53.1227545,23.9746848] n2702310133[53.1228281,23.9748186] n2702310129[53.1227502,23.9749377] n2702310127[53.1226765,23.9748038] n2702310130[53.1227545,23.9746848]
 w264565954
   other tags : addr:housenumber=3 | addr:street=Октябрьская улица | building=residential
@@ -1310,13 +1265,13 @@ w264565955
   other tags : addr:housenumber=14 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309675[53.1180394,23.9791357] n2702309674[53.1180345,23.9793306] n2702309662[53.1179658,23.9793258] n2702309665[53.1179706,23.9791309] n2702309675[53.1180394,23.9791357]
 w264565956
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=16 | addr:street=Восточная улица | building=residential
     geometry : n2702309856[53.1190199,23.9785352] n2702309857[53.1190202,23.9787282] n2702309802[53.1188928,23.9787288] n2702309800[53.1188924,23.9785359] n2702309856[53.1190199,23.9785352]
-w264565957  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565957
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310235[53.1240717,23.9724790] n2702310234[53.1240623,23.9727094] n2702310214[53.1239412,23.9726957] n2702310216[53.1239506,23.9724653] n2702310235[53.1240717,23.9724790]
-w264565958  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565958
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310221[53.1239437,23.9709408] n2702310233[53.1240300,23.9710977] n2702310215[53.1239132,23.9712762] n2702310208[53.1238268,23.9711193] n2702310221[53.1239437,23.9709408]
 w264565959
   other tags : building=residential
@@ -1324,17 +1279,17 @@ w264565959
 w264565960
   other tags : building=residential
     geometry : n2702310193[53.1234538,23.9728684] n2702310192[53.1234363,23.9726643] n2702310178[53.1233126,23.9726938] n2702310180[53.1233301,23.9728978] n2702310193[53.1234538,23.9728684]
-w264565961  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565961
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310194[53.1235128,23.9740329] n2702310187[53.1233954,23.9742066] n2702310177[53.1233259,23.9740762] n2702310191[53.1234433,23.9739026] n2702310194[53.1235128,23.9740329]
-w264565962  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Молодежная | building=residential
+w264565962
+  other tags : addr:housenumber=4 | addr:street=Молодежная улица | building=residential
     geometry : n2702309976[53.1200257,23.9746164] n2702309984[53.1201041,23.9747666] n2702309974[53.1200147,23.9748962] n2702309968[53.1199363,23.9747460] n2702309976[53.1200257,23.9746164]
 w264565963
   other tags : building=residential
     geometry : n2702310181[53.1233303,23.9729793] n2702310166[53.1231968,23.9730310] n2702310169[53.1232229,23.9732187] n2702310184[53.1233564,23.9731671] n2702310181[53.1233303,23.9729793]
-w264565964  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565964
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310147[53.1229701,23.9744871] n2702310153[53.1230382,23.9746439] n2702310143[53.1229411,23.9747611] n2702310136[53.1228730,23.9746042] n2702310147[53.1229701,23.9744871]
 w264565965
   other tags : addr:housenumber=107 | addr:street=Советская улица | building=residential
@@ -1343,19 +1298,19 @@ w264565967
   other tags : building=residential
     geometry : n2702310182[53.1233332,23.9718758] n2702310179[53.1233159,23.9716234] n2702310165[53.1231992,23.9716457] n2702310168[53.1232165,23.9718981] n2702310182[53.1233332,23.9718758]
 w264565968
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=20 | addr:street=Восточная улица | building=residential
     geometry : n2702309865[53.1191312,23.9791956] n2702309866[53.1191312,23.9793419] n2702309826[53.1189642,23.9793419] n2702309825[53.1189642,23.9791956] n2702309865[53.1191312,23.9791956]
-w264565969  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565969
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310154[53.1230199,23.9708429] n2702310158[53.1230781,23.9709707] n2702310148[53.1229724,23.9711044] n2702310142[53.1229142,23.9709767] n2702310154[53.1230199,23.9708429]
-w264565970  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565970
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310119[53.1224886,23.9713571] n2702310114[53.1223972,23.9711653] n2702310106[53.1222991,23.9712950] n2702310113[53.1223905,23.9714868] n2702310119[53.1224886,23.9713571]
-w264565972  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565972
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310112[53.1223733,23.9733861] n2702310117[53.1224382,23.9735194] n2702310110[53.1223555,23.9736310] n2702310107[53.1222906,23.9734977] n2702310112[53.1223733,23.9733861]
-w264565973  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Молодежная | building=residential
+w264565973
+  other tags : addr:housenumber=3 | addr:street=Молодежная улица | building=residential
     geometry : n2702309945[53.1194947,23.9746728] n2702309942[53.1194383,23.9745499] n2702309916[53.1193395,23.9746760] n2702309934[53.1193960,23.9747988] n2702309945[53.1194947,23.9746728]
 w264565974
   other tags : addr:housenumber=9 | addr:street=Октябрьская улица | building=residential
@@ -1363,35 +1318,35 @@ w264565974
 w264565975
   other tags : addr:housenumber=8 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309660[53.1179790,23.9775825] n2702309655[53.1179752,23.9777619] n2702309641[53.1178938,23.9777571] n2702309642[53.1178976,23.9775778] n2702309660[53.1179790,23.9775825]
-w264565976  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w264565976
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2702310167[53.1231964,23.9705635] n2702310174[53.1232753,23.9707279] n2702310163[53.1231761,23.9708601] n2702310159[53.1230972,23.9706957] n2702310167[53.1231964,23.9705635]
-w264565977  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565977
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310103[53.1221992,23.9716774] n2702310094[53.1221180,23.9715026] n2702310084[53.1219899,23.9716676] n2702310091[53.1220711,23.9718425] n2702310103[53.1221992,23.9716774]
-w264565978  null / null / ул. Комарова
-  other tags : building=residential
+w264565978
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702309732[53.1186261,23.9741159] n2702309730[53.1185676,23.9739898] n2702309726[53.1184863,23.9740945] n2702309727[53.1185447,23.9742205] n2702309732[53.1186261,23.9741159]
-w264565979  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Машерова | building=residential
+w264565979
+  other tags : addr:housenumber=9 | addr:street=улица Машерова | building=residential
     geometry : n2702310050[53.1210644,23.9753949] n2702310054[53.1211243,23.9755456] n2702310048[53.1210191,23.9756617] n2977394956[53.1209981,23.9756090] n2702310045[53.1209592,23.9755111] n2702310050[53.1210644,23.9753949]
-w264565980  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w264565980
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2702310116[53.1224325,23.9739620] n2702310121[53.1225111,23.9741183] n2702310115[53.1224159,23.9742511] n2702310109[53.1223374,23.9740947] n2702310116[53.1224325,23.9739620]
 w264565982
   other tags : addr:housenumber=11 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309710[53.1183156,23.9784813] n2702309684[53.1182063,23.9784920] n2702309686[53.1182131,23.9786841] n2702309712[53.1183224,23.9786734] n2702309710[53.1183156,23.9784813]
 w264565984
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Молодежная | building=residential
+  other tags : addr:housenumber=17 | addr:street=Молодежная улица | building=residential
     geometry : n2702309723[53.1183595,23.9796358] n2702309724[53.1183615,23.9798417] n2702309698[53.1182496,23.9798448] n2702309696[53.1182476,23.9796389] n2702309723[53.1183595,23.9796358]
 w264565985
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2а | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=2а | addr:street=Восточная улица | building=residential
     geometry : n2702309775[53.1188718,23.9756327] n2702309820[53.1189392,23.9757923] n2702309766[53.1188516,23.9758950] n2702309745[53.1187842,23.9757355] n2702309775[53.1188718,23.9756327]
-w264565987  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Машерова | building=residential
+w264565987
+  other tags : addr:housenumber=5 | addr:street=улица Машерова | building=residential
     geometry : n2702310038[53.1208505,23.9748838] n2702310042[53.1209104,23.9750345] n2702310035[53.1208052,23.9751507] n2702310032[53.1207453,23.9750000] n2702310038[53.1208505,23.9748838]
 w264565989
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=18 | addr:street=Восточная улица | building=residential
     geometry : n2702309860[53.1191002,23.9788125] n2702309862[53.1191032,23.9790206] n2702309842[53.1189910,23.9790252] n2702309840[53.1189902,23.9789713] n2702309815[53.1189404,23.9789733] n2702309807[53.1189381,23.9788191] n2702309860[53.1191002,23.9788125]
 w264565990
   other tags : addr:housenumber=101 | addr:street=Советская улица | building=residential
@@ -1399,83 +1354,83 @@ w264565990
 w264565991  null / null / ул. Советская
   other tags : addr:housenumber=97 | addr:street=Советская улица | building=residential
     geometry : n2702309603[53.1173098,23.9799651] n2702309604[53.1173134,23.9800584] n2702309594[53.1172857,23.9800614] n2702309596[53.1172895,23.9801587] n2702309585[53.1171943,23.9801690] n2702309584[53.1171868,23.9799783] n2702309603[53.1173098,23.9799651]
-w264565992  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Молодежная | building=residential
+w264565992
+  other tags : addr:housenumber=1 | addr:street=Молодежная улица | building=residential
     geometry : n2702309901[53.1192721,23.9750218] n2702309892[53.1192413,23.9750615] n2702309895[53.1192598,23.9751011] n2702309876[53.1192029,23.9751746] n2702309868[53.1191306,23.9750196] n2702309886[53.1192183,23.9749062] n2702309901[53.1192721,23.9750218]
-w264565993  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Молодежная | building=residential
+w264565993
+  other tags : addr:housenumber=9 | addr:street=Молодежная улица | building=residential
     geometry : n2702309979[53.1200800,23.9737022] n2702309988[53.1201349,23.9738283] n2726564288[53.1200822,23.9738908] n2702309986[53.1201149,23.9739535] n2702309978[53.1200537,23.9740274] n2702309970[53.1199700,23.9738351] n2702309979[53.1200800,23.9737022]
-w264565994  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Молодежная | building=residential
+w264565994
+  other tags : addr:housenumber=5 | addr:street=Молодежная улица | building=residential
     geometry : n2702309958[53.1197755,23.9744143] n2702309952[53.1197295,23.9744747] n2702309946[53.1196376,23.9742806] n2702309950[53.1197165,23.9741770] n2702309960[53.1197831,23.9743177] n2702309956[53.1197502,23.9743608] n2702309958[53.1197755,23.9744143]
 w264565995
   other tags : addr:housenumber=1 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309694[53.1182581,23.9762005] n2702309695[53.1182590,23.9762550] n2702309705[53.1183034,23.9762530] n2702309707[53.1183062,23.9764265] n2702309677[53.1181560,23.9764331] n2702309676[53.1181524,23.9762052] n2702309694[53.1182581,23.9762005]
 w264565996
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=6 | addr:street=Восточная улица | building=residential
     geometry : n2702309832[53.1189491,23.9770741] n2702309838[53.1189577,23.9772666] n2702309784[53.1188616,23.9772784] n2702309779[53.1188568,23.9771701] n2702309770[53.1188368,23.9771726] n2702309767[53.1188331,23.9770883] n2702309832[53.1189491,23.9770741]
 w264565998
   other tags : addr:housenumber=4 | addr:street=Октябрьская улица | building=residential
     geometry : n2702309659[53.1179735,23.9767915] n2702309656[53.1179715,23.9769885] n2702309633[53.1178301,23.9769844] n2702309634[53.1178313,23.9768683] n2702309643[53.1179016,23.9768703] n2702309644[53.1179024,23.9767895] n2702309659[53.1179735,23.9767915]
-w264566000  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Молодежная | building=residential
+w264566000
+  other tags : addr:housenumber=11 | addr:street=Молодежная улица | building=residential
     geometry : n2702309992[53.1202253,23.9734548] n2702309997[53.1202780,23.9735570] n2702309993[53.1202346,23.9736193] n2702309995[53.1202738,23.9736953] n2702309990[53.1202030,23.9737968] n2702309985[53.1201110,23.9736186] n2702309992[53.1202253,23.9734548]
-w264566001  null / null / ул.Молодежная
+w264566001
   other tags : building=residential
     geometry : n2702309834[53.1189475,23.9749082] n2702309817[53.1189122,23.9748294] n2702309772[53.1188374,23.9749223] n2702309805[53.1188950,23.9750512] n2702309836[53.1189505,23.9749822] n2702309824[53.1189281,23.9749322] n2702309834[53.1189475,23.9749082]
-w264566002  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Молодежная | building=residential
+w264566002
+  other tags : addr:housenumber=13 | addr:street=Молодежная улица | building=residential
     geometry : n2702310005[53.1204643,23.9733798] n2702309999[53.1204012,23.9732432] n2702309994[53.1202803,23.9733982] n2702309998[53.1203793,23.9736125] n2702310003[53.1204555,23.9735148] n2702310001[53.1204196,23.9734372] n2702310005[53.1204643,23.9733798]
 w264566004
   other tags : addr:housenumber=99А | addr:street=Советская улица | building=residential
     geometry : n2702309617[53.1173986,23.9809080] n2702309618[53.1173993,23.9809594] n2702309623[53.1174256,23.9809584] n2702309624[53.1174274,23.9810883] n2702309599[53.1172991,23.9810932] n2702309597[53.1172966,23.9809118] n2702309612[53.1173647,23.9809093] n2702309617[53.1173986,23.9809080]
-w264566005  null / null / ул.Молодежная
+w264566005
   other tags : building=residential
     geometry : n2702309765[53.1188215,23.9745300] n2702309748[53.1187893,23.9744483] n2702309742[53.1187577,23.9744830] n2702309739[53.1187284,23.9744088] n2702309734[53.1186601,23.9744836] n2702309741[53.1187388,23.9746833] n2702309758[53.1188002,23.9746161] n2702309746[53.1187829,23.9745723] n2702309765[53.1188215,23.9745300]
-w264566006  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19 | addr:street=ул. Молодежная | building=residential
-    geometry : n2702310013[53.1205928,23.9730642] n2702310010[53.1205652,23.9730023] n2702310019[53.1206402,23.9729096] n2702310025[53.1206934,23.9730290]
+w264566006
+  other tags : addr:housenumber=19 | addr:street=Молодежная улица | building=residential
+    geometry : n2702310013[53.1205938,23.9730620] n2702310010[53.1205664,23.9730017] n2702310019[53.1206396,23.9729094] n2702310025[53.1206935,23.9730280] n2702310015[53.1206202,23.9731203] n2702310013[53.1205938,23.9730620]
 w264566007
-  other tags : addr:city=а.г Пограничный | addr:street=Восточная | building=residential
+  other tags : addr:street=Восточная улица | building=residential
     geometry : n2702309867[53.1191407,23.9794680] n2702309874[53.1192047,23.9795958] n2702309870[53.1191497,23.9796723] n2702309872[53.1191689,23.9797107] n2702309864[53.1191357,23.9797568] n2702309863[53.1191150,23.9797154] n2702309858[53.1190882,23.9797526] n2702309850[53.1190257,23.9796277] n2702309867[53.1191407,23.9794680]
 w264566008
-  other tags : addr:city=а.г Пограничный | addr:housenumber=15 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=15 | addr:street=Восточная улица | building=residential
     geometry : n2702309940[53.1194236,23.9782651] n2702309938[53.1194207,23.9784798] n2702309927[53.1193782,23.9784782] n2702309926[53.1193775,23.9785345] n2702309910[53.1193193,23.9785324] n2702309911[53.1193199,23.9784846] n2702309903[53.1192994,23.9784839] n2702309905[53.1193023,23.9782606] n2702309940[53.1194236,23.9782651]
 w264566009
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=7 | addr:street=Восточная улица | building=residential
     geometry : n2702309920[53.1193682,23.9766196] n2702309924[53.1193699,23.9767080] n2702309907[53.1193026,23.9767115] n2702309909[53.1193033,23.9767465] n2702309880[53.1192170,23.9767510] n2702309878[53.1192133,23.9765523] n2702309912[53.1193287,23.9765462] n2702309914[53.1193302,23.9766216] n2702309920[53.1193682,23.9766196]
-w264581405  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=4 | addr:street=Северная | building=residential
+w264581405
+  other tags : addr:housenumber=4 | addr:street=Северная улица | building=residential
     geometry : n2702435152[53.1199102,23.9698616] n2702435165[53.1200028,23.9698616] n2702435166[53.1200028,23.9700242] n2702435153[53.1199102,23.9700242] n2702435152[53.1199102,23.9698616]
-w264581406  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=ул. Машерова | building=residential
+w264581406
+  other tags : addr:housenumber=18 | addr:street=улица Машерова | building=residential
     geometry : n2702435245[53.1206295,23.9760166] n2702435258[53.1207002,23.9761808] n2702435238[53.1205745,23.9763312] n2702435221[53.1205037,23.9761669] n2702435245[53.1206295,23.9760166]
 w264581408
   other tags : building=residential
     geometry : n2702434707[53.1166602,23.9751315] n2702434710[53.1166670,23.9752910] n2702434701[53.1165577,23.9753041] n2702434695[53.1165509,23.9751446] n2702434707[53.1166602,23.9751315]
-w264581410  null / null / ул. Юбилейная
+w264581410
   other tags : addr:housenumber=18А | addr:street=Юбилейная улица | building=residential
     geometry : n2702435313[53.1212769,23.9653644] n2702435314[53.1212886,23.9655489] n2702435308[53.1212030,23.9655640] n2702435307[53.1211914,23.9653795] n2702435313[53.1212769,23.9653644]
 w264581411
   other tags : addr:housenumber=24 | addr:street=Советская улица | building=residential
     geometry : n2702434709[53.1166356,23.9791487] n2702434708[53.1166249,23.9789449] n2702434698[53.1165208,23.9789600] n2973033981[53.1165239,23.9790190] n2702434700[53.1165315,23.9791639] n2702434709[53.1166356,23.9791487]
-w264581412  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=3 | addr:street=Северная | building=residential
+w264581412
+  other tags : addr:housenumber=3 | addr:street=Северная улица | building=residential
     geometry : n2702435094[53.1197376,23.9706843] n2702435083[53.1197254,23.9705019] n2702435048[53.1195934,23.9705264] n2702435050[53.1196056,23.9707088] n2702435094[53.1197376,23.9706843]
 w264581413
   other tags : addr:housenumber=75 | addr:street=Советская улица | building=residential
     geometry : n2702434747[53.1170982,23.9737524] n2702434750[53.1171014,23.9740248] n2702434729[53.1170161,23.9740276] n2702434728[53.1170129,23.9737552] n2702434747[53.1170982,23.9737524]
-w264581414  null / null / ул. Юбилейная
+w264581414
   other tags : addr:housenumber=2 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702434908[53.1183247,23.9644819] n2702434906[53.1183002,23.9646511] n2702434894[53.1182250,23.9646208] n2702434896[53.1182495,23.9644517] n2702434908[53.1183247,23.9644819]
+    geometry : n2702434908[53.1183332,23.9644108] n2702434906[53.1183087,23.9645800] n2702434894[53.1182335,23.9645497] n2702434896[53.1182580,23.9643806] n2702434908[53.1183332,23.9644108]
 w264581415  null / null / ул. Советская
   other tags : addr:housenumber=29 | addr:street=Советская улица | building=residential
     geometry : n2702434854[53.1177153,23.9629862] n2702434858[53.1177963,23.9630191] n2702434857[53.1177721,23.9631847] n2702434853[53.1176911,23.9631519] n2702434854[53.1177153,23.9629862]
 w264581417  null / null / ул. Советская
   other tags : addr:street=Советская улица | building=residential
     geometry : n2702434935[53.1184742,23.9590936] n2702434934[53.1184694,23.9592155] n2702434909[53.1183182,23.9591991] n2702434910[53.1183230,23.9590771] n2702434935[53.1184742,23.9590936]
-w264581418  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=18 | addr:street=Северная | building=residential
+w264581418
+  other tags : addr:housenumber=18 | addr:street=Северная улица | building=residential
     geometry : n2702435114[53.1197713,23.9661497] n2702435118[53.1197745,23.9662778] n2702435070[53.1196453,23.9662867] n2702435067[53.1196421,23.9661586] n2702435114[53.1197713,23.9661497]
 w264581419
   other tags : addr:housenumber=89 | addr:street=Советская улица | building=residential
@@ -1483,19 +1438,19 @@ w264581419
 w264581420
   other tags : addr:housenumber=113 | addr:street=Советская улица | building=residential
     geometry : n2702434827[53.1173355,23.9840144] n2702434828[53.1173394,23.9842339] n2702434839[53.1174297,23.9842294] n2702434837[53.1174258,23.9840100] n2702434827[53.1173355,23.9840144]
-w264581421  null / null / ул. Комарова
-  other tags : building=residential
+w264581421
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435183[53.1201169,23.9710946] n2702435174[53.1200554,23.9709851] n2702435159[53.1199699,23.9711184] n2702435172[53.1200314,23.9712278] n2702435183[53.1201169,23.9710946]
-w264581423  null / null / ул. Юбилейная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=22 | addr:street=Северная | building=residential
+w264581423
+  other tags : addr:housenumber=22 | addr:street=Северная улица | building=residential
     geometry : n2702435076[53.1197133,23.9654032] n2702435071[53.1196923,23.9652166] n2702435041[53.1195701,23.9652547] n2702435046[53.1195911,23.9654413] n2702435076[53.1197133,23.9654032]
-w264581424  null / null / ул. Юбилейная
+w264581424
   other tags : building=residential
     geometry : n2702435542[53.1251992,23.9629572] n2702435544[53.1252652,23.9631911] n2702435543[53.1252032,23.9632396] n2702435541[53.1251372,23.9630057] n2702435542[53.1251992,23.9629572]
-w264581425  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Машерова | building=residential
+w264581425
+  other tags : addr:housenumber=12 | addr:street=улица Машерова | building=residential
     geometry : n2702435163[53.1200218,23.9767550] n2702435175[53.1200923,23.9769024] n2702435158[53.1199881,23.9770408] n2702435150[53.1199176,23.9768935] n2702435163[53.1200218,23.9767550]
-w264581426  null / null / ул. Юбилейная
+w264581426
   other tags : addr:housenumber=3А | addr:street=Юбилейная улица | building=residential
     geometry : n2702434903[53.1182554,23.9652285] n2702434904[53.1182554,23.9654297] n2702434890[53.1181712,23.9654297] n2702434889[53.1181712,23.9652285] n2702434903[53.1182554,23.9652285]
 w264581428  null / null / ул. Советская
@@ -1504,44 +1459,44 @@ w264581428  null / null / ул. Советская
 w264581429  null / null / ул. Советская
   other tags : addr:housenumber=20 | addr:street=Советская улица | building=residential
     geometry : n2702434703[53.1165717,23.9780366] n2702434696[53.1165160,23.9779172] n2702434693[53.1163305,23.9781576] n2702434694[53.1163862,23.9782770] n2702434703[53.1165717,23.9780366]
-w264581430  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=5 | addr:street=Северная | building=residential
+w264581430
+  other tags : addr:housenumber=5 | addr:street=Северная улица | building=residential
     geometry : n2702435092[53.1197152,23.9703645] n2702435085[53.1197122,23.9701211] n2702435058[53.1196145,23.9701244] n2702435064[53.1196174,23.9703677] n2702435092[53.1197152,23.9703645]
-w264581431  null / null / ул. Юбилейная
+w264581431
   other tags : addr:housenumber=4 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702434942[53.1185495,23.9645545] n2702434941[53.1185425,23.9647250] n2702434936[53.1184851,23.9647185] n2702434937[53.1184921,23.9645479] n2702434942[53.1185495,23.9645545]
+    geometry : n2702434942[53.1185538,23.9644763] n2702434941[53.1185468,23.9646468] n2702434936[53.1184894,23.9646403] n2702434937[53.1184964,23.9644697] n2702434942[53.1185538,23.9644763]
 w264581433  null / null / ул. Советская
   other tags : addr:housenumber=53 | addr:street=Советская улица | building=residential
     geometry : n2702434727[53.1169623,23.9687244] n2702434740[53.1170124,23.9688242] n2702434720[53.1169235,23.9689480] n2702434717[53.1168734,23.9688482] n2702434727[53.1169623,23.9687244]
 w264581434  null / null / ул. Советская
   other tags : building=residential
     geometry : n2702434931[53.1184471,23.9586382] n2702434932[53.1184483,23.9588088] n2702434915[53.1183385,23.9588109] n2702434914[53.1183374,23.9586403] n2702434931[53.1184471,23.9586382]
-w264581435  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=Пушкина | building=residential
+w264581435  null / null / улица Пушкина
+  other tags : addr:housenumber=6 | addr:street=улица Пушкина | building=residential
     geometry : n2702435259[53.1207114,23.9682494] n2702435261[53.1207203,23.9684768] n2702435240[53.1205959,23.9684904] n2702435239[53.1205869,23.9682630] n2702435259[53.1207114,23.9682494]
 w264581436  null / null / ул. Советская
   other tags : addr:housenumber=27 | addr:street=Советская улица | building=residential
-    geometry : n2702434862[53.1179547,23.9623783] n2702434863[53.1179572,23.9626103] n2702434860[53.1178330,23.9626141] n2702434859[53.1178305,23.9623822] n2702434862[53.1179547,23.9623783]
-w264581437  null / null / ул. Юбилейная
+    geometry : n2702434862[53.1179760,23.9623143] n2702434863[53.1179785,23.9625463] n2702434860[53.1178543,23.9625501] n2702434859[53.1178518,23.9623182] n2702434862[53.1179760,23.9623143]
+w264581437
   other tags : addr:housenumber=8 | addr:street=Юбилейная улица | building=residential
     geometry : n2702434969[53.1190015,23.9646188] n2702434976[53.1191283,23.9646156] n2702434975[53.1191266,23.9644266] n2702434968[53.1189998,23.9644298] n2702434969[53.1190015,23.9646188]
-w264581438  null / null / ул. Юбилейная
+w264581438
   other tags : addr:housenumber=30 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435404[53.1227104,23.9641300] n2702435407[53.1227706,23.9643372] n2702435401[53.1226743,23.9644150] n2702435398[53.1226141,23.9642078] n2702435404[53.1227104,23.9641300]
-w264581439  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=12 | addr:street=Северная | building=residential
+w264581439
+  other tags : addr:housenumber=12 | addr:street=Северная улица | building=residential
     geometry : n2702435135[53.1198335,23.9676480] n2702435136[53.1198355,23.9678087] n2702435119[53.1197576,23.9678114] n2702435116[53.1197556,23.9676507] n2702435135[53.1198335,23.9676480]
-w264581440  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=2 | addr:street=Северная | building=residential
+w264581440
+  other tags : addr:housenumber=2 | addr:street=Северная улица | building=residential
     geometry : n2702435161[53.1200049,23.9704939] n2702435168[53.1200432,23.9706413] n2702435156[53.1199683,23.9706953] n2702435151[53.1199300,23.9705480] n2702435161[53.1200049,23.9704939]
 w264581441  null / null / ул. Советская
   other tags : building=residential
     geometry : n2702434929[53.1183662,23.9579021] n2702434927[53.1183567,23.9580435] n2702434918[53.1182879,23.9580307] n2702434921[53.1182974,23.9578894] n2702434929[53.1183662,23.9579021]
-w264581442  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=23 | addr:street=Северная | building=residential
+w264581442
+  other tags : addr:housenumber=23 | addr:street=Северная улица | building=residential
     geometry : n2702435015[53.1194392,23.9664585] n2702435010[53.1194355,23.9663166] n2702434990[53.1193243,23.9663246] n2702434992[53.1193280,23.9664665] n2702435015[53.1194392,23.9664585]
-w264581443  null / null / ул. Комарова
-  other tags : building=residential
+w264581443
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435026[53.1195067,23.9728603] n2702435043[53.1195747,23.9730120] n2702435025[53.1194926,23.9731141] n2702435016[53.1194246,23.9729623] n2702435026[53.1195067,23.9728603]
 w264581444
   other tags : addr:housenumber=85 | addr:street=Советская улица | building=residential
@@ -1549,18 +1504,18 @@ w264581444
 w264581445  null / null / ул. Советская
   other tags : addr:housenumber=33 | addr:street=Советская улица | building=residential
     geometry : n2702434846[53.1176278,23.9636598] n2702434852[53.1177090,23.9637196] n2702434850[53.1176791,23.9638322] n2702434844[53.1175979,23.9637724] n2702434846[53.1176278,23.9636598]
-w264581447  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=17 | addr:street=Северная | building=residential
+w264581447
+  other tags : addr:housenumber=17 | addr:street=Северная улица | building=residential
     geometry : n2702435029[53.1195199,23.9675949] n2702435028[53.1195184,23.9678285] n2702435017[53.1194319,23.9678270] n2702435018[53.1194334,23.9675933] n2702435029[53.1195199,23.9675949]
-w264581448  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=Пушкина | building=residential
+w264581448  null / null / улица Пушкина
+  other tags : addr:housenumber=1 | addr:street=улица Пушкина | building=residential
     geometry : n2702435241[53.1206135,23.9662477] n2702435243[53.1206288,23.9664955] n2702435225[53.1205165,23.9665147] n2702435220[53.1205012,23.9662669] n2702435241[53.1206135,23.9662477]
 w264581449  null / null / ул. Советская
   other tags : addr:housenumber=15 | addr:street=Советская улица | building=residential
     geometry : n2702434905[53.1182791,23.9601445] n2702434900[53.1182565,23.9603017] n2702434885[53.1181777,23.9602703] n2702434891[53.1182003,23.9601130] n2702434905[53.1182791,23.9601445]
-w264581451  null / null / ул. Юбилейная
+w264581451
   other tags : addr:housenumber=1 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702434865[53.1179847,23.9645922] n2702434873[53.1180718,23.9646399] n2702434879[53.1181017,23.9644885] n2702434868[53.1180146,23.9644408] n2702434865[53.1179847,23.9645922]
+    geometry : n2702434865[53.1180018,23.9645353] n2702434873[53.1180889,23.9645830] n2702434879[53.1181188,23.9644316] n2702434868[53.1180317,23.9643839] n2702434865[53.1180018,23.9645353]
 w264581452  null / null / ул. Советская
   other tags : addr:housenumber=31 | addr:street=Советская улица | building=residential
     geometry : n2702434856[53.1177633,23.9632723] n2702434855[53.1177466,23.9633853] n2702434849[53.1176657,23.9633522] n2702434851[53.1176824,23.9632392] n2702434856[53.1177633,23.9632723]
@@ -1570,32 +1525,32 @@ w264581454
 w264581455  null / null / ул. Советская
   other tags : addr:housenumber=11 | addr:street=Советская улица | building=residential
     geometry : n2702434923[53.1184153,23.9593816] n2702434922[53.1183925,23.9595607] n2702434902[53.1182707,23.9595175] n2702434907[53.1182936,23.9593384] n2702434923[53.1184153,23.9593816]
-w264581456  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=16 | addr:street=Северная | building=residential
+w264581456
+  other tags : addr:housenumber=16 | addr:street=Северная улица | building=residential
     geometry : n2702435140[53.1199006,23.9665974] n2702435142[53.1199033,23.9667114] n2702435125[53.1198144,23.9667171] n2702435124[53.1198117,23.9666031] n2702435140[53.1199006,23.9665974]
-w264581457  null / null / Жилой дом
+w264581457
   other tags : addr:housenumber=22 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702435330[53.1215513,23.9648028] n2702435332[53.1215682,23.9649311] n2702435323[53.1214575,23.9649719] n2702435322[53.1214405,23.9648436] n2702435330[53.1215513,23.9648028]
+    geometry : n2702435330[53.1215812,23.9647673] n2702435332[53.1215981,23.9648956] n2702435323[53.1214874,23.9649364] n2702435322[53.1214704,23.9648081] n2702435330[53.1215812,23.9647673]
 w264581458
   other tags : addr:housenumber=16 | addr:street=Советская улица | building=residential
     geometry : n2702434715[53.1166850,23.9763616] n2702434714[53.1166884,23.9767207] n2702434704[53.1165740,23.9767238] n2702434705[53.1165706,23.9763645] n2702434715[53.1166850,23.9763616]
-w264581459  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=Пушкина | building=residential
+w264581459  null / null / улица Пушкина
+  other tags : addr:housenumber=5 | addr:street=улица Пушкина | building=residential
     geometry : n2702435254[53.1206953,23.9677863] n2702435255[53.1207063,23.9680015] n2702435235[53.1205794,23.9680196] n2702435231[53.1205684,23.9678045] n2702435254[53.1206953,23.9677863]
 w264581460
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=Тиунчика-Орловских | building=residential
+  other tags : addr:housenumber=8 | addr:street=улица Тиунчика-Орловских | building=residential
     geometry : n2702435482[53.1238035,23.9608767] n2702435487[53.1238556,23.9611375] n2702435478[53.1237196,23.9612131] n2702435476[53.1236674,23.9609523] n2702435482[53.1238035,23.9608767]
-w264581464  null / null / Жилой дом
-  other tags : addr:city=а.г Пограничный | addr:housenumber=22 | addr:street=ул. Машерова | building=residential
+w264581464
+  other tags : addr:housenumber=22 | addr:street=улица Машерова | building=residential
     geometry : n2702435283[53.1209713,23.9769861] n2702435295[53.1210390,23.9771372] n2702435278[53.1209338,23.9772679] n2702435269[53.1208662,23.9771168] n2702435283[53.1209713,23.9769861]
-w264581465  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=1 | addr:street=Северная | building=residential
+w264581465
+  other tags : addr:housenumber=1 | addr:street=Северная улица | building=residential
     geometry : n2702435112[53.1197630,23.9711570] n2702435110[53.1197585,23.9709241] n2702435066[53.1196337,23.9709308] n2702435069[53.1196382,23.9711637] n2702435112[53.1197630,23.9711570]
-w264581467  null / null / ул. Юбилейная
+w264581467
   other tags : addr:housenumber=33 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435459[53.1232352,23.9639321] n2702435463[53.1232896,23.9641406] n2702435456[53.1231889,23.9642137] n2702435450[53.1231344,23.9640051] n2702435459[53.1232352,23.9639321]
-w264581468  null / null / ул. Комарова
-  other tags : building=residential
+w264581468
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435134[53.1198682,23.9721926] n2702435147[53.1199285,23.9723368] n2702435132[53.1198541,23.9724232] n2702435108[53.1197938,23.9722790] n2702435134[53.1198682,23.9721926]
 w264581469  null / null / ул. Советская
   other tags : addr:housenumber=75 | addr:street=Советская улица | building=residential
@@ -1604,148 +1559,148 @@ w264581470
   other tags : addr:housenumber=83 | addr:street=Советская улица | building=residential
     geometry : n2702434800[53.1172034,23.9771293] n2702434801[53.1172053,23.9772692] n2702434752[53.1170825,23.9772738] n2702434751[53.1170806,23.9771339] n2702434800[53.1172034,23.9771293]
 w264581471
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Новая | building=residential
+  other tags : addr:housenumber=8 | addr:street=Новая улица | building=residential
     geometry : n2702435230[53.1205553,23.9775474] n2702435247[53.1206398,23.9777199] n2702435227[53.1205413,23.9778538] n2702435216[53.1204568,23.9776812] n2702435230[53.1205553,23.9775474]
 w264581472
   other tags : addr:housenumber=61 | addr:street=Советская улица | building=residential
     geometry : n2702434764[53.1171147,23.9710653] n2702434742[53.1170489,23.9711751] n2702434726[53.1169782,23.9710572] n2702434741[53.1170440,23.9709475] n2702434764[53.1171147,23.9710653]
-w264581473  null / null / ул. Юбилейная
+w264581473
   other tags : addr:housenumber=37 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435504[53.1241232,23.9635238] n2702435507[53.1241699,23.9637620] n2702435500[53.1240665,23.9638183] n2702435498[53.1240198,23.9635801] n2702435504[53.1241232,23.9635238]
 w264581475
   other tags : addr:housenumber=81 | addr:street=Советская улица | building=residential
     geometry : n2702434765[53.1170955,23.9762890] n2702434766[53.1170972,23.9764755] n2702434736[53.1170040,23.9764779] n2702434735[53.1170023,23.9762914] n2702434765[53.1170955,23.9762890]
-w264581476  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=20 | addr:street=Северная | building=residential
+w264581476
+  other tags : addr:housenumber=20 | addr:street=Северная улица | building=residential
     geometry : n2702435101[53.1197354,23.9657846] n2702435096[53.1197230,23.9656180] n2702435051[53.1195974,23.9656440] n2702435056[53.1196098,23.9658106] n2702435101[53.1197354,23.9657846]
 w264581477  null / null / ул. Советская
   other tags : building=residential
     geometry : n2702434930[53.1184230,23.9575418] n2702434928[53.1184150,23.9576749] n2702434911[53.1182998,23.9576557] n2702434913[53.1183078,23.9575226] n2702434930[53.1184230,23.9575418]
-w264581478  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=Пушкина | building=residential
+w264581478  null / null / улица Пушкина
+  other tags : addr:housenumber=3 | addr:street=улица Пушкина | building=residential
     geometry : n2702435249[53.1206497,23.9671557] n2702435250[53.1206583,23.9673381] n2702435229[53.1205507,23.9673522] n2702435228[53.1205421,23.9671698] n2702435249[53.1206497,23.9671557]
-w264581480  null / null / ул. Комарова
-  other tags : building=residential
+w264581480
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434974[53.1191058,23.9733321] n2702434978[53.1191537,23.9734434] n2702434973[53.1190618,23.9735532] n2702434971[53.1190139,23.9734419] n2702434974[53.1191058,23.9733321]
-w264581481  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=19 | addr:street=Северная | building=residential
+w264581481
+  other tags : addr:housenumber=19 | addr:street=Северная улица | building=residential
     geometry : n2702435021[53.1194795,23.9674069] n2702435020[53.1194795,23.9672545] n2702435008[53.1194246,23.9672545] n2702435009[53.1194246,23.9674069] n2702435021[53.1194795,23.9674069]
-w264581483  null / null / ул. Юбилейная
+w264581483
   other tags : building=residential
     geometry : n2702435469[53.1234145,23.9647346] n2702435470[53.1234225,23.9649268] n2702435466[53.1232896,23.9649422] n2702435464[53.1232816,23.9647500] n2702435469[53.1234145,23.9647346]
-w264581486  null / null / ул. Комарова
-  other tags : building=residential
+w264581486
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435035[53.1195310,23.9716229] n2702435049[53.1195991,23.9717844] n2702435027[53.1195156,23.9718822] n2702435019[53.1194475,23.9717207] n2702435035[53.1195310,23.9716229]
-w264581487  null / null / ул. Северная
-  other tags : building=residential
+w264581487
+  other tags : addr:street=Северная улица | building=residential
     geometry : n2702435126[53.1198213,23.9671161] n2702435127[53.1198217,23.9670227] n2702435081[53.1197229,23.9670214] n2702435079[53.1197225,23.9671148] n2702435126[53.1198213,23.9671161]
-w264581488  null / null / ул. Юбилейная
+w264581488
   other tags : addr:housenumber=21А | addr:street=Юбилейная улица | building=residential
     geometry : n2702435340[53.1216637,23.9652829] n2702435342[53.1216748,23.9654729] n2702435334[53.1215889,23.9654869] n2702435333[53.1215777,23.9652969] n2702435340[53.1216637,23.9652829]
-w264581489  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=13 | addr:street=Северная | building=residential
+w264581489
+  other tags : addr:housenumber=13 | addr:street=Северная улица | building=residential
     geometry : n2702435044[53.1195869,23.9686739] n2702435042[53.1195795,23.9684857] n2702435030[53.1195253,23.9684917] n2702435033[53.1195327,23.9686798] n2702435044[53.1195869,23.9686739]
-w264581490  null / null / ул. Юбилейная
+w264581490
   other tags : addr:housenumber=28 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435396[53.1224850,23.9643232] n2702435397[53.1225185,23.9645059] n2702435393[53.1224246,23.9645536] n2702435392[53.1223912,23.9643709] n2702435396[53.1224850,23.9643232]
-w264581491  null / null / ул. Комарова
-  other tags : building=residential
+w264581491
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434888[53.1181928,23.9734265] n2702434898[53.1182496,23.9735315] n2702434882[53.1181556,23.9736726] n2702434877[53.1180988,23.9735676] n2702434888[53.1181928,23.9734265]
-w264581492  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=15 | addr:street=Северная | building=residential
+w264581492
+  other tags : addr:housenumber=15 | addr:street=Северная улица | building=residential
     geometry : n2702435037[53.1195336,23.9680859] n2702435036[53.1195328,23.9682423] n2702435023[53.1194815,23.9682415] n2702435024[53.1194823,23.9680851] n2702435037[53.1195336,23.9680859]
-w264581493  null / null / ул. Комарова
-  other tags : building=residential
+w264581493
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435007[53.1193300,23.9730812] n2702435022[53.1193896,23.9731996] n2702435004[53.1193095,23.9733115] n2702434995[53.1192499,23.9731931] n2702435007[53.1193300,23.9730812]
-w264581495  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=14 | addr:street=Северная | building=residential
+w264581495
+  other tags : addr:housenumber=14 | addr:street=Северная улица | building=residential
     geometry : n2702435106[53.1197600,23.9672924] n2702435130[53.1198126,23.9673004] n2702435129[53.1198052,23.9674363] n2702435104[53.1197526,23.9674283] n2702435106[53.1197600,23.9672924]
-w264581496  null / null / ул. Пушкина
+w264581496
   other tags : building=residential
     geometry : n2702435246[53.1206555,23.9667549] n2702435244[53.1206532,23.9669418] n2702435222[53.1205312,23.9669375] n2702435224[53.1205335,23.9667507] n2702435246[53.1206555,23.9667549]
-w264581497  null / null / ул. Комарова
-  other tags : building=residential
+w264581497
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435072[53.1196796,23.9725899] n2702435103[53.1197483,23.9727240] n2702435074[53.1196946,23.9728004] n2702435065[53.1196259,23.9726664] n2702435072[53.1196796,23.9725899]
-w264581498  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=6 | addr:street=Северная | building=residential
+w264581498
+  other tags : addr:housenumber=6 | addr:street=Северная улица | building=residential
     geometry : n2702435149[53.1198972,23.9693405] n2702435170[53.1200349,23.9693431] n2702435169[53.1200340,23.9694671] n2702435148[53.1198963,23.9694645] n2702435149[53.1198972,23.9693405]
-w264581501  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=7 | addr:street=Северная | building=residential
+w264581501
+  other tags : addr:housenumber=7 | addr:street=Северная улица | building=residential
     geometry : n2702435073[53.1196944,23.9698217] n2702435078[53.1196985,23.9699862] n2702435060[53.1196216,23.9699916] n2702435057[53.1196175,23.9698270] n2702435073[53.1196944,23.9698217]
-w264581502  null / null / ул. Юбилейная
+w264581502
   other tags : building=residential
     geometry : n2702435486[53.1237823,23.9645339] n2702435485[53.1237775,23.9648180] n2702435479[53.1236871,23.9648138] n2702435480[53.1236918,23.9645297] n2702435486[53.1237823,23.9645339]
 w264581503
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=Восточная | building=residential
+  other tags : addr:housenumber=17 | addr:street=Восточная улица | building=residential
     geometry : n2702435144[53.1198998,23.9785138] n2702435157[53.1199780,23.9786829] n2702435137[53.1198619,23.9788322] n2702435120[53.1197836,23.9786631] n2702435144[53.1198998,23.9785138]
-w264581506  null / null / ул. Юбилейная
+w264581506
   other tags : addr:housenumber=17 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702435257[53.1206992,23.9650054] n2702435256[53.1206932,23.9651554] n2702435236[53.1205638,23.9651410] n2702435237[53.1205698,23.9649910] n2702435257[53.1206992,23.9650054]
+    geometry : n2702435257[53.1207077,23.9649343] n2702435256[53.1207017,23.9650843] n2702435236[53.1205723,23.9650699] n2702435237[53.1205783,23.9649199] n2702435257[53.1207077,23.9649343]
 w264581507
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=Тиунчика-Орловских | building=residential
+  other tags : addr:housenumber=4 | addr:street=улица Тиунчика-Орловских | building=residential
     geometry : n2702435499[53.1240043,23.9618842] n2702435503[53.1240676,23.9621549] n2702435494[53.1239423,23.9622363] n2702435489[53.1238790,23.9619656] n2702435499[53.1240043,23.9618842]
-w264581509  null / null / ул. Юбилейная
+w264581509
   other tags : addr:housenumber=27 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435408[53.1227892,23.9648688] n2702435411[53.1227979,23.9650438] n2702435400[53.1226736,23.9650609] n2702435399[53.1226649,23.9648859] n2702435408[53.1227892,23.9648688]
-w264581510  null / null / ул. Комарова
-  other tags : building=residential
+w264581510
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434950[53.1187659,23.9727446] n2702434952[53.1188076,23.9728236] n2702434944[53.1187260,23.9729431] n2702434943[53.1186843,23.9728641] n2702434950[53.1187659,23.9727446]
-w264581511  null / null / ул. Юбилейная
+w264581511
   other tags : addr:housenumber=32 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435444[53.1230780,23.9641701] n2702435441[53.1230357,23.9639850] n2702435427[53.1229295,23.9640524] n2702435431[53.1229718,23.9642375] n2702435444[53.1230780,23.9641701]
-w264581512  null / null / ул. Юбилейная
+w264581512
   other tags : building=residential
     geometry : n2702435003[53.1193635,23.9654446] n2702435001[53.1193571,23.9652602] n2702434991[53.1192995,23.9652658] n2702434993[53.1193059,23.9654502] n2702435003[53.1193635,23.9654446]
 w264581514
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Новая | building=residential
+  other tags : addr:housenumber=10 | addr:street=Новая улица | building=residential
     geometry : n2702435263[53.1207568,23.9772627] n2702435267[53.1208470,23.9774283] n2702435262[53.1207443,23.9775835] n2702435253[53.1206541,23.9774179] n2702435263[53.1207568,23.9772627]
-w264581515  null / null / ул. Юбилейная
+w264581515
   other tags : building=residential
-    geometry : n2702435200[53.1203590,23.9649888] n2702435198[53.1203555,23.9651086] n2702435190[53.1202506,23.9651001] n2702435191[53.1202541,23.9649804] n2702435200[53.1203590,23.9649888]
-w264581516  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=10 | addr:street=Северная | building=residential
+    geometry : n2702435200[53.1203675,23.9649177] n2702435198[53.1203640,23.9650375] n2702435190[53.1202591,23.9650290] n2702435191[53.1202626,23.9649093] n2702435200[53.1203675,23.9649177]
+w264581516
+  other tags : addr:housenumber=10 | addr:street=Северная улица | building=residential
     geometry : n2702435143[53.1199147,23.9681555] n2702435141[53.1199104,23.9683303] n2702435121[53.1198068,23.9683232] n2702435122[53.1198111,23.9681484] n2702435143[53.1199147,23.9681555]
 w264581518  null / null / ул. Советская
   other tags : addr:housenumber=47 | addr:street=Советская улица | building=residential
     geometry : n2702434814[53.1172458,23.9673383] n2702434809[53.1172302,23.9675019] n2702434762[53.1171137,23.9674710] n2702434771[53.1171293,23.9673075] n2702434814[53.1172458,23.9673383]
-w264581521  null / null / ул. Комарова
-  other tags : building=residential
+w264581521
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435199[53.1203419,23.9717624] n2702435206[53.1204026,23.9719118] n2702435196[53.1203264,23.9719977] n2702435193[53.1202658,23.9718483] n2702435199[53.1203419,23.9717624]
-w264581522  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=ул. Машерова | building=residential
+w264581522
+  other tags : addr:housenumber=16 | addr:street=улица Машерова | building=residential
     geometry : n2702435197[53.1203214,23.9762654] n2702435215[53.1204297,23.9764548] n2702435201[53.1203360,23.9766034] n2702435192[53.1202278,23.9764140] n2702435197[53.1203214,23.9762654]
 w264581523
-  other tags : addr:housenumber=4 | addr:street=пер.Совецкий | building=residential
+  other tags : addr:housenumber=4 | addr:street=Советский переулок | building=residential
     geometry : n2702435011[53.1193918,23.9631202] n2702435002[53.1193419,23.9633025] n2702434985[53.1192269,23.9632151] n2702434989[53.1192769,23.9630328] n2702435011[53.1193918,23.9631202]
-w264581525  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=Пушкина | building=residential
+w264581525  null / null / улица Пушкина
+  other tags : addr:housenumber=4 | addr:street=улица Пушкина | building=residential
     geometry : n2702435251[53.1206711,23.9674564] n2702435252[53.1206723,23.9676271] n2702435233[53.1205626,23.9676292] n2702435232[53.1205614,23.9674585] n2702435251[53.1206711,23.9674564]
-w264581527  null / null / ул. Юбилейная
+w264581527
   other tags : addr:housenumber=26 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435384[53.1221999,23.9644584] n2702435387[53.1222347,23.9646369] n2702435378[53.1221467,23.9646845] n2702435376[53.1221119,23.9645060] n2702435384[53.1221999,23.9644584]
 w264581528
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=Тиунчика-Орловских | building=residential
+  other tags : addr:housenumber=6 | addr:street=улица Тиунчика-Орловских | building=residential
     geometry : n2702435490[53.1238899,23.9613550] n2702435493[53.1239421,23.9616159] n2702435484[53.1238061,23.9616915] n2702435481[53.1237539,23.9614306] n2702435490[53.1238899,23.9613550]
 w264581529  null / null / ул. Советская
   other tags : addr:housenumber=19 | addr:street=Советская улица | building=residential
     geometry : n2702434887[53.1181797,23.9608477] n2702434884[53.1181665,23.9609937] n2702434874[53.1180761,23.9609710] n2702434876[53.1180894,23.9608250] n2702434887[53.1181797,23.9608477]
-w264581530  null / null / ул. Комарова
-  other tags : building=residential
+w264581530
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434960[53.1188600,23.9736767] n2702434962[53.1188976,23.9737625] n2702434953[53.1188215,23.9738551] n2702434951[53.1187839,23.9737692] n2702434960[53.1188600,23.9736767]
-w264581532  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Машерова | building=residential
+w264581532
+  other tags : addr:housenumber=8 | addr:street=улица Машерова | building=residential
     geometry : n2702435173[53.1200175,23.9758943] n2702435184[53.1201000,23.9760746] n2702435171[53.1200034,23.9761973] n2702435155[53.1199210,23.9760169] n2702435173[53.1200175,23.9758943]
-w264581533  null / null / ул. Комарова
-  other tags : building=residential
+w264581533
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434996[53.1193444,23.9721166] n2702435014[53.1194258,23.9719719] n2702434999[53.1193590,23.9718677] n2702434987[53.1192776,23.9720124] n2702434996[53.1193444,23.9721166]
-w264581535  null / null / ул. Юбилейная
+w264581535
   other tags : building=residential
-    geometry : n2702435315[53.1212864,23.9648983] n2702435317[53.1213070,23.9650339] n2702435311[53.1212153,23.9650726] n2702435309[53.1211946,23.9649370] n2702435315[53.1212864,23.9648983]
-w264581536  null / null / ул. Комарова
-  other tags : building=residential
+    geometry : n2702435315[53.1213120,23.9648201] n2702435317[53.1213326,23.9649557] n2702435311[53.1212409,23.9649944] n2702435309[53.1212202,23.9648588] n2702435315[53.1213120,23.9648201]
+w264581536
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435098[53.1197382,23.9713720] n2702435123[53.1197997,23.9714973] n2702435080[53.1197139,23.9716142] n2702435068[53.1196524,23.9714890] n2702435098[53.1197382,23.9713720]
-w264581537  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=11 | addr:street=Северная | building=residential
+w264581537
+  other tags : addr:housenumber=11 | addr:street=Северная улица | building=residential
     geometry : n2702435055[53.1196410,23.9692099] n2702435052[53.1196325,23.9690056] n2702435034[53.1195454,23.9690157] n2702435038[53.1195539,23.9692201] n2702435055[53.1196410,23.9692099]
 w264581538  null / null / ул. Советская
   other tags : addr:housenumber=29А | addr:street=Советская улица | building=residential
@@ -1753,10 +1708,10 @@ w264581538  null / null / ул. Советская
 w264581540
   other tags : addr:housenumber=111 | addr:street=Советская улица | building=residential
     geometry : n2702434833[53.1174268,23.9836380] n2702434820[53.1173367,23.9836397] n2702434821[53.1173378,23.9838081] n2702434834[53.1174280,23.9838064] n2702434833[53.1174268,23.9836380]
-w264581541  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2а | addr:street=Пушкина | building=residential
+w264581541  null / null / улица Пушкина
+  other tags : addr:housenumber=2а | addr:street=улица Пушкина | building=residential
     geometry : n2702435289[53.1210209,23.9665467] n2702435290[53.1210222,23.9667864] n2702435273[53.1209002,23.9667883] n2702435271[53.1208989,23.9665486] n2702435289[53.1210209,23.9665467]
-w264581542  null / null / ул. Юбилейная
+w264581542
   other tags : addr:housenumber=38 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435526[53.1243367,23.9634047] n2702435530[53.1243888,23.9636219] n2702435516[53.1242753,23.9636976] n2702435514[53.1242232,23.9634804] n2702435526[53.1243367,23.9634047]
 w264581543  null / null / ул. Советская
@@ -1768,23 +1723,23 @@ w264581545
 w264581546  null / null / ул. Советская
   other tags : building=residential
     geometry : n2702434783[53.1171468,23.9722496] n2702434812[53.1172274,23.9723672] n2702434796[53.1171614,23.9724929] n2702434757[53.1170808,23.9723754] n2702434783[53.1171468,23.9722496]
-w264581548  null / null / ул. Юбилейная
+w264581548
   other tags : building=residential
-    geometry : n2702435179[53.1201200,23.9649461] n2702435178[53.1201180,23.9650620] n2702435162[53.1200217,23.9650573] n2702435164[53.1200238,23.9649414] n2702435179[53.1201200,23.9649461]
-w264581549  null / null / ул. Юбилейная
+    geometry : n2702435179[53.1201285,23.9648750] n2702435178[53.1201265,23.9649909] n2702435162[53.1200302,23.9649862] n2702435164[53.1200323,23.9648703] n2702435179[53.1201285,23.9648750]
+w264581549
   other tags : addr:housenumber=34 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435471[53.1234989,23.9638939] n2702435473[53.1235306,23.9640911] n2702435468[53.1234041,23.9641475] n2702435467[53.1233724,23.9639503] n2702435471[53.1234989,23.9638939]
 w264581550
   other tags : addr:housenumber=18 | addr:street=Советская улица | building=residential
     geometry : n2702434712[53.1167049,23.9771039] n2702434716[53.1167382,23.9773158] n2702434706[53.1166214,23.9773667] n2702434702[53.1165882,23.9771547] n2702434712[53.1167049,23.9771039]
 w264581551
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=Тиунчика-Орловских | building=residential
+  other tags : addr:housenumber=10 | addr:street=улица Тиунчика-Орловских | building=residential
     geometry : n2702435475[53.1235664,23.9604025] n2702435477[53.1236081,23.9606543] n2702435474[53.1235032,23.9607026] n2702435472[53.1234615,23.9604508] n2702435475[53.1235664,23.9604025]
-w264581552  null / null / ул. Юбилейная
+w264581552
   other tags : building=residential
-    geometry : n2702434959[53.1188388,23.9646163] n2702434957[53.1188361,23.9647911] n2702434948[53.1187508,23.9647875] n2702434949[53.1187535,23.9646126] n2702434959[53.1188388,23.9646163]
-w264581553  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=Пушкина | building=residential
+    geometry : n2702434959[53.1188345,23.9645594] n2702434957[53.1188318,23.9647342] n2702434948[53.1187465,23.9647306] n2702434949[53.1187492,23.9645557] n2702434959[53.1188345,23.9645594]
+w264581553  null / null / улица Пушкина
+  other tags : addr:housenumber=9 | addr:street=улица Пушкина | building=residential
     geometry : n2702435292[53.1210371,23.9669584] n2702435291[53.1210308,23.9671608] n2702435274[53.1209157,23.9671509] n2702435277[53.1209220,23.9669485] n2702435292[53.1210371,23.9669584]
 w264581554  null / null / ул. Советская
   other tags : addr:housenumber=55 | addr:street=Советская улица | building=residential
@@ -1795,11 +1750,11 @@ w264581555  null / null / ул. Советская
 w264581556  null / null / ул. Советская
   other tags : building=residential
     geometry : n2702434870[53.1180444,23.9620296] n2702434869[53.1180388,23.9621758] n2702434861[53.1179753,23.9621690] n2702434864[53.1179810,23.9620228] n2702434870[53.1180444,23.9620296]
-w264581558  null / null / ул. Комарова
-  other tags : building=residential
+w264581558
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434933[53.1184545,23.9730248] n2702434940[53.1185139,23.9731824] n2702434926[53.1184329,23.9732673] n2702434920[53.1183734,23.9731097] n2702434933[53.1184545,23.9730248]
-w264581559  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Машерова | building=residential
+w264581559
+  other tags : addr:housenumber=10 | addr:street=улица Машерова | building=residential
     geometry : n2702435139[53.1198682,23.9761538] n2702435154[53.1199402,23.9762833] n2702435138[53.1198564,23.9764125] n2702435128[53.1197844,23.9762830] n2702435139[53.1198682,23.9761538]
 w264581560  null / null / ул. Советская
   other tags : building=residential
@@ -1810,11 +1765,11 @@ w264581562
 w264581563  null / null / ул. Советская
   other tags : addr:housenumber=13 | addr:street=Советская улица | building=residential
     geometry : n2702434919[53.1183589,23.9599078] n2702434917[53.1183397,23.9600442] n2702434893[53.1181923,23.9599867] n2702434895[53.1182115,23.9598503] n2702434919[53.1183589,23.9599078]
-w264581564  null / null / ул. Юбилейная
+w264581564
   other tags : addr:housenumber=11 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435189[53.1202223,23.9653891] n2702435188[53.1202154,23.9655493] n2702435181[53.1201250,23.9655385] n2702435182[53.1201319,23.9653782] n2702435189[53.1202223,23.9653891]
-w264581565  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=8 | addr:street=Северная | building=residential
+w264581565
+  other tags : addr:housenumber=8 | addr:street=Северная улица | building=residential
     geometry : n2702435145[53.1198995,23.9686244] n2702435146[53.1199034,23.9688377] n2702435133[53.1198302,23.9688414] n2702435131[53.1198264,23.9686281] n2702435145[53.1198995,23.9686244]
 w264581566  null / null / ул. Советская
   other tags : addr:housenumber=49 | addr:street=Советская улица | building=residential
@@ -1822,70 +1777,67 @@ w264581566  null / null / ул. Советская
 w264581567
   other tags : addr:housenumber=109 | addr:street=Советская улица | building=residential
     geometry : n2702434823[53.1173261,23.9832297] n2702434826[53.1173341,23.9834966] n2702434841[53.1174377,23.9834880] n2702434840[53.1174297,23.9832211] n2702434823[53.1173261,23.9832297]
-w264581568  null / null / ул. Комарова
-  other tags : building=residential
+w264581568
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435180[53.1201293,23.9719796] n2702435186[53.1202014,23.9721033] n2702435176[53.1201147,23.9722434] n2702435167[53.1200427,23.9721196] n2702435180[53.1201293,23.9719796]
-w264581571  null / null / ул. Юбилейная
+w264581571
   other tags : addr:housenumber=16 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702435212[53.1204272,23.9649384] n2702435208[53.1204072,23.9651258] n2702435203[53.1203623,23.9651125] n2702435204[53.1203824,23.9649251] n2702435212[53.1204272,23.9649384]
+    geometry : n2702435212[53.1204357,23.9648673] n2702435208[53.1204157,23.9650547] n2702435203[53.1203708,23.9650414] n2702435204[53.1203909,23.9648540] n2702435212[53.1204357,23.9648673]
 w264581572
   other tags : addr:housenumber=91 | addr:street=Советская улица | building=residential
     geometry : n2702434811[53.1172300,23.9787664] n2702434810[53.1172295,23.9788937] n2702434769[53.1171169,23.9788926] n2702434770[53.1171173,23.9787654] n2702434811[53.1172300,23.9787664]
 w264581573  null / null / ул. Советская
   other tags : addr:housenumber=43 | addr:street=Советская улица | building=residential
     geometry : n2702434802[53.1172095,23.9669133] n2702434797[53.1171924,23.9671240] n2702434773[53.1171358,23.9670982] n2702434779[53.1171556,23.9669011] n2702434802[53.1172095,23.9669133]
-w264581574
-  other tags : building=residential
-    geometry : n2702434977[53.1191110,23.9629019] n2973034008[53.1191496,23.9629387] n2702434984[53.1192362,23.9630214] n2702434980[53.1191640,23.9632313] n2973034007[53.1191029,23.9631745] n2702434972[53.1190388,23.9631118] n2702434977[53.1191110,23.9629019]
-w264581576  null / null / ул. Комарова
-  other tags : building=residential
+w264581576
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702435248[53.1206403,23.9713537] n2702435260[53.1207068,23.9714918] n2702435242[53.1206165,23.9716125] n2702435234[53.1205500,23.9714745] n2702435248[53.1206403,23.9713537]
-w264581577  null / null / ул. Юбилейная
+w264581577
   other tags : addr:housenumber=50 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435547[53.1255655,23.9627188] n2702435548[53.1256183,23.9628468] n2702435546[53.1255391,23.9629376] n2702435545[53.1254863,23.9628096] n2702435547[53.1255655,23.9627188]
 w264581578  null / null / ул. Советская
   other tags : addr:housenumber=21 | addr:street=Советская улица | building=residential
     geometry : n2702434886[53.1181601,23.9611354] n2702434883[53.1181487,23.9613715] n2702434871[53.1180466,23.9613579] n2702434872[53.1180579,23.9611218] n2702434886[53.1181601,23.9611354]
-w264581580  null / null / ул. Юбилейная
+w264581580
   other tags : addr:housenumber=21 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435366[53.1219455,23.9651427] n2702435368[53.1219552,23.9652749] n2702435364[53.1218983,23.9652866] n2702435365[53.1219046,23.9653720] n2702435363[53.1218643,23.9653803] n2702435362[53.1218483,23.9651626] n2702435366[53.1219455,23.9651427]
-w264581581  null / null / ул. Юбилейная
+w264581581
   other tags : addr:housenumber=19 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702435285[53.1209650,23.9649921] n2702435287[53.1209675,23.9651936] n2702435276[53.1208821,23.9651966] n2702435275[53.1208817,23.9651661] n2702435268[53.1208551,23.9651670] n2702435266[53.1208530,23.9649960] n2702435285[53.1209650,23.9649921]
-w264581582  null / null / ул. Юбилейная
+    geometry : n2702435285[53.1209821,23.9649139] n2702435287[53.1209846,23.9651154] n2702435276[53.1208992,23.9651184] n2702435275[53.1208988,23.9650879] n2702435268[53.1208722,23.9650888] n2702435266[53.1208701,23.9649178] n2702435285[53.1209821,23.9649139]
+w264581582
   other tags : addr:housenumber=24 | addr:street=Юбилейная улица | building=residential
-    geometry : n2702435360[53.1217968,23.9647418] n2702435361[53.1218120,23.9648616] n2702435352[53.1217114,23.9648972] n2702435350[53.1216902,23.9647308] n2702435356[53.1217547,23.9647080] n2702435359[53.1217606,23.9647546] n2702435360[53.1217968,23.9647418]
+    geometry : n2702435360[53.1218309,23.9646992] n2702435361[53.1218461,23.9648190] n2702435352[53.1217455,23.9648546] n2702435350[53.1217243,23.9646882] n2702435356[53.1217888,23.9646654] n2702435359[53.1217947,23.9647120] n2702435360[53.1218309,23.9646992]
 w264581583
   other tags : building=residential
     geometry : n2702434798[53.1172054,23.9693942] n2702434724[53.1169761,23.9693942] n2702434725[53.1169761,23.9699306] n2702434744[53.1170664,23.9699306] n2702434743[53.1170664,23.9695039] n2702434799[53.1172054,23.9695039] n2702434798[53.1172054,23.9693942]
-w264581584  null / null / ул. Юбилейная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=Пушкина | building=residential
+w264581584  null / null / улица Пушкина
+  other tags : addr:housenumber=2 | addr:street=улица Пушкина | building=residential
     geometry : n2702435279[53.1209332,23.9654673] n2702435280[53.1209374,23.9655307] n2702435284[53.1209630,23.9655259] n2702435288[53.1209784,23.9657569] n2702435265[53.1208456,23.9657815] n2702435264[53.1208260,23.9654872] n2702435279[53.1209332,23.9654673]
-w264581585  null / null / ул. Юбилейная
+w264581585
   other tags : addr:housenumber=9 | addr:street=Юбилейная улица | building=residential
     geometry : n2702434988[53.1192892,23.9651954] n2702434986[53.1192846,23.9653640] n2702434983[53.1192350,23.9653603] n2702434982[53.1192334,23.9654207] n2702434979[53.1191848,23.9654171] n2702434981[53.1191910,23.9651880] n2702434988[53.1192892,23.9651954]
-w264581586  null / null / ул. Юбилейная
+w264581586
   other tags : building=residential
     geometry : n2702435382[53.1221880,23.9650528] n2702435383[53.1222020,23.9651527] n2702435377[53.1221431,23.9651757] n2702435379[53.1221598,23.9652951] n2702435374[53.1221098,23.9653146] n2702435372[53.1220790,23.9650953] n2702435382[53.1221880,23.9650528]
-w264581587  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=Пушкина | building=residential
+w264581587  null / null / улица Пушкина
+  other tags : addr:housenumber=11 | addr:street=улица Пушкина | building=residential
     geometry : n2702435281[53.1209762,23.9661272] n2702435282[53.1209785,23.9662079] n2702435297[53.1210706,23.9662006] n2702435298[53.1210742,23.9663269] n2702435272[53.1208901,23.9663415] n2702435270[53.1208842,23.9661345] n2702435281[53.1209762,23.9661272]
 w264581589
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Новая | building=residential
+  other tags : addr:housenumber=6 | addr:street=Новая улица | building=residential
     geometry : n2702435211[53.1204132,23.9778032] n2702435219[53.1204782,23.9779345] n2702435207[53.1204017,23.9780398] n2702435195[53.1203097,23.9778542] n2702435202[53.1203546,23.9777925] n2702435205[53.1203815,23.9778468] n2702435211[53.1204132,23.9778032]
-w264581590  null / null / ул. Комарова
-  other tags : building=residential
+w264581590
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2702434964[53.1189299,23.9723605] n2702434967[53.1189758,23.9724506] n2702434965[53.1189304,23.9725147] n2702434970[53.1189793,23.9726107] n2702434963[53.1189253,23.9726871] n2702434958[53.1188305,23.9725010] n2702434964[53.1189299,23.9723605]
-w264581592  null / null / Жилой дом
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Новая | building=residential
+w264581592
+  other tags : addr:housenumber=3 | addr:street=Новая улица | building=residential
     geometry : n2702435062[53.1196328,23.9799114] n2702435063[53.1196335,23.9797875] n2702435077[53.1197088,23.9797886] n2702435075[53.1197078,23.9799751] n2702435059[53.1196324,23.9799739] n2702435062[53.1196328,23.9799114]
-w264581593  null / null / ул. Юбилейная
+w264581593
   other tags : building=residential
     geometry : n2702435226[53.1205211,23.9654645] n2702435223[53.1205147,23.9655856] n2702435218[53.1204841,23.9655811] n2702435217[53.1204802,23.9656550] n2702435213[53.1204416,23.9656494] n2702435214[53.1204454,23.9655773] n2702435209[53.1204144,23.9655728] n2702435210[53.1204209,23.9654499] n2702435226[53.1205211,23.9654645]
-w264581594  null / null / ул. Пушкина
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=Пушкина | building=residential
+w264581594  null / null / улица Пушкина
+  other tags : addr:housenumber=7 | addr:street=улица Пушкина | building=residential
     geometry : n2702435300[53.1210994,23.9683135] n2702435305[53.1211789,23.9684489] n2702435303[53.1211340,23.9685222] n2702435306[53.1211828,23.9686051] n2702435301[53.1211186,23.9687099] n2702435296[53.1210452,23.9685850] n2702435299[53.1210839,23.9685218] n2702435293[53.1210290,23.9684283] n2702435300[53.1210994,23.9683135]
-w264581596  null / null / ул. Юбилейная
+w264581596
   other tags : addr:housenumber=18 | addr:street=Юбилейная улица | building=residential
     geometry : n2702435326[53.1215063,23.9653171] n2702435327[53.1215098,23.9654000] n2702435324[53.1214815,23.9654033] n2702435325[53.1214858,23.9655064] n2702435321[53.1214368,23.9655121] n2702435320[53.1214334,23.9654314] n2702435319[53.1213843,23.9654371] n2702435318[53.1213799,23.9653319] n2702435326[53.1215063,23.9653171]
 w264587679
@@ -3749,442 +3701,442 @@ w267180598
   other tags : building=residential
     geometry : n2726558491[53.1216044,23.9786191] n2726558493[53.1216599,23.9787830] n2726558490[53.1215800,23.9788582] n2726558488[53.1215245,23.9786942] n2726558491[53.1216044,23.9786191]
 w267197745
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=6 | addr:street=улица Гагарина | building=residential
     geometry : n2726669197[53.1121130,23.9747692] n2726669179[53.1120247,23.9748155] n2726669185[53.1120546,23.9749738] n2726669203[53.1121429,23.9749275] n2726669197[53.1121130,23.9747692]
 w267197746
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=3 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669299[53.1128101,23.9793258] n2726669287[53.1127160,23.9792934] n2726669284[53.1126949,23.9794639] n2726669294[53.1127890,23.9794962] n2726669299[53.1128101,23.9793258]
 w267197747
-  other tags : addr:city=а.г Пограничный | addr:housenumber=21б | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=21б | addr:street=улица Гагарина | building=residential
     geometry : n2726669177[53.1120043,23.9721030] n2726669154[53.1119178,23.9721289] n2726669158[53.1119347,23.9722851] n2726669183[53.1120212,23.9722592] n2726669177[53.1120043,23.9721030]
 w267197748
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=7 | addr:street=улица Комарова | building=residential
     geometry : n2726669355[53.1131135,23.9774269] n2726669352[53.1131072,23.9775840] n2726669335[53.1130041,23.9775726] n2726669337[53.1130103,23.9774155] n2726669355[53.1131135,23.9774269]
 w267197749
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=20 | addr:street=Зелёная улица | building=residential
     geometry : n2726669255[53.1124968,23.9668564] n2726669261[53.1125261,23.9669993] n2726669273[53.1126034,23.9669553] n2726669268[53.1125741,23.9668124] n2726669255[53.1124968,23.9668564]
 w267197750
-  other tags : addr:city=а.г Пограничный | addr:housenumber=15 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=15 | addr:street=Лесная улица | building=residential
     geometry : n2726669068[53.1113710,23.9683425] n2726669073[53.1114102,23.9685083] n2726669087[53.1114854,23.9684590] n2726669081[53.1114463,23.9682932] n2726669068[53.1113710,23.9683425]
 w267197751
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=10 | addr:street=улица Гагарина | building=residential
     geometry : n2726669169[53.1119571,23.9741490] n2726669178[53.1119890,23.9743011] n2726669156[53.1119122,23.9743458] n2726669146[53.1118803,23.9741937] n2726669169[53.1119571,23.9741490]
 w267197752
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669285[53.1127069,23.9802008] n2726669270[53.1126103,23.9801560] n2726669266[53.1125856,23.9803038] n2726669280[53.1126822,23.9803486] n2726669285[53.1127069,23.9802008]
 w267197753
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=6 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669155[53.1119031,23.9801387] n2726669151[53.1118795,23.9803568] n2726669215[53.1121759,23.9804458] n2726669224[53.1121995,23.9802276] n2726669155[53.1119031,23.9801387]
 w267197754
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=20 | addr:street=улица Мицкевича | building=residential
     geometry : n2726669017[53.1108551,23.9689551] n2726669021[53.1109039,23.9691737] n2726669028[53.1109985,23.9691150] n2726669024[53.1109497,23.9688965] n2726669017[53.1108551,23.9689551]
 w267197755
-  other tags : addr:city=а.г Пограничный | addr:housenumber=15 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=15 | addr:street=Зелёная улица | building=residential
     geometry : n2726669191[53.1120929,23.9662901] n2726669174[53.1120055,23.9663329] n2726669182[53.1120252,23.9664529] n2726669198[53.1121097,23.9664077] n2726669191[53.1120929,23.9662901]
 w267197756
-  other tags : addr:city=а.г Пограничный | addr:housenumber=15 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=15 | addr:street=улица Гагарина | building=residential
     geometry : n2726669216[53.1122066,23.9740124] n2726669228[53.1122396,23.9741757] n2726669242[53.1123309,23.9741244] n2726669236[53.1122979,23.9739612] n2726669216[53.1122066,23.9740124]
 w267197758
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=1 | addr:street=Зелёная улица | building=residential
     geometry : n2726668946[53.1098322,23.9629325] n2726668950[53.1098930,23.9630488] n2726668956[53.1099678,23.9629401] n2726668951[53.1099070,23.9628239] n2726668946[53.1098322,23.9629325]
 w267197759
-  other tags : addr:city=а.г Пограничный | addr:housenumber=23 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=23 | addr:street=Зелёная улица | building=residential
     geometry : n2726669354[53.1131174,23.9671175] n2726669365[53.1131635,23.9672390] n2726669378[53.1132172,23.9671826] n2726669369[53.1131711,23.9670610] n2726669354[53.1131174,23.9671175]
 w267197760
-  other tags : addr:city=а.г Пограничный | addr:housenumber=54 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=54 | addr:street=Зелёная улица | building=residential
     geometry : n2726669499[53.1136259,23.9759601] n2726669527[53.1137150,23.9759625] n2726669526[53.1137134,23.9761295] n2726669498[53.1136243,23.9761271] n2726669499[53.1136259,23.9759601]
 w267197761
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=10 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669189[53.1120438,23.9813553] n2726669170[53.1119492,23.9813830] n2726669173[53.1119612,23.9814973] n2726669194[53.1120558,23.9814697] n2726669189[53.1120438,23.9813553]
 w267197762
-  other tags : addr:city=а.г Пограничный | addr:housenumber=42 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=42 | addr:street=улица Гагарина | building=residential
     geometry : n2726669687[53.1150240,23.9639607] n2726669693[53.1150996,23.9641605] n2726669695[53.1151568,23.9641005] n2726669691[53.1150812,23.9639007] n2726669687[53.1150240,23.9639607]
 w267197763
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=3 | addr:street=улица Гагарина | building=residential
     geometry : n2726669306[53.1129029,23.9764149] n2726669295[53.1128006,23.9764656] n2726669301[53.1128319,23.9766411] n2726669313[53.1129342,23.9765904] n2726669306[53.1129029,23.9764149]
 w267197764
-  other tags : addr:city=а.г Пограничный | addr:housenumber=22 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=22 | addr:street=Зелёная улица | building=residential
     geometry : n2726669292[53.1127859,23.9670564] n2726669297[53.1128102,23.9671778] n2726669286[53.1127129,23.9672318] n2726669282[53.1126886,23.9671103] n2726669292[53.1127859,23.9670564]
 w267197765
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=5 | addr:street=улица Комарова | building=residential
     geometry : n2726669117[53.1117942,23.9773001] n2726669121[53.1118047,23.9774952] n2726669161[53.1119267,23.9774770] n2726669159[53.1119162,23.9772818] n2726669117[53.1117942,23.9773001]
 w267197766
-  other tags : addr:city=а.г Пограничный | addr:housenumber=55 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=55 | addr:street=Зелёная улица | building=residential
     geometry : n2726669565[53.1138914,23.9767475] n2726669537[53.1138064,23.9767534] n2726669539[53.1138109,23.9769357] n2726669566[53.1138959,23.9769298] n2726669565[53.1138914,23.9767475]
 w267197767
   other tags : building=residential
     geometry : n2726669681[53.1150063,23.9672414] n2726669673[53.1149372,23.9672948] n2726669677[53.1149696,23.9674112] n2726669683[53.1150387,23.9673578] n2726669681[53.1150063,23.9672414]
 w267197768
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=5 | addr:street=Зелёная улица | building=residential
     geometry : n2726668987[53.1104234,23.9640758] n2726668992[53.1104883,23.9642208] n2726668997[53.1105588,23.9641332] n2726668993[53.1104939,23.9639882] n2726668987[53.1104234,23.9640758]
 w267197769
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19в | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=19в | addr:street=улица Гагарина | building=residential
     geometry : n2726669142[53.1118807,23.9707835] n2726669112[53.1117918,23.9708105] n2726669118[53.1118090,23.9709677] n2726669148[53.1118979,23.9709407] n2726669142[53.1118807,23.9707835]
 w267197770
   other tags : building=residential
     geometry : n2726669669[53.1144931,23.9643137] n2726669670[53.1145241,23.9643981] n2726669664[53.1144492,23.9644746] n2726669663[53.1144181,23.9643903] n2726669669[53.1144931,23.9643137]
 w267197771
-  other tags : addr:city=а.г Пограничный | addr:housenumber=24 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=24 | addr:street=улица Гагарина | building=residential
     geometry : n2726669208[53.1121633,23.9679435] n2726669192[53.1120744,23.9679858] n2726669199[53.1121088,23.9681868] n2726669214[53.1121977,23.9681445] n2726669208[53.1121633,23.9679435]
 w267197772
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=4 | addr:street=улица Гагарина | building=residential
     geometry : n2726669205[53.1121364,23.9750986] n2726669212[53.1121702,23.9752599] n2726669229[53.1122273,23.9752267] n2726669218[53.1121935,23.9750654] n2726669205[53.1121364,23.9750986]
 w267197773
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=6 | addr:street=Лесная улица | building=residential
     geometry : n2726668973[53.1101589,23.9667838] n2726668977[53.1101922,23.9669576] n2726668981[53.1102843,23.9669085] n2726668980[53.1102510,23.9667347] n2726668973[53.1101589,23.9667838]
 w267197774
   other tags : building=residential
     geometry : n2726669671[53.1147499,23.9671131] n2726669672[53.1147613,23.9672822] n2726669668[53.1146916,23.9672952] n2726669666[53.1146802,23.9671262] n2726669671[53.1147499,23.9671131]
 w267197775
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=6 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669391[53.1132553,23.9789387] n2726669394[53.1132915,23.9791238] n2726669376[53.1132194,23.9791630] n2726669367[53.1131831,23.9789779] n2726669391[53.1132553,23.9789387]
 w267197776
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=19 | addr:street=Зелёная улица | building=residential
     geometry : n2726669382[53.1132391,23.9659871] n2726669393[53.1132862,23.9661218] n2726669371[53.1132020,23.9662036] n2726669357[53.1131549,23.9660689] n2726669382[53.1132391,23.9659871]
 w267197777
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=2 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668926[53.1093442,23.9669020] n2726668927[53.1093780,23.9670749] n2726668931[53.1094575,23.9670318] n2726668928[53.1094237,23.9668588] n2726668926[53.1093442,23.9669020]
 w267197778
-  other tags : addr:city=а.г Пограничный | addr:housenumber=52 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=52 | addr:street=Зелёная улица | building=residential
     geometry : n2726669465[53.1135661,23.9750527] n2726669476[53.1136046,23.9752121] n2726669452[53.1135084,23.9752767] n2726669437[53.1134699,23.9751173] n2726669465[53.1135661,23.9750527]
 w267197779
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=2 | addr:street=Лесная улица | building=residential
     geometry : n2726668945[53.1099095,23.9661893] n2726668948[53.1099325,23.9663683] n2726668953[53.1100286,23.9663340] n2726668952[53.1100056,23.9661551] n2726668945[53.1099095,23.9661893]
 w267197780
   other tags : building=residential
     geometry : n2726669038[53.1112537,23.9652484] n2726669040[53.1112901,23.9654340] n2726669046[53.1113833,23.9653833] n2726669043[53.1113469,23.9651977] n2726669038[53.1112537,23.9652484]
 w267197781
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=19 | addr:street=улица Гагарина | building=residential
     geometry : n2726669188[53.1120517,23.9732575] n2726669193[53.1120780,23.9734103] n2726669211[53.1121736,23.9733647] n2726669206[53.1121474,23.9732119] n2726669188[53.1120517,23.9732575]
 w267197782
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=5 | addr:street=улица Гагарина | building=residential
     geometry : n2726669303[53.1128601,23.9761233] n2726669289[53.1127402,23.9761885] n2726669290[53.1127618,23.9762991] n2726669304[53.1128818,23.9762339] n2726669303[53.1128601,23.9761233]
 w267197783
-  other tags : addr:city=а.г Пограничный | addr:housenumber=23а | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=23а | addr:street=Комсомольская улица | building=residential
     geometry : n2726669109[53.1117487,23.9800888] n2726669088[53.1116456,23.9800508] n2726669084[53.1116139,23.9802894] n2726669103[53.1117171,23.9803273] n2726669109[53.1117487,23.9800888]
 w267197784
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=6 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668942[53.1098222,23.9685444] n2726668944[53.1098690,23.9687146] n2726668949[53.1099836,23.9686271] n2726668947[53.1099368,23.9684570] n2726668942[53.1098222,23.9685444]
 w267197785
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=10 | addr:street=Лесная улица | building=residential
     geometry : n2726668991[53.1104962,23.9673688] n2726668995[53.1105290,23.9675383] n2726668999[53.1105962,23.9675022] n2726668996[53.1105635,23.9673327] n2726668991[53.1104962,23.9673688]
 w267197786
-  other tags : addr:city=а.г Пограничный | addr:housenumber=21 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=21 | addr:street=улица Гагарина | building=residential
     geometry : n2726669140[53.1118864,23.9686693] n2726669116[53.1118216,23.9687059] n2726669129[53.1118584,23.9688867] n2726669152[53.1119232,23.9688501] n2726669140[53.1118864,23.9686693]
 w267197787
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=16 | addr:street=улица Гагарина | building=residential
     geometry : n2726669082[53.1116157,23.9729885] n2726669067[53.1115248,23.9730253] n2726669069[53.1115482,23.9731859] n2726669085[53.1116392,23.9731491] n2726669082[53.1116157,23.9729885]
 w267197788
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=2 | addr:street=Зелёная улица | building=residential
     geometry : n2726668975[53.1101831,23.9631823] n2726668965[53.1101147,23.9630697] n2726668960[53.1100635,23.9631561] n2726668968[53.1101319,23.9632687] n2726668975[53.1101831,23.9631823]
 w267197789
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=17 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669503[53.1136877,23.9802325] n2726669470[53.1135936,23.9802665] n2726669492[53.1136349,23.9805838] n2726669525[53.1137291,23.9805497] n2726669503[53.1136877,23.9802325]
 w267197790
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=16 | addr:street=Лесная улица | building=residential
     geometry : n2726669063[53.1110339,23.9684520] n2726669054[53.1109340,23.9685166] n2726669051[53.1108969,23.9683573] n2726669059[53.1109967,23.9682927] n2726669063[53.1110339,23.9684520]
 w267197791
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=1 | addr:street=улица Гагарина | building=residential
     geometry : n2726669311[53.1129145,23.9768356] n2726669293[53.1127910,23.9768952] n2726669298[53.1128090,23.9769983] n2726669315[53.1129324,23.9769387] n2726669311[53.1129145,23.9768356]
 w267197792
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=7 | addr:street=Зелёная улица | building=residential
     geometry : n2726669032[53.1110447,23.9646357] n2726669037[53.1111214,23.9647747] n2726669042[53.1111878,23.9646729] n2726669035[53.1111112,23.9645340] n2726669032[53.1110447,23.9646357]
 w267197793
-  other tags : addr:city=а.г Пограничный | addr:housenumber=42 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=42 | addr:street=Зелёная улица | building=residential
     geometry : n2726669403[53.1133528,23.9701641] n2726669410[53.1133758,23.9702851] n2726669380[53.1132379,23.9703581] n2726669374[53.1132148,23.9702370] n2726669403[53.1133528,23.9701641]
 w267197794
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=8 | addr:street=Лесная улица | building=residential
     geometry : n2726668983[53.1103273,23.9670911] n2726668984[53.1103614,23.9672577] n2726668989[53.1104457,23.9672099] n2726668986[53.1104116,23.9670433] n2726668983[53.1103273,23.9670911]
 w267197795
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=4 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668937[53.1096403,23.9675940] n2726668935[53.1095756,23.9676350] n2726668936[53.1096057,23.9677668] n2726668938[53.1096704,23.9677258] n2726668937[53.1096403,23.9675940]
 w267197796
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=3 | addr:street=Зелёная улица | building=residential
     geometry : n2726668969[53.1101414,23.9635500] n2726668961[53.1100736,23.9634142] n2726668964[53.1101202,23.9633495] n2726668974[53.1101881,23.9634853] n2726668969[53.1101414,23.9635500]
 w267197797
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=9 | addr:street=Зелёная улица | building=residential
     geometry : n2726669074[53.1115847,23.9650801] n2726669076[53.1115938,23.9651830] n2726669066[53.1115178,23.9652016] n2726669064[53.1115087,23.9650987] n2726669074[53.1115847,23.9650801]
 w267197798
-  other tags : addr:city=а.г Пограничный | addr:housenumber=25 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=25 | addr:street=улица Гагарина | building=residential
     geometry : n2726669276[53.1126512,23.9682580] n2726669265[53.1125778,23.9682915] n2726669271[53.1126063,23.9684651] n2726669281[53.1126797,23.9684315] n2978612721[53.1126801,23.9684249] n2726669276[53.1126512,23.9682580]
 w267197799
-  other tags : addr:city=а.г Пограничный | addr:housenumber=53 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=53 | addr:street=Зелёная улица | building=residential
     geometry : n2726669472[53.1135872,23.9755270] n2726669478[53.1136032,23.9757264] n2726669519[53.1136983,23.9757053] n2726669511[53.1136824,23.9755059] n2726669472[53.1135872,23.9755270]
 w267197800
-  other tags : addr:city=а.г Пограничный | addr:housenumber=50 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=50 | addr:street=Зелёная улица | building=residential
     geometry : n2726669629[53.1141703,23.9732718] n2726669635[53.1141942,23.9734043] n2726669614[53.1141087,23.9734471] n2726669607[53.1140848,23.9733147] n2726669629[53.1141703,23.9732718]
 w267197801
-  other tags : addr:city=а.г Пограничный | addr:housenumber=55а | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=55а | addr:street=Зелёная улица | building=residential
     geometry : n2726669531[53.1137599,23.9762961] n2726669513[53.1136782,23.9763058] n2726669521[53.1136855,23.9764783] n2726669532[53.1137673,23.9764686] n2726669531[53.1137599,23.9762961]
 w267197802
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=9 | addr:street=Лесная улица | building=residential
     geometry : n2726669008[53.1107397,23.9670230] n2726669011[53.1107766,23.9671629] n2726669019[53.1108717,23.9670932] n2726669014[53.1108347,23.9669533] n2726669008[53.1107397,23.9670230]
 w267197803
-  other tags : addr:city=а.г Пограничный | addr:housenumber=36 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=36 | addr:street=улица Гагарина | building=residential
     geometry : n2726669685[53.1150589,23.9661474] n2726669689[53.1150893,23.9662715] n2726669679[53.1150028,23.9663304] n2726669675[53.1149724,23.9662063] n2726669685[53.1150589,23.9661474]
 w267197804
-  other tags : addr:city=а.г Пограничный | addr:housenumber=6 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=6 | addr:street=Зелёная улица | building=residential
     geometry : n2726669012[53.1107606,23.9642028] n2726669009[53.1107350,23.9642864] n2726669015[53.1108195,23.9643583] n2726669018[53.1108451,23.9642747] n2726669012[53.1107606,23.9642028]
 w267197805
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19б | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=19б | addr:street=улица Гагарина | building=residential
     geometry : n2726669168[53.1119713,23.9716595] n2726669137[53.1118659,23.9716959] n2726669143[53.1118886,23.9718780] n2726669176[53.1119940,23.9718415] n2726669168[53.1119713,23.9716595]
 w267197806
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=3 | addr:street=Лесная улица | building=residential
     geometry : n2726668962[53.1103195,23.9656775] n2726668954[53.1102436,23.9657627] n2726668958[53.1102886,23.9658741] n2726668967[53.1103645,23.9657889] n2726668962[53.1103195,23.9656775]
 w267197807
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=20 | addr:street=улица Гагарина | building=residential
     geometry : n2726669166[53.1116640,23.9682337] n2726669172[53.1116868,23.9683723] n2726669141[53.1115887,23.9684170] n2726669134[53.1115659,23.9682784] n2726669166[53.1116640,23.9682337]
 w267197808
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=18 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669130[53.1118565,23.9832284] n2726669108[53.1117796,23.9832478] n2726669110[53.1117953,23.9834216] n2726669136[53.1118722,23.9834023] n2726669130[53.1118565,23.9832284]
 w267197809
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=3 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668930[53.1094288,23.9672818] n2726668932[53.1094565,23.9674494] n2726668934[53.1095433,23.9674096] n2726668933[53.1095156,23.9672420] n2726668930[53.1094288,23.9672818]
 w267197810
-  other tags : addr:city=а.г Пограничный | addr:housenumber=26 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=26 | addr:street=Зелёная улица | building=residential
     geometry : n2726669342[53.1130436,23.9676419] n2726669322[53.1129445,23.9676780] n2726669324[53.1129573,23.9677753] n2726669346[53.1130564,23.9677393] n2726669342[53.1130436,23.9676419]
 w267197812
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=4 | addr:street=Лесная улица | building=residential
     geometry : n2726668966[53.1101099,23.9664541] n2726668955[53.1100057,23.9664888] n2726668957[53.1100264,23.9666610] n2726668970[53.1101306,23.9666263] n2726668966[53.1101099,23.9664541]
 w267197813
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2а | addr:street=ул.Комарова | building=residential
+  other tags : addr:housenumber=2а | addr:street=улица Комарова | building=residential
     geometry : n2726669091[53.1116810,23.9783748] n2726669071[53.1115746,23.9783822] n2726669072[53.1115792,23.9785677] n2726669092[53.1116856,23.9785602] n2726669091[53.1116810,23.9783748]
 w267197814
-  other tags : addr:city=а.г Пограничный | addr:housenumber=29 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=29 | addr:street=Зелёная улица | building=residential
     geometry : n2726669421[53.1134213,23.9681788] n2726669428[53.1134462,23.9683486] n2726669408[53.1133776,23.9683764] n2726669401[53.1133528,23.9682066] n2726669421[53.1134213,23.9681788]
 w267197815
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=5 | addr:street=Лесная улица | building=residential
     geometry : n2726668985[53.1103888,23.9663381] n2726668988[53.1104402,23.9665155] n2726668994[53.1105163,23.9664543] n2726668990[53.1104649,23.9662769] n2726668985[53.1103888,23.9663381]
 w267197816
-  other tags : addr:city=а.г Пограничный | addr:housenumber=44 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=44 | addr:street=Зелёная улица | building=residential
     geometry : n2726669445[53.1134888,23.9704520] n2726669459[53.1135308,23.9705754] n2726669432[53.1134550,23.9706471] n2726669423[53.1134130,23.9705237] n2726669445[53.1134888,23.9704520]
 w267197817
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=11 | addr:street=Лесная улица | building=residential
     geometry : n2726669026[53.1109786,23.9672257] n2726669020[53.1108883,23.9673283] n2726669023[53.1109442,23.9674647] n2726669031[53.1110345,23.9673621] n2726669026[53.1109786,23.9672257]
 w267197818
-  other tags : addr:city=а.г Пограничный | addr:housenumber=25 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=25 | addr:street=Зелёная улица | building=residential
     geometry : n2726669439[53.1134654,23.9674432] n2726669450[53.1134963,23.9675661] n2726669424[53.1134202,23.9676192] n2726669411[53.1133893,23.9674962] n2726669439[53.1134654,23.9674432]
 w267197819
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=4 | addr:street=Зелёная улица | building=residential
     geometry : n2726668978[53.1102317,23.9636886] n2726668982[53.1103106,23.9638421] n2726668979[53.1102478,23.9639317] n2726668972[53.1101689,23.9637782] n2726668978[53.1102317,23.9636886]
 w267197820
-  other tags : addr:city=а.г Пограничный | addr:housenumber=30 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=30 | addr:street=улица Гагарина | building=residential
     geometry : n2726669622[53.1141027,23.9671632] n2726669581[53.1139985,23.9672196] n2726669583[53.1140173,23.9673160] n2726669624[53.1141215,23.9672596] n2726669622[53.1141027,23.9671632]
 w267197824
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=16 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669144[53.1119050,23.9827873] n2726669120[53.1118279,23.9827967] n2726669123[53.1118354,23.9829670] n2726669149[53.1119125,23.9829575] n2726669144[53.1119050,23.9827873]
 w267197825
-  other tags : addr:city=а.г Пограничный | addr:housenumber=41 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=41 | addr:street=Зелёная улица | building=residential
     geometry : n2726669333[53.1130093,23.9689394] n2726669344[53.1130378,23.9690872] n2726669350[53.1131162,23.9690453] n2726669348[53.1130877,23.9688975] n2726669333[53.1130093,23.9689394]
 w267197826
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=1 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668925[53.1093282,23.9665964] n2726668923[53.1092552,23.9666413] n2726668922[53.1092287,23.9665217] n2726668924[53.1093017,23.9664769] n2726668925[53.1093282,23.9665964]
 w267197827
   other tags : building=residential
     geometry : n2726669569[53.1137381,23.9691637] n2726669580[53.1137976,23.9694163] n2726669618[53.1138961,23.9693518] n2726669599[53.1138366,23.9690992] n2726669569[53.1137381,23.9691637]
 w267197828
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=8 | addr:street=Зелёная улица | building=residential
     geometry : n2726669047[53.1112842,23.9649536] n2726669049[53.1113122,23.9651000] n2726669057[53.1113840,23.9650619] n2726669052[53.1113560,23.9649155] n2726669047[53.1112842,23.9649536]
 w267197829
-  other tags : addr:city=а.г Пограничный | addr:housenumber=43 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=43 | addr:street=Зелёная улица | building=residential
     geometry : n2726669507[53.1136399,23.9702844] n2726669524[53.1136784,23.9703834] n2726669496[53.1135940,23.9704744] n2726669474[53.1135555,23.9703754] n2726669507[53.1136399,23.9702844]
 w267197830
   other tags : building=residential
     geometry : n2726669633[53.1141940,23.9684913] n2726669609[53.1141076,23.9685196] n2726669620[53.1141237,23.9686553] n2726669637[53.1142056,23.9686284] n2726669633[53.1141940,23.9684913]
 w267197831
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Мицкевича | building=residential
+  other tags : addr:housenumber=5 | addr:street=улица Мицкевича | building=residential
     geometry : n2726668939[53.1097227,23.9679452] n2726668940[53.1097657,23.9681133] n2726668943[53.1098238,23.9680720] n2726668941[53.1097808,23.9679039] n2726668939[53.1097227,23.9679452]
 w267197832
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=13 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669260[53.1125292,23.9815010] n2726669251[53.1124298,23.9814743] n2726669249[53.1124185,23.9815904] n2726669256[53.1125179,23.9816172] n2726669260[53.1125292,23.9815010]
 w267197833
   other tags : building=residential
     geometry : n2726669651[53.1144946,23.9669011] n2726669655[53.1145192,23.9669983] n2726669647[53.1144378,23.9670553] n2726669641[53.1144133,23.9669581] n2726669651[53.1144946,23.9669011]
 w267197834
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20б | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=20б | addr:street=улица Гагарина | building=residential
     geometry : n2726669048[53.1113134,23.9701843] n2726669050[53.1113408,23.9703530] n2726669058[53.1114229,23.9703160] n2726669056[53.1113955,23.9701473] n2726669048[53.1113134,23.9701843]
 w267197835
-  other tags : addr:city=а.г Пограничный | addr:housenumber=32 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=32 | addr:street=Зелёная улица | building=residential
     geometry : n2726669549[53.1138368,23.9686056] n2726669529[53.1137464,23.9686662] n2726669534[53.1137810,23.9688092] n2726669562[53.1138713,23.9687486] n2726669549[53.1138368,23.9686056]
 w267197836
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=17 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669233[53.1122542,23.9822748] n2726669238[53.1122827,23.9824353] n2726669226[53.1122180,23.9824671] n2726669217[53.1121895,23.9823067] n2726669233[53.1122542,23.9822748]
 w267197837
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=12 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669157[53.1119357,23.9819500] n2726669131[53.1118586,23.9819720] n2726669138[53.1118738,23.9821202] n2726669162[53.1119509,23.9820982] n2726669157[53.1119357,23.9819500]
 w267197838
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=8 | addr:street=улица Гагарина | building=residential
     geometry : n2726669187[53.1120333,23.9745010] n2726669190[53.1120587,23.9746689] n2726669171[53.1119589,23.9747108] n2726669164[53.1119335,23.9745430] n2726669187[53.1120333,23.9745010]
 w267197839
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=13 | addr:street=Лесная улица | building=residential
     geometry : n2726669029[53.1110389,23.9676145] n2726669033[53.1110931,23.9677780] n2726669036[53.1111610,23.9677155] n2726669034[53.1111068,23.9675520] n2726669029[53.1110389,23.9676145]
 w267197840
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=5 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669296[53.1127946,23.9798013] n2726669278[53.1126627,23.9797471] n2726669275[53.1126415,23.9798901] n2726669291[53.1127734,23.9799443] n2726669296[53.1127946,23.9798013]
 w267197841
-  other tags : addr:city=а.г Пограничный | addr:housenumber=1 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=1 | addr:street=Лесная улица | building=residential
     geometry : n2726668971[53.1101639,23.9653396] n2726668976[53.1102029,23.9655076] n2726668963[53.1101022,23.9655725] n2726668959[53.1100632,23.9654045] n2726668971[53.1101639,23.9653396]
 w267197842
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=18 | addr:street=Зелёная улица | building=residential
     geometry : n2726669243[53.1123199,23.9665772] n2726669245[53.1123389,23.9666706] n2726669232[53.1122543,23.9667183] n2726669231[53.1122353,23.9666248] n2726669243[53.1123199,23.9665772]
 w267197843
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=12 | addr:street=улица Гагарина | building=residential
     geometry : n2726669122[53.1118217,23.9737652] n2726669132[53.1118527,23.9739391] n2726669160[53.1119326,23.9738997] n2726669150[53.1119016,23.9737257] n2726669122[53.1118217,23.9737652]
 w267197844
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=9 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669279[53.1126748,23.9806514] n2726669263[53.1125440,23.9806087] n2726669258[53.1125261,23.9807603] n2726669277[53.1126569,23.9808031] n2726669279[53.1126748,23.9806514]
 w267197845
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=4 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669186[53.1120437,23.9794344] n2726669180[53.1120137,23.9796659] n2726669240[53.1123243,23.9797778] n2726669246[53.1123544,23.9795463] n2726669186[53.1120437,23.9794344]
 w267197846
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=20 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669105[53.1117613,23.9836830] n2726669106[53.1117662,23.9838600] n2726669127[53.1118554,23.9838531] n2726669126[53.1118504,23.9836760] n2726669105[53.1117613,23.9836830]
 w267197847
-  other tags : addr:city=а.г Пограничный | addr:housenumber=14 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=14 | addr:street=Зелёная улица | building=residential
     geometry : n2726669181[53.1120081,23.9660092] n2726669184[53.1120270,23.9661614] n2726669200[53.1121087,23.9661332] n2726669196[53.1120898,23.9659810] n2726669181[53.1120081,23.9660092]
 w267197848
-  other tags : addr:city=а.г Пограничный | addr:street=ул. Зеленая | building=residential
+  other tags : addr:street=Зелёная улица | building=residential
     geometry : n2726669426[53.1134174,23.9701317] n2726669443[53.1134825,23.9700896] n2726669455[53.1135099,23.9702073] n2726669430[53.1134448,23.9702494] n2726669426[53.1134174,23.9701317]
 w267197849
-  other tags : addr:city=а.г Пограничный | addr:housenumber=27 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=27 | addr:street=улица Гагарина | building=residential
     geometry : n2726669331[53.1130065,23.9680090] n2726669341[53.1130325,23.9681664] n2726669318[53.1129293,23.9682137] n2726669309[53.1129033,23.9680563] n2726669331[53.1130065,23.9680090]
 w267197850
-  other tags : addr:city=а.г Пограничный | addr:housenumber=39 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=39 | addr:street=улица Гагарина | building=residential
     geometry : n2726669707[53.1154093,23.9641703] n2726669713[53.1154503,23.9642760] n2726669719[53.1155074,23.9642144] n2726669717[53.1154663,23.9641087] n2726669707[53.1154093,23.9641703]
 w267197851
-  other tags : addr:city=а.г Пограничный | addr:housenumber=14 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=14 | addr:street=Лесная улица | building=residential
     geometry : n2726669013[53.1108096,23.9679183] n2726669006[53.1107273,23.9679817] n2726669010[53.1107764,23.9681583] n2726669016[53.1108587,23.9680950] n2726669013[53.1108096,23.9679183]
 w267197852
-  other tags : addr:city=а.г Пограничный | addr:housenumber=24 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=24 | addr:street=Зелёная улица | building=residential
     geometry : n2726669305[53.1128824,23.9673055] n2726669317[53.1129188,23.9674848] n2726669329[53.1129934,23.9674428] n2726669326[53.1129571,23.9672635] n2726669305[53.1128824,23.9673055]
 w267197853
   other tags : building=residential
     geometry : n2726669060[53.1114654,23.9783744] n2726669053[53.1113987,23.9783725] n2726669055[53.1113970,23.9785391] n2726669061[53.1114637,23.9785410] n2726669060[53.1114654,23.9783744]
 w267197854
-  other tags : addr:city=а.г Пограничный | addr:housenumber=8 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=8 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669175[53.1119642,23.9808490] n2726669165[53.1119262,23.9811308] n2726669133[53.1118340,23.9810963] n2726669147[53.1118721,23.9808145] n2726669175[53.1119642,23.9808490]
 w267197855
-  other tags : addr:city=а.г Пограничный | addr:housenumber=27 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=27 | addr:street=Зелёная улица | building=residential
     geometry : n2726669479[53.1136090,23.9678913] n2726669505[53.1136832,23.9680064] n2726669494[53.1136378,23.9680878] n2726669463[53.1135635,23.9679728] n2726669479[53.1136090,23.9678913]
 w267197856
-  other tags : addr:city=а.г Пограничный | addr:housenumber=45 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=45 | addr:street=Зелёная улица | building=residential
     geometry : n2726669384[53.1132604,23.9707196] n2726669396[53.1133066,23.9708392] n2726669373[53.1132194,23.9709326] n2726669362[53.1131733,23.9708130] n2726669384[53.1132604,23.9707196]
 w267197857
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=12 | addr:street=Зелёная улица | building=residential
     geometry : n2726669119[53.1118129,23.9655341] n2726669124[53.1118298,23.9656311] n2726669099[53.1117311,23.9656789] n2726669095[53.1117142,23.9655818] n2726669119[53.1118129,23.9655341]
 w267197858
   other tags : building=residential
     geometry : n2726669653[53.1145139,23.9681888] n2726669657[53.1145579,23.9683071] n2726669661[53.1146094,23.9682539] n2726669659[53.1145654,23.9681356] n2726669653[53.1145139,23.9681888]
 w267197859
-  other tags : addr:city=а.г Пограничный | addr:housenumber=29 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=29 | addr:street=улица Гагарина | building=residential
     geometry : n2726669616[53.1140887,23.9674619] n2726669579[53.1139918,23.9675331] n2726669584[53.1140321,23.9676854] n2726669626[53.1141290,23.9676143] n2726669616[53.1140887,23.9674619]
 w267197860
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=13 | addr:street=улица Комарова | building=residential
     geometry : n2726669557[53.1138694,23.9775738] n2726669555[53.1138664,23.9777257] n2726669571[53.1139554,23.9777307] n2726669572[53.1139585,23.9775788] n2726669557[53.1138694,23.9775738]
 w267197861
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=18 | addr:street=Зелёная улица | building=residential
     geometry : n2726669468[53.1135855,23.9655847] n2726669483[53.1136168,23.9656732] n2726669461[53.1135616,23.9657274] n2726669458[53.1135303,23.9656388] n2726669468[53.1135855,23.9655847]
 w267197862
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=7 | addr:street=улица Гагарина | building=residential
     geometry : n2726669300[53.1128192,23.9755776] n2726669302[53.1128501,23.9757083] n2726669288[53.1127252,23.9757904] n2726669283[53.1126943,23.9756597] n2726669300[53.1128192,23.9755776]
 w267197863
-  other tags : addr:city=а.г Пограничный | addr:housenumber=39 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=39 | addr:street=Зелёная улица | building=residential
     geometry : n2726669543[53.1134459,23.9696865] n2726669551[53.1134624,23.9697939] n2726669528[53.1133334,23.9698490] n2726669522[53.1133169,23.9697416] n2726669543[53.1134459,23.9696865]
 w267197864
-  other tags : addr:city=а.г Пограничный | addr:housenumber=37 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=37 | addr:street=улица Гагарина | building=residential
     geometry : n2726669701[53.1153315,23.9654546] n2726669697[53.1152517,23.9655145] n2726669699[53.1153119,23.9657375] n2726669705[53.1153918,23.9656776] n2726669701[53.1153315,23.9654546]
 w267197865
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=2 | addr:street=улица Комарова | building=residential
     geometry : n2726669388[53.1132494,23.9781493] n2726669363[53.1131613,23.9781457] n2726669359[53.1131594,23.9782722] n2726669387[53.1132475,23.9782759] n2726669388[53.1132494,23.9781493]
 w267197866
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=17 | addr:street=улица Гагарина | building=residential
     geometry : n2726669201[53.1121162,23.9735873] n2726669207[53.1121505,23.9737622] n2726669230[53.1122409,23.9737131] n2726669220[53.1122066,23.9735381] n2726669201[53.1121162,23.9735873]
 w267197867
-  other tags : addr:city=а.г Пограничный | addr:housenumber=12 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=12 | addr:street=Лесная улица | building=residential
     geometry : n2726669004[53.1106711,23.9676532] n2726669000[53.1105989,23.9676993] n2726669002[53.1106330,23.9678473] n2726669007[53.1107052,23.9678012] n2726669004[53.1106711,23.9676532]
 w267197868
-  other tags : addr:city=а.г Пограничный | addr:housenumber=33 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=33 | addr:street=Зелёная улица | building=residential
     geometry : n2726669605[53.1140689,23.9688552] n2726669612[53.1140898,23.9689690] n2726669631[53.1141703,23.9689280] n2726669628[53.1141494,23.9688141] n2726669605[53.1140689,23.9688552]
 w267197869
-  other tags : addr:city=а.г Пограничный | addr:housenumber=21а | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=21а | addr:street=улица Гагарина | building=residential
     geometry : n2726669195[53.1120679,23.9727039] n2726669202[53.1121028,23.9728871] n2726669222[53.1122035,23.9728338] n2726669213[53.1121686,23.9726507] n2726669195[53.1120679,23.9727039]
 w267197870
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Лесная | building=residential
+  other tags : addr:housenumber=7 | addr:street=Лесная улица | building=residential
     geometry : n2726669003[53.1106621,23.9666909] n2726668998[53.1105737,23.9667571] n2726669001[53.1106112,23.9668962] n2726669005[53.1106996,23.9668299] n2726669003[53.1106621,23.9666909]
 w267197871
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=2 | addr:street=улица Гагарина | building=residential
     geometry : n2726669237[53.1122895,23.9756367] n2726669210[53.1121697,23.9757056] n2726669221[53.1122073,23.9758872] n2726669244[53.1123272,23.9758182] n2726669237[53.1122895,23.9756367]
 w267197872
   other tags : building=residential
     geometry : n2726669643[53.1144301,23.9685725] n2726669639[53.1143686,23.9686630] n2726669645[53.1144368,23.9687916] n2726669649[53.1144983,23.9687011] n2726669643[53.1144301,23.9685725]
 w267197873
-  other tags : addr:city=а.г Пограничный | addr:housenumber=23 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=23 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669101[53.1117085,23.9804921] n2726669083[53.1116025,23.9804491] n2726669075[53.1115711,23.9806638] n2726669094[53.1116771,23.9807069] n2726669101[53.1117085,23.9804921]
 w267197874
-  other tags : addr:city=а.г Пограничный | addr:housenumber=14 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=14 | addr:street=улица Гагарина | building=residential
     geometry : n2726669093[53.1116972,23.9734013] n2726669079[53.1116141,23.9734393] n2726669086[53.1116480,23.9736451] n2726669100[53.1117311,23.9736071] n2726669093[53.1116972,23.9734013]
 w267197875
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=11 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669272[53.1126124,23.9810817] n2726669252[53.1124435,23.9810375] n2726669250[53.1124285,23.9811965] n2726669269[53.1125974,23.9812407] n2726669272[53.1126124,23.9810817]
 w267197876
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=11 | addr:street=улица Комарова | building=residential
     geometry : n2726669517[53.1136988,23.9775869] n2726669515[53.1136967,23.9777234] n2726669487[53.1136207,23.9777202] n2726669489[53.1136228,23.9775836] n2726669517[53.1136988,23.9775869]
 w267197877
-  other tags : addr:city=а.г Пограничный | addr:housenumber=20а | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=20а | addr:street=улица Гагарина | building=residential
     geometry : n2726669044[53.1112832,23.9691829] n2726669039[53.1111957,23.9692300] n2726669041[53.1112290,23.9694016] n2726669045[53.1113165,23.9693545] n2726669044[53.1112832,23.9691829]
 w267197878
-  other tags : addr:city=а.г Пограничный | addr:housenumber=30 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=30 | addr:street=Зелёная улица | building=residential
     geometry : n2726669577[53.1139928,23.9682463] n2726669582[53.1140181,23.9683602] n2726669564[53.1139032,23.9684311] n2726669559[53.1138779,23.9683172] n2726669577[53.1139928,23.9682463]
 w267197879
-  other tags : addr:city=а.г Пограничный | addr:housenumber=23 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=23 | addr:street=улица Гагарина | building=residential
     geometry : n2726669239[53.1122922,23.9684246] n2726669241[53.1123175,23.9685799] n2726669225[53.1122260,23.9686213] n2726669219[53.1122007,23.9684660] n2726669239[53.1122922,23.9684246]
 w267197880
-  other tags : addr:city=а.г Пограничный | addr:housenumber=18 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=18 | addr:street=улица Гагарина | building=residential
     geometry : n2726669062[53.1114618,23.9726990] n2726669065[53.1114931,23.9728696] n2726669078[53.1115831,23.9728238] n2726669070[53.1115518,23.9726532] n2726669062[53.1114618,23.9726990]
 w267197881
-  other tags : addr:city=а.г Пограничный | addr:housenumber=15 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=15 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669254[53.1124764,23.9819119] n2726669248[53.1123791,23.9819073] n2726669247[53.1123768,23.9820439] n2726669253[53.1124741,23.9820485] n2726669254[53.1124764,23.9819119]
 w267197882
-  other tags : addr:city=а.г Пограничный | addr:housenumber=41 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=41 | addr:street=улица Гагарина | building=residential
     geometry : n2726669703[53.1153901,23.9637332] n2726669709[53.1154351,23.9638512] n2726669715[53.1154860,23.9637973] n2726669711[53.1154410,23.9636793] n2726669703[53.1153901,23.9637332]
 w267197883
-  other tags : addr:city=а.г Пограничный | addr:housenumber=21 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=21 | addr:street=Зелёная улица | building=residential
     geometry : n2726669327[53.1129820,23.9666178] n2726669308[53.1128867,23.9667212] n2726669320[53.1129188,23.9668035] n2726669339[53.1130142,23.9667002] n2726669327[53.1129820,23.9666178]
 w267197884
-  other tags : addr:city=а.г Пограничный | addr:housenumber=10 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=10 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669466[53.1135569,23.9786990] n2726669441[53.1134600,23.9787627] n2726669454[53.1134957,23.9789133] n2726669485[53.1135926,23.9788496] n2726669466[53.1135569,23.9786990]
 w267197885
-  other tags : addr:city=а.г Пограничный | addr:housenumber=14 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=14 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669153[53.1119148,23.9823059] n2726669145[53.1118993,23.9824636] n2726669163[53.1119485,23.9824771] n2726669167[53.1119641,23.9823194] n2726669153[53.1119148,23.9823059]
 w267197886
-  other tags : addr:city=а.г Пограничный | addr:housenumber=31 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=31 | addr:street=Зелёная улица | building=residential
     geometry : n2726669481[53.1136067,23.9683333] n2726669490[53.1136261,23.9684593] n2726669509[53.1136811,23.9684359] n2726669501[53.1136617,23.9683098] n2726669481[53.1136067,23.9683333]
 w267197887
-  other tags : addr:city=а.г Пограничный | addr:housenumber=9 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=9 | addr:street=улица Комарова | building=residential
     geometry : n2726669413[53.1133986,23.9774735] n2726669415[53.1133991,23.9776538] n2726669399[53.1133069,23.9776546] n2726669398[53.1133065,23.9775278] n2726669406[53.1133504,23.9775275] n2726669405[53.1133502,23.9774739] n2726669413[53.1133986,23.9774735]
 w267197888
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5а | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=5а | addr:street=улица Комарова | building=residential
     geometry : n2726669090[53.1116828,23.9774117] n2726669089[53.1116792,23.9773513] n2726669077[53.1116056,23.9773609] n2726669080[53.1116185,23.9775679] n2726669097[53.1117270,23.9775492] n2726669096[53.1117181,23.9774057] n2726669090[53.1116828,23.9774117]
 w267197889
-  other tags : addr:city=а.г Пограничный | addr:housenumber=4 | addr:street=ул. Комарова | building=residential
+  other tags : addr:housenumber=4 | addr:street=улица Комарова | building=residential
     geometry : n2726669447[53.1135023,23.9781634] n2726669417[53.1134100,23.9781650] n2726669419[53.1134111,23.9783503] n2726669435[53.1134704,23.9783493] n2726669433[53.1134701,23.9783012] n2726669449[53.1135031,23.9783006] n2726669447[53.1135023,23.9781634]
 w267197890
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=11 | addr:street=улица Гагарина | building=residential
     geometry : n2726669262[53.1125370,23.9752173] n2726669257[53.1125112,23.9751097] n2726669264[53.1125421,23.9750893] n2726669259[53.1125217,23.9750039] n2726669267[53.1125764,23.9749676] n2726669274[53.1126225,23.9751606] n2726669262[53.1125370,23.9752173]
 w267197891
-  other tags : addr:city=а.г Пограничный | addr:housenumber=11 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=11 | addr:street=Зелёная улица | building=residential
     geometry : n2726669102[53.1117368,23.9653413] n2726669107[53.1117593,23.9654973] n2726669114[53.1117959,23.9654827] n2726669111[53.1117880,23.9654285] n2726669128[53.1118410,23.9654073] n2726669125[53.1118263,23.9653055] n2726669102[53.1117368,23.9653413]
 w267197892
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19 | addr:street=ул. Комсомольская | building=residential
+  other tags : addr:housenumber=19 | addr:street=Комсомольская улица | building=residential
     geometry : n2726669227[53.1122416,23.9828445] n2726669223[53.1122318,23.9827843] n2726669204[53.1121487,23.9828220] n2726669209[53.1121766,23.9829931] n2726669235[53.1122993,23.9829375] n2726669234[53.1122812,23.9828265] n2726669227[53.1122416,23.9828445]
 w267197893
-  other tags : addr:city=а.г Пограничный | addr:housenumber=13 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=13 | addr:street=Зелёная улица | building=residential
     geometry : n2726669115[53.1117963,23.9659606] n2726669113[53.1117893,23.9659025] n2726669098[53.1117214,23.9659251] n2726669104[53.1117393,23.9660743] n2726669139[53.1118645,23.9660326] n2726669135[53.1118535,23.9659415] n2726669115[53.1117963,23.9659606]
 w267197894
-  other tags : addr:city=а.г Пограничный | addr:housenumber=28 | addr:street=ул. Гагарина | building=residential
+  other tags : addr:housenumber=28 | addr:street=улица Гагарина | building=residential
     geometry : n2726669545[53.1138358,23.9672218] n2726669541[53.1138179,23.9671537] n2726669533[53.1137785,23.9671825] n2726669536[53.1137969,23.9672525] n2726669530[53.1137620,23.9672779] n2726669535[53.1137932,23.9673969] n2726669560[53.1138676,23.9673427] n2726669545[53.1138358,23.9672218]
 w267197895
-  other tags : addr:city=а.г Пограничный | addr:housenumber=49 | addr:street=ул. Зеленая | building=residential
+  other tags : addr:housenumber=49 | addr:street=Зелёная улица | building=residential
     geometry : n2726669553[53.1138640,23.9729332] n2726669563[53.1138921,23.9730793] n2726669567[53.1139267,23.9730608] n2726669568[53.1139383,23.9731210] n2726669575[53.1139782,23.9730996] n2726669574[53.1139684,23.9730488] n2726669578[53.1139915,23.9730364] n2726669573[53.1139616,23.9728811] n2726669553[53.1138640,23.9729332]
 w267197896
   other tags : building=residential
@@ -5932,26 +5884,23 @@ w293712792  null / null / ул. Советская
 w293712794  null / null / ул. Советская
   other tags : addr:housenumber=39 | addr:street=Советская улица | building=residential
     geometry : n2973033986[53.1173578,23.9656448] n2973033987[53.1173909,23.9657878] n2973033985[53.1173031,23.9658442] n2973033984[53.1172700,23.9657012] n2973033986[53.1173578,23.9656448]
-w293712796  null / null / ул. Машерова
-  other tags : building=residential
+w293712796
+  other tags : addr:street=улица Машерова | building=residential
     geometry : n2973034032[53.1215054,23.9765332] n2973034030[53.1214506,23.9764041] n2973034025[53.1213525,23.9765198] n2973034028[53.1214072,23.9766488] n2973034032[53.1215054,23.9765332]
 w293712798  null / null / ул. Советская
   other tags : building=residential
     geometry : n2973033993[53.1174651,23.9649369] n2973033992[53.1174504,23.9650580] n2973033988[53.1174112,23.9650447] n2973033991[53.1174259,23.9649237] n2973033993[53.1174651,23.9649369]
-w293712799  null / null / Жилой дом
-  other tags : addr:city=а.г Пограничный | addr:housenumber=5 | addr:street=ул. Новая | building=residential
+w293712799
+  other tags : addr:housenumber=5 | addr:street=Новая улица | building=residential
     geometry : n2973034013[53.1202305,23.9788564] n2973034014[53.1203074,23.9790189] n2973034012[53.1201576,23.9792157] n2973034011[53.1200807,23.9790532] n2973034013[53.1202305,23.9788564]
-w293712801  null / null / ул. Комарова
-  other tags : building=residential
+w293712801
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2973035490[53.1239918,23.9658493] n2973035487[53.1239008,23.9656641] n2973035484[53.1237691,23.9658438] n2973035485[53.1238602,23.9660290] n2973035490[53.1239918,23.9658493]
-w293712802  null / null / Жилой дом
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Новая | building=residential
+w293712802
+  other tags : addr:housenumber=7 | addr:street=Новая улица | building=residential
     geometry : n2973034017[53.1205120,23.9784312] n2973034015[53.1203706,23.9786306] n2973034016[53.1204485,23.9787841] n2973034019[53.1206241,23.9785365] n2973034018[53.1205461,23.9783831] n2973034017[53.1205120,23.9784312]
-w293712811  null / null / пер. Советский
-  other tags : building=residential
-    geometry : n2702435011[53.1193918,23.9631202] n2702435002[53.1193419,23.9633025] n2702434985[53.1192269,23.9632151] n2702434989[53.1192769,23.9630328] n2702435011[53.1193918,23.9631202]
 w293714287
-  other tags : addr:city=а.г Пограничный | addr:housenumber=2 | addr:street=Тиунчика-Орловских | building=residential
+  other tags : addr:housenumber=2 | addr:street=улица Тиунчика-Орловских | building=residential
     geometry : n2973048755[53.1241399,23.9624861] n2973048756[53.1241840,23.9626873] n2973048754[53.1240632,23.9627609] n2973048753[53.1240190,23.9625597] n2973048755[53.1241399,23.9624861]
 w294168131
   other tags : addr:housenumber=10 | building=residential
@@ -6061,32 +6010,32 @@ w294168196
 w294168197
   other tags : building=residential
     geometry : n2977367154[53.3857863,24.0341829] n2977367145[53.3856864,24.0341400] n2977367144[53.3856812,24.0341739] n2977367141[53.3856745,24.0341710] n2977367139[53.3856688,24.0342079] n2977367143[53.3856794,24.0342125] n2977367140[53.3856706,24.0342699] n2977367151[53.3857666,24.0343112] n2977367154[53.3857863,24.0341829]
-w294171108  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w294171108
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2977394966[53.1219873,23.9733192] n2977394962[53.1218300,23.9733574] n2977394963[53.1218485,23.9735689] n2977394967[53.1220058,23.9735307] n2977394966[53.1219873,23.9733192]
-w294171109  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w294171109
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2977394969[53.1220369,23.9738105] n2977394964[53.1218772,23.9738553] n2977394965[53.1218960,23.9740412] n2977394971[53.1220557,23.9739964] n2977394969[53.1220369,23.9738105]
-w294171110  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=7 | addr:street=ул. Машерова | building=residential
+w294171110
+  other tags : addr:housenumber=7 | addr:street=улица Машерова | building=residential
     geometry : n2977394955[53.1209955,23.9751428] n2977394953[53.1208565,23.9752781] n2977394954[53.1208995,23.9754010] n2977394958[53.1210385,23.9752657] n2977394955[53.1209955,23.9751428]
-w294171113  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w294171113
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2977394976[53.1222406,23.9754323] n2977394972[53.1220591,23.9754701] n2977394973[53.1220735,23.9756625] n2977394977[53.1222551,23.9756247] n2977394976[53.1222406,23.9754323]
-w294171114  null / null / ул. Ленина п. Пограничный
-  other tags : building=residential
+w294171114
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2977394974[53.1221577,23.9749493] n2977394968[53.1220155,23.9749952] n2977394970[53.1220380,23.9751889] n2977394975[53.1221801,23.9751431] n2977394974[53.1221577,23.9749493]
-w294171115  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=3 | addr:street=ул. Машерова | building=residential
+w294171115
+  other tags : addr:housenumber=3 | addr:street=улица Машерова | building=residential
     geometry : n2977394951[53.1207324,23.9745401] n2977394952[53.1207982,23.9747181] n2977394950[53.1207313,23.9747868] n2977394949[53.1207097,23.9747284] n2977394948[53.1206613,23.9747780] n2977394947[53.1206171,23.9746584] n2977394951[53.1207324,23.9745401]
 w294171116
-  other tags : addr:city=а.г Пограничный | addr:housenumber=16 | addr:street=ул. Молодежная | building=residential
+  other tags : addr:housenumber=16 | addr:street=Молодежная улица | building=residential
     geometry : n2977394615[53.1180550,23.9794858] n2977394611[53.1179383,23.9794917] n2977394612[53.1179409,23.9796276] n2977394613[53.1179725,23.9796259] n2977394614[53.1179734,23.9796710] n2977394616[53.1180584,23.9796666] n2977394615[53.1180550,23.9794858]
-w294171118  null / null / ул. Машерова
-  other tags : addr:city=а.г Пограничный | addr:housenumber=14 | addr:street=ул. Машерова | building=residential
+w294171118
+  other tags : addr:housenumber=14 | addr:street=улица Машерова | building=residential
     geometry : n2977394938[53.1200856,23.9766209] n2977394945[53.1202049,23.9764764] n2977394946[53.1202841,23.9766577] n2977394943[53.1201747,23.9767902] n2977394942[53.1201358,23.9767011] n2977394940[53.1201043,23.9767393] n2977394937[53.1200641,23.9766471] n2977394938[53.1200856,23.9766209]
-w294172185  null / null / ул. 40 Лет Победы
-  other tags : building=residential
+w294172185
+  other tags : addr:street=улица 40 Лет Победы | building=residential
     geometry : n2977399450[53.1239037,23.9733424] n2977399448[53.1238117,23.9732587] n2977399447[53.1237420,23.9734717] n2977399449[53.1238340,23.9735554] n2977399450[53.1239037,23.9733424]
 w294172186
   other tags : building=residential
@@ -6094,50 +6043,50 @@ w294172186
 w294172187
   other tags : building=residential
     geometry : n2977399441[53.1172256,23.9795227] n2977399439[53.1171470,23.9795227] n2977399440[53.1171470,23.9796988] n2977399442[53.1172256,23.9796988] n2977399441[53.1172256,23.9795227]
-w294174750  null / null / ул. Комарова
-  other tags : building=residential
+w294174750
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2977444055[53.1229934,23.9666590] n2977444049[53.1228616,23.9668318] n2977444050[53.1228823,23.9668755] n2977444039[53.1227554,23.9670420] n2977444040[53.1227696,23.9670720] n2977444037[53.1226567,23.9672203] n2977444038[53.1227238,23.9673623] n2977444042[53.1228042,23.9672568] n2977444043[53.1228135,23.9672764] n2977444054[53.1229527,23.9670938] n2977444053[53.1229344,23.9670552] n2977444061[53.1230864,23.9668557] n2977444055[53.1229934,23.9666590]
-w294174752  null / null / ул. Комарова
-  other tags : building=residential
+w294174752
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2977443723[53.1219649,23.9679895] n2977443717[53.1219088,23.9680599] n2977443721[53.1219368,23.9681220] n2977443713[53.1218394,23.9682442] n2977443715[53.1218652,23.9683011] n2977443708[53.1217644,23.9684275] n2977443710[53.1217838,23.9684706] n2977443707[53.1217339,23.9685333] n2977443705[53.1217109,23.9684824] n2977443704[53.1216473,23.9685622] n2977443706[53.1217214,23.9687262] n2977443709[53.1217744,23.9686596] n2977443711[53.1217918,23.9686980] n2977443714[53.1218546,23.9686192] n2977443712[53.1218307,23.9685662] n2977443722[53.1219370,23.9684329] n2977443718[53.1219141,23.9683823] n2977443716[53.1219036,23.9683592] n2977443719[53.1219264,23.9683306] n2977443720[53.1219358,23.9683515] n2977443725[53.1220202,23.9682456] n2977443726[53.1220588,23.9681972] n2977443723[53.1219649,23.9679895]
-w294174753  null / null / ул. Комарова
-  other tags : building=residential
+w294174753
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2977443728[53.1221042,23.9670054] n2977443700[53.1215684,23.9676677] n2977443703[53.1216465,23.9678431] n2977443729[53.1221823,23.9671808] n2977443728[53.1221042,23.9670054]
-w294174754  null / null / ул. Юбилейная
+w294174754
   other tags : building=residential
     geometry : n2977443686[53.1194103,23.9646430] n2977443682[53.1192919,23.9645334] n2977443681[53.1192618,23.9646239] n2977443685[53.1193802,23.9647334] n2977443686[53.1194103,23.9646430]
-w294174755  null / null / ул. Комарова
-  other tags : building=residential
+w294174755
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2977443731[53.1222405,23.9676898] n2977443732[53.1223037,23.9678701] n2977443727[53.1220785,23.9680894] n2977443724[53.1220153,23.9679091] n2977443731[53.1222405,23.9676898]
-w294174756  null / null / ул. Комарова
-  other tags : building=residential
+w294174756
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n2977443699[53.1215486,23.9687351] n2977443697[53.1213323,23.9689987] n2977443698[53.1214189,23.9691962] n2977443702[53.1216353,23.9689326] n2977443699[53.1215486,23.9687351]
-w294174757  null / null / ул. Юбилейная
+w294174757
   other tags : building=residential
     geometry : n2977443696[53.1196484,23.9647496] n2977443692[53.1195470,23.9647299] n2977443691[53.1195396,23.9648353] n2977443695[53.1196410,23.9648549] n2977443696[53.1196484,23.9647496]
-w294174758  null / null / ул. Юбилейная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=25 | addr:street=Юбилейная улица | building=residential
+w294174758
+  other tags : addr:housenumber=25 | addr:street=Юбилейная улица | building=residential
     geometry : n2977444035[53.1224627,23.9649525] n2977444033[53.1223151,23.9649791] n2977444034[53.1223244,23.9651219] n2977444036[53.1224720,23.9650953] n2977444035[53.1224627,23.9649525]
-w294174759  null / null / ул. Юбилейная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=36 | addr:street=Юбилейная улица | building=residential
+w294174759
+  other tags : addr:housenumber=36 | addr:street=Юбилейная улица | building=residential
     geometry : n2977444066[53.1238960,23.9637147] n2977444067[53.1239146,23.9639066] n2977444065[53.1237963,23.9639386] n2977444064[53.1237777,23.9637467] n2977444066[53.1238960,23.9637147]
 w294174760
   other tags : building=residential
     geometry : n2977443641[53.1170642,23.9704386] n2977443638[53.1169553,23.9706200] n2977443639[53.1170171,23.9707229] n2977443644[53.1171259,23.9705415] n2977443641[53.1170642,23.9704386]
-w294174761  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=21 | addr:street=Северная | building=residential
+w294174761
+  other tags : addr:housenumber=21 | addr:street=Северная улица | building=residential
     geometry : n2977443687[53.1194456,23.9666499] n2977443683[53.1193483,23.9666621] n2977443684[53.1193567,23.9668474] n2977443688[53.1194540,23.9668352] n2977443687[53.1194456,23.9666499]
-w294174762  null / null / ул. Юбилейная
+w294174762
   other tags : building=residential
     geometry : n2977443678[53.1188396,23.9651382] n2977443673[53.1187335,23.9651176] n2977443671[53.1187241,23.9652511] n2977443676[53.1188303,23.9652717] n2977443678[53.1188396,23.9651382]
-w294174763  null / null / ул. Северная
-  other tags : addr:city=а.г. Пограничный | addr:housenumber=9 | addr:street=Северная | building=residential
+w294174763
+  other tags : addr:housenumber=9 | addr:street=Северная улица | building=residential
     geometry : n2977443693[53.1196140,23.9694023] n2977443689[53.1194970,23.9694132] n2977443690[53.1195046,23.9696389] n2977443694[53.1196216,23.9696280] n2977443693[53.1196140,23.9694023]
-w294174764  null / null / ул. Юбилейная
+w294174764
   other tags : building=residential
     geometry : n2977443667[53.1184358,23.9651885] n2977443669[53.1184930,23.9651877] n2977443670[53.1184942,23.9654078] n2977443666[53.1184021,23.9654092] n2977443665[53.1184013,23.9652724] n2977443668[53.1184363,23.9652719] n2977443667[53.1184358,23.9651885]
-w294174765  null / null / ул. Юбилейная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=29 | addr:street=Юбилейная улица | building=residential
+w294174765
+  other tags : addr:housenumber=29 | addr:street=Юбилейная улица | building=residential
     geometry : n2977444062[53.1231094,23.9647806] n2977444058[53.1230483,23.9647914] n2977444059[53.1230511,23.9648352] n2977444056[53.1230075,23.9648429] n2977444057[53.1230154,23.9649684] n2977444063[53.1231201,23.9649500] n2977444062[53.1231094,23.9647806]
 w294174766  null / null / пер. Советский
   other tags : building=residential
@@ -6145,7 +6094,7 @@ w294174766  null / null / пер. Советский
 w294174767  null / null / ул. Советская
   other tags : building=residential
     geometry : n2977443649[53.1172487,23.9726010] n2977443645[53.1171396,23.9728532] n2977443642[53.1171045,23.9728109] n2977443640[53.1170580,23.9729183] n2977443646[53.1171558,23.9730358] n2977443648[53.1172131,23.9729034] n2977443647[53.1171728,23.9728551] n2977443650[53.1172711,23.9726279] n2977443649[53.1172487,23.9726010]
-w294174768  null / null / ул. Юбилейная
+w294174768
   other tags : building=residential
     geometry : n2977444047[53.1228460,23.9640625] n2977444048[53.1228583,23.9641196] n2977444051[53.1228926,23.9640991] n2977444052[53.1229315,23.9642797] n2977444046[53.1228350,23.9643374] n2977444041[53.1227896,23.9641263] n2977444045[53.1228266,23.9641041] n2977444044[53.1228209,23.9640775] n2977444047[53.1228460,23.9640625]
 w294180056
@@ -6310,17 +6259,11 @@ w310470833
 w310470834
   other tags : addr:housenumber=144 | addr:street=Центральная улица | building=residential
     geometry : n3158966670[53.3978426,23.9079068] n3158966666[53.3976864,23.9077081] n3158966665[53.3976167,23.9078623] n3158966668[53.3977729,23.9080610] n3158966670[53.3978426,23.9079068]
-w310500050  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=19 | addr:street=ул. Молодежная | building=residential
-    geometry : n2702310025[53.1206934,23.9730290] n2702310015[53.1206213,23.9731181]
-w310500051  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Молодежная | building=residential
-    geometry : n2702310007[53.1205084,23.9731685] n2702310013[53.1205928,23.9730642]
-w310500052  null / null / ул.Молодежная
-  other tags : addr:city=а.г Пограничный | addr:housenumber=17 | addr:street=ул. Молодежная | building=residential
-    geometry : n2702310015[53.1206213,23.9731181] n2702310021[53.1206543,23.9731923] n2702310011[53.1205670,23.9733002] n2702310007[53.1205084,23.9731685]
-w310507670  null / null / Жилой дом
-  other tags : addr:city=а.г Пограничный | addr:street=ул.Комарова | building=residential
+w310500052
+  other tags : addr:housenumber=17 | addr:street=Молодежная улица | building=residential
+    geometry : n2702310015[53.1206202,23.9731203] n2702310021[53.1206531,23.9731927] n2702310011[53.1205677,23.9733004] n2702310007[53.1205083,23.9731696] n2702310013[53.1205938,23.9730620] n2702310015[53.1206202,23.9731203]
+w310507670
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n3159277353[53.1110565,23.9777395] n3159277351[53.1109624,23.9777739] n3159277352[53.1109794,23.9779032] n3159277354[53.1110736,23.9778688] n3159277353[53.1110565,23.9777395]
 w314378894
   other tags : building=residential
@@ -6586,6 +6529,6 @@ w321272533
 w321272534
   other tags : building=residential
     geometry : n3280156676[53.3383073,24.0705858] n3280156678[53.3383704,24.0705957] n3280156677[53.3383606,24.0707696] n3280156675[53.3382975,24.0707596] n3280156676[53.3383073,24.0705858]
-w322455502  null / null / ул. Комарова
-  other tags : building=residential
+w322455502
+  other tags : addr:street=улица Комарова | building=residential
     geometry : n3292280967[53.1242461,23.9656204] n3292280966[53.1241551,23.9654352] n3292280964[53.1240234,23.9656149] n3292280965[53.1241145,23.9658001] n3292280967[53.1242461,23.9656204]
