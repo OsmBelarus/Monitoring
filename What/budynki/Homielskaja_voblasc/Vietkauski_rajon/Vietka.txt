@@ -3599,7 +3599,7 @@ w249524826
   other tags : addr:housenumber=24 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
     geometry : n2561152517[52.5711549,31.1729652] n2561152515[52.5710540,31.1729921] n2561152516[52.5710740,31.1731955] n2561152518[52.5711750,31.1731686] n2561152517[52.5711549,31.1729652]
 w249524829
-  other tags : addr:housenumber=26 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+  other tags : addr:city=г.Ветка | addr:housename=КЖ | addr:housenumber=26 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
     geometry : n2561152523[52.5713546,31.1729008] n2561152519[52.5712136,31.1729517] n2561152520[52.5712304,31.1730781] n2561152524[52.5713714,31.1730273] n2561152523[52.5713546,31.1729008]
 w249526482
   other tags : addr:housenumber=10 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
@@ -6809,5 +6809,26 @@ w319661821  null / null / Евроопт
   other tags : addr:city=г.Ветка | addr:country=BY | addr:housenumber=1Д | addr:postcode=247120 | addr:street=улица Заслонова | building=yes | shop=supermarket
     geometry : n3261084756[52.5682372,31.1685484] n3261084758[52.5687691,31.1683481] n3261084759[52.5688087,31.1686324] n3261084757[52.5682767,31.1688327] n3261084756[52.5682372,31.1685484]
 w325224962
-  other tags : addr:city=г.Ветка | addr:country=BY | addr:housenumber=30 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=30 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
     geometry : n3318954808[52.5716040,31.1728312] n3318954810[52.5717022,31.1728026] n3318954811[52.5717194,31.1729619] n3318954809[52.5716211,31.1729905] n3318954808[52.5716040,31.1728312]
+w325226019
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=6 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318964045[52.5686646,31.1744150] n3318964047[52.5687673,31.1743748] n3318964049[52.5687913,31.1745411] n3318964046[52.5686886,31.1745813] n3318964045[52.5686646,31.1744150]
+w325226038
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=4 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318966870[52.5684611,31.1744881] n3318966872[52.5685696,31.1744496] n3318966874[52.5685920,31.1746201] n3318966871[52.5684835,31.1746586] n3318966870[52.5684611,31.1744881]
+w325227644
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=3 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318988993[52.5679670,31.1740435] n3318988999[52.5680775,31.1740155] n3318989001[52.5680949,31.1742014] n3318988994[52.5679844,31.1742294] n3318988993[52.5679670,31.1740435]
+w325227645
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=4А | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318989008[52.5682318,31.1745661] n3318989013[52.5683411,31.1745257] n3318989015[52.5683653,31.1747030] n3318989010[52.5682559,31.1747433] n3318989008[52.5682318,31.1745661]
+w325227646
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=2А | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318988988[52.5677323,31.1747211] n3318988991[52.5678409,31.1746891] n3318988992[52.5678592,31.1748571] n3318988989[52.5677506,31.1748891] n3318988988[52.5677323,31.1747211]
+w325227647
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=5 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318989005[52.5681958,31.1739867] n3318989011[52.5683040,31.1739576] n3318989012[52.5683226,31.1741448] n3318989007[52.5682144,31.1741740] n3318989005[52.5681958,31.1739867]
+w325227648
+  other tags : addr:city=г.Ветка | addr:country=BY | addr:housename=КЖ | addr:housenumber=2 | addr:postcode=247120 | addr:street=Зелёная улица | building=yes
+    geometry : n3318988997[52.5680594,31.1746221] n3318989002[52.5681711,31.1745874] n3318989004[52.5681940,31.1747863] n3318989000[52.5680823,31.1748210] n3318988997[52.5680594,31.1746221]
