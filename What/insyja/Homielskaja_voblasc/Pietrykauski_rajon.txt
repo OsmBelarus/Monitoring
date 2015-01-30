@@ -89,46 +89,46 @@ n2809198543  null / null / Видеонаблюдение МПУ "Житкови
   other tags : man_made=surveillance | surveillance=outdoor
     geometry : [52.1397263,28.5024449]
 n2845744488  null / null / мина №232
-  other tags : tourism=attraction
+  other tags : historic=mine | tourism=attraction
     geometry : [52.1867599,28.8546118]
 n2924698306  null / null / огневая группа №302
-  other tags : tourism=attraction
+  other tags : historic=mine | tourism=attraction
     geometry : [52.2955080,28.8183644]
 n2924833433  null / null / ДОТ
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.1921155,28.8514682]
 n2924833434
   other tags : historic=memorial
     geometry : [52.1702517,28.9062175]
 n2924833440  null / null / ДОТ
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2091597,28.8403424]
 n2924833441  null / null / ДОТ
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2114476,28.8393339]
 n2924833442  null / null / ДОТ
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2121313,28.8346776]
 n2924833443  null / null / ДОТ
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2140508,28.8293132]
 n2924833444  null / null / ДОТ
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2389976,28.8189062]
 n2924833445  null / null / ДОТ 234 Б
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.1813593,28.8647183]
 n2924833446  null / null / ДОТ 263
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.1779564,28.9057669]
 n2924833447  null / null / ДОТ
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2140278,28.8355359]
 n2924833458  null / null / ДОТ 190 ПК
-  other tags : historic=ruins
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2464479,28.8180555]
 n2924833459  null / null / ДОТ 331 Б2
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2982310,28.8395109]
 n2936551746
   other tags : ele=185 | natural=peak
@@ -167,16 +167,16 @@ n2957107964  null / null / ДОТ
   other tags : tourism=attraction
     geometry : [52.0823597,28.6727622]
 n2958296665  null / null / ДОТ 142
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2326226,28.8029417]
 n2958296711  null / null / ДОТ 176
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2370709,28.8046261]
 n2958296712  null / null / ДОТ 170
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2425370,28.8079306]
 n2958296713  null / null / ДОТ 140
-  other tags : tourism=attraction
+  other tags : historic=ruins | tourism=attraction
     geometry : [52.2448363,28.8127157]
 n2965535935  null / null / Братская могила
   other tags : historic=memorial
@@ -750,13 +750,16 @@ w25259329
     geometry : n275253816[52.2535976,29.0356237] n611345176[52.2542806,29.0008838]
 w25260501
   other tags : man_made=cutline
-    geometry : n275260255[52.1980065,28.9161524] n275260260[52.1975000,28.8914700] n275260265[52.1968100,28.8730200]
+    geometry : n679958281[52.1977697,28.9131698] n275260260[52.1975000,28.8914700] n275260265[52.1959021,28.8519296]
+w25260507
+  other tags : man_made=cutline
+    geometry : n3318100829[52.2620638,28.8544401] n275260352[52.2470300,28.8528400] n275260363[52.2419918,28.8522943]
 w25260509
   other tags : man_made=cutline
-    geometry : n275260379[52.2633574,28.8092181] n275260381[52.2626614,28.8255688] n275260362[52.2614662,28.8552233]
+    geometry : n275260379[52.2633574,28.8092181] n275260381[52.2626614,28.8255688] n3318100831[52.2610920,28.8606613]
 w25260515
   other tags : man_made=cutline
-    geometry : n275260434[52.1793660,28.8927420] n275260437[52.1920100,28.8919800] n275260260[52.1975000,28.8914700] n275260439[52.2092600,28.8896700]
+    geometry : n275260434[52.1787919,28.8925568] n275260437[52.1920100,28.8919800] n275260260[52.1975000,28.8914700] n275260439[52.2092600,28.8896700]
 w25262261
   other tags : man_made=cutline
     geometry : n275277436[52.3755200,28.5578400] n275277437[52.3649600,28.5572400] n275277439[52.3475300,28.5564700] n275277716[52.3469300,28.5564700] n275277718[52.3394700,28.5562100] n275277726[52.3286253,28.5557493] n275277572[52.3195892,28.5551914]
@@ -1390,7 +1393,7 @@ w321590113
     geometry : n3283469276[52.2092213,28.8563008] n3283469274[52.2090898,28.8588114] n3283469275[52.2096684,28.8745184]
 w321590114
   other tags : man_made=cutline
-    geometry : n3283469277[52.2073279,28.8624592] n3283469278[52.2188058,28.8576526]
+    geometry : n3318100811[52.1971516,28.8664349] n3283469278[52.2188058,28.8576526]
 w321592175
   other tags : landuse=orchard
     geometry : n3283484938[52.2184704,28.7777299] n3283484939[52.2188385,28.7794036] n3283484940[52.2150195,28.7816030] n3283484941[52.2148354,28.7810773] n3283484942[52.2152167,28.7792427] n3283484943[52.2179906,28.7778801] n3283484938[52.2184704,28.7777299]
@@ -1709,6 +1712,33 @@ w324946354
 w324946360
   other tags : natural=heath
     geometry : n3316172624[52.0817805,28.5436525] n3316172625[52.0818267,28.5462060] n3316172626[52.0807520,28.5462811] n3316172627[52.0809102,28.5445001] n3316172628[52.0803828,28.5441997] n3316172629[52.0804289,28.5437706] n3316172624[52.0817805,28.5436525]
+w325146964
+  other tags : man_made=cutline
+    geometry : n3318100805[52.1765896,28.8791164] n3318100806[52.1973094,28.8775286]
+w325146965
+  other tags : man_made=cutline
+    geometry : n3318100807[52.1998609,28.8756188] n3318100808[52.1895262,28.8711345]
+w325146966
+  other tags : man_made=cutline
+    geometry : n3318100809[52.1862732,28.8639244] n3318100810[52.1971779,28.8633021]
+w325146967
+  other tags : man_made=cutline
+    geometry : n3318100812[52.2097235,28.8704690] n3318100813[52.1960204,28.8716277]
+w325146971
+  other tags : man_made=cutline
+    geometry : n3318100837[52.2427801,28.8269957] n3318100827[52.2425305,28.8634309]
+w325146972
+  other tags : man_made=cutline
+    geometry : n3318100832[52.2540005,28.8581942] n3318100833[52.2542751,28.8243135]
+w325146973
+  other tags : man_made=cutline
+    geometry : n3318100834[52.2728974,28.8440546] n3318100836[52.2567051,28.8424238] n3318100835[52.2317683,28.8417157]
+w325146974
+  other tags : man_made=cutline
+    geometry : n3318100838[52.2353118,28.8279963] n3318100839[52.2358946,28.8442418]
+w325146975
+  other tags : man_made=cutline
+    geometry : n3318100840[52.2624282,28.8283047] n3318100841[52.2857091,28.8303231]
 r286709  null / null / Уборть
   other tags : natural=water | type=multipolygon
     geometry : <outer> w25193259: n274641435[52.0789595,28.4641058] n274641442[52.0798300,28.4639500] n274641443[52.0799200,28.4626600] n274641444[52.0802600,28.4623200] n274641445[52.0807700,28.4624000] n272700220[52.0808676,28.4627715] n274641447[52.0810300,28.4638600] n272700193[52.0810117,28.4642900] n274641448[52.0809500,28.4647200] n274641449[52.0802600,28.4654100] n274641450[52.0795700,28.4658300] n274641451[52.0789700,28.4659200] n274641452[52.0773400,28.4672100] n274641453[52.0769553,28.4667800] n274641425[52.0764800,28.4658300] n274641426[52.0754500,28.4642000] n274641427[52.0758800,28.4614600] n274641428[52.0761400,28.4606000] n274641429[52.0766500,28.4607700] n274641430[52.0766500,28.4630900] n274641431[52.0770800,28.4632600] n274641432[52.0779400,28.4631700] n274641433[52.0784600,28.4627400] n274641434[52.0788900,28.4627400] n274641435[52.0789595,28.4641058] : w25193259
