@@ -142,6 +142,9 @@ n1232016641  Сож / Sož / Сож / Сож
 n1273354254
   other tags : railway=switch
     geometry : [52.3920718,31.0954508]
+n1323256221  Школа / null / школа / Школа
+  other tags : bench=yes | bus=yes | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.5065711,30.9465879]
 n1323256256
   other tags : historic=memorial
     geometry : [52.5328776,30.9189332]
@@ -173,6 +176,9 @@ n1386821014
 n1390113198  null / null / Памятник Ленину
   other tags : historic=memorial
     geometry : [52.5067488,30.9466791]
+n1390113701  Школа / null / школа / Школа
+  other tags : bench=yes | bus=yes | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.5072768,30.9458727]
 n1390113856
   other tags : man_made=water_tower
     geometry : [52.5104250,30.9476200]
@@ -741,6 +747,12 @@ n3248852941  null / null / Красный маяк
 n3265398554
   other tags : railway=level_crossing
     geometry : [52.5124960,30.9520969]
+n3320555045
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5065223,30.9464399]
+n3320555048
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5073314,30.9460464]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
@@ -4404,6 +4416,12 @@ w321081661
 w321576074
   other tags : addr:street=1-я Луговая | building=да
     geometry : n3283363734[52.3611910,30.9823094] n3283363733[52.3611655,30.9822541] n3283363735[52.3612138,30.9821944] n3283363736[52.3612393,30.9822496] n3283363734[52.3611910,30.9823094]
+w325389385
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320555046[52.5066107,30.9463473] n3320555045[52.5065223,30.9464399] n3320555044[52.5064477,30.9465131]
+w325389386
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320555049[52.5074526,30.9459459] n3320555048[52.5073314,30.9460464] n3320555047[52.5072498,30.9461226]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
