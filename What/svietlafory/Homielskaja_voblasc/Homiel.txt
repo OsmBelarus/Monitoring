@@ -520,7 +520,7 @@ n1178825734  вуліца Галавацкага / vulica Halavackaha / улиц
     geometry : [52.4519219,31.0241355]
 n1178825799
   other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [52.4751519,31.0225247]
+    geometry : [52.4750042,31.0226268]
 n1178825820  вуліца Галавацкага / vulica Halavackaha / улица Головацкого / улица Головацкого
   other tags : highway=bus_stop
     geometry : [52.4509984,31.0233499]
@@ -528,8 +528,8 @@ n1178825836  вуліца Макаёнка / null / улица Макаёнка 
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.4719491,31.0321928]
 n1178825889
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [52.4759600,31.0220674]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes
+    geometry : [52.4758640,31.0218734]
 n1178918765  Універсам / Univiersam / Универсам / Универсам
   other tags : highway=bus_stop
     geometry : [52.4483060,31.0231213]
