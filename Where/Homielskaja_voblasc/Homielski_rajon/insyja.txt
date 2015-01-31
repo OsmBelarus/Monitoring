@@ -756,6 +756,15 @@ n3320555045
 n3320555048
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.5073314,30.9460464]
+n3320565603
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5172723,30.9354837]
+n3320565606
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5184856,30.9346954]
+n3320568778
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5227845,30.9303248]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
@@ -4431,6 +4440,18 @@ w325390127
 w325390128
   other tags : bench=yes | bus=yes | public_transport=platform
     geometry : n3320561863[52.5138938,30.9393762] n3320561862[52.5138070,30.9394624] n3320561861[52.5137145,30.9395543]
+w325390166
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320565604[52.5173559,30.9353998] n3320565603[52.5172723,30.9354837] n3320565602[52.5171607,30.9355956]
+w325390167
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320565607[52.5185841,30.9346005] n3320565606[52.5184856,30.9346954] n3320565605[52.5183933,30.9347844]
+w325390330
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320568779[52.5228786,30.9302322] n3320568778[52.5227845,30.9303248] n3320568777[52.5226645,30.9304429]
+w325390331
+  other tags : bench=yes | bus=yes | public_transport=platform
+    geometry : n3320568776[52.5220485,30.9306200] n3320568775[52.5219281,30.9307363] n3320568774[52.5218257,30.9308354]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
