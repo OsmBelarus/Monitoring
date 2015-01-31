@@ -145,9 +145,15 @@ n1273354254
 n1323256221  Школа / null / школа / Школа
   other tags : bench=yes | bus=yes | public_transport=stop_position | shelter=yes | tactile_paving=no
     geometry : [52.5065711,30.9465879]
+n1323256251  null / null / Костюковка
+  other tags : bench=yes | bus=yes | public_transport=stop_position | share_taxi=yes | shelter=yes | tactile_paving=yes
+    geometry : [52.5362957,30.9166645]
 n1323256256
   other tags : historic=memorial
     geometry : [52.5328776,30.9189332]
+n1323256264  null / null / Костюковка
+  other tags : bus=yes | public_transport=stop_position | shelter=yes
+    geometry : [52.5346795,30.9176877]
 n1359774983  Рынак / null / Рынок / Рынок
   other names: name:uk=Ринок
   other tags : amenity=marketplace
@@ -765,6 +771,12 @@ n3320565606
 n3320568778
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.5227845,30.9303248]
+n3320569502
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5346410,30.9175918]
+n3320572241
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5363201,30.9167202]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
@@ -4452,6 +4464,12 @@ w325390330
 w325390331
   other tags : bench=yes | bus=yes | public_transport=platform
     geometry : n3320568776[52.5220485,30.9306200] n3320568775[52.5219281,30.9307363] n3320568774[52.5218257,30.9308354]
+w325390464
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes | shelter=yes
+    geometry : n3320569503[52.5348340,30.9174039] n3320569502[52.5346410,30.9175918] n3320569501[52.5344340,30.9178009]
+w325390542
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes | shelter=yes
+    geometry : n3320572242[52.5364129,30.9166251] n3320572241[52.5363201,30.9167202] n3320572240[52.5362157,30.9168246]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
