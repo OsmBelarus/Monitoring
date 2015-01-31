@@ -124,6 +124,12 @@ n3320585093
 n3320593287
   other tags : bus=yes | public_transport=stop_position
     geometry : [52.5459625,31.0642318]
+n3320594439
+  other tags : bus=yes | public_transport=stop_position
+    geometry : [52.5513772,31.1256403]
+n3320594441
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5514626,31.1255460]
 n3320600049
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.5592522,31.1197614]
@@ -814,6 +820,9 @@ w325392688
 w325392689
   other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
     geometry : n3320600050[52.5593201,31.1196603] n3320600049[52.5592522,31.1197614] n3320600048[52.5591795,31.1198694]
+w325392793
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320594440[52.5514072,31.1254070] n3320594441[52.5514626,31.1255460] n3320594442[52.5515155,31.1256790]
 r391232
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48655828: n617833631[52.9248284,31.4156946] n617833632[52.9249319,31.4158663] n617833630[52.9251905,31.4154371] n617833623[52.9250353,31.4144929] n617833622[52.9246732,31.4147504] n617833621[52.9246732,31.4152654] n617833631[52.9248284,31.4156946] : w48655828
