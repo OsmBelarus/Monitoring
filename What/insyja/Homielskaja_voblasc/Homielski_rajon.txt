@@ -154,6 +154,12 @@ n1323256256
 n1323256264  null / null / Костюковка
   other tags : bus=yes | public_transport=stop_position | shelter=yes
     geometry : [52.5346795,30.9176877]
+n1323256285
+  other tags : bench=yes | bus=yes | public_transport=stop_position | share_taxi=yes | shelter=no | tactile_paving=yes
+    geometry : [52.5486645,30.9048474]
+n1323256317
+  other tags : bench=yes | bus=yes | public_transport=stop_position | share_taxi=yes | shelter=no | tactile_paving=yes
+    geometry : [52.5481782,30.9052876]
 n1359774983  Рынак / null / Рынок / Рынок
   other names: name:uk=Ринок
   other tags : amenity=marketplace
@@ -774,9 +780,33 @@ n3320568778
 n3320569502
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.5346410,30.9175918]
+n3320570299
+  other tags : bus=yes | public_transport=stop_position
+    geometry : [52.5492439,31.0149159]
 n3320572241
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.5363201,30.9167202]
+n3320573181
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5418152,30.9108617]
+n3320573182
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes
+    geometry : [52.5418773,30.9110263]
+n3320573185
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes
+    geometry : [52.5430796,30.9099150]
+n3320579393
+  other tags : bus=yes | public_transport=stop_position
+    geometry : [52.5425146,30.9888780]
+n3320579394
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5425247,30.9887294]
+n3320581409
+  other tags : bus=yes | public_transport=stop_position
+    geometry : [52.5494282,31.0134145]
+n3320581411
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.5494743,31.0133722]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
@@ -4470,6 +4500,27 @@ w325390464
 w325390542
   other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes | shelter=yes
     geometry : n3320572242[52.5364129,30.9166251] n3320572241[52.5363201,30.9167202] n3320572240[52.5362157,30.9168246]
+w325390660
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes | shelter=yes
+    geometry : n3320573187[52.5432283,30.9100005] n3320573186[52.5431286,30.9100868] n3320573184[52.5430200,30.9101807]
+w325390661
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes | shelter=yes
+    geometry : n3320573183[52.5419042,30.9107827] n3320573181[52.5418152,30.9108617] n3320573180[52.5417375,30.9109305]
+w325390746
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes
+    geometry : n3320576317[52.5482083,30.9050506] n3320576316[52.5481251,30.9051285] n3320576315[52.5480388,30.9052095]
+w325390747
+  other tags : bench=yes | bus=yes | public_transport=platform | share_taxi=yes
+    geometry : n3320576320[52.5487944,30.9049412] n3320576319[52.5487170,30.9050021] n3320576318[52.5486059,30.9050896]
+w325391015
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320579395[52.5426073,30.9887424] n3320579394[52.5425247,30.9887294] n3320579392[52.5424517,30.9887179]
+w325391076
+  other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
+    geometry : n3320581410[52.5494420,31.0132670] n3320581411[52.5494743,31.0133722] n3320581412[52.5495042,31.0134696]
+w325391080
+  other tags : bench=yes | bus=yes | public_transport=platform
+    geometry : n3320570300[52.5492914,31.0147810] n3320570298[52.5492251,31.0148132] n3320570297[52.5491659,31.0148419]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
