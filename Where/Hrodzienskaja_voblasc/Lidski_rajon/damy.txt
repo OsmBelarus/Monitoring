@@ -1,30 +1,3 @@
-n3154426228
-  other tags : addr:city=Новоселки | addr:housenumber=2 | addr:street=Славянская улица | building=residential | building:levels=2
-    geometry : [53.8919453,25.3371999]
-n3154429402
-  other tags : addr:city=Новоселки | addr:housenumber=4 | addr:street=Славянская улица | building=residential
-    geometry : [53.8918628,25.3360324]
-n3154433543
-  other tags : addr:city=Новоселки | addr:street=Новая улица | building=residential | building:levels=2
-    geometry : [53.8925293,25.3372271]
-n3154434678
-  other tags : addr:city=Новоселки | addr:street=Славянская улица | building=residential | building:levels=2
-    geometry : [53.8918401,25.3349525]
-n3154434805
-  other tags : addr:city=Новоселки | addr:street=Новая улица | building=residential | building:levels=2
-    geometry : [53.8926241,25.3359396]
-n3154435034
-  other tags : addr:city=Новоселки | addr:street=Славянская улица | building=residential
-    geometry : [53.8915113,25.3349418]
-n3154435899
-  other tags : addr:city=Новоселки | addr:street=Славянская улица | building=residential | building:levels=2
-    geometry : [53.8915809,25.3360254]
-n3154436000
-  other tags : addr:city=Новоселки | addr:street=Новая улица | building=residential
-    geometry : [53.8926304,25.3380210]
-n3154436065
-  other tags : addr:city=Новоселки | addr:street=Славянская улица | building=residential
-    geometry : [53.8916125,25.3369696]
 w97563074  null / null / 1
   other tags : addr:housenumber=17 | addr:street=улица Гагарина | building=residential
     geometry : n1129538185[53.8564301,25.1484756] n1129538171[53.8564286,25.1486334] n1129538182[53.8561659,25.1486262] n1129538156[53.8561674,25.1484684] n1129538185[53.8564301,25.1484756]
@@ -6116,19 +6089,19 @@ w323190520
   other tags : building=residential
     geometry : n3299796753[53.7965651,25.3659724] n3299796751[53.7964732,25.3661029] n3299796752[53.7965490,25.3662557] n3299796754[53.7966408,25.3661252] n3299796753[53.7965651,25.3659724]
 w323202054  null / null / 5
-  other tags : building=residential
+  other tags : addr:street=Новая улица | building=residential
     geometry : n3299882735[53.8930758,25.3353246] n3299882744[53.8931353,25.3353161] n3299882746[53.8931427,25.3354662] n3299882720[53.8929506,25.3354935] n3299882719[53.8929398,25.3352746] n3299882733[53.8930724,25.3352558] n3299882735[53.8930758,25.3353246]
 w323202055  null / null / 8
-  other tags : building=residential
+  other tags : addr:street=Новая улица | building=residential
     geometry : n3299882698[53.8926005,25.3362478] n3299882693[53.8925702,25.3362506] n3299882694[53.8925738,25.3363641] n3299882708[53.8926916,25.3363533] n3299882707[53.8926846,25.3361361] n3299882696[53.8925972,25.3361442] n3299882698[53.8926005,25.3362478]
 w323202056
-  other tags : addr:housenumber=10 | building=house
+  other tags : addr:housenumber=10 | addr:street=Новая улица | building=house
     geometry : n3299882690[53.8925630,25.3365921] n3299882709[53.8926993,25.3365795] n3299882710[53.8927055,25.3367731] n3299882692[53.8925693,25.3367858] n3299882690[53.8925630,25.3365921]
 w323202057
-  other tags : addr:housenumber=12 | building=house
+  other tags : addr:housenumber=12 | addr:street=Новая улица | building=house
     geometry : n3299882695[53.8925915,25.3372081] n3299882713[53.8927237,25.3371958] n3299882714[53.8927301,25.3373964] n3299882697[53.8925979,25.3374086] n3299882695[53.8925915,25.3372081]
 w323202058
-  other tags : addr:housenumber=1 | building=house
+  other tags : addr:housenumber=1 | addr:street=Новая улица | building=house
     geometry : n3299882715[53.8928901,25.3343045] n3299882725[53.8929851,25.3342973] n3299882728[53.8929904,25.3344986] n3299882716[53.8928954,25.3345058] n3299882715[53.8928901,25.3343045]
 w323202060
   other tags : addr:housenumber=1 | building=house
@@ -6137,19 +6110,19 @@ w323202062
   other tags : addr:housenumber=21a | building=house
     geometry : n3299882873[53.8955808,25.3503574] n3299882875[53.8957339,25.3503059] n3299882876[53.8957621,25.3505471] n3299882874[53.8956090,25.3505986] n3299882873[53.8955808,25.3503574]
 w323202066
-  other tags : addr:housenumber=2 | building=house
+  other tags : addr:housenumber=2 | addr:street=Новая улица | building=house
     geometry : n3299882683[53.8924756,25.3344018] n3299882702[53.8926528,25.3343879] n3299882704[53.8926583,25.3345882] n3299882684[53.8924811,25.3346021] n3299882683[53.8924756,25.3344018]
 w323202070
-  other tags : addr:housenumber=4 | building=house
+  other tags : addr:housenumber=4 | addr:street=Новая улица | building=house
     geometry : n3299882685[53.8925222,25.3351004] n3299882701[53.8926484,25.3350877] n3299882703[53.8926546,25.3352638] n3299882686[53.8925284,25.3352765] n3299882685[53.8925222,25.3351004]
 w323202079
-  other tags : addr:housenumber=6 | building=house
+  other tags : addr:housenumber=6 | addr:street=Новая улица | building=house
     geometry : n3299882689[53.8925583,25.3356458] n3299882705[53.8926658,25.3356356] n3299882706[53.8926735,25.3358711] n3299882691[53.8925660,25.3358812] n3299882689[53.8925583,25.3356458]
 w323202081
-  other tags : addr:housenumber=7 | building=house
+  other tags : addr:housenumber=7 | addr:street=Новая улица | building=house
     geometry : n3299882722[53.8929683,25.3358753] n3299882739[53.8930816,25.3358623] n3299882740[53.8930896,25.3360638] n3299882724[53.8929764,25.3360768] n3299882722[53.8929683,25.3358753]
 w323202084
-  other tags : addr:housenumber=9 | building=house
+  other tags : addr:housenumber=9 | addr:street=Новая улица | building=house
     geometry : n3299882729[53.8930095,25.3362252] n3299882743[53.8931514,25.3362113] n3299882745[53.8931629,25.3365515] n3299882732[53.8930211,25.3365654] n3299882729[53.8930095,25.3362252]
 w323202092
   other tags : building=house
@@ -6566,37 +6539,37 @@ w323212389  null / null / 22
   other tags : building=residential
     geometry : n3300023062[53.9109773,25.3055979] n3300021060[53.9108894,25.3056166] n3300023061[53.9109025,25.3057945] n3300023063[53.9109904,25.3057758] n3300023062[53.9109773,25.3055979]
 w323212920  null / null / 10
-  other tags : building=residential
+  other tags : addr:street=Славянская улица | building=residential
     geometry : n3300033072[53.8919377,25.3352458] n3300030652[53.8918165,25.3352567] n3300030654[53.8918183,25.3353134] n3300030647[53.8917847,25.3353165] n3300030648[53.8917864,25.3353709] n3300030651[53.8918146,25.3353683] n3300030653[53.8918171,25.3354500] n3300033070[53.8919201,25.3354408] n3300033069[53.8919169,25.3353396] n3300033073[53.8919405,25.3353375] n3300033072[53.8919377,25.3352458]
 w323212922  null / null / 12
-  other tags : building=residential
+  other tags : addr:street=Славянская улица | building=residential
     geometry : n3300030660[53.8918433,25.3344523] n3300030649[53.8917950,25.3344547] n3300030650[53.8917956,25.3344885] n3300030643[53.8917692,25.3344898] n3300030644[53.8917721,25.3346634] n3300033064[53.8918790,25.3346581] n3300033063[53.8918760,25.3344805] n3300033061[53.8918438,25.3344821] n3300030660[53.8918433,25.3344523]
 w323212924  null / null / 7
-  other tags : building=residential
+  other tags : addr:street=Славянская улица | building=residential
     geometry : n3300030630[53.8914750,25.3353209] n3300030635[53.8915029,25.3353190] n3300030636[53.8915052,25.3354210] n3300030631[53.8914775,25.3354229] n3300030632[53.8914790,25.3354881] n3300030620[53.8913718,25.3354951] n3300030619[53.8913669,25.3352803] n3300030629[53.8914739,25.3352733] n3300030630[53.8914750,25.3353209]
 w323212928
-  other tags : addr:housenumber=1 | building=house
+  other tags : addr:housenumber=1 | addr:street=Славянская улица | building=house
     geometry : n3300030627[53.8914656,25.3372030] n3300030641[53.8915831,25.3371903] n3300030642[53.8915892,25.3373532] n3300030628[53.8914717,25.3373660] n3300030627[53.8914656,25.3372030]
 w323212931
-  other tags : addr:housenumber=2 | building=house
+  other tags : addr:housenumber=2 | addr:street=Славянская улица | building=residential | building:levels=2
     geometry : n3300030659[53.8918404,25.3371961] n3300033075[53.8919537,25.3371831] n3300033076[53.8919617,25.3373846] n3300033062[53.8918485,25.3373976] n3300030659[53.8918404,25.3371961]
 w323212933
-  other tags : addr:housenumber=3 | building=house
+  other tags : addr:housenumber=3 | addr:street=Славянская улица | building=house
     geometry : n3300030625[53.8914514,25.3363446] n3300030639[53.8915586,25.3363346] n3300030640[53.8915644,25.3365115] n3300030626[53.8914572,25.3365215] n3300030625[53.8914514,25.3363446]
 w323212935
-  other tags : addr:housenumber=4 | building=house
+  other tags : addr:housenumber=4 | addr:street=Славянская улица | building=house
     geometry : n3300030655[53.8918199,25.3367571] n3300033071[53.8919332,25.3367441] n3300033074[53.8919412,25.3369456] n3300030657[53.8918280,25.3369586] n3300030655[53.8918199,25.3367571]
 w323212937
-  other tags : addr:housenumber=5 | building=house
+  other tags : addr:housenumber=5 | addr:street=Славянская улица | building=house
     geometry : n3300030621[53.8914092,25.3358317] n3300030637[53.8915469,25.3358226] n3300030638[53.8915512,25.3360070] n3300030622[53.8914134,25.3360160] n3300030621[53.8914092,25.3358317]
 w323212939
-  other tags : addr:housenumber=6 | building=house
+  other tags : addr:housenumber=6 | addr:street=Славянская улица | building=house
     geometry : n3300030656[53.8918223,25.3362244] n3300033067[53.8919088,25.3362173] n3300033068[53.8919162,25.3364783] n3300030658[53.8918298,25.3364854] n3300030656[53.8918223,25.3362244]
 w323212941
-  other tags : addr:housenumber=8 | building=house
+  other tags : addr:housenumber=8 | addr:street=Славянская улица | building=house
     geometry : n3300030645[53.8917832,25.3357099] n3300033065[53.8918868,25.3357089] n3300033066[53.8918876,25.3359511] n3300030646[53.8917840,25.3359521] n3300030645[53.8917832,25.3357099]
 w323212943
-  other tags : addr:housenumber=9 | building=house
+  other tags : addr:housenumber=9 | addr:street=Славянская улица | building=house
     geometry : n3300030617[53.8913531,25.3345644] n3300030633[53.8914848,25.3345468] n3300030634[53.8914943,25.3347519] n3300030618[53.8913626,25.3347694] n3300030617[53.8913531,25.3345644]
 w323213732  null / null / 11а
   other tags : building=residential
