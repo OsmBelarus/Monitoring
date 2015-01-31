@@ -13,7 +13,7 @@ n306062321
 n306062327
   other tags : amenity=pharmacy
     geometry : [52.1006412,23.7229786]
-n306062409  null / null / 36,6 / 36,6
+n306062409  36,6 / 36,6 / 36,6 / 36,6
   other names: name:uk=36,6
   other tags : amenity=pharmacy
     geometry : [52.0876823,23.7046928]
@@ -59,10 +59,10 @@ n306063952  Фармацыя № 105 / null / null / Фармация № 105
 n306063984  null / null / Витафарм / Витафарм
   other tags : amenity=pharmacy
     geometry : [52.0919041,23.6870069]
-n306068169  Аптэка №165 / null / Аптека №165 / Аптека №165
+n306068169  Аптэка №165 / Apteka №165 / Аптека №165 / Аптека №165
   other tags : addr:housenumber=24 | addr:street=Орловская улица | amenity=pharmacy | nat_name=Аптека №165 Брестского РУП «Фармация» | opening_hours=24/7 | operator=РУП "Фармация"
     geometry : [52.1069733,23.7695643]
-n306068179  null / null / Аптека / Аптека
+n306068179  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:housenumber=346 | addr:street=Московская улица | amenity=pharmacy
     geometry : [52.1018611,23.7723290]
 n306069050
@@ -77,7 +77,7 @@ n1001739300
 n1001741245
   other tags : addr:housenumber=88 | addr:street=Вульковская улица | amenity=pharmacy
     geometry : [52.0702240,23.7277625]
-n1029402447  null / null / Аптека коммерческая / Аптека коммерческая
+n1029402447  Камерцыйная аптэка / Kamiercyjnaja apteka / Аптека коммерческая / Аптека коммерческая
   other tags : addr:housenumber=15 | addr:street=улица Гаврилова | amenity=pharmacy
     geometry : [52.1052340,23.7763002]
 n1103140439
@@ -86,16 +86,16 @@ n1103140439
 n1103140440
   other tags : amenity=pharmacy
     geometry : [52.1061032,23.6456300]
-n1189960747  null / null / Аптека / Аптека
+n1189960747  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:housenumber=16 | addr:street=улица Жукова | amenity=pharmacy | dispensing=yes | phone=+375162289299
     geometry : [52.0596010,23.7295900]
-n1204009556  Аптэка №6 / null / Аптека №6 / Аптека №6
+n1204009556  Аптэка №6 / Apteka №6 / Аптека №6 / Аптека №6
   other tags : addr:housenumber=26А | addr:street=улица Лактионова | amenity=pharmacy
     geometry : [52.0986102,23.7846225]
 n1224563635
   other tags : amenity=pharmacy
     geometry : [52.1179829,23.6930247]
-n1246224715  null / null / Аптека / Аптека
+n1246224715  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [52.1072108,23.8175809]
 n1257061980
@@ -104,7 +104,7 @@ n1257061980
 n1260210076
   other tags : addr:housenumber=76 | addr:street=проспект Машерова | amenity=pharmacy | opening_hours=24/7
     geometry : [52.0884121,23.7042442]
-n1375740699  null / null / Аптека №158 / Аптека №158
+n1375740699  Аптэка №158 / Apteka №158 / Аптека №158 / Аптека №158
   other tags : amenity=pharmacy
     geometry : [52.1295681,23.6548608]
 n1488407522
@@ -113,22 +113,22 @@ n1488407522
 n1494410271
   other tags : addr:housenumber=81 | addr:street=Сябровская улица | amenity=pharmacy
     geometry : [52.0675519,23.7259733]
-n1499209876  null / null / Аптека / Аптека
+n1499209876  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:housenumber=267д/2 | addr:street=Московская улица | amenity=pharmacy
     geometry : [52.0950819,23.7616570]
 n1582519666
   other tags : amenity=pharmacy | opening_hours=24/7
     geometry : [52.0884625,23.7087220]
-n1628066751  null / null / Аптека №241 / Аптека №241
+n1628066751  Аптэка №241 / Apteka №241 / Аптека №241 / Аптека №241
   other tags : addr:housenumber=42 | addr:street=улица Героев Обороны Брестской Крепости | amenity=pharmacy | dispensing=no | opening_hours=11:00-19:00 Su и Mo-выходной
     geometry : [52.0919344,23.6653268]
-n1729355187  null / null / Аптека / Аптека
+n1729355187  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy | opening_hours=7:30-23:00
     geometry : [52.0934726,23.6995385]
-n1798084562  null / null / Аптека / Аптека
+n1798084562  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:housenumber=78 | addr:postcode=224033 | addr:street=Вульковская улица | amenity=pharmacy
     geometry : [52.0698070,23.7295539]
-n2053095673  null / null / Мед-сервис / Мед-сервис
+n2053095673  Мед-сэрвіс / Mied-servis / Мед-сервис / Мед-сервис
   other tags : addr:street=Советская улица | amenity=pharmacy
     geometry : [52.0889505,23.6951244]
 n2249805946
@@ -146,7 +146,7 @@ n2563427589
 n3072416604
   other tags : addr:housenumber=3 | addr:postcode=224012 | addr:street=улица Карла Маркса | amenity=pharmacy
     geometry : [52.0970996,23.6833206]
-n3295540832  null / null / Фармация №71 / Фармация №71
+n3295540832  Фармацыя №71 / Farmacyja №71 / Фармация №71 / Фармация №71
   other tags : amenity=pharmacy
     geometry : [52.0930493,23.6849444]
 n3308180241
