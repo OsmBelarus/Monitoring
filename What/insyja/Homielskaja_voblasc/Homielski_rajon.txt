@@ -164,6 +164,9 @@ n1365412417  Гомель / Homel' / Гомель / Гомель
 n1368830323  null / null / Место для отдыха
   other tags : amenity=parking | parking=surface
     geometry : [52.2418521,31.0164382]
+n1383265231  null / null / Махово / Махово
+  other tags : bench=yes | bus=yes | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.5137342,30.9392631]
 n1386820991
   other tags : man_made=water_tower
     geometry : [52.5093706,30.9404437]
@@ -4422,6 +4425,12 @@ w325389385
 w325389386
   other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
     geometry : n3320555049[52.5074526,30.9459459] n3320555048[52.5073314,30.9460464] n3320555047[52.5072498,30.9461226]
+w325390127
+  other tags : bench=yes | bus=yes | public_transport=platform
+    geometry : n3320556060[52.5127373,30.9401080] n3320556059[52.5126378,30.9402038] n3320556058[52.5125522,30.9402862]
+w325390128
+  other tags : bench=yes | bus=yes | public_transport=platform
+    geometry : n3320561863[52.5138938,30.9393762] n3320561862[52.5138070,30.9394624] n3320561861[52.5137145,30.9395543]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
