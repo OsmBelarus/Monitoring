@@ -357,8 +357,8 @@ n3058605635  null / null / Белгазпромбанк / Белгазпромб
 n3096023129  null / null / Альфа-банк
   other tags : amenity=atm | opening_hours=Mo-Su 09:00-01:00
     geometry : [52.0994140,23.7586740]
-n3189607581
-  other tags : amenity=atm | fee=БелАгропром банкомат
+n3189607581  null / null / Белагропромбанк
+  other tags : amenity=atm | fee=БелАгропром банкомат | operator=Белагропромбанк
     geometry : [52.1421293,23.6558411]
 n3221278071  null / null / Приорбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | drive_through=no | fee=some | operator=Приорбанк
@@ -378,3 +378,6 @@ n3308180240
 n3322743167  null / null / Белгазпромбанк
   other tags : amenity=atm | atm=yes
     geometry : [52.0969571,23.7666573]
+n3322792195  null / null / ВТБ
+  other tags : amenity=atm
+    geometry : [52.1100979,23.7858045]
