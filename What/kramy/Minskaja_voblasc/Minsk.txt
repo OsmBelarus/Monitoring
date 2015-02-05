@@ -4659,8 +4659,8 @@ n1561756439  null / null / Медовая лавка
 n1561759545  null / null / Дары подворья
   other tags : opening_hours=Mo-Fr 09:00-20:30; Sa 09:00-21:00; Su 08:30-20:30 | shop=convenience
     geometry : [53.9559423,27.5373527]
-n1562227553  null / null / 5 Элемент
-  other tags : shop=hifi
+n1562227553  null / null / 5 ЭЛЕМЕНТ
+  other tags : shop=electronics
     geometry : [53.8764182,27.4648871]
 n1563422645  null / null / Электрик.by
   other tags : opening_hours=Mo 10:00-17:00; Tu-Sa 10:00-19:00; Su 10:00-17:00 | shop=hardware | website=http://elektrik.by/
@@ -7971,6 +7971,9 @@ n2857769776
 n2857769777  null / null / сервис BMW
   other tags : shop=car_repair
     geometry : [53.8829302,27.4173315]
+n2859655268  null / null / Цифровой Фото Экспресс
+  other tags : craft=photographer | opening_hours=10:00-22:00 | operator=Цифровой Экспресс | shop=photo
+    geometry : [53.8768036,27.4668726]
 n2862814701  null / null / Avtoevropa
   other tags : addr:housenumber=71 | addr:street=улица Селицкого | opening_hours=10-19 | shop=car_parts
     geometry : [53.8377806,27.7032471]
@@ -10854,6 +10857,9 @@ n3323573831  null / null / «Корона Техно»
 n3326560581  null / null / Райдер
   other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Руссиянова | shop=bicycle | website=http://www.ridershop.by/
     geometry : [53.9433080,27.6859436]
+n3327384342  null / null / Трофей 
+  other tags : opening_hours=10:00-22:00 | shop=outdoor | website=http://trofey.by/
+    geometry : [53.8757938,27.4657035]
 n3327384467  null / null / Автосервис
   other tags : shop=car_repair
     geometry : [53.8893478,27.6507525]
