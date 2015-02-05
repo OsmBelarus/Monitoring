@@ -1271,13 +1271,13 @@ w326041443
   other tags : addr:city=Глуск | addr:housenumber=30 | addr:street=Гагарина | building=yes
     geometry : n3326588443[52.8900029,28.6927241] n3326588444[52.8900820,28.6926501] n3326588446[52.8902263,28.6930733] n3326588445[52.8901473,28.6931473] n3326588443[52.8900029,28.6927241]
 w326041444
-  other tags : addr:city=Глуск | addr:street=Гагарина | building=yes
+  other tags : addr:city=Глуск | addr:housenumber=8 | addr:street=улица Гагарина | building=yes
     geometry : n3326588450[52.8903728,28.6937064] n3326588452[52.8904484,28.6936228] n3326588455[52.8905603,28.6939011] n3326588453[52.8904847,28.6939847] n3326588450[52.8903728,28.6937064]
 w326041445
-  other tags : building=yes
+  other tags : addr:city=Глуск | addr:housenumber=6а | addr:street=улица Гагарина | building=yes
     geometry : n3326588456[52.8906211,28.6940438] n3326588458[52.8907202,28.6942943] n3326588457[52.8906425,28.6943786] n3326588454[52.8905435,28.6941281] n3326588456[52.8906211,28.6940438]
 w326041446
-  other tags : addr:city=Глуск | addr:street=Гагарина | building=yes
+  other tags : addr:city=Глуск | addr:housenumber=8а | addr:street=улица Гагарина | building=yes
     geometry : n3326588447[52.8902304,28.6933631] n3326588448[52.8903027,28.6932850] n3326588451[52.8904016,28.6935365] n3326588449[52.8903294,28.6936146] n3326588447[52.8902304,28.6933631]
 w326042078  null / null / МЧС
   other tags : amenity=fire_station | building=yes
@@ -1301,7 +1301,7 @@ w326042851
   other tags : addr:city=Глуск | addr:housenumber=17 | addr:street=Гагарина | building=yes
     geometry : n3326599189[52.8898552,28.6937679] n3326599191[52.8899240,28.6937168] n3326604793[52.8899700,28.6938867] n3326599190[52.8899011,28.6939378] n3326599189[52.8898552,28.6937679]
 w326042852
-  other tags : addr:city=Глуск | addr:housenumber=1а | addr:street=Гагарина | building=yes
+  other tags : addr:city=Глуск | addr:housenumber=1б | addr:street=Гагарина | building=yes
     geometry : n3326604834[52.8909680,28.6964980] n3326604836[52.8910554,28.6965076] n3326604835[52.8910470,28.6967154] n3326604833[52.8909596,28.6967057] n3326604834[52.8909680,28.6964980]
 w326042853
   other tags : addr:city=Глуск | addr:housenumber=21 | addr:street=Гагарина | building=yes
