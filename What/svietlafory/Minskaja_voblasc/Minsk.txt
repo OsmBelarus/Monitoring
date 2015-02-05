@@ -6,7 +6,7 @@ n275059958  Батанічная вул. / null / Ботаническая / Б�
     geometry : [53.9097001,27.6102994]
 n275076130  null / null / Площадь Казинца
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [53.8440426,27.5051815]
+    geometry : [53.8440742,27.5052298]
 n275918868  null / null / Проспект Независимости
   other tags : highway=bus_stop
     geometry : [53.9110310,27.5772873]
@@ -2140,7 +2140,7 @@ n614945399  null / null / Ландера
     geometry : [53.8393025,27.4961410]
 n614945401  null / null / Площадь Казинца
   other tags : highway=bus_stop
-    geometry : [53.8443775,27.5065929]
+    geometry : [53.8444091,27.5066412]
 n614945402  Паўднёвы Захад 2 / null / Юго-Запад-2 / Юго-Запад-2
   other tags : highway=bus_stop
     geometry : [53.8588577,27.4689270]
@@ -3151,7 +3151,7 @@ n767088306  null / null / Корженевского
     geometry : [53.8445700,27.5244900]
 n767088310  null / null / Корженевского
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8445200,27.5252000]
+    geometry : [53.8445077,27.5248411]
 n767088315  null / null / Червенский рынок
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8547916,27.5712218]
@@ -3681,9 +3681,6 @@ n767183364  Валгаградская вул. / null / Волгоградска
 n767183366  null / null / Чижовка-6
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8343100,27.6101300]
-n767183367  null / null / ДС Курасовщина
-  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [53.8433852,27.5160052]
 n767183368  null / null / Завод колёсных тягачей
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8519599,27.6725352]
@@ -5439,6 +5436,9 @@ n2974184783  null / null / Ириновская
 n2974184784  null / null / Ириновская
   other tags : highway=bus_stop
     geometry : [53.9624919,27.5365164]
+n3031266699  null / null / ДС Курасовщина
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8433825,27.5187058]
 n3031367449  null / null / Дом Правосудия
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [53.8571952,27.4978357]
@@ -5505,3 +5505,6 @@ n3269450820  Гандлёвы цэнтр «Кірмаш» / null / ТЦ Кирм
 n3305411444  null / null / Конечная Автобус №90
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8750220,27.4555106]
+n3324820233  null / null / ДС Курасовщина
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8432606,27.5177745]

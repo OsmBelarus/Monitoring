@@ -155,6 +155,9 @@ n455938876  null / null / Курган Славы
 n456022827
   other tags : railway=level_crossing
     geometry : [52.4455869,30.9809819]
+n456871058  Вакзал / null / вокзал / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes
+    geometry : [52.4308112,30.9923826]
 n456871087
   other tags : amenity=fountain
     geometry : [52.4324113,30.9992782]
@@ -776,6 +779,12 @@ n1123219796  null / null / БРТИ г. Гомеля
 n1129287185  null / null / Нотариальная контора
   other tags : amenity=public_building | lawyer=notary | office=lawyer | opening_hours=Tu-Sa 08:00-17:00; We 11:00-20:00 | phone=+375(232)576209
     geometry : [52.4613748,30.9889323]
+n1129287208  null / null / Белгут
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4338217,31.0024264]
+n1129287211  Вакзал / null / Вокзал / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4315983,30.9926257]
 n1132607681
   other tags : amenity=parking | fee=no | parking=surface
     geometry : [52.3963225,30.9051344]
@@ -992,6 +1001,9 @@ n1334679245
 n1334729462
   other tags : amenity=parking
     geometry : [52.4309972,30.9928325]
+n1334729467  null / null / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes
+    geometry : [52.4323410,30.9933628]
 n1334729502  null / null / Прудковский рынок
   other tags : amenity=marketplace
     geometry : [52.4684042,31.0195470]
@@ -1200,6 +1212,9 @@ n1643089409
 n1709768793  null / null / Департамент охраны МВД РБ Железнодорожный отдел
   other tags : amenity=police
     geometry : [52.4526069,30.9613562]
+n1770697397  Вакзал / null / Вокзал / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4305305,30.9945051]
 n1770697403
   other tags : amenity=post_box
     geometry : [52.4308786,30.9915571]
@@ -1599,6 +1614,9 @@ n2710090654
 n2710090660
   other tags : entrance=main
     geometry : [52.4069339,30.9382551]
+n2710924302  null / null / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | shelter=no | trolleybus=yes
+    geometry : [52.4320414,30.9951273]
 n2710924360
   other tags : entrance=main
     geometry : [52.4308375,30.9915629]
@@ -1996,6 +2014,12 @@ n2873986432
 n2873986433
   other tags : railway=level_crossing
     geometry : [52.4341840,30.9903469]
+n2876928324  null / null / БелГУТ
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4337021,31.0010571]
+n2876928325  null / null / Вокзал
+  other tags : bus=yes | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4320653,30.9961859]
 n2878599722
   other tags : amenity=waste_disposal | waste=trash
     geometry : [52.4043322,30.9080354]
@@ -2377,6 +2401,18 @@ n3320612050
 n3320615098
   other tags : amenity=shelter | shelter_type=public_transport
     geometry : [52.4751821,31.0233979]
+n3324535818
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.4316664,30.9926049]
+n3324536004
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.4304782,30.9944465]
+n3324542861
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.4320102,30.9962274]
+n3324547474
+  other tags : amenity=shelter | shelter_type=public_transport
+    geometry : [52.4337539,31.0024762]
 w24945722
   other tags : gauge=1520 | railway=rail
     geometry : n271092651[52.4586900,30.9449700] n271092649[52.4580800,30.9446200] n271092665[52.4567100,30.9443700] n271092659[52.4562000,30.9442000] n271092698[52.4555100,30.9435100]
