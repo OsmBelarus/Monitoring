@@ -2187,9 +2187,9 @@ n476656081  null / null / Гастроном
 n476656375  null / null / СэкондХенд
   other tags : shop=supermarket
     geometry : [53.8823091,27.5567658]
-n482748706
-  other tags : shop=convenience
-    geometry : [53.8651062,27.6098430]
+n482748706  null / null / Гаспадар
+  other tags : opening_hours=Mo-Sa 09:00-19:00; Su 09:00-18:00 | shop=butcher
+    geometry : [53.8650813,27.6096152]
 n484267759  null / null / Могилёвский
   other tags : operator=Могилёвский | shop=supermarket
     geometry : [53.8843793,27.5432176]
@@ -10866,3 +10866,6 @@ n3327384467  null / null / Автосервис
 n3327597065
   other tags : shop=butcher
     geometry : [53.8615425,27.6048960]
+n3327603299
+  other tags : shop=seafood
+    geometry : [53.8650264,27.6096550]
