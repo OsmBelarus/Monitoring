@@ -1,3 +1,6 @@
+n2474812633
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2153863,31.4421270]
 n2491204698  null / null / Советская улица / Советская улица
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.2111651,31.4191462]
@@ -8,8 +11,14 @@ n2491206371  null / null / ул. Ленина 36
   other tags : addr:street=улица Ленина | bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.2193137,31.4258417]
 n2630770106  null / null / магазин
-  other tags : addr:street=улица Ленина | bench=yes | highway=bus_stop | shelter=yes
-    geometry : [52.2140408,31.4471400]
+  other tags : addr:street=улица Ленина | bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.2141731,31.4471207]
 n2630823835  null / null / ул. Ленина 195
-  other tags : addr:street=улица Ленина | bench=yes | highway=bus_stop | shelter=no
-    geometry : [52.2128150,31.4533736]
+  other tags : addr:street=улица Ленина | bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=no
+    geometry : [52.2127807,31.4532575]
+n3331333678
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2083912,31.4148988]
+n3331333682
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2095255,31.4149094]
