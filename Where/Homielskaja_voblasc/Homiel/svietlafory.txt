@@ -35,8 +35,8 @@ n455929167  Цырк / null / Цирк / Цирк
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
     geometry : [52.4346926,31.0082979]
 n455929168  фабрыка 8 Сакавіка / null / фабрика 8 Марта / фабрика 8 Марта
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [52.4351873,31.0061396]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | trolleybus=yes
+    geometry : [52.4351443,31.0063080]
 n455929170  Рагачоўская вуліца / null / Рогачёвская улица / Рогачёвская улица
   other tags : highway=bus_stop
     geometry : [52.4383487,31.0036509]
@@ -82,6 +82,9 @@ n456031333  ПК Гомсельмаша / null / ДК Гомсельмаша / �
 n456054756  null / null / стадион Локомотив / стадион Локомотив
   other tags : highway=bus_stop
     geometry : [52.4314647,30.9755617]
+n456871058  Вакзал / null / вокзал / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
+    geometry : [52.4308112,30.9923826]
 n456985131  null / null / Дорожник
   other tags : bench=no | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=no
     geometry : [52.4304135,30.8863342]
@@ -479,9 +482,15 @@ n1129287201  null / null / Школа № 55
 n1129287207  вуліца Палеская / null / улица Полесская / улица Полесская
   other tags : highway=bus_stop
     geometry : [52.4382610,30.9969192]
+n1129287208  null / null / Белгут
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4338217,31.0024264]
 n1129287210  Нікольская Царква / null / Никольская церковь
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [52.4395216,30.9817444]
+n1129287211  Вакзал / null / Вокзал / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4315983,30.9926257]
 n1129287214
   other tags : highway=bus_stop
     geometry : [52.4691873,30.9664317]
@@ -582,6 +591,9 @@ n1334679243
 n1334729446  null / null / Чехова
   other tags : highway=bus_stop
     geometry : [52.4421478,31.0105884]
+n1334729467  null / null / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
+    geometry : [52.4323410,30.9933628]
 n1334729627
   other tags : highway=bus_stop
     geometry : [52.4337529,30.9924943]
@@ -666,6 +678,9 @@ n1636431354  null / null / Гомельторгмаш / Гомельторгма
 n1636431383  null / null / Западный
   other tags : highway=bus_stop
     geometry : [52.4362246,30.9568554]
+n1770697397  Вакзал / null / Вокзал / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4305305,30.9945051]
 n1809411169
   other tags : highway=bus_stop
     geometry : [52.4347415,31.0031790]
@@ -822,6 +837,9 @@ n2688631493  null / null / микрорайон Любенский / микро�
 n2688631512  null / null / микрорайон Любенский / микрорайон Любенский
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.4084555,30.9872540]
+n2710924302  null / null / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=no | trolleybus=yes
+    geometry : [52.4320414,30.9951273]
 n2861927032  null / null / Дорожник
   other tags : bench=no | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=no
     geometry : [52.4307298,30.8847574]
@@ -840,6 +858,12 @@ n2861927036  null / null / Транспортный цех
 n2865887739  null / null / Ратон
   other tags : bench=yes | highway=bus_stop | shelter=no | tactile_paving=no
     geometry : [52.4821859,30.9911259]
+n2876928324  null / null / БелГУТ
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4337021,31.0010571]
+n2876928325  null / null / Вокзал
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4320653,30.9961859]
 n2876928339  вуліца Яраслаўская / null / улица Ярославская
   other tags : highway=bus_stop
     geometry : [52.4379370,30.9774718]
