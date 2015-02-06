@@ -152,7 +152,7 @@ w66846921
   other tags : building=yes | building:levels=1
     geometry : n807806911[55.1128300,26.8385204] n807806786[55.1128747,26.8388467] n807806700[55.1128091,26.8388742] n807806875[55.1127643,26.8385479] n807806911[55.1128300,26.8385204]
 w66846922
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Ленинская улица | building=yes | building:levels=1
     geometry : n807806834[55.1143419,26.8399603] n807806621[55.1143725,26.8402068] n807806703[55.1142308,26.8402607] n807806749[55.1142001,26.8400142] n807806834[55.1143419,26.8399603]
 w66846923
   other tags : addr:housenumber=3 | addr:street=Аптечный переулок | building=yes | building:levels=1
@@ -2036,7 +2036,7 @@ w158842001
   other tags : addr:housenumber=72 | addr:street=улица Кляро | building=yes | building:levels=1
     geometry : n1709781971[55.1066806,26.8597911] n1709782034[55.1067644,26.8597869] n1709782036[55.1067643,26.8596798] n1709781975[55.1067172,26.8596799] n2529289452[55.1067151,26.8597128] n2529289444[55.1066800,26.8597108] n1709781971[55.1066806,26.8597911]
 w158842002
-  other tags : addr:housenumber=43А | addr:street=улица Крупской | building=yes | building:levels=1
+  other tags : addr:housenumber=43 | addr:street=улица Крупской | building=yes | building:levels=1
     geometry : n1709780187[55.1044293,26.8521827] n1709780215[55.1044640,26.8523379] n1709780296[55.1045283,26.8522941] n1709780277[55.1044936,26.8521388] n1709780187[55.1044293,26.8521827]
 w158842003
   other tags : addr:housenumber=5 | addr:street=улица Дубовки | building=yes | building:levels=1
