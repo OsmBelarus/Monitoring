@@ -251,6 +251,9 @@ n2769472588
 n2847095437  null / null / КаМо компьютер-сервис
   other tags : addr:housenumber=16 | addr:postcode=247760 | addr:street=бульвар Дружбы | note=Расположен в здании магазина "Продукты" | opening_hours=10:00-21:00 | phone=+375333006510 | shop=computer | website=http://kamo.by/
     geometry : [52.0295220,29.2447941]
+n3010334668  null / null / Автомасла
+  other tags : addr:housenumber=114 | addr:street=Советская улица | shop=car_parts
+    geometry : [52.0529576,29.2560110]
 n3030077126  null / null / Союзпечать
   other tags : shop=newsagent
     geometry : [52.0283924,29.2144744]
@@ -398,9 +401,6 @@ n3257797500  null / null / Стужка
 n3259525691  null / null / Оптика
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
     geometry : [52.0490255,29.2415459]
-n3259700370  null / null / Евроопт
-  other tags : addr:housenumber=34 | addr:street=Полесская улица | shop=supermarket
-    geometry : [52.0582466,29.2255358]
 n3259700371  null / null / Евроопт
   other tags : addr:housenumber=48 | addr:street=Первомайская улица | shop=supermarket
     geometry : [52.0452360,29.2383782]
@@ -439,7 +439,7 @@ n3260037095  null / null / Ритуальные услуги
     geometry : [52.0439550,29.2523391]
 n3260037110  null / null / Ритуальные услуги
   other tags : addr:housenumber=21 | addr:street=Советская улица | shop=funeral_directors
-    geometry : [52.0582343,29.2422486]
+    geometry : [52.0589678,29.2410691]
 n3264857389  null / null / Алло
   other tags : shop=mobile_phone
     geometry : [52.0501806,29.2644238]
@@ -467,3 +467,6 @@ n3270045736  null / null / Мясная лавка
 n3328394250
   other tags : addr:housenumber=1 | addr:street=улица Якуба Коласа | shop=hairdresser
     geometry : [52.0412961,29.2787656]
+n3332193394  null / null / Ритуальные услуги
+  other tags : addr:housenumber=3 | addr:street=1-й переулок Малинина | shop=funeral_directors
+    geometry : [52.0376721,29.1912551]

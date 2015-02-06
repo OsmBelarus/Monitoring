@@ -44,10 +44,10 @@ n1285652897  null / null / Проектный институт
   other tags : highway=bus_stop | local_ref=9
     geometry : [52.0437245,29.2812654]
 n1436634493  Аўтавакзал / null / Автовокзал / Автовокзал
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
+  other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.0453102,29.2263566]
 n1436672048  Аўтавакзал / null / Автовокзал / Автовокзал
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
+  other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.0447988,29.2266624]
 n1436672049  null / null / Бассейн
   other tags : highway=bus_stop
@@ -407,11 +407,11 @@ n3208624523  null / null / бульвар Малинина
   other tags : highway=bus_stop
     geometry : [52.0295512,29.2115660]
 n3208718055  null / null / улица Заслонова-1
-  other tags : highway=bus_stop
-    geometry : [52.0623840,29.2248805]
+  other tags : highway=bus_stop | shelter=no
+    geometry : [52.0623583,29.2259039]
 n3208718056  null / null / улица Тихонова
   other tags : highway=bus_stop
-    geometry : [52.0535492,29.2272623]
+    geometry : [52.0533141,29.2272450]
 n3208718057  null / null / улица Молодёжная
   other tags : highway=bus_stop
     geometry : [52.0542931,29.2261411]
@@ -444,7 +444,7 @@ n3212307174  null / null / Музыкальный колледж
     geometry : [52.0359407,29.2373657]
 n3212404849  null / null / улица Заслонова-1
   other tags : highway=bus_stop
-    geometry : [52.0625595,29.2248601]
+    geometry : [52.0625397,29.2258234]
 n3212404850  null / null / 3-й переулок Заслонова
   other tags : highway=bus_stop
     geometry : [52.0602244,29.2223817]
@@ -456,10 +456,10 @@ n3212404852  null / null / улица Бумажкова
     geometry : [52.0632653,29.2169905]
 n3212404853  null / null / улица Заслонова-2
   other tags : highway=bus_stop
-    geometry : [52.0606961,29.2153704]
+    geometry : [52.0599672,29.2186082]
 n3212404854  null / null / переулок Припятский
   other tags : highway=bus_stop
-    geometry : [52.0620846,29.2291034]
+    geometry : [52.0620846,29.2308928]
 n3212404855  null / null / переулок Припятский
   other tags : highway=bus_stop
     geometry : [52.0619296,29.2305249]
@@ -468,13 +468,13 @@ n3212404856  null / null / Леспромхоз
     geometry : [52.0567612,29.2455882]
 n3212404857  null / null / Леспромхоз
   other tags : highway=bus_stop
-    geometry : [52.0570317,29.2444617]
+    geometry : [52.0561839,29.2461599]
 n3212404858  null / null / Гостиница Припять
   other tags : highway=bus_stop
     geometry : [52.0539310,29.2516715]
 n3212404859  null / null / Гостиница Припять
   other tags : highway=bus_stop
-    geometry : [52.0536275,29.2517037]
+    geometry : [52.0538419,29.2511327]
 n3212404860  null / null / Дом инвалидов
   other tags : highway=bus_stop
     geometry : [52.0601585,29.2061651]
