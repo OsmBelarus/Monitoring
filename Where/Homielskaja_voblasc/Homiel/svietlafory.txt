@@ -44,11 +44,11 @@ n455929172  Рагачоўская вуліца / null / Рогачёвская 
   other tags : highway=bus_stop
     geometry : [52.4378150,31.0026043]
 n455929173  null / null / Железнодорожный техникум
-  other tags : highway=bus_stop
-    geometry : [52.4394206,31.0047309]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4394458,31.0045289]
 n455929174  Універмаг Гомель / null / универмаг Гомель / Универмаг Гомель
-  other tags : highway=bus_stop
-    geometry : [52.4399344,31.0039335]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4399683,31.0040847]
 n455929177  гасцініца Турыст / null / гостиница Турист / гостициа Турист
   other tags : highway=bus_stop
     geometry : [52.4474556,30.9984724]
