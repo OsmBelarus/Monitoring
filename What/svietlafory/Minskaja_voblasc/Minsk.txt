@@ -4,6 +4,9 @@ n255021012  Паварот на філіял БДУ / null / Поворот на
 n275059958  Батанічная вул. / null / Ботаническая / Ботаническая ул.
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.9097001,27.6102994]
+n275074611  null / null / Ермака
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9674769,27.5100600]
 n275076130  null / null / Площадь Казинца
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8440742,27.5052298]
@@ -3492,12 +3495,9 @@ n767088699  null / null / Ольшанская
 n767088702  Зацень / null / Зацень / Зацень
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9587400,27.5075700]
-n767088705  null / null / Ермака
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9675574,27.5100259]
 n767088711  null / null / Переулок Ермака
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9678300,27.5139400]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9678096,27.5138887]
 n767088715  Магазін / null / Миколаевская / Магазин
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9628906,27.5083254]
