@@ -1,7 +1,7 @@
 n306061861
   other tags : amenity=atm
     geometry : [52.1102600,23.7567300]
-n306061864  Беларусбанк / null / Беларусбанк / Беларусбанк
+n306061864  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=8 | addr:street=Партизанский проспект | amenity=atm
     geometry : [52.1014542,23.7619802]
 n306061870
@@ -34,7 +34,7 @@ n306062003
 n306062005
   other tags : amenity=atm
     geometry : [52.0792500,23.7534300]
-n306062046  null / null / Белинвестбанк / Белинвестбанк
+n306062046  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : addr:housenumber=7 | addr:street=улица Жукова | amenity=atm | operator=Белинвестбанк
     geometry : [52.0618900,23.7328700]
 n306062049  Беларусбанк / null / null / Беларусбанк
@@ -98,7 +98,7 @@ n306062487
 n306062491
   other tags : addr:housenumber=6 | addr:street=бульвар Шевченко | amenity=atm | operator=Приорбанк
     geometry : [52.0865920,23.7037752]
-n306062495  Беларусбанк / null / Беларусбанк / Беларусбанк
+n306062495  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [52.0913300,23.7017600]
 n306062543
@@ -116,19 +116,19 @@ n306063440
 n306063449
   other tags : amenity=atm
     geometry : [52.0975103,23.6953631]
-n306063451  null / null / Москва-Минск / Москва-Минск
+n306063451  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
   other tags : amenity=atm | operator=Москва-Минск
     geometry : [52.0906337,23.6945142]
 n306063457
   other tags : amenity=atm
     geometry : [52.0983500,23.6943100]
-n306063459  null / null / Приорбанк
+n306063459  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm
     geometry : [52.0855329,23.6946977]
-n306063469  null / null / Белвнешэкономбанк
+n306063469  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm
     geometry : [52.0852451,23.6945431]
-n306063475  null / null / БелВТБ
+n306063475  null / null / БелВТБ / БелВТБ
   other tags : amenity=atm
     geometry : [52.0853929,23.6923552]
 n306063478  Белінвестбанк / null / null / Белинвестбанк
@@ -146,7 +146,7 @@ n306063530
 n306063925
   other tags : amenity=atm
     geometry : [52.0964800,23.6843800]
-n306063934  null / null / Беларусбанк
+n306063934  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [52.0928230,23.6818589]
 n306063997
@@ -164,25 +164,25 @@ n306064012
 n306064016
   other tags : amenity=atm | operator=Priorbank
     geometry : [52.0957100,23.6898300]
-n306064018  Беларусбанк / null / Беларусбанк / Беларусбанк
+n306064018  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [52.0948882,23.6906567]
 n306064021
   other tags : addr:housenumber=13 | addr:street=улица Куйбышева | amenity=atm | operator=Белвнешэкономбанк
     geometry : [52.0966500,23.6915000]
-n306064023  null / null / Промстройбанк / Промстройбанк
+n306064023  БПС-Збербанк / BPS-Zbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm
     geometry : [52.0965400,23.6844900]
 n306064027
   other tags : amenity=atm
     geometry : [52.0930500,23.6925700]
-n306064028  null / null / Белинвестбанк / Белинвестбанк
+n306064028  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [52.0948500,23.6847400]
 n306064029
   other tags : amenity=atm
     geometry : [52.0972700,23.6817800]
-n306064030  null / null / Внешэконом / Внешэконом
+n306064030  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm
     geometry : [52.0958600,23.6886100]
 n306064038  Белаграпрамбанк / null / null / Белагропромбанк
@@ -257,7 +257,7 @@ n306069134  null / null / null / Atm
 n770135695  Белаграпрамбанк / null / null / Белагропромбанк
   other tags : amenity=atm | operator=Белагропромбанк
     geometry : [52.0886986,23.7098157]
-n772889810  Белінвестбанк / null / Белинвестбанк / Белинвестбанк
+n772889810  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [52.0960233,23.6926162]
 n1029402444
@@ -292,13 +292,13 @@ n1271761577  Белаграпрамбанк / null / null / Белагропро
   other names: name:en=Belagroprombank
   other tags : amenity=atm | operator=Белагропромбанк
     geometry : [52.0666694,23.7216939]
-n1296734204  null / null / Беларусбанк
+n1296734204  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=1 | addr:street=улица Янки Купалы | amenity=atm | operator=Беларусбанк
     geometry : [52.0994871,23.7283552]
-n1446469508  null / null / ВТБ Банк
+n1446469508  ВТБ / VTB / ВТБ / ВТБ
   other tags : addr:housenumber=58/1 | addr:street=Вульковская улица | amenity=atm
     geometry : [52.0691993,23.7311513]
-n1612280409  null / null / Альфа-Банк
+n1612280409  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
   other names: name:en=Alfa-Bank
   other tags : addr:housenumber=78 | addr:postcode=224033 | addr:street=Вульковская улица | amenity=atm | operator=Альфа-Банк
     geometry : [52.0698244,23.7294890]
@@ -333,45 +333,45 @@ n2249805944
 n2249805947
   other tags : amenity=atm | operator=Приорбанк
     geometry : [52.0967421,23.7438961]
-n2341648860  Беларусбанк (інфакіёск) / null / Беларусбанк (Инфокиоск) / Беларусбанк (инфокиоск)
+n2341648860  Беларусбанк (інфакіёск) / Bielarusbank (infakijosk) / Беларусбанк (Инфокиоск) / Беларусбанк (Инфокиоск)
   other tags : amenity=atm
     geometry : [52.0844019,23.7086822]
-n2526854013  null / null / Белинвестбанк
+n2526854013  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | operator=Белинвестбанк
     geometry : [52.0789377,23.7454519]
-n2563438224  null / null / Белинвестбанк
+n2563438224  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [52.0853632,23.6944348]
-n3058605635  null / null / Белгазпромбанк / Белгазпромбанк
+n3058605635  Белгазпрамбанк / Bielhazprambank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm
     geometry : [52.0960508,23.7386886]
-n3096023129  null / null / Альфа-банк
+n3096023129  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
   other tags : amenity=atm | opening_hours=Mo-Su 09:00-01:00
     geometry : [52.0994140,23.7586740]
-n3189607581  null / null / Белагропромбанк
+n3189607581  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | fee=БелАгропром банкомат | operator=Белагропромбанк
     geometry : [52.1421293,23.6558411]
-n3221278071  null / null / Приорбанк
+n3221278071  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | drive_through=no | fee=some | operator=Приорбанк
     geometry : [52.0771832,23.7695583]
-n3295540834  null / null / Белинвестбанк
+n3295540834  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [52.0924357,23.6856914]
-n3306870463  null / null / Белгазпромбанк
+n3306870463  Белгазпрамбанк / Bielhazprambank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm
     geometry : [52.0862857,23.6836408]
-n3306870464  null / null / БелВЭБ
+n3306870464  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm
     geometry : [52.0862965,23.6838374]
 n3308180240
   other tags : amenity=atm
     geometry : [52.0722704,23.7583496]
-n3322743167  null / null / Белгазпромбанк
+n3322743167  Белгазпрамбанк / Bielhazprambank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | atm=yes
     geometry : [52.0969571,23.7666573]
-n3322792195  null / null / ВТБ
+n3322792195  ВТБ / VTB / ВТБ / ВТБ
   other tags : amenity=atm
     geometry : [52.1100979,23.7858045]
-n3323304486  null / null / БПС
+n3323304486  БПС-Збербанк / BPS-Zbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm
     geometry : [52.0986903,23.7852045]

@@ -1,7 +1,7 @@
 n306068135
   other tags : amenity=atm | operator=Белинвестбанк
     geometry : [52.4644533,31.0341666]
-n306068165  null / null / магазин 'эконом Маркет' / Магазин 'Эконом Маркет'
+n306068165  null / null / магазин 'эконом Маркет' / магазин 'эконом Маркет'
   other tags : amenity=atm | operator=Приорбанк | shop=grocery
     geometry : [52.4686874,31.0224736]
 n460382937
@@ -184,16 +184,16 @@ n2354855727
 n2354856771
   other tags : amenity=atm | operator=Белинвестбанк
     geometry : [52.4760779,31.0244031]
-n2354862951  null / null / Москва-Минск
+n2354862951  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
   other tags : amenity=atm
     geometry : [52.4392288,31.0050701]
-n2354864109  null / null / Технобанк
+n2354864109  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=atm
     geometry : [52.4394708,31.0037000]
 n2589429425
   other tags : amenity=atm
     geometry : [52.4520705,31.0227843]
-n2589650714  null / null / Приорбанк
+n2589650714  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm
     geometry : [52.4256282,31.0133845]
 n2609093798
@@ -202,7 +202,7 @@ n2609093798
 n2669415859
   other tags : amenity=atm | brand=Беларусбанк | opening_hours=24/7 | operator=Беларусбанк
     geometry : [52.4071118,30.9241486]
-n2675213001  null / null / БПС-Сбербанк
+n2675213001  БПС-Збербанк / BPS-Zbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm
     geometry : [52.4207650,30.9525768]
 n2710090681
@@ -235,9 +235,9 @@ n3245783161
 n3245787165
   other tags : amenity=atm
     geometry : [52.4683267,31.0393762]
-n3284491389  null / null / Технобанк
+n3284491389  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=atm | operator=Технобанк
     geometry : [52.4678072,31.0404011]
-n3304590074  null / null / Банк ВТБ
+n3304590074  ВТБ / VTB / ВТБ / ВТБ
   other tags : amenity=atm | operator=Банк ВТБ
     geometry : [52.4677339,31.0403374]
