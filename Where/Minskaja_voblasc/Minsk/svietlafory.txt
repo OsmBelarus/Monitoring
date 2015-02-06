@@ -2829,8 +2829,8 @@ n767085150  null / null / Микрорайон Веснянка
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.9300811,27.4883279]
 n767085152  null / null / 2-я Городская детская больница
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9307300,27.4768100]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9306659,27.4764403]
 n767085154  Водапомпавая-1 / null / Водонасосная-1
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9385399,27.5443607]
@@ -2983,7 +2983,7 @@ n767088119  вуліца Гурскага / null / Гурского / улица
     geometry : [53.8939300,27.4852200]
 n767088121  Гарадок / null / Городок / Городок
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9302161,27.4729303]
+    geometry : [53.9301963,27.4733035]
 n767088122  null / null / Петра Глебки, 120
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9283000,27.4821700]
