@@ -7,6 +7,9 @@ n275059958  Батанічная вул. / null / Ботаническая / Б�
 n275076130  null / null / Площадь Казинца
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8440742,27.5052298]
+n275079756  null / null / Поликлиника №25
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8630000,27.4425681]
 n275918868  null / null / Проспект Независимости
   other tags : highway=bus_stop
     geometry : [53.9110310,27.5772873]
@@ -404,8 +407,8 @@ n320719131  Універсам / null / Курган / Универсам
   other tags : highway=bus_stop
     geometry : [53.8611846,27.4608655]
 n320719133  Любімава / null / Универсам Брест / Любимова
-  other tags : highway=bus_stop
-    geometry : [53.8604658,27.4641700]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8605165,27.4640425]
 n320719134  Гасцініца «Звязда» / null / Гостиница Звезда / Гостиница «Звезда»
   other tags : highway=bus_stop | public_transport=stop_area | type=public_transport
     geometry : [53.8626816,27.4657149]
@@ -806,29 +809,29 @@ n320719573  Паўднёвы Захад 4 / null / Юго-Запад-4 / Юго-
   other tags : highway=bus_stop
     geometry : [53.8728500,27.4692600]
 n320719577  Рафіева / null / Рафиева / Рафиева
-  other tags : highway=bus_stop
-    geometry : [53.8743900,27.4659100]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8744047,27.4657622]
 n320719583  Аўтастаянка / null / Рафиева / Автостоянка
   other tags : highway=bus_stop | public_transport=stop_area | type=public_transport
     geometry : [53.8734653,27.4670600]
 n320719588  Аўтастаянка / null / Рафиева / Автостоянка
-  other tags : highway=bus_stop
-    geometry : [53.8736019,27.4655580]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8735332,27.4657384]
 n320719594  Паўднёвы Захад / null / Юго-запад / Юго-Запад
-  other tags : highway=bus_stop
-    geometry : [53.8717684,27.4623328]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8716523,27.4624819]
 n320719600  Паўднёвы Захад / null / ДС Юго-Запад / Юго-Запад
-  other tags : highway=bus_stop
-    geometry : [53.8704677,27.4610860]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8705286,27.4608635]
 n320719619  Паўднёвы Захад / null / Юго-запад / Юго-Запад
-  other tags : highway=bus_stop
-    geometry : [53.8707852,27.4609350]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8707728,27.4611969]
 n320719622  Паўднёвы Захад / null / Юго-запад / Юго-Запад
   other tags : highway=bus_stop
     geometry : [53.8694095,27.4607977]
 n320719625  Паўднёвы Захад / null / ДС Юго-Запад / Юго-Запад
-  other tags : highway=bus_stop
-    geometry : [53.8697441,27.4594843]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8696989,27.4597843]
 n320719629  null / null / Кафе Диалог
   other tags : highway=bus_stop
     geometry : [53.8674228,27.4572925]
@@ -845,8 +848,8 @@ n320719641  Рафіева / null / Проспект Любимова / Рафи
   other tags : highway=bus_stop
     geometry : [53.8651984,27.4542222]
 n320719644  null / null / Белецкого
-  other tags : highway=bus_stop
-    geometry : [53.8622060,27.4481399]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8620455,27.4483163]
 n320719650  null / null / Белецкого
   other tags : highway=bus_stop
     geometry : [53.8631536,27.4484630]
@@ -859,9 +862,6 @@ n320719660  null / null / Поликлиника №25
 n320719663  null / null / Поликлиника №25
   other tags : highway=bus_stop
     geometry : [53.8623980,27.4439015]
-n320719666  null / null / Поликлиника №25
-  other tags : highway=bus_stop
-    geometry : [53.8629187,27.4428284]
 n320719670  Дзіцячы садок / null / Малиновка-5 / Детсад
   other tags : highway=bus_stop
     geometry : [53.8596205,27.4374252]
@@ -1140,8 +1140,8 @@ n341425213  null / null / Есенина, 111
   other tags : highway=bus_stop
     geometry : [53.8658766,27.4364405]
 n341440701  Універсам / null / Универсам Брест / Универсам
-  other tags : highway=bus_stop
-    geometry : [53.8597648,27.4642362]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8598812,27.4645556]
 n341862819  Сухарава-6 / null / Сухарево-6
   other tags : highway=bus_stop
     geometry : [53.8859608,27.4159150]
@@ -1937,8 +1937,8 @@ n567706845  Бялецкага 6 / null / Белецкого-6 / Белецко�
   other tags : highway=bus_stop
     geometry : [53.8563811,27.4651978]
 n567706856  Катэджы / null / Коттеджи / Коттеджи
-  other tags : highway=bus_stop
-    geometry : [53.8576366,27.4555418]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8576623,27.4552685]
 n567706866  Малінаўка-3 / null / Малиновка-3 / Малиновка-3
   other tags : highway=bus_stop
     geometry : [53.8592312,27.4522202]
@@ -1946,8 +1946,8 @@ n567706869  null / null / Белецкого
   other tags : highway=bus_stop
     geometry : [53.8626162,27.4481876]
 n567706873  null / null / Белецкого
-  other tags : highway=bus_stop
-    geometry : [53.8632423,27.4473922]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8631285,27.4472526]
 n567706898  парк Паўлава / null / Парк Павлова / Парк Павлова
   other tags : highway=bus_stop
     geometry : [53.8583655,27.4732058]
@@ -2124,8 +2124,8 @@ n614945394  Малінаўка-3 / null / Малиновка-3 / Малинов�
   other tags : highway=bus_stop
     geometry : [53.8588599,27.4527543]
 n614945395  Катэджы / null / Коттеджи / Коттеджи
-  other tags : highway=bus_stop
-    geometry : [53.8573041,27.4566933]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8574660,27.4571017]
 n614945396  Паварот на філіял БДУ / null / Поворот на филиал БГУ
   other tags : highway=bus_stop
     geometry : [53.8416922,27.4780470]
@@ -2218,8 +2218,8 @@ n626985335  null / null / Лошица-9
   other tags : highway=bus_stop
     geometry : [53.8396902,27.5866464]
 n628130036  null / null / Ширмы
-  other tags : highway=bus_stop
-    geometry : [53.8760859,27.4625918]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.8761183,27.4626639]
 n628130037  null / null / Янковского
   other tags : highway=bus_stop
     geometry : [53.8818315,27.4528119]
@@ -3896,8 +3896,8 @@ n767183486  null / null / Школа-интернат / Школа-интерн�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8994290,27.6557580]
 n767183487  Катэджы / null / Коттеджи / Коттеджи
-  other tags : generated=yes | highway=bus_stop | public_transport=stop_area | type=public_transport
-    geometry : [53.8570000,27.4548800]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position | type=public_transport
+    geometry : [53.8569382,27.4551847]
 n767183488  null / null / Попова
   other tags : highway=bus_stop
     geometry : [53.8697400,27.5125700]
@@ -4349,8 +4349,8 @@ n767183699  Вялікі Лес / null / Великий Лес / Великий 
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9439061,27.7190024]
 n767183700  null / null / Универсам Брест
-  other tags : generated=yes | highway=bus_stop | public_transport=stop_area | type=public_transport
-    geometry : [53.8596464,27.4618743]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position | type=public_transport
+    geometry : [53.8595616,27.4620785]
 n767183701  Навінкі / null / Новинки / Новинки
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9575641,27.5361034]

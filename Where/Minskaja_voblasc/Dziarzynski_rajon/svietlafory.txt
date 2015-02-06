@@ -43,6 +43,9 @@ n1719179816
 n1719179820
   other tags : highway=bus_stop
     geometry : [53.6717998,27.0079452]
+n2143696623  null / null / о.п. Энергетик
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.5921356,27.0514941]
 n2179774757  null / null / Усса, поворот / Усса, поворот
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.7117687,27.2288167]
@@ -67,9 +70,6 @@ n2216111179  null / null / Вязань / Вязань
 n2304115846  null / null / Вязань / Вязань
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [53.7386145,27.3087466]
-n2467526271  null / null / о.п. Энергетик
-  other tags : highway=bus_stop
-    geometry : [53.5921122,27.0515553]
 n2619583315  null / null / остановочный пункт "Станьково"
   other tags : highway=bus_stop | shelter=no
     geometry : [53.6300241,27.2280677]
