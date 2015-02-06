@@ -940,6 +940,9 @@ w256680125
 w256680127
   other tags : addr:housenumber=49 | addr:street=улица Советская | building=yes
     geometry : n2623160787[51.8738780,30.0986465] n2623160792[51.8739525,30.0985919] n2623160793[51.8739773,30.0986752] n2623160789[51.8739024,30.0987377] n2623160787[51.8738780,30.0986465]
+w256680729  null / null / Баня
+  other tags : building=yes | leisure=sauna
+    geometry : n2623167009[51.8734936,30.1017537] n2623167011[51.8735806,30.1016761] n2623167012[51.8736019,30.1017451] n2623167010[51.8735185,30.1018198] n2623167009[51.8734936,30.1017537]
 w256680730
   other tags : addr:housenumber=106 | addr:street=улица Советская | building=yes
     geometry : n2623167179[51.8771715,30.1136288] n2623167182[51.8772602,30.1135655] n2623167184[51.8772904,30.1136949] n2623167180[51.8772088,30.1137610] n2623167179[51.8771715,30.1136288]
@@ -6416,17 +6419,17 @@ w321778681
   other tags : addr:city=Борисовщина | addr:country=BY | addr:housenumber=55 | addr:street=Советская улица | building=yes
     geometry : n3285433360[51.8756289,29.8012346] n3285433356[51.8754955,29.8011635] n3285433355[51.8754560,29.8013910] n3285433359[51.8755929,29.8014550] n3285433360[51.8756289,29.8012346]
 w321779973
-  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=100 | building=yes
+  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=100 | addr:street=улица Советская | building=yes
     geometry : n3285454958[51.8764512,30.1112358] n3285454955[51.8763116,30.1113713] n3285454956[51.8763904,30.1116273] n3285454960[51.8765318,30.1114921] n3285454958[51.8764512,30.1112358]
 w321779976
-  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=100 А | building=yes
+  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=100а | addr:street=улица Советская | building=yes
     geometry : n3285455761[51.8765693,30.1117384] n3285454957[51.8764406,30.1118534] n3285454959[51.8765233,30.1121083] n3285455762[51.8766490,30.1119757] n3285455761[51.8765693,30.1117384]
 w321779981
-  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=11 | building=yes
+  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=11 | addr:street=улица Советская | building=yes
     geometry : n3285454949[51.8726855,30.0926514] n3285454947[51.8725638,30.0927409] n3285454948[51.8726182,30.0929492] n3285454950[51.8727365,30.0928513] n3285454949[51.8726855,30.0926514]
 w321779982
-  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=127 | building=yes
+  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=127 | addr:street=улица Советская | building=yes
     geometry : n3285455765[51.8767477,30.1095211] n3285455763[51.8766549,30.1095804] n3285455764[51.8767086,30.1098197] n3285455766[51.8768039,30.1097584] n3285455765[51.8767477,30.1095211]
 w321779983
-  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=23 | building=yes
+  other tags : addr:city=Велетин | addr:country=BY | addr:housenumber=23 | addr:street=улица Советская | building=yes
     geometry : n3285454953[51.8731306,30.0950558] n3285454954[51.8731587,30.0951705] n3285454952[51.8730513,30.0952476] n3285454951[51.8730207,30.0951290] n3285454953[51.8731306,30.0950558]
