@@ -215,7 +215,7 @@ n364789550
     geometry : [55.1916653,30.1913923]
 n367324775
   other tags : amenity=fountain
-    geometry : [55.1931596,30.2085664]
+    geometry : [55.1931412,30.2085669]
 n370417378
   other tags : noexit=yes
     geometry : [55.1690985,30.1995342]
@@ -11331,6 +11331,9 @@ n3330463027  null / null / Васьковичи
 n3330544727  null / null / Золотая гора
   other tags : natural=peak
     geometry : [55.1833888,30.1540671]
+n3330589248
+  other tags : man_made=tower | tower:type=observation
+    geometry : [55.1912447,30.2047878]
 w8384407
   other tags : abandoned=yes | aeroway=runway
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]

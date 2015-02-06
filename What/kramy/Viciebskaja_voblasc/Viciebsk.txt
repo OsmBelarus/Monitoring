@@ -312,9 +312,6 @@ n1106651785  Штопар / null / Штопор
 n1107002090  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.1765407,30.1827095]
-n1109045614  Равеснік / null / Ровесник
-  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00 | shop=books
-    geometry : [55.1783607,30.2302450]
 n1109252697  null / null / Мясковит № 3 / Мясковит № 3
   other tags : opening_hours=Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 08:00-20:00 | operator=ОАО "Витебский мясокомбинат" | shop=butcher | website=http://vmk.by/
     geometry : [55.1842779,30.2298890]
@@ -324,9 +321,6 @@ n1109252713  null / null / Ремонт одежды
 n1109283943  Тамара / null / Тамара / Тамара
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00 | operator=ООО «ЛЛАН Компани» | shop=furniture
     geometry : [55.1954392,30.1875773]
-n1114696197  кнігарня "Глобус" / null / Глобус / Глобус
-  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00 | shop=books
-    geometry : [55.1924719,30.2055696]
 n1114703865  Свет торбаў / null / Мир сумок
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | shop=bag
     geometry : [55.1855351,30.2040845]
@@ -1948,7 +1942,7 @@ n2400879629  null / null / Веста № 87
     geometry : [55.1918300,30.2058334]
 n2400898764  null / null / Котофей
   other tags : shop=shoes
-    geometry : [55.1908086,30.2030524]
+    geometry : [55.1911132,30.2032024]
 n2401575418  null / null / Орхидея
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-15:00 | shop=chemist
     geometry : [55.1774527,30.2297234]
@@ -2131,7 +2125,7 @@ n2478643845  null / null / Бутики  одежды и обуви
     geometry : [55.1912110,30.2031987]
 n2478644626  null / null / Марко
   other tags : shop=shoes
-    geometry : [55.1910657,30.2048709]
+    geometry : [55.1911052,30.2049794]
 n2479738140  null / null / Катюша
   other tags : contact:website=http://voenservice.by/ | opening_hours=Mo-Fr 10:00-15:00,16:00-19:00 | operator=РУП «Военсервис» | shop=convenience
     geometry : [55.1915875,30.2322402]
@@ -2179,7 +2173,7 @@ n2492213590
     geometry : [55.2051656,30.2158119]
 n2493013523  Буслік / null / Буслик / Буслик
   other tags : shop=baby_goods
-    geometry : [55.1910706,30.2027658]
+    geometry : [55.1910079,30.2030390]
 n2493019789  супермаркет "Еураопт" / null / супермаркет "Евроопт"
   other names: name:de=Supermarkt Euroopt | name:en=supermarket Euroopt | name:fr=supermarché Euroopt | name:pl=supermarket Euroopt
   other tags : addr:housenumber=26А | addr:street=улица Ленина | contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 08:00-23:00 | shop=supermarket
@@ -3330,3 +3324,18 @@ n3255837654  null / null / Робинзон
 n3328891169  null / null / Электроволна
   other tags : shop=doityourself | website=http://elektrovolna.by/
     geometry : [55.1797193,30.1842433]
+n3330597593
+  other tags : shop=gift
+    geometry : [55.1910536,30.2053270]
+n3330603894  null / null / OGGI
+  other tags : shop=clothes
+    geometry : [55.1913079,30.2050309]
+n3330610659  null / null / Евроопт
+  other tags : shop=supermarket
+    geometry : [55.1911666,30.2030417]
+n3330615193  null / null / Глобус
+  other tags : shop=books
+    geometry : [55.1924386,30.2056806]
+n3330619105  null / null / Ровесник
+  other tags : shop=books
+    geometry : [55.1783765,30.2302504]
