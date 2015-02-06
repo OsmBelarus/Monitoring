@@ -281,7 +281,7 @@ n1332024700  null / null / Брестский
   other tags : opening_hours=с 9.00-22.00 | shop=convenience
     geometry : [53.0826620,25.2938668]
 n1332024701  null / null / Пралеска
-  other tags : addr:housenumber=103/5 | opening_hours=с -9.00 до 21.00 | shop=convenience
+  other tags : addr:housenumber=103/5 | addr:street=Брестская улица | opening_hours=Mo-Su 09:00-21:00 | shop=convenience
     geometry : [53.0810408,25.2959918]
 n1332331140  null / null / Вам рад
   other tags : shop=convenience
@@ -331,7 +331,7 @@ n1944173080  null / null / Шиномонтаж
   other tags : shop=tyres
     geometry : [53.0980479,25.3316416]
 n2322060354  null / null / Магазин Дверей
-  other tags : addr:housenumber=6 | addr:street=Синичкина улица | phone=+375292844070 | shop=doityourself | website=http://slonimshop.by/
+  other tags : addr:housenumber=6 | addr:street=улица Синичкина | phone=+375292844070 | shop=doityourself | website=http://slonimshop.by/
     geometry : [53.0923470,25.3165782]
 n3140650406  null / null / Звездный
   other tags : shop=convenience
