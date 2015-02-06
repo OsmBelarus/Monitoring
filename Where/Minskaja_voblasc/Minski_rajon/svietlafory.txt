@@ -201,8 +201,8 @@ n767183359  Цнянка-2 / null / Цнянка-2 / Цнянка-2
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9753287,27.5286556]
 n767183365  Цнянка-2 / null / Цнянка-2 / Цнянка-2
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9780657,27.5294367]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9780971,27.5292922]
 n767183377  null / null / магазин "стройматериалы"
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9412300,27.7348100]
