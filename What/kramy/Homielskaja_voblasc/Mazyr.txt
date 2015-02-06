@@ -48,13 +48,13 @@ n674424656  null / null / Автоплюс
   other tags : shop=car_repair
     geometry : [52.0476744,29.2560037]
 n962955883  null / null / Аметист
-  other tags : shop=convenience
-    geometry : [52.0447347,29.2787366]
+  other tags : addr:housenumber=192 | addr:street=Советская улица | shop=convenience
+    geometry : [52.0446352,29.2785081]
 n965704538
   other tags : shop=convenience
     geometry : [52.0413072,29.2788662]
 n965704590  null / null / Аметист
-  other tags : shop=convenience
+  other tags : addr:housenumber=7 | addr:street=улица Якуба Коласа | shop=supermarket
     geometry : [52.0408248,29.2794264]
 n1118901404  Светач / null / Светоч / Светоч
   other tags : shop=books
@@ -464,3 +464,6 @@ n3270045735  null / null / Котлы
 n3270045736  null / null / Мясная лавка
   other tags : addr:street=Интернациональная улица | shop=butcher
     geometry : [52.0343296,29.2614337]
+n3328394250
+  other tags : addr:housenumber=1 | addr:street=улица Якуба Коласа | shop=hairdresser
+    geometry : [52.0412961,29.2787656]
