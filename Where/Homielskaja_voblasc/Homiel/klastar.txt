@@ -4,9 +4,6 @@ n306068259  null / null / Свято-Георгиевский храм / Свя�
 n306068284  Петрапаўлаўскі сабор / null / null / Петропавловский собор
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian | wikipedia=ru:Петропавловский_собор_(Гомель)
     geometry : [52.4241446,31.0172575]
-n419313502  null / null / Церовь ЕХБ
-  other tags : addr:housenumber=9 | addr:street=1-й переулок Николая Островского | amenity=place_of_worship | denomination=baptist | phone=+375(232)412811 | religion=christian | website=http://www.gomel.baptist.by/ | wheelchair=yes
-    geometry : [52.4205647,30.9918779]
 n419327546
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [52.4469020,30.9981508]
@@ -37,9 +34,6 @@ n565676925  null / null / Свято-Троицкий храм
 n600815040
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [52.4125878,30.9726388]
-n621359320  null / null / Иконы Божьей Матери
-  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [52.4180900,30.9954100]
 n737203701  null / null / Адраджэнне
   other tags : amenity=place_of_worship | denomination=pentecostal | religion=christian | website=http://gomelgrace.com/
     geometry : [52.4260257,30.9748149]
@@ -49,12 +43,18 @@ n737203703  null / null / Благодать / Благодать
 n1421070760  null / null / Собор Александра Невского
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian | wheelchair=no
     geometry : [52.3796465,31.0319658]
+w121815399  null / null / Храм Иконы Божьей Матери
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n1362764494[52.4181627,30.9953224] n1362764615[52.4180292,30.9952913] n1362764607[52.4179861,30.9958856] n1362764601[52.4181235,30.9959232] n1362764494[52.4181627,30.9953224]
 w235266529
   other tags : amenity=place_of_worship | building=yes | religion=christian
     geometry : n2433520088[52.3797165,31.0316494] n2433520089[52.3795946,31.0316563] n2433520090[52.3795990,31.0318631] n2433520091[52.3795670,31.0318649] n2433520092[52.3795725,31.0321277] n2433520093[52.3796074,31.0321257] n2433520094[52.3796098,31.0322398] n2433520095[52.3797189,31.0322337] n2433520096[52.3797168,31.0321317] n2433520097[52.3797494,31.0321299] n2433520098[52.3797440,31.0318735] n2433520100[52.3797213,31.0318748] n2433520088[52.3797165,31.0316494]
 w254692924  null / null / Гомельский мужской монастырь во имя святителя Николая Мирликийского Гомельской епархии
   other tags : addr:housenumber=4 | addr:street=улица Демьяна Бедного | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2604958623[52.4405241,30.9848382] n2604958625[52.4404838,30.9852628] n2604958627[52.4406349,30.9853014] n2604958629[52.4406752,30.9848768] n2788686464[52.4405801,30.9848525] n2604958623[52.4405241,30.9848382]
+w281556500  null / null / Церовь ЕХБ
+  other tags : addr:housenumber=9 | addr:street=1-й переулок Николая Островского | amenity=place_of_worship | building=yes | denomination=baptist | phone=+375(232)412811 | religion=christian | website=http://www.gomel.baptist.by/ | wheelchair=yes
+    geometry : n2855244411[52.4206494,30.9917548] n2855244407[52.4205430,30.9917305] n2855244406[52.4205118,30.9920988] n2855244410[52.4206182,30.9921231] n2855244411[52.4206494,30.9917548]
 w284578207  null / null / Ильинская церковь
   other tags : addr:housenumber=44 | addr:postcode=246001 | addr:street=улица Комиссарова | amenity=place_of_worship | building=church | denomination=старообрядчество | religion=christian
     geometry : n2883025707[52.4151290,31.0085107] n2883025708[52.4151480,31.0087786] n2883025710[52.4152429,31.0087605] n2883025709[52.4152239,31.0084926] n2883025707[52.4151290,31.0085107]
