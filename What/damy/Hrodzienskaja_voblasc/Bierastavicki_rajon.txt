@@ -19,9 +19,6 @@ n2702309726
 n2702435154
   other tags : addr:street=улица Машерова | building=residential
     geometry : [53.1199402,23.9762833]
-n2703777875
-  other tags : building=residential
-    geometry : [53.2882700,23.9464004]
 n2705248245
   other tags : building=residential
     geometry : [53.2570933,24.1032025]
@@ -3326,7 +3323,7 @@ w264875586
   other tags : building=residential
     geometry : n2705309077[53.2879357,23.9449380] n2705309051[53.2878363,23.9449283] n2705309050[53.2878317,23.9450607] n2705309075[53.2879311,23.9450705] n2705309077[53.2879357,23.9449380]
 w264875587
-  other tags : addr:housenumber=24 | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=24 | addr:street=улица Ленина | building=residential
     geometry : n2705309297[53.2898555,23.9345890] n2705309295[53.2897984,23.9347857] n2705309271[53.2896897,23.9346976] n2705309292[53.2897468,23.9345009] n2705309297[53.2898555,23.9345890]
 w264875588
   other tags : addr:street=Центральная улица | building=residential
@@ -3338,7 +3335,7 @@ w264875590
   other tags : addr:street=Центральная улица | building=residential
     geometry : n2705309398[53.2904753,23.9309060] n2705309400[53.2904823,23.9311285] n2705309392[53.2903963,23.9311361] n2705309390[53.2903893,23.9309136] n2705309398[53.2904753,23.9309060]
 w264875591
-  other tags : addr:housenumber=21 | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=21 | addr:street=улица Ленина | building=residential
     geometry : n2705309139[53.2894296,23.9361064] n2705309126[53.2893686,23.9363105] n2705309117[53.2893080,23.9362599] n2705309128[53.2893690,23.9360557] n2705309139[53.2894296,23.9361064]
 w264875593
   other tags : addr:housenumber=22 | addr:street=Лесная улица | building=residential
@@ -3383,7 +3380,7 @@ w264875607
   other tags : addr:housenumber=2 | addr:street=Садовая улица | building=residential
     geometry : n2705309409[53.2905213,23.9255299] n2705309405[53.2904872,23.9256685] n2705309389[53.2903856,23.9255987] n2705309394[53.2904197,23.9254601] n2705309409[53.2905213,23.9255299]
 w264875608
-  other tags : addr:housenumber=23 | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=23 | addr:street=улица Ленина | building=residential
     geometry : n2705309227[53.2896070,23.9355297] n2705309187[53.2895530,23.9357344] n2705309146[53.2894739,23.9356760] n2705309178[53.2895278,23.9354713] n2705309227[53.2896070,23.9355297]
 w264875610
   other tags : addr:housenumber=22 | addr:street=улица 22 Партсъезда | building=residential
@@ -3398,7 +3395,7 @@ w264875614
   other tags : addr:housenumber=8 | building=residential
     geometry : n2705309257[53.2896232,23.9204056] n2705309245[53.2895976,23.9206400] n2705309176[53.2894759,23.9206029] n2705309185[53.2895014,23.9203685] n2705309257[53.2896232,23.9204056]
 w264875615
-  other tags : addr:housenumber=25 | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=25 | addr:street=улица Ленина | building=residential
     geometry : n2705309233[53.2895925,23.9339498] n2705309174[53.2894936,23.9339227] n2705309158[53.2894769,23.9340934] n2705309223[53.2895757,23.9341205] n2705309233[53.2895925,23.9339498]
 w264875616
   other tags : building=residential
@@ -3413,7 +3410,7 @@ w264875621
   other tags : building=residential
     geometry : n2705309122[53.2893517,23.9338445] n2705309115[53.2892725,23.9338067] n2705309105[53.2892358,23.9340213] n2705309120[53.2893150,23.9340592] n2705309122[53.2893517,23.9338445]
 w264875626
-  other tags : addr:housenumber=19 | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=19 | addr:street=улица Ленина | building=residential
     geometry : n2705309118[53.2893296,23.9366010] n2705309111[53.2892783,23.9367656] n2705309104[53.2892247,23.9367188] n2705309109[53.2892760,23.9365542] n2705309118[53.2893296,23.9366010]
 w264875627
   other tags : addr:street=Садовая улица | building=residential
@@ -3449,7 +3446,7 @@ w264875644
   other tags : addr:housenumber=18 | addr:street=Центральная улица | building=residential
     geometry : n2705309411[53.2905133,23.9276421] n2705309403[53.2904709,23.9278911] n2705309385[53.2903019,23.9278105] n2705309387[53.2903443,23.9275615] n2705309411[53.2905133,23.9276421]
 w264875645
-  other tags : addr:housenumber=24а | addr:street=Ленина | building=residential
+  other tags : addr:housenumber=24а | addr:street=улица Ленина | building=residential
     geometry : n2705309274[53.2896811,23.9351319] n2705309247[53.2896273,23.9353239] n2705309200[53.2895528,23.9352654] n2705309239[53.2896066,23.9350735] n2705309274[53.2896811,23.9351319]
 w264875646
   other tags : addr:housenumber=18 | addr:street=Юбилейная улица | building=residential
@@ -4145,7 +4142,7 @@ w267210022
   other tags : addr:housenumber=27 | addr:street=Центральная улица | building=residential
     geometry : n2726805925[53.2907570,23.9285075] n2726805920[53.2905368,23.9283988] n2726805918[53.2904948,23.9286372] n2726805924[53.2907149,23.9287459] n2726805925[53.2907570,23.9285075]
 w267210023
-  other tags : addr:street=Ленина | building=residential
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2726805966[53.2933915,23.9307369] n2726805965[53.2933860,23.9305124] n2726805963[53.2933193,23.9305170] n2726805964[53.2933248,23.9307415] n2726805966[53.2933915,23.9307369]
 w267210024
   other tags : addr:housenumber=33 | addr:street=Центральная улица | building=residential
@@ -4154,7 +4151,7 @@ w267210026
   other tags : addr:housenumber=1 | addr:street=Садовая улица | building=residential
     geometry : n2726805911[53.2900583,23.9258115] n2726805910[53.2900277,23.9260109] n2726805914[53.2902008,23.9260853] n2726805915[53.2902314,23.9258859] n2726805911[53.2900583,23.9258115]
 w267210027
-  other tags : addr:street=Ленина | building=residential
+  other tags : addr:street=улица Ленина | building=residential
     geometry : n2726805953[53.2919582,23.9296293] n2726805949[53.2918492,23.9295855] n2726805947[53.2918114,23.9298494] n2726805951[53.2919204,23.9298932] n2726805953[53.2919582,23.9296293]
 w267210028
   other tags : addr:housenumber=5 | addr:street=Садовая улица | building=residential
