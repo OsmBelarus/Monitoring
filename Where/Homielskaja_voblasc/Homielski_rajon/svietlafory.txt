@@ -125,10 +125,10 @@ n1882985916  null / null / Ивановка
     geometry : [52.5140922,30.6745688]
 n1883005940
   other tags : highway=bus_stop
-    geometry : [52.2025686,31.0042256]
+    geometry : [52.2026135,31.0040107]
 n1883005946
-  other tags : highway=bus_stop
-    geometry : [52.2167183,31.0084394]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2166962,31.0085845]
 n1883005951
   other tags : highway=bus_stop
     geometry : [52.2067553,31.0052154]
@@ -166,8 +166,8 @@ n2441409364
   other tags : highway=bus_stop
     geometry : [52.2071191,31.0056303]
 n2441409373
-  other tags : highway=bus_stop
-    geometry : [52.2177776,31.0091011]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2177926,31.0089309]
 n2441409383
   other tags : highway=bus_stop
     geometry : [52.2490688,31.0190674]
@@ -240,3 +240,6 @@ n3331321647
 n3331321654
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.2585208,30.9646278]
+n3331322388
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.2016700,31.0036673]
