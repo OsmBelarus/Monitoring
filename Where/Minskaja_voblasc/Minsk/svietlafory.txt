@@ -2826,8 +2826,8 @@ n767085141  Далгінаўскі тракт / null / Долгиновский 
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9342778,27.5463865]
 n767085150  null / null / Микрорайон Веснянка
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9302483,27.4886354]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9300811,27.4883279]
 n767085152  null / null / 2-я Городская детская больница
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9307300,27.4768100]
