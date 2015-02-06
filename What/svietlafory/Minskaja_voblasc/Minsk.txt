@@ -3189,8 +3189,8 @@ n767088350  null / null / Университет Физкультуры
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9375242,27.4886216]
 n767088352  Вясёлкавая вуліца / null / Радужная / Радужная улица
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9361600,27.4968200]
+  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.9360576,27.4966650]
 n767088358  Аквапарк / null / Аквапарк
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9501684,27.4479714]
