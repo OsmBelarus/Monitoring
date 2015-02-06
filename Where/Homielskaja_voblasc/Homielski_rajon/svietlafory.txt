@@ -148,11 +148,11 @@ n2386054158
   other tags : highway=bus_stop
     geometry : [52.3699328,30.8265257]
 n2386583243
-  other tags : highway=bus_stop
-    geometry : [52.1502202,30.9865812]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1501968,30.9867485]
 n2386583244
-  other tags : highway=bus_stop
-    geometry : [52.1506695,30.9871536]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1507050,30.9869244]
 n2386583378
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.2710178,31.0263971]
@@ -243,3 +243,6 @@ n3331321654
 n3331322388
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.2016700,31.0036673]
+n3331327377
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1059222,30.9716822]
