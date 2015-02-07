@@ -323,7 +323,7 @@ n281570491  Ласунак / null / Ласунак
 n281570497  null / null / Алекор
   other tags : shop=doityourself
     geometry : [53.9031639,27.5461829]
-n281595897  null / null / Магазин "евроопт"
+n281595897  null / null / Магазин "Евроопт"
   other tags : shop=convenience
     geometry : [53.8995681,27.5753446]
 n281595898  Зрабі сам / null / Сделай сам
@@ -3139,8 +3139,8 @@ n1029488013  null / null / Центр распечатки "Попади в цв
 n1038283511
   other tags : bicycle=yes | foot=yes | horse=yes | motorcar=yes | motorcycle=yes | shop=supermarket
     geometry : [53.8791821,27.5904770]
-n1040957017  null / null / Керамир
-  other tags : shop=bathroom_furnishing
+n1040957017
+  other tags : shop=clothes
     geometry : [53.8974269,27.5798416]
 n1057042230  null / null / Гастроном АКМ №1
   other tags : opening_hours=Mo-Su 09:00-22:00 | shop=convenience
@@ -5450,7 +5450,7 @@ n1831035325
 n1837599107  null / null / Постторг №11
   other tags : shop=convenience
     geometry : [53.8954250,27.5850177]
-n1837608722  null / null / Легион маркет
+n1837608722  null / null / Легион
   other tags : shop=convenience
     geometry : [53.8963714,27.5852151]
 n1840208708  null / null / Всё для ремонта
@@ -10878,3 +10878,6 @@ n3332417251  null / null / Соседи (8-23)
 n3332417253  Гіпермаркет Prostore / null / Гипермаркет Prostore / Гипермаркет Prostore
   other tags : opening_hours=09:00-24:00 | shop=supermarket | website=http://www.prostore.by/
     geometry : [53.8489714,27.6991238]
+n3334784260  null / null / "Отико"
+  other tags : shop=shoes
+    geometry : [53.8976631,27.5794530]
