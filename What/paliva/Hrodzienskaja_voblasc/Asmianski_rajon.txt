@@ -1,18 +1,24 @@
-n804801604  null / null / Белнефтехим
-  other tags : amenity=fuel | operator=Белнефтехим
-    geometry : [54.5338741,25.7249997]
+n804801604  Беларуснафта №58 / Belorusneft №58 / Белоруснефть №58 / Белоруснефть №58
+  other tags : addr:street=д. Каменный лог Ошмянский район | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1593-32697 | website=http://www.belorusneft.by/
+    geometry : [54.5338053,25.7249330]
 n899572514
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | shop=kiosk
     geometry : [54.4326687,25.9744086]
-n899577754
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | shop=kiosk
+n899577754  Беларуснафта №38 / Belorusneft №38 / Белоруснефть №38 / Белоруснефть №38
+  other tags : addr:street=д. Будёновка Ошмянский район | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1593-44033 | website=http://www.belorusneft.by/
     geometry : [54.4268696,25.9054479]
-n2630886884  null / null / Белнефтехим
-  other tags : amenity=fuel | operator=Белнефтехим
+n2630886884  Беларуснафта №41 / Belorusneft №41 / Белоруснефть №41 / Белоруснефть №41
+  other tags : addr:street=д. Каменный лог Ошмянский район | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1593-72112 | website=http://www.belorusneft.by/
     geometry : [54.5366157,25.7243536]
-n2836152081
+n2836152081  null / null / Лукойл
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [54.4445176,25.9193743]
 n2836152083  Лукоiл / null / Лукойл / Лукойл
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [54.4446008,25.9189741]
+n3334865194  Беларуснафта №58 / Belorusneft №58 / Белоруснефть №58 / Белоруснефть №58
+  other tags : addr:street=д. Каменный лог Ошмянский район | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1593-32697 | website=http://www.belorusneft.by/
+    geometry : [54.5337999,25.7254461]
+n3334883916  Беларуснафта №38 / Belorusneft №38 / Белоруснефть №38 / Белоруснефть №38
+  other tags : addr:street=д. Будёновка Ошмянский район | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1593-44033 | website=http://www.belorusneft.by/
+    geometry : [54.4265378,25.9048022]
