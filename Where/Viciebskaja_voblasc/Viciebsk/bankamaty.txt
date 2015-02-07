@@ -49,7 +49,7 @@ n336084596
 n349217160  ATM Белаграпрамбанк / null / null
   other tags : amenity=atm | operator=Белагропромбанк
     geometry : [55.1947059,30.2056163]
-n415939253  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n415939253  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1929512,30.2051276]
 n456909148  ATM Беларусбанк / null / null
@@ -64,7 +64,7 @@ n637611519
 n664001602
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [55.1750293,30.2456583]
-n684631215  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n684631215  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | contact:email=office@belveb.by | contact:website=http://www.bveb.by/ | operator=ОАО «Банк БелВЭБ»
     geometry : [55.1739410,30.2006054]
 n700171435  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
@@ -130,7 +130,7 @@ n861440993  ATM Беларусбанк / null / null / АТМ Беларусба
 n867406991  null / null / ATM / ATM
   other tags : amenity=atm
     geometry : [55.1862537,30.2303828]
-n867407020  Белгазпрамбанк / Bielhazprambank / Белгазпромбанк / Белгазпромбанк
+n867407020  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | operator=Белгазпромбанк
     geometry : [55.1782559,30.2334187]
 n905861022  ATM Беларусбанк / null / null
@@ -253,7 +253,7 @@ n1734264968
 n1767615381  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 35 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.2042685,30.2119313]
-n1767615390  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n1767615390  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.2043970,30.2120322]
 n1771127101
@@ -292,7 +292,7 @@ n1998510168
 n1998510170
   other tags : amenity=atm | fee=CDX0156 Blue | operator=Credex
     geometry : [55.1656031,30.2216679]
-n2022062555  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n2022062555  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1800022,30.2224685]
 n2022062556  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
@@ -316,7 +316,7 @@ n2342436106  Белінвестбанк / Bielinviestbank / Белинвестб
 n2358049409  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | contact:website=http://www.belapb.by/ | operator=Белагропромбанк
     geometry : [55.1922853,30.2515659]
-n2358049414  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n2358049414  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | contact:website=http://www.bveb.by/ | operator=ОАО «Банк БелВЭБ»
     geometry : [55.1919129,30.2516739]
 n2358049418  БПС-Збербанк / BPS-Zbierbank / БПС-Сбербанк / БПС-Сбербанк
@@ -403,7 +403,7 @@ n2965207265  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n2965911251  БПС-Збербанк / BPS-Zbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | opening_hours=24/7 | operator=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
     geometry : [55.1992404,30.1942960]
-n2969422397  null / null / ВТБ Банк / ВТБ Банк
+n2969422397  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : amenity=atm | contact:website=http://www.vtb-bank.by/ | opening_hours=24/7 | operator=ЗАО «Банк ВТБ»
     geometry : [55.1699873,30.2236520]
 n2969538207  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
@@ -430,7 +430,7 @@ n3158090557  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3158090558  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [55.2029349,30.2197829]
-n3158111331  БелЗЭБ / BielZEB / БелВЭБ / БелВЭБ
+n3158111331  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1804870,30.2302584]
 n3158161289  null / null / Инфокиоск / Инфокиоск
