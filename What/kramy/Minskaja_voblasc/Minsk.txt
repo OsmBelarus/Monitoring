@@ -3002,10 +3002,10 @@ n964932405  null / null / Гиппо / Гиппо
     geometry : [53.8871123,27.4229764]
 n969277393  null / null / Гурман
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=convenience
-    geometry : [53.9072480,27.4806920]
-n969277435  null / null / ЭлектрикаСветильники 
-  other tags : addr:housenumber=39 | addr:street=улица Притыцкого | operator=ООО Активмед | shop=doityourself
-    geometry : [53.9076210,27.4771710]
+    geometry : [53.9072264,27.4806829]
+n969277435  null / null / Электрика-Светильники
+  other tags : addr:housenumber=39 | addr:street=улица Притыцкого | shop=radiotechnics
+    geometry : [53.9077444,27.4772967]
 n969278607
   other tags : shop=supermarket
     geometry : [53.9118721,27.4807407]
@@ -3144,10 +3144,7 @@ n1040957017
     geometry : [53.8974269,27.5798416]
 n1057042230  null / null / Гастроном АКМ №1
   other tags : opening_hours=Mo-Su 09:00-22:00 | shop=convenience
-    geometry : [53.9073463,27.4779298]
-n1057077470  null / null / зоомагазин "Хвост"
-  other tags : shop=convenience
-    geometry : [53.9075928,27.4776402]
+    geometry : [53.9073744,27.4779249]
 n1057081662  null / null / Свежие продукты
   other tags : shop=convenience
     geometry : [53.9087724,27.4733006]
@@ -3251,7 +3248,7 @@ n1108781538  null / null / Рублёвский
     geometry : [53.8751642,27.5978545]
 n1108790451  null / null / Цветы столицы
   other tags : shop=florist
-    geometry : [53.9073050,27.4758860]
+    geometry : [53.9074251,27.4758825]
 n1108790465  null / null / Электрик
   other tags : shop=doityourself
     geometry : [53.9085940,27.4722520]
@@ -3978,7 +3975,7 @@ n1345639415  Буслік / null / Буслик / Буслик
     geometry : [53.9066401,27.4922442]
 n1345641520  null / null / Парикмахерская №1б
   other tags : shop=hairdresser
-    geometry : [53.9071520,27.4807054]
+    geometry : [53.9071616,27.4806883]
 n1347651507  null / null / Belwest
   other tags : shop=clothes
     geometry : [53.8636221,27.6111013]
@@ -4613,7 +4610,7 @@ n1535795428  null / null / ООО "ТехноНиколь"
     geometry : [53.9256173,27.4631934]
 n1536629453  Цырульня / null / Парикмахерская
   other tags : shop=hairdresser
-    geometry : [53.9074690,27.4777720]
+    geometry : [53.9077092,27.4767137]
 n1537931568
   other tags : shop=florist
     geometry : [53.9176660,27.5641309]
@@ -8085,19 +8082,25 @@ n3024789038  null / null / Альтамар Тревел
     geometry : [53.9243495,27.5912825]
 n3024813166  null / null / Технокрама
   other tags : shop=electronics
-    geometry : [53.9073482,27.4737051]
+    geometry : [53.9074263,27.4737092]
 n3024814036  null / null / Донна роза
   other tags : shop=florist
     geometry : [53.9074074,27.4743469]
+n3024836555  null / null / ТермоСтиль
+  other tags : opening_hours=Jan-Dec: Mo-Fr 10:00-19:00;Sa 10:00-17:00 | shop=furnace | shope=furnace | website=http://nalan.by/
+    geometry : [53.9076903,27.4764674]
 n3024857053  null / null / Изюминка
-  other tags : opening_hours=Jan-Dec: Mo-Fr 10:00-20:00; Sa, Su 10:00-20:00 | shop=chocolate
-    geometry : [53.9075990,27.4768120]
+  other tags : opening_hours=Jan-Dec: Mo-Fr 10:00-20:00;Sa, Su 10:00-20:00 | shop=yes
+    geometry : [53.9077221,27.4769703]
 n3024879885  null / null / Рыболовный туризм
   other tags : shop=outdoor
-    geometry : [53.9074030,27.4779000]
+    geometry : [53.9074859,27.4778982]
+n3024938784  null / null / Пив&Ко
+  other tags : shop=beverages
+    geometry : [53.9064799,27.4806811]
 n3029078233  null / null / Зоомир
   other tags : shop=pet
-    geometry : [53.9076050,27.4769670]
+    geometry : [53.9077238,27.4770125]
 n3029913233  null / null / Мила
   other tags : shop=carpet
     geometry : [53.9113470,27.4869450]
@@ -10239,9 +10242,6 @@ n3270541801  null / null / ЦЫРУЛЬНЯ
 n3270541802  null / null / ВИАНИКА
   other tags : addr:housenumber=10 | addr:street=улица Данилы Сердича | opening_hours=пн. — сб.: 08:00 — 20:00 вс.: 10:00 — 19:00 пн. — сб.: 08:00 — 21:00 | operator=СТУДИЯ КРАСОТЫ | shop=beauty
     geometry : [53.9116403,27.4891640]
-n3270543878  null / null / №1Б
-  other tags : addr:housenumber=2 | addr:street=улица Бельского | opening_hours=пн. — сб.: 09:00 — 21:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
-    geometry : [53.9069560,27.4806326]
 n3270544678  null / null / УЛЬТРОСТРОНГ
   other tags : operator=КОСМЕТИЧЕСКИЙ КАБИНЕТ | shop=beauty
     geometry : [53.9065636,27.4851770]
