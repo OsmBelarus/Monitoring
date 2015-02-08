@@ -20,11 +20,11 @@ n1436607119  Трамвайнае дэпо / null / Трамвайное деп�
   other tags : railway=tram_stop
     geometry : [52.0489951,29.2087400]
 n1436607165  null / null / Бассейн
-  other tags : railway=tram_stop
-    geometry : [52.0286942,29.2295914]
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
+    geometry : [52.0287096,29.2295563]
 n1436607166  null / null / Бассейн
-  other tags : railway=tram_stop
-    geometry : [52.0287520,29.2295377]
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
+    geometry : [52.0287297,29.2295890]
 n1436607183  Школа / null / Школа / Школа
   other tags : railway=tram_stop
     geometry : [52.0331231,29.2227365]
@@ -32,10 +32,10 @@ n1436607184  Школа №11 / null / Школа №11 / Школа №11
   other tags : railway=tram_stop
     geometry : [52.0331330,29.2227606]
 n1436672051  Бальніца / null / Больница / Больница
-  other tags : railway=tram_stop | tram=yes
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [52.0257514,29.2359276]
 n1436672059  Бальніца / null / Больница / Больница
-  other tags : railway=tram_stop | tram=yes
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [52.0257696,29.2359437]
 n3202868163  null / null / улица Интернациональная
   other tags : railway=tram_stop

@@ -50,11 +50,11 @@ n1436672048  Аўтавакзал / null / Автовокзал / Автовок
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [52.0447988,29.2266624]
 n1436672049  null / null / Бассейн
-  other tags : highway=bus_stop
-    geometry : [52.0285890,29.2292828]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0285654,29.2295232]
 n1436672050  null / null / Бассейн
-  other tags : highway=bus_stop
-    geometry : [52.0291171,29.2286176]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0290492,29.2284969]
 n1436672060  null / null / Завод Молочных Продуктов
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [52.0454825,29.2352874]
@@ -188,23 +188,23 @@ n2759467762  null / null / 13-я школа
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.0286050,29.2142397]
 n2759467764  null / null / ПМК-105
-  other tags : highway=bus_stop
-    geometry : [52.0260950,29.2157691]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0261563,29.2158924]
 n2759467765  null / null / ПМК-105
-  other tags : highway=bus_stop
-    geometry : [52.0258969,29.2165470]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0258103,29.2163792]
 n2759467767  null / null / ПМК-105
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.0260785,29.2192023]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.0259893,29.2193543]
 n2759467769  null / null / Лельчицкий перекрёсток
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.0300066,29.2254341]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.0299516,29.2255424]
 n2759467770  null / null / ПМК-105
-  other tags : highway=bus_stop
-    geometry : [52.0268121,29.2209504]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0268807,29.2208178]
 n2759467772  null / null / улица Гагарина
-  other tags : highway=bus_stop
-    geometry : [52.0224424,29.2122328]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0223589,29.2122669]
 n2759467774  null / null / Мозырские Электрические Сети
   other tags : highway=bus_stop
     geometry : [52.0192931,29.2053220]
