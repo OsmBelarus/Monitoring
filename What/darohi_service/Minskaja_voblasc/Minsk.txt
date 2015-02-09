@@ -13043,7 +13043,7 @@ w59311247
   other tags : access=private | highway=service | oneway=-1 | service=parking_aisle
     geometry : n735614864[53.8872231,27.6579896] n735614681[53.8893572,27.6574711] n735614677[53.8896099,27.6574043]
 w59311250
-  other tags : access=private | highway=service | oneway=-1 | service=parking_aisle
+  other tags : access=private | highway=service | service=parking_aisle
     geometry : n735614787[53.8892949,27.6569482] n735614966[53.8901742,27.6567094]
 w59311253
   other tags : access=private | highway=service | oneway=-1 | service=parking_aisle
@@ -34455,7 +34455,7 @@ w218451887
     geometry : n1424941588[53.9167740,27.4163997] n1507143568[53.9167859,27.4162483] n1507143569[53.9168023,27.4160297]
 w218598322
   other tags : bicycle=yes | highway=service | living_street=yes | maxspeed=20 | oneway=yes | service=parking_aisle
-    geometry : n807976242[53.9210219,27.5698780] n2278426818[53.9208532,27.5697632]
+    geometry : n807976242[53.9210219,27.5698780] n2278426818[53.9208121,27.5697313]
 w218598323
   other tags : highway=service | living_street=yes
     geometry : n2278325452[53.9174600,27.5739068] n987945457[53.9169840,27.5745033] n987945504[53.9166666,27.5748374]
@@ -37649,13 +37649,13 @@ w254310770
   other tags : highway=service | oneway=yes | service=parking_aisle
     geometry : n2600980578[53.9084524,27.4706690] n2600980579[53.9084811,27.4716322]
 w254310771
-  other tags : highway=service | layer=-1 | oneway=yes | service=parking_aisle
+  other tags : highway=service | layer=-1 | service=parking_aisle
     geometry : n2693011794[53.9088718,27.4714529] n2600980583[53.9088598,27.4708961]
 w254310772
   other tags : highway=service | service=parking_aisle
     geometry : n2600980587[53.9090443,27.4716016] n2600980586[53.9090209,27.4706299]
 w254310773
-  other tags : highway=service | oneway=yes | service=parking_aisle
+  other tags : highway=service | service=parking_aisle
     geometry : n2600980584[53.9089431,27.4706352] n2600980585[53.9089469,27.4708853]
 w254310774
   other tags : highway=service
@@ -38310,7 +38310,7 @@ w258320156
     geometry : n2636942825[53.9351975,27.5824069] n2636942835[53.9348184,27.5834953]
 w258439649  null / null / Въезд на стояну такси
   other tags : highway=service | maxspeed=20 | oneway=yes
-    geometry : n2637949700[53.9063635,27.4931525] n2637949702[53.9064678,27.4929299] n2637949704[53.9064441,27.4922942] n2637949701[53.9063188,27.4920834]
+    geometry : n2637949700[53.9063678,27.4931606] n2637949702[53.9064678,27.4929299] n2637949704[53.9064441,27.4922942] n2637949701[53.9063188,27.4920834]
 w258687126
   other tags : highway=service | living_street=yes | oneway=yes
     geometry : n2640125595[53.9551082,27.6199115] n2640125598[53.9551559,27.6198481] n2640125599[53.9551937,27.6197304] n2640125600[53.9551867,27.6196619] n1740330672[53.9551501,27.6196052]
@@ -39056,10 +39056,10 @@ w263520005
   other tags : highway=service | service=parking_aisle
     geometry : n2691437306[53.8467391,27.6980600] n2828979184[53.8464856,27.6979539] n3228038770[53.8464300,27.6979276] n3233625461[53.8463973,27.6979150]
 w263671883
-  other tags : highway=service | layer=-1 | oneway=yes | service=parking_aisle
+  other tags : highway=service | layer=-1 | service=parking_aisle
     geometry : n2600980585[53.9089469,27.4708853] n2693011792[53.9089572,27.4714476]
 w263671884
-  other tags : highway=service | oneway=yes | service=parking_aisle
+  other tags : highway=service | service=parking_aisle
     geometry : n2600980583[53.9088598,27.4708961] n2600980582[53.9088566,27.4706412]
 w263674569
   other tags : highway=service | oneway=yes | service=parking_aisle
