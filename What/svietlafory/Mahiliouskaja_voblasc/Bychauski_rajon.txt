@@ -26,29 +26,29 @@ n2442990436
   other tags : highway=bus_stop
     geometry : [53.4574098,30.5980654]
 n2511392296
-  other tags : highway=bus_stop
-    geometry : [53.2536997,30.2287507]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.2536009,30.2289053]
 n2511392297
-  other tags : highway=bus_stop
-    geometry : [53.2537058,30.2294150]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.2537875,30.2293913]
 n2618595172
-  other tags : highway=bus_stop
-    geometry : [53.4163000,30.2799435]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4163444,30.2800261]
 n2618595176
-  other tags : highway=bus_stop
-    geometry : [53.4174238,30.2791238]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4173839,30.2789911]
 n2618595226
-  other tags : highway=bus_stop
-    geometry : [53.4414622,30.2566855]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4417858,30.2568088]
 n2618595230
-  other tags : highway=bus_stop
-    geometry : [53.4422839,30.2568715]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4422687,30.2567683]
 n2619372048
-  other tags : highway=bus_stop
-    geometry : [53.4008202,30.2962258]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4007339,30.2961295]
 n2619372071
-  other tags : highway=bus_stop
-    geometry : [53.4012950,30.2900223]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4012130,30.2900357]
 n2797303587
   other tags : highway=bus_stop
     geometry : [53.6036471,30.3450476]
@@ -83,20 +83,50 @@ n3030434528
   other tags : highway=bus_stop
     geometry : [53.6723635,29.9869767]
 n3060997135
-  other tags : highway=bus_stop
-    geometry : [53.4335592,30.2626640]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4335836,30.2627825]
 n3060997136
-  other tags : highway=bus_stop
-    geometry : [53.4340861,30.2624820]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4340342,30.2623515]
 n3060997158
-  other tags : highway=bus_stop
-    geometry : [53.4535669,30.2557815]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4535700,30.2559191]
 n3060997162
-  other tags : highway=bus_stop
-    geometry : [53.4546245,30.2560217]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4546164,30.2558395]
 n3205075929
   other tags : highway=bus_stop
     geometry : [53.4526669,30.3857528]
 n3205075934
   other tags : highway=bus_stop
     geometry : [53.4550902,30.3857833]
+n3337319682
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3766264,30.3117779]
+n3337319687
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3775424,30.3114219]
+n3337336438
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3666520,30.3156738]
+n3337336441
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3670243,30.3155404]
+n3337336504
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3326281,30.3530861]
+n3337336509
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.3334034,30.3534135]
+n3337336769
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4760609,30.2553559]
+n3337336774
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4765825,30.2553103]
+n3337338344
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4004642,30.2965785]
+n3337344861
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [53.4804391,30.2549968]
