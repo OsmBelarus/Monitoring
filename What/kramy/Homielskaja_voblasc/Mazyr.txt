@@ -455,12 +455,18 @@ n3270045667  null / null / Твоё бельё
 n3270045735  null / null / Котлы
   other tags : shop=yes
     geometry : [52.0485064,29.2645129]
-n3270045736  null / null / Мясная лавка
-  other tags : addr:street=Интернациональная улица | shop=butcher
-    geometry : [52.0343296,29.2614337]
 n3328394250
   other tags : addr:housenumber=1 | addr:street=улица Якуба Коласа | shop=hairdresser
     geometry : [52.0412961,29.2787656]
 n3332193394  null / null / Ритуальные услуги
   other tags : addr:housenumber=3 | addr:street=1-й переулок Малинина | shop=funeral_directors
     geometry : [52.0376721,29.1912551]
+n3339355992  null / null / Славиа голд
+  other tags : shop=jewelry
+    geometry : [52.0524695,29.2444650]
+n3339356093
+  other tags : shop=jewelry
+    geometry : [52.0523310,29.2443416]
+n3339356094
+  other tags : shop=furniture
+    geometry : [52.0508894,29.2433760]
