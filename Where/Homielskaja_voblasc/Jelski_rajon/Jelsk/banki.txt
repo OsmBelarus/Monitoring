@@ -1,6 +1,6 @@
-n660737351  Беларусбанк / null / null / Беларусбанк
-  other tags : amenity=bank | atm=yes | fax=+375 2354 2 12 29 | opening_hours=Mo-Fr 09:00-14:00,15:00-18:00; Sa 09:00-14:00 | operator=Беларусбанк | phone=+375 2354 2 13 38 | ref=310 | short_name=ЦБУ №310
-    geometry : [51.8058004,29.1559329]
-n660737352  Белаграпрамбанк / null / null / Белагропромбанк
-  other tags : amenity=bank | atm=yes | opening_hours=Mo-Sa 09:00-13:00,14:00-18:30 | operator=Белагропромбанк | phone=+375 2354 20 602 | ref=12 | short_name=РКЦ №12
-    geometry : [51.8068320,29.1518255]
+w239113621  null / null / Белагропромбанк
+  other tags : addr:housenumber=2 | addr:street=улица 9 Мая | amenity=bank | area=yes | atm=yes | building=yes
+    geometry : n2469195991[51.8069828,29.1517769] n2469195970[51.8068171,29.1517081] n2469195966[51.8067888,29.1518864] n2469195986[51.8069545,29.1519552] n2469195991[51.8069828,29.1517769]
+w239113695  null / null / Беларусбанк
+  other tags : addr:housenumber=13 | addr:street=Ленинская улица | amenity=bank | atm=yes | building=yes
+    geometry : n2469195841[51.8059236,29.1559262] n2469195827[51.8057991,29.1557439] n2469195813[51.8057216,29.1558822] n2469195832[51.8058461,29.1560645] n2469195841[51.8059236,29.1559262]
