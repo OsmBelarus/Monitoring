@@ -431,9 +431,6 @@ n3260037094  null / null / Гранит
 n3260037095  null / null / Ритуальные услуги
   other tags : addr:housenumber=62 | addr:street=Ленинская улица | shop=funeral_directors
     geometry : [52.0439550,29.2523391]
-n3260037110  null / null / Ритуальные услуги
-  other tags : addr:housenumber=21 | addr:street=Советская улица | shop=funeral_directors
-    geometry : [52.0589678,29.2410691]
 n3264857389  null / null / Алло
   other tags : shop=mobile_phone
     geometry : [52.0501806,29.2644238]
@@ -470,3 +467,6 @@ n3339356093
 n3339356094
   other tags : shop=furniture
     geometry : [52.0508894,29.2433760]
+n3342094458  null / null / Мебель
+  other tags : addr:housenumber=21 | addr:street=Советская улица | shop=furniture
+    geometry : [52.0594502,29.2401257]
