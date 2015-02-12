@@ -1,6 +1,9 @@
-n306069473
+n306069558
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1241701,23.8302440]
+n423469175
   other tags : highway=bus_stop
-    geometry : [52.1268200,23.9042800]
+    geometry : [52.1269228,23.9042289]
 n839803914
   other tags : highway=bus_stop
     geometry : [52.0720948,23.7803715]
@@ -29,11 +32,11 @@ n1527974154  null / null / Вистычи / Вистычи
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.2019319,23.6789615]
 n2414234071
-  other tags : highway=bus_stop
-    geometry : [52.1183756,23.8609587]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1185306,23.8608769]
 n2414234075
-  other tags : highway=bus_stop
-    geometry : [52.1186948,23.8602473]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1185604,23.8602857]
 n2948379017  Аўтакаса / Aŭtakasa / Автокасса / Автокасса
   other tags : highway=bus_stop
     geometry : [52.2146467,23.7390102]
@@ -58,3 +61,9 @@ n3011849500
 n3149384783  null / null / с/т "Радуга"
   other tags : highway=bus_stop
     geometry : [52.0685185,23.8090272]
+n3343181308
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1230283,23.8340547]
+n3343182996
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1269507,23.9034875]

@@ -5,8 +5,8 @@ n306061884  Тэхнічны універсітэт / null / техническ�
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0986759,23.7600836]
 n306069567
-  other tags : highway=bus_stop
-    geometry : [52.1133988,23.8332798]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1132801,23.8333333]
 n736043339  ЦДТ / null / ЦМТ / ЦМТ
   other tags : highway=bus_stop | nat_name=Центр молодежного творчества
     geometry : [52.0927267,23.7296075]
@@ -93,8 +93,8 @@ n890147087  Беларусбанк / null / Беларусбанк / Белар�
   other tags : highway=bus_stop
     geometry : [52.0942482,23.7321770]
 n894378245  Цэнтральны універмаг / null / Центральный универмаг / Центральный универмаг
-  other tags : highway=bus_stop
-    geometry : [52.0864750,23.6953886]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0863374,23.6954790]
 n908378595  Коляратрон / null / Цветотрон / Цветотрон
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0701136,23.7512529]
@@ -120,11 +120,11 @@ n1002025657  Кальцавая / Kalcavaja / Кольцевая / Кольце�
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0682705,23.7195282]
 n1029535747  null / null / Новые Задворцы
-  other tags : highway=bus_stop
-    geometry : [52.1202754,23.7700474]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1201120,23.7703357]
 n1029535861  null / null / Новые Задворцы
-  other tags : highway=bus_stop
-    geometry : [52.1210472,23.7694039]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1211607,23.7690348]
 n1103139149  null / null / Смирнова
   other tags : highway=bus_stop
     geometry : [52.0985953,23.6495621]
@@ -583,11 +583,11 @@ n2291196700
   other tags : highway=bus_stop
     geometry : [52.0659738,23.7562502]
 n2299919577  null / null / Интурист
-  other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0859181,23.6896833]
+  other tags : bench=no | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0860465,23.6897129]
 n2299919578  null / null / Ленина
-  other tags : bench=no | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0861703,23.6882346]
+  other tags : bench=no | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0860491,23.6883842]
 n2299919580  Прыгарадны вакзал / Pryharadny vakzal / Пригородный вокзал / Пригородный вокзал
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | tactile_paving=no
     geometry : [52.1015297,23.6805742]
@@ -691,8 +691,8 @@ n2751467708  null / null / Стафеева
   other tags : highway=bus_stop
     geometry : [52.1009134,23.7882515]
 n2903581365
-  other tags : highway=bus_stop
-    geometry : [52.1135619,23.8362174]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1137051,23.8361295]
 n2923738333  null / null / Автобусный парк №1
   other tags : highway=bus_stop
     geometry : [52.1020992,23.7457508]
@@ -734,8 +734,8 @@ n3305784851
   other tags : highway=bus_stop
     geometry : [52.0731629,23.7199474]
 n3307513819  null / null / Музей
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.0873222,23.6866680]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.0873238,23.6868150]
 n3308180205  null / null / Пугачево
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.0739597,23.7653529]
