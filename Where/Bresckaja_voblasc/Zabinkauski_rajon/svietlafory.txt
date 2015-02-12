@@ -50,11 +50,11 @@ n1936821989  null / null / Хмелево
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.2524963,23.8879042]
 n2095536052
-  other tags : highway=bus_stop
-    geometry : [52.1421961,23.9813732]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1420529,23.9814556]
 n2095536055
-  other tags : highway=bus_stop
-    geometry : [52.1423601,23.9844483]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.1424902,23.9843628]
 n2095536115
   other tags : highway=bus_stop
     geometry : [52.1471667,24.0093625]
