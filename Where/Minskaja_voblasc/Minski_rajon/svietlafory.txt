@@ -185,7 +185,7 @@ n767183343  Аўтарынак / null / Авторынок / Авторынок
   other names: name:uk=Авторынок
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8561800,27.4224800]
-n767183345  1-я брама / null / 1-е ворота
+n767183345  1-я брама / null / 1-е ворота / 1-е ворота
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9112640,27.8359552]
 n767183352  null / null / поворот на Дегтяревку
@@ -212,7 +212,7 @@ n767183415  null / null / 1-е ворота
 n767183416  null / null / 6-й км
   other tags : generated=yes | highway=bus_stop
     geometry : [53.7945900,27.6481700]
-n767183424  null / null / Уютный-1
+n767183424  Утульны-1 / null / Уютный-1 / Уютный-1
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9224910,27.7579950]
 n767183429  null / null / Кожзавод
@@ -278,7 +278,7 @@ n767183600  null / null / пос. Стайки
 n767183609  null / null / поворот на Сосны
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8213985,27.7574342]
-n767183624  null / null / Уютный-1
+n767183624  Утульны-1 / null / Уютный-1 / Уютный-1
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9220300,27.7569000]
 n767183625  Магазін / null / магазин / Магазин
@@ -296,7 +296,7 @@ n767183660  Гарадок / null / Городок / Городок
 n767183678  вуліца Міру / vul. Miru / улица Мира / улица Мира
   other tags : generated=yes | highway=bus_stop
     geometry : [53.7643755,27.6957985]
-n767183682  1-я брама / null / 1-е ворота
+n767183682  1-я брама / null / 1-е ворота / 1-е ворота
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9101574,27.8363445]
 n767183687  Школа / null / школа / Школа
@@ -323,7 +323,7 @@ n767183721  Катэджы / null / Коттеджи / Коттеджи
 n767183741  null / null / спорткомплекс
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8090541,27.7375227]
-n767183759  null / null / Уютный / Уютный
+n767183759  Утульны / null / Уютный / Уютный
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9289400,27.7678500]
 n767183763  null / null / Завод "Вторчермет"
@@ -383,7 +383,7 @@ n767184066  null / null / пос. Гатово
 n767184075  null / null / Новый двор / Новый Двор
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8075000,27.6464500]
-n767184085  null / null / Уютный / Уютный
+n767184085  Утульны / null / Уютный / Уютный
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9292600,27.7693300]
 n767184087  null / null / Путепровод
@@ -492,10 +492,10 @@ n992664417  null / null / Детский Онкологический Центр
 n1015986104  null / null / Дачи / Дачи
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.7821217,27.3643843]
-n1098160581  null / null / Колодищи-2
+n1098160581  Калодзішчы-2 / null / Колодищи-2 / Колодищи-2
   other tags : highway=bus_stop
     geometry : [53.9198154,27.7531562]
-n1098160582  null / null / Колодищи-2
+n1098160582  Калодзішчы-2 / null / Колодищи-2 / Колодищи-2
   other tags : highway=bus_stop
     geometry : [53.9199038,27.7536175]
 n1115112576
@@ -1042,7 +1042,7 @@ n2101645974  Лінія Сталіна / null / null / Линия Сталина
 n2124820097  null / null / Байдаки
   other tags : highway=bus_stop
     geometry : [53.9146770,27.2381634]
-n2146882990  null / null / Полигон
+n2146882990  Палігон / null / Полигон / Полигон
   other tags : highway=bus_stop
     geometry : [53.9281441,27.7406299]
 n2200300405  null / null / Церковь
