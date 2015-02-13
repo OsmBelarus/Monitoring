@@ -464,10 +464,10 @@ w48202643
   other tags : building=residential
     geometry : n612584213[53.9074407,27.7657017] n3342757959[53.9073784,27.7656336] n3342757962[53.9073593,27.7656838] n612584214[53.9072475,27.7655615] n612584215[53.9073141,27.7653859] n3342757960[53.9073858,27.7654642] n3342757961[53.9074259,27.7653584] n612584216[53.9075284,27.7654705] n612584213[53.9074407,27.7657017]
 w48202645
-  other tags : addr:city=Колодищи | addr:housenumber=95 | addr:postcode=223050 | addr:street=Антоновская | building=residential | building:levels=2
+  other tags : building=residential
     geometry : n612584221[53.9049202,27.7680895] n612584222[53.9048264,27.7679815] n612584223[53.9048840,27.7678371] n612584224[53.9049779,27.7679451] n612584221[53.9049202,27.7680895]
 w48202646
-  other tags : addr:housenumber=7 | addr:street=переулок Грибной | building=residential | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=Грибной переулок | building=residential | building:levels=1
     geometry : n612584225[53.9052008,27.7693410] n612584226[53.9051070,27.7692330] n612584227[53.9051646,27.7690886] n612584228[53.9052585,27.7691966] n612584225[53.9052008,27.7693410]
 w48237241
   other tags : building=residential
@@ -3845,7 +3845,7 @@ w302755435
   other tags : building=residential
     geometry : n3070292969[53.9073194,27.7661438] n3070292971[53.9074163,27.7662391] n3070292970[53.9073766,27.7663556] n3070292968[53.9072796,27.7662604] n3070292969[53.9073194,27.7661438]
 w302755451
-  other tags : addr:city=Минск | addr:housenumber=8 | addr:street=Большая Цветочная | building=residential
+  other tags : addr:city=Минск | addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
     geometry : n3070293103[53.9131965,27.7529263] n3070293105[53.9132481,27.7529858] n3070293104[53.9132087,27.7530842] n3070293102[53.9131571,27.7530247] n3070293103[53.9131965,27.7529263]
 w302755463
   other tags : building=residential
@@ -6455,13 +6455,13 @@ w326043266
   other tags : addr:city=Ждановичи | addr:street=Кольцевая | building=apartments
     geometry : n3326610106[53.9400067,27.4301345] n3326610107[53.9400578,27.4300090] n3326610108[53.9398746,27.4297939] n3326610109[53.9398235,27.4299194] n3326610106[53.9400067,27.4301345]
 w326389495
-  other tags : addr:city=Колодищи-2 | addr:housenumber=8 | addr:street=улица Большая цветочная | building=residential
+  other tags : addr:city=Колодищи-2 | addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330225203[53.9132934,27.7526579] n3330225204[53.9132274,27.7528074] n3330225205[53.9131339,27.7527046] n3330225206[53.9131889,27.7525365] n3330225203[53.9132934,27.7526579]
 w326392348
-  other tags : addr:housenumber=11 | addr:street=улица Большая цветочная | building=residential
+  other tags : addr:housenumber=11 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330261512[53.9130529,27.7549989] n3330261513[53.9129715,27.7552307] n3330261514[53.9129044,27.7551656] n3330261515[53.9129236,27.7550924] n3330261516[53.9128613,27.7550477] n3330261517[53.9129188,27.7548607] n3330261512[53.9130529,27.7549989]
 w326393324
-  other tags : addr:city=Колодищи-2 | addr:housenumber=10 | addr:street=улица Большая цветочная | building=residential
+  other tags : addr:city=Колодищи-2 | addr:housenumber=10 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330289220[53.9128784,27.7530893] n3330289221[53.9128409,27.7531884] n3330289222[53.9128117,27.7531176] n3330289223[53.9128367,27.7530327] n3330289220[53.9128784,27.7530893]
 w326393325
   other tags : building=residential
