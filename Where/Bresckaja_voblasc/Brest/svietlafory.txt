@@ -153,8 +153,8 @@ n1112804553  Кальцавая / Kalcavaja / Кольцевая / Кольце�
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0665006,23.7226777]
 n1112806610  Калеснiка / Kalesnica / Колесника / Колесника
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0722394,23.7185735]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0722446,23.7187358]
 n1133631951
   other tags : highway=bus_stop
     geometry : [52.1141026,23.7160596]
@@ -176,6 +176,9 @@ n1175571690  null / null / Рябиновая / Рябиновая
 n1175606112  null / null / микрорайон Вулька
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.0708775,23.7367334]
+n1175625518  Махновiча / Mahnovicha / Махновича / Махновича
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0721600,23.7076832]
 n1175634588  null / null / Вульковская
   other names: name:en=Vulkovskaya
   other tags : highway=bus_stop | shelter=no
@@ -381,6 +384,9 @@ n1298185680  Электратэхнічны завод / null / null
 n1306188072
   other tags : highway=bus_stop
     geometry : [52.1004687,23.6556887]
+n1417834746
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0709753,23.7066787]
 n1419821012  Партызанскі праспект / null / Партизанский проспект / Партизанский проспект
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.1012070,23.7633387]
@@ -388,14 +394,11 @@ n1446487905  Ветраная / Vetrenaya / Ветренная / Ветренн�
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0737980,23.7233598]
 n1457652238  Калеснiка / Kalesnica / Колесника / Колесника
-  other tags : highway=bus_stop
-    geometry : [52.0730161,23.7176887]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0728952,23.7177522]
 n1459292443  Махновiча / Mahnovicha / Махновича / Махновича
-  other tags : highway=bus_stop
-    geometry : [52.0716035,23.7084922]
-n1459292445  Махновiча / Mahnovicha / Махновича / Махновича
-  other tags : highway=bus_stop
-    geometry : [52.0721621,23.7078341]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0716553,23.7083755]
 n1462787653  Падгародская / Podgorodskay / Подгородская / Подгородская
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0714624,23.7189871]
@@ -540,9 +543,6 @@ n2087185802  null / null / Цветотрон / Цветотрон
 n2102979177  null / null / Екельчика
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0673491,23.7121030]
-n2102979550
-  other tags : highway=bus_stop
-    geometry : [52.0710516,23.7065113]
 n2151684741  null / null / Центральная
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0735320,23.7447496]
