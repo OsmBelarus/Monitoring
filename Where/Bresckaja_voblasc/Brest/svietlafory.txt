@@ -117,8 +117,8 @@ n955178032  Брэст-Усходні / null / Брест-Восточный / �
   other tags : highway=bus_stop
     geometry : [52.1087172,23.7263535]
 n992703949  null / null / проспект Республики
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0963121,23.7660505]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0965410,23.7656952]
 n1002025657  Кальцавая / Kalcavaja / Кольцевая / Кольцевая
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0682705,23.7195282]
@@ -436,8 +436,8 @@ n1676620890  null / null / проспект Республики
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0988578,23.7640348]
 n1677245925  null / null / Крушинская
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0956708,23.7658264]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0954211,23.7661040]
 n1677266198  null / null / Областная больница
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.1066393,23.8118578]
