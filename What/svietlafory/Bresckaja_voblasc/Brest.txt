@@ -147,8 +147,8 @@ n1112796075  ДП "Паўднёвы гарадок" / Dyspetcharski punkt "Paudn
   other tags : bench=yes | highway=bus_stop | nat_name=Диспетчерский пункт "Южный городок" | shelter=yes | tactile_paving=no
     geometry : [52.0619242,23.7348871]
 n1112797891  Чырвоназамёная / Čyrvonaznamionaya / Краснознамённая / Краснознаменная
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0751825,23.7191483]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0751764,23.7193294]
 n1112804553  Кальцавая / Kalcavaja / Кольцевая / Кольцевая
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0665006,23.7226777]
@@ -463,8 +463,8 @@ n1707435970  Варшаўская шаша / Varšauskaja šaša / Варшав�
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0743267,23.7070896]
 n1707435975  Чырвоназамёная / Čyrvonaznamionaya / Краснознамённая / Краснознаменная
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0746239,23.7196708]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0747647,23.7194799]
 n1780175444  null / null / Кбн
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.1134297,23.6425358]
