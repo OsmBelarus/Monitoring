@@ -48,9 +48,10 @@ n281570496  null / null / Bistro de Luxe
 n281678078  null / null / Евразия
   other tags : amenity=cafe
     geometry : [53.9012563,27.6013987]
-n281694148  null / null / Улей
-  other tags : addr:housenumber=10 | addr:street=улица Маяковского | amenity=cafe | wikipedia=ru:Улица Маяковского (Минск)
-    geometry : [53.8829893,27.5674984]
+n281694148  null / null / Пиццамания
+  other names: name:en=Pizzamania
+  other tags : amenity=restaurant | website=http://pizzamania.by
+    geometry : [53.8829203,27.5674063]
 n281694149  Маяк / null / Маяк / Маяк
   other tags : addr:housenumber=75 | addr:street=улица Маяковского | amenity=cafe | phone=+375 (17) 2238642 | smoking=yes | wheelchair=yes | wikipedia=ru:Улица Маяковского (Минск)
     geometry : [53.8775780,27.5692645]
