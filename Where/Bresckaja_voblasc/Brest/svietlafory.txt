@@ -62,6 +62,9 @@ n831424549  Луцкая вул. / null / Луцкая / Луцкая улица
 n831424669  Луцкая вул. / null / Луцкая / Луцкая улица
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0763953,23.7478521]
+n840050795  Зарэчная / null / Заречная / Заречная
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0829429,23.7713855]
 n840571398  МОПРа / null / МОПРа / МОПРа
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0887418,23.7089149]
@@ -300,18 +303,15 @@ n1191689229  null / null / Октябрьской революции / Октя�
 n1191689288  null / null / Октябрьской революции / Октябрьской революции
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.0813533,23.7437995]
-n1196095698  Зарэчная / null / Заречная / Заречная
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0830120,23.7712465]
 n1196095699  null / null / Заречная
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0839458,23.7705974]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0838057,23.7706949]
 n1196095700  Зарэчная / null / Заречная / Заречная
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0845316,23.7725692]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0845736,23.7723068]
 n1196095701  null / null / Гузнянская
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0926022,23.7680977]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0927117,23.7681011]
 n1196095706  null / null / Пугачево
   other tags : bench=yes | highway=bus_stop | tactile_paving=no
     geometry : [52.0756900,23.7672536]
@@ -430,8 +430,8 @@ n1580881634
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.0724426,23.6749193]
 n1676620886  null / null / Гузнянская
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0938672,23.7679612]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0938933,23.7675154]
 n1676620890  null / null / проспект Республики
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0988578,23.7640348]
@@ -613,11 +613,11 @@ n2324274023  null / null / Волгоградская / Волгоградска
   other tags : highway=bus_stop
     geometry : [52.0822642,23.7523344]
 n2324283698  null / null / Тенистая
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0840781,23.7753981]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0840936,23.7753197]
 n2324283699  null / null / Тенистая
-  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
-    geometry : [52.0841310,23.7742121]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
+    geometry : [52.0840274,23.7742457]
 n2342486892  null / null / Ленинградская
   other tags : highway=bus_stop
     geometry : [52.1116441,23.7687547]
