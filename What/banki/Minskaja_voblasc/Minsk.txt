@@ -189,8 +189,8 @@ n475199565  Беларусбанк / Bielarusbank / Беларусбанк / Б�
   other tags : amenity=bank | atm=no | operator=Беларусбанк
     geometry : [53.9482084,27.6718725]
 n475208289  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | operator=Приорбанк
-    geometry : [53.9449177,27.6897025]
+  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | description:be=ЦБП №117/1 | description:ru=ЦБУ №117/1 | opening_hours=Mo-Fr 09:00-19:00; -1 - Мо-Fr 09:00-16:00 "last workday of month"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО | ref=117/1
+    geometry : [53.9449090,27.6896712]
 n475208291  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=bank | atm=no | operator=Технобанк
     geometry : [53.9429223,27.6873180]
@@ -261,8 +261,8 @@ n977746139  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Мо
   other tags : addr:housenumber=183 | addr:street=проспект Независимости | amenity=bank | atm=yes
     geometry : [53.9471510,27.6913604]
 n990200781  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=no | operator=Приорбанк
-    geometry : [53.9445751,27.6901182]
+  other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=no | description:be=ЦБП №717 | description:ru=ЦБУ №717 | opening_hours=Mo-Fr 09:00-19:00; -1 - Мо-Fr 09:00-16:00 "last workday of month"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
+    geometry : [53.9445534,27.6901198]
 n991012797  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [53.8775210,27.6068621]
@@ -612,8 +612,8 @@ n1695368670  Франсабанк / Fransabank / Франсабанк / Фран
   other tags : alt_name=Франсабанк | amenity=bank | atm=yes | old_name=Золотой Талер
     geometry : [53.9427722,27.6858337]
 n1695368679  МТБанк / MTBank / МТБанк / МТБанк
-  other tags : addr:housenumber=164 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes
-    geometry : [53.9439138,27.6863777]
+  other tags : amenity=bank | atm=yes | description:be=РКЦ-50 | description:ru=РКЦ-50 | opening_hours=Mo-Su 09:00-20:00; Sa 10:00-18:00 | operator:be=ЗАТ "МТБанк" | operator:ru=ЗАО "МТБанк" | ref=50
+    geometry : [53.9440023,27.6864444]
 n1701585663  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes
     geometry : [53.8754745,27.6298800]
@@ -726,8 +726,8 @@ n2058530065  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кр
   other tags : amenity=bank | atm=yes
     geometry : [53.9090798,27.5761528]
 n2100974400  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : addr:housenumber=164 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes
-    geometry : [53.9439940,27.6864922]
+  other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00 | operator:be=ААТ "Белiнвестбанк" | operator:ru=ОАО "Белинвестбанк"
+    geometry : [53.9440481,27.6865914]
 n2106236953  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=bank
     geometry : [53.9123217,27.5304691]
@@ -831,9 +831,9 @@ n2607642030  null / null / ОАО «АСБ Беларусбанк» Отделе
   other tags : amenity=bank
     geometry : [53.9033852,27.6006103]
 n2608446841  Ідэя Банк / Ideja Bank / Идея Банк / Идея Банк
-  other names: name:en=IdeaBank
-  other tags : amenity=bank | atm=no | description=ЦБУ №42 | opening_hours=Mo-Fr 09:00-19:00; Sa-Su off | operator=ЗАО "Идея Банк" | website=https://ideabank.by
-    geometry : [53.9447625,27.6889728]
+  other names: name:en=Idea Bank
+  other tags : amenity=bank | atm=no | contact:website=https://ideabank.by | currency:BYR=yes | description:be=ЦБП №42 | description:ru=ЦБУ №42 | opening_hours=Mo-Fr 09:00-19:00 | operator:be=ЗАТ "Ідэя Банк" | operator:ru=ЗАО "Идея Банк" | ref=42
+    geometry : [53.9448229,27.6892165]
 n2613387258  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=89 | addr:street=улица Кропоткина | amenity=bank
     geometry : [53.9201796,27.5576744]
@@ -1156,8 +1156,8 @@ n3282077261
 n3283053444  Аддзяленне №529/350 "Белсувязь" / Addzialiennie №529/350 "Bielsuviaź" / Отделение №529/350 "Белсвязь" / Отделение №529/350 "Белсвязь"
   other tags : amenity=bank | opening_hours=Mo-Sa 10:00-14:00,14:45-20:00 | operator=ОАО "АСБ Беларусбанк" | ref=529/350
     geometry : [53.9371074,27.6733478]
-n3283739477  Цэнтр банкаўскіх паслуг №702/3 / Centr bankaŭskich pasluh №702/3 / Центр банковских услуг №702/3 / Центр банковских услуг №702/3
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30 | operator=ОАО "БПС-Сбербанк" | ref=702/3
+n3283739477  БПС-Банк / BPS-Bank / БПС-Банк / БПС-Банк
+  other tags : amenity=bank | description:be=ЦБП №702/3 | description:ru=ЦБУ №702/3 | opening_hours=Mo-Fr 09:30-18:30 | operator:be=ААТ "БПС-Сбербанк" | operator:ru=ОАО "БПС-Сбербанк" | ref=702/3
     geometry : [53.9395455,27.6910021]
 n3283855499  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : addr:housenumber=104 | addr:postcode=220116 | addr:street=проспект Дзержинского | amenity=bank | atm=yes

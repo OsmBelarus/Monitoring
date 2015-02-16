@@ -851,9 +851,9 @@ n1858497753
 n1936471306
   other tags : amenity=pharmacy
     geometry : [53.9469996,27.6890858]
-n1960314920
-  other tags : amenity=pharmacy
-    geometry : [53.9386582,27.6863854]
+n1960314920  Аптэка №10 / null / Аптека №10 / Аптека №10
+  other tags : amenity=pharmacy | contact:phone=+375172371573 | contact:website=http://www.radiks.by/ | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Su 09:00-22:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | ref=10
+    geometry : [53.9386842,27.6861795]
 n1960318144
   other tags : amenity=pharmacy
     geometry : [53.9360409,27.6891482]
@@ -1176,7 +1176,7 @@ n3086111153  Белфармацыя А ТДА Аптэка №11 / Bielfarmacyja
   other tags : addr:city=Минск | addr:housenumber=6 | addr:street=Сухая улица | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 3927298
     geometry : [53.9035139,27.5379302]
 n3086114501  Белфармацыя А ТДА Аптэка №110 / Bielfarmacyja A TDA Apteka №110 / Белфармация А РУП Аптека №110 / Белфармация А РУП Аптека №110
-  other tags : addr:housenumber=5/а | addr:street=улица Никифорова | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2606613
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2606613
     geometry : [53.9392542,27.6905654]
 n3086126059  Белфармацыя А ТДА Аптэка №13 / Bielfarmacyja A TDA Apteka №13 / Белфармация А РУП Аптека №13 / Белфармация А РУП Аптека №13
   other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Лейтенанта Кижеватова | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00, Сб: 10.00 - 18.00 | phone=+37517 3987453
@@ -1353,8 +1353,8 @@ n3268800463  null / null / Ветеринарная Аптека, товары �
   other tags : amenity=pharmacy
     geometry : [53.9468634,27.6892284]
 n3268865260  Аптэка / Apteka / Аптека / Аптека
-  other tags : amenity=pharmacy | opening_hours=8.00-21.00, Сб: 10.00-20.00, Вс: 11.00-16.00
-    geometry : [53.9440407,27.6866243]
+  other tags : amenity=pharmacy | description:be=2-ой катэгорыі | description:ru=2-ой категории | opening_hours=Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 11:00-18:00; Mo[1] off | operator:be=СТАА "Медінтэр" | operator:ru=СООО "Мединтер"
+    geometry : [53.9440913,27.6867791]
 n3269290661  null / null / Apotheke / Apotheke
   other tags : amenity=pharmacy
     geometry : [53.9573627,27.6152709]
@@ -1379,3 +1379,6 @@ n3295054032  Аптэка №8 / Apteka №8 / Аптека №8 / Аптека 
 n3295170863
   other tags : amenity=pharmacy
     geometry : [53.8756087,27.5980496]
+n3351855379  Аптэка №4 / null / Аптека №4 / Аптека №4
+  other tags : amenity=pharmacy | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Sa 09:00-21:00; Su 10:00-20:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | ref=4
+    geometry : [53.9425507,27.6858800]

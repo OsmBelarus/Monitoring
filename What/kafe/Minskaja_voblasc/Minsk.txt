@@ -2028,9 +2028,9 @@ n2600535990  null / null / Coffee Box
 n2600541683  null / null / Pizza Pronto
   other tags : amenity=cafe
     geometry : [53.9215178,27.5768153]
-n2608398224  null / null / Евразия
-  other tags : amenity=cafe | cuisine=international
-    geometry : [53.9382395,27.6880986]
+n2608398224  Еўразія / null / Евразия / Евразия
+  other tags : amenity=cafe | cuisine=international | opening_hours=Su-Th 12:00-23:00; Fr-Sa 12:00-03:00
+    geometry : [53.9383501,27.6879977]
 n2613251747  null / null / BierStrasse
   other tags : addr:housename=BierStrasse | addr:housenumber=40А | addr:street=Орловская улица | amenity=pub | opening_hours=Mo-Su 12:00-24:00; Th-Sa 00:00-02:00,12:00-24:00 | phone=+375 44 721 33 33 | website=http://bierstrasse.by/
     geometry : [53.9326355,27.5549608]
@@ -2701,6 +2701,15 @@ n3347204093  null / null / Балук
 n3348069113  null / null / Шоколадный бар
   other tags : amenity=cafe | opening_hours=Mo-Sa 09:00-21:00; Su 09:00-18:00 | operator=Коммунарка
     geometry : [53.9080180,27.5500681]
+n3351855383  Бліновая Масленіца / null / Блинная Масленица / Блинная Масленица
+  other tags : amenity=fast_food | layer=-1
+    geometry : [53.9453517,27.6890751]
+n3351855386  Кафэтэрый / null / Кафетерий / Кафетерий
+  other tags : amenity=cafe | opening_hours=Mo-Sa 08:00-21:00; Su,PH 08:00-18:00; Th[-1] off | operator:be=ЗАТ "Універсам Першамайскі" | operator:ru=ЗАО "Универсам Первомайский"
+    geometry : [53.9387157,27.6862018]
+n3351855387  Мая Кавярня / null / Мая Кавярня / Мая Кавярня
+  other tags : amenity=cafe | layer=-1 | opening_hours=Mo-Su 10:00-21:00
+    geometry : [53.9453166,27.6888585]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]

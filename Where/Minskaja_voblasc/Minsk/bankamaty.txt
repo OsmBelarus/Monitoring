@@ -1347,9 +1347,9 @@ n905297300
 n940887556
   other tags : amenity=atm | operator=Приорбанк
     geometry : [53.8749650,27.5955778]
-n990204735  Белзнешэканомбанк / null / null / Белвнешэкономбанк
-  other tags : amenity=atm | operator=Белвнешэкономбанк
-    geometry : [53.9447779,27.6893673]
+n990204735  Белзнешэканомбанк / null / Белвнешэкономбанк / Белвнешэкономбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator:be=ААТ "Банк БелВЭБ" | operator:ru=ОАО "Банк БелВЭБ"
+    geometry : [53.9448377,27.6892001]
 n1019574719
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [53.9277587,27.4823415]
@@ -2033,3 +2033,18 @@ n3335233349  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
 n3336676083  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
   other tags : amenity=atm | operator=ЗАО «Альфа-Банк» | website=http://www.alfabank.by/
     geometry : [53.9076417,27.4761692]
+n3351855373
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator:be=ЗАТ "МТБанк" | operator:ru=ЗАО "МТБанк"
+    geometry : [53.9439950,27.6864495]
+n3351855380  БПС-Банк / null / БПС-Банк / БПС-Банк
+  other tags : amenity=atm | cash_in=no | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator:be=ААТ "БПС-Сбербанк" | operator:ru=ОАО "БПС-Сбербанк" | ref=ATM11743
+    geometry : [53.9383687,27.6879950]
+n3351855390  Прыёрбанк / null / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
+    geometry : [53.9445389,27.6901318]
+n3351855391  Прыёрбанк / null / Приорбанк / Приорбанк
+  other tags : amenity=atm | cash_in=yes | opening_hours=24/7 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
+    geometry : [53.9449251,27.6896735]
+n3351855392  Прыёрбанк / null / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
+    geometry : [53.9449371,27.6896635]
