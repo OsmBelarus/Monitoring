@@ -9526,8 +9526,8 @@ w151693050
 w151693051
   other tags : addr:housenumber=36 | addr:street=улица 3 Июля | building=yes | building:levels=1
     geometry : n1645322419[55.1380906,27.6762015] n1645322380[55.1380770,27.6762354] n1645322133[55.1380064,27.6761488] n1645322260[55.1380434,27.6760566] n1645322480[55.1381140,27.6761432] n1645322419[55.1380906,27.6762015]
-w151693053
-  other tags : addr:housenumber=44 | addr:street=улица 3 Июля | building=yes | building:levels=1
+w151693053  null / null / 44
+  other tags : addr:city=Глубокое | addr:housename=44 | addr:housenumber=44 | addr:street=3 Июля | building=yes | building:levels=1
     geometry : n1645323213[55.1384354,27.6748852] n1645323378[55.1384971,27.6748861] n1645323381[55.1384975,27.6747910] n1645323116[55.1383929,27.6747896] n1645323097[55.1383925,27.6748846] n1645323213[55.1384354,27.6748852]
 w151693055
   other tags : addr:housenumber=37 | addr:street=Красноармейская улица | building=yes | building:levels=1
@@ -11203,8 +11203,8 @@ w152293283
 w152293286
   other tags : building=yes | building:levels=1
     geometry : n1645541038[55.1372908,27.6830549] n1645541033[55.1372859,27.6829845] n1645541064[55.1373207,27.6829771] n1645541076[55.1373256,27.6830475] n1645541038[55.1372908,27.6830549]
-w152293288
-  other tags : building=yes | building:levels=1
+w152293288  null / null / 44
+  other tags : addr:city=Глубокое | addr:housename=44 | addr:housenumber=44 | addr:street=3 Июля | building=yes | building:levels=1
     geometry : n1645323378[55.1384971,27.6748861] n1645323375[55.1384969,27.6749292] n1645323211[55.1384352,27.6749284] n1645323213[55.1384354,27.6748852] n1645323378[55.1384971,27.6748861]
 w152293291
   other tags : addr:housenumber=6 | addr:street=улица Чапаева | building=yes | building:levels=1
