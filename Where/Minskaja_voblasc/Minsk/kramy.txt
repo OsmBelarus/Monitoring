@@ -4279,10 +4279,10 @@ n1444847232  Утульнасць / null / Уют / Уют
     geometry : [53.8618439,27.4635979]
 n1444860091  null / null / Ткани
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00 | shop=fabric
-    geometry : [53.8590650,27.5716737]
-n1444860103  null / null / Морепродукты
+    geometry : [53.8589292,27.5716753]
+n1444860103  null / null / Виталюр
   other tags : shop=convenience
-    geometry : [53.8593832,27.5715478]
+    geometry : [53.8593555,27.5715932]
 n1447746381
   other tags : shop=hairdresser
     geometry : [53.9234594,27.4820979]
@@ -5245,7 +5245,7 @@ n1737353378
     geometry : [53.8697215,27.5695373]
 n1737401196  null / null / Пачастунак з Ваукавыску
   other tags : shop=butcher
-    geometry : [53.8593057,27.5715987]
+    geometry : [53.8592290,27.5716175]
 n1737523846  null / null / Баюшка
   other tags : shop=baby_goods
     geometry : [53.8554407,27.5200175]
@@ -7263,6 +7263,9 @@ n2621139002  null / null / Мила
 n2621327317  Оптыка / null / Оптика / Оптика
   other tags : addr:housenumber=114 | addr:street=проспект Рокоссовского | contact:phone=+375 17 247-38-68 | operator=Евромедисервис | shop=optician
     geometry : [53.8565060,27.6092671]
+n2621333887  null / null / Магазин Обои
+  other tags : shop=doityourself
+    geometry : [53.8646832,27.6032771]
 n2621342135  null / null / so-va.by, Магазин сувениров и подарков
   other tags : shop=yes
     geometry : [53.9059890,27.4367095]
@@ -8479,9 +8482,6 @@ n3142369129  null / null / Окна,двери
 n3142374358
   other tags : shop=hairdresser
     geometry : [53.8619810,27.5670865]
-n3142374918  null / null / Виталюр
-  other tags : shop=yes
-    geometry : [53.8591650,27.5716336]
 n3142376029
   other tags : shop=hairdresser
     geometry : [53.8615270,27.5646068]
@@ -9255,7 +9255,7 @@ n3207906945  null / null / Corso Como
   other tags : shop=shoes
     geometry : [53.8643909,27.6034962]
 n3207919408  null / null / Рыболовный магазин
-  other tags : shop=yes
+  other tags : shop=fishing
     geometry : [53.8644795,27.6034479]
 n3207920327  null / null / Сток Идея
   other tags : shop=clothes
