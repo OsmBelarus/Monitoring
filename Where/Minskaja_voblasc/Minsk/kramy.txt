@@ -2261,7 +2261,7 @@ n522815593  null / null / Виталюр
     geometry : [53.9014218,27.6134930]
 n526820941  null / null / Гиппо / Гиппо
   other names: name:en=Gippo
-  other tags : addr:housenumber=2 | addr:street=проспект Рокоссовского | opening_hours=09:00-23:00 | phone=+375 17 214 21 31 | shop=supermarket | wikipedia=en:http://gippo.by/ru/shops/1.html
+  other tags : addr:housenumber=2 | addr:street=проспект Рокоссовского | opening_hours=09:00-23:00 | phone=+375 17 214 21 31 | shop=supermarket | website=http://gippo.by/ru/shops/1.html
     geometry : [53.8749454,27.5949430]
 n526857334  null / null / СуперПрод - продуктовый магазин
   other tags : designation=2 этаж, кулинария, пекарня | shop=convenience
@@ -5017,7 +5017,7 @@ n1641720525
     geometry : [53.9245649,27.5915994]
 n1641721713  null / null / Доктор Вет
   other tags : opening_hours=Mo-Su 20:00-22:00 | shop=veterinary
-    geometry : [53.8747013,27.5953887]
+    geometry : [53.8748798,27.5955683]
 n1642800368
   other tags : shop=mobile_phone
     geometry : [53.9186786,27.5853527]
@@ -7269,6 +7269,9 @@ n2621333887  null / null / Магазин Обои
 n2621334605
   other tags : shop=hairdresser
     geometry : [53.8680316,27.6020556]
+n2621336327  null / null / Магазин "Экспедиция"
+  other tags : shop=outdoor
+    geometry : [53.8745749,27.5951533]
 n2621342135  null / null / so-va.by, Магазин сувениров и подарков
   other tags : shop=yes
     geometry : [53.9059890,27.4367095]
@@ -8465,10 +8468,10 @@ n3142343997  null / null / Всё для вашего малыша
   other tags : shop=yes
     geometry : [53.8830678,27.5498626]
 n3142358413  null / null / Магазин одежды и аксессуаров "Variety"
-  other tags : shop=yes
+  other tags : shop=boutique
     geometry : [53.8751742,27.5952097]
 n3142359599  null / null / Milavitsa
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.8751451,27.5953083]
 n3142361994  null / null / Секонд-хенд
   other tags : shop=yes
