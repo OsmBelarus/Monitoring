@@ -350,7 +350,7 @@ w156929401  null / null / 46
   other tags : building=residential | building:levels=1
     geometry : n1691694255[55.1612430,27.6895050] n1691694251[55.1612341,27.6896340] n1691694166[55.1611280,27.6896118] n1691694167[55.1611333,27.6895337] n1691694197[55.1611722,27.6895418] n1691694208[55.1611757,27.6894910] n1691694255[55.1612430,27.6895050]
 w156929407  null / null / 10
-  other tags : addr:housenumber=10 | addr:street=Гвардейская улица | building=residential | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Гвардейская улица | building=house | building:levels=1
     geometry : n1691693069[55.1581828,27.6910340] n1691693055[55.1581529,27.6911753] n1691692979[55.1580690,27.6911209] n1691693033[55.1581089,27.6909326] n1691693065[55.1581729,27.6909741] n1691693058[55.1581630,27.6910211] n1691693069[55.1581828,27.6910340]
 w156929421  null / null / 43
   other tags : addr:housenumber=43 | building=residential | building:levels=1
@@ -569,7 +569,7 @@ w302448486
   other tags : addr:street=Советская улица | building=apartments
     geometry : n3067073587[55.1664201,27.6732405] n3067073588[55.1664361,27.6734553] n3067073589[55.1659986,27.6735113] n3067073590[55.1659826,27.6732872] n3067073587[55.1664201,27.6732405]
 w314252422  null / null / 12
-  other tags : addr:housenumber=12 | building=residential
+  other tags : addr:city=Глубокое | addr:housenumber=12 | addr:street=Гвардейская улица | building=house
     geometry : n3203000414[55.1580748,27.6913582] n3203000412[55.1579823,27.6912971] n3203000411[55.1579405,27.6914910] n3203000413[55.1580330,27.6915521] n3203000414[55.1580748,27.6913582]
 w314252424  null / null / 9
   other tags : addr:city=г. Глубоокое | addr:housenumber=9 | addr:street=Гвардейская улица | building=house
@@ -586,14 +586,14 @@ w314253339
 w314253505  null / null / 34
   other tags : addr:housenumber=34 | building=residential
     geometry : n3203007480[55.1583050,27.6872221] n3203007478[55.1582209,27.6871822] n3203007477[55.1581757,27.6874736] n3203007479[55.1582598,27.6875136] n3203007480[55.1583050,27.6872221]
-w314253506  null / null / 3
-  other tags : addr:housenumber=3 | building=residential
+w314253506
+  other tags : addr:city=Глубокое | addr:housenumber=3 | addr:street=Гвардейская улица | building=house
     geometry : n3203007504[55.1590977,27.6886864] n3203007502[55.1589970,27.6886526] n3203007500[55.1589741,27.6888606] n3203007503[55.1590748,27.6888945] n3203007504[55.1590977,27.6886864]
 w314253507  null / null / 52
   other tags : addr:housenumber=52 | building=residential
     geometry : n3203007539[55.1596138,27.6896484] n3203007538[55.1596063,27.6898478] n3203007527[55.1594714,27.6898322] n3203007528[55.1594789,27.6896329] n3203007539[55.1596138,27.6896484]
-w314253512  null / null / 5
-  other tags : addr:housenumber=5 | building=residential
+w314253512
+  other tags : addr:city=Глубокое | addr:housenumber=5 | addr:street=Гвардейская улица | building=house
     geometry : n3203007501[55.1589935,27.6890958] n3203007497[55.1588750,27.6890082] n3203007495[55.1588381,27.6891611] n3203007499[55.1589566,27.6892487] n3203007501[55.1589935,27.6890958]
 w314253513  null / null / 48
   other tags : addr:housenumber=48 | building=residential
@@ -602,7 +602,7 @@ w314253515  null / null / 36
   other tags : addr:housenumber=36 | building=residential
     geometry : n3203007486[55.1585425,27.6873294] n3203007482[55.1584000,27.6872616] n3203007481[55.1583785,27.6874001] n3203007484[55.1584378,27.6874283] n3203007483[55.1584157,27.6875710] n3203007485[55.1584988,27.6876106] n3203007486[55.1585425,27.6873294]
 w314253516  null / null / 5а
-  other tags : addr:housenumber=5а | building=residential
+  other tags : addr:city=Глубокое | addr:housenumber=5а | addr:street=Гвардейская улица | building=house
     geometry : n3203007498[55.1589092,27.6893490] n3203007494[55.1588282,27.6892984] n3203007493[55.1588124,27.6893757] n3203007491[55.1587936,27.6893640] n3203007489[55.1587594,27.6895317] n3203007496[55.1588592,27.6895941] n3203007498[55.1589092,27.6893490]
 w314253517  null / null / 50
   other tags : addr:housenumber=50 | building=residential
@@ -652,14 +652,14 @@ w314361020
 w314361021
   other tags : addr:city=Глубокое | addr:housenumber=5 | addr:street=Шмырева переулок | building=house
     geometry : n3204085970[55.1561069,27.6879536] n3204085962[55.1559744,27.6879438] n3204085961[55.1559692,27.6881608] n3204085969[55.1561017,27.6881706] n3204085970[55.1561069,27.6879536]
-w314551298  null / null / 2
-  other tags : addr:housenumber=2 | building=residential
+w314551298
+  other tags : addr:city=Глубокое | addr:housenumber=2 | addr:street=Гвардейская улица | building=house
     geometry : n3205968580[55.1588508,27.6880602] n3205968578[55.1587428,27.6879877] n3205968577[55.1587060,27.6881557] n3205968579[55.1588140,27.6882283] n3205968580[55.1588508,27.6880602]
 w314551561  null / null / 4
   other tags : addr:housenumber=4 | building=residential
     geometry : n3205969166[55.1587874,27.6883940] n3205969164[55.1586749,27.6883162] n3205969163[55.1586223,27.6885489] n3205969165[55.1587349,27.6886267] n3205969166[55.1587874,27.6883940]
-w314552264  null / null / 6а
-  other tags : addr:housenumber=6а | building=residential
+w314552264
+  other tags : addr:city=Глубокое | addr:housenumber=6а | addr:street=Гвардейская улица | building=house
     geometry : n3205976067[55.1586053,27.6892618] n3205976063[55.1584633,27.6891635] n3205976062[55.1584262,27.6893277] n3205976064[55.1585237,27.6893952] n3205976065[55.1585353,27.6893437] n3205976066[55.1585798,27.6893745] n3205976067[55.1586053,27.6892618]
 w314553952
   other tags : addr:housenumber=8 | addr:street=Гвардейская улица | building=residential
