@@ -373,8 +373,8 @@ w156929229  null / null / 37
 w156929244  null / null / 44
   other tags : addr:housenumber=44 | building=residential | building:levels=1
     geometry : n1691694279[55.1612790,27.6892381] n1691694276[55.1612739,27.6893387] n1691694249[55.1612265,27.6893314] n1691694254[55.1612316,27.6892307] n1691694279[55.1612790,27.6892381]
-w156929246  null / null / 36
-  other tags : addr:housenumber=36 | building=residential | building:levels=1
+w156929246
+  other tags : addr:city=Глубокое | addr:housenumber=36 | addr:street=Змитрока Бядули | building=house | building:levels=1
     geometry : n1691692926[55.1578988,27.6920905] n1691692923[55.1578620,27.6922575] n1691692917[55.1577860,27.6922063] n1691692920[55.1578228,27.6920393] n1691692926[55.1578988,27.6920905]
 w156929247
   other tags : addr:city=Глубокое | addr:housenumber=3 | addr:street=Шмырева переулок | building=house | building:levels=1
@@ -475,8 +475,8 @@ w156929434  null / null / 47
 w156929440  null / null / 50
   other tags : addr:housenumber=50 | building=residential | building:levels=1
     geometry : n1691694214[55.1611790,27.6901532] n1691694211[55.1611761,27.6902182] n1691694185[55.1611544,27.6902152] n1691694174[55.1611519,27.6902710] n1691694111[55.1610922,27.6902627] n1691694123[55.1610994,27.6901050] n1691694189[55.1611604,27.6901135] n1691694187[55.1611588,27.6901504] n1691694214[55.1611790,27.6901532]
-w156929476  null / null / 37
-  other tags : addr:housenumber=37 | building=residential | building:levels=1
+w156929476
+  other tags : addr:city=Глубокое | addr:housenumber=37 | addr:street=Змитрока Бядули | building=house | building:levels=1
     geometry : n1691692914[55.1577421,27.6912359] n1691692906[55.1577162,27.6913361] n1691692900[55.1576980,27.6913217] n1691692872[55.1576864,27.6913668] n1691692856[55.1576140,27.6913095] n1691692865[55.1576639,27.6911162] n1691692911[55.1577304,27.6911688] n1691692909[55.1577180,27.6912168] n1691692914[55.1577421,27.6912359]
 w156929477  null / null / 40
   other tags : addr:housenumber=42 | building=residential | building:levels=1
@@ -754,8 +754,8 @@ w314253546  null / null / 5
 w314253783  null / null / 42
   other tags : addr:housenumber=42 | building=residential
     geometry : n3203012689[55.1587330,27.6926212] n3203012685[55.1586514,27.6925675] n3203012682[55.1586102,27.6927592] n3203012687[55.1586918,27.6928129] n3203012689[55.1587330,27.6926212]
-w314253785  null / null / 38
-  other tags : addr:housenumber=38 | building=residential
+w314253785
+  other tags : addr:city=Глубокое | addr:housenumber=38 | addr:street=Змитрока Бядули | building=house
     geometry : n3203012668[55.1583069,27.6923385] n3203012665[55.1581961,27.6922554] n3203012663[55.1581486,27.6924494] n3203012667[55.1582594,27.6925325] n3203012668[55.1583069,27.6923385]
 w314253787  null / null / 44
   other tags : addr:housenumber=44 | building=residential
