@@ -2547,7 +2547,7 @@ n767084846  null / null / АВ Восточный
     geometry : [53.8782900,27.5985700]
 n767084894  null / null / Станция метро Грушевка
   other tags : highway=bus_stop
-    geometry : [53.8868100,27.5158600]
+    geometry : [53.8869121,27.5159048]
 n767084900  null / null / Янки Брыля
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8807000,27.4859600]
@@ -3590,7 +3590,7 @@ n767090534  null / null / Розы Люксембург
     geometry : [53.8893680,27.5123194]
 n767090535  null / null / Станция метро Грушевка
   other tags : highway=bus_stop
-    geometry : [53.8871000,27.5144700]
+    geometry : [53.8871382,27.5145422]
 n767090536  null / null / Папанина
   other tags : highway=bus_stop
     geometry : [53.8839700,27.5179100]
@@ -3599,7 +3599,7 @@ n767090537  null / null / Разинская
     geometry : [53.8822200,27.5196800]
 n767090538  null / null / Станция метро Грушевка
   other tags : highway=bus_stop
-    geometry : [53.8861672,27.5151441]
+    geometry : [53.8862444,27.5152302]
 n767090539  Дзіцячы садок / null / Сквер Полянка / Детсад
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8896200,27.5059800]
@@ -5508,3 +5508,12 @@ n3305411444  null / null / Конечная Автобус №90
 n3324820233  null / null / ДС Курасовщина
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8432606,27.5177745]
+n3359082595
+  other tags : highway=bus_stop
+    geometry : [53.8828063,27.5031783]
+n3359082596  null / null / Прилукская
+  other tags : highway=bus_stop
+    geometry : [53.8800762,27.4997831]
+n3359082597  null / null / Прилукская
+  other tags : highway=bus_stop
+    geometry : [53.8799763,27.4991608]
