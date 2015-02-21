@@ -19,9 +19,6 @@ n306069207  null / null / Храм во имя Сергия Радонежско
 n306069235  null / null / Храм Во Имя Святителя Николая Чудотворца 1925Г. / Храм Во Имя Святителя Николая Чудотворца 1925Г.
   other tags : amenity=place_of_worship
     geometry : [53.0416500,25.9600100]
-n306069451  null / null / Церковь Троицкая / Церковь Троицкая
-  other tags : amenity=place_of_worship | denomination=orthodox | description=На главном фасаде храма сохранилось интересное рельефное лепное панно с войсковой атрибутикой. Даты строительства / обновления: 1768 г. Рейтинг: увидеть интересно | description:ru=На главном фасаде храма сохранилось интересное рельефное лепное панно с войсковой атрибутикой. Даты строительства / обновления: 1768 г. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian
-    geometry : [53.2961320,26.2327301]
 n306069462  null / null / Храм Во Имя  Св. Великомученицы Параскевы 1895Г. / Храм Во Имя  Св. Великомученицы Параскевы 1895Г.
   other tags : amenity=place_of_worship | religion=christian
     geometry : [53.2464232,26.2439539]
@@ -76,6 +73,9 @@ n2505149838  null / null / Костел Сердца Иисуса / Костел
 n2505149875  null / null / Церковь св. Александра Невского / Церковь св. Александра Невского
   other tags : amenity=place_of_worship | building=church | denomination=orthodox | description=Единственный в Беларуси храм рыцарей Мальтийского ордена. Был возведен владельцем местечка командором Мальтийского ордена М. Домбровским. Даты строительства / обновления: 1639 1740-46 гг. Рейтинг: увидеть интересно | description:ru=Единственный в Беларуси храм рыцарей Мальтийского ордена. Был возведен владельцем местечка командором Мальтийского ордена М. Домбровским. Даты строительства / обновления: 1639 1740-46 гг. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian
     geometry : [53.2132065,26.0391186]
+w200308890  null / null / Церковь Троицкая / Церковь Троицкая
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | description=На главном фасаде храма сохранилось интересное рельефное лепное панно с войсковой атрибутикой. Даты строительства / обновления: 1768 г. Рейтинг: увидеть интересно | description:ru=На главном фасаде храма сохранилось интересное рельефное лепное панно с войсковой атрибутикой. Даты строительства / обновления: 1768 г. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian | tourism=attraction
+    geometry : n2103079938[53.2960119,26.2324719] n2103079941[53.2962003,26.2324289] n2103079943[53.2962455,26.2329839] n2103079940[53.2960571,26.2330269] n2103079938[53.2960119,26.2324719]
 w225775477  Касцёл св. Тройцы / null / Троицкий костел
   other names: name:en=Holy Trinity Church
   other tags : amenity=place_of_worship | building=yes | building:architecture=gothic | denomination=catholic | historic=building | image=http://commons.wikimedia.org/wiki/File:Belarus-Ishkaldz-Holy_Trinity_Church-1.jpg | religion=christian | tourism=attraction | wikipedia=be:Троіцкі_касцёл,_Ішкалдзь
