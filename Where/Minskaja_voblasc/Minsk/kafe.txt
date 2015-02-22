@@ -128,14 +128,14 @@ n305674496  null / null / Охота / Охота
   other tags : amenity=restaurant
     geometry : [53.8877667,27.4580597]
 n305674934  Дыялог / null / Диалог / Диалог
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8674201,27.4577699]
 n305675017  null / null / Меридиан / Меридиан
   other tags : amenity=restaurant
     geometry : [53.9088091,27.4739301]
 n305675019  Малінаўка / null / Малиновка / Малиновка
   other names: name:uk=Малинівка
-  other tags : addr:housenumber=10 | addr:postcode=220025 | addr:street=улица Сергея Есенина | amenity=cafe | cuisine=cafe;diner | wikipedia=ru:Улица Есенина (Минск)
+  other tags : addr:housenumber=10 | addr:postcode=220025 | addr:street=улица Сергея Есенина | amenity=cafe | cuisine=cafe/diner | wikipedia=ru:Улица Есенина (Минск)
     geometry : [53.8495916,27.4652400]
 n305675020  null / null / Pizza Smile / Пицца Смайл
   other tags : amenity=cafe | cuisine=pizza
@@ -144,13 +144,13 @@ n305675082  null / null / Батискаф / Батискаф
   other tags : amenity=restaurant
     geometry : [53.8592100,27.4696000]
 n305675288  Валгаград / null / Паб-еда / Пабеда
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8620201,27.4776400]
 n305675289  null / null / Дуплет / Дуплет
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8712291,27.4736849]
 n305675292  null / null / Таверна / Таверна
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8669883,27.4837616]
 n305675294  null / null / McDonald's / McDonald's
   other names: name:uk=МакДональдз
@@ -172,7 +172,7 @@ n305675792  null / null / Бунгало / Бунгало
   other tags : amenity=restaurant
     geometry : [53.9113500,27.4866800]
 n305675999  null / null / 24
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8929892,27.4892089]
 n305676005  Рэстаран / null / Ресторан / Ресторан
   other tags : amenity=restaurant
@@ -191,13 +191,13 @@ n305676404  null / null / Пекинская Утка / Пекинская Ут�
   other tags : amenity=restaurant
     geometry : [53.8979400,27.4980300]
 n305676817  null / null / Встреча Друзей / Встреча Друзей
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8460801,27.5116999]
 n305676822  null / null / Palermo / Palermo
-  other tags : amenity=cafe | cuisine=cafe;diner | opening_hours=10:00-22:00
+  other tags : amenity=cafe | cuisine=cafe/diner | opening_hours=10:00-22:00
     geometry : [53.8409901,27.5030499]
 n305676833  null / null / Подкован / Подкован
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8662001,27.5249399]
 n305677375  null / null / На Прилесной / На Прилесной
   other tags : amenity=restaurant
@@ -206,16 +206,16 @@ n305677692  Піцэрыя / null / Пиццерия / Пиццерия
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.9060320,27.5293743]
 n305677727  Любава / null / Любава / Любава
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8975501,27.5213299]
 n305677849  null / null / Пачастунак / Пачастунак
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8544401,27.5144199]
 n305678108  Асарці / null / Ассорти / Ассорти
   other tags : amenity=cafe | cuisine=barbecue
     geometry : [53.9107307,27.5036580]
 n305678113  null / null / Ромиос / Ромиос
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9176801,27.5030499]
 n305678225  null / null / Zio Pepe / Zio Pepe
   other tags : amenity=cafe | cuisine=pizza
@@ -224,17 +224,17 @@ n305678486  null / null / Планета / Планета
   other tags : amenity=restaurant
     geometry : [53.9126398,27.5384051]
 n305678530  null / null / Легион / Легион
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9238401,27.5187599]
 n305678534  null / null / Zio Pepe / Zio Pepe
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.9173456,27.5236225]
 n305678612  Майстар Біс / null / Мастер Бис / Мастер Бис
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8933701,27.5494799]
 n305678940  null / null / Валерия / Валерия
   other names: name:uk=Валерія
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.8980401,27.5512699]
 n305679207  null / null / Касбар / Касбар
   other tags : amenity=restaurant
@@ -255,22 +255,22 @@ n305679665  null / null / Саквояж
   other tags : addr:city=Минск | addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant
     geometry : [53.9051359,27.5443606]
 n305680032  null / null / Трактир На Парковой / Трактир На Парковой
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9092701,27.5484800]
 n305680039  null / null / Бирхауз / Бирхауз
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9097347,27.5475601]
 n305680042  Піцэрыя / null / Пиццерия / Пиццерия
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.9042700,27.5507700]
 n305680045  null / null / Наше Место / Наше Место
-  other tags : amenity=cafe | cuisine=cafe;diner
+  other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9024401,27.5510699]
 n305680133  null / null / Zio Pepe / Zio Pepe
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.8867809,27.5416240]
 n305680134  null / null / Taj / Немига
-  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=cafe | cuisine=cafe;diner
+  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=cafe | cuisine=cafe/diner
     geometry : [53.9049653,27.5441155]
 n305680139  null / null / Столица / Столица
   other tags : amenity=cafe | cuisine=cafe/diner | level=-1
@@ -1175,7 +1175,7 @@ n1309797326  null / null / ['Справа]
   other tags : amenity=restaurant | cuisine=italian | opening_hours=Mo-Fr 08:30-22:00; Sa-Su 10:00-23:00
     geometry : [53.9168644,27.5601742]
 n1312923411  null / null / Coffee On
-  other tags : amenity=cafe | cuisine=coffee shop | internet_access=wlan
+  other tags : amenity=cafe | cuisine=coffee_shop | internet_access=wlan
     geometry : [53.8864840,27.5415707]
 n1313533334  Харчэўня / null / null
   other tags : amenity=restaurant | fixme:komzpa=добавить русское имя | microbrewery=yes | opening_hours=Mo-Su 12:00-23:00
