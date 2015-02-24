@@ -4361,9 +4361,9 @@ n1462083151  Бытавая хімія / null / Магазин: У дома / Б
 n1462083152  null / null / Пивной барон
   other tags : addr:housename=Пивной барон | addr:housenumber=26 | addr:postcode=220112 | addr:street=Игуменский тракт | opening_hours=10:00-23:00 | phone=+37529 1234 014 | shop=beverages | website=http://www.beerbaron.by/
     geometry : [53.8427644,27.5712714]
-n1463849097  null / null / Прием б/у АКБ, продажа новых АКБ (группа компаний ПАК) ул. Лынькова, 123
-  other tags : shop=car
-    geometry : [53.9274292,27.4605224]
+n1463849097
+  other tags : addr:housenumber=123 | addr:street=ул. Лынькова | note=Прием б/у АКБ, продажа новых АКБ | operator=группа компаний ПАК | shop=car
+    geometry : [53.9307149,27.4637997]
 n1464597871
   other tags : shop=car
     geometry : [53.9127377,27.5989371]
@@ -5605,7 +5605,7 @@ n1952534833  null / null / Шиномонтаж
     geometry : [53.8960893,27.5040673]
 n1964178042
   other tags : shop=ticket
-    geometry : [53.9374672,27.4418296]
+    geometry : [53.9376237,27.4416250]
 n1964178072
   other tags : shop=ticket
     geometry : [53.9378012,27.4419110]
@@ -7675,6 +7675,9 @@ n2628694635  null / null / Щедрый
 n2628742547
   other tags : shop=convenience
     geometry : [53.9319264,27.5628230]
+n2628753786  null / null / Дискаунтер алкогольных напитков
+  other tags : shop=alcohol
+    geometry : [53.9325698,27.4578134]
 n2628833328  null / null / Uz-Daewoo
   other tags : addr:city=Минск | addr:housenumber=33А | addr:postcode=220100 | addr:street=улица Кульман | operator=ООО "КЛА-М" | phone=+8 017 233 24 10 | shop=car
     geometry : [53.9272533,27.5655534]
