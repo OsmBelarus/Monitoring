@@ -2269,9 +2269,6 @@ n839749134
 n839749233
   other tags : highway=crossing
     geometry : [53.9224593,27.5125024]
-n839749421
-  other tags : crossing=island | highway=crossing
-    geometry : [53.9174664,27.5528126]
 n839749449
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8850590,27.5615838]
@@ -9274,3 +9271,9 @@ n3359265747
 n3359265748
   other tags : bicycle=designated | crossing=traffic_signals | highway=crossing
     geometry : [53.9094056,27.5804211]
+n3369939093
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9181232,27.5524923]
+n3369943793
+  other tags : crossing=island | highway=crossing
+    geometry : [53.9182269,27.5527737]
