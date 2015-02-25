@@ -14,8 +14,8 @@ n913507659  Панацэя / Panaceja / Панацея / Панацея
   other names: name:uk=Панацея
   other tags : amenity=pharmacy
     geometry : [53.8869400,25.3017587]
-n1039972114  Аптэка №14 / Apteka №14 / Аптека №14 / Аптека №14
-  other tags : amenity=pharmacy | dispensing=no
+n1039972114  null / null / Аптека №44
+  other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off; Th[2] off | phone=+375 154 56-01-81
     geometry : [53.8968391,25.2679513]
 n1081990225  Арніка-Люкс / Arnika-Liuks / Арника-Люкс / Арника-Люкс
   other tags : addr:housenumber=14 к1 | addr:street=улица Космонавтов | amenity=pharmacy
@@ -53,9 +53,15 @@ n3126206099
 n3126234596
   other tags : amenity=pharmacy
     geometry : [53.8924223,25.2955629]
-n3219299278
-  other tags : amenity=pharmacy
+n3219299278  null / null / Аптека №47
+  other tags : amenity=pharmacy | opening_hours=Mo 12:00-20:00; Tu-Sa 11:00-20:00; Su 11:00-20:00; PH 11:00-20:00; We[3] off | phone=+375 154 65-52-11
     geometry : [53.8920480,25.2559156]
 n3369772976  null / null / ЦРА №146
-  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; We[3] off | phone=+375 154 54-75-21 | ref=146
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; Th[3] off | phone=+375 154 54-75-21 | ref=146
     geometry : [53.8934052,25.2763731]
+n3369937926  null / null / Аптека №4
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-17:00; Su 09:00-17:00; PH 09:00-17:00; We[2] off | phone=+375 154 55-82-50
+    geometry : [53.9327733,25.2644675]
+n3369937927  null / null / Аптека №51
+  other tags : amenity=pharmacy | opening_hours=Mo-Sa 09:00-20:00; Su 09:00-20:00; PH 09:00-20:00; We[2] off | phone=+375 154 61-04-75
+    geometry : [53.8717672,25.2818987]
