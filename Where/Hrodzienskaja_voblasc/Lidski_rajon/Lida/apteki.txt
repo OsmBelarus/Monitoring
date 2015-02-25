@@ -4,12 +4,12 @@ n306067666  null / null / Тамавир / Тамавир
 n306067675  null / null / Рябина красная / Рябина красная
   other tags : addr:housenumber=62 | addr:street=улица Фурманова | amenity=pharmacy
     geometry : [53.8698225,25.2873652]
-n306067677
-  other tags : addr:city=Лида | amenity=pharmacy
-    geometry : [53.8816300,25.2976500]
-n306067709  №163 Фармацыя / №163 Farmacyja / №163 Фармация / №163 Фармация
-  other tags : addr:housenumber=6 | addr:street=Ленинская улица | amenity=pharmacy
-    geometry : [53.8905184,25.3021996]
+n306067677  null / null / Аптека №187
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-14:00; PH off; Tu[2] off | phone=+375 154 52-95-18
+    geometry : [53.8818848,25.2975329]
+n306067709  null / null / Аптека №163
+  other tags : amenity=pharmacy | opening_hours=Mo-Sa 08:00-22:45; Su 08:00-22:45; PH 08:00-22:45; Mo[1] off
+    geometry : [53.8905265,25.3021933]
 n913507659  Панацэя / Panaceja / Панацея / Панацея
   other names: name:uk=Панацея
   other tags : amenity=pharmacy
@@ -23,9 +23,9 @@ n1081990225  Арніка-Люкс / Arnika-Liuks / Арника-Люкс / Ар
 n1081990233  №2 Камфарм / №2 Kamfarm / №2 Комфарм / №2 Комфарм
   other tags : addr:housenumber=9А | addr:street=Ленинская улица | amenity=pharmacy
     geometry : [53.8895122,25.2991880]
-n1081990235  №139 Фармацыя / №139 Farmacyja / №139 Фармация / №139 Фармация
-  other tags : addr:housenumber=11 | addr:street=улица Кирова | amenity=pharmacy
-    geometry : [53.8932172,25.2978488]
+n1081990235  null / null / Аптека №130
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; Th[3] off | phone=+375 154 52-58-13
+    geometry : [53.8932012,25.2978465]
 n1097008105  null / null / Для лидчан / Для лидчан
   other tags : amenity=pharmacy
     geometry : [53.8898279,25.2997912]
@@ -65,3 +65,27 @@ n3369937926  null / null / Аптека №4
 n3369937927  null / null / Аптека №51
   other tags : amenity=pharmacy | opening_hours=Mo-Sa 09:00-20:00; Su 09:00-20:00; PH 09:00-20:00; We[2] off | phone=+375 154 61-04-75
     geometry : [53.8717672,25.2818987]
+n3370017696  null / null / Аптека №115
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-17:00; Su 09:00-17:00; PH 09:00-17:00; Th[-1] off | phone=+375 154 52-47-33
+    geometry : [53.8974137,25.3024371]
+n3370017697  null / null / Аптека №139
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-17:00; Su 09:00-17:00; PH 09:00-17:00; Th[2] off | phone=+375 154 53-14-54
+    geometry : [53.8971975,25.2853988]
+n3370017698  null / null / Аптека №155
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 09:00-17:00; PH off; Tu[1] off | phone=+375 154 55-92-17
+    geometry : [53.9153642,25.2369786]
+n3370017699  null / null / Аптека №161
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 08:00-16:00; Su 08:00-16:00; PH 08:00-16:00; Tu[1] off | phone=+375 154 52-04-75
+    geometry : [53.8842206,25.2966224]
+n3370017700  null / null / Аптека №166
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-17:00; Su 09:00-17:00; PH 09:00-17:00; Tu[3] off | phone=+375 154 55-76-56
+    geometry : [53.8787316,25.3299423]
+n3370017701  null / null / Аптека №172
+  other tags : amenity=pharmacy | opening_hours=Tu-Sa 08:00-16:00; Su 08:00-16:00; PH off; Tu[3] off | phone=+375 154 52-78-79
+    geometry : [53.8831629,25.3023169]
+n3370017702  null / null / Аптека №196
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-17:00; PH off; Fr[-1] off | phone=+375 154 53-31-36
+    geometry : [53.8954795,25.3181303]
+n3370017703  null / null / Аптека №74
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 09:00-17:00; PH off; Fr[-1] off | phone=+375 154 60-15-62
+    geometry : [53.8837042,25.2983328]
