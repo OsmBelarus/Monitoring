@@ -1002,9 +1002,6 @@ n3197732568
 n3228101732
   other tags : historic=monument
     geometry : [53.1427096,29.2268611]
-n3229479457
-  other tags : barrier=bollard
-    geometry : [53.1460098,29.2251797]
 n3230551892  null / null / КГБ
   other tags : office=government
     geometry : [53.1410612,29.2218827]
@@ -4512,6 +4509,12 @@ w330308519
 w330308520
   other tags : natural=tree_row
     geometry : n3372697099[53.1455330,29.2274288] n3372697100[53.1461292,29.2257476]
+w330309814
+  other tags : barrier=hedge
+    geometry : n667253557[53.1459208,29.2243854] n3372708262[53.1461051,29.2238607]
+w330309815
+  other tags : barrier=hedge
+    geometry : n666976387[53.1460335,29.2244947] n3372708263[53.1462171,29.2239664]
 r897494
   other tags : addr:housenumber=51 | addr:street=Ульяновская улица | building=school | building:levels=3 | type=multipolygon
     geometry : <inner> w57728821: n715760580[53.1702411,29.1887920] n715760595[53.1701823,29.1886113] n715759861[53.1700313,29.1887483] n715759277[53.1700901,29.1889289] n715760580[53.1702411,29.1887920] : w57728821
