@@ -29,6 +29,9 @@ n275215844  КПП / null / КПП / КПП
 n275222747  null / null / Проезда Нет / Проезда Нет
   other tags : access=restricted
     geometry : [53.1345200,29.1996900]
+n275223489
+  other tags : barrier=bollard
+    geometry : [53.1445213,29.1931803]
 n306064837  Спартзала / null / Спортзал / Спортзал
   other tags : leisure=sports_centre
     geometry : [53.1418100,29.2177100]
@@ -501,6 +504,12 @@ n1859662896
 n1859662897
   other tags : amenity=bench
     geometry : [53.1447030,29.2288260]
+n1992283725
+  other tags : barrier=bollard
+    geometry : [53.1415635,29.1926294]
+n1992283726
+  other tags : barrier=bollard
+    geometry : [53.1421745,29.1924437]
 n2201229833  Бярэзіна / Biarezina / Березина / Березина
   other tags : esr:user=147703 | public_transport=station | railway=station | train=yes
     geometry : [53.1307705,29.2498788]
@@ -4089,6 +4098,9 @@ w330240927
 w330240928
   other tags : barrier=hedge
     geometry : n3371942457[53.1386831,29.1964930] n3371942458[53.1387602,29.1965959] n3371942459[53.1387104,29.1967068] n3371942457[53.1386831,29.1964930]
+w330248231
+  other tags : natural=cliff
+    geometry : n3372032086[53.1419560,29.1914083] n3372032087[53.1419523,29.1914878] n3372032088[53.1419447,29.1915777] n3372032089[53.1419372,29.1916551] n3372032090[53.1419248,29.1917511] n3372032091[53.1419018,29.1918542] n3372032092[53.1418714,29.1919333]
 r897494
   other tags : addr:housenumber=51 | addr:street=Ульяновская улица | building=school | building:levels=3 | type=multipolygon
     geometry : <inner> w57728821: n715760580[53.1702411,29.1887920] n715760595[53.1701823,29.1886113] n715759861[53.1700313,29.1887483] n715759277[53.1700901,29.1889289] n715760580[53.1702411,29.1887920] : w57728821
