@@ -97,9 +97,6 @@ n1852316284
 n1859079733
   other tags : highway=crossing
     geometry : [53.1729020,29.1814837]
-n2135942781
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1683260,29.1931382]
 n2135943489
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.1786972,29.1972531]
@@ -115,9 +112,6 @@ n2822970081
 n2822970082
   other tags : highway=crossing
     geometry : [53.1531089,29.2229655]
-n2975777189
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1682837,29.1930034]
 n2989605390
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.1655451,29.1851511]
@@ -187,18 +181,6 @@ n3112664258
 n3112664260
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.1746968,29.1872762]
-n3112718903
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1679092,29.1932506]
-n3112718904
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1679347,29.1934076]
-n3112718925
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1682447,29.1935139]
-n3112718926
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.1680603,29.1928583]
 n3112719146
   other tags : highway=crossing
     geometry : [53.1696266,29.1979649]
@@ -346,6 +328,18 @@ w306377848
 w306377849
   other tags : highway=crossing
     geometry : n3112663956[53.1703056,29.2050450] n3112663957[53.1702745,29.2048965] n3112663958[53.1702414,29.2047170] n3112663959[53.1701821,29.2045353]
+w306382589
+  other tags : crossing=traffic_signals | crossing_ref=zebra | highway=crossing
+    geometry : n2971143582[53.1678574,29.1930280] n3112718903[53.1679278,29.1932674] n3112718904[53.1679685,29.1934074] n3112718902[53.1680226,29.1935926]
+w306382595
+  other tags : crossing=traffic_signals | crossing_ref=zebra | highway=crossing
+    geometry : n3112718920[53.1684141,29.1933103] n2135942781[53.1683260,29.1931382] n2975777189[53.1682837,29.1930034] n3112718924[53.1682118,29.1927324]
+w306382596
+  other tags : crossing=traffic_signals | crossing_ref=zebra | highway=crossing
+    geometry : n3112718920[53.1684141,29.1933103] n3112718925[53.1682447,29.1935139] n3112718900[53.1681495,29.1935896]
+w306382598
+  other tags : crossing=traffic_signals | crossing_ref=zebra | highway=crossing
+    geometry : n2971143582[53.1678574,29.1930280] n3362281196[53.1679589,29.1929431] n3112718926[53.1680603,29.1928583] n3112718924[53.1682118,29.1927324]
 w306385642
   other tags : highway=crossing
     geometry : n3112753295[53.1674417,29.1639808] n3112753304[53.1676150,29.1638208] n3112753281[53.1678053,29.1636651]
