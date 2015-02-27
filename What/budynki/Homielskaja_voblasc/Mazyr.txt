@@ -11233,14 +11233,11 @@ w312918412
 w312918413
   other tags : addr:city=Мозырь | addr:housenumber=9 | addr:street=Интернациональная улица | building=yes
     geometry : n3188372853[52.0429115,29.2743436] n3188372851[52.0428166,29.2743436] n3188372852[52.0428166,29.2745403] n3188372854[52.0429115,29.2745403] n3188372853[52.0429115,29.2743436]
-w313359995  null / null / Евроопт плюс
-  other tags : addr:housenumber=11 | addr:street=улица Веры Хоружей | building=yes | shop=yes
+w313359995  null / null / Евроопт
+  other tags : addr:housenumber=11 | addr:street=улица Веры Хоружей | building=yes | shop=supermarket
     geometry : n3193015543[52.0871780,29.2265903] n3193015540[52.0866898,29.2271689] n3193015541[52.0866502,29.2270803] n3193015542[52.0871397,29.2264956] n3193015543[52.0871780,29.2265903]
-w313359996
-  other tags : building=yes
-    geometry : n2779193497[52.0868001,29.2274270] n3193015547[52.0867694,29.2273566] n3193015548[52.0866781,29.2274626] n3193015549[52.0867105,29.2275348] n2779193497[52.0868001,29.2274270]
-w313359997
-  other tags : building=yes
+w313359997  null / null / Дары от зари 22
+  other tags : addr:housenumber=10 | addr:street=улица Веры Хоружей | building=yes | shop=convenience
     geometry : n3193015550[52.0863798,29.2278284] n3193015551[52.0862830,29.2279467] n2779193500[52.0863139,29.2280117] n3193015552[52.0864104,29.2278957] n3193015550[52.0863798,29.2278284]
 w314361549  null / null / Родны кут
   other tags : addr:housenumber=131 | addr:street=бульвар Юности | building=yes | comment=Location isn't correct. Please correct | shop=supermarket
@@ -11503,8 +11500,8 @@ w320162844
 w320162846
   other tags : building=yes | shop=yes
     geometry : n3266619604[52.0325996,29.2356344] n3266619605[52.0325890,29.2355857] n3266619606[52.0324501,29.2356260] n3266619607[52.0323038,29.2358203] n3266619608[52.0323310,29.2358452] n1281986508[52.0324501,29.2356938] n3266619604[52.0325996,29.2356344]
-w320246991  null / null / Евроопт плюс
-  other tags : addr:housenumber=11 | addr:street=улица Веры Хоружей | building=yes | shop=yes
+w320246991
+  other tags : addr:housenumber=11 | addr:street=улица Веры Хоружей | building=yes | building:levels=1 | shop=yes
     geometry : n3193015543[52.0871780,29.2265903] n3193015544[52.0872078,29.2265546] n3193015545[52.0872600,29.2266834] n3193015546[52.0872310,29.2267187] n3193015543[52.0871780,29.2265903]
 w320482495
   other tags : addr:housenumber=30 | addr:street=Ленинская улица | building=yes | office=yes
