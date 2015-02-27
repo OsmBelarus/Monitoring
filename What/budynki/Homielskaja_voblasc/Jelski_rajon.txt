@@ -50,7 +50,7 @@ w233274607
   other tags : addr:housenumber=26А | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416475754[51.7622679,29.2001205] n2416475795[51.7623619,29.2001225] n2416475798[51.7623607,29.2002709] n2657509174[51.7623238,29.2002701] n2657509173[51.7623235,29.2003061] n2416475756[51.7622663,29.2003049] n2416475754[51.7622679,29.2001205]
 w233274608
-  other tags : addr:housenumber=5 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:city=аг. Млынок | addr:housenumber=3А | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416476898[51.7958094,29.2058166] n2416476908[51.7959155,29.2058672] n2416476905[51.7958834,29.2060431] n2416476891[51.7957773,29.2059925] n2416476898[51.7958094,29.2058166]
 w233274609
   other tags : addr:housenumber=25 | addr:street=Лесная улица | building=yes | building:levels=1
@@ -161,7 +161,7 @@ w233274644
   other tags : addr:housenumber=1 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n2416476576[51.7933052,29.2046818] n2416476583[51.7933320,29.2044945] n2416476594[51.7934463,29.2045372] n2416476592[51.7934195,29.2047245] n2416476576[51.7933052,29.2046818]
 w233274645
-  other tags : addr:housenumber=7 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:city=аг. Млынок | addr:housenumber=5 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416476873[51.7957256,29.2063932] n2416476901[51.7958317,29.2064438] n2416476896[51.7957996,29.2066197] n2416476870[51.7956935,29.2065691] n2416476873[51.7957256,29.2063932]
 w233274646
   other tags : addr:housenumber=7 | addr:street=Молодёжная улица | building=yes | building:levels=1
@@ -191,10 +191,10 @@ w233274655
   other tags : addr:housenumber=9 | addr:street=Строительная улица | building=yes | building:levels=1
     geometry : n2416476765[51.7944698,29.2033635] n2416476767[51.7945021,29.2031785] n2416476776[51.7946150,29.2032300] n2416476772[51.7945827,29.2034150] n2416476765[51.7944698,29.2033635]
 w233274656
-  other tags : addr:housenumber=3 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:city=аг. Млынок | addr:housenumber=3 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416476907[51.7958986,29.2052573] n2416476917[51.7960046,29.2053079] n2416476913[51.7959725,29.2054838] n2416476902[51.7958665,29.2054332] n2416476907[51.7958986,29.2052573]
 w233274657
-  other tags : addr:housenumber=9 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:city=аг. Млынок | addr:housenumber=7 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416476863[51.7956579,29.2068660] n2416476890[51.7957639,29.2069166] n2416476875[51.7957318,29.2070925] n2416476856[51.7956258,29.2070419] n2416476863[51.7956579,29.2068660]
 w233274658
   other tags : addr:housenumber=29 | addr:street=Лесная улица | building=yes | building:levels=1
@@ -332,7 +332,7 @@ w233274702
   other tags : addr:housenumber=30 | addr:street=Строительная улица | building=yes | building:levels=1
     geometry : n2416476719[51.7942387,29.2041258] n2416476724[51.7942710,29.2039408] n2416476748[51.7943839,29.2039923] n2416476740[51.7943516,29.2041773] n2416476719[51.7942387,29.2041258]
 w233274703
-  other tags : addr:housenumber=1 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:city=аг. Млынок | addr:housenumber=1 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2416476912[51.7959699,29.2046750] n2416476923[51.7960760,29.2047256] n2416476919[51.7960439,29.2049014] n2416476910[51.7959378,29.2048508] n2416476912[51.7959699,29.2046750]
 w233274704
   other tags : building=yes | building:levels=1 | shop=convenience
@@ -5053,3 +5053,6 @@ w327941245
 w327941248
   other tags : building=yes
     geometry : n3347614840[51.7670728,28.7774352] n3347614841[51.7669002,28.7773709] n3347614842[51.7669135,28.7771724] n3347614843[51.7668603,28.7771509] n3347614844[51.7668106,28.7776015] n3347614845[51.7670396,28.7776659] n3347614840[51.7670728,28.7774352]
+w330177534
+  other tags : addr:city=аг. Млынок | addr:housenumber=9 | addr:street=Полевая улица | building=yes
+    geometry : n3371304058[51.7955920,29.2072814] n3371304060[51.7957019,29.2073301] n3371304059[51.7956711,29.2075117] n3371304057[51.7955612,29.2074630] n3371304058[51.7955920,29.2072814]
