@@ -663,7 +663,7 @@ n3194572802  null / null / Детская поликлиника
     geometry : [53.1303078,26.0247423]
 n3194588629
   other tags : amenity=fire_station
-    geometry : [53.1341057,26.0195388]
+    geometry : [53.1339839,26.0198725]
 n3194797312  null / null / Nero
   other tags : amenity=nightclub
     geometry : [53.1318715,26.0152999]
@@ -910,6 +910,9 @@ n3282677417  null / null / аптека
 n3282677436  null / null / Магазин Купалинка
   other tags : 
     geometry : [53.1538255,26.0144075]
+n3372183201  null / null / К-150
+  other tags : addr:city=Барановичи | addr:housenumber=20 | addr:street=улица Димитрова | fire_hydrant:count=1 | fire_hydrant:diameter=150 | fire_hydrant:position=parking_lot | fire_hydrant:pressure=5 | fire_hydrant:type=underground | fire_operator=ПАСЧ №1 | note=Исправен | operator=ПАСЧ №1 | ref=1-00001
+    geometry : [53.1338286,26.0196218]
 w24946729
   other tags : railway=rail | source=landsat | usage=main
     geometry : n271036363[53.1218690,25.9428947] n271036518[53.1148879,25.9406977]
