@@ -10280,8 +10280,8 @@ n3081007058
   other tags : entrance=service
     geometry : [55.2006508,30.2415197]
 n3081237013  Задзвiнне / null / Задвинье
-  other tags : place=neighbourhood | source=http://evitebsk.com/wiki/%D0%97%D0%B0%D0%B4%D0%B2%D0%B8%D0%BD%D1%8C%D0%B5
-    geometry : [55.1945293,30.1939870]
+  other tags : place=suburb | source=http://evitebsk.com/wiki/%D0%97%D0%B0%D0%B4%D0%B2%D0%B8%D0%BD%D1%8C%D0%B5
+    geometry : [55.1947528,30.1929277]
 n3081258404  null / null / Витебский речной порт
   other tags : leisure=marina
     geometry : [55.1633315,30.1053929]
@@ -11424,6 +11424,9 @@ n3366465644
 n3372079762  null / null / Русский посад
   other tags : place=neighbourhood
     geometry : [55.1906813,30.1935240]
+n3372083602  null / null / Заручевская слобода
+  other tags : place=neighbourhood
+    geometry : [55.1905090,30.2035193]
 n3372144032  null / null / Песья Полянка
   other tags : place=neighbourhood
     geometry : [55.2004364,30.2026653]
@@ -11433,6 +11436,12 @@ n3372144033  null / null / Взгорье
 n3372145520  null / null / Взгорская слобода
   other tags : place=neighbourhood
     geometry : [55.2000651,30.2064718]
+n3372159740  null / null / Слободской посад
+  other tags : place=neighbourhood
+    geometry : [55.1960763,30.1972826]
+n3372159836  null / null / Присмушки
+  other tags : place=neighbourhood
+    geometry : [55.2034953,30.1938965]
 w8384407
   other tags : abandoned=yes | aeroway=runway
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
