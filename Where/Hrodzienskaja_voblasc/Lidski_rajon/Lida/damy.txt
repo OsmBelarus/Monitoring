@@ -53,7 +53,7 @@ w53454063  null / null / 33
   other tags : addr:housenumber=26 | addr:street=улица Мицкевича | building=residential
     geometry : n675636249[53.8964027,25.3002169] n675636248[53.8962994,25.3003733] n675636192[53.8960931,25.2999811] n675636194[53.8961963,25.2998247] n675636249[53.8964027,25.3002169]
 w53454064
-  other tags : addr:housenumber=13 | addr:street=улица Мицкевича | building=apartments
+  other tags : addr:housenumber=13 | addr:street=улица Мицкевича | building=apartments | loc_name=Малыш
     geometry : n675636233[53.8962263,25.2981562] n675636172[53.8961129,25.2977209] n2850741956[53.8962859,25.2975911] n2850741958[53.8963402,25.2977994] n2850741960[53.8964431,25.2977222] n2850741957[53.8963354,25.2973087] n2850741961[53.8964438,25.2972274] n675636227[53.8966790,25.2981303] n2850741965[53.8965743,25.2982089] n2850741962[53.8964620,25.2977778] n2850741959[53.8963532,25.2978595] n675636228[53.8963971,25.2980280] n675636233[53.8962263,25.2981562]
 w53454069
   other tags : addr:housenumber=22 | addr:street=улица Мицкевича | building=apartments
@@ -515,7 +515,7 @@ w59309003
   other tags : addr:housenumber=41 к2 | addr:street=улица Гастелло | building=apartments
     geometry : n735568691[53.9004722,25.2576012] n735568619[53.9006616,25.2586508] n735568827[53.9005585,25.2587044] n735568673[53.9003691,25.2576548] n735568691[53.9004722,25.2576012]
 w59309005
-  other tags : addr:housenumber=49 | addr:street=улица Гастелло | building=apartments | building:levels=9
+  other tags : addr:housenumber=49 | addr:street=улица Гастелло | building=apartments | building:levels=9 | loc_name=Титаник
     geometry : n735568510[53.9018555,25.2551336] n735568448[53.9020132,25.2560084] n735568607[53.9019101,25.2560619] n735568581[53.9017524,25.2551871] n735568510[53.9018555,25.2551336]
 w59309009
   other tags : addr:housenumber=47 к4 | addr:street=улица Гастелло | building=apartments
