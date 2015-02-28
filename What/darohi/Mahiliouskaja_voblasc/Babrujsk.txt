@@ -4562,7 +4562,7 @@ w312054097  вуліца Малаковіча / vulica Malakoviča / улица 
   other tags : highway=residential | source=Yahoo
     geometry : n712548272[53.1624307,29.1504415] n712548495[53.1620584,29.1507535] n1855070597[53.1605915,29.1519610] n712547654[53.1605930,29.1521001]
 w312734394  null / null / Проход через ТЦ "Корона"
-  other tags : foot=yes | highway=footway | tunnel=building_passage
+  other tags : covered=yes | highway=footway
     geometry : n3186236357[53.1652264,29.1865400] n3186238469[53.1658640,29.1887118]
 w313647617  null / null / Зои Космодемьянкой переулок
   other tags : highway=residential
