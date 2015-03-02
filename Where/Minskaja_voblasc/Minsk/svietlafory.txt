@@ -4680,7 +4680,7 @@ n767183834  null / null / Голодеда / Уборевича
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8429667,27.6515566]
 n767183836  null / null / 10-я больница
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8369743,27.6569009]
 n767183838  Магазін / null / Магазин / Магазин
   other tags : generated=yes | highway=bus_stop
@@ -4809,8 +4809,8 @@ n767184004  null / null / Белмагистральавтотранс
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8005083,27.5931609]
 n767184007  null / null / 10-я больница
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.8369100,27.6558100]
+  other tags : generated=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8370251,27.6558119]
 n767184033  null / null / Площадь Казинца
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8446273,27.5043250]
