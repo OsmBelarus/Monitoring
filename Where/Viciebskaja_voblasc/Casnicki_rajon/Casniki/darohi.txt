@@ -438,7 +438,7 @@ w273448398
   other tags : foot=yes | highway=footway
     geometry : n2782969731[54.8514674,29.1695971] n2782969726[54.8511768,29.1704364] n2782969720[54.8508857,29.1709302] n2782969701[54.8503635,29.1709645] n2782969651[54.8499190,29.1708942]
 w273448408  завулак Міру / zavulak Miru / переулок Мира / переулок Мира
-  other tags : highway=residential | maxspeed=40
+  other tags : foot=yes | highway=residential | maxspeed=40 | motor_vehicle=no
     geometry : n2782969868[54.8615207,29.1630214] n772447685[54.8615526,29.1637380]
 w274578601
   other tags : highway=residential
