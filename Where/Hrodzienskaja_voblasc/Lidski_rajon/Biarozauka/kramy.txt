@@ -3,13 +3,10 @@ n1363469975  null / null / Виктория
     geometry : [53.7177173,25.5002539]
 n1992414083
   other tags : shop=furniture
-    geometry : [53.7120147,25.4966143]
+    geometry : [53.7120298,25.4966369]
 n1992414084  null / null / Центральный
   other tags : shop=supermarket
     geometry : [53.7173646,25.5046851]
-n1992429414  null / null / Василёк
-  other tags : shop=convenience
-    geometry : [53.7139854,25.4969341]
 n1992457021  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [53.7163869,25.5073357]
@@ -41,7 +38,7 @@ n2035165072  null / null / Восток
   other tags : shop=supermarket
     geometry : [53.7135507,25.5059335]
 n2037016025  null / null / Люкс
-  other tags : shop=supermarket
+  other tags : shop=convenience
     geometry : [53.7158890,25.4994284]
 n2619097173  null / null / Алеся
   other tags : shop=yes
@@ -67,6 +64,9 @@ n3083303030
 n3083303031  null / null / ХИМИЯ В БЫТУ
   other tags : shop=yes
     geometry : [53.7203820,25.4992311]
+n3083303032  null / null / Продуктовый
+  other tags : internet_access=no | shop=convenience
+    geometry : [53.7248451,25.5114934]
 n3083303133
   other tags : shop=yes
     geometry : [53.7238755,25.5122200]
