@@ -422,15 +422,9 @@ n814012858  null / null / Путейская улица
 n817806216  Прывольны / null / Привольный / Привольный
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8002898,27.8023568]
-n817806227  null / null / Ефимово
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
-    geometry : [53.7929183,27.8183661]
 n817806250  Ксаверава / null / Ксаверово / Ксаверово
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.7641188,27.8702660]
-n817806264  null / null / Ефимово
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
-    geometry : [53.7927681,27.8183607]
 n817806286  Прывольны / null / Привольный / Привольный
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8011176,27.8018822]
@@ -1204,6 +1198,9 @@ n2927434877  null / null / Культторг
 n2927434886  null / null / Культторг
   other tags : highway=bus_stop
     geometry : [53.8451434,27.4146542]
+n2999108296  null / null / Ефимово
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [53.7930930,27.8184593]
 n3009900836  null / null / НИИ
   other tags : highway=bus_stop
     geometry : [54.0470784,27.6717081]
@@ -1234,3 +1231,6 @@ n3165707648  null / null / Дроздово
 n3190770348  null / null / ..
   other tags : highway=bus_stop
     geometry : [53.9575729,27.4296501]
+n3378433772  null / null / Ефимово
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [53.7924047,27.8188507]
