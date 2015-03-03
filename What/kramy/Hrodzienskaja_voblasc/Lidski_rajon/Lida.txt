@@ -221,7 +221,7 @@ n2518826804  null / null / Цифра
   other tags : addr:housenumber=27 | addr:street=проспект Победы | phone=8(029) 596-44-27 | shop=Электроника
     geometry : [53.8924879,25.2975942]
 n2577099239  null / null / 5 Элемент
-  other tags : contact:phone=275 | opening_hours=Mo-Fr 11:00-20:00; Sa 10:00-19:00; Su 10:00-19:00 | phone=8(017)2-900-100 | shop=supermarket | website=http://5element.by/
+  other tags : contact:phone=8(017)2-900-100 | opening_hours=Mo-Fr 11:00-20:00; Sa 10:00-19:00; Su 10:00-19:00 | phone=275 | shop=electronics | website=http://5element.by/
     geometry : [53.8719639,25.2815801]
 n2607720429  null / null / Милавица
   other tags : addr:housenumber=8 | addr:street=улица Кирова | phone=01561 67491 | shop=clothes
@@ -475,3 +475,6 @@ n3379410335  null / null / Белмаркет
 n3379410336  null / null / Белмаркет
   other tags : opening_hours=09:00-21:00 | shop=convenience | website=http://bel-market.by/
     geometry : [53.9331126,25.2642138]
+n3379421796  null / null / Техно Плюс
+  other tags : opening_hours=10:00-21:00 | phone=+375 154 56-07-40 | shop=electronics | website=http://tehnoplus.by/
+    geometry : [53.8916317,25.2568888]
