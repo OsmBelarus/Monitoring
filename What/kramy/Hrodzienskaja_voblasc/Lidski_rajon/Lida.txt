@@ -211,9 +211,6 @@ n1857520418
 n2054442886  null / null / Евроопт
   other tags : opening_hours=09:00-23:00 | shop=supermarket | website=http://evroopt.by/
     geometry : [53.8919579,25.2563526]
-n2054442887  null / null / ОМА
-  other tags : addr:city=Лида | addr:housenumber=63 | addr:street=Красноармейская улица | shop=mall
-    geometry : [53.8911723,25.2567875]
 n2062743025  null / null / Алми
   other tags : opening_hours=07:00-01:00 | phone=+375 154 60-59-27 | shop=supermarket | website=http://almi.su/
     geometry : [53.9037801,25.2590501]
@@ -391,9 +388,9 @@ n3190247299
 n3190247300
   other tags : operator=Табак | shop=kiosk
     geometry : [53.8982013,25.2943694]
-n3196932049  null / null / строительный магазин Ома
-  other tags : shop=doityourself
-    geometry : [53.8914406,25.2568062]
+n3196932049  null / null / Строительный дом Ома
+  other tags : opening_hours=09:00-21:00 | phone=+375 154 56-05-35 | shop=doityourself | website=http://oma.by/
+    geometry : [53.8909186,25.2567153]
 n3196932505  null / null / "Золотая мечта"
   other tags : shop=jewelry
     geometry : [53.8917061,25.2565058]
