@@ -3481,8 +3481,8 @@ w29133459
 w29133460
   other tags : addr:housenumber=44 | addr:street=улица Поповича | building=residential | building:levels=5
     geometry : n320506139[53.6663799,23.8019570] n320506135[53.6664774,23.8019988] n320506141[53.6663157,23.8030731] n320506142[53.6662182,23.8030313] n320506139[53.6663799,23.8019570]
-w29133461
-  other tags : building=residential
+w29133461  null / null / 1
+  other tags : addr:housenumber=1 | addr:street=Индустриальная улица | building=residential
     geometry : n320506151[53.6613501,23.7995177] n320506148[53.6616822,23.8004149] n320506150[53.6615799,23.8005228] n320506153[53.6612478,23.7996256] n320506151[53.6613501,23.7995177]
 w29133462
   other tags : addr:housenumber=186 | addr:street=улица Фолюш | building=residential
