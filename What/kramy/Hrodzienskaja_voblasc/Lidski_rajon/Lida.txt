@@ -228,7 +228,7 @@ n2577099239  null / null / 5 Элемент
     geometry : [53.8719639,25.2815801]
 n2607720429  null / null / Милавица
   other tags : addr:housenumber=8 | addr:street=улица Кирова | phone=01561 67491 | shop=clothes
-    geometry : [53.8934081,25.3000713]
+    geometry : [53.8935008,25.3000997]
 n2674556033
   other tags : shop=seafood | source=Openstreetbugs
     geometry : [53.8767766,25.3410425]
@@ -443,8 +443,8 @@ n3216443807  null / null / Second Hand
   other tags : shop=clothes
     geometry : [53.8837276,25.2955368]
 n3216483341  null / null / Белмаркет
-  other tags : shop=convenience
-    geometry : [53.8935095,25.2994421]
+  other tags : opening_hours=09:00-22:00 | shop=convenience | website=http://bel-market.by/
+    geometry : [53.8935056,25.2993262]
 n3374555769  null / null / Евроопт
   other tags : opening_hours=09:00-21:00 | shop=supermarket | website=http://evroopt.by/
     geometry : [53.8702620,25.2845604]
@@ -472,3 +472,9 @@ n3379376546  null / null / Санта-29
 n3379389049  null / null / Алми
   other tags : opening_hours=08:00-23:00 | phone=+375 154 52-42-18 | shop=supermarket | website=http://almi.su/
     geometry : [53.8923494,25.2956769]
+n3379410335  null / null / Белмаркет
+  other tags : opening_hours=09:00-23:00 | shop=convenience | website=http://bel-market.by/
+    geometry : [53.9317364,25.2651980]
+n3379410336  null / null / Белмаркет
+  other tags : opening_hours=09:00-21:00 | shop=convenience | website=http://bel-market.by/
+    geometry : [53.9331126,25.2642138]
