@@ -187,9 +187,9 @@ n1433978849  null / null / ЧП"Лида-Колор"
 n1434231915  null / null / Приозёрный
   other tags : shop=supermarket
     geometry : [53.8972954,25.3082965]
-n1434231916  null / null / Торговый дом Можейково
-  other tags : shop=department_store
-    geometry : [53.8960868,25.3085263]
+n1434231916  null / null / Ami
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-15:00 | phone=+375 33 370-66-21 | shop=furniture | website=http://ami.by/
+    geometry : [53.8960087,25.3085336]
 n1471130500
   other tags : shop=kiosk
     geometry : [53.8954025,25.3189608]
@@ -298,8 +298,8 @@ n3127110784  null / null / Цветы
 n3127111637
   other tags : opening_hours=10:00 - 18:00 | shop=yes
     geometry : [53.8898575,25.2961606]
-n3127112340  null / null / Лагуна мебель
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+n3127112340  null / null / Ami
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-17:00 | phone=+375 44 787-34-65 | shop=furniture | website=http://ami.by/
     geometry : [53.8835689,25.2843803]
 n3127120534  null / null / Одежда из европы
   other tags : opening_hours=10:00 - 18:00 | shop=yes
@@ -481,3 +481,9 @@ n3379421796  null / null / Техно Плюс
 n3379421887  null / null / Ziko
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-18:00 | phone=+375 154 53-08-08 | shop=jewelry | website=http://ziko.by/
     geometry : [53.8934011,25.3016706]
+n3379441439  null / null / Ami
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-17:00 | phone=+375 33 300-44-25 | shop=furniture | website=http://ami.by/
+    geometry : [53.8720285,25.3196932]
+n3379441440  null / null / Ami
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-17:00 | phone=+375 33 300-19-67 | shop=furniture | website=http://ami.by/
+    geometry : [53.8839824,25.2940379]
