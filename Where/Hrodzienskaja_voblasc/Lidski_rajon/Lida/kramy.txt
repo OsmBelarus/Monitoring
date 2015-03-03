@@ -77,23 +77,23 @@ n1131375943
   other tags : shop=hairdresser
     geometry : [53.8927335,25.2737394]
 n1131427169  null / null / Домовитый
-  other tags : shop=hardware
-    geometry : [53.8908116,25.3026523]
+  other tags : description=Дом торговли. Филиал "Домовитый" | shop=supermarket | website=http://domtorgovly.by/
+    geometry : [53.8908053,25.3026117]
 n1131427294  null / null / Огонек
   other tags : shop=convenience
     geometry : [53.8907120,25.2995251]
 n1131427301
   other tags : shop=hardware
-    geometry : [53.8906090,25.3026482]
+    geometry : [53.8906128,25.3026161]
 n1209821978  null / null / СТО "Легион 104"авто электрика
   other tags : shop=car_repair
     geometry : [53.9029241,25.2821503]
 n1321474297  null / null / Алена
   other tags : addr:housenumber=6 к3 | addr:street=улица Качана | opening_hours=Tu-Sa 09:00-23:00 | shop=convenience
     geometry : [53.8996002,25.3179191]
-n1351834303  null / null / "Мой дом"
-  other tags : shop=hardware
-    geometry : [53.8961904,25.2978526]
+n1351834303  null / null / Мой дом
+  other tags : description=Дом торговли. Филиал "Мой Дом" | shop=furniture | website=http://domtorgovly.by/
+    geometry : [53.8962005,25.2979166]
 n1369285658  Velcom / null / Velcom
   other tags : shop=mobile_phone
     geometry : [53.8992896,25.3106202]
@@ -493,3 +493,6 @@ n3379444055  null / null / Arizona
 n3379446251  null / null / Serge
   other tags : opening_hours=10:00-21:00 | shop=clothes | website=http://serge-fashion.by/
     geometry : [53.8908203,25.2986341]
+n3379456324  null / null / Дом торговли
+  other tags : description=УКП магазин №1 "Дом Торговли" | shop=supermarket | website=http://domtorgovly.by/
+    geometry : [53.8905290,25.2987032]
