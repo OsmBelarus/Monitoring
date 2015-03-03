@@ -1,49 +1,48 @@
-n306067666  null / null / Тамавир / Тамавир
-  other tags : addr:city=Лида | addr:housenumber=39 | addr:street=Варшавская улица | amenity=pharmacy
+n306067666  null / null / Аптека
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=ЧТУП "Тамавир"
     geometry : [53.8778431,25.2788192]
-n306067675  null / null / Рябина красная / Рябина красная
-  other tags : addr:housenumber=62 | addr:street=улица Фурманова | amenity=pharmacy
-    geometry : [53.8698225,25.2873652]
+n306067675  null / null / Аптека
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | loc_name=Рябина красная | operator=ЧТУП "ЛедаФармМед"
+    geometry : [53.8698050,25.2873206]
 n306067677  null / null / Аптека №187
   other tags : amenity=pharmacy | description=Четвёртая категория; розничная реализация лекарственных средств | opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-14:00; PH off; Tu[2] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 52-95-18
     geometry : [53.8818848,25.2975329]
 n306067709  null / null / Аптека №163
   other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | opening_hours=Mo-Sa 08:00-22:45; Su 08:00-22:45; PH 08:00-22:45; Mo[1] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация"
     geometry : [53.8905265,25.3021933]
-n913507659  Панацэя / Panaceja / Панацея / Панацея
-  other names: name:uk=Панацея
-  other tags : amenity=pharmacy
-    geometry : [53.8869400,25.3017587]
+n913507659  null / null / Аптека №1
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=Частное фармацевтическое унитарное предприятие "Элитария"
+    geometry : [53.8869381,25.3017223]
 n1039972114  null / null / Аптека №44
   other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | dispensing=no | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off; Th[2] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 56-01-81
     geometry : [53.8968391,25.2679513]
-n1081990225  Арніка-Люкс / Arnika-Liuks / Арника-Люкс / Арника-Люкс
-  other tags : addr:housenumber=14 к1 | addr:street=улица Космонавтов | amenity=pharmacy
-    geometry : [53.8923585,25.2848596]
+n1081990225  null / null / Аптека №3
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=ЧТУП "Арника-люкс"
+    geometry : [53.8923428,25.2848951]
 n1081990233  №2 Камфарм / №2 Kamfarm / №2 Комфарм / №2 Комфарм
   other tags : addr:housenumber=9А | addr:street=Ленинская улица | amenity=pharmacy
     geometry : [53.8895122,25.2991880]
 n1081990235  null / null / Аптека №130
   other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; Th[3] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 52-58-13
     geometry : [53.8932012,25.2978465]
-n1097008105  null / null / Аптека "Аптека для лидчан"
-  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=Общество с дополнительной ответственностью "Аптека для лидчан"
+n1097008105  null / null / Аптека для лидчан
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=ОДО "Аптека для лидчан"
     geometry : [53.8898279,25.2997912]
 n1389934837
   other tags : amenity=pharmacy | dispensing=no
     geometry : [53.9021466,25.2533509]
 n1426748493  null / null / Аптека №1
-  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=Общество с дополнительной ответственностью "Лидафарм"
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=ОДО "Лидафарм"
     geometry : [53.8979047,25.2947957]
 n1429798801  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [53.8967712,25.2997375]
-n1857520419
-  other tags : amenity=pharmacy
-    geometry : [53.8984787,25.2573989]
-n2278250079  Арніка / Arnika / Арника / Арника
-  other tags : amenity=pharmacy | opening_hours=09:00-22:00
-    geometry : [53.8969357,25.2624249]
+n1857520419  null / null / Аптека
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=ЧТУП "ЛедаФармМед"
+    geometry : [53.8984187,25.2575636]
+n2278250079  null / null / Аптека №1
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | opening_hours=09:00-22:00 | operator=ЧТУП "Арника-люкс"
+    geometry : [53.8968867,25.2626479]
 n2853192306  №146 Цэнтральная раённая Фармацыя / №146 Centraĺnaja rajonnaja Farmacyja / №146 Центральная районная Фармация / №146 Центральная районная Фармация
   other tags : amenity=pharmacy | dispensing=yes
     geometry : [53.8958789,25.2773743]
@@ -51,13 +50,13 @@ n3126206099
   other tags : addr:city=Лида | addr:housenumber=63 | addr:street=Красноармейская улица | amenity=pharmacy
     geometry : [53.8909997,25.2562966]
 n3126234596  null / null / Аптека №2
-  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=Общество с дополнительной ответственностью "Лидафарм"
-    geometry : [53.8925022,25.2955717]
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=ОДО "Лидафарм"
+    geometry : [53.8925445,25.2956150]
 n3219299278  null / null / Аптека №47
   other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | opening_hours=Mo 12:00-20:00; Tu-Sa 11:00-20:00; Su 11:00-20:00; PH 11:00-20:00; We[3] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 65-52-11
     geometry : [53.8920480,25.2559156]
-n3369772976  null / null / Центральная районная аптека №146
-  other tags : amenity=pharmacy | description=Первая категория; птечное изготовление лекарственных средств, оптовая реализация лекарственных средств организациям здравоохранения, розничная реализация лекарственных средств | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; Th[3] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 54-75-21 | ref=146
+n3369772976  null / null / Центральная районная аптека №146 Фармация
+  other tags : amenity=pharmacy | description=Первая категория; птечное изготовление лекарственных средств, оптовая реализация лекарственных средств организациям здравоохранения, розничная реализация лекарственных средств | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00; PH 09:00-17:00; Th[3] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 54-75-21
     geometry : [53.8934052,25.2763731]
 n3369937926  null / null / Аптека №4
   other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-17:00; Su 09:00-17:00; PH 09:00-17:00; We[2] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 55-82-50
@@ -89,3 +88,18 @@ n3370017702  null / null / Аптека №196
 n3370017703  null / null / Аптека №74
   other tags : amenity=pharmacy | description=Четвёртая категория; розничная реализация лекарственных средств | opening_hours=Mo-Fr 09:00-17:00; PH off; Fr[-1] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 60-15-62
     geometry : [53.8837042,25.2983328]
+n3379210516  null / null / Аптека
+  other tags : amenity=pharmacy | description=Вторая категория; розничная реализация лекарственных средств | operator=ЧТУП "ЛедаФармМед"
+    geometry : [53.8889081,25.3023173]
+n3379210517  null / null / Аптека
+  other tags : amenity=pharmacy | description=Первая категория; аптечное изготовление лекарственных средств, отпуск лекарственных средств организациям здравоохранения и их структурным подразделениям | operator=Учреждение здравоохранения "Лидская центральная районная больница"
+    geometry : [53.8970144,25.2854530]
+n3379210518  null / null / Аптека №172
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | opening_hours=Tu-Sa 08:00-16:00; Su 08:00-16:00; PH off; Tu[3] off | operator=Гродненское торгово-производственное республиканское унитарное предприятие "Фармация" | phone=+375 154 52-78-79
+    geometry : [53.8828031,25.3033408]
+n3379210519  null / null / Аптека №2
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=Частное фармацевтическое унитарное предприятие "Элитария"
+    geometry : [53.8994283,25.3121469]
+n3379210520  null / null / Аптека №5
+  other tags : amenity=pharmacy | description=Пятая категория; розничная реализация лекарственных средств | operator=ЧТУП "Арника-люкс"
+    geometry : [53.8828991,25.3024151]
