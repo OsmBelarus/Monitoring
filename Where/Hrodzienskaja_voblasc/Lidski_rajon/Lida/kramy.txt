@@ -195,7 +195,7 @@ n1471130500
     geometry : [53.8954025,25.3189608]
 n1586982687  null / null / СЛОТ
   other tags : designation=компьютеры | shop=convenience
-    geometry : [53.8926197,25.2948777]
+    geometry : [53.8924102,25.2948957]
 n1586982689  null / null / ЛИКОМ сервис
   other tags : designation=Ремонт компьютерной техники | shop=doityourself | website=http://www.likom.by/
     geometry : [53.8925233,25.2949347]
@@ -215,8 +215,8 @@ n2054442887  null / null / ОМА
   other tags : addr:city=Лида | addr:housenumber=63 | addr:street=Красноармейская улица | shop=mall
     geometry : [53.8911723,25.2567875]
 n2062743025  null / null / Алми
-  other tags : shop=supermarket
-    geometry : [53.9039869,25.2587921]
+  other tags : opening_hours=07:00-01:00 | phone=+375 154 60-59-27 | shop=supermarket | website=http://almi.su/
+    geometry : [53.9037801,25.2590501]
 n2072721604
   other tags : shop=laundry
     geometry : [53.8945899,25.3005244]
@@ -335,8 +335,8 @@ n3127136131  null / null / Шиномонтаж
   other tags : shop=car_repair
     geometry : [53.8859740,25.2928325]
 n3127162041
-  other tags : opening_hours=10 00 - 19 00 | shop=florist
-    geometry : [53.9037720,25.2589637]
+  other tags : opening_hours=10:00-19:00 | shop=florist
+    geometry : [53.9037652,25.2589405]
 n3143681076
   other tags : shop=convenience
     geometry : [53.8737447,25.3168278]
@@ -469,3 +469,6 @@ n3374574541  null / null / Остров чистоты
 n3379376546  null / null / Санта-29
   other tags : shop=supermarket | website=http://santa-bremor.com/
     geometry : [53.8955305,25.3183403]
+n3379389049  null / null / Алми
+  other tags : opening_hours=08:00-23:00 | phone=+375 154 52-42-18 | shop=supermarket | website=http://almi.su/
+    geometry : [53.8923494,25.2956769]
