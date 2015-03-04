@@ -3,16 +3,16 @@ n242979104  null / null / Чапаево / Чапаево
   other tags : place=suburb
     geometry : [52.4103108,31.0356211]
 n243044957  Іпуць / Ipuć / Ипуть / Ипуть
-  other tags : place=suburb
+  other tags : abandoned:place=hamlet | place=suburb
     geometry : [52.4031500,31.0789500]
 n243044962  Раманавічы / Ramanavičy / Романовичи / Романовичи
-  other tags : place=suburb
+  other tags : abandoned:place=hamlet | place=suburb
     geometry : [52.4258100,31.1213500]
-n243046787  Хутар / null / Хутор / Хутор
-  other tags : place=neighbourhood
+n243046787  Хутар / Chutar / Хутор / Хутор
+  other tags : abandoned:place=hamlet | place=neighbourhood
     geometry : [52.3618700,31.0071100]
 n243046799  Новая Мільча / Novaja Miĺča / Новая Мильча / Новая Мильча
-  other tags : place=suburb
+  other tags : abandoned:place=hamlet | place=suburb
     geometry : [52.4271961,30.8830787]
 n243046804  null / null / Новая Жизнь / Новая Жизнь
   other names: name:uk=Нове Життя
@@ -1830,8 +1830,8 @@ n2780791874
 n2780791875
   other tags : railway=switch
     geometry : [52.4030097,31.0266981]
-n2784694334  Давыдаўка / null / Давыдовка / Давыдовка
-  other tags : addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=suburb
+n2784694334  Давыдаўка / Davydaŭka / Давыдовка / Давыдовка
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=suburb
     geometry : [52.3985522,30.9165044]
 n2788679872  Брама царкоўная / null / Брама церковная
   other tags : tourism=attraction
@@ -2149,8 +2149,8 @@ n3049443109
 n3049443110
   other tags : railway=crossing
     geometry : [52.4658436,30.9801050]
-n3051792971  Залінейны / null / Залинейный
-  other tags : place=neighbourhood
+n3051792971  Залінейны / Zaliniejny / Залинейный / Залинейный
+  other tags : abandoned:place=hamlet | place=neighbourhood
     geometry : [52.4941193,30.9946851]
 n3053000849
   other tags : amenity=shelter | shelter_type=public_transport
@@ -6754,6 +6754,9 @@ w330007449  null / null / Авторынок Осовцы
 w330007450
   other tags : landuse=cemetery
     geometry : n3369697387[52.3851175,30.9227587] n3369697388[52.3871737,30.9276510] n3369697796[52.3896618,30.9261919] n3369697389[52.3904868,30.9247328] n3369697390[52.3898976,30.9147550] n3369697391[52.3886666,30.9149052] n3369697392[52.3886011,30.9140254] n3369697793[52.3866367,30.9147120] n3369697794[52.3877499,30.9199048] n3369697795[52.3863355,30.9205914] n3369697387[52.3851175,30.9227587]
+w330607672
+  other tags : addr:country=BY | addr:housenumber=тп | addr:street=1-я Мильчанская улица | building=industrial | power=substation
+    geometry : n3375939934[52.4366096,30.9639757] n3375939932[52.4365685,30.9639552] n3375939931[52.4365502,30.9640538] n3375939933[52.4365913,30.9640743] n3375939934[52.4366096,30.9639757]
 w330910457
   other tags : building=industrial
     geometry : n3379450856[52.4174691,30.9116914] n3379450857[52.4169006,30.9184563] n3379450858[52.4179846,30.9187012] n3379450859[52.4180867,30.9174867] n3379450860[52.4184472,30.9175681] n3379450861[52.4184589,30.9174290] n3379450862[52.4180841,30.9173443] n3379450863[52.4182002,30.9159617] n3379450864[52.4185089,30.9160314] n3379450865[52.4185219,30.9158727] n3379450866[52.4182196,30.9158045] n3379450867[52.4183208,30.9145992] n3379450868[52.4187380,30.9146934] n3379450869[52.4187606,30.9144243] n3379450870[52.4183887,30.9143403] n3379450871[52.4185900,30.9119446] n3379450856[52.4174691,30.9116914]

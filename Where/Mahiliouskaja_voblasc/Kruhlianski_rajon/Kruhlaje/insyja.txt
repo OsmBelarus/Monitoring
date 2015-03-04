@@ -1,5 +1,5 @@
 n243033373  Васточны / Vastočny / Восточный / Восточный
-  other tags : addr:country=BY | addr:district=Круглянский район | addr:region=Могилёвская область | place=locality
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Круглянский район | addr:region=Могилёвская область | place=locality
     geometry : [54.2345829,29.8157522]
 n1337019819
   other tags : amenity=fire_station
@@ -49,8 +49,8 @@ n1583816373
 n2766736570  null / null / Гостиница Друть
   other tags : tourism=hotel
     geometry : [54.2474796,29.7965028]
-n2917929479  Засіцце / null / Заситье / Заситье
-  other tags : addr:country=BY | addr:district=Круглянский район | addr:region=Могилёвская область | place=locality
+n2917929479  Засіцце / Zasiccie / Заситье / Заситье
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Круглянский район | addr:region=Могилёвская область | place=locality
     geometry : [54.2409262,29.8112002]
 w144504772  null / null / Рынок
   other tags : amenity=marketplace

@@ -128,7 +128,7 @@ n1420339680  null / null / Гарант
   other tags : addr:city=Лида | shop=electronics
     geometry : [53.8915491,25.2979267]
 n1420339686  Кніжны свет / null / Книжный мир
-  other tags : addr:city=Лида | shop=books
+  other tags : shop=books | website=http://belkniga.by/
     geometry : [53.8912647,25.2980018]
 n1420339694  null / null / Светильники
   other tags : shop=doityourself
@@ -342,7 +342,7 @@ n3154441073  null / null / Мир дверей
     geometry : [53.8844954,25.2993276]
 n3154442473  null / null / Мир дверей
   other tags : addr:city=Лида | addr:housenumber=63 | addr:street=Красноармейская улица | opening_hours=10:00-21:00 | phone=+375 (44) 533-65-95 | shop=doors | website=http://mirdverej.by/
-    geometry : [53.8915699,25.2566416]
+    geometry : [53.8914998,25.2566933]
 n3161471088  null / null / Родны Кут
   other tags : opening_hours=09:00-22:00 | shop=supermarket
     geometry : [53.8985359,25.2525546]
@@ -391,8 +391,8 @@ n3190247300
 n3196932049  null / null / Строительный дом Ома
   other tags : opening_hours=09:00-21:00 | phone=+375 154 56-05-35 | shop=doityourself | website=http://oma.by/
     geometry : [53.8909186,25.2567153]
-n3196932505  null / null / "Золотая мечта"
-  other tags : shop=jewelry
+n3196932505  null / null / Золотая мечта
+  other tags : opening_hours=10:00-21:00 | phone=+375 0154 55-18-36 | shop=jewelry | website=http://gold-dream.by/
     geometry : [53.8917061,25.2565058]
 n3196968099
   other tags : shop=department_store
@@ -496,3 +496,36 @@ n3379446251  null / null / Serge
 n3379456324  null / null / Дом торговли
   other tags : description=УКП магазин №1 "Дом Торговли" | shop=supermarket | website=http://domtorgovly.by/
     geometry : [53.8905290,25.2987032]
+n3380726656  null / null / Жемчужина
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00; Sa 10:00-16:00 | phone=+375 154 52-24-88 | shop=jewelry | website=http://beluvelirtorg.by/
+    geometry : [53.8947451,25.3026028]
+n3380729800  null / null / Золотая мечта
+  other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 09:00-19:00 | phone=+375 0154 53-13-62 | shop=jewelry | website=http://gold-dream.by/
+    geometry : [53.8946049,25.3020953]
+n3380740312  null / null / Буслік
+  other tags : opening_hours=10:00-21:00 | phone=+375 154 56-94-42 | shop=baby_goods | website=http://buslik.by/
+    geometry : [53.8916195,25.2565912]
+n3380859322  null / null / Окнаград
+  other tags : opening_hours=Mo-Fr 10:00-18:00; Su off | phone=+375 154 60-60-60 | shop=doityourself | website=http://oknagrad.by/
+    geometry : [53.8854036,25.2950855]
+n3380869887  null / null / Мини-топ
+  other tags : description=Дом торговли. УКП Магазин №1 | opening_hours=09:00-18:00 | shop=shoes | website=http://domtorgovly.by/
+    geometry : [53.8888321,25.2938637]
+n3380872143  null / null / Марко
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 09:00-17:00 | phone=+375 154 53-43-84 | shop=shoes | website=http://marko.by/
+    geometry : [53.8935710,25.3000571]
+n3380874438  null / null / Белвест Лида №54
+  other tags : phone=+375 154 52-48-12 | shop=shoes | website=http://belwest.com/
+    geometry : [53.8888426,25.3023217]
+n3380883481  null / null / Одежда из Европы
+  other tags : description=Новые поступления ежемесячно по датам: 14-15, 22-23, 29-30 | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 10:00-17:00 | shop=second_hand | website=http://secondgrodno.by/
+    geometry : [53.9023266,25.3178761]
+n3381005191  null / null / Автобусный парк №2
+  other tags : description=Название: Филиал "Автобусный парк № 2 г.Лида" ОАО "Гроднооблавтотранс"; Номер: 100; Категория: M1 M2 M3 N1 N2 N3 O1 O2 O3 O4 L3 L4 L5 | shop=car_repair
+    geometry : [53.8689279,25.3168257]
+n3381005192  null / null / Автобусный парк №2
+  other tags : description=Название: Филиал "Автобусный парк №2 г.Лида" ОАО "Гроднооблавтотранс"; Номер: 223; Категория: M1 M2 M3 N1 N2 N3 O1 O2 O3 O4 L1 L2 L3 L4 L5 L6 L7 | shop=car_repair
+    geometry : [53.9034133,25.3214398]
+n3381005893  null / null / СТО №2
+  other tags : description=Номер: 98, Название: ЛГУП "СТО № 2", Категория: M1 M2 N1 O1 O2 L3 L4 L5 | phone=+375 29 605-72-12 | shop=car_repair
+    geometry : [53.9051059,25.3307036]

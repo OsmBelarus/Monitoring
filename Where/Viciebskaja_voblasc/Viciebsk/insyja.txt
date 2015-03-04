@@ -5,13 +5,13 @@ n243035493  Казіміроўка / kazimiroŭka / Казимировка / К�
   other tags : addr:country=BY | addr:region=Витебская область | place=suburb
     geometry : [55.2207527,30.1348777]
 n243043821  Селівоўшчына / Sielivoŭščyna / Селивовщина / Селивовщина
-  other tags : place=suburb
+  other tags : abandoned:place=hamlet | place=suburb
     geometry : [55.1870918,30.3099840]
-n243043831  Шпілі / Špili / Шпили / микрорайон Шпили
-  other tags : place=suburb | residential=rural
+n243043831  Шпілі / Špili / Шпили / Шпили
+  other tags : abandoned:place=hamlet | place=suburb | residential=rural
     geometry : [55.1438860,30.2010038]
-n243043840  Баронікі / Baroniki / Бороники / микрорайон Бороники
-  other tags : place=suburb
+n243043840  Баронікі / Baroniki / Бороники / Бороники
+  other tags : abandoned:place=hamlet | place=suburb
     geometry : [55.1493590,30.1821770]
 n306066290  null / null / Витьба / Витьба
   other tags : esr:user=166009 | railway=station

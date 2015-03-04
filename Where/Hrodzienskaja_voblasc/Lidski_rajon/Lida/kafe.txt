@@ -2,8 +2,7 @@ n306067721  Стары горад / null / Старый Город / Стары�
   other tags : amenity=cafe | cuisine=dining
     geometry : [53.8918977,25.3017433]
 n674043486  null / null / Легенда / Легенда
-  other names: name:uk=Легенда
-  other tags : amenity=restaurant
+  other tags : amenity=restaurant | opening_hours=Fr 19:00-02:00; Su 19:00-02:00; Sa 19:00-24:00 | phone=+375 154 52-62-05
     geometry : [53.8728864,25.3178193]
 n1039972036  null / null / Маёнтак
   other tags : amenity=cafe
@@ -41,8 +40,8 @@ n2655948750  null / null / Столовая ОАО "СМТ №19"
 n2853211101  null / null / Полюс
   other tags : amenity=restaurant
     geometry : [53.8946232,25.2729625]
-n3126206141  null / null / Пицца смайл
-  other tags : amenity=pub | opening_hours=10 00 - 23 00 | smoking=no
+n3126206141  null / null / Pizza Smile
+  other tags : amenity=pub | cuisine=pizza | opening_hours=11:00-23:00 | phone=+375 154 60-58-14 | smoking=no | website=http://pizzasmile.by/
     geometry : [53.8914415,25.2561845]
 n3126213951  null / null / Фишка
   other tags : amenity=cafe | opening_hours=10:00 - 23:00
