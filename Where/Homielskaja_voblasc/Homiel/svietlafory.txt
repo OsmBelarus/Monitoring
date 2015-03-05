@@ -17,7 +17,7 @@ n452529879  Бальніца / null / больница / Больница
   other tags : highway=bus_stop
     geometry : [52.4549084,30.9784863]
 n452540895  null / null / Зип
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
     geometry : [52.4176116,31.0014941]
 n452540899  null / null / Улица Барыкина
   other tags : highway=bus_stop | shelter=yes
@@ -215,8 +215,8 @@ n795714402  вул. Яфрэмава / null / ул. Ефремова / ул. Е�
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4549991,30.9607638]
 n795714411  вуліца Гагарына / vul. Haharyna / улица Гагарина / улица Гагарина
-  other tags : highway=bus_stop
-    geometry : [52.4208049,31.0046049]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4207905,31.0046704]
 n795714419  Ваенкамат / null / Военкомат / Военкомат
   other tags : highway=bus_stop
     geometry : [52.4201483,30.9727785]
@@ -601,8 +601,8 @@ n1334767916  null / null / Администрация Советского ра�
   other tags : highway=bus_stop
     geometry : [52.4164017,30.9624609]
 n1334767921  null / null / Проезд Куйбышевский
-  other tags : highway=bus_stop
-    geometry : [52.4185354,30.9703740]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4186058,30.9703944]
 n1334767927  null / null / ГомельОблАвтоТранс
   other tags : highway=bus_stop
     geometry : [52.4146346,30.9571992]
@@ -937,7 +937,7 @@ n3304641443  null / null / Улица Барыкина
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4164098,30.9972697]
 n3304644129  null / null / Институт Гомельпроект
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | trolleybus=yes
     geometry : [52.4183769,31.0022783]
 n3304664076
   other tags : highway=bus_stop
