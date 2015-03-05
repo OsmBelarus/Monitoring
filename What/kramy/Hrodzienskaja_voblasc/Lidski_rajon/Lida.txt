@@ -52,9 +52,6 @@ n1107774486  null / null / Электротовары
 n1115543934  null / null / Западный
   other tags : opening_hours=8:00-21:00 | shop=convenience
     geometry : [53.8992089,25.2608388]
-n1116949304
-  other tags : addr:city=Лида | shop=computer
-    geometry : [53.8910223,25.3026090]
 n1116963437  null / null / Магазин №17
   other tags : shop=convenience
     geometry : [53.8790779,25.2791637]
@@ -169,9 +166,9 @@ n1429798816  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : shop=convenience
     geometry : [53.8930425,25.2974832]
-n1429798817  null / null / Сервисный центр МТС
-  other tags : shop=mobile_phone
-    geometry : [53.8849209,25.2957892]
+n1429798817  null / null / Центр МТС
+  other tags : description=Центр МТС | opening_hours=09:00-20:00 | phone=+375 17 237-98-98 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8848683,25.2958856]
 n1429798818  Кветкі / null / Цветы / Цветы
   other tags : shop=florist
     geometry : [53.8952164,25.2964036]
@@ -269,7 +266,7 @@ n3126230189  null / null / Мужской зал
   other tags : opening_hours=10:00 - 17:00 | shop=hairdresser
     geometry : [53.8910313,25.2966197]
 n3126234656  null / null / МТС
-  other tags : shop=mobile_phone
+  other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 10:00-16:00 | phone=+375 154 53-47-40 | shop=mobile_phone | website=http://mts.by/
     geometry : [53.8910726,25.2961898]
 n3126237640  null / null / СПОРТ РЫБОЛОВ
   other tags : shop=yes
@@ -290,8 +287,8 @@ n3127105894  null / null / Мясо
   other tags : opening_hours=10:00 - 18 :00 | shop=yes
     geometry : [53.8917702,25.2953881]
 n3127110107  null / null / МТС
-  other tags : opening_hours=10:00 - 18:00 | shop=mobile_phone
-    geometry : [53.8904867,25.2984834]
+  other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 10:00-19:00 | phone=+375 154 54-27-86 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8905021,25.2988118]
 n3127110784  null / null / Цветы
   other tags : opening_hours=10:00 - 17:00 | shop=florist
     geometry : [53.8879985,25.2962142]
@@ -495,7 +492,7 @@ n3379446251  null / null / Serge
     geometry : [53.8908203,25.2986341]
 n3379456324  null / null / Дом торговли
   other tags : description=УКП магазин №1 "Дом Торговли" | shop=supermarket | website=http://domtorgovly.by/
-    geometry : [53.8905290,25.2987032]
+    geometry : [53.8905382,25.2986745]
 n3380726656  null / null / Жемчужина
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00; Sa 10:00-16:00 | phone=+375 154 52-24-88 | shop=jewelry | website=http://beluvelirtorg.by/
     geometry : [53.8947451,25.3026028]
@@ -529,3 +526,27 @@ n3381005192  null / null / Автобусный парк №2
 n3381005893  null / null / СТО №2
   other tags : description=Номер: 98, Название: ЛГУП "СТО № 2", Категория: M1 M2 N1 O1 O2 L3 L4 L5 | phone=+375 29 605-72-12 | shop=car_repair
     geometry : [53.9051059,25.3307036]
+n3382414219  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su 10:00-16:00 | phone=+375 154 57-93-98 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8782019,25.2779515]
+n3382414220  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=10:00-21:00 | phone=+375 29 894-94-25 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8881336,25.2963180]
+n3382414221  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00 | phone=+375 154 52-87-91 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8910229,25.3026064]
+n3382414222  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=10:00-22:00 | phone=+375 33 376-06-80 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8918990,25.2559399]
+n3382414223  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=10:00-19:00 | phone=+375 29 617-51-17 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8919040,25.2959156]
+n3382414224  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=10:00-21:00 | phone=+375 33 376-08-39 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8922853,25.2949741]
+n3382414225  null / null / МТС
+  other tags : description=Салон связи (представитель) | opening_hours=Mo-Sa 09:00-20:00; Su 09:00-18:00 | phone=+375 154 55-29-32 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8964796,25.2678858]
+n3382414226  null / null / Центр МТС
+  other tags : description=Центр МТС | opening_hours=09:00-21:00 | phone=+375 17 237-98-98 | shop=mobile_phone | website=http://mts.by/
+    geometry : [53.8918221,25.2560002]
