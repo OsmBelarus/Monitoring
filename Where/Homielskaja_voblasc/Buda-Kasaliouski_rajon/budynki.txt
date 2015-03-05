@@ -10862,7 +10862,7 @@ w283083513
   other tags : addr:hamlet=Широкий | addr:housenumber=1Б | addr:street=Слободская улица | building=yes
     geometry : n2869944630[52.6984645,30.8819370] n2869944628[52.6983573,30.8819014] n2869944627[52.6983261,30.8821571] n2869944629[52.6984333,30.8821927] n2869944630[52.6984645,30.8819370]
 w283083514
-  other tags : addr:country=BY | addr:hamlet=Широкий | addr:housenumber=больница | addr:street=ул.Советская | building=yes
+  other tags : addr:country=BY | addr:hamlet=Широкий | addr:housenumber=6А | addr:street=ул.Советская | building=yes
     geometry : n2869944614[52.6970677,30.8814144] n2869944612[52.6966784,30.8813305] n2869944611[52.6966510,30.8815951] n2869944613[52.6970481,30.8816887] n2869944614[52.6970677,30.8814144]
 w283101128
   other tags : addr:hamlet=Широкий | addr:housenumber=10 | addr:street=улица Сердюкова | building=yes
@@ -10942,8 +10942,8 @@ w283101967
 w283101969
   other tags : addr:housenumber=2 | addr:street=Советская улица | building=yes
     geometry : n2870118025[52.6928206,30.8803509] n2870118023[52.6927233,30.8803671] n2870118024[52.6927378,30.8806042] n2870118026[52.6928351,30.8805880] n2870118025[52.6928206,30.8803509]
-w283101970
-  other tags : addr:hamlet=Широкий | addr:housenumber=6А | addr:street=Советская улица | building=yes
+w283101970  null / null / Котельная
+  other tags : building=yes
     geometry : n2870118030[52.6972126,30.8837348] n2870118028[52.6971190,30.8837150] n2870118027[52.6970980,30.8839855] n2870118029[52.6971916,30.8840053] n2870118030[52.6972126,30.8837348]
 w283113576
   other tags : addr:hamlet=Широкий | addr:housenumber=1 | addr:street=Школьная улица | building=yes
