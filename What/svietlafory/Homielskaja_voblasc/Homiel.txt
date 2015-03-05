@@ -185,20 +185,20 @@ n712380825  null / null / МЖК
   other tags : highway=bus_stop
     geometry : [52.3998103,30.9135072]
 n786907924  Сасновая вуліца / null / Сосновая улица / Сосновая улица
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.4203381,30.9444342]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes
+    geometry : [52.4202973,30.9445806]
 n786908173  Сасновая вуліца / null / Сосновая улица / Сосновая улица
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.4230581,30.9442768]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | trolleybus=yes
+    geometry : [52.4228860,30.9442075]
 n786908381  null / null / Центролит / Центролит
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4268503,30.9131557]
 n786908844  Сасновая вуліца / null / Сосновая улица / Сосновая улица
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.4210614,30.9450480]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes
+    geometry : [52.4210925,30.9448672]
 n786909108  Сасновая вуліца / null / Сосновая улица / Сосновая улица
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.4227562,30.9440942]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | trolleybus=yes
+    geometry : [52.4230001,30.9434181]
 n786909186  null / null / улица Борисенко / улица Борисенко
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4257993,30.9236982]
@@ -607,11 +607,11 @@ n1334767927  null / null / ГомельОблАвтоТранс
   other tags : highway=bus_stop
     geometry : [52.4146346,30.9571992]
 n1334767938  null / null / Торговое оборудование
-  other tags : highway=bus_stop
-    geometry : [52.4197428,30.9668526]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4196069,30.9667993]
 n1334767940  null / null / Проспект Речицкий
   other tags : highway=bus_stop
-    geometry : [52.4182979,30.9670775]
+    geometry : [52.4181528,30.9669891]
 n1334767955  null / null / Дом культуры Фестивальный
   other tags : highway=bus_stop
     geometry : [52.4127117,30.9517944]
