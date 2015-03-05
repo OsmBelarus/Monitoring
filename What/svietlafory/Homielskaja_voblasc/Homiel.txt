@@ -17,8 +17,8 @@ n452529879  Бальніца / null / больница / Больница
   other tags : highway=bus_stop
     geometry : [52.4549084,30.9784863]
 n452540895  null / null / Зип
-  other tags : highway=bus_stop
-    geometry : [52.4176812,31.0013380]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.4176116,31.0014941]
 n452540899  null / null / Улица Барыкина
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4167035,30.9973561]
@@ -937,8 +937,8 @@ n3304641443  null / null / Улица Барыкина
   other tags : highway=bus_stop | shelter=yes
     geometry : [52.4164098,30.9972697]
 n3304644129  null / null / Институт Гомельпроект
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [52.4183244,31.0023616]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.4183769,31.0022783]
 n3304664076
   other tags : highway=bus_stop
     geometry : [52.4034919,30.9068445]
