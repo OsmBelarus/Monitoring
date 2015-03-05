@@ -455,8 +455,8 @@ n3212404852  null / null / улица Бумажкова
   other tags : highway=bus_stop
     geometry : [52.0632653,29.2169905]
 n3212404853  null / null / улица Заслонова-2
-  other tags : highway=bus_stop
-    geometry : [52.0599672,29.2186082]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [52.0600444,29.2186028]
 n3212404854  null / null / переулок Припятский
   other tags : highway=bus_stop
     geometry : [52.0620846,29.2308928]
