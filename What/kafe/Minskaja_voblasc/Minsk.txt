@@ -1345,8 +1345,8 @@ n1602252840  null / null / Великолепный экспресс
 n1618064756  null / null / У Фонтана
   other tags : amenity=restaurant
     geometry : [53.9108047,27.5299073]
-n1618158500  null / null / Столовая / Столовая
-  other tags : amenity=cafe | operator=ОП СТРОЙПРОГРЕСС ОАО МАПИД | phone=+375172046370 | wheelchair=no
+n1618158500  Сталовая / null / Столовая / Столовая
+  other tags : amenity=cafe | contact:phone=+375172046370 | operator=ОП СТРОЙПРОГРЕСС ОАО МАПИД | wheelchair=no
     geometry : [53.9229127,27.5034113]
 n1624526451  null / null / Миникафе
   other tags : amenity=cafe | opening_hours=Mo-Su 08:00-22:00
