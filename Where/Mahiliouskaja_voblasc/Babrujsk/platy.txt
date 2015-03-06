@@ -64,11 +64,8 @@ n2416017891
 n2416017899
   other tags : barrier=gate
     geometry : [53.1396078,29.2046955]
-n2822808299
-  other tags : barrier=gate
-    geometry : [53.1741990,29.1850027]
 n2822813024
-  other tags : barrier=gate
+  other tags : barrier=gate | bicycle=yes | foot=yes | motor_vehicle=permissive
     geometry : [53.1757296,29.1863060]
 n2893024771
   other tags : barrier=gate
@@ -131,10 +128,10 @@ n3357714191
   other tags : barrier=gate
     geometry : [53.1950353,29.2133205]
 n3357852471
-  other tags : barrier=gate
+  other tags : barrier=gate | bicycle=yes | foot=yes | motor_vehicle=no
     geometry : [53.1742591,29.1849329]
 n3357852473
-  other tags : barrier=gate
+  other tags : barrier=gate | bicycle=yes | foot=yes | motor_vehicle=no
     geometry : [53.1747424,29.1865493]
 n3362242583
   other tags : barrier=gate
