@@ -8,33 +8,48 @@ n1410525668  null / null / Газ АЗС
   other names: name:en=LPG
   other tags : addr:city=Лида | amenity=fuel | fuel:lpg=yes
     geometry : [53.8806751,25.3082845]
-n1425523505  Беларуснафта №7 / Belorusneft №7 / Белоруснефть №7 / Белоруснефть №7
-  other tags : addr:housenumber=56 | addr:street=Коммунистическая улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-540098 | ref=7 | website=http://www.belorusneft.by/
-    geometry : [53.8781285,25.2743732]
-n1436117946  Беларуснафта / null / Белоруснефть / Белоруснефть
-  other tags : amenity=fuel | building=yes
+n1425523505  МАЗС №7 Беларуснафта / Belorusneft №7 / МАЗС №7 Белоруснефть / МАЗС №7 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 54-00-98 | ref=7 | website=http://belorusneft.by/
+    geometry : [53.8782201,25.2744412]
+n1436117946  null / null / МАЗС №5 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=00:05-24:00 | operator=Белоруснефть | phone=+375 154 55-92-57 | website=http://belorusneft.by/
     geometry : [53.9103247,25.2487863]
-n1471143902  Беларуснафта №1 / Belorusneft №1 / Белоруснефть №1 / Белоруснефть №1
-  other tags : addr:housenumber=141 | addr:street=проспект Победы | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-524811 | website=http://beloil.by/
-    geometry : [53.8737894,25.3168196]
-n1776045991  null / null / Белнефтехим
-  other tags : amenity=fuel
+n1471143902  МАЗС №1 Беларуснафта / Belorusneft №1 / МАЗС №1 Белоруснефть / МАЗС №1 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 52-48-11 | website=http://belorusneft.by/
+    geometry : [53.8735805,25.3170690]
+n1776045991  null / null / МАЗС №8 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 53-81-30 | website=http://belorusneft.by/
     geometry : [53.9407504,25.2555853]
 n3174641208  null / null / МАЗС №45 Лукойл
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл Белоруссия | phone=+375 154 53-15-81 | website=http://lukoil.by/
     geometry : [53.8994518,25.2982740]
-n3306548272  Беларуснафта №7 / Belorusneft №7 / Белоруснефть №7 / Белоруснефть №7
-  other tags : addr:housenumber=56 | addr:street=Коммунистическая улица | amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375-154-540098 | ref=7 | website=http://www.belorusneft.by/
+n3196925861  null / null / МАЗС №20 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 55-40-70 | website=http://belorusneft.by/
+    geometry : [53.8925938,25.2534470]
+n3306548272  МАЗС №7 Беларуснафта / Belorusneft №7 / МАЗС №7 Белоруснефть / МАЗС №7 Белоруснефть
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375-154-540098 | ref=7 | website=http://belorusneft.by/
     geometry : [53.8783825,25.2743038]
+n3384124210  null / null / АЗС №4 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 52-55-75 | website=http://belorusneft.by/
+    geometry : [53.8588999,25.3260817]
+n3384124211  null / null / АЗС №57 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 53-47-49 | website=http://belorusneft.by/
+    geometry : [53.9011713,25.3134365]
+n3384124212  null / Belorusneft №1 / МАЗС №1 Белоруснефть
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375 154 52-48-11 | website=http://belorusneft.by/
+    geometry : [53.8736136,25.3172288]
+n3384124213  null / null / МАЗС №20 Белоруснефть
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=07:00-23:00 | operator=Белоруснефть | phone=+375 154 55-40-70 | website=http://belorusneft.by/
+    geometry : [53.8924498,25.2528748]
+n3384124214  null / null / МАЗС №5 Белоруснефть
+  other tags : amenity=fuel | building=yes | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375 154 55-92-57 | website=http://belorusneft.by/
+    geometry : [53.9100185,25.2490048]
+n3384124215  null / null / МАЗС №8 Белоруснефть
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=08:00-20:00 | operator=Белоруснефть | phone=+375 154 53-81-30 | website=http://belorusneft.by/
+    geometry : [53.9408456,25.2555130]
 w59622581
   other tags : amenity=fuel | building=yes
     geometry : n739617710[53.8994943,25.2980973] n739617699[53.8995582,25.2983183] n3172805658[53.8994993,25.2983673] n3172805660[53.8995305,25.2984754] n3172807561[53.8995452,25.2984631] n3172807562[53.8995735,25.2985612] n3172805657[53.8994921,25.2986289] n3172805655[53.8994621,25.2985251] n3172805656[53.8994799,25.2985103] n3172805654[53.8994503,25.2984080] n739617664[53.8993834,25.2984637] n739617624[53.8993196,25.2982428] n739617710[53.8994943,25.2980973]
-w80954648
-  other tags : amenity=fuel | building=yes
-    geometry : n943876494[53.9013081,25.3131572] n943876483[53.9013337,25.3132514] n943876457[53.9012122,25.3133465] n943876468[53.9011866,25.3132523] n943876494[53.9013081,25.3131572]
-w95532196  Беларуснафта / null / Белоруснефть / Белоруснефть
-  other tags : amenity=fuel | building=yes
-    geometry : n1107774714[53.8923055,25.2532906] n1107774762[53.8923307,25.2534944] n1107774716[53.8922610,25.2535192] n1107774200[53.8922359,25.2533154] n1107774714[53.8923055,25.2532906]
 w309059035
   other tags : amenity=fuel
     geometry : n3143680849[53.8731145,25.3170161] n3143680314[53.8732444,25.3173740] n3143680484[53.8734097,25.3178295] n3143677966[53.8737497,25.3187665] n3143680912[53.8744267,25.3180669] n3143681096[53.8741308,25.3171519] n3143681231[53.8741117,25.3167504] n3143680870[53.8739271,25.3161771] n3143680849[53.8731145,25.3170161]

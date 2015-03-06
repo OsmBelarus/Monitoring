@@ -1,5 +1,5 @@
-n306067368  Беларуснафта №74 / Belorusneft №74 / Белоруснефть №74 / Белоруснефть №74
-  other tags : addr:street=159км дороги М6 Минск-Гродно | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-604346 | website=http://www.belorusneft.by/
+n306067368  null / Belorusneft №74 / АЗС №74 Белоруснефть
+  other tags : addr:street=159км дороги М6 Минск-Гродно | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 60-43-46 | website=http://belorusneft.by/
     geometry : [53.8301994,25.3630442]
 n436179617  null / null / АЗС №81 Газпромнефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Газпромнефть-Белнефтепродукт | website=http://gpnbonus.by/
@@ -19,9 +19,12 @@ n3305629361  null / null / АЗС №4 Газпромнефть
 n3306260266  Беларуснафта №21 / Belorusneft №21 / Белоруснефть №21 / Белоруснефть №21
   other tags : addr:street=173км дороги М6 Минск-Гродно (д. Цыборы) | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-580325 | website=http://www.belorusneft.by/
     geometry : [53.8436067,25.1818624]
-n3306548270  Беларуснафта №2 / Belorusneft №2 / Белоруснефть №2 / Белоруснефть №2
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-547595 | ref=2 | website=http://www.belorusneft.by/
+n3306548270  АЗС №2 Беларуснафта / Belorusneft №2 / АЗС №2 Белоруснефть / АЗС №2 Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 54-75-95 | ref=2 | website=http://belorusneft.by/
     geometry : [53.8701628,25.2553372]
-n3306548271  Беларуснафта №2 / Belorusneft №2 / Белоруснефть №2 / Белоруснефть №2
-  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375-154-547595 | ref=2 | website=http://www.belorusneft.by/
+n3306548271  АЗС №2 Беларуснафта / Belorusneft №2 / АЗС №2 Белоруснефть / АЗС №2 Белоруснефть
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375 154 54-75-95 | ref=2 | website=http://belorusneft.by/
     geometry : [53.8705571,25.2552950]
+n3384124209  null / null / АЗС №21 Белоруснефть
+  other tags : addr:street=Циборы | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 58-03-25 | website=http://belorusneft.by/
+    geometry : [53.8462802,25.1863856]
