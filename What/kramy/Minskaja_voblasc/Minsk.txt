@@ -8984,7 +8984,7 @@ n3205794958  null / null / Мила
 n3205794959  null / null / Продукты
   other tags : shop=yes
     geometry : [53.9486747,27.6111721]
-n3205811605  null / null / Магазин "Книги"
+n3205811605  null / null / Магазин «Книги»
   other tags : shop=books
     geometry : [53.9096385,27.4907316]
 n3205811609  null / null / Багетная мастерская "Рамер"
@@ -10218,8 +10218,8 @@ n3270537524  null / null / МЭРИЛИН
 n3270538688  null / null / ЦЕНТР КРАСОТЫ
   other tags : addr:housenumber=39 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 09:00 — 20:00 сб.: 09:00 — 18:00 вс.: выходной | shop=beauty
     geometry : [53.9090645,27.4949269]
-n3270540325  null / null / МЭРИЛИН
-  other tags : addr:housenumber=38 | addr:street=улица Притыцкого | opening_hours=пн. — пт.: 08:00 — 20:00 сб.: 08:00 — 18:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
+n3270540325  null / null / Мэрилин
+  other tags : addr:housenumber=38 | addr:street=улица Притыцкого | opening_hours=пн-пт: 08:00-20:00, сб: 08:00-18:00, вс: 09:00-18:00 | operator=Парикмахерская | shop=beauty
     geometry : [53.9096004,27.4895584]
 n3270541801  null / null / ЦЫРУЛЬНЯ
   other tags : addr:housenumber=40 | addr:street=улица Притыцкого | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
