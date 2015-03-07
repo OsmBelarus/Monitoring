@@ -560,10 +560,10 @@ w25224845  Уруцкая вуліца / Uruckaja vulica / Уручская ул
   other tags : highway=service | motor_vehicle=permissive
     geometry : n275045073[53.9577547,27.6881000] n275045078[53.9576882,27.6885550] n275045079[53.9575797,27.6895550] n275045071[53.9575599,27.6899700]
 w25224881
-  other tags : highway=service | trolley_wire=yes
+  other tags : highway=service | surface=asphalt | trolley_wire=yes
     geometry : n275045274[53.9333733,27.6938175] n475189028[53.9333053,27.6938134] n275045275[53.9332600,27.6938100]
 w25224882
-  other tags : highway=service | trolley_wire=yes
+  other tags : highway=service | surface=asphalt | trolley_wire=yes
     geometry : n275045280[53.9317622,27.6938860] n901428071[53.9318771,27.6941550] n3349809303[53.9319987,27.6944112] n275045279[53.9320400,27.6944932]
 w25224902
   other tags : highway=service
@@ -1538,10 +1538,10 @@ w28105500
   other tags : access=yes | highway=service | motor_vehicle=no
     geometry : n308734767[53.8432247,27.4983280] n3327413608[53.8432048,27.4983845] n3327417974[53.8431780,27.4984772] n1140769234[53.8430927,27.4987721] n308736497[53.8428866,27.4994528] n1464467565[53.8426561,27.5002398]
 w28107632
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n308750866[53.9285659,27.6870288] n308750867[53.9278432,27.6871404] n308750868[53.9277623,27.6872091] n308750869[53.9277876,27.6878614] n308750870[53.9275064,27.6878839] n712604497[53.9273738,27.6879097]
 w28121446
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n308888938[53.9288042,27.6868548] n308888939[53.9287284,27.6869235] n308888940[53.9287031,27.6870093] n308888941[53.9287132,27.6875243] n308888942[53.9286879,27.6876788] n308888943[53.9286627,27.6877732] n308750869[53.9277876,27.6878614]
 w28138290
   other tags : bicycle=yes | foot=yes | highway=service
@@ -4487,19 +4487,19 @@ w39642298
   other tags : highway=service | living_street=yes
     geometry : n275045272[53.9329144,27.6980168] n475189016[53.9329981,27.6979411] n475189017[53.9332190,27.6977924] n475189018[53.9338969,27.6977172]
 w39642303
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n275044491[53.9322123,27.6996199] n475189062[53.9322082,27.6994395] n475189040[53.9322078,27.6991428] n2094850610[53.9322067,27.6990334]
 w39642304
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n475189067[53.9322059,27.6987213] n475189074[53.9323295,27.6987181] n475189070[53.9324776,27.6987111] n475189068[53.9326094,27.6987082]
 w39642305
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n475189070[53.9324776,27.6987111] n475189071[53.9324833,27.6978244]
 w39642306
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n475189072[53.9323255,27.6972173] n475189071[53.9324833,27.6978244]
 w39642307
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n475189074[53.9323295,27.6987181] n475189072[53.9323255,27.6972173] n475189075[53.9323190,27.6957121] n475189077[53.9322155,27.6957041]
 w39642312
   other tags : highway=service | living_street=yes
@@ -5681,10 +5681,10 @@ w42737159
   other tags : highway=service | living_street=yes
     geometry : n534418057[53.9499404,27.7199564] n986286602[53.9499461,27.7208518] n534418225[53.9499495,27.7209768] n986286540[53.9499473,27.7214175] n986286728[53.9498240,27.7214211]
 w42737226
-  other tags : bicycle=yes | foot=yes | highway=service | horse=no | living_street=yes | maxspeed=20 | motor_vehicle=yes
+  other tags : bicycle=yes | foot=yes | highway=service | horse=no | living_street=yes | maxspeed=20 | surface=asphalt
     geometry : n534419623[53.9266942,27.6804615] n2426970067[53.9267017,27.6805918] n2426970071[53.9267106,27.6807464] n535201395[53.9267153,27.6808279] n535201415[53.9267344,27.6811598] n2426970080[53.9267462,27.6813645] n535201427[53.9267568,27.6815489] n929208098[53.9267636,27.6816708] n535201445[53.9268178,27.6818357] n535201437[53.9269377,27.6821418] n534419783[53.9269710,27.6822254] n1504221238[53.9269854,27.6824876] n534419789[53.9269954,27.6828598]
 w42737234
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n534419789[53.9269954,27.6828598] n869232065[53.9279401,27.6827575] n1141941046[53.9280040,27.6827418] n3039348065[53.9281281,27.6827112] n534419823[53.9282908,27.6826711] n534419826[53.9281556,27.6817411] n534419828[53.9291603,27.6816383]
 w42737945
   other tags : highway=service | service=parking_aisle
@@ -5747,13 +5747,13 @@ w42798711
   other tags : highway=service | living_street=yes
     geometry : n535201315[53.9288900,27.6907642] n2426970171[53.9287773,27.6896423] n2426970160[53.9287120,27.6892979] n2426970163[53.9287131,27.6889764] n535201323[53.9287252,27.6885475]
 w42798712
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n535201337[53.9278762,27.6896118] n535201341[53.9283411,27.6895260]
 w42798713
   other tags : highway=service | living_street=yes
     geometry : n431470856[53.9269635,27.6878565] n535201355[53.9269918,27.6884359]
 w42798714
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n308750869[53.9277876,27.6878614] n535201337[53.9278762,27.6896118]
 w42798716
   other tags : highway=service | living_street=yes | service=parking_aisle
@@ -5765,10 +5765,10 @@ w42798718
   other tags : highway=service | living_street=yes
     geometry : n535201383[53.9282573,27.6917334] n535201274[53.9287318,27.6916639] n535201389[53.9289122,27.6926416]
 w42798720
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n535201395[53.9267153,27.6808279] n535201408[53.9262590,27.6809257]
 w42798721
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n535201427[53.9267568,27.6815489] n2426970052[53.9265201,27.6815773] n535201429[53.9264910,27.6816018] n535201432[53.9267265,27.6821728] n535201437[53.9269377,27.6821418]
 w42798723
   other tags : highway=service | living_street=yes
@@ -13469,7 +13469,7 @@ w60049283
   other tags : bicycle=yes | foot=yes | highway=service | living_street=yes
     geometry : n275063835[53.8903313,27.5883275] n1388303705[53.8902900,27.5883469] n746335797[53.8900212,27.5885210]
 w60131042
-  other tags : highway=service
+  other tags : highway=service | surface=asphalt
     geometry : n747034488[53.9294085,27.7011367] n2426970179[53.9293789,27.7002593] n747034455[53.9293725,27.7000712]
 w60164652
   other tags : highway=service | living_street=yes
@@ -13715,7 +13715,7 @@ w61010664
   other tags : highway=service
     geometry : n763642737[53.9047852,27.6431778] n763642733[53.9045612,27.6433543] n763642734[53.9044819,27.6430887]
 w61070567
-  other tags : highway=service | trolley_wire=yes
+  other tags : highway=service | surface=asphalt | trolley_wire=yes
     geometry : n275045279[53.9320400,27.6944932] n3357371184[53.9320532,27.6945173] n3357371185[53.9321390,27.6946733] n2094810417[53.9322394,27.6948559] n2094810414[53.9323112,27.6949780] n275045282[53.9323300,27.6950100] n275045283[53.9324600,27.6951400] n275045284[53.9325500,27.6951200] n275045285[53.9326400,27.6950300] n275045287[53.9332600,27.6939800] n2094810416[53.9332600,27.6938777] n275045275[53.9332600,27.6938100]
 w61080508
   other tags : highway=service | living_street=yes
@@ -14474,7 +14474,7 @@ w63951226
   other tags : highway=service | living_street=yes
     geometry : n789379125[53.9464984,27.6445761] n986075909[53.9468869,27.6451222] n789379128[53.9469524,27.6452142] n789379124[53.9472733,27.6447443] n789379126[53.9480073,27.6442281] n789379127[53.9480312,27.6437293] n789379123[53.9478330,27.6429993]
 w64045656
-  other tags : highway=service | trolley_wire=yes
+  other tags : highway=service | surface=asphalt | trolley_wire=yes
     geometry : n275045275[53.9332600,27.6938100] n2094810415[53.9332446,27.6937814] n2094809973[53.9331993,27.6936973] n2094809972[53.9331571,27.6936190] n275045276[53.9329800,27.6932900] n275045277[53.9328900,27.6932300] n275045278[53.9327800,27.6932900] n2094809971[53.9322108,27.6942083] n2094809969[53.9321120,27.6943677] n275045279[53.9320400,27.6944932]
 w64096174
   other tags : bicycle=yes | foot=yes | highway=service | service=yard | surface=asphalt
@@ -33317,16 +33317,16 @@ w199488660
   other tags : bicycle=yes | foot=yes | highway=service
     geometry : n2607566099[53.9171133,27.6672453] n2607566105[53.9172522,27.6671686] n2607566113[53.9173478,27.6670841] n2094769094[53.9175875,27.6674053] n2607566131[53.9174889,27.6676101] n2094769092[53.9174373,27.6677172]
 w199489457
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n535201398[53.9272593,27.6806854] n1011593135[53.9272570,27.6806302] n535201455[53.9272380,27.6803433]
 w199489615
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n535201412[53.9263301,27.6812187] n535201415[53.9267344,27.6811598]
 w199489945
   other tags : highway=service
     geometry : n2094797425[53.9080403,27.6383613] n2094797422[53.9079311,27.6380826] n429531253[53.9078506,27.6381726]
 w199492266
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n535201337[53.9278762,27.6896118] n535201365[53.9277502,27.6896415] n1011595739[53.9276176,27.6896759] n275046195[53.9274861,27.6897100]
 w199492575
   other tags : highway=service
@@ -33335,19 +33335,19 @@ w199494183
   other tags : highway=service | service=parking_aisle
     geometry : n2094806319[53.9266222,27.7003473] n2094806320[53.9266269,27.7006987] n2094806318[53.9262758,27.7007442]
 w199494466
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n475189066[53.9322045,27.6988367] n475189067[53.9322059,27.6987213] n475189077[53.9322155,27.6957041] n475189063[53.9322115,27.6954323] n475189064[53.9320574,27.6952368] n475189065[53.9320614,27.6988432] n475189066[53.9322045,27.6988367]
 w199494544
-  other tags : highway=service | oneway=yes | service=parking_aisle
+  other tags : highway=service | oneway=yes | service=parking_aisle | surface=asphalt
     geometry : n2094809972[53.9331571,27.6936190] n2094809971[53.9322108,27.6942083]
 w199494545
-  other tags : highway=service | oneway=-1 | service=parking_aisle
+  other tags : highway=service | oneway=-1 | service=parking_aisle | surface=asphalt
     geometry : n2094809969[53.9321120,27.6943677] n2094809973[53.9331993,27.6936973]
 w199494614
-  other tags : highway=service | oneway=yes | service=parking_aisle
+  other tags : highway=service | oneway=yes | service=parking_aisle | surface=asphalt
     geometry : n2094810416[53.9332600,27.6938777] n2094810414[53.9323112,27.6949780]
 w199494615
-  other tags : highway=service | oneway=-1 | service=parking_aisle
+  other tags : highway=service | oneway=-1 | service=parking_aisle | surface=asphalt
     geometry : n2094810417[53.9322394,27.6948559] n2094810415[53.9332446,27.6937814]
 w199495083
   other tags : highway=service | oneway=yes
@@ -33371,7 +33371,7 @@ w199496755
   other tags : highway=service | living_street=yes | service=parking_aisle
     geometry : n2094829465[53.9470860,27.6825965] n1057501700[53.9467593,27.6827413] n2094828544[53.9464909,27.6826419]
 w199497783
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n2094850610[53.9322067,27.6990334] n2094849557[53.9322062,27.6989883] n475189066[53.9322045,27.6988367]
 w199498713
   other tags : highway=service | service=parking_aisle
@@ -35018,13 +35018,13 @@ w225448719
   other tags : highway=service
     geometry : n2342222882[53.9291091,27.4279696] n2700747986[53.9287957,27.4290458] n2342222886[53.9285689,27.4298245] n2342222888[53.9287740,27.4299986]
 w225450900
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n2342239126[53.9265349,27.6978397] n2342239098[53.9261746,27.6973517] n2342239092[53.9259283,27.6969877] n2342239084[53.9256410,27.6964067]
 w225450902
   other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n2342239192[53.9298394,27.6993542] n3356638847[53.9298398,27.6992829] n2342239191[53.9298361,27.6985416]
 w225450903
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n2342239098[53.9261746,27.6973517] n2342239109[53.9262704,27.6972510]
 w225450904
   other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
@@ -35036,7 +35036,7 @@ w225450906
   other tags : highway=service | living_street=yes | service=alley | surface=asphalt
     geometry : n2341886997[53.9293990,27.6993791] n3245714417[53.9294538,27.6993760] n2342239192[53.9298394,27.6993542] n2342239193[53.9299828,27.6993433] n2342239194[53.9302798,27.6993281] n3358389043[53.9304515,27.6993145] n275044567[53.9305749,27.6993069]
 w225450908
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n2342239076[53.9252824,27.6966735] n3114428594[53.9253830,27.6965986] n2342239084[53.9256410,27.6964067]
 w225451830
   other tags : highway=service
@@ -35288,7 +35288,7 @@ w226874264
   other tags : highway=service
     geometry : n275062273[53.8478627,27.6000531] n2356078068[53.8478540,27.5998909] n2356078064[53.8478065,27.5997499] n2356078055[53.8468541,27.5995337] n2356078056[53.8468652,27.5993088] n2356078063[53.8478065,27.5995302] n2356078065[53.8478093,27.5993022] n2356078066[53.8478127,27.5990178] n2356078067[53.8478136,27.5989410]
 w226915974
-  other tags : highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | surface=asphalt
     geometry : n534419789[53.9269954,27.6828598] n1011589601[53.9267766,27.6830546] n275046388[53.9266546,27.6831721]
 w227002278
   other tags : highway=service | service=parking_aisle
@@ -36236,13 +36236,13 @@ w234445005
   other tags : highway=service
     geometry : n597335466[53.9386664,27.7014101] n597335467[53.9383804,27.7014755]
 w234445006
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n535201398[53.9272593,27.6806854] n535201400[53.9278661,27.6805824]
 w234445007
   other tags : covered=yes | highway=service
     geometry : n2426970238[53.9342349,27.7016713] n2426970237[53.9341698,27.7016802]
 w234445009
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n2426970071[53.9267106,27.6807464] n1011593135[53.9272570,27.6806302]
 w234445010
   other tags : highway=service | living_street=yes
@@ -39314,7 +39314,7 @@ w265569730
   other tags : bicycle=yes | highway=service | surface=asphalt
     geometry : n2705492156[53.9287104,27.4321562] n2705492143[53.9287696,27.4319202] n2712155354[53.9288746,27.4315017] n2712155356[53.9292038,27.4317392] n2712155355[53.9293449,27.4312074]
 w265572487
-  other tags : highway=service | living_street=yes | service=alley
+  other tags : highway=service | living_street=yes | service=alley | surface=asphalt
     geometry : n2341886997[53.9293990,27.6993791] n3114428595[53.9293804,27.6998643] n747034455[53.9293725,27.7000712]
 w265608206
   other tags : highway=service | service=parking_aisle
@@ -41570,7 +41570,7 @@ w303025300
   other tags : highway=service | living_street=yes | service=alley | surface=asphalt
     geometry : n2341886985[53.9266604,27.6979656] n2341886986[53.9269811,27.6982849] n2341886987[53.9273807,27.6986606] n2341886990[53.9278576,27.6989541] n2341886995[53.9284272,27.6992194] n3368001211[53.9289278,27.6993493] n2341886996[53.9289608,27.6993579] n2341886997[53.9293990,27.6993791]
 w303025633
-  other tags : highway=service | living_street=yes | service=parking_aisle
+  other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
     geometry : n2342239084[53.9256410,27.6964067] n2342239089[53.9258599,27.6962751] n2342239106[53.9262699,27.6962600] n2342239124[53.9264939,27.6962518] n2342239121[53.9264848,27.6972588] n2342239109[53.9262704,27.6972510] n2342239106[53.9262699,27.6962600]
 w303027215
   other tags : highway=service | living_street=yes | service=parking_aisle | surface=asphalt
