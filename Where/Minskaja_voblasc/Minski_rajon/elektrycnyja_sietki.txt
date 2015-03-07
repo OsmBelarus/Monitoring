@@ -1608,7 +1608,7 @@ n325322657
     geometry : [53.9511809,27.6759330]
 n325323271
   other tags : power=tower
-    geometry : [53.9510481,27.6749490]
+    geometry : [53.9510904,27.6750897]
 n360684078
   other tags : power=tower
     geometry : [53.9716457,27.5715254]
@@ -3537,10 +3537,7 @@ n461703248
     geometry : [54.0206127,27.5115472]
 n496998560
   other tags : power=tower
-    geometry : [53.9523174,27.6788675]
-n496998561
-  other tags : power=tower
-    geometry : [53.9522236,27.6792036]
+    geometry : [53.9523526,27.6790239]
 n649538885
   other tags : power=tower
     geometry : [53.7512815,27.6174895]
@@ -9133,24 +9130,9 @@ n2997528794
 n2997528796
   other tags : power=tower
     geometry : [53.8279215,27.4230275]
-n2997667656
-  other tags : power=tower
-    geometry : [53.9501470,27.6725808]
-n2997667661
-  other tags : power=tower
-    geometry : [53.9511227,27.6750559]
-n2997667662
-  other tags : power=tower
-    geometry : [53.9512458,27.6760043]
 n2997667668
   other tags : power=tower
-    geometry : [53.9522582,27.6793616]
-n2997667670
-  other tags : power=tower
-    geometry : [53.9523526,27.6790239]
-n2997667671
-  other tags : power=tower
-    geometry : [53.9527306,27.6789238]
+    geometry : [53.9522686,27.6793587]
 n2997667673
   other tags : power=tower
     geometry : [53.9530303,27.6811875]
@@ -10381,6 +10363,9 @@ n3382454814
 n3382454815
   other tags : power=pole
     geometry : [53.7800178,27.3990872]
+n3385646035
+  other tags : power=tower
+    geometry : [53.9501343,27.6726004]
 w25420897
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
     geometry : n316949926[53.8071513,27.4221271] n2400976070[53.8092073,27.4232613] n316955827[53.8107141,27.4241404] n2400976092[53.8123608,27.4250488] n277047337[53.8140602,27.4260428]
@@ -10849,9 +10834,6 @@ w288987257
 w295993088
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
     geometry : n278195825[53.8282916,27.4227366] n2997528796[53.8279215,27.4230275] n2997528794[53.8275266,27.4233197]
-w296009872
-  other tags : power=line
-    geometry : n2997667670[53.9523526,27.6790239] n2997667671[53.9527306,27.6789238]
 w296126201
   other tags : power=line
     geometry : n2999095598[53.9947972,27.7947245] n2999095597[53.9945278,27.7955854] n2999095596[53.9941975,27.7967363]
