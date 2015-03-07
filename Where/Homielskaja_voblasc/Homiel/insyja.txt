@@ -3,16 +3,16 @@ n242979104  null / null / Чапаево / Чапаево
   other tags : place=suburb
     geometry : [52.4103108,31.0356211]
 n243044957  Іпуць / Ipuć / Ипуть / Ипуть
-  other tags : abandoned:place=hamlet | place=suburb
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=suburb
     geometry : [52.4031500,31.0789500]
 n243044962  Раманавічы / Ramanavičy / Романовичи / Романовичи
-  other tags : abandoned:place=hamlet | place=suburb
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=suburb
     geometry : [52.4258100,31.1213500]
 n243046787  Хутар / Chutar / Хутор / Хутор
-  other tags : abandoned:place=hamlet | place=neighbourhood
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=neighbourhood
     geometry : [52.3618700,31.0071100]
 n243046799  Новая Мільча / Novaja Miĺča / Новая Мильча / Новая Мильча
-  other tags : abandoned:place=hamlet | place=suburb
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=suburb
     geometry : [52.4271961,30.8830787]
 n243046804  null / null / Новая Жизнь / Новая Жизнь
   other names: name:uk=Нове Життя
@@ -2153,7 +2153,7 @@ n3049443110
   other tags : railway=crossing
     geometry : [52.4658436,30.9801050]
 n3051792971  Залінейны / Zaliniejny / Залинейный / Залинейный
-  other tags : abandoned:place=hamlet | place=neighbourhood
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Гомельский район | addr:region=Гомельская область | place=neighbourhood
     geometry : [52.4941193,30.9946851]
 n3053000849
   other tags : amenity=shelter | shelter_type=public_transport
