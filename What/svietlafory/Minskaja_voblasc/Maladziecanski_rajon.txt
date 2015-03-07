@@ -1,9 +1,12 @@
+n275376362  null / null / Мыслевичи / Мыслевичи
+  other tags : highway=bus_stop
+    geometry : [54.2842720,26.8622041]
 n1282588412  null / null / Мойсичи / Мойсичи
   other tags : highway=bus_stop
     geometry : [54.2627693,26.8522890]
 n1282588439  null / null / Мыслевичи / Мыслевичи
-  other tags : highway=bus_stop
-    geometry : [54.2848072,26.8625660]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [54.2848166,26.8624141]
 n1327080277  Крынiца / null / Криница / Криница
   other tags : highway=bus_stop
     geometry : [54.2848071,26.9546638]
@@ -31,9 +34,6 @@ n2110788622
 n2114874325
   other tags : designation=Автобусная остановка | highway=bus_stop | local_ref=Носилово
     geometry : [54.3162564,26.7772013]
-n2898057224  null / null / Мыслевичи / Мыслевичи
-  other tags : highway=bus_stop
-    geometry : [54.2842824,26.8620452]
 n3166391032  null / null / Тюрли
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [54.2854020,26.8166803]
