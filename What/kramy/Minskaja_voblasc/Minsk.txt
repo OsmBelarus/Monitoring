@@ -10903,8 +10903,8 @@ n3371812405  null / null / Свилс-офт
   other tags : shop=optician
     geometry : [53.9195826,27.6013735]
 n3379263962
-  other tags : layer=-1 | opening_hours=Mo-Su 08:00-22:00 | shop=butcher
-    geometry : [53.9446701,27.6869969]
+  other tags : layer=-1 | opening_hours=Mo-Su 08:00-22:00 | operator:be=ПГУП "Мясноў" | operator:ru=ЧПТУ "Мяснов" | shop=butcher
+    geometry : [53.9446768,27.6870323]
 n3379263963  Магазін / null / Магазин / Магазин
   other tags : layer=-1 | opening_hours=Mo-Su 07:00-22:00 | shop=convenience
     geometry : [53.9447008,27.6869437]
@@ -10932,3 +10932,9 @@ n3384048118
 n3384580697
   other tags : shop=car_parts
     geometry : [53.8803328,27.4313417]
+n3386569191  Насувязі / null / Насвязи / Насвязи
+  other tags : description:be=Пункт продажу і абслугоўвання афіцыйны павераны унітарнага прадпрыемства "Вэлком" | description:ru=Пункт продажи и обслуживания официальный поверенный унитарного предприятия "Велком" | opening_hours=Mo-Su 09:00-21:00 | operator:be=ТАА "Палома Сэрвіс" | operator:ru=ООО "Палома Сервис" | shop=mobile_phone
+    geometry : [53.9447093,27.6871536]
+n3386569192  Салодкае жыццё / null / Сладкая жизнь / Сладкая жизнь
+  other tags : opening_hours=Mo-Su 07:00-22:00 | shop=confectionery
+    geometry : [53.9447302,27.6872197]
