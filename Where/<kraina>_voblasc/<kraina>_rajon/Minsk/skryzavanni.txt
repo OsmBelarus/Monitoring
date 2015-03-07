@@ -2930,7 +2930,7 @@ n920190102
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9049676,27.5532269]
 n920190135
-  other tags : highway=crossing
+  other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9064929,27.5518226]
 n920190353
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
@@ -9316,3 +9316,6 @@ n3375296814
 n3375296817
   other tags : highway=crossing
     geometry : [53.8925243,27.5674988]
+n3385510603
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9067528,27.5525308]
