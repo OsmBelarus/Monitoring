@@ -654,7 +654,7 @@ w96929262
   other tags : highway=unclassified
     geometry : n3242150790[53.1583597,24.4303155] n1123279848[53.1584088,24.4311628] n1123279847[53.1584900,24.4320443]
 w96929455
-  other tags : highway=primary | oneway=yes | ref=Р78 | surface=asphalt
+  other tags : highway=primary | note=дорога относится и к ref=Р78 так же по кадастру | oneway=yes | ref=Р99 | surface=asphalt
     geometry : n275452916[53.1511689,24.4309409] n2070443160[53.1515851,24.4306199] n1163140474[53.1516983,24.4305238]
 w96929500
   other tags : highway=unclassified
@@ -888,7 +888,7 @@ w100024762
   other tags : highway=unclassified
     geometry : n1112896637[53.1371050,24.4292093] n1124436546[53.1364807,24.4289840] n1122181090[53.1358011,24.4287480]
 w100610296
-  other tags : highway=primary | ref=Р99 | surface=asphalt
+  other tags : highway=primary | note=дорога относится и к ref=Р78 так же по кадастру | ref=Р99 | surface=asphalt
     geometry : n275452916[53.1511689,24.4309409] n1163140539[53.1507617,24.4311615] n3093681057[53.1506002,24.4313026] n275452918[53.1505032,24.4315113] n275452919[53.1504468,24.4317650] n606771596[53.1503227,24.4328225] n275452920[53.1502190,24.4333852] n606771602[53.1500446,24.4339007] n606771606[53.1498806,24.4342348] n275452921[53.1496563,24.4345835] n2049654541[53.1491393,24.4352160] n553535729[53.1488642,24.4355349]
 w100610298
   other tags : highway=primary | oneway=yes | ref=Р99 | surface=asphalt
@@ -897,7 +897,7 @@ w100610300
   other tags : highway=primary | oneway=yes | ref=Р78 | surface=asphalt
     geometry : n1123282336[53.1519956,24.4305717] n2070443161[53.1518908,24.4304127] n731120326[53.1517916,24.4302120]
 w100610308
-  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | surface=asphalt
+  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | ref=Р78 | surface=asphalt
     geometry : n275452915[53.1516146,24.4302361] n2049549125[53.1515996,24.4302947] n2049549103[53.1515972,24.4303582] n1163140509[53.1516078,24.4304193] n2049549109[53.1516301,24.4304710] n2049549123[53.1516615,24.4305072] n1163140474[53.1516983,24.4305238]
 w101990892
   other tags : highway=footway
@@ -1392,10 +1392,10 @@ w196713232
   other tags : highway=residential
     geometry : n1123806046[53.1470482,24.4533520] n1123806043[53.1484885,24.4542132]
 w196751561
-  other tags : highway=primary | oneway=yes | ref=Р99 | surface=asphalt
+  other tags : highway=primary | note=дорога относится и к ref=Р78 так же по кадастру | oneway=yes | ref=Р99 | surface=asphalt
     geometry : n275452915[53.1516146,24.4302361] n731120553[53.1514658,24.4306274] n1643851353[53.1512817,24.4308357] n275452916[53.1511689,24.4309409]
 w196751562
-  other tags : highway=primary | oneway=yes | ref=Р78 | surface=asphalt
+  other tags : highway=primary | oneway=yes | ref=Р99 | surface=asphalt
     geometry : n731120326[53.1517916,24.4302120] n2076381142[53.1516817,24.4299221] n275451293[53.1515338,24.4295131]
 w196751563
   other tags : highway=primary | ref=Р78
@@ -1416,7 +1416,7 @@ w196751570
   other tags : highway=secondary_link | junction=roundabout
     geometry : n2034686883[53.1608199,24.4550705] n2034686872[53.1608003,24.4551252] n2034686868[53.1607903,24.4551926] n2034686874[53.1607939,24.4552681]
 w196751571
-  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | surface=asphalt
+  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | ref=Р78 | surface=asphalt
     geometry : n731120326[53.1517916,24.4302120] n2049549121[53.1517693,24.4301806] n2049549114[53.1517429,24.4301597] n2049549105[53.1517141,24.4301510] n1163140536[53.1516850,24.4301550] n2049549111[53.1516575,24.4301714] n2049549126[53.1516335,24.4301990] n275452915[53.1516146,24.4302361]
 w196751572  вуліца Жолудзева / vulica Žoludzieva / улица Жолудева / улица Жолудева
   other tags : highway=secondary
@@ -2085,7 +2085,7 @@ w313060701
   other tags : highway=primary | oneway=yes | ref=Р78 | surface=asphalt
     geometry : n1163140474[53.1516983,24.4305238] n1123282336[53.1519956,24.4305717]
 w313060702
-  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | surface=asphalt
+  other tags : highway=primary | junction=roundabout | lanes=2 | note=roundabout NOT a main road by signs | ref=Р99 | surface=asphalt
     geometry : n1163140474[53.1516983,24.4305238] n2049549107[53.1517318,24.4305205] n2049549115[53.1517632,24.4305010] n2049549119[53.1517897,24.4304668] n1163140553[53.1518089,24.4304211] n2049549116[53.1518192,24.4303679] n2049549113[53.1518197,24.4303121] n2049549117[53.1518102,24.4302585] n731120326[53.1517916,24.4302120]
 w315456504
   other tags : highway=unclassified | surface=unpaved
