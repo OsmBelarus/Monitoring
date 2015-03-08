@@ -5002,7 +5002,7 @@ n1641720525
     geometry : [53.9245649,27.5915994]
 n1641721713  null / null / Доктор Вет
   other tags : opening_hours=Mo-Su 20:00-22:00 | shop=veterinary
-    geometry : [53.8748798,27.5955683]
+    geometry : [53.8749012,27.5955842]
 n1642800368
   other tags : shop=mobile_phone
     geometry : [53.9186786,27.5853527]
@@ -6218,7 +6218,7 @@ n2507675297  null / null / Лит.RA
     geometry : [53.8555911,27.6096689]
 n2507682331  null / null / ZIKO
   other tags : shop=jewelry | website=http://www.ziko.by/
-    geometry : [53.8747864,27.5954836]
+    geometry : [53.8749670,27.5956516]
 n2507700126  null / null / ТехноБай
   other tags : addr:housenumber=29 | addr:postcode=220002 | addr:street=проспект Машерова | opening_hours=Mo-Fr 09:00-18:00 | phone=+375 17 290 74 18 | shop=computer | website=http://www.technoby.com/
     geometry : [53.9167397,27.5563322]
@@ -7248,7 +7248,7 @@ n2621333887  null / null / Магазин Обои
 n2621334605
   other tags : shop=hairdresser
     geometry : [53.8680316,27.6020556]
-n2621336327  null / null / Магазин "Экспедиция"
+n2621336327  null / null / Экспедиция
   other tags : shop=outdoor
     geometry : [53.8745749,27.5951533]
 n2621342135  null / null / so-va.by, Магазин сувениров и подарков
@@ -10947,3 +10947,9 @@ n3387578204  null / null / Евроопт
 n3387578206  null / null / Техно-плюс
   other tags : shop=electronics
     geometry : [53.8713601,27.5733480]
+n3387640883  Вэлком / null / Велком
+  other tags : shop=mobile_phone
+    geometry : [53.8747044,27.5953806]
+n3387640884  МТС / null / МТС
+  other tags : shop=mobile_phone
+    geometry : [53.8747318,27.5954111]
