@@ -357,9 +357,6 @@ n1214853715
 n1214853816
   other tags : highway=bus_stop
     geometry : [52.1110254,23.7264404]
-n1223944148
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [52.0717510,23.6763349]
 n1248253819
   other tags : highway=bus_stop
     geometry : [52.1202778,23.7682719]
@@ -426,9 +423,6 @@ n1490614050  Варшаўскі Рынак / null / Варшавский рын�
 n1568668362
   other tags : highway=bus_stop
     geometry : [52.0693704,23.7044280]
-n1580881634
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [52.0724426,23.6749193]
 n1676620886  null / null / Гузнянская
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes | tactile_paving=no
     geometry : [52.0938933,23.7675154]
@@ -696,6 +690,9 @@ n2903581365
 n2923738333  null / null / Автобусный парк №1
   other tags : highway=bus_stop
     geometry : [52.1020992,23.7457508]
+n3012004834
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.0716818,23.6762432]
 n3081634867  null / null / Интертранс
   other names: name:en=Intertrans
   other tags : highway=bus_stop | shelter=yes
@@ -742,3 +739,6 @@ n3308180205  null / null / Пугачево
 n3308305725
   other tags : highway=bus_stop
     geometry : [52.0688480,23.7331305]
+n3389342989
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.0724999,23.6750807]
