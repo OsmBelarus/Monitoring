@@ -1,5 +1,5 @@
 w25272206
-  other tags : highway=tertiary | surface=asphalt
+  other tags : addr:city=Старобин | highway=tertiary | lanes=2 | maxspeed=70 | surface=asphalt
     geometry : n275340669[52.7585800,27.4646200] n275340637[52.7509229,27.4649451] n275340658[52.7412220,27.4654032]
 w39489835  Паркавая вуліца / null / Парковая улица
   other tags : highway=residential
@@ -200,9 +200,6 @@ w42780950
 w80503261
   other tags : highway=road | surface=concrete
     geometry : n939122996[52.7386454,27.4709701] n473045338[52.7395061,27.4765474] n473044365[52.7396435,27.4779212] n1341049412[52.7397926,27.4801283] n1312214082[52.7402237,27.4817648]
-w80503262
-  other tags : highway=unclassified
-    geometry : n473045727[52.7378673,27.4654740] n473046474[52.7383811,27.4660835] n473044720[52.7408708,27.4694764] n473046832[52.7431873,27.4719346] n473046916[52.7483954,27.4761943]
 w111541134
   other tags : foot=yes | highway=footway | layer=5 | surface=paved | width=2
     geometry : n473000875[52.7281100,27.4695900] n1270518783[52.7279725,27.4714774]

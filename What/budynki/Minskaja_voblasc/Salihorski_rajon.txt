@@ -998,7 +998,7 @@ w113511018  null / null / Процент%
   other tags : building=yes | opening_hours=Mo-Su 08:00-22:00 | shop=convenience
     geometry : n1286839340[52.7520108,27.4499693] n1286839338[52.7520105,27.4498405] n1286839334[52.7522488,27.4498566] n1286839343[52.7522365,27.4501162] n1286839341[52.7519973,27.4501006] n1286839340[52.7520108,27.4499693]
 w119321370  null / null / Гидроэлектростанция
-  other tags : building=yes | power=generator | power_source=hydro
+  other tags : addr:city=Старобин | building=yes | generator:method=run-of-the-river | generator:source=hydro | generator:type=steam_turbine | power=generator | power_source=hydro
     geometry : n1341081230[52.7364276,27.4885433] n1341081178[52.7362465,27.4885341] n1341081228[52.7362437,27.4890312] n1341081199[52.7364694,27.4890312] n1341081202[52.7364722,27.4886399] n1341081230[52.7364276,27.4885433]
 w123795018  СТА / null / СТО / СТО
   other tags : addr:housenumber=55А | addr:street=Центральная улица | building=yes | opening_hours=Mo-Su 08:00-20:00 | shop=car_repair
