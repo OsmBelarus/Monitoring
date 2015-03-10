@@ -1218,7 +1218,7 @@ n1305904619  Чаравічак / null / Башмачок
     geometry : [55.1767364,30.2344221]
 n1305904620  Віцебскрамбыт / null / Витрембыт
   other tags : office=company
-    geometry : [55.1774636,30.2482857]
+    geometry : [55.1774622,30.2482863]
 n1306157907
   other tags : amenity=waste_disposal
     geometry : [55.1947884,30.2335067]
@@ -8270,7 +8270,7 @@ n2967829880
   other tags : amenity=post_box
     geometry : [55.2040577,30.1922593]
 n2968650973  Віцебскгаз / null / Витебскгаз
-  other tags : office=company | opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-17:00
+  other tags : addr:city=Витебск | addr:housenumber=3 | addr:street=улица Терешковой | office=company | opening_hours=Mo-Fr 08:00-20:00;Sa 08:00-17:00 | smoking=no
     geometry : [55.1776038,30.2471832]
 n2968650999
   other tags : entrance=main
