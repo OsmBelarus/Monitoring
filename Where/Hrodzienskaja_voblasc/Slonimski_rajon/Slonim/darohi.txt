@@ -1095,10 +1095,10 @@ w119059718  Камуністычная вуліца / Kamunistyčnaja vulica / �
   other tags : hgv=no | highway=tertiary | lanes=2 | maxspeed=40 | surface=asphalt
     geometry : n470054388[53.0964617,25.3148539] n448173499[53.0974777,25.3158712] n448173496[53.0986997,25.3165432]
 w119128978
-  other tags : highway=primary | ref=Р99
+  other tags : highway=primary | lanes=2 | ref=Р99
     geometry : n1339372697[53.0712624,25.2698211] n824470277[53.0708756,25.2703874]
 w119128979
-  other tags : bridge=yes | highway=primary | layer=1 | ref=Р99
+  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | ref=Р99
     geometry : n1339372696[53.0727602,25.2676668] n1339372697[53.0712624,25.2698211]
 w119128980  праспект Незалежнасці / praspiekt Niezaliežnasci / проспект Независимости / проспект Независимости
   other names: name:en=Nezavisimosti av.
@@ -1127,7 +1127,7 @@ w120460510
   other tags : highway=primary_link | lanes=2
     geometry : n1350672711[53.0740566,25.2673400] n2795175651[53.0734288,25.2703469] n443968094[53.0731952,25.2706960]
 w120463766
-  other tags : highway=primary | ref=Р99
+  other tags : highway=primary | lanes=2 | ref=Р99
     geometry : n1350672713[53.0734825,25.2666510] n1339372696[53.0727602,25.2676668]
 w120464540  Брэсцкая вуліца / Bresckaja vulica / Брестская улица / Брестская улица
   other tags : goods=yes | hgv=no | highway=primary | lanes=4 | maxspeed=40 | ref=Р85 | surface=asphalt
