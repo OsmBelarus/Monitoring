@@ -2138,7 +2138,7 @@ n2626920721  null / null / Dolce Vita
   other tags : addr:housenumber=22 | addr:postcode=220108 | addr:street=улица Ландера | amenity=cafe | cuisine=confectionery | internet_access=no | opening_hours=Mo-Su 8:00-23:00 | phone=Тел.: +375 (17) 278-51-38
     geometry : [53.8401198,27.4969508]
 n2628176686  null / null / T-bar sushi
-  other tags : amenity=cafe
+  other tags : amenity=cafe | cuisine=japanese
     geometry : [53.9382057,27.4861805]
 n2628184408  null / null / Пицца "Темпо"
   other tags : amenity=cafe | cuisine=pizza
@@ -2148,13 +2148,13 @@ n2628187025  null / null / Good burger
     geometry : [53.9381773,27.4888230]
 n2628188194  null / null / Smetana
   other tags : amenity=cafe
-    geometry : [53.9382421,27.4884811]
-n2628190201  null / null / Tiamo
+    geometry : [53.9382179,27.4886126]
+n2628190201  null / null / Ti amo
   other tags : amenity=cafe
-    geometry : [53.9382223,27.4885790]
-n2628196058  null / null / manga
+    geometry : [53.9381958,27.4887119]
+n2628196058  null / null / Manga
   other tags : amenity=cafe
-    geometry : [53.9381631,27.4889142]
+    geometry : [53.9381595,27.4889264]
 n2628196646  null / null / Amato
   other tags : amenity=cafe
     geometry : [53.9380001,27.4858968]
@@ -2726,6 +2726,12 @@ n3384000411  null / null / Пирамида
 n3384048119  Бліновая Масленіца / null / Блинная Масленица / Блинная Масленица
   other tags : amenity=fast_food | layer=-1
     geometry : [53.9448333,27.6873938]
+n3390820524  null / null / Dillos
+  other tags : amenity=restaurant | cuisine=italian
+    geometry : [53.9380837,27.4892376]
+n3390820525  null / null / Батуми
+  other tags : amenity=restaurant | cuisine=georgian
+    geometry : [53.9380591,27.4893351]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
