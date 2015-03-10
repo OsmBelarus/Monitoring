@@ -1,15 +1,15 @@
-n1039972056  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank | atm=no
-    geometry : [53.8968051,25.2680512]
-n1131427305
-  other tags : amenity=bank | atm=yes
-    geometry : [53.8931844,25.2983558]
-n1369285660  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank
+n1039972056  null / null / Беларусбанк. Филиал №413/1
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-14:00 | operator=Беларусбанк | phone=+375 154 55-17-28 | website=http://belarusbank.by/
+    geometry : [53.8968021,25.2680358]
+n1131427305  null / null / Беларусбанк. Филиал №413/52
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-15:00 | operator=Беларусбанк | phone=+375 154 53-92-80 | website=http://belarusbank.by/
+    geometry : [53.8931707,25.2983403]
+n1369285660  null / null / Беларусбанк. Филиал №413/54
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-18:30 | operator=Беларусбанк | phone=+375 154 53-18-79 | website=http://belarusbank.by/
     geometry : [53.8991819,25.3107999]
-n1429798811  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank | atm=yes
-    geometry : [53.8847829,25.2959502]
+n1429798811  null / null / Беларусбанк. Филиал №413/50
+  other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-14:00 | operator=Беларусбанк | phone=+375 154 52-07-94 | website=http://belarusbank.by/
+    geometry : [53.8847863,25.2959675]
 n1531542441  null / null / ОАО "Белгазпромбанк" / ОАО "Белгазпромбанк"
   other tags : addr:housenumber=12 | addr:street=Фабричная улица | amenity=bank | atm=yes
     geometry : [53.8983043,25.2905929]
@@ -55,6 +55,33 @@ n3390611516  null / null / Белагропромбанк. РКЦ №17
 n3390616147  null / null / Беларусбанк. Филиал №413
   other tags : amenity=bank | opening_hours=Mo-Th 08:30-12:30,13:15-17:00; Fr 08:30-12:30,13:15-15:30 | operator=Беларусбанк | phone=+375 154 53-91-05 | website=http://belarusbank.by/
     geometry : [53.8917829,25.3049086]
+n3390762643  null / null / Беларусбанк. Обменный пункт №413/1
+  other tags : amenity=bank | opening_hours=Tu-Fr 10:00-14:00,15:00-19:30; Sa 10:30-14:00,15:00-18:00; Su 10:30-14:00,15:00-18:00 | operator=Беларусбанк | phone=+375 154 52-63-57 | website=http://belarusbank.by/
+    geometry : [53.8875250,25.2921001]
+n3390762644  null / null / Беларусбанк. Обменный пункт №413/2
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-14:00,15:00-20:00; Sa 09:00-14:00,15:00-19:00; Su 09:00-14:00,15:00-19:00 | operator=Беларусбанк | phone=+375 154 53-22-75 | website=http://belarusbank.by/
+    geometry : [53.8922091,25.2957363]
+n3390762645  null / null / Беларусбанк. Обменный пункт №413/3
+  other tags : amenity=bank | opening_hours=Tu-Sa 09:20-13:15,13:35-15:00; Su 09:20-13:15,13:35-15:00 | operator=Беларусбанк | phone=+375 154 52-24-76 | website=http://belarusbank.by/
+    geometry : [53.8840786,25.3025703]
+n3390762646  null / null / Беларусбанк. Обменный пункт №413/4
+  other tags : amenity=bank | opening_hours=Mo-Sa 10:00-13:30,14:30-20:00; Su 10:00-13:30,14:30-19:00 | operator=Беларусбанк | phone=+375 154 55-17-29 | website=http://belarusbank.by/
+    geometry : [53.8990872,25.2607891]
+n3390762647  null / null / Беларусбанк. Обменный пункт №413/5
+  other tags : amenity=bank | opening_hours=Mo-Fr 10:15-15:00,16:00-19:30; Sa 10:15-15:00,16:00-20:00; Su 10:15-15:00,16:00-19:30 | operator=Беларусбанк | phone=+375 154 53-14-03 | website=http://belarusbank.by/
+    geometry : [53.8935243,25.2999190]
+n3390762648  null / null / Беларусбанк. Обменный пункт №413/6
+  other tags : amenity=bank | opening_hours=Tu-Sa 09:45-14:30,15:30-20:30; Su 09:45-13:00,13:30-17:30 | operator=Беларусбанк | phone=+375 154 54-74-45 | website=http://belarusbank.by/
+    geometry : [53.8721396,25.2818645]
+n3390762649  null / null / Беларусбанк. Филиал №413/48
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-14:00,15:15-18:00; Sa 09:00-11:00,11:20-13:00 | operator=Беларусбанк | phone=+375 154 55-88-33 | website=http://belarusbank.by/
+    geometry : [53.9361245,25.2743491]
+n3390762650  null / null / Беларусбанк. Филиал №413/55
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-14:00 | operator=Беларусбанк | phone=+375 154 55-67-16 | website=http://belarusbank.by/
+    geometry : [53.8786792,25.3301790]
+n3390762651  null / null / Беларусбанк. Филиал №413/7
+  other tags : amenity=bank | opening_hours=Mo-Fr 08:00-17:30; Sa 08:30-14:00 | operator=Беларусбанк | phone=+375 154 60-68-62 | website=http://belarusbank.by/
+    geometry : [53.8934280,25.3022924]
 w53448064
   other tags : addr:housenumber=10 | addr:street=Советская улица | amenity=bank | building=yes
     geometry : n675592720[53.8919956,25.3048604] n675592724[53.8919928,25.3051130] n675592726[53.8917608,25.3051054] n675592727[53.8917593,25.3052390] n675592729[53.8914996,25.3052306] n675592723[53.8915011,25.3050964] n675592722[53.8915040,25.3048443] n675592720[53.8919956,25.3048604]
