@@ -1,9 +1,6 @@
 n306068024  null / null / Храм В Честь Рождества Пресвятой Богородицы 1881Г. / Храм В Честь Рождества Пресвятой Богородицы 1881Г.
   other tags : amenity=place_of_worship
     geometry : [52.0624900,31.2743000]
-n306068078  null / null / Храм Во Имя Св. Великомучкницы Екатерины 1822Г. / Храм Во Имя Св. Великомучкницы Екатерины 1822Г.
-  other tags : amenity=place_of_worship
-    geometry : [52.1040300,31.1991100]
 n577368227
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [52.4690397,30.9196088]
@@ -25,3 +22,9 @@ w316773456  null / null / Церковь
 w316773685  null / null / Церковь
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : n3229535866[52.3454694,30.9675089] n3229535864[52.3453634,30.9677261] n3229535865[52.3454573,30.9678489] n3229535867[52.3455633,30.9676317] n3229535866[52.3454694,30.9675089]
+w331953634  Царква Святой пакутніцы Кацярыны / null / Церковь Святой мученицы Екатерины / Храм Во Имя Св. Великомучкницы Екатерины 1822Г.
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian | tourism=attraction
+    geometry : n3390560470[52.1029234,31.1997723] n3390560471[52.1029442,31.2000788] n3390560469[52.1027387,31.2001156] n3390560468[52.1027180,31.1998091] n3390560470[52.1029234,31.1997723]
+w331953635  Царква Успення Прасвятой Багародзіцы / null / Церковь Успения Пресвятой Богородицы
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian | tourism=attraction
+    geometry : n3390560944[52.1317879,31.2717466] n3390560947[52.1317951,31.2714463] n3390560952[52.1319495,31.2714562] n3390560951[52.1319422,31.2717565] n3390560944[52.1317879,31.2717466]
