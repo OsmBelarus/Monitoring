@@ -34,9 +34,9 @@ n2655966348  null / null / Белагропромбанк
 n2853192182  null / null / Беларусбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8928114,25.2739574]
-n2853462222
-  other tags : amenity=atm | operator=Беларусбанк
-    geometry : [53.8965047,25.2676530]
+n2853462222  null / null / БПС-Сбербанк ATM11518
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8964320,25.2675735]
 n3126183808
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [53.8816726,25.2803491]
@@ -49,9 +49,9 @@ n3126189180  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3126204661  null / null / Белгазпромбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=09:00-23:00 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8915767,25.2561248]
-n3126226666
-  other tags : amenity=atm
-    geometry : [53.8720817,25.2819190]
+n3126226666  null / null / БПС-Сбербанк ATM12290
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8720808,25.2819015]
 n3127098670  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [53.8971125,25.3034240]
@@ -79,8 +79,8 @@ n3127131030  null / null / Белинвестбанк №21
 n3127135759  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [53.8827974,25.2954257]
-n3127162038  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm
+n3127162038  null / null / БПС-Сбербанк ATM12218
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
     geometry : [53.9037604,25.2590283]
 n3216462723
   other tags : amenity=atm
@@ -343,3 +343,30 @@ n3392152512  null / null / Белинвестбанк. Инфокиоск
 n3392152513  null / null / Белинвестбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=Mo-Fr 08:30-17:30 | operator=Белинвестбанк | website=http://belinvestbank.by/
     geometry : [53.9021248,25.3182347]
+n3392331551  null / null / БПС-Сбербанк ATM10643
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8946701,25.2916790]
+n3392331552  null / null / БПС-Сбербанк ATM10892
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8771636,25.2780900]
+n3392331553  null / null / БПС-Сбербанк ATM11054
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8901711,25.2863472]
+n3392331554  null / null / БПС-Сбербанк ATM12344
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8854341,25.3001735]
+n3392331555  null / null / БПС-Сбербанк. Инфокиоск INF80037
+  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:00 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8946421,25.2916872]
+n3392331556  null / null / БПС-Сбербанк. Инфокиоск INF80200
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.9022510,25.2933090]
+n3392331557  null / null / БПС-Сбербанк. Инфокиоск INF80201
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.9025921,25.2945610]
+n3392331558  null / null / БПС-Сбербанк. Инфокиоск INF80296
+  other tags : amenity=atm | opening_hours=Mo-Fr 10:00-18:00 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8770706,25.2780503]
+n3392331559  null / null / БПС-Сбербанк. Инфокиоск INF80319
+  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:30 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+    geometry : [53.8854171,25.3002593]
