@@ -74,7 +74,7 @@ w53454076
   other tags : building=apartments
     geometry : n675636234[53.8969761,25.2980028] n675636236[53.8970420,25.2983624] n675636235[53.8969361,25.2984184] n675636226[53.8968702,25.2980588] n675636234[53.8969761,25.2980028]
 w53454077
-  other tags : addr:housenumber=17 | addr:street=улица Мицкевича | building=apartments
+  other tags : addr2:housenumber=17 | addr2:street=улица Мицкевича | addr:housenumber=35 | addr:street=Советская улица | building=apartments
     geometry : n675636238[53.8965121,25.2993558] n675636240[53.8966019,25.2992257] n675636245[53.8968099,25.2996389] n734227324[53.8967202,25.2997690] n675636239[53.8967135,25.2997558] n675636238[53.8965121,25.2993558]
 w53454081
   other tags : addr:housenumber=15 | addr:street=улица Мицкевича | building=apartments
@@ -1601,7 +1601,7 @@ w65676034
   other tags : addr:housenumber=19 | addr:street=улица Южный Городок | building=apartments | building:levels=5
     geometry : n800569584[53.8748140,25.3402865] n800569702[53.8748463,25.3404481] n800569787[53.8741773,25.3408334] n800569447[53.8741450,25.3406717] n800569584[53.8748140,25.3402865]
 w65676040
-  other tags : addr:housenumber=21 | addr:street=улица Южный Городок | building=apartments | building:levels=5
+  other tags : addr:housenumber=21а | addr:street=улица Южный Городок | building=apartments | building:levels=5
     geometry : n800569555[53.8746825,25.3346364] n800569734[53.8747203,25.3348688] n800569811[53.8745379,25.3349540] n800570002[53.8745002,25.3347216] n800569555[53.8746825,25.3346364]
 w65676044
   other tags : addr:housenumber=15 | addr:street=улица Южный Городок | building=apartments | building:levels=5
@@ -1616,7 +1616,7 @@ w65676059
   other tags : addr:housenumber=1 | addr:street=улица Южный Городок | building=apartments | building:levels=2
     geometry : n800569793[53.8758207,25.3401926] n800570001[53.8756473,25.3407460] n800569933[53.8755057,25.3406183] n800569726[53.8756792,25.3400649] n800569793[53.8758207,25.3401926]
 w65676064
-  other tags : addr:street=улица Южный Городок | building=apartments
+  other tags : addr:housenumber=22а | addr:street=улица Южный Городок | building=apartments
     geometry : n800569527[53.8759681,25.3445558] n800569985[53.8758194,25.3450181] n800569741[53.8756832,25.3448921] n800569634[53.8758318,25.3444298] n800569527[53.8759681,25.3445558]
 w65676070
   other tags : addr:housenumber=8 | addr:street=улица Южный Городок | building=apartments | building:levels=2
@@ -13342,3 +13342,6 @@ w327986006
 w327986008
   other tags : building=house
     geometry : n3348034190[53.8603880,25.2909743] n3348034191[53.8604341,25.2911210] n3348034192[53.8603621,25.2911861] n3348034193[53.8603160,25.2910394] n3348034190[53.8603880,25.2909743]
+w332127956
+  other tags : addr:housenumber=13б | addr:street=2-й переулок Розы Люксембург | building=house | shop=convenience
+    geometry : n3392484884[53.8783896,25.3098799] n3392484886[53.8784549,25.3097941] n3392484887[53.8785098,25.3099143] n3392484885[53.8784445,25.3100001] n3392484884[53.8783896,25.3098799]

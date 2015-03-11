@@ -43,9 +43,9 @@ n3126183808
 n3126186376
   other tags : amenity=atm | operator=Францбанк
     geometry : [53.8793462,25.2755825]
-n3126189180  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
-    geometry : [53.8784987,25.2797399]
+n3126189180  null / null / ПейНэт. Терминал CDX0502
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8788077,25.2794232]
 n3126204661  null / null / Белгазпромбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=09:00-23:00 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8915767,25.2561248]
@@ -67,9 +67,6 @@ n3127109992  null / null / Францбанк / Францбанк
 n3127110108  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [53.8896836,25.2991217]
-n3127111721  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm
-    geometry : [53.8893686,25.2924427]
 n3127119613  null / null / Белгосстрах / Белгосстрах
   other tags : amenity=atm
     geometry : [53.8947255,25.2919489]
@@ -370,3 +367,84 @@ n3392331558  null / null / БПС-Сбербанк. Инфокиоск INF80296
 n3392331559  null / null / БПС-Сбербанк. Инфокиоск INF80319
   other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:30 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
     geometry : [53.8854171,25.3002593]
+n3392484853  null / null / ПейНэт. Терминал CDX0619
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8784661,25.3099148]
+n3392484854  null / null / ПейНэт. Терминал CDX0815
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8926906,25.2550731]
+n3392484855  null / null / ПейНэт. Терминал CDX0816
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8966973,25.2996319]
+n3392484856  null / null / ПейНэт. Терминал CDX0910
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8780937,25.2780190]
+n3392484857  null / null / ПейНэт. Терминал CDX0911
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8718103,25.2818743]
+n3392484858  null / null / ПейНэт. Терминал CDX0912
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8935873,25.2995308]
+n3392484859  null / null / ПейНэт. Терминал CDX1042
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8742482,25.2871749]
+n3392484860  null / null / ПейНэт. Терминал CDX1044
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8938047,25.3244627]
+n3392484861  null / null / ПейНэт. Терминал CDX1045
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8935903,25.2993228]
+n3392484862  null / null / ПейНэт. Терминал CDX1047
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8743946,25.3340060]
+n3392484863  null / null / ПейНэт. Терминал CDX1185
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8894421,25.2928186]
+n3392484864  null / null / ПейНэт. Терминал CDX1186
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.9023484,25.2939546]
+n3392484865  null / null / ПейНэт. Терминал CDX1187
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8699907,25.2855074]
+n3392484866  null / null / ПейНэт. Терминал CDX1188
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.9317950,25.2651798]
+n3392484867  null / null / ПейНэт. Терминал CDX1189
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.9330746,25.2642161]
+n3392484868  null / null / ПейНэт. Терминал CDX1190
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8977498,25.2722887]
+n3392484869  null / null / ПейНэт. Терминал CDX1191
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8783841,25.2785737]
+n3392484870  null / null / ПейНэт. Терминал CDX1192
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8764733,25.3409692]
+n3392484871  null / null / ПейНэт. Терминал CDX1193
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8952569,25.3233963]
+n3392484872  null / null / ПейНэт. Терминал CDX1257
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8955633,25.3181795]
+n3392484873  null / null / ПейНэт. Терминал CDX1258
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8905123,25.2986101]
+n3392484874  null / null / ПейНэт. Терминал CDX1370
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8978323,25.2782922]
+n3392484875  null / null / ПейНэт. Терминал CDX1371
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8907825,25.2995715]
+n3392484876  null / null / ПейНэт. Терминал CDX1372
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8973012,25.3083716]
+n3392484877  null / null / ПейНэт. Терминал CDX1373
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.9092417,25.2861026]
+n3392484878  null / null / ПейНэт. Терминал CDX1439
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8916079,25.2561090]
+n3392484879  null / null / ПейНэт. Терминал CDX1490
+  other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
+    geometry : [53.8794768,25.2757896]
