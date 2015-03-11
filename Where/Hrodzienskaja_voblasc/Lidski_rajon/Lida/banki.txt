@@ -92,7 +92,7 @@ n3392152516  null / null / Белинвестбанк. УРМ ЦБУ №228
   other tags : amenity=bank | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-17:45; Sa 09:00-12:00,12:30-15:00 | operator=Белинвестбанк | phone=+375 154 53-26-01 | website=http://belinvestbank.by/
     geometry : [53.8935852,25.3006000]
 n3392152517  null / null / Белинвестбанк. УРМ ЦБУ №228
-  other tags : amenity=bank | opening_hours=Tu-Fr 10:20-14:30,15:00-19:00; Sa 10:2-14:20 | operator=Белинвестбанк | phone=+375 154 55-10-77 | website=http://belinvestbank.by/
+  other tags : amenity=bank | opening_hours=Tu-Fr 10:20-14:30,15:00-19:00; Sa 10:20-14:20 | operator=Белинвестбанк | phone=+375 154 55-10-77 | website=http://belinvestbank.by/
     geometry : [53.8985642,25.2567602]
 n3392152518  null / null / Белинвестбанк. УРМ ЦБУ №228
   other tags : amenity=bank | opening_hours=Tu-Fr 09:40-15:00,16:00-19:00; Sa 10:00-15:00,16:00-18:15; Su 10:00-15:00,16:00-18:15 | operator=Белинвестбанк | phone=+375 154 57-38-77 | website=http://belinvestbank.by/
@@ -109,6 +109,15 @@ n3392331561  null / null / БПС-Сбербанк. Центр банковск�
 n3392331562  null / null / БПС-Сбербанк. Центр банковских услуг №401/2
   other tags : amenity=bank | opening_hours=Mo-Fr 09:00-14:00,15:00-18:30 | operator=БПС-Сбербанк | phone=+375 154 60-59-44 | website=http://bps-sberbank.by/
     geometry : [53.8854005,25.3002588]
+n3392405025  null / null / Дельта банк. Центр банковских услуг №0420
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-12:30,13:00-16:00 | operator=Дельта Банк | phone=+375 154 55-10-07 | website=https://deltabank.by/
+    geometry : [53.8985232,25.2567733]
+n3392405026  null / null / Евроторгинвестбанк. УРМ №410 Евроопт
+  other tags : amenity=bank | opening_hours=Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 10:00-21:00 | operator=Евроторгинвестбанк | phone=+375 44 566-61-78 | website=http://etib.by/
+    geometry : [53.8917501,25.2564458]
+n3392405027  null / null / Евроторгинвестбанк. ЦБУ №401
+  other tags : amenity=bank | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-17:00 | operator=Евроторгинвестбанк | phone=+375 154 56-03-98 | website=http://etib.by/
+    geometry : [53.8917890,25.2564128]
 w53448064
   other tags : addr:housenumber=10 | addr:street=Советская улица | amenity=bank | building=yes
     geometry : n675592720[53.8919956,25.3048604] n675592724[53.8919928,25.3051130] n675592726[53.8917608,25.3051054] n675592727[53.8917593,25.3052390] n675592729[53.8914996,25.3052306] n675592723[53.8915011,25.3050964] n675592722[53.8915040,25.3048443] n675592720[53.8919956,25.3048604]
