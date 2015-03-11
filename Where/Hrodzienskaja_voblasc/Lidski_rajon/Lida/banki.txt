@@ -11,7 +11,7 @@ n1429798811  null / null / Беларусбанк. Филиал №413/50
   other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-14:00 | operator=Беларусбанк | phone=+375 154 52-07-94 | website=http://belarusbank.by/
     geometry : [53.8847495,25.2960107]
 n1531542441  null / null / Белгазпромбанк. ЦБУ №402
-  other tags : amenity=bank | atm=yes | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 10:00-16:00 | operator=Белгазпромбанк | phone=+375 154 56-72-36 | website=http://belgazprombank.by/
+  other tags : amenity=bank | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 10:00-16:00 | operator=Белгазпромбанк | phone=+375 154 56-72-36 | website=http://belgazprombank.by/
     geometry : [53.8983351,25.2905847]
 n1531555711
   other tags : amenity=bank
@@ -82,17 +82,35 @@ n3390762650  null / null / Беларусбанк. Филиал №413/55
 n3390762651  null / null / Беларусбанк. Филиал №413/7
   other tags : amenity=bank | opening_hours=Mo-Fr 08:00-17:30; Sa 08:30-14:00 | operator=Беларусбанк | phone=+375 154 60-68-62 | website=http://belarusbank.by/
     geometry : [53.8934280,25.3022924]
+n3392152514  null / null / Белинвестбанк. УРМ ЦБУ №228
+  other tags : amenity=bank | opening_hours=09:30-15:00,16:00-20:00 | operator=Белинвестбанк | phone=+375 29 188-09-06 | website=http://belinvestbank.by/
+    geometry : [53.8904946,25.2987922]
+n3392152515  null / null / Белинвестбанк. УРМ ЦБУ №228
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-14:00,15:00-17:30; Sa 09:30-12:00,12:30-15:00; Su 09:30-12:00,12:30-15:00 | operator=Белинвестбанк | phone=+375 154 52-35-18 | website=http://belinvestbank.by/
+    geometry : [53.8913254,25.2965045]
+n3392152516  null / null / Белинвестбанк. УРМ ЦБУ №228
+  other tags : amenity=bank | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-17:45; Sa 09:00-12:00,12:30-15:00 | operator=Белинвестбанк | phone=+375 154 53-26-01 | website=http://belinvestbank.by/
+    geometry : [53.8935852,25.3006000]
+n3392152517  null / null / Белинвестбанк. УРМ ЦБУ №228
+  other tags : amenity=bank | opening_hours=Tu-Fr 10:20-14:30,15:00-19:00; Sa 10:2-14:20 | operator=Белинвестбанк | phone=+375 154 55-10-77 | website=http://belinvestbank.by/
+    geometry : [53.8985642,25.2567602]
+n3392152518  null / null / Белинвестбанк. УРМ ЦБУ №228
+  other tags : amenity=bank | opening_hours=Tu-Fr 09:40-15:00,16:00-19:00; Sa 10:00-15:00,16:00-18:15; Su 10:00-15:00,16:00-18:15 | operator=Белинвестбанк | phone=+375 154 57-38-77 | website=http://belinvestbank.by/
+    geometry : [53.9037206,25.2587401]
+n3392152519  null / null / Белинвестбанк. Центр банковских услуг №228
+  other tags : amenity=bank | opening_hours=Mo-Th 09:00-13:00,13:45-16:00; Fr 09:00-13:00,13:45-15:00 | operator=Белинвестбанк | phone=+375 154 53-29-90 | website=http://belinvestbank.by/
+    geometry : [53.9021043,25.3182317]
 w53448064
   other tags : addr:housenumber=10 | addr:street=Советская улица | amenity=bank | building=yes
     geometry : n675592720[53.8919956,25.3048604] n675592724[53.8919928,25.3051130] n675592726[53.8917608,25.3051054] n675592727[53.8917593,25.3052390] n675592729[53.8914996,25.3052306] n675592723[53.8915011,25.3050964] n675592722[53.8915040,25.3048443] n675592720[53.8919956,25.3048604]
-w53454067  null / null / null / Белинвестбанк
-  other tags : addr:housenumber=6 | addr:street=улица Кирова | amenity=bank | atm=yes | building=yes | operator=Белинвестбанк | website=http://www.belinvestbank.by/
-    geometry : n675636179[53.8937041,25.3004769] n675636181[53.8936876,25.3010770] n675636183[53.8935044,25.3010626] n1131427159[53.8935169,25.3006075] n675636184[53.8935208,25.3004625] n675636179[53.8937041,25.3004769]
+w53454067
+  other tags : addr:housenumber=6 | addr:street=улица Кирова | amenity=bank | atm=yes | building=yes
+    geometry : n675636179[53.8937041,25.3004769] n675636181[53.8936876,25.3010770] n675636183[53.8935044,25.3010626] n675636184[53.8935208,25.3004625] n675636179[53.8937041,25.3004769]
 w53521412
   other tags : addr:housenumber=17 | addr:street=Советская улица | amenity=bank | atm=yes | building=yes
     geometry : n676209618[53.8934824,25.3022430] n676209615[53.8936157,25.3022334] n676209617[53.8936228,25.3024936] n676209609[53.8934215,25.3025284] n676209610[53.8933064,25.3023483] n676209612[53.8933255,25.3019584] n676209614[53.8934863,25.3019820] n676209618[53.8934824,25.3022430]
-w53883985  null / null / ОАО Белинвестбанк отд. №228 / ОАО Белинвестбанк отд. №228
-  other tags : addr:housenumber=39 | addr:street=улица Мицкевича | amenity=bank | building=yes | opening_hours=Tu-Th 08:30-17:30; Fr 08:30-16:15 | operator=Белинвестбанк
+w53883985
+  other tags : addr:housenumber=39 | addr:street=улица Мицкевича | amenity=bank | building=yes
     geometry : n680194584[53.9021984,25.3179137] n680194606[53.9022486,25.3181145] n680194608[53.9021646,25.3181749] n680194607[53.9022324,25.3184461] n680194603[53.9021520,25.3185039] n680194604[53.9020341,25.3180319] n680194584[53.9021984,25.3179137]
 w58516590  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : addr:housenumber=6А | addr:street=улица Мицкевича | amenity=bank | atm=yes | building=yes | operator=БПС-Сбербанк
