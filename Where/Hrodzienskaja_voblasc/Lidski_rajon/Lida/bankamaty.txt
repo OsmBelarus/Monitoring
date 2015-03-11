@@ -49,8 +49,8 @@ n3126186376
 n3126189180  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [53.8784987,25.2797399]
-n3126204661  null / null / Банкомат / Банкомат
-  other tags : amenity=atm | operator=Беларусбанк
+n3126204661  null / null / Белгазпромбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=09:00-23:00 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8915767,25.2561248]
 n3126226666
   other tags : amenity=atm
@@ -307,3 +307,12 @@ n3390915267  null / null / Беларусбанк. Инфокиоск
 n3390915268  null / null / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9317034,25.2652405]
+n3392124194  null / null / Белгазпромбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Белгазпромбанк | website=http://belgazprombank.by/
+    geometry : [53.8852950,25.2951257]
+n3392124195  null / null / Белгазпромбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Белгазпромбанк | website=http://belgazprombank.by/
+    geometry : [53.8983104,25.2904448]
+n3392124196  null / null / Белгазпромбанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=24/7 | operator=Белгазпромбанк | website=http://belgazprombank.by/
+    geometry : [53.8982990,25.2903871]
