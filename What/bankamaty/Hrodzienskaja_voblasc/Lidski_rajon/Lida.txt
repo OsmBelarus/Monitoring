@@ -7,18 +7,18 @@ n1115543948  null / null / Беларусбанк
 n1131427244  null / null / Беларусбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8931681,25.2985310]
-n1131427289
-  other tags : amenity=atm | operator=Приорбанк
-    geometry : [53.8929826,25.2965196]
-n1131427296
-  other tags : amenity=atm | operator=Приорбанк
+n1131427289  null / null / Приорбанк №50
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8929840,25.2965015]
+n1131427296  null / null / Приорбанк №208
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
     geometry : [53.8934870,25.2999196]
 n1131427330  null / null / Паритетбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Паритетбанк | website=http://paritetbank.by/
     geometry : [53.8904626,25.2986149]
-n1429798823
-  other tags : amenity=atm | operator=Приорбанк
-    geometry : [53.8847789,25.2985610]
+n1429798823  null / null / Приорбанк №609
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8847374,25.2982303]
 n1531542365
   other tags : amenity=atm
     geometry : [53.8985003,25.2903783]
@@ -52,9 +52,6 @@ n3126204661  null / null / Белгазпромбанк
 n3126226666  null / null / БПС-Сбербанк ATM12290
   other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
     geometry : [53.8720808,25.2819015]
-n3127098670  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
-    geometry : [53.8971125,25.3034240]
 n3127099378  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [53.8947670,25.3090245]
@@ -78,7 +75,7 @@ n3127135759  Беларусбанк / Bielarusbank / Беларусбанк / Б
     geometry : [53.8827974,25.2954257]
 n3127162038  null / null / БПС-Сбербанк ATM12218
   other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
-    geometry : [53.9037604,25.2590283]
+    geometry : [53.9037427,25.2589709]
 n3216462723
   other tags : amenity=atm
     geometry : [53.8904936,25.2946678]
@@ -463,3 +460,51 @@ n3393422978  null / null / Паритетбанк
 n3393422979  null / null / Паритетбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=Mo-Th 09:00-17:30; Fr 09:00-16:15 | operator=Паритетбанк | website=http://paritetbank.by/
     geometry : [53.8933998,25.3015356]
+n3393573694  null / null / Приорбанк №109
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.9317226,25.2653289]
+n3393573695  null / null / Приорбанк №149
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8955288,25.3182044]
+n3393573696  null / null / Приорбанк №195
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8780507,25.2780403]
+n3393573697  null / null / Приорбанк №231
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8911196,25.2863520]
+n3393573698  null / null / Приорбанк №616
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8795155,25.2757101]
+n3393573699  null / null / Приорбанк №628
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8907088,25.3026272]
+n3393573700  null / null / Приорбанк №677
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.9037503,25.2590112]
+n3393573701  null / null / Приорбанк №682
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8787385,25.3295305]
+n3393573702  null / null / Приорбанк №683
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8916609,25.2560843]
+n3393573703  null / null / Приорбанк №98
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8970462,25.3028182]
+n3393573704  null / null / Приорбанк. Платёжно-справочный терминал №147
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8795404,25.2756585]
+n3393573705  null / null / Приорбанк. Платёжно-справочный терминал №217
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8928635,25.2963184]
+n3393573706  null / null / Приорбанк. Платёжно-справочный терминал №365
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8944894,25.3026806]
+n3393573707  null / null / Приорбанк. Платёжно-справочный терминал №603
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8916377,25.2560961]
+n3393573708  null / null / Приорбанк. Платёжно-справочный терминал №605
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8947445,25.2926663]
+n3393573709  null / null / Приорбанк. Платёжно-справочный терминал №607
+  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+    geometry : [53.8848500,25.2959753]
