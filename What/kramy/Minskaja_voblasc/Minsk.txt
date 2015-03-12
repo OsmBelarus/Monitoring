@@ -2166,7 +2166,7 @@ n474744967  СТА / null / СТО / СТО
 n475199568
   other tags : shop=alcohol
     geometry : [53.9480245,27.6720874]
-n475547946  null / null / БЛВ / БЛВ
+n475547946  БЛВ / null / БЛВ / БЛВ
   other tags : shop=convenience
     geometry : [53.9434134,27.7070833]
 n476656081  null / null / Гастроном
@@ -2181,7 +2181,7 @@ n482748706  null / null / Гаспадар
 n484267759  null / null / Могилёвский
   other tags : operator=Могилёвский | shop=supermarket
     geometry : [53.8843793,27.5432176]
-n486435860  Рублёўски / null / Рублёвский / Рублёвский
+n486435860  Рублёўскі / null / Рублёвский / Рублёвский
   other tags : shop=supermarket
     geometry : [53.9358242,27.6887297]
 n489248971
@@ -2651,7 +2651,7 @@ n832781677  null / null / Востокторг / Востокторг
 n833378378  null / null / Тракторозаводской универсам
   other tags : shop=supermarket
     geometry : [53.8830927,27.6122031]
-n835519519  null / null / Настроение / Настроение
+n835519519  Настрой / null / Настроение / Настроение
   other tags : shop=convenience
     geometry : [53.9455520,27.6918549]
 n839996382  null / null / Levis
@@ -3012,7 +3012,7 @@ n973872257  Лаванда / null / Лаванда / Лаванда
 n973872752
   other tags : shop=laundry
     geometry : [53.9409133,27.7123663]
-n973872755  null / null / Стрекоза / Стрекоза
+n973872755  Страказа / null / Стрекоза / Стрекоза
   other names: name:uk=Стрекоза
   other tags : shop=hairdresser
     geometry : [53.9407994,27.7124470]
@@ -3052,7 +3052,7 @@ n990197228  null / null / Азалия / Азалия
 n990197230  null / null / Для тебя / Для тебя
   other tags : addr:housenumber=183 | addr:street=проспект Независимости | shop=hairdresser
     geometry : [53.9470760,27.6910935]
-n990200780  null / null / Stilissimo / Stilissimo
+n990200780  Stilissimo / null / Stilissimo / Stilissimo
   other tags : shop=hairdresser
     geometry : [53.9452570,27.6909198]
 n990203029  Баден / null / Баден / BADEN
@@ -3979,7 +3979,7 @@ n1351152918  Цырульня / null / Парикмахерская Де Фра�
 n1352201749  null / null / ЭЛЕКТРОСИЛА
   other tags : addr:housename=Дмитриев кирмаш | addr:housenumber=22 | addr:postcode=220125 | addr:street=Ложинская улица | shop=hifi
     geometry : [53.9516125,27.6816129]
-n1352208248  null / null / Мотопарк / Мотопарк
+n1352208248  Мотапарк / null / Мотопарк / Мотопарк
   other tags : shop=motorcycle
     geometry : [53.9475077,27.6972026]
 n1352208249  null / null / Чайная пауза
@@ -4388,7 +4388,7 @@ n1474077857  null / null / Пивной разлив / Пивной разлив
 n1474475147  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : addr:street=Тимошенко, 13 | shop=car_repair
     geometry : [53.9024906,27.4636969]
-n1475049312  null / null / Роза Азора / Роза Азора
+n1475049312  Ружа Азора / null / Роза Азора / Роза Азора
   other tags : shop=florist
     geometry : [53.9478167,27.6976658]
 n1475049315
@@ -4403,7 +4403,7 @@ n1478892513  null / null / Евромеханика
 n1479247595  null / null / Маслёнка
   other tags : shop=car_repair
     geometry : [53.8849513,27.5828798]
-n1480025994  null / null / Крепкий орешек / Крепкий орешек
+n1480025994  Моцны Арэшак / null / Крепкий орешек / Крепкий орешек
   other tags : shop=convenience
     geometry : [53.9476570,27.6976534]
 n1480122567
@@ -4611,7 +4611,7 @@ n1542263383  null / null / Евроопт
 n1546391697  null / null / Космо
   other tags : covered=yes | entrance=yes | opening_hours=Mo-Fr 09:00-20:00; Sa-Su 10:00-19:00 | shop=chemist
     geometry : [53.9170175,27.5585667]
-n1546950111  null / null / Вегас / Вегас
+n1546950111  Вэгас / null / Вегас / Вегас
   other tags : addr:housenumber=168/2 | addr:postcode=220141 | addr:street=проспект Независимости | designation=Фирменный магазин "Вегас": матрасы, подушки и пр. | shop=yes | website=http://vegas.by/
     geometry : [53.9451576,27.6914213]
 n1547041659
@@ -6819,13 +6819,13 @@ n2608394832  Кветкі / null / Цветы / Цветы
 n2608394864
   other tags : shop=florist
     geometry : [53.9390405,27.6863362]
-n2608418738  null / null / ЭгоАрт - Ювелирная мастерская
-  other tags : shop=jewelry
+n2608418738  ЭгаАрт / null / ЭгоАрт / ЭгоАрт
+  other tags : description:be=Ювелірная майстэрня | description:ru=Ювелирная мастерская | shop=jewelry
     geometry : [53.9436292,27.6860023]
-n2608419515  null / null / O, YES
+n2608419515  O, YES / null / O, YES / O, YES
   other tags : shop=alcohol
     geometry : [53.9433609,27.6862491]
-n2608422193  null / null / OZ.by
+n2608422193  OZ.by / null / OZ.by / OZ.by
   other tags : addr:housenumber=4 | addr:street=улица Руссиянова | shop=books
     geometry : [53.9434272,27.6858575]
 n2608425282  Secondhand / null / Secondhand / Secondhand
@@ -6837,13 +6837,13 @@ n2608425388  ШагаВіта / null / ШагоВита / ШагоВита
 n2608432713  Салон сувязі МТС / null / Салон связи МТС / Салон связи МТС
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=mobile_phone
     geometry : [53.9439187,27.6862484]
-n2608438924  null / null / SunCity
+n2608438924  SunCity / null / SunCity / SunCity
   other tags : addr:housename=SunCity | shop=beauty
     geometry : [53.9440806,27.6873890]
-n2608440752  null / null / Рыбалка
+n2608440752  Рыбалка / null / Рыбалка / Рыбалка
   other tags : addr:housename=Рыбалка | shop=yes
     geometry : [53.9440983,27.6868983]
-n2608441623  null / null / Fielmann
+n2608441623  Fielmann / null / Fielmann / Fielmann
   other tags : addr:housename=Fielmann | shop=optician
     geometry : [53.9437180,27.6862515]
 n2608449265  null / null / ЕвроОбои
@@ -7110,7 +7110,7 @@ n2620017042  null / null / Pompea
 n2620018433  null / null / Оранжевый верблюд
   other tags : shop=clothes
     geometry : [53.8762627,27.4651616]
-n2620031313  null / null / Рыболов Профи
+n2620031313  Рыбалоў Профі / null / Рыболов Профи / Рыболов Профи
   other tags : shop=yes
     geometry : [53.9459157,27.6928038]
 n2620056339  null / null / Ателье
@@ -7452,10 +7452,10 @@ n2624645080  null / null / LIFE  - сервисный центр
 n2625005434  null / null / Все для дома и ремонта
   other tags : shop=doityourself
     geometry : [53.9048311,27.4576796]
-n2626274099  null / null / Зоомагазин "Zoobazar"
+n2626274099  Зоамагазін "Zoobazar" / null / Зоомагазин "Zoobazar" / Зоомагазин "Zoobazar"
   other tags : addr:housenumber=168 к1 | addr:postcode=220141 | addr:street=проспект Независимости | shop=convenience
     geometry : [53.9445301,27.6894667]
-n2626373406  null / null / Мила
+n2626373406  Міла / null / Мила / Мила
   other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | shop=hardware
     geometry : [53.9447216,27.6906323]
 n2626500509  null / null / Белсоюзпечать
@@ -7772,10 +7772,10 @@ n2672929110  null / null / Smoke Travel
 n2672929113  null / null / Парикмахерская «Восход»
   other tags : shop=beauty
     geometry : [53.9073151,27.5745597]
-n2673323530  null / null / Велопланета
+n2673323530  Велапланета / null / Велопланета / Велопланета
   other tags : shop=bicycle
     geometry : [53.9459549,27.6931894]
-n2673323532  null / null / Пивной разлив / Пивной разлив
+n2673323532  Піўны разліў / null / Пивной разлив / Пивной разлив
   other tags : shop=alcohol
     geometry : [53.9459028,27.6932350]
 n2673836618  null / null / магазин
@@ -7791,7 +7791,7 @@ n2680398731  null / null / Магазин «Цветочная лавка»
 n2683440496  null / null / vino and vino
   other tags : shop=alcohol
     geometry : [53.9556980,27.6204408]
-n2685843187  null / null / Валкавыскiя прысмакi
+n2685843187  Валкавыскiя прысмакi / null / Валкавыскiя прысмакi / Волковыские лакомства
   other tags : shop=butcher
     geometry : [53.9452397,27.6913467]
 n2686435849
@@ -9810,7 +9810,7 @@ n3268803099  Чайна камфорт трэвэл / null / Чайна комф
   other tags : contact:website=http://chinacomfort.by/ | shop=travel_agency
     geometry : [53.9051389,27.5646205]
 n3268806545  null / null / Мясной магазин
-  other tags : opening_hours=Будн: 9.00-20.00, Вых:10.00-18.00 | shop=yes
+  other tags : opening_hours=Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00 | shop=yes
     geometry : [53.9468329,27.6901791]
 n3268806608  null / null / Славянские обои
   other tags : shop=yes
@@ -9854,10 +9854,10 @@ n3268830563  Салон паркету ПаркетПол / null / Салон п
 n3268837352  null / null / Стройматериалы Стройбери
   other tags : shop=doityourself
     geometry : [53.9428875,27.5975795]
-n3268837661  null / null / TianDe, косметика
-  other tags : shop=yes
+n3268837661  TianDe / null / TianDe / TianDe
+  other tags : description:be=Касметыка | description:ru=Косметика | shop=yes
     geometry : [53.9456896,27.6934437]
-n3268838161  null / null / Мир Обоев
+n3268838161  Свет Шпалер / null / Мир Обоев / Мир Обоев
   other tags : shop=yes
     geometry : [53.9458104,27.6933305]
 n3268839855  null / null / Мир паркета
@@ -9872,13 +9872,13 @@ n3268840839  null / null / Стройматериалы Керамическая
 n3268842306  Roca & Laufen cалон сантэхнікі і пліткі / null / Roca & Laufen cалон сантехники и плитки / Roca & Laufen cалон сантехники и плитки
   other tags : contact:website=http://www.ls.by/ | shop=bathroom_furnishing
     geometry : [53.9427699,27.5974102]
-n3268842751  null / null / Сильный Пол, магазин напольных покрытий
-  other tags : opening_hours=Будн: 10.00-20.00, Сб: 10.00-18.00, Вс: 11.00-16.00 | shop=yes
+n3268842751  Моцны Пол / null / Сильный Пол / Сильный Пол
+  other tags : description:be=Крама падлогавых пакрыццяў | description:ru=Магазин напольных покрытий | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-16:00 | shop=yes
     geometry : [53.9458746,27.6926368]
 n3268842761  Энівэй Трэвэл / null / Энивей Трэвел / Энивей Трэвел
   other tags : contact:website=http://www.anyway.by/ | shop=travel_agency
     geometry : [53.9425907,27.5973649]
-n3268842791  null / null / Кухни
+n3268842791  Кухні / null / Кухни / Кухни
   other tags : shop=yes
     geometry : [53.9458205,27.6924563]
 n3268846250  null / null / ArtSun
@@ -9890,13 +9890,19 @@ n3268850187  null / null / спорттовары
 n3268850393  null / null / все для дайвинга
   other tags : shop=boutique
     geometry : [53.9184543,27.6074500]
-n3268856090  null / null / Bielita Вiтэкс
+n3268856090  Bielita Вiтэкс / null / Bielita Вiтэкс / Bielita Витэкс
   other tags : shop=yes
     geometry : [53.9450127,27.6899348]
 n3268862465  Дзвярная Лінія / null / Дверная Линия / Дверная Линия
   other tags : contact:phone=+375293911010 | contact:website=http://medvedev.by | description:be=Салон дзвярэй | description:ru=Салон дверей | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | operator:be=ААТ "Мядзведзеў і К" | operator:ru=ООО "Медведев и К" | shop=door
     geometry : [53.9446472,27.6884987]
-n3268885583  null / null / Ключи
+n3268863689  Сетка крам гарачых пуцёвак / null / Сеть магазинов горящих путевок / Сеть магазинов горящих путевок
+  other tags : shop=travel_agency
+    geometry : [53.9440515,27.6874243]
+n3268864757  Візавая падтрымка / null / Визовая поддержка / Визовая поддержка
+  other tags : contact:website=zavizoi.by | shop=travel_agency
+    geometry : [53.9440735,27.6874067]
+n3268885583  Ключы / null / Ключи / Ключи
   other tags : shop=locksmith
     geometry : [53.9435468,27.6861844]
 n3268892992  null / null / Ma Vie, парикмахерская, маникюр, фитнес
@@ -10836,7 +10842,7 @@ n3318601723  null / null / Супер
 n3323573831  null / null / «Корона Техно»
   other tags : shop=hifi
     geometry : [53.8428225,27.5288741]
-n3326560581  null / null / Райдер
+n3326560581  Райдэр / null / Райдер / Райдер
   other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Руссиянова | shop=bicycle | website=http://www.ridershop.by/
     geometry : [53.9433080,27.6859436]
 n3327384342  null / null / Трофей 

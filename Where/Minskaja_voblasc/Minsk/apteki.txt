@@ -76,7 +76,7 @@ n281694144
 n281703845  null / null / Искамед №7 / Искамед №7
   other tags : amenity=pharmacy
     geometry : [53.8627395,27.6038483]
-n281722582  null / null / Белмединфарм №30 / Белмединфарм №30
+n281722582  Белмедінфарм №30 / null / Белмединфарм №30 / Белмединфарм №30
   other tags : amenity=pharmacy
     geometry : [53.9440452,27.7075037]
 n281722624  null / null / Белмединфарм ООО Аптека №4 / Белмединфарм ООО Аптека №4
@@ -551,7 +551,7 @@ n305687081  null / null / Искамед №23 / Искамед №23
 n305687133  null / null / Аленфарм-Плюс ОДО Аптека №16 / Аленфарм-Плюс ОДО Аптека №16
   other tags : addr:housenumber=30 | addr:street=улица Гинтовта | amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00, Sa-Su 09:00-19:00 | phone=+37517 2864084
     geometry : [53.9527951,27.6834899]
-n305687140  null / null / Мединтер / Мединтер
+n305687140  Медінтэр / null / Мединтер / Мединтер
   other tags : amenity=pharmacy
     geometry : [53.9444544,27.6861226]
 n305687180  null / null / Белфармация А РУП Аптека №25 / Белфармация А РУП Аптека №25
@@ -578,8 +578,8 @@ n432519038
 n455004661  null / null / Аптека частная / Аптека частная
   other tags : amenity=pharmacy
     geometry : [53.8842886,27.5835982]
-n475548663  null / null / Планета Здоровья Аптека №17 ООО Доктор-Таир / Планета Здоровья Аптека №17 ООО Доктор-Таир
-  other tags : amenity=pharmacy
+n475548663  Планета Здароўя Аптэка №17 / null / Планета Здоровья Аптека №17 / Планета Здоровья Аптека №17
+  other tags : amenity=pharmacy | operator:be=ТАА "Доктар Таір" | operator:ru=ООО "Доктор-Таир" | ref=17
     geometry : [53.9429047,27.7078604]
 n496989935
   other tags : amenity=pharmacy
