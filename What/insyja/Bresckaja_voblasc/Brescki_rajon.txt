@@ -76,7 +76,7 @@ n306064386  null / null / Моб. Связь / Моб. Связь
   other tags : man_made=tower
     geometry : [52.2970200,23.5264100]
 n306064401  Уладава / Uladava / Влодава / Влодава
-  other tags : esr:user=132407 | public_transport=stop_position | train=yes
+  other tags : esr:user=132407 | public_transport=stop_position | railway=station | train=yes
     geometry : [51.5509164,23.6123409]
 n306064411
   other tags : tourism=viewpoint
@@ -96,12 +96,6 @@ n306064426
 n306064428
   other tags : man_made=tower
     geometry : [52.1546300,23.5691900]
-n306064447  Збунін / Zbunin / Збунин / Збунин
-  other tags : esr:user=132318 | public_transport=stop_position | train=yes
-    geometry : [51.8393542,23.6346146]
-n306064452  Ляплёўка / Liaplioŭka / Липленка / Липленка
-  other tags : esr:user=132322 | public_transport=stop_position | train=yes
-    geometry : [51.7632870,23.6464017]
 n306064466  null / null / Мотыкалы / Мотыкалы
   other tags : esr:user=130401 | railway=station
     geometry : [52.2083989,23.5818917]
