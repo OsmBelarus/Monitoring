@@ -13,9 +13,9 @@ n1131427289
 n1131427296
   other tags : amenity=atm | operator=Приорбанк
     geometry : [53.8934870,25.2999196]
-n1131427330
-  other tags : amenity=atm
-    geometry : [53.8904471,25.2986254]
+n1131427330  null / null / Паритетбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Паритетбанк | website=http://paritetbank.by/
+    geometry : [53.8904626,25.2986149]
 n1429798823
   other tags : amenity=atm | operator=Приорбанк
     geometry : [53.8847789,25.2985610]
@@ -457,3 +457,9 @@ n3393409344  null / null / МТБанк
 n3393409345  null / null / МТБанк
   other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | currency:USD=yes | opening_hours=24/7 | operator=МТБанк | website=http://mtbank.by/
     geometry : [53.8983572,25.2906927]
+n3393422978  null / null / Паритетбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Паритетбанк | website=http://paritetbank.by/
+    geometry : [53.8933957,25.3014481]
+n3393422979  null / null / Паритетбанк. Инфокиоск
+  other tags : amenity=atm | operator=Паритетбанк | website=http://paritetbank.by/
+    geometry : [53.8933998,25.3015356]
