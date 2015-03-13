@@ -9452,14 +9452,11 @@ n3233095531  null / null / Baden
 n3240836598  null / null / Second Hand
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8498206,27.4763543]
-n3240836599  null / null / Second Hand
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8498548,27.4765087]
-n3240836600  null / null / Магазин Milavitsa (женское нижнее бельё)
+n3240836600  null / null / Milavitsa (женское нижнее бельё)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8499907,27.4761609]
 n3240836603  null / null / Кухни и мебель
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=furniture
     geometry : [53.8497251,27.4769322]
 n3240836610  null / null / Посудная лавка (магазин посуды)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
@@ -9473,7 +9470,7 @@ n3240836613
 n3240836614  null / null / Магазин дверей и обоев
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
     geometry : [53.8518609,27.4769454]
-n3240836616  null / null / магазин мясных изделий
+n3240836616  null / null / Магазин мясных изделий
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=butcher
     geometry : [53.8497249,27.4767631]
 n3240836618
@@ -9501,10 +9498,10 @@ n3240836636
   other tags : shop=convenience
     geometry : [53.8522615,27.4747747]
 n3240836637  null / null / Белита-Витекс
-  other tags : shop=cosmetics
+  other tags : addr:city=122 | addr:street=проспект Дзержинского | shop=cosmetics
     geometry : [53.8521349,27.4747586]
 n3240836647  null / null / Магазин велосипедов «ВелоГрад»
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=yes
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=sports
     geometry : [53.8495942,27.4781324]
 n3240836648
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=paint
