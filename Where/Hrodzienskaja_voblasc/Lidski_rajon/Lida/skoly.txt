@@ -46,11 +46,11 @@ n3237825299  null / null / СШ №8
 n3237825300  null / null / СШ №9
   other tags : amenity=school | phone=+375 154 557585
     geometry : [53.8774546,25.3310961]
-w53448039  null / null / Лидская детская школа искусств
+w53448039
   other tags : addr:housenumber=9 | addr:street=Советская улица | amenity=school | building=yes | loc_name=Дом офицеров
     geometry : n675592563[53.8913747,25.3010630] n675592564[53.8915549,25.3010650] n675592641[53.8915529,25.3016058] n675592642[53.8919586,25.3016102] n675592643[53.8919576,25.3018718] n675592639[53.8915539,25.3018674] n675592638[53.8913717,25.3018655] n675592563[53.8913747,25.3010630]
-w53448057  Музычная школа / null / Музыкальная школа / Музыкальная школа
-  other tags : addr:housenumber=8А | addr:street=Советская улица | amenity=school | building=yes
+w53448057
+  other tags : addr:housenumber=8А | addr:street=Советская улица | amenity=school | building=yes | loc_name=Музыкальная школа
     geometry : n675592656[53.8909193,25.3031704] n675592626[53.8905617,25.3031709] n675592627[53.8905618,25.3033950] n675592623[53.8906760,25.3033949] n675592624[53.8906761,25.3036909] n675592661[53.8908049,25.3036907] n675592660[53.8908048,25.3033982] n675592657[53.8909194,25.3033981] n675592656[53.8909193,25.3031704]
 w53529854
   other tags : addr:housenumber=76 | addr:street=улица Рыбиновского | amenity=school | building=yes
@@ -85,8 +85,8 @@ w60921616
 w61913816  Вячэрняя школа / null / Вечерняя школа,3
   other tags : addr:housenumber=3 | addr:street=улица Тавлая | amenity=school | building=yes
     geometry : n771707063[53.8927991,25.3043499] n771707068[53.8928235,25.3044624] n771707053[53.8926158,25.3045924] n771706959[53.8925914,25.3044799] n771707063[53.8927991,25.3043499]
-w97234999  Школа Мастацваў / null / Школа искусств
-  other tags : addr:housenumber=10 | addr:street=проспект Победы | amenity=school | building=yes
+w97234999
+  other tags : addr:housenumber=10 | addr:street=проспект Победы | amenity=school | building=yes | loc_name=Средняя школа №2
     geometry : n1126336130[53.8957223,25.2953797] n1126336196[53.8960273,25.2951989] n1126336148[53.8960741,25.2954263] n1126336146[53.8957691,25.2956071] n1126336130[53.8957223,25.2953797]
 w97691378
   other tags : addr:housenumber=10 | addr:street=улица Морозова | amenity=school | building=yes
