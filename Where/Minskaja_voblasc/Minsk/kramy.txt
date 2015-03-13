@@ -8882,8 +8882,8 @@ n3190097697  Панскі  пачастунак / null / Кулинария
 n3190097698  null / null / Продукты
   other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=10:00-22:00 | shop=convenience
     geometry : [53.8527561,27.4747322]
-n3190097703  null / null / Поляна. магазин продуктовый
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=9.00 - 23.00 | shop=convenience
+n3190097703  null / null / Поляна (продукты)
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=9:00-23:00 | shop=convenience
     geometry : [53.8517447,27.4769322]
 n3193011975  null / null / Шиномонтаж
   other tags : addr:city=Минск | addr:street=Железнодорожная улица | shop=car_repair
@@ -9492,7 +9492,7 @@ n3240836622  null / null / МТС
   other tags : shop=mobile_phone
     geometry : [53.8487281,27.4788766]
 n3240836633  null / null / Магазин пива
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=yes
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=beverages
     geometry : [53.8513596,27.4744206]
 n3240836635
   other tags : shop=alcohol
