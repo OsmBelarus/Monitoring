@@ -309,10 +309,10 @@ n305680298  null / null / Мирский Замок
 n305680315  null / null / Пан Хмелю / Пан Хмелю
   other tags : amenity=restaurant
     geometry : [53.9017291,27.5540172]
-n305680452  null / null / Ренессанс / Ренессанс
+n305680452  Рэнесанс / null / Ренессанс / Ренессанс
   other tags : amenity=restaurant
     geometry : [53.9036900,27.5574900]
-n305680457  null / null / У Ратуши / У Ратуши
+n305680457  Каля Ратушы / null / У Ратуши / У Ратуши
   other tags : amenity=restaurant | old_name=0.5
     geometry : [53.9044763,27.5569052]
 n305680463  Троіцкі / null / Сarpaccio / Троицкий
@@ -652,7 +652,7 @@ n428845236  null / null / Limoncello
 n443465765  null / null / Banana Cafe / Банана Кафе
   other tags : amenity=cafe
     geometry : [53.9090929,27.5567573]
-n443698593  null / null / Coffee Inn
+n443698593  Coffee Inn / null / Coffee Inn / Coffee Inn
   other tags : amenity=cafe
     geometry : [53.9038323,27.5587888]
 n443698597  null / null / Dom
@@ -1396,7 +1396,7 @@ n1715460516
 n1736683376  null / null / Перчик
   other tags : amenity=cafe | opening_hours=Mo-Su 10:00-12:00
     geometry : [53.8972079,27.5556888]
-n1736684215  null / null / Ферзь
+n1736684215  Фэрзь / null / Ферзь / Ферзь
   other tags : amenity=cafe
     geometry : [53.9048249,27.5580239]
 n1737433371  null / null / Столовая Керамин
@@ -1729,7 +1729,7 @@ n2155876208  null / null / Кофейня
 n2162381500  null / null / Alta Vista
   other tags : amenity=cafe
     geometry : [53.8462866,27.5146898]
-n2164431648  null / null / Староместный пивовар
+n2164431648  Стараместны півавар / null / Староместный пивовар / Староместный пивовар
   other tags : addr:housenumber=4 | addr:street=улица Герцена | amenity=pub | wifi=yes
     geometry : [53.9049824,27.5580158]
 n2165269914  null / null / Chaplin
@@ -2276,7 +2276,7 @@ n2902937942  null / null / Manga Wok
 n2902946275  null / null / Свои
   other tags : addr:housenumber=22 | addr:street=проспект Независимости | amenity=restaurant | cuisine=regional
     geometry : [53.9008434,27.5601864]
-n2902950855  null / null / Вобла
+n2902950855  Вобла / null / Вобла / Вобла
   other tags : addr:housenumber=25 | addr:street=улица Янки Купалы | amenity=pub | smoking=yes
     geometry : [53.9056890,27.5617520]
 n2902953780  null / null / BEERжа
@@ -2366,7 +2366,7 @@ n3110916827
 n3110943511  null / null / Штолле
   other tags : addr:city=Минск | addr:street=улица Веры Хоружей | amenity=cafe | cuisine=regional | internet_access=no | smoking=no | website=www.stolle.by
     geometry : [53.9191317,27.5778965]
-n3116156643  Старамеская піўніца / null / Староместская пивница
+n3116156643  Старамеская піўніца / null / Староместская пивница / Староместская пивница
   other tags : addr:housenumber=8 | addr:street=вуліца Кірыла і Мяфодзія | amenity=pub | opening_hours=Su-Th 12:00-24:00; Fr-Sa 12:00-02:00 | smoking=no
     geometry : [53.9057804,27.5572793]
 n3141940104  null / null / Хутка-Смачна
@@ -2675,7 +2675,7 @@ n3286403322  null / null / Пироговня Stolle
 n3287794491  null / null / Кафе-Клуб "Камелия"
   other tags : addr:city=Минск | addr:housenumber=21-1 | addr:postcode=220030 | addr:street=Красноармейская улица | amenity=cafe | cuisine=regional | internet_access=yes | phone=+375172261080 | smoking=isolated | website=http://cafe-kamelia.by/
     geometry : [53.8954595,27.5755781]
-n3295235742  null / null / Malt & Hops
+n3295235742  Malt & Hops / null / Malt & Hops / Malt & Hops
   other tags : amenity=pub | smoking=yes
     geometry : [53.9055590,27.5587735]
 n3302432437  null / null / 10-я рота
