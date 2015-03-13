@@ -725,8 +725,8 @@ n1624561648  null / null / Спортландия
 n1624561649  null / null / Чистая вода
   other tags : addr:floor=0 | addr:hint=Напротив магазина «Алми» | addr:housenumber=30 | addr:street=улица Пушкина | opening_hours=Mo-Su 10:00-21:00 | phone=+375 29 8888555 | shop=bathroom_furnishing | website=http://www.magiccard.by/
     geometry : [53.6965200,23.8328049]
-n1719497500  null / null / Евроопт
-  other tags : shop=supermarket
+n1719497500  null / null / Гипермаркет Евроопт
+  other tags : addr:housenumber=8 | addr:street=улица Тимирязева | shop=supermarket
     geometry : [53.6889747,23.8457469]
 n1731282221  null / null / Евро Шина
   other tags : amenity=шиномонтаж | shop=car_repair
