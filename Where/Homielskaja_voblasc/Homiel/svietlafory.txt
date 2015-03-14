@@ -564,6 +564,12 @@ n1212384287  null / null / Локомотивное депо
 n1212384295  null / null / Локомотивное депо
   other tags : highway=bus_stop
     geometry : [52.4400115,30.9684638]
+n1323256251  null / null / Костюковка
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | tactile_paving=yes
+    geometry : [52.5362957,30.9166645]
+n1323256264  null / null / Костюковка
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
+    geometry : [52.5346795,30.9176877]
 n1326072602  null / null / Косарева
   other tags : highway=bus_stop
     geometry : [52.4047450,30.9196659]
@@ -648,6 +654,9 @@ n1366728457
 n1373859017  null / null / Джураева
   other tags : highway=bus_stop
     geometry : [52.4281415,30.9517428]
+n1383265224  null / null / Вокзальная
+  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
+    geometry : [52.5227286,30.9301820]
 n1407471538
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.4985327,30.9702196]

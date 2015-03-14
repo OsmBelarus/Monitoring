@@ -3046,7 +3046,7 @@ n984674369  null / null / C&D
 n989171871
   other tags : shop=convenience
     geometry : [53.9456764,27.7071425]
-n989442761  null / null / Мясашмат
+n989442761  Мясашмат / null / Мясашмат / Мясашмат
   other tags : shop=convenience
     geometry : [53.9485557,27.6747264]
 n990197228  null / null / Азалия / Азалия
@@ -3595,7 +3595,7 @@ n1208616158
 n1208618281
   other tags : shop=hairdresser
     geometry : [53.8951215,27.5204836]
-n1209571752  null / null / Оазис
+n1209571752  Аазіс / null / Оазис / Оазис
   other tags : shop=beauty
     geometry : [53.9484794,27.6724134]
 n1209574912
@@ -4840,7 +4840,7 @@ n1598674404
 n1602131290  Веды / null / null
   other tags : shop=books
     geometry : [53.9000158,27.5625503]
-n1602183918  null / null / Гиппо / Гиппо
+n1602183918  Гіппа / null / Гиппо / Гиппо
   other tags : opening_hours=09:00-23:00 | shop=supermarket
     geometry : [53.9477587,27.6785066]
 n1602252832  null / null / Четыре сезона
@@ -7134,10 +7134,7 @@ n2620101357  null / null / Белсоюзпечать
 n2620101358  null / null / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.9527278,27.6826201]
-n2620114764  null / null / Алло
-  other tags : shop=mobile_phone
-    geometry : [53.9477792,27.6784045]
-n2620126795  null / null / Алло
+n2620126795  Алло / null / Алло / Алло
   other tags : shop=mobile_phone
     geometry : [53.9475667,27.6786764]
 n2620132051  null / null / Орифлейм
@@ -7146,16 +7143,13 @@ n2620132051  null / null / Орифлейм
 n2620150570  null / null / Орифлейм
   other tags : shop=Сервисный_пункт_обслуживания
     geometry : [53.9472800,27.6822567]
-n2620150571  null / null / Ачоса
+n2620150571  Ачоса / null / Ачоса / Ачоса
   other tags : shop=yes
     geometry : [53.9489005,27.6782581]
-n2620151163  null / null / Velcom
+n2620151163  Velcom / null / Velcom / Velcom
   other tags : shop=yes
     geometry : [53.9478389,27.6784045]
-n2620165305  null / null / Velcom
-  other tags : shop=yes
-    geometry : [53.9478389,27.6784045]
-n2620165306  null / null / Алло
+n2620165306  Алло / null / Алло / Алло
   other tags : shop=mobile_phone
     geometry : [53.9477792,27.6784045]
 n2620165309  null / null / Полимагия
@@ -9665,19 +9659,19 @@ n3265978804  null / null / НА СВЯЗИ
 n3265978806  null / null / ФАВБЕТ
   other tags : opening_hours=12:00 - 21:00 | shop=bookmaker
     geometry : [53.9518354,27.6820182]
-n3265978807  null / null / PRESTON
+n3265978807  PRESTON / null / PRESTON / PRESTON
   other tags : shop=supermarket
     geometry : [53.9497506,27.6826831]
-n3265978808  null / null / Лоскут
+n3265978808  Ласкут / null / Лоскут / Лоскут
   other tags : shop=fabric
     geometry : [53.9490492,27.6833121]
-n3265978809  null / null / Радуга
+n3265978809  Вясёлка / null / Радуга / Радуга
   other tags : shop=yes
     geometry : [53.9488477,27.6832195]
 n3265978810
   other tags : shop=car_parts
     geometry : [53.9487530,27.6832088]
-n3265978811  null / null / Разливное пиво
+n3265978811  Разліўное піва / null / Разливное пиво / Разливное пиво
   other tags : shop=alcohol
     geometry : [53.9486675,27.6832081]
 n3265978812  null / null / Мастер ФОТО
@@ -9908,25 +9902,25 @@ n3268885583  Ключы / null / Ключи / Ключи
 n3268892992  null / null / Ma Vie, парикмахерская, маникюр, фитнес
   other tags : shop=beauty
     geometry : [53.9478527,27.6839516]
-n3268905489  null / null / Эдэльвейс
+n3268905489  Эдэльвейс / null / Эдэльвейс / Эдэльвейс
   other tags : shop=beauty
     geometry : [53.9485422,27.6723820]
-n3268906487  null / null / Марсель
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:postcode=220125 | addr:street=Шафарнянская улица | opening_hours=9.00-21.00 | shop=beauty
+n3268906487  Марсэль / null / Марсель / Марсель
+  other tags : addr:city=Минск | addr:housenumber=3 | addr:postcode=220125 | addr:street=Шафарнянская улица | opening_hours=09:00-21:00 | shop=beauty
     geometry : [53.9499353,27.6785035]
-n3268906667  null / null / Дом Плитки
+n3268906667  Дом Пліткі / null / Дом Плитки / Дом Плитки
   other tags : shop=yes
     geometry : [53.9447198,27.6745882]
-n3268909101  null / null / Салон Штор
+n3268909101  Салон Штор / null / Салон Штор / Салон Штор
   other tags : shop=yes
     geometry : [53.9483168,27.6790601]
-n3268915502  null / null / Glanz, магазин косметики и маникюрных принадлежностей
+n3268915502  Glanz, крама касметыкі і манікюрных прыладаў / null / Glanz, магазин косметики и маникюрных принадлежностей / Glanz, магазин косметики и маникюрных принадлежностей
   other tags : shop=yes
     geometry : [53.9477107,27.6785632]
-n3268920861  null / null / Цветы, упаковка подарков
+n3268920861  Кветкі, упакоўка падарункаў / null / Цветы, упаковка подарков / Цветы, упаковка подарков
   other tags : shop=florist
     geometry : [53.9476323,27.6786489]
-n3268921183  null / null / BUNGALOW, чай, кофе
+n3268921183  BUNGALOW, гарбата, кава / null / BUNGALOW, чай, кофе / BUNGALOW, чай, кофе
   other tags : shop=yes
     geometry : [53.9474517,27.6779639]
 n3269241013  null / null / Kari kids
@@ -10007,7 +10001,7 @@ n3269329287  Беллегпрам / null / Беллегпром / Беллегп
 n3270144493  null / null / ООО "Белевротех"
   other tags : shop=yes
     geometry : [53.9456299,27.6831125]
-n3270164272  null / null / C&D Factory
+n3270164272  C&D Factory / null / C&D Factory / C&D Factory
   other tags : shop=laundry
     geometry : [53.9474759,27.6787938]
 n3270165644  C&D Factory / null / C&D Factory / C&D Factory
