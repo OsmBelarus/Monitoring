@@ -9539,7 +9539,7 @@ w55966526  Мянькоўскі тракт / null / Меньковский тр�
   other tags : highway=secondary | maxspeed=60 | ref=Н8931
     geometry : n275081101[53.8446229,27.4110163] n643589484[53.8451002,27.4121039] n1693731214[53.8454531,27.4128823]
 w55966527  Мянькоўскі тракт / null / Меньковский тракт / Меньковский тракт
-  other tags : highway=tertiary | lanes=3 | maxspeed=40 | ref=Н8931
+  other tags : highway=tertiary | lanes=3 | lanes:forward=1 | maxspeed=40 | ref=Н8931 | turn:lanes:backward=left|through;right
     geometry : n1693731214[53.8454531,27.4128823] n2544845087[53.8455736,27.4131529] n2927434880[53.8459719,27.4140397] n643589577[53.8461544,27.4144025]
 w55966529  Мянькоўскі тракт / null / null / Меньковский тракт
   other tags : highway=secondary | lanes=2 | maxspeed=70 | ref=Н8931 | surface=asphalt
