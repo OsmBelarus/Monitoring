@@ -1536,10 +1536,10 @@ n473383509  null / null / Поворот на Сосны
   other tags : highway=bus_stop
     geometry : [53.8239191,27.7599828]
 n475199569  Гінтаўта / null / Гинтовта / Гинтовта
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60413
     geometry : [53.9491874,27.6712112]
 n475199571  Гінтаўта / null / Гинтовта / Гинтовта
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | ref=60412
     geometry : [53.9490300,27.6700200]
 n475199572  Паліклініка / null / Поликлиника №28 / Поликлиника
   other tags : highway=bus_stop
@@ -1586,11 +1586,11 @@ n475208264  Станцыя метро Уручча / null / Станция ме�
 n475208265  Станцыя метро Уручча / null / Станция метро Уручье / Станция метро Уручье
   other tags : highway=bus_stop
     geometry : [53.9454174,27.6863621]
-n475543984  null / null / Улица Рогачевская
-  other tags : highway=bus_stop | shelter=yes
+n475543984  Вялікі Лес / null / Великий лес / Великий лес
+  other tags : highway=bus_stop | ref=60312 | shelter=yes
     geometry : [53.9442587,27.7175686]
-n475543986  Рагачоўская / null / Рогачевская
-  other tags : highway=bus_stop | shelter=yes
+n475543986  Рагачоўская / null / Рогачевская / Рогачевская
+  other tags : highway=bus_stop | ref=61801 | shelter=yes
     geometry : [53.9454909,27.7205346]
 n475543987  null / null / Дом офицеров
   other tags : highway=bus_stop | shelter=yes
@@ -1793,10 +1793,10 @@ n522095809  ГЦ Уручча / null / ТЦ Уручье / ТЦ Уручье
   other tags : highway=bus_stop
     geometry : [53.9357633,27.6875330]
 n522096131  Музей валуноў / null / Музей валунов / Музей валунов
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61412
     geometry : [53.9337122,27.6902396]
 n522096549  Нікіфарава / null / Никифорова / Никифорова
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61502
     geometry : [53.9412159,27.6972640]
 n522096729  рынак Уручча-3 / null / Рынок Уручье-3 / рынок Уручье-3
   other tags : highway=bus_stop
@@ -1805,16 +1805,16 @@ n522096790  null / null / Стариновская / Стариновская
   other tags : highway=bus_stop
     geometry : [53.9410542,27.7011007]
 n522096800  Астрашыцкая / null / Острошицкая / Острошицкая
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60113
     geometry : [53.9474649,27.6961193]
 n522096812  Астрашыцкая / null / Острошицкая / Острошицкая
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60111
     geometry : [53.9476165,27.6935272]
 n522097039  Астрашыцкая / null / Острошицкая / Острошицкая
   other tags : highway=bus_stop
     geometry : [53.9484281,27.6938122]
 n522097359  Астрашыцкая / null / Острошицкая / Острошицкая
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60110
     geometry : [53.9484887,27.6942757]
 n523136979  null / null / Факультет Радиофизики
   other tags : highway=bus_stop
@@ -1846,17 +1846,17 @@ n528725093  вуліца Заснавальнікаў / null / КЭЧ / ул. О
 n528939112  Сасновы Бор / null / Сосновый Бор / Сосновый Бор
   other tags : highway=bus_stop
     geometry : [53.9333935,27.6989056]
-n528954412  null / null / Городецкая / Городецкая
-  other tags : highway=bus_stop
+n528954412  Гарадзецкая / null / Городецкая / Городецкая
+  other tags : highway=bus_stop | ref=60404
     geometry : [53.9518291,27.6911840]
-n528955256  null / null / Городецкая / Городецкая
-  other tags : highway=bus_stop
+n528955256  Гарадзецкая / null / Городецкая / Городецкая
+  other tags : highway=bus_stop | ref=60403
     geometry : [53.9509435,27.6915291]
-n528957145  null / null / ДС Уручье-4
-  other tags : highway=bus_stop
+n528957145  ДС "Уручча-4" / null / ДС "Уручье-4" / ДС "Уручье-4"
+  other tags : highway=bus_stop | ref=60528
     geometry : [53.9538848,27.6889867]
-n528960187  null / null / Уручье-4
-  other tags : highway=bus_stop
+n528960187  ДС "Уручча-4" / null / ДС "Уручье-4" / ДС "Уручье-4"
+  other tags : highway=bus_stop | ref=60529
     geometry : [53.9542675,27.6877904]
 n528960611  Дзмітрыеў кірмаш / null / Дмитриев кирмаш / Дмитриев кирмаш
   other tags : highway=bus_stop | ref=60503
@@ -1865,19 +1865,19 @@ n528983452  Паштовая вуліца / Paštovaja vul. / Почтовая /
   other tags : highway=bus_stop
     geometry : [53.9428881,27.7058213]
 n534401776  Барысаўскі тракт / null / Борисовский тракт / Борисовский тракт
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61920
     geometry : [53.9383669,27.6661374]
 n534431998  Барысаўскі тракт / null / Станция метро Борисовский тракт / Борисовский тракт
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61921
     geometry : [53.9384698,27.6651178]
 n535470632  Нікіфарава / null / Никифорова / Никифорова
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61501
     geometry : [53.9407380,27.6956767]
 n535470638  Школа №45 / null / Школа №45 / Школа №45
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=62702
     geometry : [53.9388585,27.6915396]
 n535470643  Школа №45 / null / Школа №45 / Школа №45
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=62701
     geometry : [53.9389545,27.6911963]
 n535470646  Універсам "Першамайскі" / null / Универсам Первомайский / Универсам Первомайский
   other tags : highway=bus_stop
@@ -2084,11 +2084,11 @@ n610848337  null / null / 9-я больница
 n610848341  Пятроўшчына / null / Ручей Мышка / Петровщина
   other tags : highway=bus_stop
     geometry : [53.8657782,27.4964663]
-n612218705  null / null / Дворец легкой атлетики
-  other tags : highway=bus_stop
+n612218705  Палац лёгкай атлетыкі / null / Дворец легкой атлетики / Дворец легкой атлетики
+  other tags : highway=bus_stop | ref=61703
     geometry : [53.9509475,27.7049950]
 n612218707  Палац лёгкай атлетыкі / null / Дворец легкой атлетики / Дворец лёгкой атлетики
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=91703
     geometry : [53.9510061,27.7065067]
 n612218708  null / null / Спортивно-стрелковый комплекс
   other tags : highway=bus_stop
@@ -2096,11 +2096,11 @@ n612218708  null / null / Спортивно-стрелковый комплек
 n612218709  null / null / Спортивно-стрелковый комплекс
   other tags : highway=bus_stop
     geometry : [53.9535616,27.7147795]
-n612218710  null / null / Военная академия
-  other tags : highway=bus_stop
+n612218710  Ваенная акадэмія / null / Военная академия / Военная академия
+  other tags : highway=bus_stop | ref=60301
     geometry : [53.9614317,27.7336216]
-n612218712  null / null / Военная академия
-  other tags : highway=bus_stop
+n612218712  Ваенная акадэмія / null / Военная академия / Военная академия
+  other tags : highway=bus_stop | ref=60302
     geometry : [53.9618731,27.7334073]
 n613214956  null / null / Щербакова
   other tags : highway=bus_stop
@@ -2368,28 +2368,28 @@ n713214696  Гасцініца Юбілейная / null / Гостиница Ю
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.9113467,27.5470153]
 n725142976  Акадэміка Купрэвіча / null / Академика Купревича / Академика Купревича
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60104
     geometry : [53.9266704,27.6827921]
 n725142983  Акадэміка Купрэвіча / null / Академика Купревича / Академика Купревича
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60103
     geometry : [53.9268918,27.6842988]
 n747751943  Кацельня / null / Котельная / Котельная
   other tags : highway=bus_stop
     geometry : [53.9287676,27.6998493]
 n747751971  Акадэмгарадок / null / Академгородок / Академгородок
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60102
     geometry : [53.9275639,27.6889414]
 n747751979  рынак Уручча-3 / null / Рынок Уручье-3 / рынок Уручье-3
   other tags : highway=bus_stop
     geometry : [53.9418634,27.6987111]
 n747751987  Акадэмгарадок / null / Академгородок / Академгородок
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60101
     geometry : [53.9274308,27.6904338]
 n747751994  Кацельня / null / Котельная / Котельная
   other tags : highway=bus_stop
     geometry : [53.9298295,27.7002010]
 n747751999  Доследнае поле / null / Опытное поле / Опытное поле
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60515
     geometry : [53.9249232,27.6953578]
 n767074783  Андрэеўская вул. / null / Андреевская / Андреевская улица
   other tags : generated=yes | highway=bus_stop
@@ -3717,8 +3717,8 @@ n767183413  вуліца Матусевіча / null / Матусевича / у
 n767183414  Заапарк / null / Зоопарк / Зоопарк
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8497911,27.6333147]
-n767183417  null / null / Институт неврологии и нейрохирургии / институт Неврологии и Нейрохирургии
-  other tags : generated=yes | highway=bus_stop
+n767183417  Інстытут неўралогіі і нейрахірургіі / null / Институт неврологии и нейрохирургии / Институт неврологии и нейрохирургии
+  other tags : generated=yes | highway=bus_stop | ref=61002
     geometry : [53.9241066,27.6766146]
 n767183418  Запарожская вул. / null / Запорожская / Запорожская ул.
   other tags : generated=yes | highway=bus_stop
@@ -3747,8 +3747,8 @@ n767183426  null / null / АЗС
 n767183428  Ждановічы ГЦ / null / ТЦ Ждановичи
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9379623,27.4459182]
-n767183430  null / null / Горбатова, 45
-  other tags : generated=yes | highway=bus_stop
+n767183430  Гарбатава, 45 / null / Горбатова, 45 / Горбатова, 45
+  other tags : generated=yes | highway=bus_stop | ref=60406
     geometry : [53.9368600,27.7270700]
 n767183431  Гаражы / null / Гаражи / Гаражи
   other tags : generated=yes | highway=bus_stop
@@ -3952,8 +3952,8 @@ n767183510  null / null / Стебенева
 n767183511  null / null / ДС Карастояновой
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9411800,27.5654500]
-n767183512  null / null / Институт неврологии и нейрохирургии / институт Неврологии и Нейрохирургии
-  other tags : generated=yes | highway=bus_stop
+n767183512  Інстытут неўралогіі і нейрахірургіі / null / Институт неврологии и нейрохирургии / Институт неврологии и нейрохирургии
+  other tags : generated=yes | highway=bus_stop | ref=51001
     geometry : [53.9240431,27.6779739]
 n767183513  вуліца Шчадрына / null / Щедрина / улица Щедрина
   other tags : generated=yes | highway=bus_stop
@@ -3979,8 +3979,8 @@ n767183522  null / null / Школа-интернат / Школа-интерн�
 n767183523  null / null / Розы Люксембург
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8908600,27.5148100]
-n767183525  null / null / Горбатова, 44
-  other tags : generated=yes | highway=bus_stop
+n767183525  Гарбатава, 44 / null / Горбатова, 44 / Горбатова, 44
+  other tags : generated=yes | highway=bus_stop | ref=60405
     geometry : [53.9366300,27.7266600]
 n767183526  вуліца Бабушкіна / vul. Babuškina / Бабушкина / улица Бабушкина
   other tags : generated=yes | highway=bus_stop
@@ -4216,8 +4216,8 @@ n767183640  null / null / Малиновка-9
 n767183642  Дражня / null / Дражня / Дражня
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9020134,27.6642587]
-n767183643  null / null / Горбатова, 73
-  other tags : generated=yes | highway=bus_stop
+n767183643  Гарбатава, 73 / null / Горбатова, 73 / Горбатова, 73
+  other tags : generated=yes | highway=bus_stop | ref=60407
     geometry : [53.9377900,27.7324700]
 n767183644  Сокал / null / Сокол / Сокол
   other tags : generated=yes | highway=bus_stop
@@ -4346,7 +4346,7 @@ n767183698  Брылеўская вул. / null / Брилевская / Бри�
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8731000,27.5287700]
 n767183699  Вялікі Лес / null / Великий Лес / Великий Лес
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | ref=60311
     geometry : [53.9439061,27.7190024]
 n767183700  null / null / Универсам Брест
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position | type=public_transport
@@ -4369,8 +4369,8 @@ n767183706  Гаражы / null / гаражи / Гаражи
 n767183707  null / null / Станция метро Восток
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9345668,27.6511495]
-n767183709  null / null / Колледж связи
-  other tags : generated=yes | highway=bus_stop
+n767183709  Каледж сувязі / null / Колледж связи / Колледж связи
+  other tags : generated=yes | highway=bus_stop | ref=61203
     geometry : [53.9251100,27.6658700]
 n767183711  null / null / Лукьяновича
   other tags : generated=yes | highway=bus_stop
@@ -4391,7 +4391,7 @@ n767183720  вуліца Янкоўскага / null / Янковского / у
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8812400,27.4539100]
 n767183722  Доследнае поле / null / Опытное поле / Опытное поле
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60514
     geometry : [53.9255491,27.6943836]
 n767183723  null / null / Поликлиника №16
   other tags : generated=yes | highway=bus_stop
@@ -4823,8 +4823,8 @@ n767184039  null / null / Станция метро Первомайская
 n767184043  null / null / Ротмистрова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8393780,27.6926021]
-n767184046  null / null / Колледж связи
-  other tags : generated=yes | highway=bus_stop
+n767184046  Каледж сувязі / null / Колледж связи / Колледж связи
+  other tags : generated=yes | highway=bus_stop | ref=51202
     geometry : [53.9245921,27.6671256]
 n767184049  null / null / Белпласт
   other tags : generated=yes | highway=bus_stop
@@ -4967,8 +4967,8 @@ n767184126  вуліца Анаева / null / Аннаева / улица Ан�
 n767184127  вуліца Гарэцкага / null / Горецкого / улица Горецкого
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8840625,27.4489011]
-n767184128  null / null / Горбатова, 74
-  other tags : generated=yes | highway=bus_stop
+n767184128  Гарбатава, 74 / null / Горбатова, 74 / Горбатова, 74
+  other tags : generated=yes | highway=bus_stop | ref=60408
     geometry : [53.9374700,27.7314800]
 n767184129  null / null / Якуба Коласа
   other tags : generated=yes | highway=bus_stop
@@ -4980,7 +4980,7 @@ n767184131  Гандлёвы цэнтр «Кірмаш» / null / ТЦ Кирм�
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8655462,27.4816785]
 n767184132  Музей валуноў / null / Музей валунов / Музей валунов
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=61413
     geometry : [53.9335676,27.6897803]
 n767184134  null / null / ДС Масюковщина
   other tags : generated=yes | highway=bus_stop
@@ -5006,7 +5006,7 @@ n767184140  null / null / Дом Милосердия
 n767184142  Мядзведжына-1 / null / Кириенко
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8936100,27.4736500]
-n767184143  null / null / Уручье-4
+n767184143  ДС "Уручча-4" / null / ДС "Уручье-4" / ДС "Уручье-4"
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9541300,27.6894100]
 n767184144  Палявая вуліца / Paliavaja vul. / Полевая улица / Полевая улица
@@ -5048,11 +5048,11 @@ n767184158  null / null / ДС Чижовка-1
 n767184159  Мост / null / Мост / Мост
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8348600,27.5391600]
-n767184160  Рагачоўская / null / Рогачевская
-  other tags : generated=yes | highway=bus_stop
+n767184160  Рагачоўская / null / Рогачевская / Рогачевская
+  other tags : generated=yes | highway=bus_stop | ref=61802
     geometry : [53.9457405,27.7204133]
 n767184161  Астрашыцкая / null / Острошицкая / Острошицкая
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | ref=60112
     geometry : [53.9466524,27.6954814]
 n767184163  null / null / Поворот на Чижовку
   other tags : generated=yes | highway=bus_stop
@@ -5117,11 +5117,11 @@ n1138794889  Раманаўская слабада / null / Романовска
 n1163511079
   other tags : highway=bus_stop
     geometry : [53.9424789,27.6526711]
-n1163511080  null / null / Всехсвятская
-  other tags : highway=bus_stop
+n1163511080  Усіхсвяцкая / null / Всехсвятская / Всехсвятская
+  other tags : highway=bus_stop | ref=62106
     geometry : [53.9444554,27.6581535]
-n1163511081  null / null / Всехсвятская
-  other tags : highway=bus_stop
+n1163511081  Усіхсвяцкая / null / Всехсвятская / Всехсвятская
+  other tags : highway=bus_stop | ref=62107
     geometry : [53.9445482,27.6569345]
 n1180974091  Каліноўскага / null / Калиновского
   other tags : highway=bus_stop
