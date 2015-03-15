@@ -1056,7 +1056,7 @@ n1019987813  null / null / Барбосс
 n1057075238  null / null / Бильярд
   other tags : amenity=pub
     geometry : [53.9083079,27.4657851]
-n1081696232  null / null / Суши Вёсла / Суши Вёсла
+n1081696232  Сушы Вёслы / null / Суши Вёсла / Суши Вёсла
   other tags : amenity=cafe
     geometry : [53.9471523,27.6817134]
 n1099883868  null / null / Бистро
@@ -1107,7 +1107,7 @@ n1141989039  null / null / Goodys
 n1175265078  Васiлькi / null / Васильки / Васильки
   other tags : amenity=restaurant | opening_hours=11:00-23:00
     geometry : [53.9231725,27.6071492]
-n1175308217  null / null / Bierstrasse / Бирштрассе
+n1175308217  Бірштрассэ / null / Bierstrasse / Бирштрассе
   other tags : addr:housenumber=1 | addr:street=улица Гинтовта | amenity=restaurant | opening_hours=10:00-23:00
     geometry : [53.9466916,27.6652809]
 n1176760135
@@ -1255,7 +1255,7 @@ n1474080471  null / null / Тусэ
 n1480122273  null / null / Sushi House
   other tags : amenity=cafe | cuisine=sushi
     geometry : [53.8405998,27.5049426]
-n1481604579  null / null / Doors / Doors
+n1481604579  Doors / null / Doors / Doors
   other tags : amenity=cafe | opening_hours=Mo-Fr 11:00-24:00; Sa-Su 15:00-24:00
     geometry : [53.9467541,27.6821432]
 n1483850581  null / null / Сытый папа
@@ -2606,8 +2606,8 @@ n3268849968  Кафэ-сталовая / null / Кафе-столовая / Ка
 n3268851967  null / null / кислородный бар
   other tags : amenity=cafe
     geometry : [53.9185302,27.6073213]
-n3268928061  null / null / Cool Coffee
-  other tags : addr:city=Минск | addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | cuisine=coffee_shop | internet_access=wlan | opening_hours=8.00-23.00 | smoking=no | website=vk.com/public_coolcoffee
+n3268928061  Cool Coffee / null / Cool Coffee / Cool Coffee
+  other tags : addr:city=Минск | addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | cuisine=coffee_shop | internet_access=wlan | opening_hours=08:00-23:00 | smoking=no | website=vk.com/public_coolcoffee
     geometry : [53.9453975,27.6832749]
 n3270390561  null / null / Маэстро
   other tags : amenity=cafe

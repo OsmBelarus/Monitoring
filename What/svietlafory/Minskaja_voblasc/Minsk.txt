@@ -1554,13 +1554,13 @@ n475199578  Уручье-6 / null / Уручье-6 / Уручье-6
   other tags : highway=bus_stop
     geometry : [53.9452745,27.6710013]
 n475199579  Бізнес-цэнтр / null / Бизнес-центр / Бизнес-центр
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60209
     geometry : [53.9463505,27.6672334]
 n475199580  Бізнес-цэнтр / null / Бизнес-центр / Бизнес-центр
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | ref=60211
     geometry : [53.9472629,27.6670570]
-n475199581  null / null / Бизнес-центр
-  other tags : highway=bus_stop
+n475199581  Бізнес-цэнтр / null / Бизнес-центр / Бизнес-центр
+  other tags : highway=bus_stop | ref=60210
     geometry : [53.9466214,27.6657524]
 n475208255  парк Уручча / null / парк Уручье / парк Уручье
   other tags : highway=bus_stop
@@ -1858,8 +1858,8 @@ n528957145  null / null / ДС Уручье-4
 n528960187  null / null / Уручье-4
   other tags : highway=bus_stop
     geometry : [53.9542675,27.6877904]
-n528960611  null / null / Дмитриев кирмаш
-  other tags : highway=bus_stop
+n528960611  Дзмітрыеў кірмаш / null / Дмитриев кирмаш / Дмитриев кирмаш
+  other tags : highway=bus_stop | ref=60503
     geometry : [53.9527736,27.6827468]
 n528983452  Паштовая вуліца / Paštovaja vul. / Почтовая / Почтовая улица
   other tags : highway=bus_stop
@@ -2015,8 +2015,8 @@ n592652915  Дружба / null / Студенческая деревня / Др
 n599392548  Мінск-Паўднёвы / Менск-Паўднёвы / null / Станция Минск Южный
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8650987,27.5592615]
-n600910949  null / null / Дмитриев кирмаш
-  other tags : highway=bus_stop
+n600910949  Дзмітрыеў кірмаш / null / Дмитриев кирмаш / Дмитриев кирмаш
+  other tags : highway=bus_stop | ref=60504
     geometry : [53.9525667,27.6812502]
 n605710926  null / null / Громова
   other tags : highway=bus_stop
