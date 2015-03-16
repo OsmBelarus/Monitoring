@@ -97,7 +97,7 @@ n507007075  Цэнтр Еўропы / null / Центр Европы
     geometry : [55.4847446,28.7761683]
 n507011853  Кандраценка Раман Ісідравіч / null / Кондратенко Роман Исидорович
   other tags : historic=monument
-    geometry : [55.4863038,28.7680322]
+    geometry : [55.4863933,28.7679541]
 n507011855
   other tags : historic=monument
     geometry : [55.4865876,28.7681211]
@@ -517,9 +517,9 @@ n3155936023  null / null / памятник купцу / памятник куп
 n3155946674  null / null / В. И. Ленин / В. И. Ленин
   other tags : fixme=уточнить положение | historic=memorial
     geometry : [55.4849840,28.7733842]
-n3155946675  null / null / Симеон Полоцкий / Симеон Полоцкий
+n3155946675  Сімяон Полацкі / null / Симеон Полоцкий / Симеон Полоцкий
   other tags : historic=memorial
-    geometry : [55.4854419,28.7735354]
+    geometry : [55.4855410,28.7735171]
 n3155946676  null / null / Ю. В. Тарич / Ю. В. Тарич
   other tags : historic=memorial
     geometry : [55.4855115,28.7742134]
@@ -574,6 +574,12 @@ n3342273872
 n3342284346
   other tags : amenity=parking
     geometry : [55.4865028,28.7648940]
+n3400289749
+  other tags : historic=memorial
+    geometry : [55.4841066,28.7842374]
+n3400289750  null / null / Столовая Славянская
+  other tags : fast_food=cafeteria
+    geometry : [55.4843590,28.7856268]
 w22374813
   other tags : gauge=1520 | railway=rail | usage=main
     geometry : n240470995[55.4804722,28.8003830] n119310083[55.4814733,28.8005750]

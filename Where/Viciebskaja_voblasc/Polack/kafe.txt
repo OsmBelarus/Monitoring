@@ -5,8 +5,8 @@ n306067289  Кавярня «Адпачынак» / null / Кафе Отдых
   other tags : amenity=cafe | cuisine=international
     geometry : [55.4960185,28.7612191]
 n459100345  Даміян / null / Дамиан
-  other tags : amenity=cafe
-    geometry : [55.4834503,28.7787141]
+  other tags : amenity=cafe | opening_hours=Mo-Su 12:00-00:00
+    geometry : [55.4834189,28.7786030]
 n679722392  Славянскі / null / Славянский / Славянский
   other tags : amenity=restaurant
     geometry : [55.4849620,28.7770051]
@@ -65,5 +65,5 @@ n3198633681  null / null / Старый Тбилиси
   other tags : amenity=restaurant
     geometry : [55.4915054,28.7814559]
 n3392877351  null / null / Кафетерий
-  other tags : amenity=cafe
+  other tags : amenity=cafe | opening_hours=Mo-Su 10:00-15:00,15:30-22
     geometry : [55.4842002,28.7788790]
