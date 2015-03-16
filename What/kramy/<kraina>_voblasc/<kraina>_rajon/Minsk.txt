@@ -5576,7 +5576,7 @@ n1933620003  null / null / COSMOPOLITAN
 n1933768501
   other tags : shop=florist
     geometry : [53.9200681,27.5788018]
-n1943807917
+n1943807917  null / null / Продукты
   other tags : addr:housenumber=12 | addr:street=улица Ежи Гедройца | shop=convenience
     geometry : [53.8511476,27.4800280]
 n1943810075
@@ -9418,7 +9418,7 @@ n3233070812  null / null / Мила
     geometry : [53.8501782,27.4733576]
 n3233072866  null / null / Мила
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=cosmetics
-    geometry : [53.8505654,27.4764513]
+    geometry : [53.8506047,27.4764562]
 n3233073552  null / null / Салодкая крама «Плюшка»
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=confectionery
     geometry : [53.8496844,27.4782156]
@@ -10788,8 +10788,9 @@ n3286610142  null / null / Бордо
 n3292139301  null / null / Офис www.antiradar.by
   other tags : addr:city=Минск | addr:housename=ул. Будславская, 23/3 | addr:housenumber=23/3 | addr:street=Будславская | shop=car_repair | website=www.antiradar.by
     geometry : [53.9607796,27.5478737]
-n3294880456  null / null / Lady & Dandy
-  other tags : addr:city=Минск | addr:housenumber=14 | addr:street=улица Ежи Гедройца | opening_hours=вт-вс: 10:00-20:00 | operator=ИП Алексеева Е.Е. | shop=clothes | source=http://lady-dandy.by | website=http://lady-dandy.by | wheelchair=no
+n3294880456  null / null / Леди & Денди / Леди & Денди
+  other names: name:en=Lady & Dandy
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:street=улица Ежи Гедройца | opening_hours=вт-вс: 10:00-20:00 | operator=ИП Алексеева Е.Е. | phone=+375(29)9447410, +375(29)2577285 | shop=clothes | source=http://Lady-Dandy.by | website=http://Lady-Dandy.by | wheelchair=no
     geometry : [53.8518499,27.4807327]
 n3295054034  null / null / Хозяюшка
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=chemist
@@ -10982,10 +10983,23 @@ n3400540132  null / null / Kärcher
     geometry : [53.8507555,27.4765150]
 n3400540138  null / null / Міналіта
   other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8505245,27.4764238]
+    geometry : [53.8505192,27.4764213]
 n3400540139  null / null / Зоомовары
   other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | shop=pet
     geometry : [53.8495375,27.4778737]
 n3400540144  null / null / Продукты
   other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | opening_hours=9:00-22:00 | shop=convenience
     geometry : [53.8495651,27.4778697]
+n3400605732  null / null / Мебель
+  other tags : shop=furniture
+    geometry : [53.8517913,27.4803413]
+n3400605733  null / null / Domix.bY
+  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | shop=interior_decoration | source=http://Domix.by | website=http://Domix.by
+    geometry : [53.8518024,27.4804594]
+n3400605734  null / null / Ростинг / Ростинг
+  other names: name:en=Rosting
+  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | shop=travel_agency
+    geometry : [53.8518230,27.4805854]
+n3400605760  null / null / Амелис
+  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | phone=+375(29)2565634, +375(44)4783094 | shop=hairdresser
+    geometry : [53.8519495,27.4810374]
