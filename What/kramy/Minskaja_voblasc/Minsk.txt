@@ -9438,7 +9438,7 @@ n3233093145  null / null / Магатойс
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=toys
     geometry : [53.8510514,27.4766196]
 n3233094150  null / null / OZ.by
-  other tags : shop=books
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=books
     geometry : [53.8511339,27.4743340]
 n3233095531  null / null / Baden
   other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-20:00, сб: 10:00-19:00, вс: 10:00-18:00 | shop=shoes
@@ -9477,17 +9477,14 @@ n3240836622  null / null / МТС
   other tags : shop=mobile_phone
     geometry : [53.8487281,27.4788766]
 n3240836633  null / null / Магазин пива
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=beverages
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=beverages | website=http://Beer-Loga.by
     geometry : [53.8513596,27.4744206]
-n3240836635
-  other tags : shop=alcohol
-    geometry : [53.8516885,27.4745733]
-n3240836636
-  other tags : shop=convenience
-    geometry : [53.8522615,27.4747747]
-n3240836637  null / null / Белита-Витекс
+n3240836635  null / null / Аматиста
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=alcohol
+    geometry : [53.8525341,27.4748857]
+n3240836637  null / null / Белита-Витекс / Белита-Витекс
   other tags : addr:city=122 | addr:street=проспект Дзержинского | shop=cosmetics
-    geometry : [53.8521349,27.4747586]
+    geometry : [53.8523459,27.4748160]
 n3240836647  null / null / Магазин велосипедов «ВелоГрад»
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=sports
     geometry : [53.8495942,27.4781324]
@@ -10964,7 +10961,7 @@ n3400540126  null / null / Дверной стиль
   other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=interior_decoration
     geometry : [53.8522143,27.4770863]
 n3400540127  null / null / Кухни
-  other tags : shop=furniture
+  other tags : shop=kitchen
     geometry : [53.8516700,27.4768610]
 n3400540128  null / null / Квадро
   other tags : addr:city=119 | addr:street=проспект Дзержинского | shop=interior_decoration
@@ -11003,3 +11000,18 @@ n3400605734  null / null / Ростинг / Ростинг
 n3400605760  null / null / Амелис
   other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | phone=+375(29)2565634, +375(44)4783094 | shop=hairdresser
     geometry : [53.8519812,27.4811017]
+n3400719592  null / null / Ювелир-карат
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=jewelry
+    geometry : [53.8501704,27.4739228]
+n3400746293  null / null / Двери для дома и офиса
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=interior_decoration
+    geometry : [53.8509551,27.4742500]
+n3400746294  null / null / Фрут Стар
+  other tags : shop=greengrocer
+    geometry : [53.8514741,27.4744432]
+n3400746295  null / null / Насенне
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=yes
+    geometry : [53.8516355,27.4745075]
+n3400746296  null / null / Немецкий мультимаркет света
+  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | operator=Regenbogen | shop=electronics
+    geometry : [53.8527177,27.4749179]
