@@ -700,7 +700,7 @@ n485962440  Веста / null / Веста / Веста
 n492081153  null / null / Кофе Сити
   other tags : amenity=cafe | cuisine=sushi
     geometry : [53.9099639,27.4962274]
-n492119458  null / null / Тоскана / Тоскана
+n492119458  Таскана / null / Тоскана / Тоскана
   other tags : amenity=cafe
     geometry : [53.9520854,27.6830377]
 n497588009  null / null / Pizza
@@ -1024,7 +1024,7 @@ n988599143  null / null / Presto Pizza
   other tags : addr:city=Минск | addr:housenumber=3 | addr:postcode=220007 | addr:street=улица Жуковского | amenity=fast_food
     geometry : [53.8848224,27.5524754]
 n990207605  Terra Pizza / null / Terra Pizza / Terra Pizza
-  other tags : addr:city=Минск | addr:housenumber=186 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=cafe | opening_hours=Mo-Su 10:00-23:00 | smoking=no | website=http://www.terrapizza.by/
+  other tags : addr:city=Минск | addr:housenumber=186 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=cafe | contact:website=http://www.terrapizza.by/ | opening_hours=Mo-Su 10:00-23:00 | smoking=no
     geometry : [53.9478841,27.6978968]
 n991008645  Сталовая / null / Столовая / Столовая
   other tags : amenity=cafe
@@ -1670,7 +1670,7 @@ n1870460982  null / null / Столовая
   other tags : amenity=cafe | operator=УО БГАТУ | phone=+375172673583
     geometry : [53.9272148,27.6203120]
 n1870460984  Сталовая / null / Столовая / Столовая
-  other tags : amenity=cafe | operator=РУП ПСЗ ОПТРОН | phone=+375296519119
+  other tags : amenity=cafe | contact:phone=+375296519119 | operator=РУП ПСЗ ОПТРОН
     geometry : [53.9341903,27.7006685]
 n1870460985  null / null / Столовая
   other tags : amenity=cafe | operator=УО БГУФК | phone=+375172506343
@@ -2053,7 +2053,7 @@ n2616019839  null / null / Терра пицца
 n2617805482  Зерне / null / Зерно / Зерно
   other tags : amenity=cafe | cuisine=coffee_shop
     geometry : [53.9123778,27.5808739]
-n2619663319  null / null / Амстердам
+n2619663319  Амстэрдам / null / Амстердам / Амстердам
   other tags : amenity=cafe
     geometry : [53.9356573,27.6732639]
 n2619700699  ПІТ-СТОП / null / ПИТ-СТОП / ПИТ-СТОП
@@ -2588,7 +2588,7 @@ n3258015761  null / null / кафе
 n3259059903  null / null / Винтаж
   other tags : addr:city=Минск | addr:housenumber=95 | addr:street=улица Калиновского | amenity=cafe | smoking=yes
     geometry : [53.9472972,27.6291089]
-n3265978805  null / null / Вечерний квартал
+n3265978805  Вячэрні квартал / null / Вечерний квартал / Вечерний квартал
   other tags : amenity=cafe
     geometry : [53.9520495,27.6829673]
 n3268782703  null / null / Караоке-кафе
@@ -2610,7 +2610,7 @@ n3268851967  null / null / кислородный бар
   other tags : amenity=cafe
     geometry : [53.9185302,27.6073213]
 n3268928061  Cool Coffee / null / Cool Coffee / Cool Coffee
-  other tags : addr:city=Минск | addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | cuisine=coffee_shop | internet_access=wlan | opening_hours=08:00-23:00 | smoking=no | website=vk.com/public_coolcoffee
+  other tags : addr:city=Минск | addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | contact:website=vk.com/public_coolcoffee | cuisine=coffee_shop | internet_access=wlan | opening_hours=08:00-23:00 | smoking=no
     geometry : [53.9453975,27.6832749]
 n3270390561  null / null / Маэстро
   other tags : amenity=cafe

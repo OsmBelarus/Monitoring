@@ -1970,7 +1970,7 @@ n306066860  null / null / Галерея Вин / Галерея Вин
   other tags : shop=general
     geometry : [53.9111500,27.5437100]
 n306067325  Еўраопт / null / Евроопт / Евроопт
-  other tags : addr:housenumber=22 | addr:street=Ложинская улица | opening_hours=9:00-23:00 | phone=+375(17)283-49-11 | shop=supermarket
+  other tags : addr:housenumber=22 | addr:street=Ложинская улица | contact:phone=+375(17)283-49-11 | opening_hours=9:00-23:00 | shop=supermarket
     geometry : [53.9516486,27.6813905]
 n306068065  null / null / Квинт / Квинт
   other tags : shop=general
@@ -2627,7 +2627,7 @@ n803915632  null / null / Nelva
 n804042184  null / null / Домовой
   other tags : opening_hours=Mo-Fr 10:00-21:00; Sa, Su 10:00-20:00 | shop=furniture
     geometry : [53.9213754,27.5766277]
-n805168030  null / null / Тоскана / Тоскана
+n805168030  Таскана / null / Тоскана / Тоскана
   other tags : shop=supermarket
     geometry : [53.9522505,27.6828803]
 n813372511  null / null / Провиант
@@ -3318,7 +3318,7 @@ n1118887256  Еўрасетка / null / Евросеть / Евросеть
 n1118904218  Акцэнт / null / Акцент
   other tags : shop=convenience
     geometry : [53.9280556,27.6292536]
-n1118913418  Усход-2 / null / Восток-2
+n1118913418  Усход-2 / null / Восток-2 / Восток-2
   other tags : shop=hairdresser
     geometry : [53.9521023,27.6836256]
 n1118945789  null / null / Кирби
@@ -4615,7 +4615,7 @@ n1546391697  null / null / Космо
   other tags : covered=yes | entrance=yes | opening_hours=Mo-Fr 09:00-20:00; Sa-Su 10:00-19:00 | shop=chemist
     geometry : [53.9170175,27.5585667]
 n1546950111  Вэгас / null / Вегас / Вегас
-  other tags : addr:housenumber=168/2 | addr:postcode=220141 | addr:street=проспект Независимости | designation=Фирменный магазин "Вегас": матрасы, подушки и пр. | shop=yes | website=http://vegas.by/
+  other tags : addr:housenumber=168/2 | addr:postcode=220141 | addr:street=проспект Независимости | contact:website=http://vegas.by/ | designation=Фирменный магазин "Вегас": матрасы, подушки и пр. | shop=yes
     geometry : [53.9451576,27.6914213]
 n1547041659
   other tags : shop=convenience
@@ -5882,10 +5882,10 @@ n2331595635  Дзмітрыеў кірмаш / null / Дмитриев кирм�
 n2331595636  Новы стыль / null / Новый стиль / Новый стиль
   other tags : shop=hairdresser
     geometry : [53.9515761,27.6818324]
-n2331597888  null / null / Автозапчасти
+n2331597888  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : shop=car
     geometry : [53.9522991,27.6900353]
-n2331597889  null / null / Парикмахерская
+n2331597889  Цырульня / null / Парикмахерская / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.9516812,27.6905335]
 n2332440486  null / null / У Дома
@@ -7008,7 +7008,7 @@ n2618472451  null / null / цветы
 n2619700710  null / null / Море чая
   other tags : addr:city=Минск | shop=yes
     geometry : [53.9506549,27.6938606]
-n2619716460  null / null / МТС
+n2619716460  МТС / null / МТС / МТС
   other tags : shop=mobile_phone
     geometry : [53.9362033,27.6737943]
 n2619721311  null / null / Дарьюшка
@@ -7128,10 +7128,10 @@ n2620060354  null / null / Белсоюзпечать
 n2620069113  null / null / Ялина, ремонт обуви
   other tags : addr:city=Минск | shop=yes
     geometry : [53.9498132,27.6944433]
-n2620101357  null / null / Белсоюзпечать
+n2620101357  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.9539344,27.6887404]
-n2620101358  null / null / Белсоюзпечать
+n2620101358  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.9527278,27.6826201]
 n2620126795  Алло / null / Алло / Алло
@@ -7945,7 +7945,7 @@ n2837156145  null / null / ДеПариШарм
   other tags : addr:housenumber=21 | addr:street=улица Крупской | opening_hours=Mo-Su 08:00-20:00 | phone=+375173469039 | shop=hairdresser
     geometry : [53.8593605,27.6249696]
 n2837571598  Incanto / null / Incanto / Incanto
-  other tags : addr:housenumber=177 | addr:street=проспект Независимости | opening_hours=09:00-21:00 | phone=+375293901666 | shop=beauty
+  other tags : addr:housenumber=177 | addr:street=проспект Независимости | contact:phone=+375293901666 | opening_hours=09:00-21:00 | shop=beauty
     geometry : [53.9455400,27.6829935]
 n2838232609  null / null / СТО
   other tags : shop=car_repair
@@ -9638,7 +9638,7 @@ n3261400344  null / null / Белсоюзпечать
 n3263636405  null / null / BoardShop
   other tags : addr:city=Минск | addr:housenumber=91 | addr:postcode=220116 | addr:street=проспект Дзержинского | opening_hours=10:00 - 22:00 | operator=ООО "БОРДШОП" | phone=+375 (29) 613 19 92 | shop=supermarket | website=http://BoardShop.by | wheelchair=yes
     geometry : [53.8592541,27.4818002]
-n3265960053  null / null / Живое пиво
+n3265960053  Жывое піва / null / Живое пиво / Живое пиво
   other tags : shop=alcohol
     geometry : [53.9523194,27.6827142]
 n3265978801  Velcom / null / Velcom / Velcom
@@ -10831,7 +10831,7 @@ n3323573831  null / null / «Корона Техно»
   other tags : shop=hifi
     geometry : [53.8428225,27.5288741]
 n3326560581  Райдэр / null / Райдер / Райдер
-  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Руссиянова | shop=bicycle | website=http://www.ridershop.by/
+  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Руссиянова | contact:website=http://www.ridershop.by/ | shop=bicycle
     geometry : [53.9433080,27.6859436]
 n3327384342  null / null / Трофей 
   other tags : opening_hours=10:00-22:00 | shop=outdoor | website=http://trofey.by/
