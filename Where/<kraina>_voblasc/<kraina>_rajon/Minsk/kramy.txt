@@ -8878,7 +8878,7 @@ n3190097698  null / null / Продукты
     geometry : [53.8527561,27.4747322]
 n3190097703  null / null / Поляна (продукты)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=9:00-23:00 | shop=convenience
-    geometry : [53.8517447,27.4769322]
+    geometry : [53.8517966,27.4769468]
 n3193011975  null / null / Шиномонтаж
   other tags : addr:city=Минск | addr:street=Железнодорожная улица | shop=car_repair
     geometry : [53.8733303,27.5039337]
@@ -9416,27 +9416,27 @@ n3233064585  null / null / Парничок №3
 n3233070812  null / null / Мила
   other tags : note=магазин | shop=yes
     geometry : [53.8501782,27.4733576]
-n3233072866  null / null / «Мила»
+n3233072866  null / null / Мила
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=cosmetics
     geometry : [53.8505654,27.4764513]
 n3233073552  null / null / Салодкая крама «Плюшка»
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=хлебобулочные_изделия,_конфеты
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=confectionery
     geometry : [53.8496844,27.4782156]
 n3233073895  null / null / Mark Formelle (магазин одежды и нижнего белья)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
     geometry : [53.8521291,27.4770204]
 n3233074628  null / null / Цветы
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
-    geometry : [53.8495190,27.4780424]
+    geometry : [53.8495240,27.4779770]
 n3233074779  null / null / Мила
   other tags : shop=косметика,_бытовая_химия
     geometry : [53.8493762,27.4811721]
 n3233086579  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.8465720,27.4872338]
-n3233093145
+n3233093145  null / null / Магатойс
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=toys
-    geometry : [53.8514755,27.4768092]
+    geometry : [53.8510514,27.4766196]
 n3233094150  null / null / OZ.by
   other tags : shop=books
     geometry : [53.8511339,27.4743340]
@@ -9444,27 +9444,21 @@ n3233095531  null / null / Baden
   other tags : shop=shoes
     geometry : [53.8501412,27.4737915]
 n3240836598  null / null / Second Hand
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=10:00-20:00 | operator=ООО «Бренд-импорт» | shop=clothes
+    geometry : [53.8497861,27.4763952]
+n3240836600  null / null / MilaVitsa (женское нижнее бельё)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8498206,27.4763543]
-n3240836600  null / null / Milavitsa (женское нижнее бельё)
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8499907,27.4761609]
-n3240836603  null / null / Кухни и мебель
+    geometry : [53.8500720,27.4762414]
+n3240836603  null / null / «Уютный дом» (кухни, мебель, двери)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=furniture
     geometry : [53.8497251,27.4769322]
-n3240836610  null / null / Посудная лавка (магазин посуды)
+n3240836610  null / null / Посудная лавка
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8501840,27.4762670]
-n3240836612
+    geometry : [53.8503189,27.4763380]
+n3240836612  null / null / Вита
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8507014,27.4764995]
-n3240836613
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=second_hand
-    geometry : [53.8508107,27.4765225]
-n3240836614  null / null / Магазин дверей и обоев
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8518609,27.4769454]
-n3240836616  null / null / Магазин мясных изделий
+    geometry : [53.8506669,27.4764775]
+n3240836616  null / null / Ваўкавыскія прысмакі
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=butcher
     geometry : [53.8497249,27.4767631]
 n3240836618
@@ -9506,15 +9500,12 @@ n3241524821  null / null / Автосалон AV
 n3242762717  Вэлком / null / Велком
   other tags : shop=mobile_phone
     geometry : [53.8632125,27.6041094]
-n3247321865  null / null / Крышталь (фирменный магазин)
-  other tags : shop=alcohol
-    geometry : [53.8510318,27.4765918]
 n3247321866  null / null / Одежда
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8511859,27.4766411]
+  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=second_hand
+    geometry : [53.8514928,27.4768342]
 n3247321867  null / null / ПроЗдоровье
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8500774,27.4762263]
+    geometry : [53.8502556,27.4763165]
 n3247419935  Пёс і кот / null / Пёс и кот / Пёс и кот
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00 | shop=pet
     geometry : [53.9412464,27.6869341]
@@ -10968,3 +10959,33 @@ n3392707665
 n3393432604  null / null / Виталюр
   other tags : shop=supermarket
     geometry : [53.8643423,27.4485825]
+n3400540126  null / null / Дверной стиль
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=interior_decoration
+    geometry : [53.8522143,27.4770863]
+n3400540127  null / null / Кухни
+  other tags : shop=furniture
+    geometry : [53.8516700,27.4768610]
+n3400540128  null / null / Квадро
+  other tags : addr:city=119 | addr:street=проспект Дзержинского | shop=interior_decoration
+    geometry : [53.8510134,27.4765955]
+n3400540129  null / null / Кристалл
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | shop=beverages
+    geometry : [53.8509723,27.4765874]
+n3400540130  null / null / ZOOмаркет
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | shop=pet
+    geometry : [53.8508853,27.4765794]
+n3400540131  null / null / Обои
+  other tags : shop=interior_decoration
+    geometry : [53.8508030,27.4765418]
+n3400540132  null / null / Kärcher
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | shop=electronics
+    geometry : [53.8507555,27.4765150]
+n3400540138  null / null / Міналіта
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
+    geometry : [53.8505245,27.4764238]
+n3400540139  null / null / Зоомовары
+  other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | shop=pet
+    geometry : [53.8495375,27.4778737]
+n3400540144  null / null / Продукты
+  other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | opening_hours=9:00-22:00 | shop=convenience
+    geometry : [53.8495651,27.4778697]
