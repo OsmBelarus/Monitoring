@@ -9414,7 +9414,7 @@ n3233064585  null / null / Парничок №3
   other tags : shop=yes
     geometry : [53.8477353,27.4862331]
 n3233070812  null / null / Мила
-  other tags : note=магазин | shop=yes
+  other tags : note=магазин | opening_hours=9:00-20:00 | shop=yes
     geometry : [53.8501782,27.4733576]
 n3233072866  null / null / Мила
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=cosmetics
@@ -9441,8 +9441,8 @@ n3233094150  null / null / OZ.by
   other tags : shop=books
     geometry : [53.8511339,27.4743340]
 n3233095531  null / null / Baden
-  other tags : shop=shoes
-    geometry : [53.8501412,27.4737915]
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-20:00, сб: 10:00-19:00, вс: 10:00-18:00 | shop=shoes
+    geometry : [53.8501292,27.4737780]
 n3240836598  null / null / Second Hand
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=10:00-20:00 | operator=ООО «Бренд-импорт» | shop=clothes
     geometry : [53.8497861,27.4763952]
