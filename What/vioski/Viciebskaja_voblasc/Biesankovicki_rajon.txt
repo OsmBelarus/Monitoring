@@ -392,7 +392,7 @@ n243031948  Гурына / Huryna / Гурино / Гурино
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8854600,29.3686900]
 n243031954  Застарынне / Zastarynnie / Застаринье / Застаринье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верховский сельский совет | place=hamlet
     geometry : [54.8977300,29.3819900]
 n243034276  Замялочча / Zamialočča / Замелочье / Замелочье
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -454,7 +454,7 @@ n243034347  Жавуры / Žavury / Жауры / Жауры
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Жавуры | place=hamlet
     geometry : [55.0477566,29.8205238]
 n243034351  Застарынне / Zastarynnie / Застаринье / Застаринье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский совет | place=hamlet
     geometry : [55.0334352,29.9090212]
 n243034356  Латыгава / Latyhava / Латыгово / Латыгово
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -566,13 +566,13 @@ n243038584  Елішава / Jelišava / Елишево / Елишево
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0939500,29.6039500]
 n243039848  Доўгае / Doŭhaje / Долгое / Долгое
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский совет | place=hamlet
     geometry : [55.1154900,29.7795600]
 n243039851  Крупеніна / Krupienina / Крупенино / Крупенино
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1311991,29.8034391]
-n243039859  Камлі / Kamli / Комли / Комли
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Камли | place=hamlet
+n243039859  Камлі / Kamli / Камли / Камли
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Комли | place=hamlet
     geometry : [55.1752537,29.7477526]
 n243040028  Гняздзілава / Hniazdzilava / Гнездилово / Гнездилово
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -848,8 +848,8 @@ w25097751  Купіна / Kupina / Купино / Купино
 w25097775  Абухава / Abuchava / Обухово / Обухово
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : n273154027[54.9934087,29.9036935] n960374553[54.9916767,29.9044992] n960374544[54.9909867,29.9062192] n960374543[54.9908167,29.9074192] n960374555[54.9903248,29.9096119] n273154039[54.9880606,29.9134253] n273154040[54.9891030,29.9153237] n273154041[54.9920751,29.9099588] n273154042[54.9937478,29.9122050] n273154044[54.9951872,29.9110661] n3048366259[54.9941220,29.9071856] n273154027[54.9934087,29.9036935]
-w25103539  Камлі / Kamli / Комли / Комли
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Камли | place=hamlet
+w25103539  Камлі / Kamli / Камли / Камли
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Комли | place=hamlet
     geometry : n273242610[55.1757055,29.7436807] n273242611[55.1743310,29.7449615] n273242613[55.1744747,29.7472024] n273242619[55.1747100,29.7493500] n273242623[55.1753100,29.7512300] n934429796[55.1763676,29.7520998] n934429684[55.1777042,29.7478223] n934429818[55.1770079,29.7454939] n934429708[55.1760605,29.7440250] n273242610[55.1757055,29.7436807]
 w25103542  Крупеніна / Krupienina / Крупенино / Крупенино
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
