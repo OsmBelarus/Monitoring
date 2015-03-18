@@ -100,9 +100,24 @@ n1598821835  Музычная школа / null / Музыкальная шко�
 n1602159773  Васілеўцы / null / Василевцы
   other tags : bus=yes | highway=bus_stop | local_ref=2, 4, 5, 7, 8, 9, 10a, 12 | public_transport=platform
     geometry : [55.5112268,28.6963051]
+n2324087160  null / null / Городок
+  other tags : highway=bus_stop
+    geometry : [55.5885115,28.5880015]
+n2324087164  null / null / Городок
+  other tags : highway=bus_stop
+    geometry : [55.5885431,28.5889139]
 n2456005039  null / null / Коптево
   other tags : highway=bus_stop
     geometry : [55.5422131,28.6668075]
+n2521292872  null / null / Дом офицеров
+  other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
+    geometry : [55.5865093,28.6005213]
+n2521292878  null / null / Сельпо
+  other tags : highway=bus_stop | shelter=no | tactile_paving=no
+    geometry : [55.5852758,28.6062164]
+n2521292883  null / null / Сельпо
+  other tags : highway=bus_stop | shelter=no | tactile_paving=no
+    geometry : [55.5854920,28.6062398]
 n2525503095  null / null / Коптево
   other tags : highway=bus_stop
     geometry : [55.5404543,28.6712849]
@@ -112,6 +127,9 @@ n2782982971  null / null / Нафтан
 n2788563277
   other tags : highway=bus_stop
     geometry : [55.5461365,28.5865764]
+n2823444870  null / null / Дом офицеров
+  other tags : highway=bus_stop
+    geometry : [55.5865623,28.5986150]
 n2992364658  null / null / Луговая
   other tags : highway=bus_stop
     geometry : [55.4947183,28.7110591]

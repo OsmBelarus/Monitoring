@@ -1,0 +1,75 @@
+n1282113958
+  other tags : barrier=gate
+    geometry : [52.0619718,29.2614343]
+n1282115564
+  other tags : barrier=gate
+    geometry : [52.0733984,29.2503631]
+n2150194785
+  other tags : access=no | barrier=gate | foot=yes
+    geometry : [52.0475934,29.2695900]
+n2497657274
+  other tags : access=no | barrier=gate
+    geometry : [52.0582014,29.2394967]
+n2723350953
+  other tags : barrier=gate
+    geometry : [52.0401636,29.2553616]
+n3247433492
+  other tags : barrier=gate
+    geometry : [52.0658084,29.1889026]
+n3253244559
+  other tags : access=destination | barrier=gate
+    geometry : [52.0429574,29.2485061]
+n3260065773
+  other tags : access=destination | barrier=gate
+    geometry : [52.0850406,29.2305282]
+n3329711305
+  other tags : access=permissive | barrier=gate
+    geometry : [52.0420745,29.1886861]
+n3339295305
+  other tags : access=no | barrier=gate
+    geometry : [52.0252437,29.2278339]
+n3339295307
+  other tags : access=no | barrier=gate
+    geometry : [52.0249665,29.2323025]
+n3339295316
+  other tags : access=no | barrier=gate
+    geometry : [52.0230234,29.2289210]
+n3339295317
+  other tags : access=no | barrier=gate
+    geometry : [52.0245685,29.2281937]
+n3339355954
+  other tags : access=no | barrier=gate | foot=yes
+    geometry : [52.0275336,29.2304075]
+n3339388466
+  other tags : access=no | barrier=gate
+    geometry : [52.0236717,29.2194292]
+n3342094874
+  other tags : access=no | barrier=gate
+    geometry : [52.0575445,29.2399047]
+w112889528
+  other tags : barrier=fence
+    geometry : n1282047677[52.0882198,29.2292215] n1282047370[52.0882773,29.2292719] n1282047745[52.0884844,29.2286428]
+w230273164  null / null / Подстанция 110-кВ Южная
+  other tags : access=private | barrier=fence | frequency=50 | landuse=industrial | power=substation | voltage=110000
+    geometry : n2387957771[52.0211962,29.2054301] n2387957759[52.0207870,29.2060603] n2387957768[52.0211106,29.2066150] n2387957775[52.0215197,29.2059848] n2387957771[52.0211962,29.2054301]
+w262809200
+  other tags : barrier=fence
+    geometry : n2684672634[52.0408344,29.2434605] n2684672636[52.0409103,29.2433813]
+w262809201
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684672638[52.0409421,29.2436801] n2684672642[52.0410243,29.2435942]
+w262809202
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684658499[52.0402483,29.2422819] n2684672621[52.0405013,29.2427806]
+w262809203
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684672616[52.0399377,29.2414109] n2684672615[52.0398711,29.2414697] n2684672617[52.0400608,29.2418982]
+w262809204
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684672639[52.0409575,29.2427750] n2684672627[52.0406845,29.2431316] n2684672622[52.0405211,29.2428217]
+w262809205
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684658534[52.0410436,29.2438580] n2684672643[52.0410311,29.2438621] n2684672638[52.0409421,29.2436801] n2684672634[52.0408344,29.2434605] n2684672628[52.0407037,29.2431812] n2684672629[52.0407612,29.2431078]
+w262809216
+  other tags : barrier=fence | fence_type=split_rail
+    geometry : n2684658538[52.0410580,29.2438886] n2684673066[52.0410491,29.2439007] n2684673069[52.0412591,29.2442990] n2684673071[52.0413268,29.2442421]

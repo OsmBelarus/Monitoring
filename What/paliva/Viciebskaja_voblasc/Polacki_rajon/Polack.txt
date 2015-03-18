@@ -1,0 +1,24 @@
+n306067254  null / null / АГЗС
+  other tags : amenity=fuel | fuel:lpg=yes | opening_hours=07:00-23:00 | operator=Полоцкгаз
+    geometry : [55.4580822,28.7094821]
+n1264143795  БЗП, аўтабаза РайСА / null / БЗП автобаза полоцкое РайПО
+  other tags : amenity=fuel | fuel:cng=yes | note=По безналичному расчету, по предварительной заявке | opening_hours=Mo-Fr 08:00-17:00 | operator=Белтрансгаз | phone=+375-214-423134, +375-214-483764 | website=http://www.metan.by/
+    geometry : [55.5070500,28.7483400]
+n3187338841  Беларуснафта № 46 / null / Белоруснефть № 46 / Белоруснефть № 46
+  other tags : addr:housenumber=32 | addr:street=улица Гагарина | amenity=fuel | contact:phone=+375 (214) 44-32-24 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | official_name=МАЗС № 46 | opening_hours=24/7 | operator=ПО «Белоруснефть»
+    geometry : [55.4840379,28.8006112]
+n3187338842  null / null / Белоруснефть № 54
+  other tags : addr:housenumber=47 | addr:street=улица Евфросинии Полоцкой | amenity=fuel | contact:phone=+375 (214) 42-53-76 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | official_name=МАЗС № 54 | opening_hours=Mo-Su 07:00-19:00 | operator=ПО «Белоруснефть»
+    geometry : [55.4998178,28.7691891]
+w211639561  Беларуснафта № 71 / null / Белоруснефть № 71 / Белоруснефть № 71
+  other tags : addr:housenumber=2 | addr:street=Вильнюсское шоссе | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375(214) 41-30-70 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | official_name=АЗС № 71 | opening_hours=Mo-Su 00:20-06:30,06:40-18:30,18:40-24:00 | operator=ПО «Белоруснефть»
+    geometry : n2216224315[55.4741531,28.7449341] n2216224316[55.4742375,28.7450496] n3180491878[55.4741311,28.7452917] n2216224314[55.4741213,28.7453140] n3180491875[55.4740960,28.7452794] n306067312[55.4740702,28.7452441] n3133892641[55.4740677,28.7451284] n2216224315[55.4741531,28.7449341]
+w293283853  Беларуснафта № 46 / null / Белоруснефть № 46 / Белоруснефть № 46
+  other tags : addr:housenumber=32 | addr:street=улица Гагарина | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375 (214) 44-32-24 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=МАЗС № 46 | opening_hours=Mo-Su 00:20-07:00,07:10-19:00,19:30-24:00 | operator=ПО «Белоруснефть»
+    geometry : n2968624645[55.4845226,28.7999338] n2968624641[55.4845113,28.8002414] n2968624633[55.4844500,28.8002343] n2968624623[55.4843950,28.8002280] n306067046[55.4843448,28.8002223] n2968624620[55.4843561,28.7999148] n2968624645[55.4845226,28.7999338]
+w312204512  null / null / СлавНефть №31
+  other tags : addr:housenumber=5 | addr:street=Вильнюсское шоссе | amenity=fuel | brand=Славнефть | building=yes | building:levels=1 | contact:phone=+375(214) 43-96-69 | contact:website=http://rn-west.by/ | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС № 31 | opening_hours=24/7 | operator=ИООО «РН-Запад»
+    geometry : n2509872968[55.4724588,28.7438806] n3180491863[55.4724868,28.7439812] n3180491860[55.4724517,28.7440115] n3180491858[55.4724237,28.7439109] n2509872968[55.4724588,28.7438806]
+w312832621  null / null / Белоруснефть № 54
+  other tags : addr:housenumber=47 | addr:street=улица Евфросинии Полоцкой | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375 (214) 42-53-76 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=МАЗС № 54 | opening_hours=Mo-Su 00:20-07:00,07:10-19:00,19:20-24:00 | operator=ПО «Белоруснефть»
+    geometry : n3187342249[55.5001332,28.7686482] n522840591[55.5001345,28.7687819] n3187342246[55.5001268,28.7687821] n3187342243[55.5000574,28.7687842] n3187342240[55.5000347,28.7687849] n3187342239[55.5000334,28.7686512] n3187342249[55.5001332,28.7686482]

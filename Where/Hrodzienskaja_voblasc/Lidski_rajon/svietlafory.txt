@@ -1,6 +1,9 @@
 n1363473681
   other tags : highway=bus_stop
     geometry : [53.6138449,25.2592338]
+n1427783919  Шайбакі / null / Шейбаки / Шейбаки
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [53.8625595,25.3282617]
 n1938485606  null / null / дачи "Дитва"
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.7501549,25.4159611]
@@ -13,6 +16,9 @@ n2097994589  null / null / Малейковщизна
 n2098021277  null / null / Поворот ДРСУ 157
   other tags : highway=bus_stop
     geometry : [53.8722783,25.2588038]
+n2098021333  null / null / Поворот ДРСУ 157
+  other tags : highway=bus_stop
+    geometry : [53.8724428,25.2605204]
 n2098021524  null / null / Островля
   other tags : highway=bus_stop
     geometry : [53.8690142,25.2495555]
@@ -91,6 +97,9 @@ n3159192717  null / null / Лесничество
 n3166462663  null / null / Поворот
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9190080,25.2247315]
+n3166462665  null / null / Фомичёва
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9111795,25.2425318]
 n3168297688  null / null / Новосёлки
   other tags : highway=bus_stop
     geometry : [53.8944981,25.3359906]
