@@ -50,10 +50,10 @@ n1497130797  Усьмешка / null / Smile / Улыбка
 n1497145334  null / null / ВерасОк
   other tags : amenity=cafe
     geometry : [55.5351827,28.6431737]
-n2481576308  null / null / Столовая
-  other tags : amenity=fast_food | operator=ПГУ
-    geometry : [55.5284782,28.6476181]
-n2481576367
+n2481576308  null / null / Столовая №2
+  other tags : amenity=fast_food | operator=УО "ПГУ"
+    geometry : [55.5284536,28.6475920]
+n2481576367  null / null / Бистро
   other tags : amenity=cafe
     geometry : [55.5281111,28.6466939]
 n2527229296  null / null / Пиццерия
@@ -74,3 +74,9 @@ n3116284920  null / null / TEDDY
 n3355014227  null / null / Мультяшка
   other tags : amenity=cafe | smoking=no | start_date=15.02.2015
     geometry : [55.5335425,28.6437925]
+n3402614377  null / null / Кафетерий
+  other tags : amenity=cafe
+    geometry : [55.5309456,28.6472875]
+n3402614378  null / null / Столовая №1
+  other tags : amenity=fast_food | description=3 разряда | operator=УО "ПГУ"
+    geometry : [55.5310403,28.6471060]

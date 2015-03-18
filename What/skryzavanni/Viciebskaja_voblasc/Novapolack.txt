@@ -302,7 +302,7 @@ n2996917611
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.5189430,28.6674955]
 n3056387174
-  other tags : highway=crossing
+  other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.5145177,28.6868667]
 n3083221664
   other tags : highway=crossing
@@ -316,6 +316,12 @@ n3099166319
 n3145895025
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.5352326,28.6624827]
+n3161601543
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [55.5124044,28.6899463]
+n3161604919
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [55.5145519,28.6865931]
 n3221338685
   other tags : highway=crossing
     geometry : [55.5039075,28.7060005]
@@ -346,3 +352,6 @@ n3251953708
 n3314543270
   other tags : highway=crossing
     geometry : [55.5128552,28.5810479]
+n3332374185
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [55.5146783,28.6868695]
