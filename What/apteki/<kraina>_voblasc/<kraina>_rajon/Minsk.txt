@@ -79,9 +79,9 @@ n281703845  null / null / Искамед №7 / Искамед №7
 n281722582  Белмедінфарм №30 / null / Белмединфарм №30 / Белмединфарм №30
   other tags : amenity=pharmacy
     geometry : [53.9440452,27.7075037]
-n281722624  null / null / Белмединфарм ООО Аптека №4 / Белмединфарм ООО Аптека №4
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Уручская улица | amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00, Sa 10:00-18:00 | phone=+37517 2868113
-    geometry : [53.9496328,27.6945609]
+n281722624  Белмедінфарм ТАА Аптэка №4 / null / Белмединфарм ООО Аптека №4 / Белмединфарм ООО Аптека №4
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Уручская улица | amenity=pharmacy | contact:phone=+37517 2868113 | opening_hours=Mo-Fr 08:00-21:00, Sa 10:00-18:00
+    geometry : [53.9496731,27.6945609]
 n281727408
   other tags : amenity=pharmacy
     geometry : [53.9272949,27.6063397]
@@ -539,7 +539,7 @@ n305686673  null / null / Меджел / Меджел
 n305686713  null / null / Белмедпресс ООО Аптека №7 / Белмедпресс ООО Аптека №7
   other tags : addr:city=Минск | addr:housenumber=13 к2 | addr:street=улица Карбышева | amenity=pharmacy | opening_hours=Mo-Fr 09:00-20:00; Su-Sa 10:00-18:00 | phone=+375 (17) 2633897
     geometry : [53.9510446,27.6371774]
-n305686926  null / null / Планета Здоровья Аптека №2 ООО Доктор-Таир / Планета Здоровья Аптека №2 ООО Доктор-Таир
+n305686926  Планета Здароўя Аптэка №2 ТАА Доктар-Таір / null / Планета Здоровья Аптека №2 ООО Доктор-Таир / Планета Здоровья Аптека №2 ООО Доктор-Таир
   other tags : amenity=pharmacy
     geometry : [53.9472043,27.7093627]
 n305687064  null / null / Аптека №102 / Аптека №102
@@ -742,7 +742,7 @@ n1307037301  Аптэка / Apteka / Аптека / Аптека
     geometry : [53.9450417,27.6900912]
 n1352208253  Планета здароўя №4 / Planieta zdaroŭja №4 / Планета здоровья №4 / Планета здоровья №4
   other tags : addr:housenumber=11А | addr:street=Уручская улица | amenity=pharmacy
-    geometry : [53.9508184,27.6936113]
+    geometry : [53.9509063,27.6936839]
 n1357916673  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:housenumber=12 | addr:street=улица Барамзиной | amenity=pharmacy | dispensing=no | website=http://www.185.by/rubrics/info/apteka-4j-katv-sostave-apteki-n-54-rup-belfarmaciy-177895.html
     geometry : [53.8760548,27.9039721]

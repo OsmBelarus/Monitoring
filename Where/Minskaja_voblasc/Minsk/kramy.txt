@@ -392,7 +392,7 @@ n281716445  null / null / Евроопт
 n281722579
   other tags : shop=convenience
     geometry : [53.9472273,27.7095095]
-n281722580  null / null / БЛВ / БЛВ
+n281722580  БЛВ / null / БЛВ / БЛВ
   other tags : shop=convenience
     geometry : [53.9475803,27.7087866]
 n281722585
@@ -1909,7 +1909,7 @@ n305687257
 n305687259
   other tags : shop=car_repair
     geometry : [53.9164800,27.6862300]
-n305687294  null / null / Стройматериалов Рынок / Стройматериалов Рынок
+n305687294  Будаўнічых Матэрыялаў Рынак / null / Стройматериалов Рынок / Стройматериалов Рынок
   other tags : shop=mall
     geometry : [53.9548200,27.6935700]
 n305687295  СТА / null / Сто / Сто
@@ -1993,7 +1993,7 @@ n306068787  Суседзі / null / Соседи / Соседи
 n306068958  Еўраопт / null / Евроопт / Евроопт
   other tags : phone=+375(17)340-20-90 | shop=convenience
     geometry : [53.8385942,27.6473006]
-n306069229  null / null / Рублевский №16 / Рублевский №16
+n306069229  Рублёўскі №16 / null / Рублевский №16 / Рублевский №16
   other tags : addr:city=Минск | addr:housenumber=11А | addr:street=Уручская улица | shop=convenience
     geometry : [53.9508302,27.6938479]
 n306346937
@@ -2534,9 +2534,9 @@ n721202706  null / null / Уручье-Люкс
 n721202712  null / null / Уручье-Люкс (секция запчасти)
   other tags : contact:email=m_sz@vostochny.by | contact:phone=+375172667524 | contact:website=http://konfiskat.by/ | opening_hours=Mo-Fr 08:30-17:30; Sa-Su 08:30-16:30 | service=parts | shop=car | shop:comission=yes
     geometry : [53.9576244,27.6876806]
-n721202713  null / null / Ваш выбор
+n721202713  Ваш выбар / null / Ваш выбор / Ваш выбор
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Уручская улица | contact:email=m_ab@vostochny.by | contact:phone=+375172668733 | contact:website=http://konfiskat.by/ | opening_hours=Mo-Fr 10:00-20:00;Sa-Su 10:00-18:00 | shop=convenience | shop:comission=yes
-    geometry : [53.9495322,27.6945669]
+    geometry : [53.9495725,27.6945669]
 n721213306  null / null / Ваш выбор
   other tags : contact:email=m_as@vostochny.by | contact:phone=+375172673688 | contact:website=http://konfiskat.by/ | opening_hours=Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00 | shop=car_parts | shop:comission=yes
     geometry : [53.9297444,27.6320845]
@@ -3064,7 +3064,7 @@ n990203029  Баден / null / Баден / BADEN
 n990203031  Олівер / null / Оливер / Оливер
   other tags : addr:housename=Оливер | shop=hairdresser
     geometry : [53.9441036,27.6873244]
-n990209697  null / null / Вселенная
+n990209697  Сусвет / null / Вселенная / Вселенная
   other tags : shop=hairdresser
     geometry : [53.9484553,27.6958271]
 n990439548  У Яўгеніі / null / У Евгении / У Евгении
@@ -3985,10 +3985,10 @@ n1352201749  Электрасіла / null / Электросила / Элект
 n1352208248  Мотапарк / null / Мотопарк / Мотопарк
   other tags : shop=motorcycle
     geometry : [53.9475077,27.6972026]
-n1352208249  null / null / Чайная пауза
+n1352208249  Гарбатная паўза / null / Чайная пауза / Чайная пауза
   other tags : addr:city=Минск | addr:housenumber=11А | addr:street=Уручская улица | shop=yes
     geometry : [53.9506598,27.6940089]
-n1352208252  null / null / Место под солнцем
+n1352208252  Месца пад сонцам / null / Место под солнцем / Место под солнцем
   other tags : addr:city=Минск | addr:housenumber=11А | addr:street=Уручская улица | shop=hairdresser
     geometry : [53.9505903,27.6937862]
 n1352615282  null / null / Отделка
@@ -7005,7 +7005,7 @@ n2618472449  null / null / бытовой дискаунтер
 n2618472451  null / null / цветы
   other tags : shop=yes
     geometry : [53.8791489,27.4839822]
-n2619700710  null / null / Море чая
+n2619700710  Мора гарбаты / null / Море чая / Море чая
   other tags : addr:city=Минск | shop=yes
     geometry : [53.9506549,27.6938606]
 n2619716460  МТС / null / МТС / МТС
@@ -7068,9 +7068,6 @@ n2619956689  null / null / Белсоюзпечать
 n2619989426  Цырульня / null / Парикмахерская / Парикмахерская
   other tags : addr:city=Минск | shop=hairdresser
     geometry : [53.9487150,27.6904201]
-n2619993551  null / null / Piukou
-  other tags : shop=yes
-    geometry : [53.9507630,27.6937168]
 n2619994121  null / null / Анисия-престиж
   other tags : shop=hairdresser
     geometry : [53.8800450,27.4543852]
@@ -7083,8 +7080,8 @@ n2619999028  null / null / Белсоюзпечать
 n2620000096  null / null / Зазеркалье
   other tags : shop=hairdresser
     geometry : [53.8865505,27.4283068]
-n2620000832  null / null / Piukou
-  other tags : shop=Розливное_пиво
+n2620000832  Piukou / null / Piukou / Piukou
+  other tags : description:be=Разліўное піва | description:ru=Розливное пиво | shop=beer
     geometry : [53.9507630,27.6937168]
 n2620007812  null / null / Лагуна
   other tags : shop=yes
@@ -7125,9 +7122,9 @@ n2620058435  Рамонт абутку / null / Ремонт обуви / Рем
 n2620060354  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.9484775,27.6936630]
-n2620069113  null / null / Ялина, ремонт обуви
+n2620069113  Ялина, ремонт обуви / null / Ялина, ремонт обуви / Ялина, ремонт обуви
   other tags : addr:city=Минск | shop=yes
-    geometry : [53.9498132,27.6944433]
+    geometry : [53.9498535,27.6944433]
 n2620101357  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
     geometry : [53.9539344,27.6887404]
@@ -7971,9 +7968,9 @@ n2866939280  null / null / Разливное пиво
 n2870181259  null / null / Парикмахерская «Восход»
   other tags : addr:housenumber=24 | addr:postcode=220006 | addr:street=улица Маяковского | shop=hairdresser | wikipedia=ru:Улица Маяковского (Минск)
     geometry : [53.8764130,27.5674592]
-n2875739914  null / null / Мила
+n2875739914  Міла / null / Мила / Мила
   other tags : shop=chemist
-    geometry : [53.9487393,27.6948769]
+    geometry : [53.9488071,27.6949834]
 n2880392047  null / null / Химчистка Фламинго
   other tags : opening_hours=Tu-Fr 10:00-19:00; Sa 10:00-17:00 | phone=+375 44 798 43 10 | shop=dry_cleaning
     geometry : [53.8584010,27.6008464]
@@ -7995,7 +7992,7 @@ n2902930024  Salon Plus / null / Salon Plus / Salon Plus
 n2928923001  null / null / MartInn
   other tags : addr:housenumber=44 | addr:street=улица Янковского | opening_hours=09:00-22:00 | shop=convenience
     geometry : [53.8809420,27.4535839]
-n2932678397  null / null / Электросила
+n2932678397  Электрасіла / null / Электросила / Электросила
   other tags : shop=electronics
     geometry : [53.9472430,27.7208272]
 n2953439493  null / null / Велостихия
@@ -10882,8 +10879,8 @@ n3351872183  null / null / Цветы
 n3361877147  null / null / Пивная бочка
   other tags : opening_hours=10:00 - 22:00 | shop=alcohol
     geometry : [53.9067148,27.4807259]
-n3370875276  null / null / Лореат
-  other tags : opening_hours=10-00 - 22-00 | shop=convenience
+n3370875276  Ларэат / null / Лореат / Лореат
+  other tags : opening_hours=10:00-22:00 | shop=convenience
     geometry : [53.9473892,27.7121543]
 n3371812405  null / null / Свилс-офт
   other tags : shop=optician

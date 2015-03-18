@@ -170,11 +170,11 @@ n1779330027
 n1779330089  null / null / 49 / 49
   other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=no | opening_hours=24/7 | operator=Белоруснефть | shop=yes
     geometry : [53.9405806,27.6745865]
-n1780135335  null / null / Оргнефтехим №45
-  other tags : amenity=fuel | brand=Белоруснефть | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=no | opening_hours=24/7 | operator=Оргнефтехим | phone=+375-17-2666872 | ref=45 | website=http://www.belorusneft.by/
+n1780135335  Аргнафтахім №45 / null / Оргнефтехим №45 / Оргнефтехим №45
+  other tags : amenity=fuel | brand=Белоруснефть | contact:phone=+375-17-2666872 | contact:website=http://www.belorusneft.by/ | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=no | opening_hours=24/7 | operator=Оргнефтехим | ref=45
     geometry : [53.9523607,27.7129598]
-n1780135336  null / null / Сжиженный газ
-  other tags : amenity=fuel | brand=Белорусьнефть | fuel:lpg=yes | opening_hours=08:00-20:00 | operator=Orgneftehim | phone=+375-17-2666872 | website=http://www.belorusneft.by/
+n1780135336  Звадкаваны газ / null / Сжиженный газ / Сжиженный газ
+  other tags : amenity=fuel | brand=Белорусьнефть | contact:phone=+375-17-2666872 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | opening_hours=08:00-20:00 | operator=Orgneftehim
     geometry : [53.9524618,27.7135473]
 n1784633747
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | ref=4 | shop=convenience
@@ -239,8 +239,8 @@ n2644255826  null / null / АЗС Белнефтехим
 n2839790086
   other tags : amenity=fuel | operator=Газпромнефть
     geometry : [53.9243885,27.6818297]
-n3198392040  null / null / Белоруснефть №59
-  other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-17-2692798 | ref=59 | website=http://www.belorusneft.by/
+n3198392040  Беларуснафта №59 / null / Белоруснефть №59 / Белоруснефть №59
+  other tags : amenity=fuel | brand=Белоруснефть | contact:phone=+375-17-2692798 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | ref=59
     geometry : [53.9563237,27.7238171]
 n3223177348
   other tags : amenity=fuel
