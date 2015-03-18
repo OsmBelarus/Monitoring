@@ -892,7 +892,7 @@ n2878891229  null / null / Инженерный институт МЧС
   other tags : highway=bus_stop | trolleybus=no
     geometry : [52.4097439,30.9404391]
 n2878891270  null / null / улица Жукова
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+  other tags : bench=yes | bus=yes | covered=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [52.4062256,30.9759416]
 n2878891271  null / null / улица Жукова
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
