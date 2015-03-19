@@ -233,8 +233,8 @@ n795714458  null / null / Бакунина
   other tags : highway=bus_stop
     geometry : [52.4226014,30.9730675]
 n795714462  null / null / Коминтерн / Коминтерн
-  other tags : highway=bus_stop
-    geometry : [52.4246004,31.0082285]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | trolleybus=yes
+    geometry : [52.4245159,31.0083971]
 n795714475  вуліца Катоўскага / vulica Katoŭskaha / улица Котовского / улица Котовского
   other tags : highway=bus_stop
     geometry : [52.4283933,30.9749408]
