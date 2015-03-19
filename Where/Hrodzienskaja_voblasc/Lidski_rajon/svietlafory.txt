@@ -8,28 +8,28 @@ n1938485606  null / null / дачи "Дитва"
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.7501549,25.4159611]
 n2097989294  null / null / Кладбище Зосино
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9219635,25.2276555]
 n2097994589  null / null / Малейковщизна
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9203077,25.3110092]
 n2098021277  null / null / Поворот ДРСУ 157
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8722783,25.2588038]
 n2098021333  null / null / Поворот ДРСУ 157
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8724428,25.2605204]
 n2098021524  null / null / Островля
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8690142,25.2495555]
 n2098021664  null / null / Островля
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8689509,25.2480642]
 n2098022531  null / null / поворот
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8635412,25.2317394]
 n2098022904  null / null / Больница Островля
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8705198,25.2332584]
 n2709740540
   other tags : highway=bus_stop
@@ -83,7 +83,7 @@ n3001112601  null / null / Репники
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.7998270,25.0928185]
 n3084787987  null / null / Лесничество
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9153494,25.3094434]
 n3084792345
   other tags : highway=bus_stop
@@ -92,7 +92,7 @@ n3088902724
   other tags : highway=bus_stop
     geometry : [53.5610791,25.1688987]
 n3159192717  null / null / Лесничество
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9137595,25.3095198]
 n3166462663  null / null / Поворот
   other tags : highway=bus_stop | public_transport=platform
@@ -101,16 +101,16 @@ n3166462665  null / null / Фомичёва
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9111795,25.2425318]
 n3168297688  null / null / Новосёлки
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8944981,25.3359906]
 n3168297689  null / null / Новосёлки
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8945072,25.3391577]
 n3168434276  null / null / Поворот Больница
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8644873,25.2350032]
 n3168434277  null / null / Поворот Больница
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8646152,25.2338138]
 n3306254073  null / null / Мыто
   other tags : highway=bus_stop
