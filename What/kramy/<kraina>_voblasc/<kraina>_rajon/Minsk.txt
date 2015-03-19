@@ -2345,8 +2345,8 @@ n593622489  null / null / Очки / Очки
 n593622491  Гламур / null / Гламур
   other tags : shop=hairdresser
     geometry : [53.9335628,27.6014008]
-n593622496  null / null / Стокмаркет
-  other tags : shop=clothes
+n593622496  null / null / Садовая техника
+  other tags : addr:city=Минск | addr:housenumber=63 | addr:street=улица Якуба Колоса | shop=hardware | url=agrox.by
     geometry : [53.9348151,27.6023807]
 n593622516  Насенне / null / Насенне
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=garden_centre
@@ -3454,7 +3454,7 @@ n1142096208
   other tags : addr:housenumber=69 | addr:postcode=220113 | addr:street=улица Якуба Коласа | opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-18:00 | shop=hairdresser
     geometry : [53.9377454,27.6025896]
 n1142096209  Лагойскі тракт / null / Логойский тракт / Логойский тракт
-  other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00 | shop=hardware
+  other tags : opening_hours=Mo-Fr 10:00-20:00;Sa 10:00-19:00;Su 11:00-17:00 | shop=hardware
     geometry : [53.9371851,27.6035249]
 n1142097375  null / null / Тропинка
   other tags : opening_hours=Mo-Sa 08:00-20:00; Su 08:00-18:00 | shop=convenience
@@ -3724,8 +3724,8 @@ n1259166163
 n1259173501
   other tags : shop=butcher
     geometry : [53.8399994,27.6982453]
-n1259204379
-  other tags : shop=convenience
+n1259204379  null / null / Садовая техника
+  other tags : addr:city=Минск | addr:housenumber=63 | addr:street=улица Якуба Колоса | shop=hardware | url=agrox.by
     geometry : [53.9372270,27.6035952]
 n1259481857  null / null / Розочка
   other tags : addr:housenumber=143 | addr:street=улица Розы Люксембург | shop=hairdresser
