@@ -1239,17 +1239,17 @@ n243012408  Вуглы / Vuhly / Углы / Углы
   other names: name:de=Ugly
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | place=hamlet
     geometry : [55.4921100,27.2353700]
-n243012411  Даўяты Малыя / Daŭjaty Malyja / Довъяты Малые / Довъяты Малые
+n243012411  Даўяты Малыя / Daŭjaty Malyja / Довьяты Малые / Довьяты Малые
   other names: name:de=Dovyaty Malye
-  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Малые | place=hamlet
+  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Малые | alt_name:ru=Довъяты Малые | place=hamlet
     geometry : [55.5007000,27.1460200]
 n243012414  Гірдзюшы / Hirdziušy / Гирдюши / Гирдюши
   other names: name:de=Girdyushi
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5153700,27.1585500]
-n243012420  Даўяты Вялікія / Daŭjaty Vialikija / Довъяты Большие / Довъяты Большие
+n243012420  Даўяты Вялікія / Daŭjaty Vialikija / Довьяты Большие / Довьяты Большие
   other names: name:de=Dovyaty Velikie
-  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Большие | alt_name:ru=Довьяты Великие | place=hamlet
+  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довъяты Большие | alt_name:ru=Довъяты Большие | place=hamlet
     geometry : [55.4976900,27.1587200]
 n243012423  Кіслаўшчына / Kislaŭščyna / Кисловщина / Кисловщина
   other names: name:de=Kislovschina
@@ -2185,14 +2185,14 @@ w25129534  Гірдзюшы / Hirdziušy / Гирдюши / Гирдюши
 w25129535  Кіслаўшчына / Kislaŭščyna / Кисловщина / Кисловщина
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name:be=Кіслоўшчына | place=hamlet
     geometry : n273740707[55.5015600,27.1827500] n273740708[55.5025900,27.1825800] n273740710[55.5021600,27.1745100] n273740711[55.5002700,27.1745100] n273740712[55.5002700,27.1776900] n273740714[55.5005300,27.1827500] n273740707[55.5015600,27.1827500]
-w25129536  Даўяты Вялікія / Daŭjaty Vialikija / Довъяты Большие / Довъяты Большие
-  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Большие | alt_name:ru=Довьяты Великие | place=hamlet
+w25129536  Даўяты Вялікія / Daŭjaty Vialikija / Довьяты Большие / Довьяты Большие
+  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довъяты Большие | alt_name:ru=Довъяты Большие | place=hamlet
     geometry : n273740715[55.4977800,27.1544300] n273740717[55.4966600,27.1542600] n273740718[55.4962300,27.1569200] n273740720[55.4961500,27.1600900] n273740721[55.4966600,27.1637800] n273740722[55.4979500,27.1630100] n273740724[55.4988100,27.1623200] n273740725[55.4986400,27.1602600] n273740726[55.4988100,27.1574300] n273740728[55.4991500,27.1546000] n273740715[55.4977800,27.1544300]
 w25129537  Лабуцеўцы / Labucieŭcy / Лабутевцы / Лабутевцы
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | place=hamlet
     geometry : n273740730[55.4867100,27.1909100] n273740731[55.4855900,27.1912500] n273740732[55.4855000,27.2002600] n273740734[55.4879900,27.2002600] n273740735[55.4879900,27.1912500] n273740730[55.4867100,27.1909100]
-w25129538  Даўяты Малыя / Daŭjaty Malyja / Довъяты Малые / Довъяты Малые
-  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Малые | place=hamlet
+w25129538  Даўяты Малыя / Daŭjaty Malyja / Довьяты Малые / Довьяты Малые
+  other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | alt_name=Довьяты Малые | alt_name:ru=Довъяты Малые | place=hamlet
     geometry : n273740737[55.5023300,27.1457600] n273740738[55.5023300,27.1433600] n273740740[55.5004400,27.1431800] n273740741[55.4982100,27.1438700] n273740743[55.4982100,27.1482500] n273740744[55.5012100,27.1490200] n273740745[55.5023300,27.1485900] n273740737[55.5023300,27.1457600]
 w25129540  Вуглы / Vuhly / Углы / Углы
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | place=hamlet
@@ -3087,8 +3087,9 @@ w252790385  Трыбуцішкі / Trybuciški / Трибутишки / Триб
   other names: name:de=Trybutischki
   other tags : addr:country=BY | addr:district=Браславский район | addr:postcode=211970 | addr:region=Витебская область | alt_name:be=Навінкі | landuse=residential | place=hamlet | post_code=211970
     geometry : n2588183425[55.3572257,26.5100276] n2588183428[55.3572399,26.5089385] n2588183646[55.3602504,26.5053492] n2588183825[55.3623123,26.5026969] n2588184065[55.3641117,26.5054299] n2588184217[55.3648189,26.5085069] n2588184244[55.3660554,26.5139854] n2588184240[55.3654742,26.5146472] n2588184242[55.3657586,26.5156727] n2588184034[55.3637421,26.5169924] n2588183842[55.3621884,26.5174248] n2588183753[55.3609353,26.5199279] n2588183490[55.3590356,26.5156384] n2588183425[55.3572257,26.5100276]
-w252791041
-  other tags : landuse=residential | place=hamlet
+w252791041  Леамполле / Lieampollie / Леомполье / Леомполье
+  other names: name:de=Leompolye
+  other tags : addr:country=BY | addr:district=Браславский район | addr:postcode=211970 | addr:region=Витебская область | landuse=residential | place=hamlet | post_code=211970
     geometry : n2588191267[55.3736675,26.5409596] n2588191395[55.3766570,26.5430219] n2588191392[55.3760296,26.5459936] n2588191389[55.3753653,26.5491439] n2588191304[55.3739628,26.5480884] n2588191261[55.3734645,26.5501832] n2588191178[55.3700688,26.5485431] n2588191181[55.3710008,26.5442886] n2588191206[55.3728463,26.5405050] n2588191267[55.3736675,26.5409596]
 w253824401  Бікішкі / Bikiški / Бикишки / Бикишки
   other tags : addr:country=BY | addr:district=Браславский район | addr:region=Витебская область | place=hamlet
