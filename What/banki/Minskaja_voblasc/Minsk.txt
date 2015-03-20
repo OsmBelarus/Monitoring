@@ -1109,7 +1109,7 @@ n3240836611  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00
     geometry : [53.8501796,27.4762843]
 n3240836623
-  other tags : amenity=bank
+  other tags : addr:city=Минск | addr:housenumber=2 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | amenity=bank
     geometry : [53.8524826,27.4779015]
 n3257141054  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=bank

@@ -8044,7 +8044,7 @@ n2989400773  null / null / СТО-100
   other tags : addr:street=Нововиленская улица | opening_hours=09:00-19:00 | shop=car_repair
     geometry : [53.9400558,27.5273329]
 n3011130053  null / null / Еврообои
-  other tags : addr:city=Минск | addr:housenumber=131 | addr:street=проспект Дзержинского | shop=hardware
+  other tags : addr:city=Минск | addr:housenumber=131 | addr:postcode=220045 | addr:street=проспект Дзержинского | shop=hardware
     geometry : [53.8441640,27.4747888]
 n3016103127  null / null / Зоомагазин "Зоо Терра"
   other tags : level=2 | shop=pet
@@ -8326,7 +8326,7 @@ n3106543738
   other tags : shop=greengrocer
     geometry : [53.9001437,27.4346973]
 n3106752620  null / null / Эстерио
-  other tags : addr:city=Минск | addr:housenumber=131 | addr:street=проспект Дзержинского | phone=+375(29)1954609, +375(29)8602675 | shop=hairdresser | source=http://Esterio.by | website=http://Esterio.by | wheelchair=no
+  other tags : addr:city=Минск | addr:housenumber=131 | addr:postcode=220045 | addr:street=проспект Дзержинского | phone=+375(29)1954609, +375(29)8602675 | shop=hairdresser | source=http://Esterio.by | website=http://Esterio.by | wheelchair=no
     geometry : [53.8442016,27.4755763]
 n3109039809  null / null / Штопор
   other tags : addr:city=минск | addr:housenumber=12а | addr:postcode=220019 | addr:street=улица Скрипникова | opening_hours=10:00-21:00 | shop=beverages
@@ -10781,7 +10781,7 @@ n3292139301  null / null / Офис www.antiradar.by
     geometry : [53.9607796,27.5478737]
 n3294880456  null / null / Леди & Денди / Леди & Денди
   other names: name:en=Lady & Dandy
-  other tags : addr:city=Минск | addr:housenumber=14 | addr:street=улица Ежи Гедройца | opening_hours=вт-вс: 10:00-20:00 | operator=ИП Алексеева Е.Е. | phone=+375(29)9447410, +375(29)2577285, +375(17)2271187 | shop=clothes | source=http://Lady-Dandy.by | website=http://Lady-Dandy.by | wheelchair=no
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | opening_hours=вт-вс: 10:00-20:00 | operator=ИП Алексеева Е.Е. | phone=+375(29)9447410, +375(29)2577285, +375(17)2271187 | shop=clothes | source=http://Lady-Dandy.by | website=http://Lady-Dandy.by | wheelchair=no
     geometry : [53.8519185,27.4809223]
 n3295054034  null / null / Хозяюшка
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=chemist
@@ -10940,10 +10940,10 @@ n3392157121  null / null / Магазин Мебель ИНВОЛЮКС
   other tags : brand=Involux | operator=Инволюкс | shop=furniture
     geometry : [53.9381948,27.5939861]
 n3392672141  null / null / Надень-ка!
-  other tags : addr:housenumber=2 | addr:street=улица Ежи Гедройца | shop=clothes
+  other tags : addr:housenumber=2 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=clothes
     geometry : [53.8523918,27.4785429]
 n3392672182  null / null / Цветы и подарки
-  other tags : addr:housenumber=2 | addr:street=улица Ежи Гедройца | shop=florist
+  other tags : addr:housenumber=2 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=florist
     geometry : [53.8524123,27.4784410]
 n3392707665
   other tags : shop=religion
@@ -10982,17 +10982,17 @@ n3400540144  null / null / Продукты
   other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | opening_hours=9:00-22:00 | shop=convenience
     geometry : [53.8495651,27.4778697]
 n3400605732  null / null / Мебель
-  other tags : shop=furniture
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=furniture
     geometry : [53.8517793,27.4802571]
 n3400605733  null / null / Domix.bY
-  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | shop=interior_decoration | source=http://Domix.by | website=http://Domix.by
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=interior_decoration | source=http://Domix.by | website=http://Domix.by
     geometry : [53.8517888,27.4804503]
 n3400605734  null / null / Ростинг / Ростинг
   other names: name:en=Rosting
-  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | shop=travel_agency
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=travel_agency
     geometry : [53.8518331,27.4806648]
 n3400605760  null / null / Амелис
-  other tags : addr:housenumber=14 | addr:street=улица Ежи Гедройца | phone=+375(29)2565634, +375(44)4783094 | shop=hairdresser
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | phone=+375(29)2565634, +375(44)4783094 | shop=hairdresser
     geometry : [53.8520039,27.4811530]
 n3400719592  null / null / Ювелир-карат
   other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=jewelry
