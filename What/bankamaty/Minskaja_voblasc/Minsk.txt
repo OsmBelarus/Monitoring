@@ -2021,9 +2021,9 @@ n3302409401  null / null / Идеябанк / Идеябанк
 n3302676382  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=atm
     geometry : [53.8493351,27.4815316]
-n3302676385  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm
-    geometry : [53.8495439,27.4797667]
+n3302676385  Белінвестбанк / Bielinviestbank;Parnichok / Белинвестбанк;Парничок №6 / Белинвестбанк
+  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=atm | designation=Магазин | shop=supermarket | website=http://greenstolitsa.by
+    geometry : [53.8496943,27.4796980]
 n3335233349  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [53.9075274,27.4740150]

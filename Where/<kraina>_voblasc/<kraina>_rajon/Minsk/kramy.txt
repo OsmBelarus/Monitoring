@@ -4538,11 +4538,8 @@ n1509386373  null / null / Продуктовый м-н
 n1509391745  null / null / Зоотовары
   other tags : shop=convenience
     geometry : [53.9069751,27.4920413]
-n1511640249  null / Parnichok / Парничок №6
-  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | designation=Магазин | shop=supermarket | website=http://greenstolitsa.by
-    geometry : [53.8495560,27.4796651]
 n1511658262  Цырульня «Вікторыя» / null / Парикмахерская «Виктория»
-  other tags : addr:housenumber=10 | addr:street=улица Ежи Гедройца | shop=hairdresser | wheelchair=yes
+  other tags : addr:city=Минск | addr:housenumber=10 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=hairdresser | wheelchair=yes
     geometry : [53.8511853,27.4789598]
 n1517543901  Азарэнне / null / Азарэнне
   other tags : shop=convenience
@@ -6439,7 +6436,7 @@ n2553891209  null / null / Гаспадар
   other tags : shop=продовольственный
     geometry : [53.8445752,27.4835268]
 n2553900842  null / null / Престиж
-  other tags : shop=hairdresser
+  other tags : addr:postcode=220045 | shop=hairdresser
     geometry : [53.8451089,27.4834746]
 n2554548215  null / null / Чистка подушек
   other tags : shop=dry_cleaning
@@ -7858,7 +7855,7 @@ n2767118308  null / null / "Мила"
   other tags : shop=chemist
     geometry : [53.9158730,27.4402752]
 n2767799248  null / null / Парикмахерская
-  other tags : addr:housenumber=10 | addr:street=улица Ежи Гедройца | shop=hairdresser
+  other tags : addr:housenumber=10 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=hairdresser
     geometry : [53.8512252,27.4787296]
 n2770854924  null / null / Алгоритм
   other tags : contact:phone=+375(29) 822-40-85, +375(29) 176-67-73, +375(25) 937-44-10, +375(17) 387-00-85 | contact:website=http://www.algoritm.by/ | level=1 | opening_hours=Mo-Su 10:00-20:00 | operator=ООО «Алгоритм-Диагност» | ref=104 | shop=electronics
@@ -9423,7 +9420,7 @@ n3233074628  null / null / Цветы
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=florist
     geometry : [53.8495240,27.4779770]
 n3233074779  null / null / Мила
-  other tags : shop=косметика,_бытовая_химия
+  other tags : addr:housenumber=11 | addr:postcode=220045 | addr:street=улица Яна Чечота | shop=косметика,_бытовая_химия
     geometry : [53.8493762,27.4811721]
 n3233086579  null / null / Белсаюздрук
   other tags : shop=kiosk
@@ -9456,7 +9453,7 @@ n3240836616  null / null / Ваўкавыскія прысмакі
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=butcher
     geometry : [53.8497249,27.4767631]
 n3240836618
-  other tags : shop=second_hand
+  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | shop=second_hand
     geometry : [53.8493515,27.4812692]
 n3240836619
   other tags : shop=frame
@@ -9494,9 +9491,6 @@ n3242762717  Вэлком / null / Велком
 n3247321866  null / null / Одежда
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=second_hand
     geometry : [53.8514928,27.4768342]
-n3247321867  null / null / ПроЗдоровье
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8502556,27.4763165]
 n3247419935  Пёс і кот / null / Пёс и кот / Пёс и кот
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00 | shop=pet
     geometry : [53.9412464,27.6869341]
