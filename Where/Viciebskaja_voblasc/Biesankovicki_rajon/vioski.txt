@@ -30,7 +30,7 @@ n243026780  Мураўшчына / Muraŭščyna / Муравщина / Мура
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1135200,29.1690500]
 n243026786  Слабада / Slabada / Слобода / Слобода
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Улльский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Улльский сельский Совет | place=hamlet
     geometry : [55.1643300,29.1801200]
 n243026789  Саўрасы / Saŭrasy / Соврасы / Соврасы
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -81,10 +81,10 @@ n243027092  Грыцькаўка / Hryćkaŭka / Гритьковка / Грит
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9786700,29.1744500]
 n243027098  Забелле / Zabiellie / Забелье / Забелье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бочейковский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бочейковский сельский Совет | place=hamlet
     geometry : [55.0069355,29.1129043]
 n243027101  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бочейковский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бочейковский сельский Совет | place=hamlet
     geometry : [55.0183300,29.2058700]
 n243027104  Бачэйкава / Bačejkava / Бочейково / Бочейково
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=village
@@ -142,7 +142,7 @@ n243027159  Сасняны / Sasniany / Сосняны / Сосняны
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0261402,29.2404294]
 n243027162  Забар’е / Zabarje / Заборье / Заборье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бешенковичский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Бешенковичский сельский Совет | place=hamlet
     geometry : [55.0866500,29.2585700]
 n243027166  Папкі / Papki / Папки / Папки
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -172,7 +172,7 @@ n243030128  Хізава / Chizava / Хизова / Хизова
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:be=Андрукі | place=hamlet
     geometry : [54.9569600,29.5133100]
 n243030137  Асінаўка / Asinaŭka / Осиновка / Осиновка
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верхнекривинский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верхнекривинский сельский Совет | place=hamlet
     geometry : [54.9713376,29.4833654]
 n243030139  Шкалёўка / Škalioŭka / Шкалёвка / Шкалёвка
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -392,7 +392,7 @@ n243031948  Гурына / Huryna / Гурино / Гурино
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8854600,29.3686900]
 n243031954  Застарынне / Zastarynnie / Застаринье / Застаринье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верховский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верховский сельский Совет | place=hamlet
     geometry : [54.8977300,29.3819900]
 n243034276  Замялочча / Zamialočča / Замелочье / Замелочье
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -406,8 +406,8 @@ n243034283  Александрова / Alieksandrova / Александрово 
 n243034287  Гародна / Harodna / Городно / Городно
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1489572,29.8205169]
-n243034291  Дарагакупава / null / Дорогокупово / Дорогокупово
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
+n243034291  null / null / Придвинье
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | old_name=Дорогокупово | place=hamlet
     geometry : [55.1633956,29.9581651]
 n243034295  Вядзерава / Viadzierava / Вядерево / Вядерево
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -454,7 +454,7 @@ n243034347  Жавуры / Žavury / Жауры / Жауры
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name:ru=Жавуры | place=hamlet
     geometry : [55.0477566,29.8205238]
 n243034351  Застарынне / Zastarynnie / Застаринье / Застаринье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский Совет | place=hamlet
     geometry : [55.0334352,29.9090212]
 n243034356  Латыгава / Latyhava / Латыгово / Латыгово
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -566,7 +566,7 @@ n243038584  Елішава / Jelišava / Елишево / Елишево
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0939500,29.6039500]
 n243039848  Доўгае / Doŭhaje / Долгое / Долгое
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Островенский сельский Совет | place=hamlet
     geometry : [55.1154900,29.7795600]
 n243039851  Крупеніна / Krupienina / Крупенино / Крупенино
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -602,7 +602,7 @@ n243041092  Сіняны / Siniany / Синяны / Синяны
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0269001,29.7744234]
 n243041095  Забелле / Zabiellie / Забелье / Забелье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Соржицкий сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Соржицкий сельский Совет | place=hamlet
     geometry : [55.0403000,29.7213700]
 n243041098  Гарадзец / Haradziec / Городец / Городец
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -638,7 +638,7 @@ n243041130  Вяжышча / Viažyšča / Вяжище / Вяжище
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1134300,29.6818000]
 n243041132  Задарожжа / Zadarožža / Задорожье / Задорожье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Соржицкий сельский совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Соржицкий сельский Совет | place=hamlet
     geometry : [55.1010429,29.6950192]
 n243041135  Падакі / Padaki / Падаки / Падаки
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | alt_name=Подаки | place=hamlet
@@ -659,7 +659,7 @@ n243041151  Чанавічы / Čanavičy / Чановичи / Чановичи
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1449101,29.7744209]
 n243041154  Забор’е / Zaborje / Заборье / Заборье
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верхнекривинский сельский совет | alt_name:be=Забар’е | place=hamlet
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | addr:subdistrict=Верхнекривинский сельский Совет | alt_name:be=Забар’е | place=hamlet
     geometry : [55.1170300,29.6279000]
 n243041210  Будзілава / Budzilava / Будилово / Будилово
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
@@ -752,8 +752,8 @@ w25097554  Слабада / Slabada / Слабода / Слабода
 w25097581  Дзягілева / Dziahilieva / Дягилево / Дягилево
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | place=hamlet
     geometry : n273151381[55.1877665,29.8659844] n273151383[55.1846746,29.8608221] n273151387[55.1801921,29.8556905] n273151389[55.1792227,29.8583482] n273151392[55.1839000,29.8649005] n273151394[55.1857800,29.8658200] n273151397[55.1861613,29.8658757] n273151400[55.1860400,29.8686500] n1030698991[55.1855220,29.8693170] n1030698969[55.1862652,29.8746917] n1030698975[55.1871600,29.8760600] n1030698990[55.1877207,29.8752653] n273151441[55.1865063,29.8701556] n273151381[55.1877665,29.8659844]
-w25097595  Дарагакупава / null / Дорогокупово / Дорогокупово
-  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | landuse=residential | place=hamlet | residential=rural
+w25097595  null / null / Придвинье
+  other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | landuse=residential | old_name=Дорогокупово | place=hamlet | residential=rural
     geometry : n273151904[55.1618824,29.9382385] n273151905[55.1612707,29.9391651] n2819049346[55.1592911,29.9408734] n273151906[55.1598466,29.9434469] n2819049386[55.1613303,29.9463231] n273151907[55.1615690,29.9507901] n273151908[55.1613643,29.9568833] n273151909[55.1609081,29.9626473] n273151910[55.1621281,29.9673159] n909371116[55.1619895,29.9683513] n909371061[55.1614489,29.9696049] n909371097[55.1616279,29.9708417] n2819051930[55.1642115,29.9726752] n273151911[55.1643958,29.9719838] n273151912[55.1644483,29.9689479] n273151913[55.1646396,29.9666626] n2819052290[55.1648897,29.9629258] n2819052289[55.1648321,29.9601327] n2819052243[55.1645834,29.9578687] n273151914[55.1644885,29.9560677] n273151916[55.1629941,29.9441402] n273151917[55.1626319,29.9382789] n273151904[55.1618824,29.9382385]
 w25097597  Лукі / Luki / Луки / Луки
   other tags : addr:country=BY | addr:district=Бешенковичский район | addr:region=Витебская область | landuse=residential | place=hamlet | residential=rural
