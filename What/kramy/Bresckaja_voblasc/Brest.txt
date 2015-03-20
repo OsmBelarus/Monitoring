@@ -447,9 +447,6 @@ n306063857  null / null / Быт. Химия / Быт. Химия
 n306063860  null / null / Пресса / Пресса
   other tags : addr:housenumber=17 | addr:street=улица Мицкевича | shop=general
     geometry : [52.0965798,23.6864895]
-n306063867  null / null / Ветер странствий
-  other tags : shop=outdoor
-    geometry : [52.0957700,23.6899400]
 n306063872  Надзея / null / Надежда / Надежда
   other tags : shop=mall
     geometry : [52.0991000,23.6910900]
@@ -829,8 +826,8 @@ n1463919829  null / null / Ля-Флёр
 n1488355985  null / null / Руслан
   other tags : addr:housenumber=113 | addr:street=Сябровская улица | shop=hairdresser
     geometry : [52.0688563,23.7211602]
-n1495822896
-  other tags : addr:housenumber=65 | addr:street=Краснознамённая улица | shop=doityourself
+n1495822896  null / null / Ветер странствий
+  other tags : addr:housenumber=65 | addr:street=Краснознамённая улица | shop=outdoor
     geometry : [52.0699877,23.7180359]
 n1501343919
   other tags : shop=kiosk
