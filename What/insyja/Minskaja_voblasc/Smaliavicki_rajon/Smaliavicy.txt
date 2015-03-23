@@ -71,7 +71,7 @@ n2129567546  null / null / РОВД
   other tags : amenity=police
     geometry : [54.0296353,28.0857700]
 n2131940016  Смалявічы / Smaliavičy / Смолевичи / Смолевичи
-  other tags : esr:user=141001 | railway=station
+  other tags : esr:user=141001 | public_transport=station | railway=station | train=yes
     geometry : [54.0190696,28.0569791]
 n2131940017
   other tags : railway=crossing
@@ -499,6 +499,9 @@ w201784944
 w202519594
   other tags : building=shed | building:levels=1
     geometry : n2124865815[54.0248825,28.0715560] n2124865817[54.0248240,28.0716164] n2124865807[54.0248550,28.0717033] n2124865808[54.0249135,28.0716429] n2124865815[54.0248825,28.0715560]
+w202544598
+  other tags : addr:housenumber=8 | addr:street=Вокзальная улица | building=train_station | building:levels=1
+    geometry : n2125080913[54.0190527,28.0568162] n2125080930[54.0189583,28.0569282] n2125080920[54.0190821,28.0572305] n2125080915[54.0191765,28.0571186] n2125080913[54.0190527,28.0568162]
 w202545118
   other tags : railway=rail | service=spur
     geometry : n2125086632[54.0190592,28.0774652] n3256177368[54.0207017,28.0754434] n2125086631[54.0212690,28.0748623]
