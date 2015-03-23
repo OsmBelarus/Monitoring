@@ -48,18 +48,18 @@ n1444218816  null / null / Свитанак / Свитанак
   other tags : shop=clothes
     geometry : [54.5052153,30.4144462]
 n1444218819  null / null / Стекло
-  other tags : shop=glass
-    geometry : [54.5037470,30.4130172]
+  other tags : shop=glaziery
+    geometry : [54.5037409,30.4130476]
 n1444218821  Фаварыт / null / Фаворит / Фаворит
   other names: name:uk=Фаворит
   other tags : shop=doityourself
     geometry : [54.5073481,30.4173568]
 n1444218837  Юбіляр / null / Юбиляр
-  other tags : shop=butcher
-    geometry : [54.5030133,30.4120486]
+  other tags : contact:email=bigpig@mail.by | contact:phone=+375(216) 33-69-37 | contact:website=http://jubilejnyj.by/ | operator=ОАО «Агрокомбинат «Юбилейный» | shop=butcher
+    geometry : [54.5030286,30.4121096]
 n1444218838  Юлія / null / Юлия
   other tags : shop=optician
-    geometry : [54.5035932,30.4128820]
+    geometry : [54.5035915,30.4129251]
 n1456239694  null / null / Сапфир
   other tags : operator=Белювелирторг | shop=jewelry
     geometry : [54.5079585,30.4276898]
@@ -160,14 +160,14 @@ n2478217303  null / null / СТО
 n2496640098
   other tags : shop=chemist
     geometry : [54.5137978,30.3926787]
-n2496640125  null / null / Мясной Фаворит
-  other tags : shop=butcher
+n2496640125  null / null / Мясной фаворит
+  other tags : contact:email=bigpig@mail.by | contact:website=http://jubilejnyj.by/ | operator=ОАО «Агрокомбинат «Юбилейный» | shop=butcher
     geometry : [54.5141151,30.3927465]
 n2542362212
   other tags : shop=yes
     geometry : [54.4860607,30.4154012]
-n2542362216
-  other tags : shop=yes
+n2542362216  null / null / Мясной фаворит
+  other tags : contact:email=bigpig@mail.by | contact:phone=+375(216) 24-79-49 | contact:website=http://jubilejnyj.by/ | operator=ОАО «Агрокомбинат «Юбилейный» | shop=butcher
     geometry : [54.4861921,30.4113601]
 n2542404433
   other tags : shop=hairdresser
@@ -194,7 +194,7 @@ n2836550260  null / null / Гастинец
   other tags : shop=supermarket
     geometry : [54.4898939,30.4367350]
 n3128103852  null / null / Мегатоп
-  other tags : shop=обувной
+  other tags : shop=shoes
     geometry : [54.5104458,30.4286910]
 n3128105738  null / null / Золотая мечта
   other tags : shop=jewelry
@@ -208,17 +208,17 @@ n3128115182  null / null / Зико
 n3128130164  null / null / Милавица
   other tags : shop=yes
     geometry : [54.5086075,30.4208422]
-n3128131119  null / null / буслик
-  other tags : shop=детский
+n3128131119  null / null / Буслик
+  other tags : shop=baby_goods
     geometry : [54.5110729,30.4274354]
-n3128132075  null / null / электросила
-  other tags : shop=электроника
-    geometry : [54.5110636,30.4275950]
-n3128132077  null / null / царское золото
+n3128132075  null / null / Электросила
+  other tags : shop=electronics
+    geometry : [54.5110620,30.4276276]
+n3128132077  null / null / Царское золото
   other tags : shop=jewelry
-    geometry : [54.5110636,30.4275950]
+    geometry : [54.5110802,30.4275835]
 n3128134303  null / null / Надежда
-  other tags : shop=стройматериалы
+  other tags : shop=doityourself
     geometry : [54.5149958,30.3840626]
 n3128137502  null / null / молодечно-мебель
   other tags : shop=furniture
@@ -257,13 +257,13 @@ n3128244141  null / null / Зико
   other tags : shop=jewelry
     geometry : [54.5087231,30.4264552]
 n3128244377  null / null / Богема
-  other tags : shop=Одежда
+  other tags : shop=clothes
     geometry : [54.5101763,30.4281934]
 n3128244429  null / null / Виктория
   other tags : shop=Продукты
     geometry : [54.5108406,30.4244205]
 n3128245531  null / null / Марко
-  other tags : shop=Обувной
+  other tags : shop=shoes
     geometry : [54.5100208,30.4280007]
 n3128246694  null / null / Флешка
   other tags : shop=Электроника
@@ -385,3 +385,12 @@ n3359130997
 n3409648117  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [54.5364131,30.4509165]
+n3413648461  null / null / Мясной фаворит
+  other tags : contact:email=bigpig@mail.by | contact:phone=+375(216) 44-43-58 | contact:website=http://jubilejnyj.by/ | fixme=уточнить расположение | operator=ОАО «Агрокомбинат «Юбилейный» | shop=butcher
+    geometry : [54.5123778,30.4260612]
+n3413648462  null / null / Мясной фаворит
+  other tags : contact:email=bigpig@mail.by | contact:website=http://jubilejnyj.by/ | fixme=уточнить расположение | operator=ОАО «Агрокомбинат «Юбилейный» | shop=butcher
+    geometry : [54.5198842,30.3793093]
+n3413648463  null / null / Мясной фаворит
+  other tags : contact:email=bigpig@mail.by | contact:website=http://jubilejnyj.by/ | fixme=уточнить расположение | shop=butcher
+    geometry : [54.5213308,30.4364474]
