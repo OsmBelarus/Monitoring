@@ -1,18 +1,21 @@
 n271086296  Марцюхова / Marciuchova / Мартюхово / Мартюхово
-  other tags : esr:user=142038 | railway=halt
+  other tags : esr:user=142038 | public_transport=station | railway=halt | train=yes
     geometry : [54.4658097,29.9721098]
 n306066537  Перавалачны / Pieravalačny / Перевалочный / Перевалочный
-  other tags : esr:user=142023 | railway=halt
+  other tags : esr:user=142023 | public_transport=station | railway=halt | train=yes
     geometry : [54.4655585,29.9295748]
 n306066891  Трацылава / Tracylava / Троцилово / Троцилово
-  other tags : esr:user=141919 | old_name=Троцилово | old_name:ru=Троцилово | railway=halt
-    geometry : [54.3493549,29.6021313]
+  other tags : esr:user=141919 | old_name=Троцилово | old_name:ru=Троцилово | public_transport=station | railway=halt | train=yes
+    geometry : [54.3491633,29.6022766]
 n306066893  Красная Горка / Krasnaja Horka / Красная Горка / Красная Горка
-  other tags : esr:user=141923 | railway=halt
-    geometry : [54.3746000,29.6818800]
+  other tags : esr:user=141923 | public_transport=station | railway=halt | train=yes
+    geometry : [54.3753262,29.6820136]
 n306066901  Відэршчына / Viderščyna / Выдерщина / Выдерщина
-  other tags : esr:user=142019 | railway=halt
+  other tags : esr:user=142019 | public_transport=station | railway=halt | train=yes
     geometry : [54.4443146,29.8522064]
 n1613159132  Галошаўка / Halošaŭka / Голошевка / Голошевка
-  other tags : alt_name=Голошеевка | esr:user=142112 | railway=halt
+  other tags : alt_name=Голошеевка | esr:user=142112 | public_transport=station | railway=halt | train=yes
     geometry : [54.4750275,30.0712836]
+n3412602232  Нарцызава / Narcyzava / Нарцизово / Нарцизово
+  other tags : esr:user=141942 | public_transport=station | railway=halt | train=yes
+    geometry : [54.3409118,29.5511982]

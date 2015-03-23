@@ -110,7 +110,7 @@ n306067950
   other tags : bridge=yes
     geometry : [54.1797400,28.3568300]
 n306067951  Прыяміна / Pryjamina / Приямино / Приямино
-  other tags : esr:user=141603 | railway=station
+  other tags : esr:user=141603 | public_transport=station | railway=station | train=yes
     geometry : [54.2764941,28.8373065]
 n306067956
   other tags : tourism=viewpoint
@@ -308,8 +308,11 @@ n3245894814
   other tags : railway=level_crossing
     geometry : [54.2628017,28.7033061]
 n3245901789  Навасады / Navasady / Новосады / Новосады
-  other tags : esr:user=141500 | railway=station
+  other tags : esr:user=141500 | public_transport=station | railway=station | train=yes
     geometry : [54.2504418,28.6983324]
+n3412602234
+  other tags : railway=level_crossing
+    geometry : [54.1508158,28.4107527]
 w25062996
   other tags : natural=water
     geometry : n272695878[54.2682783,28.4505824] n701811196[54.2685673,28.4510567] n272695879[54.2685561,28.4518387] n701811183[54.2685259,28.4523298] n272695880[54.2681909,28.4525948] n701811191[54.2684186,28.4530654] n701811178[54.2686912,28.4530371] n701811173[54.2688729,28.4527542] n701811205[54.2690381,28.4523016] n701811203[54.2690464,28.4511840] n701811189[54.2687903,28.4507172] n701811176[54.2684516,28.4504909] n272695878[54.2682783,28.4505824]
