@@ -161,7 +161,7 @@ w176115886
   other tags : addr:street=Сельская | building=house
     geometry : n1866836867[55.2684021,29.9988062] n1866836872[55.2684936,29.9988940] n1866836869[55.2684246,29.9991153] n1866836860[55.2683331,29.9990274] n1866836867[55.2684021,29.9988062]
 w177810907
-  other tags : addr:housename=Макарово | addr:housenumber=1 | addr:street=Шоссейная | building=apartments
+  other tags : addr:housenumber=1 | addr:street=Шоссейная улица | building=apartments
     geometry : n1882241518[55.0469762,30.2945126] n1882241516[55.0469721,30.2942945] n1882241551[55.0472796,30.2942772] n1882241553[55.0472836,30.2944953] n1882241518[55.0469762,30.2945126]
 w178364522
   other tags : addr:housenumber=5 | addr:street=Зелёная улица | building=house
@@ -323,94 +323,94 @@ w200132265
   other tags : building=residential
     geometry : n1642875883[55.1345204,30.1671297] n2101182036[55.1345388,30.1670828] n418699749[55.1345261,30.1670676] n1642875880[55.1345077,30.1671145] n1642875883[55.1345204,30.1671297]
 w203930897
-  other tags : addr:housenumber=14 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=14 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332153[55.0386215,30.2642069] n2139332150[55.0385189,30.2642525] n2139332148[55.0384930,30.2640754] n2139332152[55.0385955,30.2640297] n2139332153[55.0386215,30.2642069]
 w203930898
-  other tags : addr:housenumber=11 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=11 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332141[55.0377954,30.2651046] n2139332138[55.0377824,30.2649877] n2139332143[55.0378401,30.2649683] n2139332145[55.0378530,30.2650851] n2139332141[55.0377954,30.2651046]
 w203930899
-  other tags : addr:housenumber=10 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=10 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332127[55.0374034,30.2647038] n2139332122[55.0373395,30.2647326] n2139332117[55.0373166,30.2645780] n2139332124[55.0373805,30.2645492] n2139332127[55.0374034,30.2647038]
 w203930900
-  other tags : addr:housenumber=12 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=12 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332136[55.0377479,30.2644902] n2139332131[55.0376975,30.2645059] n2139332129[55.0376845,30.2643797] n2139332134[55.0377349,30.2643639] n2139332136[55.0377479,30.2644902]
 w203930901
-  other tags : addr:housenumber=8 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=8 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332108[55.0370643,30.2648184] n2139332094[55.0369807,30.2648573] n2139332091[55.0369624,30.2647373] n2139332096[55.0370460,30.2646984] n2139332108[55.0370643,30.2648184]
 w203930902
-  other tags : addr:housenumber=6 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=6 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332089[55.0366550,30.2649890] n2139332085[55.0365960,30.2650142] n2139332083[55.0365777,30.2648836] n2139332087[55.0366366,30.2648584] n2139332089[55.0366550,30.2649890]
 w203930903
-  other tags : addr:housenumber=9 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=9 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2139332120[55.0373224,30.2653301] n2139332113[55.0372335,30.2653637] n2139332110[55.0372136,30.2652038] n2139332115[55.0373026,30.2651702] n2139332120[55.0373224,30.2653301]
 w204014329
-  other tags : addr:housenumber=5 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=5 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250880[55.0367605,30.2699677] n2140250868[55.0366214,30.2700329] n2140250866[55.0366007,30.2698987] n2140250878[55.0367399,30.2698335] n2140250880[55.0367605,30.2699677]
 w204014330
-  other tags : addr:housenumber=4 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=4 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250837[55.0361207,30.2691681] n2140250839[55.0361582,30.2693528] n2140250833[55.0360479,30.2694209] n2140250824[55.0360104,30.2692362] n2140250837[55.0361207,30.2691681]
 w204014331
-  other tags : addr:housenumber=1 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=1 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250829[55.0360325,30.2703349] n2140250822[55.0359663,30.2703675] n2140250820[55.0359453,30.2702379] n2140250825[55.0360115,30.2702054] n2140250829[55.0360325,30.2703349]
 w204014332
-  other tags : addr:housenumber=8 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=8 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250876[55.0367334,30.2693695] n2140250872[55.0366726,30.2693984] n2140250870[55.0366523,30.2692681] n2140250874[55.0367130,30.2692392] n2140250876[55.0367334,30.2693695]
 w204014334
-  other tags : addr:housenumber=7 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=7 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2140250888[55.0368156,30.2655492] n2140250884[55.0367761,30.2655624] n2140250882[55.0367608,30.2654232] n2140250886[55.0368003,30.2654100] n2140250888[55.0368156,30.2655492]
 w204014335
-  other tags : addr:housenumber=1 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=1 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2140250802[55.0354341,30.2660882] n2140250797[55.0353510,30.2661105] n2140250794[55.0353408,30.2659950] n2140250800[55.0354240,30.2659727] n2140250802[55.0354341,30.2660882]
 w204014336
-  other tags : addr:housenumber=9 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=9 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250929[55.0375361,30.2695946] n2140250923[55.0374444,30.2696390] n2140250922[55.0374245,30.2695140] n2140250928[55.0375162,30.2694696] n2140250929[55.0375361,30.2695946]
 w204014337
-  other tags : addr:housenumber=15 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=15 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250966[55.0387492,30.2687949] n2140250955[55.0386316,30.2688619] n2140250953[55.0386083,30.2687372] n2140250964[55.0387259,30.2686702] n2140250966[55.0387492,30.2687949]
 w204014339
-  other tags : addr:housenumber=3 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=3 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2140250835[55.0361181,30.2657861] n2140250831[55.0360332,30.2658141] n2140250827[55.0360213,30.2657046] n2140250834[55.0361062,30.2656766] n2140250835[55.0361181,30.2657861]
 w204014340
-  other tags : addr:housenumber=2 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=2 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250811[55.0357609,30.2698937] n2140250807[55.0357073,30.2699223] n2140250804[55.0356818,30.2697772] n2140250809[55.0357355,30.2697486] n2140250811[55.0357609,30.2698937]
 w204014341
-  other tags : addr:housenumber=6 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=6 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250853[55.0363702,30.2695709] n2140250847[55.0363259,30.2695966] n2140250841[55.0362970,30.2694456] n2140250849[55.0363413,30.2694198] n2140250853[55.0363702,30.2695709]
 w204014342
-  other tags : addr:housenumber=10 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=10 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250896[55.0369879,30.2690941] n2140250892[55.0369183,30.2691326] n2140250890[55.0369022,30.2690439] n2140250894[55.0369718,30.2690054] n2140250896[55.0369879,30.2690941]
 w204014343
-  other tags : addr:housenumber=4 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=4 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2140250855[55.0363811,30.2650576] n2140250845[55.0363129,30.2650808] n2140250843[55.0363010,30.2649742] n2140250851[55.0363692,30.2649510] n2140250855[55.0363811,30.2650576]
 w204014346
-  other tags : addr:housenumber=7 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=7 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250917[55.0372238,30.2696242] n2140250915[55.0371569,30.2696642] n2140250909[55.0371365,30.2695606] n2140250916[55.0372034,30.2695205] n2140250917[55.0372238,30.2696242]
 w204014347
-  other tags : addr:housenumber=16 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=16 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250938[55.0378972,30.2686986] n2140250935[55.0378660,30.2685520] n2140250940[55.0379479,30.2684989] n2140250944[55.0379791,30.2686455] n2140250938[55.0378972,30.2686986]
 w204014348
-  other tags : addr:housenumber=14 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=14 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250933[55.0375828,30.2688912] n2140250926[55.0375106,30.2689268] n2140250924[55.0374842,30.2687635] n2140250931[55.0375564,30.2687279] n2140250933[55.0375828,30.2688912]
 w204014349
-  other tags : addr:housenumber=2 | addr:street=улица Зелёная | building=house
+  other tags : addr:housenumber=2 | addr:street=Зелёная улица | building=house | building:levels=1
     geometry : n2140250818[55.0358601,30.2653271] n2140250815[55.0358030,30.2653578] n2140250813[55.0357758,30.2652038] n2140250816[55.0358330,30.2651731] n2140250818[55.0358601,30.2653271]
 w204014350
-  other tags : addr:housenumber=12 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=12 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2140250919[55.0372876,30.2690546] n2140250918[55.0372660,30.2689247] n2140250920[55.0373263,30.2688942] n2140250921[55.0373479,30.2690240] n2140250919[55.0372876,30.2690546]
 w204015203
-  other tags : addr:housenumber=5 | addr:street=улица Лесная | building=house
+  other tags : addr:housenumber=5 | addr:street=Лесная улица | building=house | building:levels=1
     geometry : n2140260528[55.0213530,30.2705204] n2140260524[55.0212755,30.2706519] n2140260522[55.0212221,30.2705561] n2140260525[55.0212996,30.2704246] n2140260528[55.0213530,30.2705204]
 w204015204
-  other tags : addr:housenumber=2 | addr:street=улица Лесная | building=house
+  other tags : addr:housenumber=2 | addr:street=Лесная улица | building=house | building:levels=1
     geometry : n2140260540[55.0222243,30.2717810] n2140260538[55.0221780,30.2718656] n2140260537[55.0221455,30.2718115] n2140260539[55.0221918,30.2717269] n2140260540[55.0222243,30.2717810]
 w204015206
-  other tags : addr:housenumber=4 | addr:street=улица Лесная | building=house
+  other tags : addr:housenumber=4 | addr:street=Лесная улица | building=house | building:levels=1
     geometry : n2140260532[55.0217300,30.2710559] n2140260531[55.0216761,30.2711535] n2140260529[55.0216145,30.2710503] n2140260530[55.0216684,30.2709526] n2140260532[55.0217300,30.2710559]
 w204015207
-  other tags : addr:housenumber=3 | addr:street=улица Лесная | building=house
+  other tags : addr:housenumber=3 | addr:street=Лесная улица | building=house | building:levels=1
     geometry : n2140260536[55.0219195,30.2712381] n2140260534[55.0218592,30.2713489] n2140260533[55.0218182,30.2712810] n2140260535[55.0218785,30.2711702] n2140260536[55.0219195,30.2712381]
 w204015208
-  other tags : addr:housenumber=1 | addr:street=улица Лесная | building=house
+  other tags : addr:housenumber=1 | addr:street=Лесная улица | building=house | building:levels=1
     geometry : n2140260544[55.0224875,30.2722037] n2140260542[55.0224121,30.2723239] n2140260541[55.0223742,30.2722516] n2140260543[55.0224496,30.2721313] n2140260544[55.0224875,30.2722037]
 w204344590
   other tags : building=house
@@ -434,13 +434,13 @@ w217939180
   other tags : addr:housenumber=22 | addr:street=Липовая улица | building=house | building:levels=2
     geometry : n2272459733[55.0973483,30.1529170] n2272459731[55.0972933,30.1529844] n2272459730[55.0972478,30.1528710] n2272459732[55.0973028,30.1528036] n2272459733[55.0973483,30.1529170]
 w219429076
-  other tags : addr:housenumber=6 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=6 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n2285897974[55.0198543,30.2738688] n2285897972[55.0197918,30.2737703] n2285897973[55.0198374,30.2736822] n2285897975[55.0198999,30.2737808] n2285897974[55.0198543,30.2738688]
 w219429080
-  other tags : addr:housenumber=3 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=3 | addr:street=Озёрная улица | building=house | building:levels=1
     geometry : n2285897930[55.0180983,30.2759160] n2285897928[55.0180317,30.2758175] n2285897929[55.0180806,30.2757170] n2285897931[55.0181471,30.2758155] n2285897930[55.0180983,30.2759160]
 w219429083
-  other tags : addr:housenumber=10 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=10 | addr:street=Озёрная улица | building=house | building:levels=1
     geometry : n2285897950[55.0189191,30.2775483] n2285897947[55.0188685,30.2776455] n2285897944[55.0188019,30.2775400] n2285897945[55.0188526,30.2774428] n2285897950[55.0189191,30.2775483]
 w222485604
   other tags : addr:housenumber=1 | addr:street=Витебская улица | building=house
@@ -644,13 +644,13 @@ w307105428
   other tags : addr:housenumber=3 | addr:street=улица Приозерная | building=house
     geometry : n3121701088[55.0921548,30.1453702] n3121701089[55.0921755,30.1457149] n3121701090[55.0920511,30.1457377] n3121701091[55.0920304,30.1453931] n3121701088[55.0921548,30.1453702]
 w309525741
-  other tags : addr:housenumber=11 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=11 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n3148745641[55.0378310,30.2692554] n3148745642[55.0378482,30.2693575] n3148745643[55.0377293,30.2694184] n3148745644[55.0377121,30.2693163] n3148745641[55.0378310,30.2692554]
 w309526159
-  other tags : addr:housenumber=3 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=3 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n3148749405[55.0363857,30.2704011] n3148749406[55.0362492,30.2704376] n3148749407[55.0362668,30.2706382] n3148749408[55.0364033,30.2706017] n3148749405[55.0363857,30.2704011]
 w309526237
-  other tags : addr:housenumber=17 | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=17 | addr:street=Садовая улица | building=house | building:levels=1
     geometry : n3148750587[55.0389924,30.2683739] n3148750588[55.0390321,30.2685570] n3148750589[55.0389479,30.2686125] n3148750590[55.0389083,30.2684294] n3148750587[55.0389924,30.2683739]
 w310617882
   other tags : addr:housenumber=17 | addr:street=Зелёная улица | building=house
@@ -716,5 +716,5 @@ w326701444
   other tags : building=house
     geometry : n3333715093[55.2267604,29.8646964] n3333715094[55.2266687,29.8648461] n3333715095[55.2265980,29.8647129] n3333715096[55.2266898,29.8645632] n3333715093[55.2267604,29.8646964]
 w328715937
-  other tags : addr:housenumber=7 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=7 | addr:street=Озёрная улица | building=house | building:levels=1
     geometry : n3355461190[55.0187334,30.2759325] n3355461191[55.0187842,30.2760412] n3355461192[55.0187154,30.2761387] n3355462993[55.0186647,30.2760300] n3355461190[55.0187334,30.2759325]
