@@ -10,8 +10,8 @@ n497154163
 n500851001  null / null / Белоруснефть №75
   other tags : addr:housenumber=34 | addr:street=проспект Жолтовского | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=РУП «Производственное объединение «Белоруснефть» | phone=+375-165-362477 | website=http://www.belorusneft.by/
     geometry : [52.1354498,26.0480957]
-n746251496
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | shop=kiosk
+n746251496  null / null / Лукойл №25
+  other tags : addr:street=улица 60 лет Октября | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-165-345443 | shop=kiosk | website=http://www.lukoil.by/
     geometry : [52.1179500,26.0635701]
 n1271808343  null / null / Белоруснефть №61
   other tags : addr:housenumber=4 | addr:street=улица Янищиц | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=РУП «Производственное объединение «Белоруснефть» | phone=+375-165-365474 | website=http://www.belorusneft.by/
@@ -28,6 +28,9 @@ n3282384424  null / null / Белоруснефть №61
 n3282384425  null / null / Белоруснефть №79
   other tags : addr:housenumber=140 | addr:street=Брестская улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=РУП «Производственное объединение «Белоруснефть» | phone=+375-165-347725 | website=http://www.belorusneft.by/
     geometry : [52.1141085,26.0498351]
-n3289925980
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл
-    geometry : [52.1263167,26.1115227]
+n3289925980  null / null / Лукойл №19
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-165-330820 | shop=kiosk | website=http://www.lukoil.by/
+    geometry : [52.1263344,26.1115802]
+n3412137654  null / null / Лукойл №25
+  other tags : addr:street=улица 60 лет Октября | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-165-345443 | website=http://www.lukoil.by/
+    geometry : [52.1177436,26.0636651]

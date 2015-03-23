@@ -1,5 +1,5 @@
 n502280976
-  other tags : amenity=fuel | brand=Газпромнефть АЗС № 38 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | phone=+375-165-303652
+  other tags : amenity=fuel | brand=Газпромнефть АЗС № 38 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | phone=+375-165-303652 | website=http://gpnbonus.by/
     geometry : [52.1687706,26.0895423]
 n502280986
   other tags : amenity=fuel | fuel:lpg=yes | opening_hours=24/7
@@ -13,6 +13,9 @@ n2470071041  null / null / Белоруснефть №72
 n3128313584
   other tags : amenity=fuel
     geometry : [52.1441169,26.1728922]
+n3412137648  null / null / Лукойл №81
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | shop=kiosk | website=http://www.lukoil.by/
+    geometry : [52.1018360,26.1124094]
 w307633116
   other tags : amenity=fuel
     geometry : n3128313576[52.1438010,26.1717958] n3128313596[52.1448366,26.1729927] n3128313597[52.1448894,26.1730538] n3128313594[52.1447945,26.1732188] n3128313589[52.1442946,26.1733632] n3128313578[52.1439212,26.1729301] n3128313577[52.1438453,26.1720226] n3128313574[52.1437440,26.1719195] n3128313575[52.1437725,26.1718499] n3128313576[52.1438010,26.1717958]
