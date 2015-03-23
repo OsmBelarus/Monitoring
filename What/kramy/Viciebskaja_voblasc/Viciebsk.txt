@@ -1228,12 +1228,11 @@ n1411586394  КІМ / null / КИМ / КИМ
 n1411586411  Лічбавік / null / Цифровик
   other tags : shop=electronics
     geometry : [55.1938024,30.1915383]
-n1418174040  Прадукты / null / Продукты / Продукты
-  other names: name:uk=Продукти
-  other tags : shop=convenience
+n1418174040  null / null / Ломбард
+  other tags : shop=pawnbroker
     geometry : [55.1795311,30.2153969]
 n1418174041  Штопар / null / Штопор
-  other tags : shop=alcohol
+  other tags : opening_hours=09:00-21:00 | shop=alcohol
     geometry : [55.1795740,30.2153041]
 n1420512645  Тавары для дома / null / Товары для дома
   other tags : description=Стройматериалы и пр. | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | operator=ОДО "ПКФ", "АКВАТЕХ" | shop=hardware
@@ -3368,3 +3367,16 @@ n3408921067  null / null / Мебельная фурнитура
 n3409729314  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.2046591,30.2739156]
+n3410519528  Прадукты / null / Продукты / Продукты
+  other names: name:uk=Продукти
+  other tags : opening_hours=09:00-23:00 | shop=convenience
+    geometry : [55.1795255,30.2155138]
+n3410541088  null / null / Белдрев
+  other tags : shop=furniture
+    geometry : [55.1789688,30.2152966]
+n3410541089  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [55.1791252,30.2153678]
+n3410541090  null / null / Сервис-центр
+  other tags : shop=electronics
+    geometry : [55.1790165,30.2153032]
