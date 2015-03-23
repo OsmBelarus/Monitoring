@@ -3537,10 +3537,10 @@ w260319519  null / null / Журавушка
   other tags : addr:postcode=231908 | addr:street=Центральная улица | building=retail | building:levels=1
     geometry : n2657882938[53.3655901,24.3639798] n2657882939[53.3656216,24.3641267] n2657882940[53.3660347,24.3638847] n2657882941[53.3660018,24.3637303] n2661033963[53.3657973,24.3638528] n2657882938[53.3655901,24.3639798]
 w260320129  null / null / Сельский совет.
-  other tags : building=commercial
+  other tags : addr:postcode=231908 | addr:street=Центральная улица | building=commercial | building:levels=2
     geometry : n2657889451[53.3670799,24.3643867] n2657889455[53.3670310,24.3641785] n2657889457[53.3672712,24.3640199] n2657889459[53.3673201,24.3642281] n2657889451[53.3670799,24.3643867]
 w260320296  null / null / СДК
-  other tags : building=commercial
+  other tags : addr:city=Волпа | addr:postcode=231908 | addr:street=Центральная улица | building=commercial | building:levels=3
     geometry : n2657893039[53.3674070,24.3641712] n2657893041[53.3675856,24.3641009] n2657893043[53.3675171,24.3636118] n2657893045[53.3673385,24.3636821] n2657893039[53.3674070,24.3641712]
 w260327972
   other tags : addr:postcode=231908 | building=shed | building:levels=1
