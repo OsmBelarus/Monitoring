@@ -2897,7 +2897,7 @@ n2949719565  null / null / Ломбард
   other tags : shop=pawnbroker
     geometry : [55.1814768,30.2021302]
 n2949719566  null / null / Магазин TRUVOR (мужской стиль)
-  other tags : opening_hours=Mo-Su 09:00-18:00 | shop=clothes
+  other tags : clothes=men | opening_hours=Mo-Su 09:00-18:00 | shop=clothes
     geometry : [55.1801240,30.2192069]
 n2949719567  null / null / Оса
   other tags : description=ноутбуки | opening_hours=Mo-Su 10:00-20:00 | operator=ЧП «Мир компьютерных технологий» | shop=computer
@@ -3380,3 +3380,9 @@ n3410541089  null / null / Парикмахерская
 n3410541090  null / null / Сервис-центр
   other tags : shop=electronics
     geometry : [55.1790165,30.2153032]
+n3411340218  null / null / Добрыня
+  other tags : description=авто-мото-бензотехника | opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=motorcycle
+    geometry : [55.1799672,30.2200860]
+n3411340220
+  other tags : opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=bicycle
+    geometry : [55.1799723,30.2200900]
