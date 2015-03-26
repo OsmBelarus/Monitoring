@@ -187,9 +187,9 @@ n242981842  Вандалін / Vandalin / Вандалин / Вандалин
 n242981845  Малыя Якаўчыцы / Malyja Jakaŭčycy / Малые Яковчицы / Малые Яковчицы
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Малыя Якаўчычы | place=hamlet
     geometry : [52.2577600,24.1202300]
-n242981847  Вялікія Якаўчыцы / Vialikija Jakaŭčycy / Великие Яковчицы / Великие Яковчицы
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Якаўчычы | alt_name:ru=Большие Яковчицы | place=hamlet
-    geometry : [52.2295200,24.1313800]
+n242981847  Вялікія Якаўчыцы / Vialikija Jakaŭčycy / Большие Яковчицы / Большие Яковчицы
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Якаўчычы | alt_name:ru=Великие Яковчицы | place=hamlet
+    geometry : [52.2294157,24.1327632]
 n242981853  null / null / Кантыново / Кантыново
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
     geometry : [52.2105500,24.1683800]
@@ -262,7 +262,7 @@ n1396737610  Сенькавічы / Sieńkavičy / Сеньковичи / Сен
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Сенкавічы;Сенкаўцы;Сенькава Сяло | place=hamlet | source=Bing
     geometry : [52.2283721,23.9900949]
 n1697391982  null / null / Юзепин / Юзепин
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=village
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
     geometry : [52.1476077,24.1317385]
 n1697398809  Бабры / Babry / Бобры / Бобры
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
@@ -288,9 +288,8 @@ n2798468367  Гатча / Hatča / Гатча / Гатча
 n2798718654  Пуцішча / Pucišča / Путища / Путища
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Пуцішчы | alt_name:ru=Путище | place=hamlet
     geometry : [52.2149712,24.0277582]
-n2798801110  Баляўшчына / Baliaŭščyna / Болевщина / Болевщина
-  other names: name:by=Баляўшчына
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Баляўшчызна | alt_name:ru=Балевщина | place=hamlet
+n2798801110  Баляўшчына / Baliaŭščyna / Балевщина / Балевщина
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Баляўшчызна | alt_name:ru=Болевщина | place=hamlet
     geometry : [52.2201056,24.0706959]
 n2798852786  Лясоты / Liasoty / Лясоты / Лясоты
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
@@ -347,8 +346,8 @@ w25145548  Карды / Kardy / Корды / Корды
 w25145549  Баяры / Bajary / Бояры / Бояры
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
     geometry : n274047555[52.2641100,24.0840900] n274047556[52.2649700,24.0853800] n274047557[52.2641100,24.0892400] n274047558[52.2652200,24.0897600] n274047559[52.2659100,24.0858900] n274047560[52.2667700,24.0860700] n274047561[52.2708000,24.0878700] n274047562[52.2712300,24.0853800] n274047563[52.2729500,24.0858100] n274047564[52.2732900,24.0834900] n274047565[52.2688300,24.0820300] n274047566[52.2658200,24.0799700] n274047555[52.2641100,24.0840900]
-w25145550  Вялікія Якаўчыцы / Vialikija Jakaŭčycy / Великие Яковчицы / Великие Яковчицы
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Якаўчычы | alt_name:ru=Большие Яковчицы | place=hamlet
+w25145550  Вялікія Якаўчыцы / Vialikija Jakaŭčycy / Большие Яковчицы / Большие Яковчицы
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Якаўчычы | alt_name:ru=Великие Яковчицы | place=hamlet
     geometry : n274047567[52.2336400,24.1281200] n274047568[52.2284900,24.1299300] n274047569[52.2283200,24.1284700] n274047570[52.2258300,24.1287200] n274047571[52.2260000,24.1334400] n274047572[52.2272900,24.1335300] n274047573[52.2282300,24.1353300] n274047574[52.2340700,24.1339600] n274047575[52.2339800,24.1308700] n274047567[52.2336400,24.1281200]
 w25145552  Мацеевічы / Maciejevičy / Матеевичи / Матеевичи
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Маціевічы | place=hamlet
@@ -379,7 +378,7 @@ w25145571  Ёжыкі / Jožyki / Ёжики / Ёжики
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
     geometry : n274047766[52.1751709,24.0856169] n274047767[52.1743209,24.0906769] n274047768[52.1752609,24.0911969] n274047769[52.1752609,24.0937669] n274047770[52.1755109,24.0945369] n274047771[52.1763809,24.0950569] n274047772[52.1774909,24.0953969] n274047773[52.1778309,24.0933369] n274047774[52.1765409,24.0927369] n274047775[52.1775709,24.0858769] n274047766[52.1751709,24.0856169]
 w25145572  null / null / Юзепин / Юзепин
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=village
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet
     geometry : n274047777[52.1473800,24.1266600] n274047778[52.1461817,24.1343254] n274047779[52.1480479,24.1362780] n274047782[52.1494400,24.1303500] n274047784[52.1488872,24.1255479] n274047777[52.1473800,24.1266600]
 w25145573  Шалухі / Šaluchi / Шелухи / Шелухи
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Шалохі;Шолухі | place=hamlet
@@ -579,9 +578,8 @@ w275188965  Гатча / Hatča / Гатча / Гатча
 w275230703  Пуцішча / Pucišča / Путища / Путища
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Пуцішчы | alt_name:ru=Путище | place=hamlet
     geometry : n2798718655[52.2127679,24.0279783] n2798718657[52.2147014,24.0265106] n2798718659[52.2159155,24.0265106] n1396730934[52.2169839,24.0274824] n2798718660[52.2165000,24.0285654] n2798718658[52.2154209,24.0287122] n2798718656[52.2142968,24.0287122] n2798718655[52.2127679,24.0279783]
-w275244567  Баляўшчына / Baliaŭščyna / Болевщина / Болевщина
-  other names: name:by=Баляўшчына
-  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Баляўшчызна | alt_name:ru=Балевщина | place=hamlet
+w275244567  Баляўшчына / Baliaŭščyna / Балевщина / Балевщина
+  other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | alt_name:be=Баляўшчызна | alt_name:ru=Болевщина | place=hamlet
     geometry : n2798801113[52.2241760,24.0708237] n2798801112[52.2200273,24.0634125] n2798801111[52.2161131,24.0653292] n1697482739[52.2173838,24.0752036] n1697482782[52.2248475,24.0758128] n2798801113[52.2241760,24.0708237]
 w275251085  Лясоты / Liasoty / Лясоты / Лясоты
   other tags : addr:country=BY | addr:district=Жабинковский район | addr:region=Брестская область | place=hamlet

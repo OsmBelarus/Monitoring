@@ -5,15 +5,12 @@ n242981278  Віскулі / Viskuli / Вискули / Вискули
   other names: name:pl=Wiskule
   other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling | wikipedia=ru:Вискули
     geometry : [52.6186700,23.9535400]
-n242982591  Янаўшчына / Janaŭščyna / Яновщина / Яновщина
-  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | alt_name:be=Янаўшчызна | alt_name:ru=Яновщизна | place=isolated_dwelling
+n242982591  Янаўшчызна / Janaŭščyna / Яновщизна / Яновщизна
+  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | alt_name:be=Янаўшчына | alt_name:ru=Яновщина | place=isolated_dwelling
     geometry : [52.6028000,24.2175600]
 n242983327  Квасаўшчына / Kvasaŭščyna / Квасовщина / Квасовщина
   other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
     geometry : [52.5391900,24.3516300]
-n242986225  Лібярполь / Libiarpoĺ / Либерполь / Либерполь
-  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
-    geometry : [52.8119600,24.7184700]
 n242987238  Nікіцічы / Mikicičy / Никитичи / Никитичи
   other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | alt_name:be=Мікіцічы | alt_name:ru=Микитичи | place=isolated_dwelling
     geometry : [52.8517100,25.0508000]
@@ -236,9 +233,6 @@ n2788687631  Каплічка / null / Часовня
 n2788687638  Капліца / null / Часовня
   other tags : tourism=attraction
     geometry : [52.8751290,25.0364480]
-n2808800186  Палінова / Palinova / Полиново / Полиново
-  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
-    geometry : [52.5838126,24.4695740]
 n2808822775  Яцы / Jacy / Яцы / Яцы
   other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
     geometry : [52.5065247,24.4511329]
@@ -293,9 +287,6 @@ w25142120  Nікіцічы / Mikicičy / Никитичи / Никитичи
 w25142986
   other tags : admin_level=8 | boundary=administrative
     geometry : n274005295[52.8002100,24.8879800] n274005297[52.7987500,24.8888400] n274005300[52.7996100,24.8930500] n274005302[52.8052700,24.8921000] n274005304[52.8038100,24.8866900] n274005295[52.8002100,24.8879800]
-w25143635  Лібярполь / Libiarpoĺ / Либерполь / Либерполь
-  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
-    geometry : n274017363[52.8111100,24.7262800] n274017366[52.8128200,24.7258500] n274017367[52.8142800,24.7152900] n274017370[52.8139400,24.7112600] n274017372[52.8124800,24.7111700] n274017374[52.8124800,24.7150300] n274017375[52.8105900,24.7128000] n274017378[52.8098200,24.7147800] n274017380[52.8111571,24.7183393] n274017382[52.8116200,24.7214700] n274017384[52.8111100,24.7237000] n274017363[52.8111100,24.7262800]
 w25143636
   other tags : admin_level=8 | boundary=administrative
     geometry : n274017389[52.7748900,24.6119500] n274017390[52.7740300,24.6116900] n274017392[52.7723100,24.6101500] n274017394[52.7714500,24.6129800] n274017396[52.7715400,24.6176200] n274017398[52.7750600,24.6160700] n274017400[52.7749700,24.6159000] n274017401[52.7748000,24.6140100] n274017389[52.7748900,24.6119500]
@@ -335,8 +326,8 @@ w25144863  Квасаўшчына / Kvasaŭščyna / Квасовщина / Кв
 w25144872
   other tags : admin_level=8 | boundary=administrative
     geometry : n274038557[52.4046100,24.3142900] n274038558[52.4033300,24.3148000] n274038560[52.4036700,24.3173800] n274038562[52.4021200,24.3185000] n274038563[52.4035800,24.3227000] n274038565[52.4062400,24.3202100] n274038557[52.4046100,24.3142900]
-w25145426  Янаўшчына / Janaŭščyna / Яновщина / Яновщина
-  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | alt_name:be=Янаўшчызна | alt_name:ru=Яновщизна | place=isolated_dwelling
+w25145426  Янаўшчызна / Janaŭščyna / Яновщизна / Яновщизна
+  other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | alt_name:be=Янаўшчына | alt_name:ru=Яновщина | place=isolated_dwelling
     geometry : n274046624[52.6048600,24.2125800] n274046627[52.6029700,24.2120700] n274046629[52.6029700,24.2145500] n274046632[52.6007400,24.2141300] n274046635[52.6005600,24.2178200] n274046637[52.6005600,24.2194500] n274046640[52.6021100,24.2197900] n274046643[52.6021100,24.2214200] n274046645[52.6041700,24.2214200] n274046648[52.6041700,24.2201300] n274046650[52.6052000,24.2198800] n274046624[52.6048600,24.2125800]
 w25146036  Перарова / Pierarova / Перерово / Перерово
   other tags : addr:country=BY | addr:district=Пружанский район | addr:region=Брестская область | place=isolated_dwelling
