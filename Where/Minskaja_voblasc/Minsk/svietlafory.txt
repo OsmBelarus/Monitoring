@@ -2051,13 +2051,13 @@ n607266726  null / null / АТС / АТС
 n607266731  null / null / Есенина
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8492374,27.4690353]
-n607266737  null / null / Ежи Гедройца
+n607266737  Ежы Гедройца / null / Ежи Гедройца
   other tags : highway=bus_stop | shelter=yes | wheelchair=yes
     geometry : [53.8527908,27.4757064]
-n607266742  null / null / Некрашевича
+n607266742  Некрашэвіча / null / Некрашевича
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.8533778,27.4905538]
-n607266748  null / null / Чюрлениса
+n607266748  Чурлёніса / null / Чюрлениса
   other tags : highway=bus_stop
     geometry : [53.8551600,27.4868696]
 n607266758  null / null / 9-я больница
@@ -2075,7 +2075,7 @@ n610329621  null / null / Мазурова
 n610329622  Чырвоны Бор / null / Красный Бор / Красный Бор
   other tags : highway=bus_stop
     geometry : [53.9011418,27.4244859]
-n610848333  null / null / Чюрлениса
+n610848333  Чурлёніса / null / Чюрлениса
   other tags : highway=bus_stop
     geometry : [53.8542735,27.4873458]
 n610848337  null / null / 9-я больница
@@ -2196,12 +2196,12 @@ n615026310  Універсам / null / Универсам Брест / Унив
 n615026311  Паўднёвы Захад 2 / null / Юго-Запад-2 / Юго-Запад-2
   other tags : highway=bus_stop
     geometry : [53.8588037,27.4701769]
-n615026327  null / null / Универсам Волгоград
+n615026327  Універсам Валгаград / null / Универсам Волгоград
   other tags : highway=bus_stop
     geometry : [53.8614079,27.4779510]
-n615026330  null / null / Универсам Волгоград
+n615026330  Універсам Валгаград / null / Универсам Волгоград
   other tags : highway=bus_stop
-    geometry : [53.8621748,27.4792214]
+    geometry : [53.8622298,27.4792033]
 n615042734  null / null / Станция метро Институт Культуры
   other tags : highway=bus_stop
     geometry : [53.8867007,27.5382712]
@@ -2948,10 +2948,10 @@ n767085327  null / null / Первомайская / Первомайская
 n767085331  вуліца Мендзялеева / null / Менделеева / улица Менделеева
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9024000,27.6187900]
-n767085332  null / null / Медуниверситет
+n767085332  ст. м. Пятроўшчына / null / ст. м. Петровщина
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8630875,27.4875464]
-n767085334  null / null / Медуниверситет
+    geometry : [53.8647289,27.4840903]
+n767085334  Медуніверсітэт / null / Медуниверситет
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8627571,27.4876266]
 n767085349  вуліца Глаголева / null / Глаголева / улица Глаголева
@@ -4568,7 +4568,7 @@ n767183788  null / null / Кинотеатр Киев
 n767183789  Гарадок / null / Поворот на Городок / Городок
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8251900,27.7619300]
-n767183790  null / null / Студенческая деревня
+n767183790  Студэнцкая вёска / null / Студенческая деревня
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8579900,27.4787300]
 n767183791  Нававіленская вуліца / null / Нововиленская / Нововиленская улица
@@ -4688,7 +4688,7 @@ n767183838  Магазін / null / Магазин / Магазин
 n767183839  завулак Геалагічны / null / Геологический перереулок / переулок Геологический
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9096005,27.6595512]
-n767183840  null / null / ДС Семашко
+n767183840  ДС Сямашкі / null / ДС Семашко
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8580400,27.4966700]
 n767183841  Брылеўская вул. / null / Брилевская / Брилевская улица
@@ -5436,7 +5436,7 @@ n2974184784  null / null / Ириновская
 n3031266699  null / null / ДС Курасовщина
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8433825,27.5187058]
-n3031367449  null / null / Дом Правосудия
+n3031367449  Дом Правасуддзя / null / Дом Правосудия
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [53.8571952,27.4978357]
 n3062747618  null / null / Станция метро Малиновка
@@ -5466,7 +5466,7 @@ n3162994052  null / null / Академическая
 n3188666695  null / null / институт управления и предпринемательства
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9410435,27.6318119]
-n3208215806  null / null / Некрашевича
+n3208215806  Некрашэвіча / null / Некрашевича
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.8534542,27.4928563]
 n3213448946  Вулiца Я. Купалы / null / Улица Я. Купалы

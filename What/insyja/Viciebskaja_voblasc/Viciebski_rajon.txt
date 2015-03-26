@@ -38,7 +38,7 @@ n243042831  Задзебра / Zadziebra / Задебря / Задебря
   other tags : addr:country=BY | addr:district=Витебский район | addr:region=Витебская область | place=locality
     geometry : [55.2223500,30.6436200]
 n243043691  Шаркі / Šarki / Шарки / Шарки
-  other tags : addr:country=BY | addr:district=Витебский район | addr:region=Витебская область | place=locality
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Витебский район | addr:region=Витебская область | place=locality
     geometry : [55.0101977,30.2564903]
 n272396439
   other tags : railway=level_crossing
@@ -1326,7 +1326,7 @@ w25088214
   other tags : landuse=residential
     geometry : n273042519[55.0297541,30.1692209] n273042521[55.0287650,30.1698005] n273042523[55.0292826,30.1727841] n273042525[55.0303327,30.1719062] n273042519[55.0297541,30.1692209]
 w25088235  Шаркі / Šarki / Шарки / Шарки
-  other tags : addr:country=BY | addr:district=Витебский район | addr:region=Витебская область | place=locality
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Витебский район | addr:region=Витебская область | place=locality
     geometry : n273042941[55.0082410,30.2539459] n273042949[55.0075818,30.2565540] n273042966[55.0125759,30.2596448] n273042972[55.0131597,30.2561083] n273042941[55.0082410,30.2539459]
 w25090402  null / null / Садовые участки / Садовые участки
   other tags : landuse=allotments
