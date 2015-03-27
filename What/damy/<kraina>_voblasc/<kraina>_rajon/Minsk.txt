@@ -55,12 +55,6 @@ n2627464175  null / null / Детская библиотека №9
 n2627520514  null / null / Зоомагазин
   other tags : building=apartments
     geometry : [53.8353542,27.6275987]
-n3170038793  null / null / 3
-  other tags : addr:housenumber=3 | building=house
-    geometry : [53.9130502,27.5257652]
-n3170038794  null / null / 3
-  other tags : building=house | building:levels=2
-    geometry : [53.9133741,27.5262333]
 n3206992250
   other tags : addr:city=Минск | addr:housenumber=10 | addr:street=Шумилинская улица | building=house
     geometry : [53.9633625,27.5118400]
@@ -2992,13 +2986,13 @@ w153761991
 w155587426
   other tags : addr:housenumber=42 | addr:street=улица Тимирязева | building=residential
     geometry : n1679848191[53.9153820,27.5225957] n1679848016[53.9153331,27.5224296] n1679848317[53.9152646,27.5225071] n1679848069[53.9153102,27.5226456] n1679848191[53.9153820,27.5225957]
-w155587438  null / null / 7
+w155587438
   other tags : addr:housenumber=7 | addr:street=улица Москвина | building=house | building:levels=1
     geometry : n1679847853[53.9137765,27.5261027] n1679847585[53.9138606,27.5260276] n1679847860[53.9138109,27.5258669] n1679848236[53.9137267,27.5259420] n1679847853[53.9137765,27.5261027]
-w155587444  null / null / Жилой дом
+w155587444
   other tags : addr:housenumber=3 | addr:street=улица Репина | building=house | building:levels=2
     geometry : n1679848146[53.9130458,27.5259287] n1679847925[53.9129496,27.5257132] n1679848164[53.9130351,27.5256001] n1679847941[53.9131290,27.5258024] n1679848146[53.9130458,27.5259287]
-w155587457  null / null / 3
+w155587457
   other tags : addr:housenumber=3 | addr:street=улица Москвина | building=house | building:levels=2
     geometry : n1679848099[53.9132734,27.5262110] n1679848011[53.9133347,27.5263894] n1679847842[53.9134660,27.5262705] n1679848010[53.9134116,27.5260793] n1679848099[53.9132734,27.5262110]
 w161785000
