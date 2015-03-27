@@ -395,7 +395,7 @@ n728893069  Абмен валют / null / Обмен валют
   other tags : amenity=bureau_de_change | operator=Беларусбанк
     geometry : [55.1688255,30.2330470]
 n728967106  Абмен валют / null / Обмен валют
-  other tags : amenity=bureau_de_change | operator=Беларусбанк
+  other tags : amenity=bureau_de_change | opening_hours=10:00-19:30 | operator=Банк Москва-Минск
     geometry : [55.1734414,30.2041608]
 n728967122  Вартыя вокны / null / Достойные окна
   other tags : craft=window_construction
@@ -9746,7 +9746,7 @@ n3005864402
   other tags : entrance=service
     geometry : [55.1755186,30.2066612]
 n3009283248  null / null / Обмен валют
-  other tags : amenity=bureau_de_change | operator=Банк Москва-Минск
+  other tags : amenity=bureau_de_change | opening_hours=10:00-14:00, 15:00-20:00 | operator=Банк Москва-Минск
     geometry : [55.1699033,30.2240506]
 n3011111535
   other tags : entrance=service
