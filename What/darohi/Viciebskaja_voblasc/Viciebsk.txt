@@ -11641,10 +11641,10 @@ w130128373  вуліца Воінаў-Інтэрнацыяналістаў / vul
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
     geometry : n1434243554[55.1637707,30.2091546] n2378708849[55.1638590,30.2082690] n310308363[55.1639165,30.2076923] n310308361[55.1640578,30.2061663] n2924969371[55.1641073,30.2058377] n338865776[55.1641485,30.2055639] n310308947[55.1642510,30.2049711] n310308942[55.1644544,30.2041551] n310309149[55.1645398,30.2038725] n310305218[55.1647872,30.2031716] n1846459555[55.1649865,30.2026488] n906495593[55.1655493,30.2012075]
 w130128374  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
-  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=through;left|through|through|right
+  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left;through|through|through|right
     geometry : n1434243552[55.1636379,30.2104034] n495154563[55.1636486,30.2103077] n310308394[55.1636963,30.2099041]
 w130128375  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
-  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=through;left|through|through|right
+  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left;through|through|through|right
     geometry : n1434243546[55.1635189,30.2090842] n495154565[55.1634995,30.2093219] n310308423[55.1634791,30.2095384]
 w130128376  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
@@ -11801,7 +11801,7 @@ w130196533  вуліца Чкалава / vulica Čkalava / улица Чкал�
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes
     geometry : n310311909[55.1718176,30.2130722] n310311146[55.1719533,30.2131216]
 w130249832  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=3 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left;reverse|through|through;right
+  other tags : highway=secondary | lanes=3 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through;right
     geometry : n310308390[55.1645627,30.2099948] n1434243555[55.1641513,30.2098223] n495154567[55.1639290,30.2097302] n310308480[55.1637240,30.2096488]
 w130249833  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=2 | maxspeed=60 | maxspeed:practical=60 | oneway=yes
@@ -17479,7 +17479,7 @@ w246036943  вуліца Акадэміка Паўлава / vulica Akademika Pa
   other tags : highway=primary | lanes=2 | maxspeed=30 | oneway=yes
     geometry : n722952742[55.1777246,30.1858610] n2940453087[55.1778193,30.1864165]
 w246431870  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through;right
+  other tags : highway=secondary | lanes=3 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through;right
     geometry : n336352081[55.1632840,30.2097420] n310308425[55.1634538,30.2098074]
 w246466554  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | turn:lanes=left;reverse|left|right
