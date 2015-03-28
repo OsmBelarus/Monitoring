@@ -6603,6 +6603,12 @@ n2579746812  null / null / БИГЗ
 n2582371063  null / null / разливное пиво
   other tags : addr:housenumber=38 | addr:street=улица Сергея Есенина | shop=beverages
     geometry : [53.8520066,27.4518812]
+n2582373796  null / null / продукты
+  other tags : shop=yes
+    geometry : [53.8515706,27.4502630]
+n2582374270  null / null / продукты
+  other tags : shop=yes
+    geometry : [53.8512858,27.4476836]
 n2591361688
   other tags : shop=yes
     geometry : [53.8849110,27.4432974]
@@ -7272,6 +7278,9 @@ n2621395955  null / null / Ветерок
 n2621400661
   other tags : shop=hairdresser
     geometry : [53.8860192,27.4262551]
+n2621455402  null / null / Белсаюздрук
+  other tags : shop=kiosk
+    geometry : [53.9060616,27.4354620]
 n2621456253  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.9052364,27.4360253]
@@ -11006,3 +11015,6 @@ n3410414916  null / null / Denim Club
 n3417163680  null / null / Пряничный домик
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=pastry
     geometry : [53.8591077,27.5908776]
+n3421208496  null / null / УП «Антикор-Плюс»
+  other tags : phone=+375297799059 | shop=car_repair | website=http://antikor.tuz.by/
+    geometry : [53.8650694,27.5064679]

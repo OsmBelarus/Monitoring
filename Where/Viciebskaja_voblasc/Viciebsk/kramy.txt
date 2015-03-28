@@ -1234,9 +1234,9 @@ n1418174040  null / null / Ломбард
 n1418174041  Штопар / null / Штопор
   other tags : opening_hours=09:00-21:00 | shop=alcohol
     geometry : [55.1795740,30.2153041]
-n1420512645  Тавары для дома / null / Товары для дома
-  other tags : description=Стройматериалы и пр. | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | operator=ОДО "ПКФ", "АКВАТЕХ" | shop=hardware
-    geometry : [55.1858070,30.2215355]
+n1420512645
+  other tags : shop=hairdresser
+    geometry : [55.1858121,30.2214995]
 n1436377797
   other tags : shop=furniture
     geometry : [55.1590877,30.2357929]
@@ -1458,13 +1458,13 @@ n1664704852  Цырульня / null / Парикмахерская
     geometry : [55.1728508,30.2197265]
 n1672917907  null / null / Мир пчёл
   other tags : phone=+375-29-1373978 | shop=convenience
-    geometry : [55.1873033,30.2205639]
+    geometry : [55.1873058,30.2205243]
 n1672917908  null / null / Подбор красок
   other tags : shop=car_parts
-    geometry : [55.1872157,30.2204973]
+    geometry : [55.1872182,30.2204577]
 n1672917909  Шынамантаж / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
-    geometry : [55.1875299,30.2205370]
+    geometry : [55.1875195,30.2204944]
 n1675595573  Чараўніца прыёмны салон / null / Чаровница приёмный салон
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=clothes
     geometry : [55.1671806,30.2422220]
@@ -1788,7 +1788,7 @@ n2306561912  Шынамантаж / null / Шиномонтаж / Шиномон
     geometry : [55.1631277,30.2037091]
 n2323147464  Дачнік / null / Дачник
   other tags : opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-16:00 | operator=ЧУТПП «Плутон» | phone=+375212480108 | shop=garden_centre | website=http://gorodvitebsk.by/firms/dachnik
-    geometry : [55.1869584,30.2225231]
+    geometry : [55.1869609,30.2224758]
 n2324420457  null / null / Терабайт
   other tags : craft=electronics_repair | electronics_repair:computer=yes | electronics_repair:phone=yes | electronics_repair:tv=yes | operator=ЧТУП «Тысяча байт» | phone=+375297124444 | shop=computer | website=http://1tb.by/
     geometry : [55.2061915,30.2095909]
@@ -2458,9 +2458,6 @@ n2682959914  null / null / ООО "Лар-М"
 n2683522583  null / null / Mark Formelle
   other tags : shop=clothes
     geometry : [55.1805896,30.2168308]
-n2684758109
-  other tags : shop=convenience
-    geometry : [55.1934922,30.2330782]
 n2691153761  null / null / СТО
   other tags : shop=car_repair
     geometry : [55.1526679,30.2369111]
@@ -2868,10 +2865,13 @@ n2942006338  null / null / Быстрые займы
     geometry : [55.1951670,30.2405706]
 n2942006342  null / null / Колорит
   other tags : description=магазин отделочных материалов | level=2 | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-16:00 | shop=paint
-    geometry : [55.1869780,30.2226295]
+    geometry : [55.1869805,30.2225822]
 n2942006344  null / null / Центр ритуальных услуг
   other tags : opening_hours=Mo-Su 08:00-20:00 | operator=ЧПТУП «Статус металлик» | phone=+375 (33) 696-00-55, +375 (212) 48-86-48 | shop=funeral_directors
-    geometry : [55.1872324,30.2230686]
+    geometry : [55.1872322,30.2230555]
+n2942006354  null / null / Артпласт
+  other tags : contact:email=rals@tut.by | contact:phone=+375(29) 155-77-55, +375(212) 48-88-88 | contact:website=http://artplast.by/ | description=Широкоформатная полноцветная печать на неполиграфических носителях (плёнка виниловая, баннерная ткань, холст) и бумаге | office=company | shop=copyshop
+    geometry : [55.1871093,30.2229223]
 n2942196373  Падбор фарбаў / null / Подбор красок
   other tags : shop=paint
     geometry : [55.1850009,30.2497438]
