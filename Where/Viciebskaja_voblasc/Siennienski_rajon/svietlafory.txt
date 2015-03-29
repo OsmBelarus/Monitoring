@@ -92,11 +92,11 @@ n3096821250  null / null / Голощакино
   other tags : highway=bus_stop
     geometry : [54.8275988,30.1268072]
 n3125844498  null / null / Ковали
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.8233328,29.9146114]
 n3125844499  null / null / Ковали
-  other tags : highway=bus_stop
-    geometry : [54.8234520,29.9141164]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.8234421,29.9141507]
 n3125844500  null / null / Козлы
   other tags : highway=bus_stop
     geometry : [54.8307729,30.0467146]
@@ -110,10 +110,10 @@ n3125844503  null / null / Мосейки
   other tags : highway=bus_stop
     geometry : [54.8299989,30.0100569]
 n3125844504  null / null / Новая Оболь
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.8327960,29.9963978]
 n3125844505  null / null / Новая Оболь
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.8332401,29.9964048]
 n3125844506  null / null / Студёнка
   other tags : highway=bus_stop
