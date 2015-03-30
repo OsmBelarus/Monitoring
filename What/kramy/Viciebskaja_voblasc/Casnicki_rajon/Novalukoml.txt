@@ -28,9 +28,6 @@ n2444393351  null / null / Техносеть
 n2445115072
   other tags : shop=butcher
     geometry : [54.6568250,29.1492962]
-n2460226940  null / null / Наш дом
-  other tags : shop=yes
-    geometry : [54.6554063,29.1491035]
 n2463395389  null / null / Строймастер
   other tags : shop=doityourself
     geometry : [54.6567864,29.1401530]
@@ -48,7 +45,7 @@ n2463405979  null / null / МТС
     geometry : [54.6524519,29.1359207]
 n2464212317  null / null / Рубин
   other tags : shop=gift
-    geometry : [54.6569861,29.1403000]
+    geometry : [54.6570187,29.1402752]
 n2491363576  null / null / Вектор
   other tags : shop=yes
     geometry : [54.6499004,29.1343381]
@@ -76,12 +73,12 @@ n3214158167  null / null / Солярий
 n3214158168
   other tags : shop=hairdresser
     geometry : [54.6557010,29.1453883]
-n3216115691
-  other tags : shop=electronics
-    geometry : [54.6551618,29.1482638]
 n3350455123  null / null / Строительный
   other tags : shop=yes
     geometry : [54.6547472,29.1518861]
 n3350455124  null / null / Ритуальный
   other tags : shop=yes
     geometry : [54.6545794,29.1518762]
+n3424627338  null / null / Твой
+  other tags : addr:housenumber=1 | addr:street=Коммунальная улица | operator=ЧТПУП Торговый Дом "Твой" | phone=8(02133)53176 | shop=furniture
+    geometry : [54.6545097,29.1462810]

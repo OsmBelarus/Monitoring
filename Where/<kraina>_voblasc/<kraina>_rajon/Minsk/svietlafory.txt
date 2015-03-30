@@ -192,7 +192,7 @@ n320718911  Берута / null / Станция метро Пушкинская
     geometry : [53.9098700,27.4977300]
 n320718913  ст.м. Пушкінская / null / Станция метро Пушкинская
   other tags : highway=bus_stop
-    geometry : [53.9095843,27.4974734]
+    geometry : [53.9095941,27.4974749]
 n320718915  Прытыцкага / null / Притыцкого
   other tags : highway=bus_stop
     geometry : [53.9103345,27.5056524]
@@ -2449,8 +2449,8 @@ n767081437  Дзіцячая паліклініка №2 / null / Театрал
 n767081446  null / null / Белгостелерадио
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9231100,27.6276600]
-n767081465  Палявая / null / Ратомская / Полевая
-  other tags : generated=yes | highway=bus_stop
+n767081465  Ратамская / null / Ратомская / Ратомская
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.9369800,27.4485800]
 n767081471  вуліца Чарвякова / null / Червякова / улица Червякова
   other tags : generated=yes | highway=bus_stop
@@ -3868,9 +3868,9 @@ n767183474  null / null / Ташкентская / Дружба к-тр
 n767183475  вуліца Крапоткіна / null / Кропоткина / улица Кропоткина
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9230326,27.5597860]
-n767183476  null / null / Танковая
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9505000,27.7232800]
+n767183476  Танкавая / null / Танковая / Танковая
+  other tags : generated=yes | highway=bus_stop | ref=62002
+    geometry : [53.9504825,27.7235105]
 n767183477  ст. м. Акадэмія навук / null / Станция метро Академия наук / ст. м. Академия наук
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9193213,27.5985206]
@@ -4030,9 +4030,9 @@ n767183543  Сталетава / null / Столетова / Столетова
 n767183544  Францыска Скарыны / null / Франциска Скорины / Франциска Скорины
   other tags : generated=yes | highway=bus_stop | ref=52302
     geometry : [53.9238300,27.6797800]
-n767183545  null / null / Танковая
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9514000,27.7239400]
+n767183545  Танкавая / null / Танковая / Танковая
+  other tags : generated=yes | highway=bus_stop | ref=62001
+    geometry : [53.9513923,27.7240267]
 n767183546  Карвата / null / Корвата
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9091938,27.6740510]
@@ -4862,7 +4862,7 @@ n767184088  null / null / Газонаполнительная ст.
 n767184089  вуліца Чарвякова / null / Червякова / улица Червякова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9320700,27.5484400]
-n767184090  Палявая / null / Ратомская / Полевая
+n767184090  Ратамская / null / Ратомская / Ратомская
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9355600,27.4511300]
 n767184091  Славянская / Slavianskaja / Славянская / Славянская

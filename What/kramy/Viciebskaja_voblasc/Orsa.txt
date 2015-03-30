@@ -8,10 +8,10 @@ n306065749  Прадукты / null / Продукты / Продукты
     geometry : [54.4934583,30.4163883]
 n306065799  Аўтасэрвіс / null / Автосервис / Автосервис
   other tags : shop=car
-    geometry : [54.5258300,30.4283500]
-n306065805  Аўтасэрвіс / null / Автосервис / Автосервис
-  other tags : shop=car
-    geometry : [54.5284900,30.4364200]
+    geometry : [54.5257444,30.4280574]
+n306065805  Аўтасэрвіс / null / Автосервис ВИРАЖ / Автосервис
+  other tags : addr:city=ОРША | addr:housenumber=3 | addr:street=улица Белинского | shop=car
+    geometry : [54.5285930,30.4361557]
 n306065819  Аўтасэрвіс / null / Автосервис / Автосервис
   other tags : shop=car_repair
     geometry : [54.5271200,30.4419800]
@@ -255,7 +255,7 @@ n3128241094  null / null / Цифра
     geometry : [54.5116612,30.4237795]
 n3128244141  null / null / Зико
   other tags : shop=jewelry
-    geometry : [54.5087231,30.4264552]
+    geometry : [54.5091390,30.4260023]
 n3128244377  null / null / Богема
   other tags : shop=clothes
     geometry : [54.5101763,30.4281934]
@@ -394,3 +394,6 @@ n3413648462  null / null / Мясной фаворит
 n3413648463  null / null / Мясной фаворит
   other tags : contact:email=bigpig@mail.by | contact:website=http://jubilejnyj.by/ | fixme=уточнить расположение | shop=butcher
     geometry : [54.5213308,30.4364474]
+n3425647541  null / null / СТО
+  other tags : addr:city=Орша | addr:housenumber=25 | addr:street=улица 1 Мая | operator=Диагностическая станция № 16 | shop=car_repair
+    geometry : [54.5202399,30.4301333]
