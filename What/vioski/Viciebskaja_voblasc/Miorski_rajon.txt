@@ -10,8 +10,8 @@ n243013305  Войткава / Vojtkava / Войтково / Войтково
 n243013311  null / null / Жминдино / Жминдино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5651621,27.5520226]
-n243013314  Гарані / Harani / Горани / Горани
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Горяне | place=hamlet
+n243013314  Гарані / Harani / Горяне / Горяне
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Горани | place=hamlet
     geometry : [55.5715100,27.5756000]
 n243013320  Плейкі / Pliejki / Плейки / Плейки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -23,13 +23,13 @@ n243013326  Барсучына / Barsučyna / Барсучина / Барсуч�
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5676400,27.5989400]
 n243013329  Забор’е / Zaborje / Заборье / Заборье
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Новопогостский сельский Совет | place=hamlet
     geometry : [55.5619000,27.5083100]
 n243013333  Кацілава / Kacilava / Катилово / Катилово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5908200,27.5906200]
 n243013339  Янова / Janova / Яново / Яново
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | place=hamlet
     geometry : [55.5974300,27.5034100]
 n243013342  Клётаў Двор / Kliotaŭ Dvor / Клётов Двор / Клётов Двор
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -101,9 +101,9 @@ n243013523  Чамяры / Čamiary / Чемяры / Чемяры
 n243013526  Рудакі / Rudaki / Рудаки / Рудаки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7253200,27.6271800]
-n243013529  Міжрэчча / Mižrečča / Мижречье / Мижречье
+n243013529  Міжрэчча / Mižrečča / Междуречье / Междуречье
   other names: name:uk=Міжріччя
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Междуречье | place=hamlet | population=473 | population:date=2009
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мижречье | place=hamlet | population=473 | population:date=2009
     geometry : [55.7472000,27.6368000]
 n243013542  Сташулі / Stašuli / Сташули / Сташули
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -130,7 +130,7 @@ n243013576  Суромшчына / Suromščyna / Суромщина / Суро�
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7500400,27.6049500]
 n243013579  Новае Сяло / Novaje Sialo / Новое Село / Новое Село
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Повятский сельский Совет | place=hamlet
     geometry : [55.7440300,27.5144900]
 n243013582  Цілеўшчына / Cilieŭščyna / Тилевщина / Тилевщина
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -157,13 +157,13 @@ n243013602  Мілашова / Milašova / Милашово / Милашово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7181100,27.5787700]
 n243013605  Дубоўка / Duboŭka / Дубовка / Дубовка
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Повятский сельский Совет | place=hamlet
     geometry : [55.7066000,27.5522500]
 n243013609  Бабарыкі / Babaryki / Бабарики / Бабарики
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7667700,27.5808300]
-n243013612  Казакова / Kazakova / Казаково / Казаково
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Козаково | place=hamlet
+n243013612  Казакова / Kazakova / Козаково / Козаково
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Казаково | place=hamlet
     geometry : [55.7296900,27.4835900]
 n243013615  Жукі / null / Жуки / Жуки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -181,7 +181,7 @@ n243013635  Хараброва / Charabrova / Хороброво / Хоробр�
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6656600,27.5396400]
 n243013638  Мёркі 2 / Miorki 2 / Миорки 2 / Миорки 2
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мёрки 2 | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | alt_name:ru=Мёрки 2 | place=hamlet
     geometry : [55.6307588,27.6021359]
 n243013642  Камянполле / Kamianpollie / Каменполье / Каменполье
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -192,14 +192,14 @@ n243013645  Ігнацікі / Ihnaciki / Игнатики / Игнатики
 n243013647  Крычава / Kryčava / Кричево / Кричево
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6919300,27.5393800]
-n243013651  Асада Дзедзіна / Asada Dziedzina / Осада Дедина / Осада Дедина
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Осада Дедино | place=hamlet
+n243013651  Асада Дзедзіна / Asada Dziedzina / Осада Дедино / Осада Дедино
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Осада Дедина | place=hamlet
     geometry : [55.6942400,27.4936300]
 n243013653  Дзедзіна / Dziedzina / Дедино / Дедино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6859200,27.4972400]
 n243013656  Букава / Bukava / Буково / Буково
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | place=hamlet
     geometry : [55.6551900,27.5899300]
 n243013659  Марцінаўцы / Marcinaŭcy / Мартиновцы / Мартиновцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -210,15 +210,15 @@ n243013662  Чапукі / Čapuki / Чепуки / Чепуки
 n243013665  null / null / Чепуки 2-е / Чепуки 2-е
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5674700,27.5273600]
-n243013668  Дзегцяры / Dziehciary / Дегтяры / Дегтяры
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дзехцяры | alt_name:ru=Дехтяры | place=hamlet
+n243013668  Дзехцяры / Dziehciary / Дехтяры / Дехтяры
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дзегцяры | alt_name:ru=Дегтяры | place=hamlet
     geometry : [55.5637000,27.4886500]
 n243013674  null / null / Нивки / Нивки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6086700,27.5021300]
 n243013677  Вазаўнікі / Vazaŭniki / Возовники / Возовники
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.5408700,27.6307000]
+    geometry : [55.5406288,27.6306885]
 n243013680  Пад’ельцы / Padjeĺcy / Подьельцы / Подьельцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name=Подъельцы | alt_name:ru=Подъельцы | place=village
     geometry : [55.6057197,27.6311249]
@@ -238,7 +238,7 @@ n243014501  Вісяты / Visiaty / Висяты / Висяты
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5377800,27.3654800]
 n243014507  Дварышча / Dvaryšča / Дворище / Дворище
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дворышча | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | alt_name:be=Дворышча | place=hamlet
     geometry : [55.5265300,27.3957000]
 n243014510  Крукаўшчына / Krukaŭščyna / Крюковщина / Крюковщина
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -265,13 +265,13 @@ n243014562  Пераброддзе / Pierabroddzie / Перебродье / Пе
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=village
     geometry : [55.6243800,27.3939800]
 n243014564  Маляўкі / Maliaŭki / Малявки / Малявки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | place=hamlet
     geometry : [55.6401700,27.4035900]
 n243014567  Зачарэўе / Začareŭje / Зачеревье / Зачеревье
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6284100,27.3598200]
 n243014573  Забалоцце / Zabaloccie / Заболотье / Заболотье
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | place=hamlet
     geometry : [55.6763142,27.4439258]
 n243014576  Падзявы / Padziavy / Подявы / Подявы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -288,8 +288,8 @@ n243014596  Яўцерашкі / Jaŭcieraški / Явтерешки / Явтер
 n243014609  Петкуны / Pietkuny / Петкуны / Петкуны
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6545100,27.3738100]
-n243014613  Вераб’ёва / Vierabjova / Веробьёво / Веробьёво
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Воробьёво | place=hamlet
+n243014613  Вераб’ёва / Vierabjova / Воробьёво / Воробьёво
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Веробьёво | place=hamlet
     geometry : [55.6848100,27.4438500]
 n243014616  Баркова / Barkova / Борково / Борково
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -319,8 +319,8 @@ n243018172  Ворцы / Vorcy / Орцы / Орцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6846671,27.7036517]
 n243018175  Новае Сяло / Novaje Sialo / Новое Село / Новое Село
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.6340800,27.7210800]
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Миорский сельский Совет | place=hamlet
+    geometry : [55.6339757,27.7207105]
 n243018178  Масеўцы / Masieŭcy / Масевцы / Масевцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6204300,27.6770500]
@@ -364,7 +364,7 @@ n243018244  Стрэтава / Stretava / Стретово / Стретово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6889300,27.6557600]
 n243018248  Амбросенкі / Ambrosienki / Амбросенки / Амбросенки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Миорский сельский Совет | place=hamlet
     geometry : [55.7003400,27.7965300]
 n243018252  Захарні / Zacharni / Захарни / Захарни
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -427,7 +427,7 @@ n243018340  Лявонпаль / Liavonpaĺ / Леонполь / Леонпол�
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7989856,27.7851119]
 n243018350  Пераслова / Pieraslova / Переслово / Переслово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Узменский сельский Совет | place=hamlet
     geometry : [55.7393100,27.8308600]
 n243018357  Драгуны / Drahuny / Драгуны / Драгуны
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -473,7 +473,7 @@ n243018607  Свярдлы / Sviardly / Свердлы / Свердлы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5811200,27.6704400]
 n243018611  Маляўкі / Maliaŭki / Малявки / Малявки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Миорский сельский Совет | place=hamlet
     geometry : [55.6025106,27.7905267]
 n243018616  Юнцы / Juncy / Юнцы / Юнцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -497,8 +497,8 @@ n243019177  null / null / Дегтярево / Дегтярево
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6355378,28.0769855]
 n243019179  Забалоцце / Zabaloccie / Заболотье / Заболотье
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Забалацце | place=hamlet
-    geometry : [55.6588000,28.0157400]
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Турковский сельский Совет | alt_name:be=Забалацце | place=hamlet
+    geometry : [55.6589106,28.0152417]
 n243019195  Пожанькі Вялікія / Požańki Vialikija / Поженьки Большие / Поженьки Большие
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Поженьки Великие | place=hamlet
     geometry : [55.6463500,28.0573700]
@@ -515,7 +515,7 @@ n243019418  Канцэрава / Kancerava / Канцерово / Канцеро
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.3686100,28.1765800]
 n243019425  Амбросенкі / Ambrosienki / Амбросенки / Амбросенки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Язненский сельский Совет | place=hamlet
     geometry : [55.4129800,28.1157300]
 n243019428  null / null / Кобячизна / Кобячизна
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -557,7 +557,7 @@ n243019470  Басянкі 3 / Basianki 3 / Босянки 3 / Босянки 3
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.4256000,28.0977900]
 n243019480  Дарожкі / Darožki / Дорожки / Дорожки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Язненский сельский Совет | place=hamlet
     geometry : [55.3704900,28.1494600]
 n243019483  Сквірцы / Skvircy / Сквирцы / Сквирцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -587,7 +587,7 @@ n243019649  Кісялі / null / Кисели / Кисели
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6206000,28.0266400]
 n243019655  Дворышча / Dvoryšča / Дворище / Дворище
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Турковский сельский Совет | place=hamlet
     geometry : [55.6076400,28.0765100]
 n243019657  Беразова / Bierazova / Березово / Березово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -623,13 +623,13 @@ n243019688  Навінцы / Navincy / Новинцы / Новинцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5914200,28.0503300]
 n243019691  Шарагі / Šarahi / Шараги / Шараги
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | place=hamlet
     geometry : [55.5572658,28.1604644]
 n243019695  Ліпанты / Lipanty / Липанты / Липанты
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6075600,28.1059500]
 n243019699  Дзянісава / Dzianisava / Денисово / Денисово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | place=hamlet
     geometry : [55.5706500,28.0665500]
 n243019702  Сталярова / Staliarova / Столярово / Столярово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -652,6 +652,9 @@ n243019717  Капыльшчына / Kapyĺščyna / Копыльщино / Ко
 n243019720  Галомысла / Halomysla / Голомысло / Голомысло
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5310000,28.1117000]
+n243019724  Янова / Janova / Яново / Яново
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | place=hamlet
+    geometry : [55.5385138,28.1624550]
 n243019727  Федарцы / Fiedarcy / Федорцы / Федорцы
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5370000,28.1419100]
@@ -722,7 +725,7 @@ n243020704  Гвардзейская / Hvardziejskaja / Гвардейская /
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.8110600,27.8503400]
 n243021215  Пераслова / Pieraslova / Переслово / Переслово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Турковский сельский Совет | place=hamlet
     geometry : [55.6460100,27.9036400]
 n243021218  Клёміна / Kliomina / Клёмино / Клёмино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -773,7 +776,7 @@ n243021281  Стальмакова / Staĺmakova / Стальмаково / Ст
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5115372,27.9636287]
 n243021284  Акунёва / Akuniova / Окунёво / Окунёво
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | place=hamlet
     geometry : [55.4964100,27.9868100]
 n243021289  Глінскія / Hlinskija / Глинские / Глинские
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -794,7 +797,7 @@ n243021369  Буралом 1 / Buralom 1 / Бурелом 1 / Бурелом 1
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.7289200,27.8387600]
 n243021379  Барсукі / Barsuki / Барсуки / Барсуки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Узменский сельский Совет | place=hamlet
     geometry : [55.7856578,27.8407765]
 n243021385  Пераслоўка / Pierasloŭka / Пересловка / Пересловка
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -806,7 +809,7 @@ n243021390  Узмёны / Uzmiony / Узмёны / Узмёны
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=village
     geometry : [55.7405900,27.9205500]
 n243021393  Слабада / Slabada / Слобода / Слобода
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Узменский сельский Совет | place=hamlet
     geometry : [55.7854000,27.9212400]
 n243021396  Супорніца / Supornica / Супорница / Супорница
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -888,7 +891,7 @@ n243023831  Сяльцо 2 / Siaĺco 2 / Сельцо 2 / Сельцо 2
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.3994200,28.2661900]
 n243023834  Шарагі / Šarahi / Шараги / Шараги
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Язненский сельский Совет | place=hamlet
     geometry : [55.4133200,28.2556400]
 n243023839  Казінка / Kazinka / Казинка / Казинка
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Козинка | place=hamlet
@@ -912,7 +915,7 @@ n243023865  Плігаўкі / Plihaŭki / Плиговки / Плиговки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.4226700,28.2331500]
 n243023867  Забор’е / Zaborje / Заборье / Заборье
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Язненский сельский Совет | place=hamlet
     geometry : [55.4422400,28.2526300]
 n243023870  Парадні / Paradni / Парадни / Парадни
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -945,7 +948,7 @@ n1354459351  null / null / Чижевщина / Чижевщина
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5310348,27.5017469]
 n1354459403  Дзянісова / Dzianisova / Денисово / Денисово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дзянісава | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Миорский сельский Совет | alt_name:be=Дзянісава | place=hamlet
     geometry : [55.5904677,27.7610076]
 n1354459553  null / null / Рекуны / Рекуны
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -980,8 +983,8 @@ n1656391737  Вянужа / Vianuža / Вянужа / Вянужа
 n1656391749  Іванькі / Ivańki / Иваньки / Иваньки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6077857,28.0280188]
-n1656391755  null / null / Ситьково / Ситьково
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+n1656391755  Сіцькова 1 / Sićkova 1 / Ситьково 1 / Ситьково 1
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name=Ситьково | place=hamlet
     geometry : [55.5976183,28.0334138]
 n1656529403  Рускае Сяло / Ruskaje Sialo / Русское Село / Русское Село
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1076,14 +1079,14 @@ n3040552534  Дзямешкі / Dziamieški / Демешки / Демешки
 n3040552535  Харакова / Charakova / Хороково / Хороково
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.6170616,28.0746587]
-n3040562695  Малышова / Malyšova / Малышово / Малышово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Малышево | place=hamlet
+n3040562695  Малышова / Malyšova / Малышево / Малышево
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Малышово | place=hamlet
     geometry : [55.6412060,28.0688776]
-n3040570146  Масцішча / Mascišča / Мостище / Мостище
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мастище | place=hamlet
+n3040570146  Масцішча / Mascišča / Мастище / Мастище
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мостище | place=hamlet
     geometry : [55.6678586,27.9719553]
 n3040585854  Дарожкі / Darožki / Дорожки / Дорожки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Повятский сельский Совет | place=hamlet
     geometry : [55.7584327,27.7018450]
 n3040603604  Кіслякі / Kisliaki / Кисляки / Кисляки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1092,7 +1095,7 @@ n3040608894  Горкі 2 / Horki 2 / Горки 2 / Горки 2
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.5408257,28.1738888]
 n3040609631  Барсукі / Barsuki / Барсуки / Барсуки
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Николаевский сельский Совет | place=hamlet
     geometry : [55.5469944,28.0935034]
 n3040613619  Дарожкавічы / Darožkavičy / Дорожковичи / Дорожковичи
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1104,13 +1107,13 @@ n3040625350  Шантырава / Šantyrava / Шантырево / Шантыр
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Шантарава | place=hamlet
     geometry : [55.5793715,28.0329126]
 n3110499087  Новае Сяло / Novaje Sialo / Новое Село / Новое Село
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Язненский сельский Совет | place=hamlet
     geometry : [55.3803067,28.0502726]
 n3110502704  Авечкі / Aviečki / Овечки / Овечки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : [55.4216657,28.0818978]
 n3110502782  Дворышча / Dvoryšča / Дворище / Дворище
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | addr:subdistrict=Перебродский сельский Совет | place=hamlet
     geometry : [55.6295149,27.6084780]
 n3110512994  Фядосава / Fiadosava / Федосово / Федосово
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1238,7 +1241,7 @@ w25124317  Слабада / null / Слобода / Слобода
     geometry : n273597181[55.6593100,28.0296400] n273597186[55.6587100,28.0283600] n273597189[55.6577700,28.0270700] n273597190[55.6574200,28.0276700] n273597192[55.6557100,28.0323900] n1172984841[55.6565829,28.0333539] n273597193[55.6573400,28.0341900] n273597195[55.6581900,28.0317000] n273597198[55.6591400,28.0296400] n273597181[55.6593100,28.0296400]
 w25124318  Забалоцце / Zabaloccie / Заболотье / Заболотье
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Забалацце | place=hamlet
-    geometry : n273597200[55.6610300,28.0153900] n273597203[55.6611200,28.0148800] n273597204[55.6611200,28.0131600] n273597205[55.6563900,28.0131600] n273597208[55.6562673,28.0174264] n1185600376[55.6582800,28.0163351] n1185600534[55.6611200,28.0165051] n273597200[55.6610300,28.0153900]
+    geometry : n273597200[55.6610300,28.0153900] n273597203[55.6611200,28.0148800] n273597204[55.6611200,28.0131600] n3426926814[55.6602570,28.0124650] n273597205[55.6563900,28.0131600] n273597208[55.6562673,28.0174264] n1185600376[55.6582800,28.0163351] n1185600534[55.6611200,28.0165051] n273597200[55.6610300,28.0153900]
 w25124322  Пожанькі Вялікія / Požańki Vialikija / Поженьки Большие / Поженьки Большие
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Поженьки Великие | place=hamlet
     geometry : n273597290[55.6487600,28.0474100] n273597292[55.6485800,28.0479200] n273597294[55.6472100,28.0504100] n273597295[55.6446400,28.0590800] n273597298[55.6436900,28.0609700] n273597300[55.6434300,28.0613100] n273597301[55.6453200,28.0648300] n273597303[55.6461800,28.0635500] n273597304[55.6457500,28.0623400] n273597307[55.6466100,28.0603700] n273597309[55.6483300,28.0548800] n273597310[55.6501300,28.0501600] n273597290[55.6487600,28.0474100]
@@ -1275,8 +1278,8 @@ w25124343  Бушава / Bušava / Бушево / Бушево
 w25124344  Шарагі / Šarahi / Шараги / Шараги
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273598104[55.5622400,28.1534100] n273598107[55.5613800,28.1519500] n273598109[55.5605471,28.1532478] n273598113[55.5592040,28.1501789] n273598120[55.5570900,28.1525500] n273598121[55.5565700,28.1519500] n273598125[55.5559700,28.1506600] n273598127[55.5541700,28.1523800] n273598129[55.5552000,28.1536700] n273598132[55.5554600,28.1552100] n273598133[55.5563200,28.1549600] n273598136[55.5569100,28.1562400] n273598150[55.5559700,28.1585600] n273598158[55.5525083,28.1541174] n273598160[55.5530003,28.1641413] n273598164[55.5543400,28.1637100] n273598165[55.5567165,28.1682639] n273598174[55.5591500,28.1645700] n273598176[55.5611200,28.1647400] n273598179[55.5611200,28.1615600] n273598186[55.5609500,28.1596800] n273598188[55.5622400,28.1575300] n273598191[55.5618100,28.1564100] n273598192[55.5628400,28.1546100] n273598104[55.5622400,28.1534100]
-w25124345  null / null / Ситьково / Ситьково
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+w25124345  Сіцькова 1 / Sićkova 1 / Ситьково 1 / Ситьково 1
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name=Ситьково | place=hamlet
     geometry : n273598197[55.5961848,28.0317415] n273598200[55.5955748,28.0341415] n273598202[55.5979847,28.0361115] n273598203[55.5990147,28.0327715] n273598206[55.5966048,28.0306215] n273598197[55.5961848,28.0317415]
 w25124346  Пякоціна / Piakocina / Пекотино / Пекотино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1320,6 +1323,9 @@ w25124359  Арханава / Archanava / Арханово / Арханово
 w25124360  Мікалаёва / Mikalajova / Николаево / Николаево
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Миколаёво | place=village
     geometry : n1177494832[55.5479406,28.1214742] n273598545[55.5485900,28.1185600] n273598546[55.5485900,28.1162500] n273598552[55.5474240,28.1077932] n273598554[55.5462700,28.1026800] n273598556[55.5477300,28.0979600] n273598558[55.5448100,28.0939300] n273598560[55.5460200,28.0919600] n1177494418[55.5450700,28.0910253] n1177494512[55.5445500,28.0915453] n1177494563[55.5439600,28.0918053] n1177494704[55.5436100,28.0930853] n1177494819[55.5431000,28.0942053] n1177494742[55.5421500,28.0954053] n1177494090[55.5408700,28.0946353] n1177494207[55.5397500,28.0948953] n1177494393[55.5381200,28.0962653] n1177494359[55.5368290,28.0979135] n1177494471[55.5356942,28.0990048] n1177494499[55.5356290,28.1007435] n1177494553[55.5359690,28.1016935] n1177494636[55.5361514,28.1034728] n1177494738[55.5366614,28.1050282] n1177494077[55.5368937,28.1075620] n1177494817[55.5368107,28.1109764] n1177494143[55.5377690,28.1130235] n1177494279[55.5375990,28.1166235] n273598600[55.5413709,28.1211867] n273598601[55.5439542,28.1230896] n1177494167[55.5450675,28.1253279] n1177494832[55.5479406,28.1214742]
+w25124361  Янова / Janova / Яново / Яново
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
+    geometry : n1656729354[55.5407398,28.1623060] n3426880288[55.5391211,28.1613724] n272724734[55.5375612,28.1618279] n273598612[55.5349400,28.1619100] n273598613[55.5346000,28.1636200] n273598615[55.5366600,28.1648300] n273598618[55.5380300,28.1642300] n273598619[55.5388900,28.1661100] n273598621[55.5409356,28.1654174] n1656729354[55.5407398,28.1623060]
 w25124362  Капыльшчына / Kapyĺščyna / Копыльщино / Копыльщино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Копыльщина | place=hamlet
     geometry : n273598636[55.5376000,28.0656900] n273598638[55.5373400,28.0654300] n273598639[55.5364000,28.0638000] n273598642[55.5363100,28.0662900] n273598643[55.5359700,28.0666400] n273598645[55.5324500,28.0718700] n273598648[55.5332200,28.0746200] n273598649[55.5347700,28.0727300] n1185600382[55.5353783,28.0741593] n1185600431[55.5376083,28.0701293] n273598655[55.5377800,28.0677500] n273598636[55.5376000,28.0656900]
@@ -1765,9 +1771,9 @@ w25127061  Якужы / Jakužy / Якужи / Якужи
 w25127062  Чамяры / Čamiary / Чемяры / Чемяры
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273679600[55.7799100,27.6383400] n273679603[55.7772400,27.6382500] n273679604[55.7771600,27.6446900] n273679605[55.7797300,27.6446900] n273679600[55.7799100,27.6383400]
-w25127063  Міжрэчча / Mižrečča / Мижречье / Мижречье
+w25127063  Міжрэчча / Mižrečča / Междуречье / Междуречье
   other names: name:uk=Міжріччя
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Междуречье | place=hamlet
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мижречье | place=hamlet
     geometry : n273679609[55.7550100,27.6331100] n273679610[55.7546700,27.6307900] n273679612[55.7484000,27.6337900] n273679614[55.7421400,27.6370500] n273679615[55.7427400,27.6403100] n273679617[55.7432500,27.6410900] n273679619[55.7459200,27.6398000] n273679620[55.7458300,27.6388600] n273679622[55.7550100,27.6342200] n273679609[55.7550100,27.6331100]
 w25127065  null / null / Пустыньки / Пустыньки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1805,8 +1811,8 @@ w25127082  Новае Сяло / Novaje Sialo / Новое Село / Новое
 w25127086  Бабарыкі / Babaryki / Бабарики / Бабарики
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273679832[55.7681500,27.5774000] n273679833[55.7672900,27.5778300] n273679836[55.7671200,27.5766300] n273679837[55.7654000,27.5770600] n273679840[55.7641023,27.5764115] n273679841[55.7633248,27.5792129] n273679843[55.7645062,27.5827106] n273679845[55.7654147,27.5852473] n273679846[55.7661493,27.5853097] n273679861[55.7672779,27.5917345] n273679863[55.7702900,27.5900200] n273679865[55.7695480,27.5821034] n273679866[55.7688300,27.5801500] n273679832[55.7681500,27.5774000]
-w25127088  Казакова / Kazakova / Казаково / Казаково
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Козаково | place=hamlet
+w25127088  Казакова / Kazakova / Козаково / Козаково
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Казаково | place=hamlet
     geometry : n273679870[55.7323500,27.4791200] n273679871[55.7324400,27.4785200] n273679873[55.7321000,27.4768900] n273679875[55.7315000,27.4772400] n273679876[55.7308900,27.4756100] n273679879[55.7296100,27.4778400] n273679880[55.7300400,27.4793800] n273679883[55.7284900,27.4827300] n273679887[55.7274600,27.4868500] n273679889[55.7266000,27.4886500] n273679891[55.7242900,27.4917400] n273679892[55.7257500,27.4961200] n273679894[55.7277200,27.4932000] n273679896[55.7291800,27.4903700] n273679897[55.7302900,27.4871900] n273679898[55.7308900,27.4843600] n273679901[55.7320100,27.4819600] n273679902[55.7317500,27.4811800] n273679904[55.7324400,27.4802400] n273679870[55.7323500,27.4791200]
 w25127090  Рудакі / Rudaki / Рудаки / Рудаки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1850,15 +1856,15 @@ w25127113  Букава / Bukava / Буково / Буково
 w25127114  Дзедзіна / Dziedzina / Дедино / Дедино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273680350[55.6867800,27.5032400] n273680351[55.6876400,27.5073600] n273680353[55.6890900,27.5058200] n273680354[55.6886700,27.5035900] n273680355[55.6874600,27.4993800] n273680357[55.6869500,27.4954300] n273680358[55.6867800,27.4887400] n273680360[55.6852300,27.4887400] n273680361[55.6848900,27.4885700] n273680362[55.6836000,27.4883900] n273680364[55.6821400,27.4915700] n273680365[55.6824900,27.4938000] n273680366[55.6837800,27.4933700] n273680368[55.6843700,27.4995500] n273680369[55.6852300,27.5035000] n273680350[55.6867800,27.5032400]
-w25127115  Асада Дзедзіна / Asada Dziedzina / Осада Дедина / Осада Дедина
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Осада Дедино | place=hamlet
+w25127115  Асада Дзедзіна / Asada Dziedzina / Осада Дедино / Осада Дедино
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Осада Дедина | place=hamlet
     geometry : n273680372[55.6962200,27.4950900] n273680373[55.6992300,27.4930300] n273680375[55.6987100,27.4906300] n273680377[55.6969100,27.4917400] n273680380[55.6962200,27.4876200] n273680381[55.6948500,27.4882200] n273680384[55.6909000,27.4905400] n273680385[55.6890900,27.4946600] n273680387[55.6894400,27.4972400] n273680388[55.6884692,27.5010305] n273680390[55.6907350,27.5016788] n273680392[55.6956200,27.4986100] n273680394[55.6962200,27.4968100] n273680372[55.6962200,27.4950900]
 w25127116  Крычава / Kryčava / Кричево / Кричево
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273680396[55.6911500,27.5285600] n273680399[55.6909900,27.5274500] n273680400[55.6897000,27.5291600] n273680403[55.6901200,27.5368000] n273680404[55.6905500,27.5416100] n273680405[55.6885800,27.5423800] n273680408[55.6890100,27.5471000] n273680409[55.6903800,27.5468500] n273680411[55.6903800,27.5501900] n273680413[55.6919300,27.5501900] n273680415[55.6924400,27.5489100] n273680417[55.6924400,27.5443600] n273680419[55.6939900,27.5440100] n273680420[55.6939900,27.5411800] n273680422[55.6937300,27.5384300] n273680425[55.6947600,27.5380000] n273680426[55.6947600,27.5367200] n273680429[55.6938200,27.5339700] n273680430[55.6930500,27.5327700] n273680431[55.6927900,27.5283900] n273680396[55.6911500,27.5285600]
 w25127118  Мёркі 2 / Miorki 2 / Миорки 2 / Миорки 2
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мёрки 2 | place=hamlet
-    geometry : n273680434[55.6317600,27.5920800] n273680436[55.6314200,27.5909600] n273680438[55.6269500,27.5936200] n273680444[55.6265200,27.5948200] n273680445[55.6263500,27.5966300] n1269232287[55.6261720,27.5983794] n1269232281[55.6268395,27.5990241] n1269232269[55.6277895,27.6006541] n1269232311[55.6307049,27.6039654] n1269232291[55.6311999,27.6053129] n1269232306[55.6308795,27.6059671] n1269232279[55.6305975,27.6060916] n1269232283[55.6305348,27.6061195] n1269232298[55.6306136,27.6062305] n415588885[55.6305875,27.6064635] n914881653[55.6305467,27.6067323] n273680470[55.6305667,27.6072332] n273680471[55.6305803,27.6073634] n273680474[55.6308564,27.6076441] n273680475[55.6319195,27.6085801] n273680476[55.6334926,27.6095951] n273680479[55.6339495,27.6092305] n273680480[55.6341413,27.6086452] n273680481[55.6351900,27.6035800] n273680483[55.6331300,27.5976600] n273680434[55.6317600,27.5920800]
+    geometry : n273680434[55.6317600,27.5920800] n273680436[55.6314200,27.5909600] n273680438[55.6269500,27.5936200] n273680444[55.6265200,27.5948200] n273680445[55.6263500,27.5966300] n1269232287[55.6261720,27.5983794] n1269232281[55.6268395,27.5990241] n1269232269[55.6277895,27.6006541] n1269232311[55.6307049,27.6039654] n1269232291[55.6311999,27.6053129] n1269232306[55.6308795,27.6059671] n1269232279[55.6305975,27.6060916] n1269232283[55.6305348,27.6061195] n1269232298[55.6306136,27.6062305] n415588885[55.6305875,27.6064635] n914881653[55.6305467,27.6067323] n273680470[55.6307741,27.6069924] n273680471[55.6308625,27.6071899] n3426900381[55.6312959,27.6083530] n273680475[55.6318181,27.6087311] n273680476[55.6334926,27.6095951] n273680479[55.6339495,27.6092305] n273680480[55.6341413,27.6086452] n273680481[55.6351900,27.6035800] n273680483[55.6331300,27.5976600] n273680434[55.6317600,27.5920800]
 w25127119  Ігнацікі / Ihnaciki / Игнатики / Игнатики
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273680486[55.6273000,27.5678700] n273680488[55.6249800,27.5697600] n273680489[55.6245500,27.5703600] n273680491[55.6228300,27.5735400] n273680493[55.6244600,27.5768900] n273680495[55.6257500,27.5740500] n273680497[55.6268700,27.5731100] n273680499[55.6284100,27.5710500] n273680500[55.6287600,27.5710500] n273680486[55.6273000,27.5678700]
@@ -1880,8 +1886,8 @@ w25127126  Стафанова / Stafanova / Стефаново / Стефано�
 w25127128  Ніўкі / null / Нивки / Нивки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273680775[55.6071300,27.5014400] n273680778[55.6083300,27.5046200] n273680780[55.6105600,27.5023000] n273680782[55.6096200,27.4989500] n273680775[55.6071300,27.5014400]
-w25127132  Дзегцяры / Dziehciary / Дегтяры / Дегтяры
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дзехцяры | alt_name:ru=Дехтяры | place=hamlet
+w25127132  Дзехцяры / Dziehciary / Дехтяры / Дехтяры
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:be=Дзегцяры | alt_name:ru=Дегтяры | place=hamlet
     geometry : n273680816[55.5637800,27.4918300] n273680818[55.5649900,27.4918300] n273680820[55.5651500,27.4874500] n273680821[55.5644700,27.4864200] n273680824[55.5635200,27.4863300] n273680825[55.5636100,27.4873600] n273680828[55.5633058,27.4881870] n273680829[55.5627500,27.4884800] n273680830[55.5625800,27.4888200] n273680833[55.5625800,27.4918300] n273680816[55.5637800,27.4918300]
 w25127133  null / null / Чепуки 2-е / Чепуки 2-е
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -1898,9 +1904,9 @@ w25127137  Войткава / Vojtkava / Войтково / Войтково
 w25127139  null / null / Жминдино / Жминдино
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273681012[55.5650494,27.5502708] n273681013[55.5642100,27.5503600] n273681015[55.5627500,27.5511400] n273681017[55.5632700,27.5524200] n273681019[55.5632700,27.5539700] n273681021[55.5648100,27.5533700] n273681023[55.5654100,27.5550800] n273681026[55.5672836,27.5533771] n273681027[55.5665421,27.5495636] n273681012[55.5650494,27.5502708]
-w25127140  Гарані / Harani / Горани / Горани
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Горяне | place=hamlet
-    geometry : n273681030[55.5695300,27.5735400] n273681031[55.5693600,27.5774000] n273681034[55.5729700,27.5785200] n273681035[55.5739100,27.5764600] n273681038[55.5740800,27.5742300] n273681039[55.5715100,27.5736200] n273681030[55.5695300,27.5735400]
+w25127140  Гарані / Harani / Горяне / Горяне
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Горани | place=hamlet
+    geometry : n273681030[55.5704022,27.5736401] n273681031[55.5696193,27.5763910] n3426880594[55.5714393,27.5782392] n273681034[55.5721167,27.5779863] n273681035[55.5734857,27.5762849] n273681038[55.5730334,27.5748888] n273681039[55.5715100,27.5736200] n273681030[55.5704022,27.5736401]
 w25127144  Плейкі / Pliejki / Плейки / Плейки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273681079[55.6087600,27.6111300] n273681081[55.6062700,27.6085600] n273681082[55.6058400,27.6095000] n273681084[55.6049528,27.6089644] n273681086[55.6044966,27.6121710] n273681087[55.6051500,27.6127600] n273681092[55.6065300,27.6142200] n273681094[55.6075600,27.6149100] n273681095[55.6080700,27.6143900] n273681097[55.6087543,27.6145794] n273681099[55.6090530,27.6120731] n273681079[55.6087600,27.6111300]
@@ -1986,8 +1992,8 @@ w25128189  Лебедзева / Liebiedzieva / Лебедево / Лебедев
 w25128190  Запалассе / Zapalassie / Заполосье / Заполосье
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n273707204[55.6998200,27.4612700] n273707208[55.6986200,27.4594700] n273707211[55.6978500,27.4594700] n273707214[55.6958800,27.4647100] n273707218[55.6951900,27.4671900] n273707220[55.6970800,27.4699400] n273707224[55.6984500,27.4690000] n273707227[55.7005100,27.4708000] n273707230[55.7008500,27.4676200] n273707235[55.7012000,27.4605000] n273707239[55.7001700,27.4604100] n273707204[55.6998200,27.4612700]
-w25128191  Вераб’ёва / Vierabjova / Веробьёво / Веробьёво
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Воробьёво | place=hamlet
+w25128191  Вераб’ёва / Vierabjova / Воробьёво / Воробьёво
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Веробьёво | place=hamlet
     geometry : n273707247[55.6866100,27.4422787] n273707251[55.6858402,27.4422029] n273707254[55.6847200,27.4415300] n273707257[55.6836000,27.4397300] n273707260[55.6823100,27.4429000] n273707265[55.6854900,27.4480500] n273707268[55.6866900,27.4456500] n273707247[55.6866100,27.4422787]
 w25128192  Забалоцце / Zabaloccie / Заболотье / Заболотье
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
@@ -2180,7 +2186,7 @@ w156336822  Лінкаўшчына / Linkaŭščyna / Линковщина / Л�
     geometry : n1685970513[55.5902455,27.4655608] n1685970515[55.5910772,27.4661297] n1685970517[55.5922252,27.4640633] n1685970518[55.5931328,27.4593071] n1685970514[55.5909072,27.4582297] n1685970511[55.5899571,27.4607197] n1685970510[55.5893241,27.4637463] n1685970513[55.5902455,27.4655608]
 w188334123  null / null / Дворище / Дворище
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
-    geometry : n1989621646[55.6243408,27.6038617] n1989621650[55.6248374,27.6033694] n1989621658[55.6256515,27.6043094] n1989621671[55.6269080,27.6046966] n1989621680[55.6272561,27.6041549] n1989621682[55.6274564,27.6033890] n1989621703[55.6299874,27.6060728] n1989621704[55.6303329,27.6068733] n1989621705[55.6306554,27.6074563] n1989621706[55.6308866,27.6076941] n2448076023[55.6313649,27.6081143] n1989621708[55.6317751,27.6088456] n1989621710[55.6340545,27.6109015] n1989621713[55.6356624,27.6139949] n1989621712[55.6356034,27.6150307] n1989621711[55.6347474,27.6159840] n1989621709[55.6330354,27.6144473] n1989621707[55.6313655,27.6120439] n1989621694[55.6279907,27.6105218] n1989621668[55.6265378,27.6070446] n1989621646[55.6243408,27.6038617]
+    geometry : n1989621646[55.6243408,27.6038617] n1989621650[55.6248374,27.6033694] n1989621658[55.6256515,27.6043094] n1989621671[55.6269080,27.6046966] n1989621680[55.6272561,27.6041549] n1989621682[55.6274564,27.6033890] n1989621703[55.6299874,27.6060728] n1989621704[55.6303329,27.6068733] n1989621705[55.6308628,27.6072155] n2448076023[55.6312845,27.6083787] n1989621708[55.6318281,27.6087885] n1989621710[55.6340545,27.6109015] n1989621713[55.6356624,27.6139949] n1989621712[55.6356034,27.6150307] n1989621711[55.6347474,27.6159840] n1989621709[55.6330354,27.6144473] n1989621707[55.6313655,27.6120439] n1989621694[55.6279907,27.6105218] n1989621668[55.6265378,27.6070446] n1989621646[55.6243408,27.6038617]
 w188334127  null / null / Мельница / Мельница
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n1989621651[55.6248466,27.6032953] n1989621657[55.6256422,27.6042574] n1989621659[55.6261341,27.6037850] n1989621656[55.6256386,27.6033463] n1989621655[55.6254030,27.6031648] n1989621652[55.6249703,27.6019754] n1989621654[55.6252602,27.6012498] n1989621649[55.6247556,27.5986582] n1989621653[55.6251502,27.5956919] n1989621648[55.6245932,27.5946260] n1989621644[55.6230832,27.5969207] n1989621643[55.6218160,27.5998056] n1989621647[55.6242712,27.6038644] n1989621651[55.6248466,27.6032953]
@@ -2214,11 +2220,11 @@ w299958618  Дзямешкі / Dziamieški / Демешки / Демешки
 w299958619  Харакова / Charakova / Хороково / Хороково
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
     geometry : n3040552533[55.6231234,28.0764775] n3040552128[55.6167647,28.0708627] n3040552127[55.6163947,28.0721767] n3040552126[55.6160863,28.0732719] n3040552122[55.6133148,28.0708249] n3040552121[55.6128077,28.0726254] n3040552124[55.6142534,28.0739017] n3040552123[55.6136776,28.0759465] n3040552129[55.6169221,28.0788112] n3040552131[55.6177941,28.0757145] n3040552132[55.6222343,28.0796353] n3040552533[55.6231234,28.0764775]
-w299959381  Малышова / Malyšova / Малышово / Малышово
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Малышево | place=hamlet
+w299959381  Малышова / Malyšova / Малышево / Малышево
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Малышово | place=hamlet
     geometry : n273597425[55.6412019,28.0733950] n273597427[55.6438600,28.0673200] n273597429[55.6418900,28.0638000] n273597431[55.6395700,28.0674900] n273597433[55.6401700,28.0686100] n273597435[55.6394000,28.0704100] n273597436[55.6400900,28.0711800] n273597425[55.6412019,28.0733950]
-w299959589  Масцішча / Mascišča / Мостище / Мостище
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мастище | place=hamlet
+w299959589  Масцішча / Mascišča / Мастище / Мастище
+  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | alt_name:ru=Мостище | place=hamlet
     geometry : n3040570138[55.6663997,27.9655861] n3040570133[55.6629659,27.9707903] n3040570136[55.6642536,27.9740307] n3040570134[55.6634505,27.9750862] n3040570135[55.6640597,27.9766573] n3040570137[55.6663581,27.9734415] n3040570140[55.6677980,27.9767555] n3040570142[55.6696532,27.9745953] n3040570144[55.6711899,27.9810514] n3040570145[55.6732664,27.9792839] n3040570143[55.6704562,27.9683846] n3040570141[55.6692379,27.9697348] n3040570139[55.6672165,27.9647270] n3040570138[55.6663997,27.9655861]
 w299960387  Кіслякі / Kisliaki / Кисляки / Кисляки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=hamlet
