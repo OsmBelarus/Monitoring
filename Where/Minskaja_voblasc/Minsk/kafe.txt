@@ -1534,8 +1534,8 @@ n1870460872  null / null / Столовая БНТУ
 n1870460876  null / null / Столовая БНТУ
   other tags : amenity=fast_food | fast_food=cafeteria | operator=БНТУ | phone=+375172939542
     geometry : [53.9240432,27.5944686]
-n1870460877  null / null / Столовая БНТУ
-  other tags : amenity=cafe | operator=БНТУ | phone=+375172679063
+n1870460877  Сталовая БНТУ / null / Столовая БНТУ / Столовая БНТУ
+  other tags : amenity=cafe | contact:phone=+375172679063 | operator=БНТУ
     geometry : [53.9369130,27.6667469]
 n1870460881  null / null / Столовая ИНТЕГРАЛОВЕЦ
   other tags : amenity=cafe | operator=НПО ИНТЕГРАЛ | phone=+375172787853
@@ -2298,7 +2298,7 @@ n2935551643  null / null / Hops
 n2952309681  null / null / PARK HALL
   other tags : addr:housenumber=12 | addr:street=улица Калиновского | amenity=restaurant | opening_hours=Fr-Sa 12:00-02:00 Su-Th 12:00-23:00 | phone=+375 29 315-01-01
     geometry : [53.9435105,27.6330919]
-n2957150547  null / null / Wood & Fire
+n2957150547  Wood & Fire / null / Wood & Fire / Wood & Fire
   other tags : amenity=restaurant | opening_hours=Mo-Su 12:00-04:00
     geometry : [53.9295768,27.6405631]
 n2965605239  null / null / Пицца Форум
