@@ -2,7 +2,7 @@ n437247664  Аптэка №35 / Apteka №35 / Аптека №35 / Аптек�
   other tags : amenity=pharmacy | dispensing=no
     geometry : [54.0049140,27.6836573]
 n441125420  Аптэка №157 / Apteka №157 / Аптека №157 / Аптека №157
-  other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 09:00-16:00; Sa 09:00-14:00; Su off | phone=+375175410285 | source=http://www.kolodischi.info/
+  other tags : amenity=pharmacy | contact:phone=+375175410285 | dispensing=no | opening_hours=Mo-Fr 09:00-16:00; Sa 09:00-14:00; Su off | source=http://www.kolodischi.info/
     geometry : [53.9554798,27.7784855]
 n443339520  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
@@ -35,7 +35,7 @@ n1938585686
   other tags : amenity=pharmacy
     geometry : [54.0715821,27.2201163]
 n1958664107  Аптэка / Apteka / Аптека / Аптека
-  other tags : amenity=pharmacy | opening_hours=Mo-Sa 08:00-12:00,13:00-21:00; Su 08:00-12:00,13:00-18:00 | operator=ООО "Жёлтое яблоко" | phone=+375295041515
+  other tags : amenity=pharmacy | contact:phone=+375295041515 | opening_hours=Mo-Sa 08:00-12:00,13:00-21:00; Su 08:00-12:00,13:00-18:00 | operator=ООО "Жёлтое яблоко"
     geometry : [53.9477956,27.7730296]
 n2528938605
   other tags : amenity=pharmacy

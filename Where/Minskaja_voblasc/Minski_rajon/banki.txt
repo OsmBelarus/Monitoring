@@ -32,7 +32,7 @@ n1861695519  Белаграпрамбанк / Bielahraprambank / Белагро�
   other tags : amenity=bank | atm=yes
     geometry : [53.9992109,27.6839686]
 n1958665416  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
-  other tags : amenity=bank | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-15:30; Sa-Su off | operator=Банк ВТБ | phone=+375 17 5081432 | source=http://www.kolodischi.info/ | website=http://www.vtb-bank.by/about/offices/kolodishi/dop5/
+  other tags : amenity=bank | contact:phone=+375 17 5081432 | contact:website=http://www.vtb-bank.by/about/offices/kolodishi/dop5/ | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-15:30; Sa-Su off | operator=Банк ВТБ | source=http://www.kolodischi.info/
     geometry : [53.9554856,27.7781505]
 n2362038303  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa-Su 09:00-15:00 | phone=+375175109802 | ref=№606/151
@@ -55,9 +55,6 @@ n2889109418  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3103361647  null / null / Сберкасса / Сберкасса
   other tags : amenity=bank | atm=no
     geometry : [54.0647422,27.7023691]
-n3146283091  null / null / Отделение Беларусбанк № 614/70 / Отделение Беларусбанк № 614/70
-  other tags : amenity=bank
-    geometry : [53.9570268,27.7818161]
 n3248300567  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | opening_hours=9-20
     geometry : [53.8127284,27.5264689]
@@ -68,11 +65,11 @@ n3283679746  null / null / Банкомат / Банкомат
   other tags : amenity=bank | atm=yes
     geometry : [53.7394000,27.5038399]
 w45754682
-  other tags : addr:housenumber=1Б | addr:street=Короткая улица | amenity=bank | atm=yes | building=yes | opening_hours=Mo-Fr 09:30-13:30,14:30-18:30; Sa-Su off | operator=Белагропромбанк | phone=+375 17 5081362 | source=http://www.kolodischi.info/ | website=http://www.belapb.by/
+  other tags : addr:housenumber=1Б | addr:street=Короткая улица | amenity=bank | atm=yes | building=yes | contact:phone=+375 17 5081362 | contact:website=http://www.belapb.by/ | opening_hours=Mo-Fr 09:30-13:30,14:30-18:30; Sa-Su off | operator=Белагропромбанк | source=http://www.kolodischi.info/
     geometry : n582733669[53.9461743,27.7742902] n582733668[53.9462121,27.7743871] n582733666[53.9461552,27.7744512] n582733667[53.9461174,27.7743543] n582733669[53.9461743,27.7742902]
 w256811031  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes | building=yes | contact:website=http://belarusbank.by/
     geometry : n2624434820[53.9640213,27.7604405] n2624434821[53.9639223,27.7604785] n2624434822[53.9639482,27.7606733] n2624434823[53.9640472,27.7606352] n2624434820[53.9640213,27.7604405]
-w309284317  null / null / Отделение Беларусбанк № 614/70 / Отделение Беларусбанк № 614/70
-  other tags : addr:city=Колодищи | addr:housenumber=10 | addr:street=Минская улица | amenity=bank | atm=no | building=yes | opening_hours=Пн. - Вт. 09:30-19:00 Перерыв 12:30-13:30 Чт. - Пт. 09:30-19:00 Перерыв 12:30-13:30 Сб. 10:00-14:00 1-ый четверг каждого месяца - выходной | operator=Беларусбанк
-    geometry : n3146251425[53.9570222,27.7816770] n3146251428[53.9570478,27.7818039] n3146283091[53.9570268,27.7818161] n3146255229[53.9569203,27.7818777] n3146251426[53.9568950,27.7817507] n3146251425[53.9570222,27.7816770]
+w309284317  Аддзяленне Беларусбанк № 614/70 / null / Отделение Беларусбанк № 614/70 / Отделение Беларусбанк № 614/70
+  other tags : addr:city=Колодищи | addr:housenumber=10 | addr:street=Минская улица | amenity=bank | atm=no | building=yes | opening_hours=Mo-Tu 09:30-12:30, 13:30-19:00; Th-Fr 09:30-12:30, 13:30-19:00; Sa 10:00-14:00; Th[1] off | operator=Беларусбанк
+    geometry : n3146251425[53.9570222,27.7816770] n3146251428[53.9570478,27.7818039] n3146255229[53.9569203,27.7818777] n3146251426[53.9568950,27.7817507] n3146251425[53.9570222,27.7816770]

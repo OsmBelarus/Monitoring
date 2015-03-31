@@ -328,7 +328,7 @@ n1359186737
 n1359186740
   other tags : shop=convenience
     geometry : [53.9507824,27.8039382]
-n1368742962  Цырульня / null / Парикмахерская
+n1368742962  Цырульня / null / Парикмахерская / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.9526817,27.7826942]
 n1368886108  null / null / Дроздово маркет
@@ -613,14 +613,14 @@ n1942001943  null / null / продукты
 n1942056654
   other tags : shop=alcohol
     geometry : [54.0695431,27.2147148]
-n1958664120  null / null / Ритуал
+n1958664120  Рытуал / null / Ритуал / Ритуал
   other tags : contact:phone=+375293439213;+375298772746 | opening_hours=Mo-Fr 08:00-17:00; Sa-Su 09:00-14:00 | operator=ИП Илюкевич Ю.В. | shop=funeral_directors
     geometry : [53.9481050,27.7732122]
 n1958664124
   other tags : shop=supermarket
     geometry : [53.9476750,27.7730736]
-n1958665412  null / null / Двери
-  other tags : opening_hours=Mo-Fr 09:00-17:00; Sa 09:00-14:00, Su off | phone=+375445516515 | shop=hardware
+n1958665412  Дзверы / null / Двери / Двери
+  other tags : contact:phone=+375445516515 | opening_hours=Mo-Fr 09:00-17:00; Sa 09:00-14:00, Su off | shop=hardware
     geometry : [53.9551842,27.7783586]
 n1992943144
   other tags : shop=convenience
@@ -629,10 +629,10 @@ n2001340422  null / null / Багата хата
   other tags : addr:housenumber=2 | addr:street=Солнечная улица | opening_hours=09:00-21:00 | shop=convenience
     geometry : [53.9521797,27.3166247]
 n2025383849
-  other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ЗАО "Ардис" | phone=+375 17 5083608 | shop=convenience | source=http://www.kolodischi.info/ | website=http://www.ardis.by/
+  other tags : contact:phone=+375 17 5083608 | contact:website=http://www.ardis.by/ | opening_hours=Mo-Su 09:00-20:00 | operator=ЗАО "Ардис" | shop=convenience | source=http://www.kolodischi.info/
     geometry : [53.9529468,27.7834242]
 n2025383854
-  other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ЗАО "Ардис" | phone=+375 17 5083608 | shop=hardware | source=http://www.kolodischi.info/ | website=http://www.ardis.by/
+  other tags : contact:phone=+375 17 5083608 | contact:website=http://www.ardis.by/ | opening_hours=Mo-Su 09:00-20:00 | operator=ЗАО "Ардис" | shop=hardware | source=http://www.kolodischi.info/
     geometry : [53.9529798,27.7833973]
 n2026772210  null / null / СалютЕНС: салюты и феерверки
   other tags : addr:housename=павильон | addr:housenumber=135 | addr:street=Авторынок в Малиновке, верхняя стоянка | designation=Точка продажи салютов и феерверков | shop=convenience | source=СалютЕНС
