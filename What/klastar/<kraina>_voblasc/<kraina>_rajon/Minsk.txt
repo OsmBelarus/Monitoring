@@ -146,7 +146,7 @@ w25387225
   other tags : addr:housenumber=3 | addr:postcode=220030 | addr:street=улица Кирилла и Мефодия | amenity=place_of_worship | building=church | wikipedia:be=Кафедральны_сабор_Сашэсця_Святога_Духа
     geometry : n276697338[53.9050780,27.5564329] n276697341[53.9049335,27.5563626] n276697344[53.9050020,27.5559568] n276697346[53.9051747,27.5560407] n276697349[53.9051546,27.5561595] n276697351[53.9051265,27.5561458] n276697354[53.9050967,27.5563222] n276697338[53.9050780,27.5564329]
 w25392476  null / null / Храм Покрова Пресвятой Богородицы
-  other tags : addr:housenumber=82 | addr:postcode=220020 | addr:street=проспект Победителей | amenity=place_of_worship | building=yes | contact:email=info@pokrovhram.by | contact:phone=+375(17) 209-02-30 | contact:website=http://pokrovhram.by/ | denomination=orthodox | religion=christian
+  other tags : addr:housenumber=82 | addr:postcode=220020 | addr:street=проспект Победителей | amenity=place_of_worship | building=yes | contact:email=info@pokrovhram.by | contact:phone=+375(17) 209-02-30 | contact:website=http://pokrovhram.by/ | denomination=orthodox | levels=2 | religion=christian
     geometry : n276744313[53.9379777,27.4938119] n276744314[53.9379811,27.4941150] n276744315[53.9379354,27.4941159] n1655856257[53.9379318,27.4941378] n1655856256[53.9379249,27.4941576] n276744316[53.9379106,27.4941723] n1655856245[53.9378942,27.4941772] n276744317[53.9378783,27.4941699] n1655856229[53.9378682,27.4941568] n276744318[53.9378614,27.4941413] n276744319[53.9378580,27.4941163] n276744320[53.9378042,27.4941166] n276744321[53.9378025,27.4938172] n276744322[53.9378573,27.4938159] n276744323[53.9378551,27.4937130] n276744324[53.9379345,27.4937130] n276744325[53.9379360,27.4938127] n276744313[53.9379777,27.4938119]
 w25392477  null / null / Административный корпус
   other tags : amenity=place_of_worship | building=yes | religion=christian
@@ -208,7 +208,7 @@ w124977096
   other tags : amenity=place_of_worship | building=church | religion=christian
     geometry : n1389301439[53.9437271,27.7201340] n1389301444[53.9438115,27.7201417] n1389301443[53.9437995,27.7205233] n1389301438[53.9437151,27.7205156] n1389301439[53.9437271,27.7201340]
 w152809069  null / null / Колокольня
-  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian | roof:height=6 | roof:shape=pyramidal
     geometry : n1655856275[53.9381775,27.4932908] n1655856273[53.9381035,27.4932926] n276744339[53.9381048,27.4934070] n276744326[53.9381788,27.4934043] n1655856275[53.9381775,27.4932908]
 w152809070  null / null / Часовня
   other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
