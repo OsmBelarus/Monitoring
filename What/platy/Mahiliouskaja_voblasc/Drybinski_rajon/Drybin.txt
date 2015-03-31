@@ -1019,19 +1019,19 @@ w232639861
   other tags : barrier=fence | fence_type=split_rail
     geometry : n2409801975[54.1218495,31.1056869] n2409801974[54.1217586,31.1058121] n2409801976[54.1218972,31.1061280] n2409801977[54.1220078,31.1059909]
 w233364819  null / null / ДРСУ
-  other tags : addr:housename=ДРСУ | addr:street=Промышленная 2 | barrier=fence | fence_type=chain | landuse=industrial
+  other tags : addr:street=2-я Промышленная улица | barrier=fence | fence_type=chain | landuse=industrial
     geometry : n3355350836[54.1205810,31.1208945] n3355350832[54.1205299,31.1211889] n2417619666[54.1203440,31.1224298] n2417619660[54.1198591,31.1222108] n2417619642[54.1192300,31.1219344] n2417619637[54.1187781,31.1217349] n2417619640[54.1191180,31.1194629] n2417619655[54.1198542,31.1197983] n2417619676[54.1203718,31.1200302] n3355350840[54.1206977,31.1201746] n2417619687[54.1206876,31.1202329]
 w233364827  null / null / Комунхоз
-  other tags : addr:housename=Комунхоз | addr:street=Промышленная 2 | barrier=fence | fence_type=chain | landuse=industrial
+  other tags : addr:street=2-я Промышленная улица | barrier=fence | fence_type=chain | landuse=industrial | official_name=Комунхоз
     geometry : n2417619646[54.1196941,31.1171626] n2417619695[54.1206492,31.1175930] n2417619704[54.1209182,31.1158555] n2417619664[54.1199631,31.1154251] n2417619646[54.1196941,31.1171626]
 w233364837  null / null / РАЙПО
-  other tags : addr:housename=РАЙПО | addr:street=Промышленная 2 | barrier=fence | landuse=industrial
+  other tags : addr:street=2-я Промышленная улица | barrier=fence | landuse=industrial | official_name=РАЙПО
     geometry : n2417619691[54.1206405,31.1197681] n2417619699[54.1208096,31.1185352] n2417619701[54.1208690,31.1181263] n2417619645[54.1196818,31.1176518] n2417619644[54.1194549,31.1192901] n2417619691[54.1206405,31.1197681]
 w233365690  null / null / ПМК-4
-  other tags : addr:housename=ПМК-4 | barrier=fence | fence_type=split_rail | landuse=industrial
+  other tags : barrier=fence | fence_type=split_rail | landuse=industrial | official_name=ПМК-4
     geometry : n2417631863[54.1219887,31.1130306] n3305255028[54.1217952,31.1125868] n3305255029[54.1218169,31.1125001] n2417631861[54.1214822,31.1116465] n3305255026[54.1201893,31.1131655] n2417631857[54.1202125,31.1136352] n2417631858[54.1210928,31.1141146] n3305255027[54.1217912,31.1132575] n3305255030[54.1218220,31.1133100] n3305255031[54.1218888,31.1132312] n2417631862[54.1218809,31.1131707] n2417631863[54.1219887,31.1130306]
 w233365701  null / null / Автодром
-  other tags : addr:housename=Автодром | barrier=fence | fence_type=split_rail | landuse=commercial
+  other tags : barrier=fence | fence_type=split_rail | landuse=commercial
     geometry : n2417631860[54.1213386,31.1113188] n2417631856[54.1203263,31.1123410] n2417631855[54.1199553,31.1119095] n2417631859[54.1210621,31.1105900] n2417631860[54.1213386,31.1113188]
 w253595789
   other tags : barrier=fence | fence_type=split_rail
@@ -2474,7 +2474,7 @@ w327955842
   other tags : barrier=fence | fence_type=chain
     geometry : n3357287529[54.1187882,31.1038717] n3357287532[54.1188284,31.1039196] n3357287533[54.1188499,31.1039453] n3347741697[54.1189783,31.1040992] n3347741706[54.1191803,31.1035031] n3347741695[54.1189892,31.1033372] n3347741690[54.1188474,31.1037197] n3357287529[54.1187882,31.1038717]
 w328704344  null / null / ДРСУ
-  other tags : addr:housename=ДРСУ | addr:street=Промышленная 2 | barrier=fence | fence_type=chain | landuse=industrial
+  other tags : addr:street=2-я Промышленная улица | barrier=fence | fence_type=chain | landuse=industrial
     geometry : n2417619682[54.1205815,31.1208941] n2417619678[54.1206155,31.1206856]
 w328704351
   other tags : barrier=fence | fence_type=chain

@@ -1894,9 +1894,6 @@ w157259738  null / null / Военкомат
 w157259739  null / null / Городская баня
   other tags : addr:housenumber=22А | addr:street=Советская улица | amenity=sauna | building=yes | building:levels=1
     geometry : n1694680075[55.9078315,28.8120707] n1694680068[55.9076650,28.8121899] n1694680071[55.9077364,28.8125072] n1694680077[55.9079028,28.8123880] n1694680075[55.9078315,28.8120707]
-w157259741
-  other tags : addr:housename=Общежитие | addr:street=Октябрьский переулок | building=yes | building:levels=1
-    geometry : n1694679904[55.9021553,28.8350707] n1694679859[55.9018331,28.8352028] n1694679864[55.9018707,28.8354945] n1694679920[55.9021928,28.8353624] n1694679904[55.9021553,28.8350707]
 w157259742
   other tags : addr:housenumber=1 | addr:street=Октябрьский переулок | building=yes | building:levels=1
     geometry : n1694679841[55.9014218,28.8349696] n1694679840[55.9013875,28.8346512] n1694679806[55.9009854,28.8347891] n1694679811[55.9010198,28.8351075] n1694679841[55.9014218,28.8349696]
@@ -2966,7 +2963,7 @@ w157849566
   other tags : addr:housenumber=6 | addr:street=улица Космонавтов | building=yes | building:levels=1
     geometry : n1700934801[55.9017875,28.8105526] n1700934798[55.9017804,28.8107662] n1700934821[55.9019163,28.8107807] n1700934823[55.9019235,28.8105671] n1700934801[55.9017875,28.8105526]
 w157849571
-  other tags : addr:housename=ул. Космонавтов, д.1 | addr:housenumber=1 | addr:postcode=211460 | addr:street=улица Космонавтов | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:postcode=211460 | addr:street=улица Космонавтов | building=yes | building:levels=1
     geometry : n1700934790[55.9015383,28.8105327] n1700934786[55.9015312,28.8107463] n1700934793[55.9016671,28.8107607] n1700934796[55.9016743,28.8105472] n1700934790[55.9015383,28.8105327]
 w157849574
   other tags : addr:street=Комсомольская улица | building=yes | building:levels=1

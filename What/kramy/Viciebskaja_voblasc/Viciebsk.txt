@@ -1652,7 +1652,7 @@ n1974102905  Шынамантаж / null / Шиномонтаж / Шиномон
   other tags : opening_hours=Mo-Fr 08:00-18:00 | service=tyres | shop=car_repair
     geometry : [55.1797013,30.2477856]
 n1991920635  null / null / Мужской стиль
-  other tags : addr:housename=магазин Мужской стиль | addr:housenumber=12 | addr:postcode=210015 | addr:street=улица Ленина | designation=ЧТУП Мужской стиль | shop=clothes | source=Мужской стиль | website=http://truvor.by/
+  other tags : addr:housenumber=12 | addr:postcode=210015 | addr:street=улица Ленина | designation=ЧТУП Мужской стиль | official_name=магазин Мужской стиль | shop=clothes | source=Мужской стиль | website=http://truvor.by/
     geometry : [55.1880100,30.2049822]
 n2001603791  null / null / Виктория
   other tags : opening_hours=Mo-Su 09:00-20:00 | shop=hairdresser
@@ -3356,7 +3356,7 @@ n3399988362  null / null / АМИ мебель
   other tags : addr:housenumber=20 | addr:street=Московский проспект | opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | phone=+375-33-3706654, +375-29-6451892 | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1812698,30.2129423]
 n3408531499  null / null / Городокская птицефабрика
-  other tags : addr:housename=Городокская птицефабрика | shop=convenience
+  other tags : official_name=Городокская птицефабрика | shop=convenience
     geometry : [55.1873266,30.2066472]
 n3408921067  null / null / Мебельная фурнитура
   other tags : shop=furniture

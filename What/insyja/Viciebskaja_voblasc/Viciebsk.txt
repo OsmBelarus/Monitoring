@@ -5991,7 +5991,7 @@ n2615883782  null / null / Витебский филиал ГИПК «ГАЗ-И�
   other tags : email=vitebsk@gazinstitut.by | office=company | phone=+375-212-571345
     geometry : [55.1694350,30.2434797]
 n2618219500  null / null / ООО Ресурсконтроль
-  other tags : addr:housename=302б | addr:housenumber=1 | addr:postcode=210013 | addr:street=улица Зеньковой | office=company | opening_hours=08:00-17:00 | phone=+375298127878 | website=http://resurscontrol.by/ | wheelchair=no
+  other tags : addr:door=302б | addr:housenumber=1 | addr:postcode=210013 | addr:street=улица Зеньковой | office=company | opening_hours=08:00-17:00 | phone=+375298127878 | website=http://resurscontrol.by/ | wheelchair=no
     geometry : [55.1917689,30.1867849]
 n2627539613  null / null / магазин "Отличные окна"
   other tags : craft=window_construction
@@ -13055,7 +13055,7 @@ w38666406  Сцэна / null / Сцена
   other tags : leisure=playground
     geometry : n457947938[55.1611404,30.2166543] n457947939[55.1610398,30.2167614] n457947940[55.1610044,30.2166595] n457947941[55.1611050,30.2165524] n457947938[55.1611404,30.2166543]
 w40013174  null / null / УП "Мираж"
-  other tags : addr:housename=УП "Мираж" | addr:housenumber=12 | addr:postcode=210040 | addr:street=1-я Журжевская улица | building=manufacture | source=http://mirage.by/
+  other tags : addr:housenumber=12 | addr:postcode=210040 | addr:street=1-я Журжевская улица | building=manufacture | official_name=УП "Мираж" | source=http://mirage.by/
     geometry : n480950828[55.2499383,30.2517417] n480950844[55.2500761,30.2521789] n480950854[55.2501718,30.2520860] n480950867[55.2500340,30.2516488] n480950828[55.2499383,30.2517417]
 w40020175
   other tags : railway=rail | usage=main
@@ -19850,7 +19850,7 @@ w258072383
   other tags : power=sub_station | ref=ТП381
     geometry : n2634856521[55.2098041,30.2362936] n2634856522[55.2098182,30.2363321] n2634856520[55.2097876,30.2363665] n2634856519[55.2097735,30.2363280] n2634856521[55.2098041,30.2362936]
 w258084283  null / null / "Марко-сервис"
-  other tags : addr:housename="Марко-сервис" | addr:housenumber=7 | addr:street=Старобабиновичский тракт | ele=187 | landuse=commercial
+  other tags : addr:housenumber=7 | addr:street=Старобабиновичский тракт | ele=187 | landuse=commercial
     geometry : n2634961497[55.1617256,30.2509909] n3174773523[55.1620788,30.2517210] n3174773474[55.1615790,30.2524238] n3174773505[55.1618833,30.2530692] n2634961502[55.1613114,30.2539963] n2634961504[55.1605736,30.2526668] n2634961497[55.1617256,30.2509909]
 w258685411
   other tags : barrier=wall
