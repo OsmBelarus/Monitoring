@@ -116,16 +116,16 @@ n3125844505  null / null / Новая Оболь
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.8332401,29.9964048]
 n3125844506  null / null / Студёнка
-  other tags : highway=bus_stop
-    geometry : [54.8222202,29.8784987]
+  other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.8221977,29.8785043]
 n3125844507  null / null / Студёнка
-  other tags : highway=bus_stop
-    geometry : [54.8224545,29.8785882]
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
+    geometry : [54.8224448,29.8785603]
 n3125844508  null / null / Телешовщина
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [54.8275453,29.8164193]
 n3125844509  null / null / Телешовщина
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.8278941,29.8147624]
 n3125844510  null / null / Хоменки
   other tags : highway=bus_stop
