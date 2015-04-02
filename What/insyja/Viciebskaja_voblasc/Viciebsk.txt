@@ -10746,7 +10746,7 @@ n3128865612
   other tags : addr:housenumber=36 к3 (кв. 41-76) | addr:street=улица Чкалова
     geometry : [55.1663254,30.2147855]
 n3128865613
-  other tags : addr:housenumber=36 к3 (кв.1-40) | addr:street=улица Чкалова
+  other tags : addr:housenumber=36 к3 (кв. 1-40) | addr:street=улица Чкалова
     geometry : [55.1662401,30.2153785]
 n3129492590
   other tags : amenity=drinking_water | man_made=standpipe
@@ -11007,16 +11007,16 @@ n3197438445
   other tags : amenity=waste_disposal
     geometry : [55.1814614,30.2411341]
 n3198373435
-  other tags : addr:housenumber=18 (кв1-108) | addr:street=улица Короткевича
+  other tags : addr:housenumber=18 (кв. 1-108) | addr:street=улица Короткевича
     geometry : [55.1682933,30.2573837]
 n3198373436
-  other tags : addr:housenumber=18 (кв109-144) | addr:street=улица Короткевича
+  other tags : addr:housenumber=18 (кв. 109-144) | addr:street=улица Короткевича
     geometry : [55.1680093,30.2580234]
 n3198373437
-  other tags : addr:housenumber=18 к1 (кв1-108) | addr:street=улица Короткевича
+  other tags : addr:housenumber=18 к1 (кв. 1-108) | addr:street=улица Короткевича
     geometry : [55.1681114,30.2587296]
 n3198373438
-  other tags : addr:housenumber=18 к1 (кв109-178) | addr:street=улица Короткевича
+  other tags : addr:housenumber=18 к1 (кв. 109-178) | addr:street=улица Короткевича
     geometry : [55.1676876,30.2593633]
 n3198373439
   other tags : addr:housenumber=5 к1(кв1-72) | addr:street=улица Баграмяна
@@ -11025,10 +11025,10 @@ n3198373440
   other tags : addr:housenumber=5 к1(кв73-108) | addr:street=улица Баграмяна
     geometry : [55.1708991,30.2651185]
 n3198378159
-  other tags : addr:housenumber=1/12 (кв.1-72) | addr:street=улица Богатырёва
+  other tags : addr:housenumber=1/12 (кв. 1-72) | addr:street=улица Богатырёва
     geometry : [55.1697780,30.2579833]
 n3198378160
-  other tags : addr:housenumber=1/12 (кв.73-108) | addr:street=улица Богатырёва
+  other tags : addr:housenumber=1/12 (кв. 73-108) | addr:street=улица Богатырёва
     geometry : [55.1694121,30.2584989]
 n3198378161
   other tags : addr:housenumber=12 | addr:street=улица Короткевича
@@ -11052,10 +11052,10 @@ n3203677671
   other tags : barrier=lift_gate | bicycle=yes | foot=yes
     geometry : [55.1808054,30.2224811]
 n3204692278
-  other tags : addr:housenumber=18 к1 (кв1-107) | addr:street=улица Генерала Ивановского
+  other tags : addr:housenumber=18 к1 (кв. 1-107) | addr:street=улица Генерала Ивановского
     geometry : [55.1666580,30.2618536]
 n3204692279
-  other tags : addr:housenumber=18 к1 (кв108-179) | addr:street=улица Генерала Ивановского
+  other tags : addr:housenumber=18 к1 (кв. 108-179) | addr:street=улица Генерала Ивановского
     geometry : [55.1661644,30.2623670]
 n3204982114
   other tags : addr:housenumber=37 (кв. 1-72) | addr:street=улица Петруся Бровки
@@ -11128,13 +11128,13 @@ n3229641026
   other tags : noexit=yes
     geometry : [55.1664545,30.2151450]
 n3230942179
-  other tags : addr:housenumber=107 к1 (кв.1..83) | addr:street=Московский проспект
+  other tags : addr:housenumber=107 к1 (кв. 1..83) | addr:street=Московский проспект
     geometry : [55.1703467,30.2725698]
 n3230942180
-  other tags : addr:housenumber=107 к1 (кв.120..191) | addr:street=Московский проспект
+  other tags : addr:housenumber=107 к1 (кв. 120..191) | addr:street=Московский проспект
     geometry : [55.1710950,30.2721639]
 n3230942181
-  other tags : addr:housenumber=107 к1 (кв.84..119) | addr:street=Московский проспект
+  other tags : addr:housenumber=107 к1 (кв. 84..119) | addr:street=Московский проспект
     geometry : [55.1708623,30.2724350]
 n3234419472  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375(212) 48-90-23
@@ -11221,7 +11221,7 @@ n3294346950
   other tags : addr:housenumber=13 к1 (кв. 1..39) | addr:street=улица Лазо
     geometry : [55.1998103,30.2494662]
 n3294346951
-  other tags : addr:housenumber=13 к1 (кв. 20..79) | addr:street=улица Лазо
+  other tags : addr:housenumber=13 к1 (кв. 40..79) | addr:street=улица Лазо
     geometry : [55.1995656,30.2493193]
 n3296018177
   other tags : addr:housenumber=45 (кв. 1-40) | addr:street=проспект Победы
@@ -11526,6 +11526,12 @@ n3421432228
 n3424177194  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375(212) 56-14-65 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
     geometry : [55.1973047,30.2411940]
+n3430686325
+  other tags : addr:housenumber=103 (кв. 1-48) | addr:street=Московский проспект
+    geometry : [55.1722459,30.2665642]
+n3430686326
+  other tags : addr:housenumber=103 (кв. 49-108) | addr:street=Московский проспект
+    geometry : [55.1724512,30.2657497]
 w8384407
   other tags : abandoned=yes | aeroway=runway
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
