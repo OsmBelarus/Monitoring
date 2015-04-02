@@ -146,11 +146,11 @@ w25387225
   other tags : addr:housenumber=3 | addr:postcode=220030 | addr:street=улица Кирилла и Мефодия | amenity=place_of_worship | building=church | wikipedia:be=Кафедральны_сабор_Сашэсця_Святога_Духа
     geometry : n276697338[53.9050780,27.5564329] n276697341[53.9049335,27.5563626] n276697344[53.9050020,27.5559568] n276697346[53.9051747,27.5560407] n276697349[53.9051546,27.5561595] n276697351[53.9051265,27.5561458] n276697354[53.9050967,27.5563222] n276697338[53.9050780,27.5564329]
 w25392476  null / null / Храм Покрова Пресвятой Богородицы
-  other tags : addr:housenumber=82 | addr:postcode=220020 | addr:street=проспект Победителей | amenity=place_of_worship | building=yes | contact:email=info@pokrovhram.by | contact:phone=+375(17) 209-02-30 | contact:website=http://pokrovhram.by/ | denomination=orthodox | levels=2 | religion=christian
+  other tags : addr:housenumber=82 | addr:postcode=220020 | addr:street=проспект Победителей | amenity=place_of_worship | building=yes | building:colour=#ffffff | contact:email=info@pokrovhram.by | contact:phone=+375(17) 209-02-30 | contact:website=http://pokrovhram.by/ | denomination=orthodox | height=16 | religion=christian | roof:colour=#708070
     geometry : n276744313[53.9379777,27.4938119] n276744314[53.9379811,27.4941150] n276744315[53.9379354,27.4941159] n1655856257[53.9379318,27.4941378] n1655856256[53.9379249,27.4941576] n276744316[53.9379106,27.4941723] n1655856245[53.9378942,27.4941772] n276744317[53.9378783,27.4941699] n1655856229[53.9378682,27.4941568] n276744318[53.9378614,27.4941413] n276744319[53.9378580,27.4941163] n276744320[53.9378042,27.4941166] n276744321[53.9378025,27.4938172] n276744322[53.9378573,27.4938159] n276744323[53.9378551,27.4937130] n276744324[53.9379345,27.4937130] n276744325[53.9379360,27.4938127] n276744313[53.9379777,27.4938119]
 w25392477  null / null / Административный корпус
-  other tags : amenity=place_of_worship | building=yes | religion=christian
-    geometry : n276744326[53.9381788,27.4934043] n276744327[53.9381856,27.4942308] n276744328[53.9382145,27.4942303] n276744329[53.9382161,27.4944776] n276744330[53.9380556,27.4944806] n276744331[53.9380540,27.4942311] n276744333[53.9381096,27.4942301] n276744339[53.9381048,27.4934070] n276744326[53.9381788,27.4934043]
+  other tags : amenity=place_of_worship | building=yes | height=6 | religion=christian | roof:colour=#ff4040 | roof:shape=gabled
+    geometry : n276744326[53.9381788,27.4934043] n276744327[53.9381856,27.4942298] n276744328[53.9382147,27.4942294] n276744329[53.9382159,27.4944779] n276744330[53.9380554,27.4944803] n276744331[53.9380542,27.4942318] n276744333[53.9381096,27.4942310] n276744339[53.9381048,27.4934070] n276744326[53.9381788,27.4934043]
 w25393510  null / null / молитвенный дом
   other tags : addr:housenumber=3 | addr:postcode=220116 | addr:street=проспект Газеты Звязда | amenity=place_of_worship | building=yes
     geometry : n276753017[53.8712929,27.4769243] n276753006[53.8711374,27.4769255] n276753007[53.8711361,27.4764687] n276753008[53.8710801,27.4764691] n276753009[53.8710794,27.4762153] n276753010[53.8711867,27.4762145] n737288340[53.8711870,27.4763141] n737288378[53.8712381,27.4763137] n276753011[53.8712384,27.4764030] n276753012[53.8712973,27.4764026] n276753013[53.8712978,27.4765827] n276753014[53.8713345,27.4765824] n276753015[53.8713350,27.4767677] n276753016[53.8712925,27.4767681] n276753017[53.8712929,27.4769243]
@@ -192,7 +192,7 @@ w64063846
   other tags : addr:housenumber=40 | addr:postcode=220040 | addr:street=улица Собинова | amenity=place_of_worship | building=yes | denomination=pentecostal | religion=christian
     geometry : n790209887[53.9416020,27.5831545] n790209957[53.9416993,27.5832783] n790210460[53.9416051,27.5834919] n790210543[53.9415078,27.5833681] n790209887[53.9416020,27.5831545]
 w83644578  null / null / Крупецкой иконы Божьей Матери
-  other tags : amenity=place_of_worship | building=yes | religion=christian
+  other tags : amenity=place_of_worship | building=yes | height=6 | religion=christian | roof:colour=#ff4040 | roof:shape=gabled
     geometry : n974067613[53.9384168,27.4941494] n974067553[53.9384618,27.4944282] n974067463[53.9383977,27.4944581] n974067072[53.9383527,27.4941793] n974067613[53.9384168,27.4941494]
 w100418249  Касцёл Святога Сымона і Святой Алены / Church of Saints Simon and Helen / Костёл святого Симеона и святой Елены / Костёл святого Симеона и святой Елены
   other names: name:en=Church of Saints Simon and Helen
@@ -208,11 +208,11 @@ w124977096
   other tags : amenity=place_of_worship | building=church | religion=christian
     geometry : n1389301439[53.9437271,27.7201340] n1389301444[53.9438115,27.7201417] n1389301443[53.9437995,27.7205233] n1389301438[53.9437151,27.7205156] n1389301439[53.9437271,27.7201340]
 w152809069  null / null / Колокольня
-  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian | roof:height=6 | roof:shape=pyramidal
-    geometry : n1655856275[53.9381775,27.4932908] n1655856273[53.9381035,27.4932926] n276744339[53.9381048,27.4934070] n276744326[53.9381788,27.4934043] n1655856275[53.9381775,27.4932908]
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | height=10 | religion=christian | roof:colour=#ff4040
+    geometry : n1655856275[53.9381775,27.4932908] n1655856273[53.9381035,27.4932926] n3430120781[53.9381046,27.4933883] n276744339[53.9381048,27.4934070] n276744326[53.9381788,27.4934043] n1655856275[53.9381775,27.4932908]
 w152809070  null / null / Часовня
-  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
-    geometry : n1655856212[53.9377494,27.4939244] n1655856219[53.9377497,27.4940274] n1655856206[53.9377072,27.4940278] n1655856204[53.9377069,27.4939247] n1655856212[53.9377494,27.4939244]
+  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | height=5 | religion=christian
+    geometry : n1655856212[53.9377406,27.4939431] n1655856219[53.9377411,27.4940069] n1655856206[53.9377123,27.4940076] n1655856204[53.9377118,27.4939437] n1655856212[53.9377406,27.4939431]
 w189733038  null / null / Часовня Матери Божьей Ружанцовой
   other tags : addr:housenumber=1 | addr:postcode=220112 | addr:street=улица Иосифа Гaшкевича | amenity=place_of_worship | building=yes | denomination=catholic | religion=christian | website=http://loshyca.tau.by/
     geometry : n2003229133[53.8420832,27.5722020] n2003229134[53.8419914,27.5720196] n2003229132[53.8420579,27.5719177] n2003229130[53.8421592,27.5721108] n2003229133[53.8420832,27.5722020]
