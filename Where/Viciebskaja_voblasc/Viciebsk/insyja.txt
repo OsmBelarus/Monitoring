@@ -50,6 +50,9 @@ n306305450
 n306305455
   other tags : addr:housenumber=18 | addr:street=улица 4-я Линия
     geometry : [55.2108330,30.2020754]
+n306305461
+  other tags : addr:housenumber=8 (кв. 1) | addr:street=улица Шаврова
+    geometry : [55.2105170,30.2049632]
 n306305727
   other tags : man_made=surveillance | surveillance=outdoor
     geometry : [55.1990146,30.1959478]
@@ -6363,7 +6366,7 @@ n2828882524
   other tags : barrier=lift_gate
     geometry : [55.1781657,30.1760851]
 n2830781793
-  other tags : addr:housenumber=8 кв.2 | addr:street=улица Шаврова | building:levels=1
+  other tags : addr:housenumber=8 (кв. 2) | addr:street=улица Шаврова
     geometry : [55.2106123,30.2050708]
 n2831102423
   other tags : addr:housenumber=38 | addr:street=улица Ленина
@@ -11191,7 +11194,7 @@ n3250935466
   other tags : amenity=waste_disposal
     geometry : [55.1973833,30.2594685]
 n3278063366
-  other tags : addr:housenumber=42 | addr:street=Улица Коноплёва
+  other tags : addr:housenumber=42 | addr:street=улица Коноплёва
     geometry : [55.2025713,30.2530022]
 n3278065114
   other tags : addr:housenumber=26 | addr:street=Центральная улица | building:levels=1
