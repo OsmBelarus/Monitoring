@@ -340,9 +340,6 @@ n982331119  null / null / Новоселы / Новоселы
 n982331461  null / null / Наш Дом
   other tags : shop=doityourself
     geometry : [52.4532217,31.0235249]
-n982331753  null / null / Родная сторона
-  other tags : shop=convenience
-    geometry : [52.4489025,31.0211224]
 n982332034  Еўраопт / null / Евроопт
   other tags : shop=supermarket | wheelchair=yes
     geometry : [52.4451545,31.0168441]
@@ -599,9 +596,6 @@ n1334729500
 n1334729509
   other tags : shop=convenience
     geometry : [52.4401170,31.0043598]
-n1334729511
-  other tags : shop=convenience
-    geometry : [52.4519204,31.0245252]
 n1334729514
   other tags : shop=convenience
     geometry : [52.4683079,31.0247881]
@@ -1220,9 +1214,6 @@ n2545075444
 n2545075461
   other tags : shop=ticket
     geometry : [52.4197383,31.0109041]
-n2588769803  null / null / Магазин
-  other tags : shop=convenience
-    geometry : [52.4512243,31.0193525]
 n2588957068  null / null / Продуктовый магазин
   other tags : addr:housenumber=17 | addr:street=улица Ланге | opening_hours=9:00-18:00 | shop=convenience
     geometry : [52.4275401,31.0147689]
@@ -1230,7 +1221,7 @@ n2588970218  null / null / Магазин
   other tags : shop=convenience
     geometry : [52.4671147,30.9848571]
 n2589431159  null / null / Салон красоты Зеленое яблоко
-  other tags : addr:housenumber=113 | addr:street=улица Головацкого | shop=hairdresser
+  other tags : addr:housenumber=113 | addr:street=улица Головацкого | shop=beauty
     geometry : [52.4511963,31.0196546]
 n2589431805  null / null / Магазин
   other tags : shop=convenience
@@ -1383,3 +1374,6 @@ n3391145694  null / null / Керамин
 n3431989674  null / null / Фиджи
   other tags : shop=beauty
     geometry : [52.4518512,31.0247250]
+n3432002031  null / null / Луговой
+  other tags : shop=convenience
+    geometry : [52.4512684,31.0192238]
