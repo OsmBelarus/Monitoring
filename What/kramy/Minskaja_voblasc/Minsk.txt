@@ -5388,7 +5388,7 @@ n1798071218  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.8930557,27.5646494]
 n1808545962  null / null / Ассорти
-  other tags : shop=convenience
+  other tags : amenity=shop | shop=convenience
     geometry : [53.8981580,27.5251580]
 n1810141448  null / null / Mitsubishi Motors
   other tags : shop=car
@@ -10895,7 +10895,7 @@ n3379657029  null / null / Буслик
   other tags : opening_hours=Mo-Su 10:00-22:00 | phone=+ 375 17 221-50-10 | shop=baby_goods
     geometry : [53.9115631,27.4150543]
 n3380950037  null / null / Виталюр
-  other tags : shop=convenience
+  other tags : amenity=shop | shop=convenience
     geometry : [53.8984401,27.5246118]
 n3383574525  null / null / СТО "База Север"
   other tags : opening_hours=Mo-Su 09:00-18:00 | shop=car_repair
