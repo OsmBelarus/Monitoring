@@ -565,7 +565,7 @@ n305685517  null / null / Роксалана / Роксалана
 n305685562  null / null / Агат
   other tags : amenity=restaurant
     geometry : [53.9473869,27.6451270]
-n305685575  null / null / Салтайм / Салтайм
+n305685575  Салтайм / null / Салтайм / Салтайм
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9334941,27.6443786]
 n305685608  null / null / Калабрия / Калабрия
@@ -585,14 +585,14 @@ n305686240  null / null / Шоколад / Шоколад
 n305686244  null / null / Рико / Рико
   other tags : addr:housenumber=6 | addr:postcode=220021 | addr:street=Центральная улица | amenity=cafe | website=http://www.rico.relax.by/
     geometry : [53.8659400,27.6529300]
-n305686472  null / null / Султан / Султан
+n305686472  Султан / null / Султан / Султан
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9391375,27.6510273]
 n305686475  Тэрыторыя / null / Территория / Территория
   other tags : amenity=restaurant
     geometry : [53.9440558,27.6664896]
-n305686663  null / null / Арбат / Арбат
-  other tags : addr:housenumber=143 к1 | addr:postcode=220114 | addr:street=проспект Независимости | amenity=restaurant | website=http://www.arbat.restoran.by/
+n305686663  Арбат / null / Арбат / Арбат
+  other tags : addr:housenumber=143 к1 | addr:postcode=220114 | addr:street=проспект Независимости | amenity=restaurant | contact:website=http://www.arbat.restoran.by/
     geometry : [53.9343616,27.6481888]
 n305686670
   other tags : amenity=cafe | cuisine=cafe/diner
@@ -609,8 +609,8 @@ n305687129  Magic Bar / null / Magic Bar / Magic Bar
 n305687176  null / null / Натврис Хе / Натврис Хе
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9121200,27.6730600]
-n305687290  null / null / Кафэ
-  other tags : amenity=cafe | cuisine=cafe/diner | operator=ЧУП КАНАШ | phone=+375173446053
+n305687290  Кафэ / null / Кафэ / Кафэ
+  other tags : amenity=cafe | contact:phone=+375173446053 | cuisine=cafe/diner | operator=ЧУП КАНАШ
     geometry : [53.9227154,27.6713958]
 n306065230  null / null / Феррит / Феррит
   other tags : amenity=cafe | cuisine=cafe/diner
@@ -817,10 +817,10 @@ n685343082  Віра / null / Вира / Вира
 n692766662  null / null / Olivo
   other tags : amenity=cafe | opening_hours=Mo-Fr 10:00-23:00; Sa-Su 12:00-23:00
     geometry : [53.9132066,27.5810608]
-n698364136  Хутка-смачна / null / Хутка-смачна
+n698364136  Хутка-смачна / null / Хутка-смачна / Хутка-смачна
   other tags : amenity=fast_food
     geometry : [53.9344428,27.6523493]
-n699609204  null / null / Масленица
+n699609204  Масленіца / null / Масленица / Масленица
   other tags : amenity=fast_food
     geometry : [53.9344761,27.6525742]
 n701299114  null / null / Манга
@@ -1032,10 +1032,10 @@ n991008645  Сталовая / null / Столовая / Столовая
 n991106582  null / null / Комп. клуб и ксерокопия
   other tags : amenity=cafe | internet_access=terminal
     geometry : [53.8790757,27.6057383]
-n991695961  null / null / Кофе Сити
+n991695961  Кава Сіці / null / Кофе Сити / Кофе Сити
   other tags : amenity=cafe
     geometry : [53.9345810,27.6527937]
-n991700134  null / null / Пицца-Фут
+n991700134  Піца-Фут / null / Пицца-Фут / Пицца-Фут
   other tags : amenity=cafe | cuisine=pizza | opening_hours=9:00-10:00
     geometry : [53.9339102,27.6502337]
 n996409385  null / null / Зорина
@@ -1660,8 +1660,8 @@ n1870460976  null / null / Столовая
 n1870460979  null / null / Столовая
   other tags : amenity=cafe | operator=ОАО МИНСКИЙ ПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД | phone=+375172939991
     geometry : [53.9183649,27.5879574]
-n1870460981  null / null / Столовая
-  other tags : amenity=cafe | operator=УО ВГКС | phone=+375172175622
+n1870460981  Сталовая / null / Столовая / Столовая
+  other tags : amenity=cafe | contact:phone=+375172175622 | operator=УО ВГКС
     geometry : [53.9239776,27.6665575]
 n1870460982  null / null / Столовая
   other tags : amenity=cafe | operator=УО БГАТУ | phone=+375172673583
@@ -2244,7 +2244,7 @@ n2831885553  null / null / Столовая Кол ОАО МПОВТ / Стол�
 n2831897803  null / null / Столовая УП Минский Комаровский Рынок / Столовая УП Минский Комаровский Рынок
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [53.9197599,27.5772913]
-n2831904633  null / null / Столовая ЧУП Канаш / Столовая ЧУП Канаш
+n2831904633  Сталовая ПУП Канаш / null / Столовая ЧУП Канаш / Столовая ЧУП Канаш
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [53.9228994,27.6715123]
 n2831922008  null / null / Столовая ОАО Минский Приборостроительный завод / Столовая ОАО Минский Приборостроительный завод
@@ -2334,7 +2334,7 @@ n3037191823  null / null / Кафетерий
 n3048770550
   other tags : amenity=cafe
     geometry : [53.9268105,27.6859026]
-n3068188084  null / null / ButterBro
+n3068188084  ButterBro / null / ButterBro / ButterBro
   other tags : addr:housenumber=3Б | addr:street=Жасминовая улица | amenity=cafe
     geometry : [53.9266156,27.6517250]
 n3074879829  Кухмiстр / null / Кухмистр / Кухмистр
@@ -2544,14 +2544,8 @@ n3213419497  null / null / Кофеберри
 n3227984167  null / null / CoffeeBerry
   other tags : amenity=cafe
     geometry : [53.9068651,27.5478155]
-n3228159188  null / null / 7/25EspressoBar
-  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=7:25-19:00
-    geometry : [53.9236201,27.6694939]
-n3228167175  null / null / 7/25EspressoBar
-  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=7:25-19:00
-    geometry : [53.9236201,27.6694939]
-n3228168327  null / null / 7/25EspressoBar
-  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=7:25-19:00
+n3228167175  7/25EspressoBar / null / 7/25EspressoBar / 7/25EspressoBar
+  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=07:25-19:00
     geometry : [53.9236201,27.6694939]
 n3235921361  null / null / Столовая
   other tags : amenity=fast_food

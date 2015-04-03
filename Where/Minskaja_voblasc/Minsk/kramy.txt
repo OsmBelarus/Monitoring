@@ -407,16 +407,16 @@ n281722608  Зарына / null / Зорина / Зорина
 n281722609  Пальміра / null / Пальмира / Пальмира
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00 | operator:be=ГЗАТ "Пальміра" | operator:ru=ТЗАО "Пальмира" | shop=doityourself
     geometry : [53.9422000,27.6834866]
-n281725762  Кнiгачэй / null / null
+n281725762  Кнiгачэй / null / null / Книгачей
   other tags : shop=books
     geometry : [53.9333119,27.6444404]
-n281725764  Гаспадар i Гаспадыня / null / Гаспадар i Гаспадыня
+n281725764  Гаспадар i Гаспадыня / null / Гаспадар i Гаспадыня / Гаспадар и Гаспадыня
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00 | shop=hardware
     geometry : [53.9330977,27.6437603]
 n281725765  БелМаркет / null / БелМаркет / БелМаркет
   other tags : shop=convenience
     geometry : [53.9341471,27.6476322]
-n281725766  null / null / Счастье
+n281725766  Шчасце / null / Счастье / Счастье
   other tags : opening_hours=10:00-20:00 | shop=convenience
     geometry : [53.9352706,27.6515296]
 n281725771  Рублёўскі / null / Рублевский / Рублевский
@@ -1711,7 +1711,7 @@ n305685950
 n305685954
   other tags : shop=car_repair
     geometry : [53.8791600,27.6703100]
-n305686028  null / null / Сто Бош Сервис
+n305686028  СТА Бош Сэрвіс / null / СТО Бош Сервис / СТО Бош Сервис
   other tags : shop=car_repair
     geometry : [53.9236291,27.6593536]
 n305686059  СТА / null / Сто / Сто
@@ -2570,13 +2570,13 @@ n740883988
 n745188304
   other tags : shop=convenience
     geometry : [53.8670941,27.6503481]
-n747741132  null / null / Поликом
+n747741132  Палікам / null / Поликом / Поликом
   other tags : shop=convenience
     geometry : [53.9356006,27.6519750]
 n747920098
   other tags : shop=convenience
     geometry : [53.8519196,27.5457347]
-n748773468  Багата Хата / null / Багата Хата
+n748773468  Багата Хата / null / Багата Хата / Багата Хата
   other tags : shop=convenience
     geometry : [53.9386368,27.6536116]
 n749266935  null / null / Толекс моторс
@@ -4466,10 +4466,10 @@ n1487540500  Прадукты / null / Продукты / Продукты
 n1489420455
   other tags : opening_hours=Mo-Su 10:00-21:00 | shop=pet
     geometry : [53.8884483,27.4224180]
-n1491282573  null / null / Стриж Ка
+n1491282573  Стрыж Ка / null / Стриж Ка / Стриж Ка
   other tags : shop=hairdresser
     geometry : [53.9363243,27.6547021]
-n1491283457  null / null / Грошовый
+n1491283457  Грашовы / null / Грошовый / Грошовый
   other tags : shop=convenience
     geometry : [53.9360054,27.6546064]
 n1492839592  null / null / Насенне / Семена
@@ -4940,8 +4940,8 @@ n1631855676  null / null / МТС
 n1631855745  null / null / Velcom
   other tags : office=telecommunication | operator=Velcom | shop=mobile_phone
     geometry : [53.9283591,27.6275955]
-n1633103518  null / null / Хобби-Центр
-  other tags : opening_hours=11:00-19:00 | phone=+275 29 7799597 | shop=toys | website=http://hobbycenter.by/
+n1633103518  Хобі-Цэнтр / null / Хобби-Центр / Хобби-Центр
+  other tags : contact:phone=+275 29 7799597 | contact:website=http://hobbycenter.by/ | opening_hours=11:00-19:00 | shop=toys
     geometry : [53.9392583,27.6508153]
 n1634895594  null / null / Евроопт
   other tags : addr:housenumber=13 к1 | addr:postcode=220037 | addr:street=улица Филимонова | shop=supermarket
@@ -6345,8 +6345,8 @@ n2530905705  null / null / Солярий "COSMO"
 n2531446916  null / null / Хозмагазин
   other tags : addr:housenumber=79 | addr:street=улица Карла Либкнехта | shop=supermarket
     geometry : [53.8940370,27.5200236]
-n2532349639  null / null / Abacosun
-  other tags : addr:housenumber=131/1 | addr:street=проспект Независимости | opening_hours=8:00-21:00 | phone=(+37517)263-91-96 | shop=beauty
+n2532349639  Abacosun / null / Abacosun / Abacosun
+  other tags : addr:housenumber=131/1 | addr:street=проспект Независимости | contact:phone=(+37517)263-91-96 | opening_hours=08:00-21:00 | shop=beauty
     geometry : [53.9331784,27.6441446]
 n2534734772  null / null / SunDali
   other tags : addr:housenumber=16 | addr:postcode=220112 | addr:street=Игуменский тракт | shop=shoes
@@ -7326,7 +7326,7 @@ n2622391673
 n2622392449
   other tags : shop=car_parts
     geometry : [53.9226390,27.6369089]
-n2622393908  null / null / Самоцветы
+n2622393908  Самацветы / null / Самоцветы / Самоцветы
   other tags : opening_hours=10:00-20:00 | shop=jewelry
     geometry : [53.9349976,27.6508792]
 n2622398325  null / null / Александров Пассаж ТРЦ
@@ -9320,28 +9320,28 @@ n3212107833  null / null / Солярис
 n3212108357  null / null / Lucia
   other tags : shop=dry_cleaning
     geometry : [53.8917689,27.5705381]
-n3212110414  null / null / Cutrin
+n3212110414  Cutrin / null / Cutrin / Cutrin
   other tags : shop=beauty
     geometry : [53.9332332,27.6443410]
-n3212110597  null / null / семена
+n3212110597  насенне / null / семена / семена
   other tags : shop=yes
     geometry : [53.9331234,27.6434631]
-n3212110789  null / null / Кулинария
-  other tags : shop=Кулинария
+n3212110789  Кулінарыя / null / Кулинария / Кулинария
+  other tags : shop=deli
     geometry : [53.9342457,27.6480454]
-n3212111012  null / null / Бегемот
+n3212111012  Бегемот / null / Бегемот / Бегемот
   other tags : operator=стрелка | shop=pet
     geometry : [53.9352759,27.6518941]
 n3212793427  null / null / Second Hand
   other tags : shop=clothes
     geometry : [53.9060105,27.4899876]
-n3213399435  null / null / Цветочный магазин
+n3213399435  Кветкавы магазін / null / Цветочный магазин / Цветочный магазин
   other tags : shop=florist
     geometry : [53.9390516,27.6507719]
-n3213399436  null / null / Зоомагазин
+n3213399436  Зоомагазін / null / Зоомагазин / Зоомагазин
   other tags : shop=pet
     geometry : [53.9391395,27.6507540]
-n3213399449  null / null / Ломбард
+n3213399449  Ламбард / null / Ломбард / Ломбард
   other tags : addr:street=Калиновского | shop=pawnbroker
     geometry : [53.9384584,27.6515301]
 n3213399457  null / null / Тропинка
@@ -9740,7 +9740,7 @@ n3268760644  Шанталь / null / Шанталь / Шанталь
 n3268762994  Мінімагазін / null / Минимагазин / Минимагазин
   other tags : shop=convenience
     geometry : [53.9264887,27.6276859]
-n3268763765  null / null / Фантазия
+n3268763765  Фантазія / null / Фантазия / Фантазия
   other tags : shop=hairdresser
     geometry : [53.9352152,27.6516702]
 n3268777026  null / null / МЗБН розничная продажа
