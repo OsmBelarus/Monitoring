@@ -1,9 +1,6 @@
 n306064217  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
-    geometry : [52.3733613,30.3491404]
-n306064219  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : amenity=atm
-    geometry : [52.3730777,30.3498009]
+  other tags : amenity=atm | operator=Беларусбанк
+    geometry : [52.3731774,30.3489355]
 n306064222  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [52.3840951,30.3485897]
@@ -55,6 +52,9 @@ n3146919010  null / null / Агропромбанк / Агропромбанк
 n3390734343  null / null / Приорбанк
   other tags : amenity=atm | operator=Приорбанк
     geometry : [52.3488704,30.4331890]
-n3431469712  null / null / Приорбанк
-  other tags : amenity=atm | operator=Приорбанк
+n3431469712
+  other tags : amenity=atm
     geometry : [52.3727744,30.3502767]
+n3431471048
+  other tags : amenity=atm
+    geometry : [52.3727090,30.3504857]
