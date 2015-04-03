@@ -1336,7 +1336,7 @@ n840125327  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Мо
   other tags : amenity=atm
     geometry : [53.9071571,27.5379181]
 n878819404  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : amenity=atm
+  other tags : amenity=atm | cash_in=yes | currency:BYR=yes | currency:USD=yes | operator=Приорбанк
     geometry : [53.9269404,27.6815172]
 n905297300
   other tags : amenity=atm | operator=Приорбанк
