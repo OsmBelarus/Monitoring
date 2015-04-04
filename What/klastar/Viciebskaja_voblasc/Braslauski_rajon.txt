@@ -4,11 +4,11 @@ n306065051  null / null / ???? / ????
 n306065059  null / null / Храм Во Имя Святителя Николая Чудотворца 1905Г. / Храм Во Имя Святителя Николая Чудотворца 1905Г.
   other tags : amenity=place_of_worship
     geometry : [55.6216300,27.2588000]
-n306065067  null / null / Костел / Костел
-  other tags : amenity=place_of_worship
+n306065067  Касцёл Божага Цела / null / Церковь Божьего Тела / Церковь Божьего Тела
+  other tags : addr:housenumber=7 | addr:street=ул. Молодёжная | amenity=place_of_worship | denomination=catholic | religion=christian | wikipedia=ru:Церковь Божьего Тела (Иказнь)
     geometry : [55.6244600,27.2601700]
 n306065069
-  other tags : amenity=place_of_worship
+  other tags : amenity=place_of_worship | religion=christian
     geometry : [55.6251500,27.2550200]
 n746920958  null / null / Монастырь бернардинцев - костел Троицкий
   other tags : amenity=place_of_worship | historic=yes | religion=christian

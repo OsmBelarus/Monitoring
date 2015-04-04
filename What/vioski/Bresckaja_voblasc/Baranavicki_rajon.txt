@@ -29,8 +29,8 @@ n242990931  Яжона / Jažona / Ежона / Ежона
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [52.9940989,25.6331538]
 n242990933  Падгорная / Padhornaja / Подгорная / Подгорная
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
-    geometry : [52.9852600,25.5698200]
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
+    geometry : [52.9876931,25.5698200]
 n242990936  Вяршок / Viaršok / Вершок / Вершок
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.1635300,25.6094700]
@@ -80,7 +80,7 @@ n242991583  Дразды / null / Дрозды / Дрозды
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3742400,25.7681800]
 n242991592  Вялікая Сваротва / Vialikaja Svarotva / Большая Своротва / Большая Своротва
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Великая Своротва | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Великая Своротва | place=hamlet | wikipedia=ru:Большая Своротва
     geometry : [53.3690900,25.7773600]
 n242991598  Емяльянавічы / Jemiaĺjanavičy / Емельяновичи / Емельяновичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -119,16 +119,16 @@ n242991646  Сеўрукі / Sieŭruki / Севрюки / Севрюки
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Севруки | place=hamlet
     geometry : [53.1306500,25.8040500]
 n242991649  Паўлінава / Paŭlinava / Павлиново / Павлиново
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Павлиново (Барановичский район)
     geometry : [53.0279541,25.8204109]
 n242991653  Бярозаўка / Biarozaŭka / Берёзовка / Берёзовка
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Бярозаўка (Баранавіцкі раён)
     geometry : [53.0247400,25.7656000]
 n242991655  null / null / Гусенцы / Гусенцы
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [52.9990800,25.8351200]
 n242991658  Груды / Hrudy / Груды / Груды
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Груды
     geometry : [53.0063700,25.8534100]
 n242991661  Цівунцы / Civuncy / Тиунцы / Тиунцы
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -149,7 +149,7 @@ n242991675  Сасновая / Sasnovaja / Сосновая / Сосновая
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.0921200,25.7482600]
 n242991678  Дзеткавічы / Dzietkavičy / Детковичи / Детковичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Детковичи (Барановичский район)
     geometry : [53.1163200,25.6941000]
 n242991681  Дзекалы / Dziekaly / Деколы / Деколы
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -188,7 +188,7 @@ n242991713  Міцкевічы / Mickievičy / Мицкевичи / Мицкев
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:be=Міцкавічы | place=hamlet
     geometry : [53.2922969,25.7521675]
 n242991716  Моўчадзь / Moŭčadź / Молчадь / Молчадь
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : [53.3145100,25.6953900]
 n242991719  Іванкавічы / Ivankavičy / Иванковичи / Иванковичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -209,20 +209,20 @@ n242991795  Ямічна / Jamična / Ямично / Ямично
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [52.8813200,25.7437100]
 n242991805  Сваяшкі / Svajaški / Свояшки / Свояшки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Сваяшкі
     geometry : [52.9893800,25.8129800]
 n242991808  Тартакі / Tartaki / Тартаки / Тартаки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Тартакі
     geometry : [53.0237541,25.7297090]
 n242991811  Стрэлава / Strelava / Стрелово / Стрелово
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [52.9257800,25.8426800]
 n242991814  Лясная / Liasnaja / Лесная / Лесная
   other names: name:uk=Лісова
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=ru:Лесная (агрогородок)
     geometry : [52.9833700,25.7678300]
 n242991817  Гута / Huta / Гута / Гута
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Гута (Баранавіцкі раён)
     geometry : [52.9764200,25.8172700]
 n242991823  Каўпакі / Kaŭpaki / Колпаки / Колпаки
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -240,7 +240,7 @@ n242992229  Багушы / Bahušy / Богуши / Богуши
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | addr:subdistrict=Малаховецкий сельский Совет | place=hamlet
     geometry : [52.9912378,25.9615168]
 n242992232  Ястрамбель / Jastrambieĺ / Ястрембель / Ястрембель
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Ястрембель
     geometry : [53.0401000,25.9564000]
 n242992235  Вялікая Валахва / Vialikaja Valachva / Большая Волохва / Большая Волохва
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Великая Волохва | place=hamlet
@@ -252,7 +252,7 @@ n242992242  Емяльянаўка / Jemiaĺjanaŭka / Емельяновка / 
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.0263700,25.9288500]
 n242992245  Лесіна / Liesina / Лесино / Лесино
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Лесіна (Берасьцейская вобласьць)
     geometry : [53.0484300,25.8838800]
 n242992247  Млынок / Mlynok / Млынок / Млынок
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -414,7 +414,7 @@ n242992581  Зорная / Zornaja / Звёздная / Звёздная
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Зорная | place=hamlet
     geometry : [53.1331400,25.9267900]
 n242992584  Новая Мыш / Novaja Myš / Новая Мышь / Новая Мышь
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : [53.1397500,25.9007800]
 n242992590  Кунцавічы / Kuncavičy / Кунцевичи / Кунцевичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -468,19 +468,19 @@ n242992807  Мікулічы / Mikuličy / Микуличи / Микуличи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3834204,25.9392224]
 n242994376  Крыжыкі / Kryžyki / Крыжики / Крыжики
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Крыжыкі
     geometry : [53.0657133,26.0642122]
 n242994390  Новыя Лукі / Novyja Luki / Новые Луки / Новые Луки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Новыя Лукі (Берасьцейская вобласьць)
     geometry : [53.0277400,26.0683300]
 n242994404  Лаўрынавічы / Laŭrynavičy / Лавриновичи / Лавриновичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.1530828,26.1313592]
 n242994415  Русіно / Rusino / Русино / Русино
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
-    geometry : [53.0823301,26.0904699]
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=be-x-old:Русіно
+    geometry : [53.0830582,26.0923572]
 n242994441  Вялікія Лукі / Vialikija Luki / Великие Луки / Великие Луки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Вялікія Лукі (Берасьцейская вобласьць)
     geometry : [53.0121185,26.0427587]
 n242994465  Торчыцы / Torčycy / Торчицы / Торчицы
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -521,7 +521,7 @@ n242994497  Стайкі / Stajki / Стайки / Стайки
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2542500,26.1795600]
 n242994500  Арабаўшчына / Arabaŭščyna / Арабовщина / Арабовщина
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Арабовщина
     geometry : [53.2634300,26.0444600]
 n242994504  Скробава / Skrobava / Скробово / Скробово
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -531,7 +531,7 @@ n242994507  Калдычэва / Kaldyčeva / Колдычево / Колдыч�
     geometry : [53.2796500,26.0563100]
 n242994510  Залессе / Zaliessie / Залесье / Залесье
   other names: name:uk=Залісся
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Залессе, Баранавіцкі раён
     geometry : [53.2845845,26.1678765]
 n242994515  Заброддзе / Zabroddzie / Забродье / Забродье
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -546,19 +546,19 @@ n242994531  Адахаўшчына / Adachaŭščyna / Адаховщина / А
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.1534900,26.1481500]
 n242994534  Грабавец / Hrabaviec / Грабовец / Грабовец
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Грабавец
     geometry : [53.0892000,26.0519300]
 n242994546  Янова / Janova / Яново / Яново
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Янова
     geometry : [53.1112600,26.0709000]
 n242994549  Крошын / Krošyn / Крошин / Крошин
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=ru:Крошин
     geometry : [53.1967237,26.1548913]
 n242994552  Скарчава / Skarčava / Скарчево / Скарчево
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.1962300,26.1052300]
 n242994555  Сталовічы / Stalovičy / Столовичи / Столовичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=ru:Столовичи
     geometry : [53.2140800,26.0367400]
 n242994558  Якімавічы / Jakimavičy / Якимовичи / Якимовичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -582,7 +582,7 @@ n242994603  Рудашы / Rudašy / Рудаши / Рудаши
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3691800,26.1609400]
 n242994605  Мітрапольшчына / Mitrapoĺščyna / Митропольщина / Митропольщина
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Мітрапольшчына
     geometry : [53.3645400,26.1480600]
 n242994614  Пярэвалака / Piarevalaka / Переволока / Переволока
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -594,7 +594,7 @@ n242994620  Вызарак / Vyzarak / Вызорок / Вызорок
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3104700,26.0984500]
 n242994624  Бартнікі / Bartniki / Бартники / Бартники
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Бартнікі
     geometry : [53.3044141,26.1805820]
 n242994627  Завоссе / Zavossie / Заосье / Заосье
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -606,7 +606,7 @@ n242994633  Круглікі / Kruhliki / Круглики / Круглики
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2681600,26.1339000]
 n242994636  Азярэц / Aziarec / Озерец / Озерец
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Азярэц, Баранавіцкі раён
     geometry : [53.2939100,26.1399100]
 n242994639  Міхнаўшчына / Michnaŭščyna / Михновщина / Михновщина
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -615,13 +615,13 @@ n242994642  Грыбаўшчына / Hrybaŭščyna / Грибовщина / Г�
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3139000,26.0384600]
 n242994648  Пянчын / Piančyn / Пенчин / Пенчин
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Пенчин (Брестская область)
     geometry : [53.3313300,26.1352700]
 n242994654  Быткоўшчына / Bytkoŭščyna / Бытковщина / Бытковщина
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3486600,26.1116700]
 n242994660  Карчова / Karčova / Карчёво / Карчёво
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=ru:Карчёво
     geometry : [53.3655700,26.1194800]
 n242995924  Бараціна / Baracina / Баратино / Баратино
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -630,10 +630,10 @@ n242995936  Паланечка / Palaniečka / Полонечка / Полоне
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3515800,26.2629900]
 n242995938  Рэпічы / Repičy / Репичи / Репичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
-    geometry : [53.3511500,26.2857300]
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Рэпічы
+    geometry : [53.3518505,26.2844870]
 n242995944  Шчарбовічы / Ščarbovičy / Щербовичи / Щербовичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Шчарбовічы
     geometry : [53.3308100,26.2559500]
 n242995948  Дудзічы / Dudzičy / Дудичи / Дудичи
   other names: name:pl=Dudzicze
@@ -641,26 +641,26 @@ n242995948  Дудзічы / Dudzičy / Дудичи / Дудичи
     geometry : [53.3079135,26.3548300]
 n242995954  Ішкалдзь / Iškaldź / Ишколдь / Ишколдь
   other names: name:pl=Iszkołdź
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Ишкольдь | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Ишкольдь | place=hamlet | wikipedia=ru:Ишколдь
     geometry : [53.3388800,26.3562900]
 n242995956  Родкавічы / Rodkavičy / Родковичи / Родковичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2807700,26.3399800]
 n242995961  Рабковічы / Rabkovičy / Рабковичи / Рабковичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Рабковічы
     geometry : [53.3089426,26.2565336]
 n242995963  Петкавічы / Pietkavičy / Петковичи / Петковичи
   other names: name:pl=Pietkiewicze
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3156065,26.3569140]
 n242995966  Савічы / Savičy / Савичи / Савичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Савічы, Баранавіцкі раён
     geometry : [53.2808600,26.2848800]
 n242995970  Вольна / Voĺna / Вольно / Вольно
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | wikipedia=be:Аграгарадок Вольна
     geometry : [53.2998300,26.2217100]
 n242995973  Задзвея / Zadzvieja / Задвея / Задвея
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Задзвея
     geometry : [53.3077004,26.2758177]
 n242995976  Нагорнае / Nahornaje / Нагорное / Нагорное
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -669,16 +669,16 @@ n242995979  Ніжняе Чэрніхава / Nižniaje Černichava / Нижне
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2480374,26.2855511]
 n242995982  Галынка / Halynka / Голынка / Голынка
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | addr:subdistrict=Вольновский сельский Совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | addr:subdistrict=Вольновский сельский Совет | place=hamlet | wikipedia=be:Вёска Галынка, Вольнаўскі сельсавет
     geometry : [53.2464643,26.3029776]
 n242995985  Ліхасельцы / Lichasieĺcy / Лихосельцы / Лихосельцы
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2464400,26.3161200]
 n242995991  Чэрніхава / Černichava / Чернихово / Чернихово
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Чэрніхава
     geometry : [53.2452144,26.2450684]
 n242996003  Цішкоўцы / Ciškoŭcy / Тишковцы / Тишковцы
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Цішкоўцы
     geometry : [53.2198300,26.3002400]
 n242996006  Кломпікі / Klompiki / Кломпики / Кломпики
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -690,7 +690,7 @@ n242996018  Юшкавічы / Juškavičy / Юшковичи / Юшковичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.2146000,26.2199000]
 n242996023  Падлясейкі / Padliasiejki / Подлесейки / Подлесейки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Подлесейки
     geometry : [53.1788900,26.2566400]
 n242996029  Залюбічы / Zaliubičy / Залюбичи / Залюбичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -701,15 +701,15 @@ n242996032  Ятвезь / Jatvieź / Ятвезь / Ятвезь
 n1639707419  Савецкі / Saviecki / Советский / Советский
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3415832,26.1052760]
-n1698681103  null / null / Малые Луки / Малые Луки
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+n1698681103  Малыя Лукі / null / Малые Луки / Малые Луки
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be:Вёска Малыя Лукі
     geometry : [53.0193077,26.0454675]
 n2095559399  Жамчужны / Žamčužny / Жемчужный / Жемчужный
   other names: name:by=Жэмчужны
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : [53.1353340,25.8760374]
 n2796560834  Брыксічы / Bryksičy / Бриксичи / Бриксичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Брыксичи | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Брыксичи | place=hamlet | wikipedia=ru:Бриксичи
     geometry : [53.3343794,26.0162482]
 n2796924912  Насейкі / Nasiejki / Насейки / Насейки
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -718,7 +718,7 @@ n2797386760  Пруды / Prudy / Пруды / Пруды
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3564890,26.0646253]
 n2798103372  Кабушкіна / Kabuškina / Кабушкина / Кабушкина
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Кабушкино | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Кабушкино | place=hamlet | wikipedia=be-x-old:Кабушкіна
     geometry : [53.0449883,26.0743546]
 n2798111738  Капані / Kapani / Копани / Копани
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -727,7 +727,7 @@ n2798146392  Алізараўшчына / Alizaraŭščyna / Олизаровщ�
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : [53.3558540,26.0879744]
 n2798181010  Верхняе Чэрніхава / Vierchniaje Černichava / Верхнее Чернихово / Верхнее Чернихово
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Верхняе Чэрніхава
     geometry : [53.2465092,26.2323665]
 n2798232546  Замошша / Zamošša / Замошье / Замошье
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -933,7 +933,7 @@ w25137387  Прыдаткі / Prydatki / Придатки / Придатки
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : n273914093[53.2086355,26.1749743] n273914094[53.2086247,26.1777941] n273914095[53.2136500,26.1791300] n273914096[53.2159700,26.1816200] n273914097[53.2203500,26.1815400] n273914098[53.2203500,26.1723500] n273914101[53.2179400,26.1724400] n273914102[53.2179400,26.1690900] n273914105[53.2159700,26.1691800] n273914106[53.2160780,26.1752633] n273914110[53.2129096,26.1749325] n273914111[53.2124772,26.1721733] n273914113[53.2112680,26.1722031] n273914114[53.2111779,26.1749325] n273914093[53.2086355,26.1749743]
 w25137390  Крошын / Krošyn / Крошин / Крошин
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : n273914149[53.1998400,26.1421400] n273914150[53.1966600,26.1420500] n273914151[53.1917248,26.1435872] n273914153[53.1887391,26.1665912] n273914154[53.1921447,26.1701494] n273914156[53.1956344,26.1680135] n1271232380[53.2004800,26.1637700] n1271232660[53.2004800,26.1633400] n1271232454[53.2008200,26.1627400] n1271232575[53.2005515,26.1608674] n1271232359[53.2003900,26.1576800] n1271232563[53.2010105,26.1546338] n1271232402[53.2018145,26.1517834] n1271232507[53.2014472,26.1505632] n1271232342[53.2012145,26.1501534] n273914177[53.2009700,26.1484779] n273914178[53.2001800,26.1464300] n273914181[53.1998400,26.1458300] n273914149[53.1998400,26.1421400]
 w25137393  Скарчава / Skarčava / Скарчево / Скарчево
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -964,7 +964,7 @@ w25137434  Грабавец / Hrabaviec / Грабовец / Грабовец
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : n273915096[53.0856800,26.0386863] n273915098[53.0846366,26.0396124] n273915101[53.0843499,26.0420320] n273915102[53.0850800,26.0436900] n273915105[53.0888500,26.0546800] n273915108[53.0901063,26.0651500] n273915110[53.0917470,26.0643671] n273915111[53.0912600,26.0576800] n273915127[53.0912600,26.0554500] n273915129[53.0917700,26.0539900] n273915131[53.0908476,26.0481710] n273915132[53.0867900,26.0394900] n273915096[53.0856800,26.0386863]
 w25137439  Русіно / Rusino / Русино / Русино
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : n273915158[53.0756822,26.0840756] n273915161[53.0752693,26.0833261] n273915162[53.0741686,26.0851729] n273915165[53.0750300,26.0882400] n273915167[53.0768992,26.0910151] n273915169[53.0788468,26.1037584] n273915172[53.0796700,26.1036000] n273915173[53.0803472,26.1070860] n273915186[53.0811947,26.1058412] n273915188[53.0849900,26.0972500] n273915190[53.0871400,26.0922700] n273915195[53.0883015,26.0897006] n2107126874[53.0898119,26.0871038] n273915201[53.0947107,26.0789389] n273915204[53.0938389,26.0739958] n273915206[53.0899700,26.0784500] n273915209[53.0869122,26.0806196] n273915212[53.0844002,26.0820610] n273915214[53.0846956,26.0862061] n273915218[53.0805733,26.0898554] n273915221[53.0790700,26.0887500] n273915223[53.0764100,26.0840300] n273915158[53.0756822,26.0840756]
 w25137474  Крыжыкі / Kryžyki / Крыжики / Крыжики
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -1090,8 +1090,8 @@ w25138593  Вялікія Гацішча / Hacišča / Большие Гатищ
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:be=Гацішча | alt_name:ru=Гатище | place=hamlet
     geometry : n273935226[53.2450021,26.0140305] n273935229[53.2436371,26.0158758] n273935231[53.2439735,26.0187844] n273935233[53.2487600,26.0170800] n273935235[53.2488400,26.0139900] n273935237[53.2481600,26.0141700] n273935239[53.2465103,26.0135221] n273935257[53.2461764,26.0129065] n273935226[53.2450021,26.0140305]
 w25138595  Сталовічы / Stalovičy / Столовичи / Столовичи
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
-    geometry : n273935265[53.2117835,26.0268952] n273935266[53.2095389,26.0270727] n273935278[53.2041473,26.0276256] n273935279[53.2041600,26.0280766] n273935281[53.2040288,26.0330757] n3207149138[53.2036434,26.0331560] n273935283[53.2036199,26.0348554] n273935284[53.2091900,26.0412000] n273935287[53.2121100,26.0420600] n273935288[53.2126200,26.0420600] n273935289[53.2127100,26.0462700] n273935292[53.2146800,26.0463500] n2095401872[53.2155769,26.0457796] n2095401895[53.2159096,26.0460780] n2095401915[53.2165269,26.0463796] n273935298[53.2165982,26.0461219] n273935300[53.2166826,26.0424814] n273935302[53.2184600,26.0442900] n273935304[53.2212900,26.0437800] n273935305[53.2212900,26.0389700] n273935307[53.2205200,26.0364800] n273935309[53.2171932,26.0370899] n273935310[53.2171707,26.0353265] n273935312[53.2163641,26.0346416] n273935314[53.2170900,26.0295300] n273935315[53.2159232,26.0265726] n273935265[53.2117835,26.0268952]
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
+    geometry : n273935265[53.2117705,26.0276788] n273935266[53.2095128,26.0280304] n273935278[53.2041473,26.0276256] n273935279[53.2041600,26.0280766] n273935281[53.2040288,26.0330757] n3207149138[53.2036434,26.0331560] n273935283[53.2036199,26.0348554] n273935284[53.2091900,26.0412000] n273935287[53.2121100,26.0420600] n273935288[53.2126200,26.0420600] n273935289[53.2127100,26.0462700] n273935292[53.2146800,26.0463500] n2095401872[53.2155769,26.0457796] n2095401895[53.2159096,26.0460780] n2095401915[53.2165269,26.0463796] n273935298[53.2165982,26.0461219] n273935300[53.2166826,26.0424814] n273935302[53.2184600,26.0442900] n273935304[53.2212900,26.0437800] n273935305[53.2212900,26.0389700] n273935307[53.2205200,26.0364800] n273935309[53.2172062,26.0374164] n273935310[53.2171707,26.0353265] n273935312[53.2163641,26.0346416] n273935314[53.2170900,26.0295300] n273935315[53.2160796,26.0275738] n273935265[53.2117705,26.0276788]
 w25138596  Малая Каўпеніца / Malaja Kaŭpienica / Малая Колпеница / Малая Колпеница
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : n273935322[53.1748046,26.0148751] n273935326[53.1746000,26.0139900] n273935328[53.1736600,26.0112500] n273935330[53.1718805,26.0119618] n273935331[53.1722800,26.0195700] n273935333[53.1720300,26.0263500] n273935335[53.1722800,26.0272100] n273935336[53.1729700,26.0333900] n273935338[53.1728810,26.0338618] n273935339[53.1734740,26.0369986] n273935342[53.1740000,26.0370800] n273935343[53.1742500,26.0395700] n273935344[53.1751200,26.0421356] n273935347[53.1764900,26.0438600] n273935348[53.1778600,26.0430100] n273935349[53.1782079,26.0403234] n273935352[53.1783315,26.0393163] n273935353[53.1788997,26.0373224] n273935354[53.1788900,26.0344200] n273935357[53.1782900,26.0313300] n273935358[53.1779074,26.0287186] n273935361[53.1780465,26.0275143] n273935363[53.1770056,26.0185576] n273935364[53.1767780,26.0165162] n273935322[53.1748046,26.0148751]
@@ -1159,7 +1159,7 @@ w25138672  Зорная / Zornaja / Звёздная / Звёздная
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | alt_name:ru=Зорная | landuse=residential | place=hamlet
     geometry : n273936484[53.1225301,25.9244208] n273936486[53.1286229,25.9229300] n273936488[53.1313400,25.9282500] n273936489[53.1311276,25.9440942] n273936491[53.1348780,25.9445771] n273936493[53.1347700,25.9362300] n273936494[53.1352000,25.9312500] n273936495[53.1341700,25.9293700] n273936498[53.1354600,25.9272200] n273936499[53.1341700,25.9245600] n273936501[53.1341700,25.9219000] n273936503[53.1341404,25.9208082] n273936504[53.1334610,25.9189747] n2099394626[53.1323726,25.9170440] n2099394617[53.1317043,25.9179986] n2099394620[53.1318862,25.9192630] n273936506[53.1310800,25.9198400] n2099433188[53.1274634,25.9110477] n2099433055[53.1225679,25.9048992] n2099432937[53.1187632,25.9027221] n2099432912[53.1177149,25.9079791] n2099432949[53.1190524,25.9150019] n2099432889[53.1169984,25.9200395] n2099432913[53.1177868,25.9217656] n2099432973[53.1199118,25.9184163] n273936484[53.1225301,25.9244208]
 w25138673  Новая Мыш / Novaja Myš / Новая Мышь / Новая Мышь
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | landuse=residential | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | landuse=residential | place=village
     geometry : n273936509[53.1472200,25.8992400] n273936510[53.1458500,25.8946900] n273936512[53.1452292,25.8916982] n273936515[53.1425000,25.8913400] n273936517[53.1416743,25.8884278] n273936519[53.1402871,25.8848605] n2496657890[53.1363229,25.8841727] n273936524[53.1356969,25.8851201] n2496657876[53.1309788,25.8860813] n2496657877[53.1312784,25.8907384] n273936525[53.1342889,25.8898843] n273936527[53.1353963,25.8907102] n1277357667[53.1366433,25.8927392] n1277357592[53.1377230,25.8940146] n1277357551[53.1385691,25.8949371] n1277357701[53.1386111,25.8966635] n1277357612[53.1383014,25.8978448] n1277357841[53.1377953,25.8998031] n1277357778[53.1368755,25.9031920] n1277357488[53.1364720,25.9069513] n1277357919[53.1360391,25.9094244] n1277357694[53.1351290,25.9148370] n1277357838[53.1350526,25.9159246] n1277357586[53.1359218,25.9170977] n1277357484[53.1372858,25.9154157] n1277357742[53.1390604,25.9148855] n2496657969[53.1410331,25.9138702] n273936563[53.1418100,25.9128900] n273936565[53.1431000,25.9098800] n273936566[53.1443423,25.9039396] n273936570[53.1512977,25.9062511] n273936572[53.1515638,25.9026769] n273936509[53.1472200,25.8992400]
 w25138674  Глінішча / Hlinišča / Глинище / Глинище
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -1367,7 +1367,7 @@ w25139528  Сваяшкі / Svajaški / Свояшки / Свояшки
     geometry : n273950942[52.9900478,25.8189027] n273950944[52.9909200,25.8182200] n273950945[52.9921405,25.8146472] n273950946[52.9905800,25.8104900] n273950951[52.9886000,25.8066300] n273950953[52.9876835,25.8098112] n273950955[52.9890350,25.8175956] n273950942[52.9900478,25.8189027]
 w25139529  Лясная / Liasnaja / Лесная / Лесная
   other names: name:uk=Лісова
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : n273950959[52.9739300,25.7610500] n890100250[52.9736410,25.7618950] n890100804[52.9739990,25.7623781] n273950961[52.9731796,25.7643366] n273950963[52.9746199,25.7660537] n273950964[52.9760052,25.7674747] n273950969[52.9760700,25.7687800] n1823234448[52.9756392,25.7709819] n1823234452[52.9761741,25.7729088] n273950971[52.9777229,25.7715091] n890100637[52.9795479,25.7737486] n890100206[52.9815167,25.7750120] n273950973[52.9833943,25.7760443] n273950975[52.9839623,25.7739359] n273950977[52.9848201,25.7720903] n273950978[52.9931340,25.7810171] n273950979[52.9949194,25.7828115] n3277531526[52.9956576,25.7816406] n273950980[52.9961107,25.7804478] n273950982[52.9904285,25.7757693] n890101259[52.9915788,25.7711553] n890100601[52.9944524,25.7733048] n273950983[52.9941762,25.7702728] n273950984[52.9939889,25.7666490] n273950986[52.9939888,25.7655248] n1823208282[52.9947520,25.7653037] n1823208280[52.9945095,25.7632982] n273950987[52.9938622,25.7629933] n1823208275[52.9934733,25.7619613] n1823208272[52.9924316,25.7621078] n273950988[52.9916858,25.7632833] n1823208269[52.9913126,25.7644063] n890100689[52.9907250,25.7635400] n273950990[52.9886188,25.7613273] n890100280[52.9863973,25.7577279] n890100831[52.9851097,25.7604526] n273950991[52.9842688,25.7595605] n890100556[52.9833004,25.7567496] n890100732[52.9822385,25.7574952] n890101205[52.9820794,25.7584828] n273950992[52.9781891,25.7574874] n273950994[52.9780500,25.7567492] n273950995[52.9763489,25.7567557] n890100652[52.9763708,25.7576590] n273950997[52.9753445,25.7572326] n273950959[52.9739300,25.7610500]
 w25139530  Стрэлава / Strelava / Стрелово / Стрелово
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -1424,7 +1424,7 @@ w25140010  Яжона / Jažona / Ежона / Ежона
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
     geometry : n273959748[53.0015641,25.6268547] n273959749[53.0007990,25.6275163] n2295765071[53.0001700,25.6282208] n2295765034[52.9992312,25.6286607] n2295765005[52.9977233,25.6290114] n273959751[52.9966727,25.6292781] n2295764973[52.9961245,25.6292877] n2295764956[52.9951844,25.6296490] n2295764946[52.9948071,25.6295108] n2295764932[52.9943338,25.6295214] n273959756[52.9934213,25.6297788] n2295764917[52.9927285,25.6295640] n2295764912[52.9922936,25.6290114] n2295764909[52.9919866,25.6286714] n2295764910[52.9920889,25.6266525] n2295764913[52.9923767,25.6249524] n2295764911[52.9921848,25.6238155] n2295764908[52.9910080,25.6240811] n273959758[52.9906211,25.6224063] n2295764907[52.9907777,25.6221685] n2295764904[52.9905859,25.6211378] n273959759[52.9894871,25.6217592] n2295764896[52.9893450,25.6210209] n2295764891[52.9884047,25.6216903] n2295764894[52.9885710,25.6238367] n2295764889[52.9874069,25.6245380] n2295764886[52.9867288,25.6230610] n2295764883[52.9860508,25.6225935] n2295764882[52.9857565,25.6228060] n273959762[52.9868157,25.6261385] n273959763[52.9879941,25.6301331] n2295764897[52.9893450,25.6344730] n2295764898[52.9894601,25.6366513] n2295764892[52.9884175,25.6374270] n273959764[52.9897231,25.6423670] n2295764903[52.9903508,25.6416171] n2299931367[52.9902827,25.6404753] n273959767[52.9900924,25.6385169] n2295764901[52.9900719,25.6373429] n2299931359[52.9902284,25.6368891] n2299931397[52.9904942,25.6366548] n2295764905[52.9909174,25.6365503] n2299931474[52.9913186,25.6366819] n2299931518[52.9919315,25.6368531] n2295764914[52.9926409,25.6371481] n2299931565[52.9933145,25.6373937] n274446258[52.9937453,25.6376082] n2295764936[52.9941559,25.6379731] n2299931629[52.9947254,25.6383439] n2295764960[52.9956047,25.6387974] n2295764966[52.9958457,25.6391059] n1823245639[52.9960138,25.6389400] n2295764968[52.9959090,25.6383770] n2295764979[52.9964245,25.6376257] n2295764986[52.9966145,25.6375205] n1823245638[52.9966288,25.6349452] n2295764980[52.9964833,25.6347029] n2295764964[52.9957281,25.6351913] n2295764953[52.9951357,25.6353566] n1823245637[52.9948104,25.6353807] n2295764942[52.9946880,25.6349584] n2295764938[52.9945659,25.6342897] n2295764934[52.9945026,25.6337713] n273959771[52.9945098,25.6331539] n2295764950[52.9949729,25.6331477] n2295764962[52.9955608,25.6330124] n2295764971[52.9961170,25.6328847] n724354431[52.9964045,25.6328495] n724354269[52.9965844,25.6326197] n724354469[52.9969936,25.6326580] n2295764997[52.9972159,25.6327720] n2295765008[52.9978445,25.6325841] n724354377[52.9984131,25.6322945] n724354289[52.9986986,25.6322417] n2295765033[52.9991829,25.6318628] n273959780[52.9999585,25.6313875] n273959782[53.0017951,25.6303709] n2295765129[53.0023164,25.6300596] n2295765135[53.0025335,25.6295487] n2295765137[53.0025742,25.6287523] n2295765124[53.0022305,25.6262953] n273959748[53.0015641,25.6268547]
 w25140013  Падгорная / Padhornaja / Подгорная / Подгорная
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village
     geometry : n273959798[52.9838900,25.5441600] n273959799[52.9820800,25.5451000] n273959802[52.9814800,25.5463000] n273959806[52.9813900,25.5530000] n273959808[52.9822500,25.5605500] n273959810[52.9834500,25.5627800] n273959812[52.9845700,25.5652700] n273959813[52.9850000,25.5681000] n2299931098[52.9858759,25.5754876] n273959815[52.9864351,25.5830028] n2299931170[52.9865431,25.5845792] n273959817[52.9862049,25.5872615] n2299931051[52.9855233,25.5931302] n2299931005[52.9851165,25.5962568] n273959818[52.9847187,25.5969706] n273959821[52.9837267,25.5989328] n273959822[52.9820004,25.6021616] n2299930591[52.9816284,25.6049430] n273959823[52.9813136,25.6074935] n2299930790[52.9829575,25.6075921] n2299930867[52.9833806,25.6076641] n273959826[52.9833672,25.6069495] n2299930946[52.9846605,25.6070057] n2299930973[52.9848830,25.6065087] n273959827[52.9852129,25.6062710] n273959830[52.9852825,25.6047316] n2299931031[52.9853443,25.6011045] n2299931160[52.9863858,25.6003656] n2299931260[52.9879805,25.6004738] n273959831[52.9879204,25.6016958] n273959832[52.9891020,25.6016366] n2299931308[52.9892823,25.5953558] n273959835[52.9902117,25.5952637] n2299931353[52.9901827,25.5940583] n2299931434[52.9907142,25.5929770] n273959836[52.9909264,25.5912627] n273959838[52.9913027,25.5878454] n273959840[52.9909917,25.5782843] n273959841[52.9901500,25.5752300] n273959843[52.9896300,25.5666500] n273959845[52.9874000,25.5596900] n273959847[52.9866300,25.5600400] n273959848[52.9844800,25.5535100] n273959850[52.9842300,25.5514500] n273959852[52.9838000,25.5512800] n273959854[52.9838000,25.5499900] n273959857[52.9845700,25.5498200] n273959858[52.9859500,25.5499100] n273959861[52.9862900,25.5491400] n273959862[52.9866300,25.5458700] n273959863[52.9851700,25.5456200] n273959798[52.9838900,25.5441600]
 w25140017  Колбавічы / Kolbavičy / Колбовичи / Колбовичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet
@@ -1496,14 +1496,14 @@ r4718427  null / null / Малые Луки / Малые Луки
     geometry : <outer> w25137465: n273915595[53.0268800,26.0506400] n273915596[53.0269700,26.0516700] n273915599[53.0290300,26.0507300] n273915600[53.0292000,26.0515000] n273915601[53.0306600,26.0509900] n273915604[53.0304900,26.0491900] n273915605[53.0298900,26.0493600] n273915606[53.0294600,26.0473000] n273915609[53.0265400,26.0485800] n273915595[53.0268800,26.0506400] : w25137465
     geometry : <outer> w25137471: n273915634[53.0331500,26.0551100] n273915637[53.0318600,26.0522800] n273915638[53.0292900,26.0551900] n273915640[53.0306600,26.0584600] n273915642[53.0334100,26.0555400] n273915634[53.0331500,26.0551100] : w25137471
     geometry : <> w25138686: n273936809[53.0292000,26.0319300] n273936812[53.0294600,26.0327900] n273936813[53.0316100,26.0305600] n273936815[53.0304000,26.0277300] n273936817[53.0284300,26.0298700] n273936809[53.0292000,26.0319300] : w25138686
-    geometry : <label> n1698681103[53.0193077,26.0454675] : n1698681103  null / null / Малые Луки / Малые Луки
+    geometry : <label> n1698681103[53.0193077,26.0454675] : n1698681103  Малыя Лукі / null / Малые Луки / Малые Луки
 r4718428  Малыя Пурневічы / Malyja Purnievičy / Малые Пурневичи / Малые Пурневичи
   other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | type=multipolygon
     geometry : <outer> w25138508: n273934013[53.3916700,25.8631900] n273934015[53.3904600,25.8661900] n273934016[53.3922600,25.8681700] n273934018[53.3932100,25.8658500] n273934020[53.3942400,25.8667100] n273934021[53.3952700,25.8637100] n273934023[53.3939000,25.8625000] n273934025[53.3930400,25.8644800] n273934013[53.3916700,25.8631900] : w25138508
     geometry : <outer> w25138536: n273934326[53.3921000,25.8711700] n273934328[53.3895200,25.8686800] n273934329[53.3868600,25.8777800] n273934331[53.3860000,25.8823300] n273934333[53.3885800,25.8846500] n273934335[53.3898600,25.8809600] n273934336[53.3902000,25.8783800] n273934326[53.3921000,25.8711700] : w25138536
     geometry : <label> n242992423[53.3890100,25.8774400] : n242992423  Малыя Пурневічы / Malyja Purnievičy / Малые Пурневичи / Малые Пурневичи
 r4718432  Моўчадзь / Moŭčadź / Молчадь / Молчадь
-  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=hamlet | type=multipolygon
+  other tags : addr:country=BY | addr:district=Барановичский район | addr:region=Брестская область | place=village | type=multipolygon
     geometry : <outer> w25139466: n273949737[53.3125300,25.7177900] n273949739[53.3113647,25.7206021] n273949740[53.3105665,25.7246257] n273949741[53.3117325,25.7255075] n273949743[53.3127234,25.7224377] n273949744[53.3136400,25.7190800] n273949737[53.3125300,25.7177900] : w25139466
     geometry : <outer> w25139969: n273959012[53.3173400,25.6753100] n273959013[53.3149300,25.6759900] n273959015[53.3150200,25.6790000] n273959017[53.3141600,25.6813200] n273959018[53.3142500,25.6835500] n273959020[53.3145900,25.6854400] n273959021[53.3149300,25.6866400] n273959024[53.3135600,25.6887800] n273959025[53.3106647,25.6875957] n3277997374[53.3056636,25.6826901] n3277997369[53.3051813,25.6860738] n273959026[53.3110700,25.6927300] n273959029[53.3122700,25.6943600] n273959030[53.3126100,25.6973700] n273959031[53.3103000,25.6954800] n273959034[53.3081500,25.6955600] n273959035[53.3077200,25.6999400] n273959037[53.3084100,25.7006300] n273959039[53.3097000,25.7014900] n273959040[53.3080700,25.7095500] n273959042[53.3070627,25.7133810] n273959044[53.3085842,25.7141565] n273959045[53.3124500,25.7138500] n273959047[53.3137300,25.7128200] n273959051[53.3148843,25.7115463] n273959054[53.3157471,25.7079729] n1374172933[53.3178221,25.7062347] n1374172932[53.3175621,25.7035747] n273959059[53.3168200,25.7032000] n273959061[53.3142500,25.7016600] n273959063[53.3142500,25.7000300] n273959064[53.3151900,25.6980500] n273959066[53.3168200,25.6963400] n273959068[53.3180899,25.6961542] n1374172935[53.3190306,25.6950554] n274445525[53.3196047,25.6918953] n273959073[53.3171716,25.6884180] n273959076[53.3182680,25.6829059] n273959077[53.3193100,25.6805400] n273959079[53.3189700,25.6759100] n273959012[53.3173400,25.6753100] : w25139969
     geometry : <label> n242991716[53.3145100,25.6953900] : n242991716  Моўчадзь / Moŭčadź / Молчадь / Молчадь
