@@ -1079,9 +1079,9 @@ n3073623441  Аптэка / Apteka / Аптека / Аптека
 n3074076656  null / null / АБФармация №14 / АБФармация №14
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Su 09:00-21:00 | operator=ИООО АБФармация
     geometry : [53.9087069,27.4737589]
-n3078014801
-  other tags : amenity=pharmacy
-    geometry : [53.9284013,27.6546778]
+n3078014801  Аптэка 15 / null / Аптека 15 / Аптека 15
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 12:00-20:00; Sa-Su 10:00-18:00; Su[1] off | operator:be=ТАА "Інтэрафіцына плюс" | operator:ru=ОАО "Интерофицина плюс" | pharmacy:category=5 | ref=15
+    geometry : [53.9283923,27.6547015]
 n3080085235  null / null / АктивМед ООО Аптека №3 / АктивМед ООО Аптека №3
   other tags : addr:housenumber=11Д | addr:street=Высокая улица | amenity=pharmacy | opening_hours=09:00-20:00 | phone=+37517 3851931
     geometry : [53.9147696,27.6762583]
