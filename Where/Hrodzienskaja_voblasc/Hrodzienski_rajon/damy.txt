@@ -13049,13 +13049,13 @@ w304089411
   other tags : addr:housenumber=12 | addr:street=Первомайская улица | building=residential
     geometry : n3086075826[53.7034761,23.9876397] n3086075822[53.7034245,23.9877833] n3086075827[53.7034854,23.9878457] n3086075829[53.7035013,23.9878015] n3086075831[53.7035216,23.9878223] n3086075834[53.7035573,23.9877229] n3086075826[53.7034761,23.9876397]
 w304089412
-  other tags : addr:housenumber=13 | addr:street=Первомайская улица | building=residential
+  other tags : addr:housenumber=13 | addr:street=Первомайская улица | building=residential | building:levels=1
     geometry : n3086075809[53.7032833,23.9874175] n3086075805[53.7032241,23.9873586] n3086075803[53.7031730,23.9875050] n3086075807[53.7032322,23.9875639] n3086075809[53.7032833,23.9874175]
 w304089413
   other tags : addr:housenumber=1 | addr:street=Первомайская улица | building=residential
     geometry : n3086075733[53.7022796,23.9898211] n3086075729[53.7021922,23.9900614] n3086075734[53.7022817,23.9901542] n3086075738[53.7023691,23.9899139] n3086075733[53.7022796,23.9898211]
 w304089414
-  other tags : addr:housenumber=1 | addr:street=Октябрьская улица | building=residential
+  other tags : addr:housenumber=1 | addr:street=Октябрьская улица | building=residential | building:levels=1
     geometry : n3086075715[53.7014221,23.9897427] n3086075714[53.7013648,23.9899018] n3086075716[53.7014697,23.9900097] n3086075717[53.7015271,23.9898506] n3086075715[53.7014221,23.9897427]
 w304089415
   other tags : addr:housenumber=1 | addr:street=Парковая улица | building=residential
@@ -13097,7 +13097,7 @@ w304089427
   other tags : addr:housenumber=70А | addr:street=улица Ольшанова | building=residential
     geometry : n3086075844[53.7089307,23.9357446] n3086075845[53.7089665,23.9359978] n3086075843[53.7089030,23.9360234] n3086075842[53.7088672,23.9357702] n3086075844[53.7089307,23.9357446]
 w304089428
-  other tags : addr:housenumber=7 | addr:street=Октябрьская улица | building=residential
+  other tags : addr:housenumber=7 | addr:street=Октябрьская улица | building=residential | building:levels=2
     geometry : n3086075737[53.7023591,23.9906827] n3086075732[53.7022782,23.9908866] n3086075740[53.7024214,23.9910488] n3086075747[53.7025024,23.9908448] n3086075737[53.7023591,23.9906827]
 w304089429
   other tags : addr:housenumber=7 | addr:street=Первомайская улица | building=residential
@@ -13106,7 +13106,7 @@ w304089430
   other tags : addr:housenumber=8 | addr:street=Первомайская улица | building=residential
     geometry : n3086075804[53.7031896,23.9884277] n3086075798[53.7031326,23.9885980] n3086075806[53.7032312,23.9886920] n3086075810[53.7032881,23.9885217] n3086075804[53.7031896,23.9884277]
 w304089431
-  other tags : addr:housenumber=9 | addr:street=Октябрьская улица | building=residential
+  other tags : addr:housenumber=9 | addr:street=Октябрьская улица | building=residential | building:levels=2
     geometry : n3086075769[53.7027895,23.9911807] n3086075763[53.7027103,23.9913878] n3086075771[53.7028588,23.9915500] n3086075777[53.7029381,23.9913428] n3086075769[53.7027895,23.9911807]
 w304089432
   other tags : addr:housenumber=9 | addr:street=Первомайская улица | building=residential
