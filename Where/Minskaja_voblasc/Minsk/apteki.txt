@@ -852,7 +852,7 @@ n1936471306
   other tags : amenity=pharmacy
     geometry : [53.9469996,27.6890858]
 n1960314920  Аптэка №10 / null / Аптека №10 / Аптека №10
-  other tags : amenity=pharmacy | contact:phone=+375172371573 | contact:website=http://www.radiks.by/ | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Su 09:00-22:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | ref=10
+  other tags : amenity=pharmacy | contact:phone=+375172371573 | contact:website=http://www.radiks.by/ | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Su 09:00-22:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | pharmacy:category=5 | ref=10
     geometry : [53.9386842,27.6861795]
 n1960318144
   other tags : amenity=pharmacy
@@ -972,7 +972,7 @@ n2620156163  Доктар Вет / Doktar Viet / Доктор Вет / Докт�
   other tags : addr:housename=Ветеринарная аптека | amenity=pharmacy
     geometry : [53.9475033,27.6787657]
 n2620157830  Аптэка №20 / null / Аптека №20 / Аптека №20
-  other tags : amenity=pharmacy | description:be=5-й катэгорыі | description:ru=5-й категории | opening_hours=Mo-Su 09:00-23:00; Tu[2] off | operator:be=ТАА "Сетка Аптэк" | operator:ru=ООО "Сеть Аптек" | ref=20
+  other tags : amenity=pharmacy | description:be=5-й катэгорыі | description:ru=5-й категории | opening_hours=Mo-Su 09:00-23:00; Tu[2] off | operator:be=ТАА "Сетка Аптэк" | operator:ru=ООО "Сеть Аптек" | pharmacy:category=5 | ref=20
     geometry : [53.9476126,27.6786380]
 n2621397212  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
@@ -1229,8 +1229,8 @@ n3094084115  null / null / Белфармация А РУП Аптека №34 /
 n3095407729  null / null / Зеленая аптека №1 / Зеленая аптека №1
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:30-19:30 | operator=УП Ирина-Фарм | phone=+375 17 297 50 05 | website=http://www.fito.by
     geometry : [53.8860760,27.4350890]
-n3095407730  null / null / Аптека N6 (филиал 2) / Аптека N6 (филиал 2)
-  other tags : amenity=pharmacy | description=3й этаж | opening_hours=Mo-Fr 08:00-20:00 | operator=Белфармация | phone=+375 17 3130516
+n3095407730  Аптэка N6 (філіял 2) / null / Аптека N6 (филиал 2) / Аптека N6 (филиал 2)
+  other tags : amenity=pharmacy | contact:phone=+375 17 3130516 | description=3й этаж | opening_hours=Mo-Fr 08:00-20:00 | operator=Белфармация
     geometry : [53.8859071,27.4347894]
 n3095533807  null / null / Белфармация А РУП Аптека №37 / Белфармация А РУП Аптека №37
   other tags : addr:city=Минск | addr:housenumber=45 к4 | addr:street=улица Сурганова | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2900876
@@ -1247,7 +1247,7 @@ n3098540638
 n3098540643
   other tags : amenity=pharmacy
     geometry : [53.8494079,27.4573273]
-n3123719230  null / null / Доктор время / Доктор время
+n3123719230  Доктар час / null / Доктор время / Доктор время
   other tags : amenity=pharmacy | description=Нижний этаж | opening_hours=Mo-Fr 09:00-22:00
     geometry : [53.9083700,27.4705510]
 n3142403329  null / null / Белфармацыя / Белфармацыя
@@ -1360,7 +1360,7 @@ n3268800463  Ветэрынарная Аптэка / null / Ветеринарн
   other tags : amenity=pharmacy | description:be=тавары для жывёл | description:ru=товары для животных
     geometry : [53.9468634,27.6892284]
 n3268865260  Аптэка / Apteka / Аптека / Аптека
-  other tags : amenity=pharmacy | description:be=2-ой катэгорыі | description:ru=2-ой категории | opening_hours=Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 11:00-18:00; Mo[1] off | operator:be=СТАА "Медінтэр" | operator:ru=СООО "Мединтер"
+  other tags : amenity=pharmacy | description:be=2-ой катэгорыі | description:ru=2-ой категории | opening_hours=Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 11:00-18:00; Mo[1] off | operator:be=СТАА "Медінтэр" | operator:ru=СООО "Мединтер" | pharmacy:category=2
     geometry : [53.9440913,27.6867791]
 n3269290661  null / null / Apotheke / Apotheke
   other tags : amenity=pharmacy
@@ -1387,13 +1387,13 @@ n3295170863
   other tags : amenity=pharmacy
     geometry : [53.8756087,27.5980496]
 n3351855379  Аптэка №4 / null / Аптека №4 / Аптека №4
-  other tags : amenity=pharmacy | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Sa 09:00-21:00; Su 10:00-20:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | ref=4
+  other tags : amenity=pharmacy | description:be=5-ай катэгорыі | description:ru=5-ой категории | opening_hours=Mo-Sa 09:00-21:00; Su 10:00-20:00 | operator:be=ТАА "Радзікс-С" | operator:ru=ООО "Радикс-С" | pharmacy:category=5 | ref=4
     geometry : [53.9425507,27.6858800]
 n3351872182  null / null / Аптека №7
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:30-20:30; Sa 09:00-20:00; Su 10:00-18:00 | operator=Медвай УП | phone=+375172235942
     geometry : [53.8830195,27.5674151]
 n3379263965  Аптэка №16 / null / Аптека №16 / Аптека №16
-  other tags : amenity=pharmacy | description:be=5-й катэгорыі | description:ru=5-й категории | layer=-1 | opening_hours=Mo-Fr 08:00-22:00; Sa-Su 10:00-18:00; Su[1] off | operator:be=ТАА "Фарммаркет плюс" | operator:ru=ООО "Фарммаркет плюс" | ref=16
+  other tags : amenity=pharmacy | description:be=5-й катэгорыі | description:ru=5-й категории | layer=-1 | opening_hours=Mo-Fr 08:00-22:00; Sa-Su 10:00-18:00; Su[1] off | operator:be=ТАА "Фарммаркет плюс" | operator:ru=ООО "Фарммаркет плюс" | pharmacy:category=5 | ref=16
     geometry : [53.9448154,27.6872445]
 n3400540137  null / null / Доктор Вет
   other tags : amenity=pharmacy

@@ -5,7 +5,7 @@ n332737580  Аптэка №31 / Apteka №31 / Аптека №31 / Аптек�
   other tags : amenity=pharmacy | dispensing=no | operator=РУП "Фармация" | phone=+375-212-471373 | website=http://www.pharmacia.by/
     geometry : [55.1845400,30.2299943]
 n349060746  Аптэка №5 Айбаліт / Apteka №5 Ajbalit / Аптека №5 "Айболит" / Аптека №5 "Айболит"
-  other tags : amenity=pharmacy | description=Пятая категория | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00 | operator=ЧТУП «Тэрралек»
+  other tags : amenity=pharmacy | description=Пятая категория | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00 | operator=ЧТУП «Тэрралек» | pharmacy:category=5
     geometry : [55.1817573,30.2023767]
 n442966960  Аптэка ВДМУ / Apteka VDMU / Аптека ВГМУ / Аптека ВГМУ
   other tags : amenity=pharmacy | opening_hours=Mo-Su 9:00-21:00
@@ -30,7 +30,7 @@ n726769542  Аптэка №5 Інтэрфарм / Apteka №5 Interfarm / Ап�
   other tags : amenity=pharmacy | opening_hours=Mo-Sa 08:00-22:00; Su 08:00-21:00 | operator=ЗАО "Компания Интерфарм"
     geometry : [55.1672936,30.2094130]
 n726798384  Аптэка № 3 / Apteka № 3 / Аптека № 3 / Аптека № 3
-  other tags : amenity=pharmacy | description=5-й категории | level=1 | opening_hours=Mo-Fr 08:00-22:00; Sa,Su 09:00-20:00 | operator=ЗАО «Фарммаркет»
+  other tags : amenity=pharmacy | description=5-й категории | level=1 | opening_hours=Mo-Fr 08:00-22:00; Sa,Su 09:00-20:00 | operator=ЗАО «Фарммаркет» | pharmacy:category=5
     geometry : [55.1709631,30.2140173]
 n807634086
   other tags : amenity=pharmacy | dispensing=no
@@ -45,7 +45,7 @@ n905860998  Аптэка №157 / Apteka №157 / Аптека №157 / Апте
   other tags : amenity=pharmacy | contact:phone=+375-212-210977 | contact:website=http://www.pharmacia.by/ | dispensing=yes | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 10:00-18:00 | operator=РУП "Фармация"
     geometry : [55.1817031,30.2069211]
 n1043402496  Аптэка № 3 / Apteka № 3 / Аптека № 3 / Аптека № 3
-  other tags : amenity=pharmacy | description=2-й категории | opening_hours=Mo-Su 08:00-20:00 | operator=ООО «Эдельвейсфари»
+  other tags : amenity=pharmacy | description=2-й категории | opening_hours=Mo-Su 08:00-20:00 | operator=ООО «Эдельвейсфари» | pharmacy:category=2
     geometry : [55.1685513,30.2237870]
 n1043416178  Аптэка №82 / Apteka №82 / Аптека №82 / Аптека №82
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00 | operator=РУП "Фармация" | phone=+375-212-212830 | website=http://www.pharmacia.by/
@@ -53,8 +53,8 @@ n1043416178  Аптэка №82 / Apteka №82 / Аптека №82 / Аптек
 n1072544171
   other tags : amenity=pharmacy
     geometry : [55.1694183,30.2561607]
-n1094099445  null / null / Аптека № 11 / Аптека № 11
-  other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Su 08:00-22:00 | operator=ЗАО «Компания «Интерфарм»
+n1094099445  Аптэка №11 / null / Аптека №11 / Аптека №11
+  other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Su 08:00-22:00 | operator=ЗАО «Компания «Интерфарм» | pharmacy:category=5
     geometry : [55.1740192,30.2282882]
 n1094894119  Аптэка №256 / Apteka №256 / Аптека №256 / Аптека №256
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00 | operator=РУП "Фармация" | phone=+375-212-250706 | website=http://www.pharmacia.by/
@@ -80,8 +80,8 @@ n1114988008  Фарммаркет / Farmmarkiet / Фарммаркет / Фар�
 n1115011591
   other tags : amenity=pharmacy
     geometry : [55.1728843,30.1520429]
-n1115036721  null / null / Аптека № 7 / Аптека № 7
-  other tags : amenity=pharmacy | description=аптека 5-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 10:00-19:00 | operator=ИП «Итера-Мед»
+n1115036721  Аптэка №7 / null / Аптека №7 / Аптека №7
+  other tags : amenity=pharmacy | description=аптека 5-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 10:00-19:00 | operator=ИП «Итера-Мед» | pharmacy:category=5
     geometry : [55.1772669,30.2315597]
 n1128298837  Аптэка №2 / Apteka №2 / Аптека №2 / Аптека №2
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-19:00; Sa 09:00-17:00
@@ -169,7 +169,7 @@ n1304240328  Планета здароўя / Planieta zdaroŭja / Планета
     geometry : [55.1760636,30.2140858]
 n1314553678  Планета здароўя / Planieta zdaroŭja / Планета здоровья / Планета здоровья
   other names: name:uk=Планета Здоровья
-  other tags : amenity=pharmacy | description=5-й категории | official_name=Аптека № 7 | opening_hours=Mo-Sa 09:00-22:15; Su 10:00-22:00 | operator=ОДО «Фарм-Продукт»
+  other tags : amenity=pharmacy | description=5-й категории | official_name=Аптека № 7 | opening_hours=Mo-Sa 09:00-22:15; Su 10:00-22:00 | operator=ОДО «Фарм-Продукт» | pharmacy:category=5
     geometry : [55.1929498,30.2051419]
 n1326430259
   other tags : amenity=pharmacy
@@ -181,7 +181,7 @@ n1345114261
   other tags : amenity=pharmacy
     geometry : [55.1708508,30.2628178]
 n1355206406  Аптэка №2 / Apteka №2 / Аптека №2 / Аптека №2
-  other tags : amenity=pharmacy | description=Вторая категория | opening_hours=Mo-Su 08:00-21:00 | operator=ЗАО "Компания Интерфарм"
+  other tags : amenity=pharmacy | description=Вторая категория | opening_hours=Mo-Su 08:00-21:00 | operator=ЗАО "Компания Интерфарм" | pharmacy:category=2
     geometry : [55.1728542,30.2087412]
 n1355206703  Оптыка/аптэка / Optyka/apteka / Оптика/аптека / Оптика/аптека
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00 | operator=РДТУП "Медтехника" | shop=optician
@@ -234,8 +234,8 @@ n1599889118  null / null / Интерфарм Аптека №2 / Интерфа
 n1599893328  null / null / Фарммаркет Аптека №9 / Фарммаркет Аптека №9
   other tags : amenity=pharmacy | contact:phone=+375-212-366533 | opening_hours=08:00-22:00
     geometry : [55.1925254,30.2128100]
-n1607230027  null / null / Аптека № 3 / Аптека № 3
-  other tags : amenity=pharmacy | description=2-й категории | opening_hours=24/7 | operator=ЧУП «Белфарм-центр»
+n1607230027  Аптэка №3 / null / Аптека №3 / Аптека №3
+  other tags : amenity=pharmacy | description=2-й категории | opening_hours=24/7 | operator=ЧУП «Белфарм-центр» | pharmacy:category=2
     geometry : [55.1930884,30.2037024]
 n1615787705  Аптэка №5 / Apteka №5 / Аптека №5 / Аптека №5
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00
@@ -270,8 +270,8 @@ n2079897282  Аптэка №3 / Apteka №3 / Аптека №3 / Аптека 
 n2092729294
   other tags : amenity=pharmacy
     geometry : [55.1946694,30.2405457]
-n2118546537  null / null / Аптека № 1 / Аптека № 1
-  other tags : amenity=pharmacy | description=аптека 2-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-17:00 | operator=ООО ПКФ «Ясса»
+n2118546537  Аптэка №1 / null / Аптека №1 / Аптека №1
+  other tags : amenity=pharmacy | description=аптека 2-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-17:00 | operator=ООО ПКФ «Ясса» | pharmacy:category=2
     geometry : [55.1792966,30.2258236]
 n2180310138  Аптэка №9 / Apteka №9 / Аптека №9 / Аптека №9
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00 | operator=ООО "Энергофарм"
@@ -288,8 +288,8 @@ n2249763208  null / null / Планета Здоровья / Планета Зд
 n2250256827
   other tags : amenity=pharmacy
     geometry : [55.1700814,30.2230205]
-n2306504651  null / null / Аптека № 6 / Аптека № 6
-  other tags : amenity=pharmacy | description=пятой категории | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 09:00-18:00 | operator=ООО «Энергофарм»
+n2306504651  Аптэка №6 / null / Аптека №6 / Аптека №6
+  other tags : amenity=pharmacy | description=пятой категории | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 09:00-18:00 | operator=ООО «Энергофарм» | pharmacy:category=5
     geometry : [55.1818872,30.2030769]
 n2325449491  null / null / Витебское УП "Фармация" / Витебское УП "Фармация"
   other tags : amenity=pharmacy
@@ -352,22 +352,22 @@ n2865132084  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [55.1624063,30.1373350]
 n2901882239  Аптэка № 164 / Apteka № 164 / Аптека № 164 / Аптека № 164
-  other tags : amenity=pharmacy | description=второй категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00 | operator=РУП "Фармация" | phone=+375-212-487075 | website=http://www.pharmacia.by/
+  other tags : amenity=pharmacy | contact:phone=+375-212-487075 | contact:website=http://www.pharmacia.by/ | description=второй категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-17:00 | operator=РУП "Фармация" | pharmacy:category=2
     geometry : [55.1769701,30.2406379]
-n2963127852  null / null / Аптека № 8 / Аптека № 8
-  other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00 | operator=ЗАО «Фарммаркет»
+n2963127852  Аптэка №8 / null / Аптека №8 / Аптека №8
+  other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00 | operator=ЗАО «Фарммаркет» | pharmacy:category=5
     geometry : [55.2009229,30.2679786]
-n3110116892  null / null / Будь здоров / Будь здоров
-  other tags : amenity=pharmacy | description=2-й категории | official_name=Аптека № 1 | opening_hours=Mo-Fr 08:00-22:00; Sa,Su 09:00-17:00 | operator=ООО «Энергофарм»
+n3110116892  Будзь здароў / null / Будь здоров / Будь здоров
+  other tags : amenity=pharmacy | description=2-й категории | official_name=Аптека № 1 | opening_hours=Mo-Fr 08:00-22:00; Sa,Su 09:00-17:00 | operator=ООО «Энергофарм» | pharmacy:category=2
     geometry : [55.1753388,30.2387155]
 n3338487047  null / null / Зеленый лист Аптека N31
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00 | operator=ОДО ДКМ-Фарм | phone=+375-212-335645
     geometry : [55.1705769,30.1265688]
 n3389035954  Аптэка №280 / null / Аптека №280 / Аптека №280
-  other tags : amenity=pharmacy | description:be=5-катэтегорыі | description:ru=5-й категории | opening_hours=Tu-Fr 09:00-19:00; Sa-Su 09:00-17:00 | operator:be=Віцебскае ГВРУП "Фармацыя" | operator:ru=Витебское ТПРУП "Фармация"
+  other tags : amenity=pharmacy | description:be=5-катэтегорыі | description:ru=5-й категории | opening_hours=Tu-Fr 09:00-19:00; Sa-Su 09:00-17:00 | operator:be=Віцебскае ГВРУП "Фармацыя" | operator:ru=Витебское ТПРУП "Фармация" | pharmacy:category=5
     geometry : [55.1985959,30.1824076]
-n3401431010  null / null / Аптека № 1
-  other tags : amenity=pharmacy | description=аптека 5-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-17:00 | operator=ООО ПКФ «Ясса»
+n3401431010  Аптэка №1 / null / Аптека №1 / Аптека №1
+  other tags : amenity=pharmacy | description=аптека 5-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-17:00 | operator=ООО ПКФ «Ясса» | pharmacy:category=5
     geometry : [55.1792684,30.2283684]
 n3410519527  null / null / Аптека №5 ИП Итера-Мед ООО
   other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00 | phone=+375-212-583787
