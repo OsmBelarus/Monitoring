@@ -7667,7 +7667,7 @@ w315885204
   other tags : highway=track
     geometry : n3220136514[53.6655978,28.0722829] n3220136493[53.6633990,28.0717844] n3220136494[53.6634959,28.0702215] n3220136492[53.6633774,28.0699489] n3220136495[53.6636868,28.0660723]
 w315887401
-  other tags : abandoned:bridge=yes | highway=track
+  other tags : abandoned=yes | abandoned:bridge=yes | bridge=yes | highway=track | layer=2 | material=wood
     geometry : n3220144827[53.6582151,28.0810086] n3220144834[53.6585885,28.0809200]
 w315887402
   other tags : highway=path
