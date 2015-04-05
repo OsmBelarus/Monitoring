@@ -246,8 +246,8 @@ n481384892  25-я школа / null / 25-я школа
   other tags : highway=bus_stop
     geometry : [55.1764034,30.2151424]
 n482021657  Кальцавая / Kaĺcavaja / Кольцевая / Кольцевая
-  other tags : highway=bus_stop
-    geometry : [55.1645571,30.2227536]
+  other tags : highway=bus_stop | note=выяснить правильное название
+    geometry : [55.1645632,30.2227163]
 n482021659  Лядовы палац / null / Ледовый дворец / Ледовый дворец
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1699440,30.2265503]
@@ -674,8 +674,8 @@ n1876125438  Тэхналагічны ўніверсітэт / null / Техно
   other tags : highway=bus_stop
     geometry : [55.1775135,30.2353589]
 n1964030912  null / null / СШ 45
-  other tags : highway=bus_stop
-    geometry : [55.1578021,30.2143861]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1577945,30.2143508]
 n2029060726  Абласная iнфекцыйная бальніца / null / Областная инфекционная больница
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [55.1954407,30.2477749]
