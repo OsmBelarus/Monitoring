@@ -9968,7 +9968,7 @@ w111760633
     geometry : n1272485025[55.1841075,30.1954601] n1272484997[55.1834273,30.1990438]
 w111760637
   other tags : highway=footway | surface=paving_stones
-    geometry : n1272485009[55.1833599,30.2028829] n1272485053[55.1833044,30.2025529] n1792771483[55.1832818,30.2020083] n1792995166[55.1832701,30.2018566] n1272485014[55.1832623,30.2016252]
+    geometry : n1272485009[55.1833599,30.2028829] n1272485053[55.1833044,30.2025529] n1792995166[55.1832701,30.2018566] n1272485014[55.1832623,30.2016252]
 w111760638
   other tags : highway=steps | incline=down
     geometry : n1272485033[55.1846716,30.2003391] n1272484981[55.1847564,30.1998045]
@@ -12624,16 +12624,16 @@ w167948515
   other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes
     geometry : n1792728874[55.1617854,30.2223534] n1792728876[55.1618359,30.2222432] n1792728877[55.1618612,30.2221778] n1792728880[55.1618934,30.2221072] n1792728881[55.1619532,30.2220574] n1792728883[55.1620447,30.2220326] n450241632[55.1621329,30.2220230]
 w167949224  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735497[55.1701607,30.2271121] n2479656878[55.1702281,30.2269727] n1792735498[55.1703447,30.2261607] n1792735500[55.1704130,30.2260184] n1792735501[55.1704758,30.2259592] n1792735512[55.1705646,30.2258914]
 w167949225  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735473[55.1693973,30.2253272] n1792735475[55.1695225,30.2254721] n1792735477[55.1699626,30.2256692]
 w167949226  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735520[55.1712453,30.2256047] n1792735518[55.1711717,30.2254814] n1792735517[55.1706462,30.2252467]
 w167949227  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735499[55.1703966,30.2241617] n2479656876[55.1703414,30.2242583] n1792735496[55.1702734,30.2247294] n1792735495[55.1702268,30.2248655] n1792735494[55.1701697,30.2249484] n1792735491[55.1701108,30.2249940] n1792735480[55.1700498,30.2250016]
 w167950348
   other tags : highway=footway
@@ -17632,16 +17632,16 @@ w252529610  2-я Пралетарская вуліца / 2-ja Pralietarskaja vul
   other tags : highway=residential | maxspeed=20
     geometry : n370623602[55.1779983,30.1518286] n2934630032[55.1773764,30.1520502] n370623605[55.1771540,30.1521299]
 w252534297  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735512[55.1705646,30.2258914] n1792735516[55.1710146,30.2260612] n1792735519[55.1712059,30.2260368]
 w252534298  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735480[55.1700498,30.2250016] n1792735476[55.1695571,30.2248537] n1792735474[55.1694437,30.2248966]
 w252534299  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735517[55.1706462,30.2252467] n1792735511[55.1705434,30.2251218] n1792735507[55.1705096,30.2250000] n1792735505[55.1704956,30.2249123] n1792735504[55.1705041,30.2248135] n2479656877[55.1705529,30.2243656] n1792735502[55.1705375,30.2242154]
 w252534300  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
-  other tags : highway=primary_link | lanes=1 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=1 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792735477[55.1699626,30.2256692] n1792735479[55.1700370,30.2257989] n1792735482[55.1700629,30.2258812] n1792735485[55.1700759,30.2259566] n1792735486[55.1700775,30.2260560] n2479656879[55.1699860,30.2268761] n1792735493[55.1700197,30.2270961]
 w252688687
   other tags : highway=footway | surface=asphalt
