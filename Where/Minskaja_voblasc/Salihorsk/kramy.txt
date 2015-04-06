@@ -350,9 +350,6 @@ n1384458361  null / null / Магазин "Центральный"
 n1384458481  null / null / Кондитерский магазин
   other tags : shop=confectionery
     geometry : [52.7843864,27.5400660]
-n1402292045  null / null / Киоск
-  other tags : shop=kiosk
-    geometry : [52.7859889,27.5447692]
 n1408523663  Магія / null / Магия
   other tags : shop=hairdresser
     geometry : [52.7871033,27.5101755]
@@ -425,9 +422,6 @@ n1720861985  null / null / "Василинка"
 n1827187828  null / null / Радуга
   other tags : shop=supermarket
     geometry : [52.7849391,27.5248268]
-n2055377628  null / null / Гипермаркет «Green»
-  other tags : addr:postcode=223710 | addr:street=Железнодорожная улица | opening_hours=Mo-Su 09:00-23:00 | shop=department_store
-    geometry : [52.7922763,27.5423845]
 n2055384128  null / null / Магазин мебели "Пинскдрев"
   other tags : amenity=marketplace | opening_hours=Mo-Fr 10:00-20:00; Sa-Su 10:00-17:00 | shop=furniture
     geometry : [52.7880716,27.5378651]
@@ -439,7 +433,7 @@ n2510583800  null / null / Таталина
     geometry : [52.7939810,27.5362362]
 n2555523071  null / null / Царское золото
   other tags : addr:housenumber=14 | addr:street=К. Заслонова | shop=jewelry
-    geometry : [52.7914979,27.5422200]
+    geometry : [52.7915327,27.5422545]
 n2555537612  null / null / Евроопт
   other tags : addr:housenumber=33 | addr:street=улица Козлова | shop=convenience
     geometry : [52.7847714,27.5454873]
