@@ -74,7 +74,7 @@ n1168827920  null / null / Центр "Velcom"
   other tags : operator=Velcom | shop=mobile_phone
     geometry : [52.7854138,27.5232075]
 n1168827941  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
-  other tags : shop=car
+  other tags : shop=car_parts
     geometry : [52.7832778,27.5517794]
 n1168827994  null / null / "Радуга дом"
   other tags : shop=variety_store
@@ -89,7 +89,7 @@ n1168828025  null / null / "Павлин"
   other tags : shop=convenience
     geometry : [52.7843461,27.5097594]
 n1168828047  null / null / "Мир акумуляторов"
-  other tags : shop=car
+  other tags : shop=car_parts
     geometry : [52.7833902,27.5518733]
 n1168828071  null / null / "Центр торговли"
   other tags : shop=department_store
@@ -123,7 +123,7 @@ n1168828258  null / null / "Радуга дом"
     geometry : [52.7858561,27.5475285]
 n1168828273  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : shop=car_parts
-    geometry : [52.7756789,27.5388990]
+    geometry : [52.7757147,27.5390373]
 n1168828347  null / null / "Millenium"
   other tags : shop=convenience
     geometry : [52.7837436,27.5141986]
@@ -141,7 +141,7 @@ n1172304951  null / null / Ля Фантана
     geometry : [52.7811206,27.5364441]
 n1172304969  null / null / "Коктейль"
   other tags : shop=alcohol
-    geometry : [52.7778538,27.5447141]
+    geometry : [52.7778596,27.5445808]
 n1172304978  null / null / "Цифра"
   other tags : shop=computer
     geometry : [52.7811887,27.5425352]
@@ -153,7 +153,7 @@ n1172304990  null / null / "Комп"
     geometry : [52.7781210,27.5450403]
 n1172305005  null / null / "Керамин"
   other tags : shop=hardware
-    geometry : [52.7776387,27.5447434]
+    geometry : [52.7776445,27.5446101]
 n1172305010
   other tags : shop=convenience
     geometry : [52.7792816,27.5441291]
@@ -168,7 +168,7 @@ n1172305017  null / null / "Шторы"
     geometry : [52.7810995,27.5363848]
 n1172305038  null / null / "Креатив"
   other tags : shop=hairdresser
-    geometry : [52.7780000,27.5447553]
+    geometry : [52.7780058,27.5446220]
 n1172305045  null / null / "МегаТОП"
   other tags : shop=shoes
     geometry : [52.7800074,27.5435073]
@@ -223,7 +223,7 @@ n1213515788  null / null / ТД Ландыш
     geometry : [52.7888285,27.5459648]
 n1213516736  null / null / Май / Май
   other tags : shop=convenience
-    geometry : [52.7859902,27.5486433]
+    geometry : [52.7860948,27.5486349]
 n1213526412  Дзіцячы свет / null / Детский мир / Детский мир
   other tags : shop=supermarket
     geometry : [52.7847699,27.5417116]
@@ -232,7 +232,7 @@ n1213526911  null / null / Фабрика здоровья
     geometry : [52.7876608,27.5476342]
 n1213527695  null / null / Приозерный / Приозерный
   other tags : shop=convenience
-    geometry : [52.7838741,27.5521797]
+    geometry : [52.7838486,27.5522893]
 n1213563423  null / null / "Гермес"
   other tags : shop=convenience
     geometry : [52.7839100,27.5453721]
@@ -260,6 +260,10 @@ n1215353857  null / null / Киоск
 n1215354712  Дом быту / null / Дом быта
   other tags : shop=doityourself
     geometry : [52.7897659,27.5450612]
+n1234459972  Прадукты / null / Продукты / Продукты
+  other names: name:uk=Продукти
+  other tags : shop=convenience
+    geometry : [52.7811951,27.5490062]
 n1269600083
   other tags : opening_hours=Mo-Fr 08:30-20:00 | shop=hairdresser
     geometry : [52.7851304,27.5256913]
@@ -281,9 +285,6 @@ n1379310778
 n1379310779
   other tags : shop=tyres
     geometry : [52.7971764,27.5341490]
-n1379310791  СТА / null / СТО / СТО
-  other tags : shop=car_repair
-    geometry : [52.7940540,27.5153053]
 n1379310827
   other tags : opening_hours=24/7 | shop=kiosk
     geometry : [52.8056715,27.5441799]
@@ -370,7 +371,7 @@ n1429275541  null / null / "Березка"
     geometry : [52.7789046,27.5376644]
 n1429275543  null / null / "Ваш каприз"
   other tags : shop=hairdresser
-    geometry : [52.7757082,27.5386876]
+    geometry : [52.7757440,27.5388259]
 n1429275550  null / null / "Визит"
   other tags : shop=chemist
     geometry : [52.7794381,27.5375324]
@@ -378,11 +379,8 @@ n1429275552  null / null / "Иванушка"
   other tags : shop=convenience
     geometry : [52.7787418,27.5378160]
 n1429275553  null / null / "Рыболов-охотник"
-  other tags : shop=fishing_tackle
-    geometry : [52.7757008,27.5389754]
-n1429275564  Евроопт / null / Евроопт / Евроопт
-  other tags : shop=department_store
-    geometry : [52.7759152,27.5395828]
+  other tags : shop=fishing
+    geometry : [52.7757366,27.5391137]
 n1446105020  null / null / Магазин Купалинка
   other tags : shop=clothes
     geometry : [52.7842877,27.5196173]
@@ -425,9 +423,6 @@ n2555523071  null / null / Царское золото
 n2555537612  null / null / Евроопт
   other tags : addr:housenumber=33 | addr:street=улица Козлова | shop=convenience
     geometry : [52.7847714,27.5454873]
-n2555662086  null / null / Крокус
-  other tags : shop=florist
-    geometry : [52.7856505,27.5468911]
 n2555676120  null / null / Салон "Лотос"
   other tags : addr:housenumber=32 | addr:street=проспект Мира | shop=hairdresser
     geometry : [52.7855014,27.5235001]
@@ -502,10 +497,13 @@ n2621957815  null / null / Секонд-хэнд
     geometry : [52.7800676,27.5459615]
 n2621997398  null / null / Парикмахерская
   other tags : shop=hairdresser
-    geometry : [52.7817565,27.5504939]
+    geometry : [52.7817817,27.5505028]
 n2624621643  null / null / Радуга
   other tags : shop=supermarket
     geometry : [52.7851420,27.5243990]
+n2625733411  null / null / магазин "Белита-Витекс"
+  other tags : shop=cosmetics
+    geometry : [52.7860286,27.5487170]
 n2625735198  null / null / "Каравай"
   other tags : shop=supermarket
     geometry : [52.7836706,27.5254932]
