@@ -11,10 +11,10 @@ n288119832  Мінск (Інстытут Культуры) / Minsk (Instytut Ku�
   other tags : esr:user=140013 | railway=halt
     geometry : [53.8850123,27.5392936]
 n288121405  Курасоўшчына / Kurasoŭščyna / Курасовщина / Курасовщина
-  other tags : esr:user=144654 | railway=halt
-    geometry : [53.8445462,27.4895111]
+  other tags : esr:user=144654 | public_transport=station | railway=halt | train=yes
+    geometry : [53.8447665,27.4901032]
 n2706005389  Сталічны / Staličny / Столичный / Столичный
-  other tags : esr:user=140032 | railway=halt
+  other tags : esr:user=140032 | public_transport=stop_position | railway=halt | train=yes
     geometry : [53.8737790,27.5213718]
 n3147289273  Лябяжы / Liebiadziny / Лебяжий / Лебяжий
   other tags : esr:user=143685 | railway=halt
@@ -22,3 +22,12 @@ n3147289273  Лябяжы / Liebiadziny / Лебяжий / Лебяжий
 n3412381821  Таварны Двор / Tavarny Dvor / Товарный двор / Товарный двор
   other tags : esr:user=140418 | public_transport=station | railway=halt | train=yes
     geometry : [53.9038210,27.6353364]
+n3440903587  Сталічны / Staličny / Столичный / Столичный
+  other tags : esr:user=140032 | railway=halt
+    geometry : [53.8741384,27.5262042]
+n3440903588  Сталічны / Staličny / Столичный / Столичный
+  other tags : esr:user=140032 | railway=halt
+    geometry : [53.8741785,27.5259874]
+n3440903589  Сталічны / Staličny / Столичный / Столичный
+  other tags : esr:user=140032 | railway=halt
+    geometry : [53.8742406,27.5259564]
