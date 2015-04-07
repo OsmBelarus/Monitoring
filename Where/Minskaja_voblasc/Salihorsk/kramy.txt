@@ -148,6 +148,9 @@ n1172304978  null / null / Цифра
 n1172304984  null / null / "Сузорье"
   other tags : shop=furniture
     geometry : [52.7816820,27.5444959]
+n1172304987  null / null / Фото
+  other tags : shop=photo_studio
+    geometry : [52.7802899,27.5454841]
 n1172304990  null / null / "Комп"
   other tags : shop=computer
     geometry : [52.7781210,27.5450403]
@@ -172,10 +175,6 @@ n1172305038  null / null / "Креатив"
 n1172305045  null / null / "МегаТОП"
   other tags : shop=shoes
     geometry : [52.7800074,27.5435073]
-n1172305051  Прадукты / null / Продукты / Продукты
-  other names: name:uk=Продукти
-  other tags : shop=convenience
-    geometry : [52.7814995,27.5446609]
 n1172305055  null / null / "Крафт"
   other tags : shop=chemist
     geometry : [52.7805361,27.5430888]
@@ -183,7 +182,7 @@ n1172305061  null / null / "Василинка"
   other tags : shop=variety_store
     geometry : [52.7817787,27.5420519]
 n1172305063  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
-  other tags : shop=car
+  other tags : shop=car_parts
     geometry : [52.7809660,27.5448083]
 n1172305068  null / null / "Орион-люкс"
   other tags : shop=chemist
@@ -191,10 +190,10 @@ n1172305068  null / null / "Орион-люкс"
 n1172305073
   other tags : shop=tailor
     geometry : [52.7803983,27.5453872]
-n1172305082  null / null / "Малахит"
+n1172305082  null / null / Малахит
   other tags : shop=jewelry
     geometry : [52.7807696,27.5453186]
-n1172305092  null / null / "Периметр"
+n1172305092  null / null / Периметр
   other tags : shop=video
     geometry : [52.7805147,27.5453299]
 n1172305095  null / null / Прачечная
@@ -206,13 +205,13 @@ n1172305110  null / null / "Винатан"
 n1172305112  null / null / "Veronii". Салон польской обуви
   other tags : shop=shoes
     geometry : [52.7801375,27.5458729]
-n1172305114
+n1172305114  null / null / Химчистка
   other tags : shop=dry_cleaning
-    geometry : [52.7803574,27.5454235]
-n1172305117  null / null / "Трикотаж"
+    geometry : [52.7803441,27.5454162]
+n1172305117  null / null / Трикотаж
   other tags : shop=clothes
     geometry : [52.7799616,27.5460399]
-n1172305140  null / null / "Белкнига"
+n1172305140  null / null / Белкнига
   other tags : shop=books
     geometry : [52.7808881,27.5452052]
 n1213515788  null / null / ТД Ландыш
@@ -393,7 +392,7 @@ n1699484290  null / null / автозапчасти
 n1720853318  null / null / "Полина-Люкс"
   other tags : shop=hairdresser
     geometry : [52.7783124,27.5449062]
-n1720861984  null / null / "Периметр"
+n1720861984  null / null / Периметр
   other tags : shop=hifi
     geometry : [52.7805451,27.5453943]
 n1720861985  null / null / "Василинка"
@@ -487,7 +486,7 @@ n2621948786
   other tags : shop=florist
     geometry : [52.7847418,27.5406753]
 n2621957815  null / null / Секонд-хэнд
-  other tags : shop=yes
+  other tags : second_hand=only | shop=clothes
     geometry : [52.7800676,27.5459615]
 n2621997398  null / null / Парикмахерская
   other tags : shop=hairdresser
