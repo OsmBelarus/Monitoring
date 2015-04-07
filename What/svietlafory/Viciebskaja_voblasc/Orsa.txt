@@ -12,13 +12,13 @@ n1481061804  3-я паліклініка / null / 3-я поликлиника
     geometry : [54.5141688,30.3945720]
 n1492836854
   other tags : highway=bus_stop
-    geometry : [54.4982787,30.4057360]
+    geometry : [54.4982187,30.4055029]
 n1492836914
   other tags : highway=bus_stop
-    geometry : [54.5010308,30.4095540]
+    geometry : [54.5009903,30.4097082]
 n1492837448
   other tags : highway=bus_stop
-    geometry : [54.5006091,30.4086100]
+    geometry : [54.5007571,30.4085898]
 n1501784564
   other tags : highway=bus_stop
     geometry : [54.5096818,30.4274678]
@@ -87,7 +87,7 @@ n3318494238
     geometry : [54.5128278,30.4305000]
 n3359131162
   other tags : highway=bus_stop
-    geometry : [54.4982739,30.4059065]
+    geometry : [54.4982269,30.4059839]
 n3425751223
   other tags : bench=no | highway=bus_stop | shelter=no
     geometry : [54.4913311,30.4296479]
@@ -118,3 +118,9 @@ n3437613531
 n3437616612
   other tags : bench=yes | highway=bus_stop | shelter=no
     geometry : [54.4889248,30.4266934]
+n3440581045
+  other tags : bench=yes | highway=bus_stop
+    geometry : [54.4934359,30.4002258]
+n3440581046
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [54.4938413,30.3997962]
