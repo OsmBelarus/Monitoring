@@ -2750,7 +2750,7 @@ n906822983  null / null / Продуктовый
 n907439990  null / null / ЧТУП Курчевская
   other tags : shop=convenience
     geometry : [53.9253788,27.5613172]
-n912512981  Мяса-Паўфабрыкаты / null / Мясо-Полуфабрикаты
+n912512981  Мяса-Паўфабрыкаты / null / Мясо-Полуфабрикаты / Мясо-Полуфабрикаты
   other tags : shop=convenience
     geometry : [53.9116652,27.4899109]
 n912512982  Азарэнне / null / Азарэнне
@@ -10194,8 +10194,8 @@ n3270540325  null / null / Мэрилин
 n3270541801  null / null / ЦЫРУЛЬНЯ
   other tags : addr:housenumber=40 | addr:street=улица Притыцкого | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
     geometry : [53.9096021,27.4872241]
-n3270541802  null / null / ВИАНИКА
-  other tags : addr:housenumber=10 | addr:street=улица Данилы Сердича | opening_hours=пн. — сб.: 08:00 — 20:00 вс.: 10:00 — 19:00 пн. — сб.: 08:00 — 21:00 | operator=СТУДИЯ КРАСОТЫ | shop=beauty
+n3270541802  null / null / Вианика
+  other tags : addr:city=Минск | addr:housenumber=10 | addr:street=улица Данилы Сердича | opening_hours=пн-сб: 08:00-20:00, вс: 10:00-19:00;пн-сб: 08:00-21:00 | operator=Студия красоты | shop=beauty
     geometry : [53.9116403,27.4891640]
 n3270544678  null / null / УЛЬТРОСТРОНГ
   other tags : operator=КОСМЕТИЧЕСКИЙ КАБИНЕТ | shop=beauty
