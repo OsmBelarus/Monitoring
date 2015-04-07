@@ -4341,7 +4341,7 @@ n767183697  null / null / Станция Озерище
     geometry : [53.9360800,27.7146800]
 n767183698  Брылеўская вул. / null / Брилевская / Брилевская улица
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8731000,27.5287700]
+    geometry : [53.8731797,27.5288576]
 n767183699  Вялікі Лес / null / Великий Лес / Великий Лес
   other tags : generated=yes | highway=bus_stop | ref=60311
     geometry : [53.9439061,27.7190024]
@@ -5526,3 +5526,6 @@ n3431372468
 n3431374661  Севастопальскі парк / null / Севастопольский парк / Севастопольский парк
   other tags : highway=bus_stop | ref=61906
     geometry : [53.9350914,27.6354851]
+n3440442326
+  other tags : highway=bus_stop
+    geometry : [53.8718110,27.5559154]
