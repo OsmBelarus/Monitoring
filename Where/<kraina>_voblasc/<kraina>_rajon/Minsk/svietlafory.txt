@@ -1382,7 +1382,7 @@ n343853161  null / null / Пожарского
 n343853169  Паліклініка / null / Поликлиника №17 / Поликлиника
   other tags : highway=bus_stop
     geometry : [53.8839467,27.6823145]
-n343853194  Школа / null / Школа / Школа
+n343853194  Школа № 141 / null / Школа № 141 / Школа № 141
   other tags : highway=bus_stop
     geometry : [53.8819712,27.6852842]
 n343853195  null / null / Герасименко
@@ -2666,8 +2666,8 @@ n767085031  Гаражы / null / Гаражи / Гаражи
 n767085033  Аўтавакзал Усходні / null / АВ Восточный
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8764800,27.5994400]
-n767085035  Школа / null / Школа / Школа
-  other tags : generated=yes | highway=bus_stop
+n767085035  Школа № 141 / null / Школа № 141 / Школа № 141
+  other tags : highway=bus_stop
     geometry : [53.8811821,27.6861747]
 n767085037  Мікрараён / null / Микрорайон / Микрорайон
   other tags : generated=yes | highway=bus_stop
@@ -3856,8 +3856,8 @@ n767183470  вуліца Ігнаценкі / null / улица Игнатенк
 n767183471  вуліца Тухачэўскага / null / Тухачевского / улица Тухачевского
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8666907,27.6323398]
-n767183473  null / null / ДЭУ
-  other tags : generated=yes | highway=bus_stop
+n767183473  null / null / Дорожно-эксплуатационное управление
+  other tags : highway=bus_stop
     geometry : [53.8522000,27.6473800]
 n767183474  null / null / Ташкентская / Дружба к-тр
   other tags : generated=yes | highway=bus_stop
@@ -3880,8 +3880,8 @@ n767183479  Курапаты / null / Куропаты
 n767183481  Станцыя метро "Уручча" / null / Станция метро "Уручье" / Станция метро "Уручье"
   other tags : generated=yes | highway=bus_stop | ref=61928
     geometry : [53.9450854,27.6882124]
-n767183482  null / null / МПЗ
-  other tags : generated=yes | highway=bus_stop
+n767183482  null / null / Подшипниковый завод
+  other tags : highway=bus_stop
     geometry : [53.8797504,27.6354997]
 n767183483  вуліца Гурскага / null / Гурского / улица Гурского
   other tags : generated=yes | highway=bus_stop
@@ -3928,8 +3928,8 @@ n767183500  null / null / Микрорайон Кунцевщина
 n767183502  вуліца Макаёнка / null / Макаёнка / улица Макаёнка
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9187700,27.6250200]
-n767183503  null / null / ДЭУ
-  other tags : generated=yes | highway=bus_stop
+n767183503  null / null / Дорожно-эксплуатационное управление
+  other tags : highway=bus_stop
     geometry : [53.8515200,27.6482500]
 n767183504  КПП / null / КПП / КПП
   other tags : generated=yes | highway=bus_stop
@@ -4078,8 +4078,8 @@ n767183570  null / null / Есенина
 n767183572  вуліца Грыцаўца / null / Грицевца / ул. Грицевца
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8873849,27.6164184]
-n767183573  null / null / Железнодорожный переезд
-  other tags : generated=yes | highway=bus_stop
+n767183573  null / null / Жилуновича
+  other tags : highway=bus_stop
     geometry : [53.8833326,27.6417038]
 n767183577  Ждановічы ГЦ / null / ТЦ Ждановичи
   other tags : generated=yes | highway=bus_stop
@@ -4198,8 +4198,8 @@ n767183635  вуліца Грэкава / null / Грекова / улица Г�
 n767183636  null / null / 5-я больница
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8711600,27.6342600]
-n767183637  null / null / Железнодорожный переезд
-  other tags : generated=yes | highway=bus_stop
+n767183637  null / null / Жилуновича
+  other tags : highway=bus_stop
     geometry : [53.8837302,27.6412872]
 n767183638  вуліца Бельскага / null / Бельского / улица Бельского
   other tags : generated=yes | highway=bus_stop
@@ -4399,8 +4399,8 @@ n767183724  null / null / ТЦ ОМА
 n767183725  Дворышча / null / Дворище / Дворище
   other tags : generated=yes | highway=bus_stop | wheelchair=yes
     geometry : [53.8531047,27.4658798]
-n767183726  null / null / МПЗ
-  other tags : generated=yes | highway=bus_stop
+n767183726  null / null / Подшипниковый завод
+  other tags : highway=bus_stop
     geometry : [53.8798900,27.6364000]
 n767183727  Усход-2 / null / Восток-2
   other tags : generated=yes | highway=bus_stop
