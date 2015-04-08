@@ -1724,7 +1724,7 @@ n492041220  Берасцянская / null / Берестянская / Бер�
 n492041408  Платонава / null / Платонова / Платонова
   other tags : highway=bus_stop
     geometry : [53.9067058,27.5893582]
-n493609111  null / null / Рынок
+n493609111  null / null / 11-я больница / 11-я больница
   other tags : highway=bus_stop
     geometry : [53.8463833,27.4979016]
 n493609113  null / null / Курасовщина
@@ -2175,13 +2175,13 @@ n614945411  null / null / Переулок Корженевского
 n614945412  null / null / Кинотеатр Электрон
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [53.8439444,27.5100324]
-n614945413  null / null / АвтоВАЗ
+n614945413  null / null / Слуцкий Гостинец
   other tags : highway=bus_stop
     geometry : [53.8437574,27.5332537]
-n614945414  null / null / АвтоВАЗ
+n614945414  null / null / Слуцкий Гостинец
   other tags : highway=bus_stop
     geometry : [53.8434902,27.5330097]
-n614945415  null / null / АвтоВАЗ
+n614945415  null / null / Слуцкий Гостинец
   other tags : highway=bus_stop
     geometry : [53.8430295,27.5336533]
 n615026307  null / null / Громова
@@ -3218,9 +3218,9 @@ n767088385  null / null / Крупцы
 n767088387  null / null / Футбольный манеж
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9313900,27.5090300]
-n767088389  null / null / АвтоВАЗ
+n767088389  null / null / Слуцкий Гостинец
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8449100,27.5343200]
+    geometry : [53.8450007,27.5344438]
 n767088391  вуліца Сярова / vul. Siarova / Серова / улица Серова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8420500,27.5432200]
@@ -3612,7 +3612,7 @@ n767090543  null / null / Аэропорт Минск-1
 n767090544  null / null / Серова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8426300,27.5435800]
-n767090545  null / null / АвтоВАЗ
+n767090545  null / null / Слуцкий Гостинец
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8443289,27.5348552]
 n767090546  Аранская / null / Аранская
@@ -4468,9 +4468,8 @@ n767183751  null / null / Парниковая / Парниковая
 n767183752  null / null / БелавтоГАЗ
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8037980,27.5910800]
-n767183754  Рынак / null / Рынок / Рынок
-  other names: name:uk=Ринок
-  other tags : generated=yes | highway=bus_stop
+n767183754  null / null / 11-я больница / 11-я больница
+  other tags : highway=bus_stop
     geometry : [53.8466070,27.4974389]
 n767183755  null / null / Стадион Динамо
   other tags : generated=yes | highway=bus_stop
