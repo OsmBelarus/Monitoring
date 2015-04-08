@@ -178,7 +178,7 @@ n1172305045  null / null / "МегаТОП"
 n1172305055  null / null / "Крафт"
   other tags : shop=chemist
     geometry : [52.7805361,27.5430888]
-n1172305061  null / null / "Василинка"
+n1172305061  null / null / Василинка
   other tags : shop=variety_store
     geometry : [52.7817787,27.5420519]
 n1172305063  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
@@ -199,7 +199,7 @@ n1172305092  null / null / Периметр
 n1172305095  null / null / Прачечная
   other tags : shop=laundry
     geometry : [52.7803255,27.5454499]
-n1172305110  null / null / "Винатан"
+n1172305110  null / null / Винатан
   other tags : shop=computer
     geometry : [52.7811612,27.5365278]
 n1172305112  null / null / "Veronii". Салон польской обуви
@@ -229,7 +229,7 @@ n1213526911  null / null / Фабрика здоровья
 n1213527695  null / null / Приозерный / Приозерный
   other tags : shop=convenience
     geometry : [52.7838486,27.5522893]
-n1213563423  null / null / "Гермес"
+n1213563423  null / null / Гермес
   other tags : shop=convenience
     geometry : [52.7839100,27.5453721]
 n1215099411  null / null / Пчалярства
@@ -449,21 +449,9 @@ n2555909629  null / null / House
 n2591176497  null / null / Шиномонтаж
   other tags : shop=car_repair
     geometry : [52.7960780,27.5467345]
-n2621404144  null / null / "Радиотехника"
+n2621414868  null / null / Радиотехника
   other tags : shop=electronics
-    geometry : [52.7834621,27.5426871]
-n2621405290  null / null / "Радиотехника"
-  other tags : shop=electronics
-    geometry : [52.7834621,27.5426871]
-n2621414868  null / null / "Радиотехника"
-  other tags : shop=electronics
-    geometry : [52.7834621,27.5426871]
-n2621529147  null / null / "Радиотехника"
-  other tags : shop=electronics
-    geometry : [52.7834621,27.5426871]
-n2621535605  null / null / "Радиотехника"
-  other tags : shop=electronics
-    geometry : [52.7834621,27.5426871]
+    geometry : [52.7834660,27.5426742]
 n2621901348  null / null / Электросила
   other tags : shop=electronics
     geometry : [52.7839080,27.5391017]
@@ -478,10 +466,10 @@ n2621932322  null / null / Атлант-Сервис
     geometry : [52.7919571,27.5169064]
 n2621932323  null / null / Образ
   other tags : shop=beauty
-    geometry : [52.7810990,27.5364770]
+    geometry : [52.7810875,27.5364818]
 n2621947949  null / null / Фуджифильм
-  other tags : shop=photo
-    geometry : [52.7830792,27.5437964]
+  other tags : craft=photographic_laboratory | shop=photo
+    geometry : [52.7830792,27.5437900]
 n2621948786
   other tags : shop=florist
     geometry : [52.7847418,27.5406753]
@@ -491,6 +479,9 @@ n2621957815  null / null / Секонд-хэнд
 n2621997398  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [52.7817817,27.5505028]
+n2624606364  null / null / Евросеть
+  other tags : shop=mobile_phone
+    geometry : [52.7827767,27.5427141]
 n2624621643  null / null / Радуга
   other tags : shop=supermarket
     geometry : [52.7851420,27.5243990]

@@ -70,21 +70,9 @@ n2055427253  null / null / Кафе-ресторан "Шансон"
 n2560981801  null / null / Столовая Шахтоспецстрой
   other tags : amenity=cafe
     geometry : [52.8131921,27.5525114]
-n2621404143  null / null / "Мираж"
+n2621405289  null / null / Мираж
   other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.7835141,27.5426925]
-n2621405289  null / null / "Мираж"
-  other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.7835141,27.5426925]
-n2621414867  null / null / "Мираж"
-  other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.7835141,27.5426925]
-n2621529146  null / null / "Мираж"
-  other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.7835141,27.5426925]
-n2621535604  null / null / "Мираж"
-  other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.7835141,27.5426925]
+    geometry : [52.7835141,27.5426989]
 n2624608176  null / null / ресторан "Алеся"
   other tags : amenity=restaurant
     geometry : [52.7819625,27.5417029]
@@ -100,3 +88,6 @@ w41596141  Сталовая / null / Столовая / Столовая
 w54773940  null / null / Столовая №19
   other tags : addr:housenumber=44А | addr:street=улица Константина Заслонова | amenity=fast_food | building=yes | fast_food=cafeteria
     geometry : n689581230[52.7869805,27.5278728] n689581225[52.7868192,27.5280056] n689581228[52.7868931,27.5282512] n689581227[52.7870545,27.5281184] n689581230[52.7869805,27.5278728]
+w82281582  null / null / Столовая №49
+  other tags : addr:housenumber=5 | addr:postcode=223710 | addr:street=улица Коржа | amenity=fast_food | building=yes | fast_food=cafeteria
+    geometry : n958189609[52.7822081,27.5402693] n958189619[52.7820769,27.5398582] n958189620[52.7817233,27.5401666] n958192110[52.7818010,27.5404100] n958192111[52.7819205,27.5403057] n958189607[52.7819740,27.5404734] n958189609[52.7822081,27.5402693]
