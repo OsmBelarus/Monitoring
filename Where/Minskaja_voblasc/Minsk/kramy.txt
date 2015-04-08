@@ -8546,13 +8546,13 @@ n3143676160  null / null / Ювелирные изделия "Чарауница
   other tags : shop=yes
     geometry : [53.8979958,27.5532275]
 n3143676790  null / null / Бутик "Paul Zileri"
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.8974400,27.5518146]
 n3143677236  null / null / Все для мамы и малыша
-  other tags : shop=yes
-    geometry : [53.8975613,27.5511757]
+  other tags : shop=baby_goods
+    geometry : [53.8975543,27.5511521]
 n3143679936  null / null / Аркада
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8974219,27.5520611]
 n3143680309  null / null / Milavitsa
   other tags : shop=yes
@@ -9354,7 +9354,7 @@ n3213415134  null / null / Axis
   other tags : opening_hours=Mo-Su 10:00-22:00 | shop=shoes
     geometry : [53.8956352,27.5478978]
 n3213421964
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8953285,27.5482881]
 n3218550861  null / null / Capolavori
   other tags : phone=8 017 327-59-50 | shop=furniture | website=http://capolavori.by | wheelchair=no
@@ -10029,19 +10029,19 @@ n3270377967  null / null / Точка
   other tags : shop=yes
     geometry : [53.8846048,27.5407458]
 n3270384361  Мінск Крышталь / null / Минск Кристалл / Минск Кристалл
-  other tags : level=-1 | shop=yes
+  other tags : level=-1 | shop=alcohol
     geometry : [53.8954151,27.5473769]
 n3270385461  Камунарка / null / Коммунарка / Коммунарка
-  other tags : level=-1 | shop=yes
+  other tags : level=-1 | shop=confectionery
     geometry : [53.8953756,27.5472428]
 n3270386664  null / null / ZIKO
-  other tags : level=-1 | shop=yes
+  other tags : level=-1 | shop=jewelry
     geometry : [53.8953250,27.5471328]
 n3270386666  null / null / Карандаш
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957028,27.5479214]
 n3270388179  null / null / Белсоюзпечать
-  other tags : shop=yes
+  other tags : shop=newsagent
     geometry : [53.8957613,27.5480475]
 n3270391482  null / null / Евросеть
   other tags : shop=mobile_phone
@@ -10050,16 +10050,16 @@ n3270396333  null / null / Velcom
   other tags : shop=mobile_phone
     geometry : [53.8957407,27.5480823]
 n3270396845  null / null / Элиз
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957328,27.5479965]
 n3270397735  null / null / Serge
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8956949,27.5478356]
 n3270398361  null / null / Элема
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8956032,27.5482030]
 n3270399500  null / null / Элема
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8955700,27.5480501]
 n3270403162  null / null / Живое пиво
   other tags : shop=alcohol
@@ -10074,37 +10074,37 @@ n3270405861  null / null / Аксис
   other tags : shop=shoes
     geometry : [53.8955827,27.5479133]
 n3270406074  null / null / Советское шампанское
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957455,27.5482352]
 n3270409242  null / null / Манго
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957976,27.5479777]
 n3270409895  null / null / Мекс
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8956759,27.5478248]
 n3270416865  null / null / Биг стар
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957945,27.5481011]
 n3270417061  null / null / Твое
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8955447,27.5480126]
 n3270417178  null / null / Белорусский лен
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8955621,27.5481172]
 n3270417298  null / null / Терранова
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8955874,27.5481977]
 n3270425259  null / null / Окей
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8957470,27.5478785]
 n3270426362  null / null / Вито
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8956901,27.5481628]
 n3270426971  null / null / Баста
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8955684,27.5481843]
 n3270445909  null / null / Джамбо
-  other tags : shop=yes
+  other tags : note=указать тип магазина | shop=yes
     geometry : [53.8956380,27.5478356]
 n3270484294  null / null / ДЮНА
   other tags : addr:housenumber=2 | addr:street=улица Короля | opening_hours=12 00 - 06 00 | operator=САУНА-ЛЮКС | shop=beauty
@@ -10146,14 +10146,15 @@ n3270508878  null / null / Принцесс СПА / Принцесс СПА
 n3270512375  null / null / МОДА
   other tags : opening_hours=Mo-Fr 09:00-18:00; Sa-Su off | shop=hairdresser
     geometry : [53.8960600,27.5562364]
-n3270516871  null / null / EVEREST (ЭВЕРЕСТ)
-  other tags : addr:housenumber=11/1 | addr:street=проспект Независимости | opening_hours=пн. — сб.: 08:00 — 21:00 вс.: 09:00 — 18:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270516871  null / null / Эверест / Эверест
+  other names: name:en=Everest
+  other tags : opening_hours=Mo-Sa 08:00-21:00; Su 09:00-18:00 | shop=beauty
     geometry : [53.8968289,27.5508537]
-n3270519261  null / null / МАКСИМА
-  other tags : addr:housenumber=12 | addr:street=улица Володарского | opening_hours=пн. — сб.: 09:00 — 20:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270519261  null / null / Максима
+  other tags : opening_hours=Mo-Sa 09:00-20:00 | shop=beauty
     geometry : [53.8972956,27.5511140]
-n3270519861  null / null / ТРОЯ
-  other tags : addr:housenumber=11/2 | addr:street=проспект Независимости | opening_hours=пн. — вс.: круглосуточно | operator=SPA-САЛОН КРАСОТЫ | shop=beauty
+n3270519861  null / null / Троя
+  other tags : description=SPA-салон красоты | opening_hours=24/7 | shop=beauty
     geometry : [53.8972166,27.5513458]
 n3270520187  null / null / ЛЕДИ ГАДИВА
   other tags : addr:housenumber=38 | addr:street=улица Немига | opening_hours=пн. — сб.: 08:00 — 21:00 вс.: 09:00 — 18:00 | operator=САЛОН КРАСОТЫ КЛАССА ЛЮКС | shop=beauty
