@@ -3629,8 +3629,8 @@ w28254887  5-я вуліца Свярдлова / 5-ja vulica Sviardlova / 5-я 
   other tags : highway=residential
     geometry : n310301908[55.1946809,30.1783289] n1860735248[55.1931209,30.1790233] n310301755[55.1927868,30.1791720]
 w28254888  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
-    geometry : n494324176[55.1804171,30.2166327] n1161856389[55.1804610,30.2163952] n1269046001[55.1805639,30.2158670] n1269046005[55.1806806,30.2152430] n338317497[55.1807139,30.2150686] n332644076[55.1809414,30.2138088] n310306498[55.1811834,30.2125134] n1247515006[55.1813852,30.2114340] n1247515030[55.1815944,30.2103372] n1158125018[55.1816136,30.2102343] n1247568229[55.1816885,30.2098223] n371185587[55.1820057,30.2080630] n1191936833[55.1821755,30.2071393] n1201840390[55.1824822,30.2054874] n1792752771[55.1827507,30.2040924] n310306450[55.1829119,30.2032440]
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
+    geometry : n494324176[55.1804171,30.2166327] n1161856389[55.1804610,30.2163952] n1269046001[55.1805639,30.2158670] n1269046005[55.1806806,30.2152430] n338317497[55.1807139,30.2150686] n332644076[55.1809414,30.2138088] n310306498[55.1811834,30.2125134] n1247515006[55.1813852,30.2114340] n1247515030[55.1815944,30.2103372] n1158125018[55.1816136,30.2102343] n1247568229[55.1816885,30.2098223] n371185587[55.1820057,30.2080630] n1191936833[55.1821755,30.2071393] n1201840390[55.1824822,30.2054874]
 w28254890  Зарэчны завулак / Zarečny zavulak / Заречный переулок / Заречный переулок
   other tags : highway=residential
     geometry : n310298246[55.1580545,30.1446238] n2024424592[55.1583201,30.1459203] n2024424602[55.1584975,30.1467352] n2024424608[55.1587117,30.1478656] n310298423[55.1588939,30.1490178]
@@ -4450,7 +4450,7 @@ w28255448  вуліца Энтузіястаў / vulica Entuzijastaŭ / улиц
   other tags : highway=residential
     geometry : n310310803[55.2035449,30.2244939] n2438113713[55.2042947,30.2258828] n310291301[55.2055329,30.2281765]
 w28255453  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n494324176[55.1804171,30.2166327] n2918439406[55.1803039,30.2165709] n2918439405[55.1802740,30.2165546] n332643948[55.1801609,30.2164929]
 w28255454  3-я Суражская вуліца / 3-ja Suražskaja vulica / 3-я Суражская улица / 3-я Суражская улица
   other tags : highway=residential | surface=asphalt
@@ -5717,7 +5717,7 @@ w30184712  вуліца Генерала Белабародава / vulica Hieni
   other tags : bridge=yes | highway=primary | layer=1 | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115
     geometry : n332593449[55.1841533,30.1954867] n332593511[55.1834731,30.1990705]
 w30184715  вуліца Генерала Белабародава / vulica Hienierala Bielabarodava / улица Генерала Белобородова / улица Генерала Белобородова
-  other tags : highway=primary | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115
+  other tags : highway=primary | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115 | surface=asphalt | turn:lanes=left|through|through|through|through|right
     geometry : n332593511[55.1834731,30.1990705] n690204452[55.1834389,30.1992704] n912112545[55.1830002,30.2015777] n2083653861[55.1829856,30.2016510] n2083653850[55.1828824,30.2021484] n310309500[55.1827314,30.2028842]
 w30184716  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
@@ -5726,9 +5726,9 @@ w30184717  вуліца Леніна / vulica Lienina / улица Ленина 
   other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes | trolley_wire=yes
     geometry : n310309339[55.1826771,30.2031441] n310306450[55.1829119,30.2032440]
 w30184718  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other names: name:de=Moskovsky Prospect  (Moskau Avenue) | name:fr=Moskovsky Prospect  (avenue de Moscou)
+  other names: name:de=Moskovsky Prospect (Moskau Avenue) | name:fr=Moskovsky Prospect (avenue de Moscou)
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n310309339[55.1826771,30.2031441] n1792752768[55.1825233,30.2038970] n571207901[55.1822177,30.2055334] n310303386[55.1818782,30.2073483] n371185588[55.1817675,30.2079306] n310306502[55.1815150,30.2093269] n1158124986[55.1813684,30.2101030] n332644080[55.1810921,30.2115626] n310311101[55.1807022,30.2136817] n1792748139[55.1802318,30.2161110] n1161856480[55.1802057,30.2162519] n332643948[55.1801609,30.2164929]
+    geometry : n310309339[55.1826771,30.2031441] n1792752768[55.1825233,30.2038970] n571207901[55.1822177,30.2055334] n310303386[55.1818782,30.2073483] n371185588[55.1817675,30.2079306] n310306502[55.1815150,30.2093269] n1158124986[55.1813684,30.2101030] n332644080[55.1810921,30.2115626] n310311101[55.1807022,30.2136817]
 w30191543
   other tags : highway=unclassified | oneway=no | surface=asphalt
     geometry : n1313142991[55.1797558,30.2201830] n2910881560[55.1796462,30.2201181] n2910881557[55.1796164,30.2201004] n310311126[55.1795108,30.2200379]
@@ -7555,10 +7555,10 @@ w65600519  Маскоўскі праспект / Maskoŭski praspiekt / Моск
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
     geometry : n310291433[55.1761277,30.2450337] n310291538[55.1761844,30.2446191]
 w65601163  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n332643948[55.1801609,30.2164929] n1161855913[55.1799680,30.2164003] n1792748123[55.1798875,30.2163546] n310309776[55.1783658,30.2155160] n310311177[55.1778055,30.2152121] n2045668953[55.1776603,30.2151381] n310311176[55.1773656,30.2149881] n310308543[55.1770740,30.2148716]
 w65601164  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes
+  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n332643938[55.1801160,30.2167352] n2918439403[55.1802295,30.2167946] n2918439404[55.1802589,30.2168100] n494324175[55.1803734,30.2168698]
 w65603779
   other tags : bridge=yes | highway=pedestrian | layer=1
@@ -8900,7 +8900,7 @@ w103233908
   other tags : highway=footway
     geometry : n1191936799[55.1841267,30.2063068] n2918659017[55.1841277,30.2063910] n1158124705[55.1841291,30.2065131] n1158124715[55.1840868,30.2067560] n1201840006[55.1840759,30.2068238] n1747348999[55.1841574,30.2068696] n1158124754[55.1840388,30.2074926] n1179365904[55.1836373,30.2096955] n310303328[55.1836292,30.2097350] n1201840094[55.1836226,30.2097751] n1179457684[55.1834602,30.2106552] n1158124925[55.1833013,30.2115607] n1179365825[55.1831440,30.2123902]
 w103233909  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n332643948[55.1801609,30.2164929] n332643938[55.1801160,30.2167352]
 w103337120
   other tags : highway=footway
@@ -13681,7 +13681,7 @@ w190682979
   other tags : highway=track
     geometry : n2013212203[55.2144450,30.2732899] n2013212204[55.2146443,30.2736294] n2013212205[55.2147457,30.2738917] n2013212206[55.2147890,30.2740171] n2013212207[55.2148671,30.2742065]
 w190814185  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | turn:lanes=left;reverse|through|through|through
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left;reverse|through|through|through
     geometry : n494324175[55.1803734,30.2168698] n494324176[55.1804171,30.2166327]
 w190814186  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
   other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes
@@ -14823,11 +14823,11 @@ w229015026
   other tags : highway=footway
     geometry : n1229699167[55.1788220,30.2215454] n2376579728[55.1787640,30.2218555]
 w229018332  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other names: name:de=Moskovsky Prospect  (Moskau Avenue) | name:fr=Moskovsky Prospect   (avenue de Moscou)
-  other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes
+  other names: name:de=Moskovsky Prospect (Moskau Avenue) | name:fr=Moskovsky Prospect (avenue de Moscou)
+  other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes | surface=asphalt
     geometry : n1313142991[55.1797558,30.2201830] n567027064[55.1801044,30.2183248]
 w229018333  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes
+  other tags : highway=primary | lanes=4 | maxspeed=50 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|through|through
     geometry : n567027064[55.1801044,30.2183248] n1283187994[55.1803081,30.2172231] n494324175[55.1803734,30.2168698]
 w229031653
   other tags : highway=track | smoothness=very_bad | tracktype=grade4
@@ -15634,11 +15634,11 @@ w235756905
   other tags : highway=footway
     geometry : n501584793[55.2038644,30.2122002] n2438145685[55.2039097,30.2121704] n2521010372[55.2039636,30.2121074] n3398049821[55.2039728,30.2121377] n2438145688[55.2040673,30.2121964] n2438145690[55.2040990,30.2120776]
 w235779817  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other names: name:de=Moskovsky Prospect  (Moskau Avenue) | name:fr=Moskovsky Prospect  (avenue  de Moscou)
-  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
+  other names: name:de=Moskovsky Prospect (Moskau Avenue) | name:fr=Moskovsky Prospect (avenue de Moscou)
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n1792748131[55.1800208,30.2172480] n310311126[55.1795108,30.2200379]
 w235779818  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
-  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n332643938[55.1801160,30.2167352] n1283188011[55.1800495,30.2170911] n1792748131[55.1800208,30.2172480]
 w235791112
   other tags : highway=steps
@@ -17430,9 +17430,6 @@ w246036943  вуліца Акадэміка Паўлава / vulica Akademika Pa
 w246431870  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=3 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through;right
     geometry : n336352081[55.1632840,30.2097420] n310308425[55.1634538,30.2098074]
-w246466554  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | turn:lanes=left;reverse|left|right
-    geometry : n1792748122[55.1798401,30.2165858] n1161856452[55.1799231,30.2166350] n332643938[55.1801160,30.2167352]
 w246677164  1-я Новаастровенская вуліца / 1-ja Novaastrovienskaja vulica / 1-я Новоостровенская улица / 1-я Новоостровенская улица
   other tags : highway=secondary | maxspeed=40 | maxspeed:practical=60 | oneway=yes
     geometry : n310300910[55.1582116,30.1761004] n332711583[55.1581334,30.1762318] n1846123220[55.1580287,30.1764265] n310301244[55.1579300,30.1766100] n310301252[55.1571600,30.1785400] n310301251[55.1570291,30.1789058]
@@ -18939,8 +18936,8 @@ w287314145
   other tags : highway=footway
     geometry : n310292993[55.1759780,30.2334490] n310292991[55.1760352,30.2342571] n2909399366[55.1760049,30.2343872] n2909399367[55.1759620,30.2347037] n2909399368[55.1760878,30.2350693]
 w287315831  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n310311149[55.1792690,30.2162450] n1792748122[55.1798401,30.2165858]
+  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|right
+    geometry : n310311149[55.1792690,30.2162450] n1792748122[55.1798401,30.2165858] n1161856452[55.1799231,30.2166350] n332643938[55.1801160,30.2167352]
 w287316186
   other tags : highway=footway
     geometry : n310312208[55.1709714,30.2285913] n3334576266[55.1709278,30.2289177] n2909452415[55.1709161,30.2290033]
@@ -24875,6 +24872,13 @@ w337387885
 w337394817
   other tags : highway=path | surface=unpaved
     geometry : n1113737958[55.1980578,30.2476277] n3444892900[55.1980017,30.2481608]
+w337440494  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
+  other names: name:de=Moskovsky Prospect (Moskau Avenue) | name:fr=Moskovsky Prospect (avenue de Moscou)
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=through|through|through|through|right
+    geometry : n310311101[55.1807022,30.2136817] n1792748139[55.1802318,30.2161110] n1161856480[55.1802057,30.2162519] n332643948[55.1801609,30.2164929]
+w337441122  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
+  other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|through|right
+    geometry : n1201840390[55.1824822,30.2054874] n1792752771[55.1827507,30.2040924] n310306450[55.1829119,30.2032440]
 r1573804
   other tags : area=yes | area:highway=pedestrian | highway=pedestrian | surface=paving_stones | type=multipolygon
     geometry : <outer> w103223804: n1168825944[55.1844304,30.2030343] n1747306288[55.1845287,30.2030792] n1269912274[55.1845329,30.2030573] n1818502734[55.1847293,30.2031626] n1191836131[55.1847619,30.2031801] n1818502733[55.1846906,30.2036141] n1747304390[55.1846798,30.2036467] n1792983771[55.1846670,30.2036662] n1201840279[55.1846556,30.2036772] n1191836201[55.1846375,30.2036873] n1269912272[55.1845992,30.2036915] n1191835961[55.1836649,30.2032450] n1191835908[55.1834237,30.2030184] n1191835997[55.1833616,30.2029470] n1191835999[55.1833151,30.2028222] n1191836097[55.1833079,30.2026759] n1191836103[55.1833474,30.2024888] n1191836177[55.1835667,30.2026064] n1168826024[55.1839497,30.2028120] n1168825942[55.1839673,30.2027363] n1168825789[55.1842660,30.2006620] n1168825824[55.1842742,30.2005901] n1747304388[55.1842748,30.2005578] n1168825898[55.1842720,30.2005259] n1747304387[55.1842645,30.2004937] n1168825768[55.1842536,30.2004659] n1168825981[55.1842294,30.2004256] n1168826064[55.1842004,30.2004073] n1168825849[55.1841589,30.2003884] n1168825833[55.1836703,30.2001373] n1272485012[55.1836962,30.1999812] n1168825919[55.1837408,30.1998388] n338869337[55.1844460,30.2002254] n1272485007[55.1844182,30.2003559] n338869340[55.1843542,30.2007587] n1272485055[55.1845019,30.2008238] n338869342[55.1846334,30.2008906] n1272484993[55.1846843,30.2005536] n338869336[55.1847356,30.2003819] n2482406569[55.1849263,30.2004579] n1168825984[55.1852632,30.2005923] n1272484991[55.1852415,30.2007898] n1168825802[55.1852306,30.2008947] n1168825876[55.1848677,30.2007682] n1168825977[55.1848349,30.2007564] n1168825823[55.1848088,30.2007596] n1168826058[55.1847760,30.2007861] n1168825860[55.1847566,30.2008427] n1168826017[55.1847467,30.2008776] n1168825934[55.1847396,30.2009275] n1269912266[55.1844427,30.2029652] n1168825944[55.1844304,30.2030343] : w103223804
