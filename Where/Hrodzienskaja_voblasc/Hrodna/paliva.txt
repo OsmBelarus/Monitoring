@@ -1,8 +1,8 @@
 n320409388  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel
     geometry : [53.7214387,23.8175996]
-n320409408  null / null / Лукойл №51
-  other tags : addr:housenumber=3 | addr:street=улица Богуцкого | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | phone=+375-152-438340 | ref=51 | shop=kiosk | website=http://lukoil.by/
+n320409408  null / null / МАЗС № 51
+  other tags : addr:housenumber=3 | addr:street=улица Богуцкого | amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:e-100=yes | payment:mastercard=yes | payment:visa=yes | phone=+375 152 43 83 40 | ref=51 | shop=kiosk | website=http://lukoil.by/
     geometry : [53.7108093,23.8097555]
 n320409429  null / null / АЗС №59
   other tags : amenity=fuel | fuel:diesel=yes | operator=Белоруснефть | ref=59
@@ -13,8 +13,8 @@ n320409510
 n320409587
   other tags : amenity=fuel | operator=Белоруснефть
     geometry : [53.6873233,23.8058166]
-n320409666  null / null / АЗС №55
-  other tags : amenity=fuel | description=Филиал №5 | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | ref=55 | shop=yes | source=survey
+n320409666  null / null / АЗС № 55
+  other tags : amenity=fuel | description=Филиал № 5 | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | phone=+375 152 75 27 32 | ref=55 | shop=yes | source=survey
     geometry : [53.6776449,23.8420625]
 n320409697  null / null / АЗС №77
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | ref=77 | shop=kiosk | source:name=survey
@@ -37,8 +37,8 @@ n320409780  null / null / АЗС №36 ИООО "ГАЗПРОМНЕФТЬ-БЕЛ
 n320409781  null / null / АЗС №5
   other tags : amenity=fuel | operator=Белоруснефть
     geometry : [53.6688553,23.8672425]
-n320409794  null / null / МАЗС №53
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | operator=Лукойл | ref=53 | shop=yes
+n320409794  null / null / МАЗС № 53
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:e-100=yes | payment:mastercard=yes | payment:visa=yes | phone=+375 152 75 78 85 | ref=53 | shop=yes
     geometry : [53.6656277,23.8692181]
 n320409832
   other tags : amenity=fuel
@@ -49,8 +49,8 @@ n320409876
 n320409919  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | source=survey
     geometry : [53.6515350,23.8163150]
-n320409920  null / null / АЗС №52 Лукоил
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | ref=52 | shop=yes
+n320409920  null / null / АЗС № 52
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:e-100=yes | payment:mastercard=yes | payment:visa=yes | phone=+375 152 55 30 70 | ref=52 | shop=yes
     geometry : [53.6511171,23.7896225]
 n320409932  null / null / АЗС №41 ИООО "Газпромнефть-белнефтепродукт"
   other tags : amenity=fuel | loc_name=Юкола | operator=Газпромнефть-белнефтепродукт | ref=АЗС № 41
@@ -58,8 +58,8 @@ n320409932  null / null / АЗС №41 ИООО "Газпромнефть-бел
 n320409933
   other tags : amenity=fuel | fuel:lpg=yes | operator=Гроднооблгаз
     geometry : [53.6473967,23.7776228]
-n320409941  Белоруснефть / null / Белоруснефть / Белоруснефть АЗС№4
-  other tags : amenity=fuel
+n320409941  Белоруснефть / null / Белоруснефть / Белоруснефть АЗС № 4
+  other tags : amenity=fuel | operator=Белоруснефть
     geometry : [53.6463455,23.8300699]
 n320409952  null / null / МАЗС № 6
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | payment:credit_cards=yes | payment:notes=yes | ref=6 | shop=yes
@@ -70,8 +70,8 @@ n421925219  Беларуснафта №50 / Belorusneft №50 / Белорус�
 n444893230
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [53.7058297,23.8279084]
-n506553601  null / null / МАЗС №49
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | ref=49 | shop=yes
+n506553601  null / null / МАЗС № 49
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | ref=49 | shop=yes
     geometry : [53.6770498,23.8898739]
 n571686065  null / null / МАЗС №55
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | note=Заправка газом и нефтепродуктами. | operator=Белоруснефть | ref=55 | shop=yes | source=local knowledge
@@ -106,12 +106,12 @@ n2165174571  null / null / Белоруснефть МАЗС № 71
 n2469429170  null / null / Пункт обмена баллонов
   other tags : amenity=fuel | fuel:cng=yes | opening_hours=Tu-Sa 08:00-13:00,13:30-16:30
     geometry : [53.6476970,23.7787267]
-n2836134000  null / null / Лукойл №51
-  other tags : addr:housenumber=3 | addr:street=улица Богуцкого | amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | operator=Лукойл | phone=+375-152-438340 | ref=51 | shop=kiosk | website=http://lukoil.by/
-    geometry : [53.7109460,23.8107028]
 n3144443075  Беларуснафта №50 / Belorusneft №50 / Белоруснефть №50 / Белоруснефть №50
   other tags : amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-152-755063 | ref=50 | website=http://www.belorusneft.by/
     geometry : [53.6679572,23.8747635]
+n3444378938
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes
+    geometry : [53.6476999,23.8118130]
 w228481542
   other tags : amenity=fuel | area:highway=service | surface=asphalt
     geometry : n2371573084[53.6761756,23.8056935] n2371573071[53.6761036,23.8056358] n2371573070[53.6760226,23.8053593] n2371573065[53.6759452,23.8052256] n2371573024[53.6755205,23.8050160] n2371573018[53.6754557,23.8051345] n2371573017[53.6754485,23.8053107] n2371573021[53.6754881,23.8055112] n2371573028[53.6755961,23.8056571] n2371573042[53.6756914,23.8057330] n2371573048[53.6757544,23.8057543] n2371573052[53.6757742,23.8057999] n2371573054[53.6757760,23.8058515] n2371573084[53.6761756,23.8056935]

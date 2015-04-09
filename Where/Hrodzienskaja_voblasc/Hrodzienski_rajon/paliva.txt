@@ -19,8 +19,8 @@ n320409991  Беларуснафта №10 / Belorusneft №10 / Белорус�
 n460398366
   other tags : amenity=fuel | operator=Белнефтехим | source=survey
     geometry : [53.7213857,24.1951995]
-n847177190  null / null / Лукойл №50
-  other tags : amenity=fuel | fuel:cng=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Лукойл | phone=+375-152-937861 | ref=50 | shop=yes | source=survey | website=http://lukoil.by/
+n847177190  null / null / МАЗС № 50
+  other tags : amenity=fuel | fuel:cng=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | payment:berlio=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | phone=+375 152 93 78 61 | ref=50 | shop=yes | source=survey | website=http://lukoil.by/
     geometry : [53.8053024,23.8594352]
 n1131372988  null / null / АЗС №53
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | opening_hours=24/7 | operator=Беларуснефть | phone=+375 152 937 292 | ref=53
@@ -37,9 +37,6 @@ n2358072268  null / null / Белоруснефть
 n2588125962  null / null / АЗС
   other tags : amenity=fuel
     geometry : [53.5528876,23.8653154]
-n2836141653  null / null / Лукойл №50
-  other tags : amenity=fuel | fuel:lpg=yes | operator=Лукойл | phone=+375-152-937861 | ref=50 | shop=yes | source=survey | website=http://lukoil.by/
-    geometry : [53.8058710,23.8596532]
 w82279813
   other tags : amenity=fuel
     geometry : n958150118[53.5539237,23.8718771] n958150119[53.5536497,23.8721829] n958150120[53.5537102,23.8723438] n958150121[53.5539891,23.8720354] n958150118[53.5539237,23.8718771]

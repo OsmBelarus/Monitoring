@@ -2,7 +2,7 @@ n1676689560  null / null / Каравай
   other tags : shop=bakery
     geometry : [54.6496699,29.1342810]
 n1676690709
-  other tags : opening_hours=с 9 до 18 | shop=mall
+  other tags : opening_hours=9:00-18:00 | shop=mall
     geometry : [54.6556497,29.1456488]
 n2444389433
   other tags : shop=books
@@ -23,7 +23,7 @@ n2444393349
   other tags : addr:city=Новолукомль | addr:postcode=211162 | shop=fishmonger
     geometry : [54.6578262,29.1414687]
 n2444393350  null / null / Промтовары
-  other tags : addr:city=Новолукомль | addr:postcode=211162 | opening_hours=с 8 до 20 00 | shop=convenience
+  other tags : addr:city=Новолукомль | addr:postcode=211162 | opening_hours=8:00-20:00 | shop=convenience
     geometry : [54.6577583,29.1415215]
 n2444393351  null / null / Техносеть
   other tags : shop=electronics
@@ -38,7 +38,7 @@ n2463395390  null / null / Радуга
   other tags : shop=yes
     geometry : [54.6566454,29.1406971]
 n2463399896  null / null / Кулинария
-  other tags : addr:city=Новолукомль | addr:postcode=211162 | addr:street=бульвар Озмителя | opening_hours=с 9 до 19 00 | shop=convenience
+  other tags : addr:city=Новолукомль | addr:postcode=211162 | addr:street=бульвар Озмителя | opening_hours=9:00-19:00 | shop=convenience
     geometry : [54.6574988,29.1428115]
 n2463400376  null / null / Обувь
   other tags : shop=shoes
@@ -67,6 +67,9 @@ n3208241981  null / null / Чистюля
 n3208243739  null / null / Лана
   other tags : addr:city=Новолукомль | addr:postcode=211162 | shop=clothes
     geometry : [54.6575332,29.1419663]
+n3214158166  null / null / Магазин
+  other tags : shop=convenience
+    geometry : [54.6557103,29.1452369]
 n3214158167  null / null / Солярий
   other tags : shop=beauty
     geometry : [54.6553980,29.1447046]

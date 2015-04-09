@@ -1795,17 +1795,11 @@ n2345934470  null / null / Автозапчасти MG.BY
 n2349479641  null / null / Военсервис
   other tags : note=на ремонте | shop=convenience
     geometry : [55.1909133,30.2492292]
-n2352433093  null / null / Белтехосмотр
-  other tags : amenity=vehicle_inspection | building:levels=2 | operator=ЧУП «Технотэкс» | phone=+375212247924 | shop=car_repair | website=http://gto.by/
-    geometry : [55.1836657,30.2503646]
 n2352433113
   other tags : shop=car_repair
     geometry : [55.1836189,30.2503840]
-n2352501672  null / null / Белтехосмотр
-  other tags : amenity=vehicle_inspection | operator=ОАО «Автотранспортное предприятие № 5» | phone=+375212237205 | shop=car_repair | website=http://gto.by/
-    geometry : [55.1875260,30.2595648]
 n2352807270  null / null / замена масла
-  other tags : shop=car_repair
+  other tags : service=oil | shop=car_repair
     geometry : [55.1817200,30.2485467]
 n2352807376
   other tags : shop=car_parts

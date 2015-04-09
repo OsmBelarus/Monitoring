@@ -352,9 +352,6 @@ n1024778829  null / null / Дисконт
 n1024778873  null / null / Универсальная База ЧТУП Гомельского Облпотребсоюза
   other tags : shop=supermarket
     geometry : [52.4616441,31.0115014]
-n1042569563  null / null / Гомельский
-  other tags : shop=convenience
-    geometry : [52.4188767,30.9863678]
 n1057092758  null / null / Прима
   other tags : shop=chemist
     geometry : [52.4288471,30.9955344]
@@ -936,7 +933,7 @@ n1362752182  null / null / Магнолия
   other tags : shop=florist
     geometry : [52.4173846,31.0008306]
 n1362758163  Мэбля / null / Мебель / Мебель
-  other tags : shop=convenience
+  other tags : addr:housenumber=113 | addr:street=улица Барыкина | shop=furniture
     geometry : [52.4187230,30.9811597]
 n1362786105
   other tags : shop=convenience
@@ -1088,9 +1085,6 @@ n1560444947  null / null / Сахарторг
 n1563449260  null / null / Для Вас
   other tags : shop=convenience
     geometry : [52.4439150,30.9927845]
-n1696107643  null / null / Дискаунтер "Евроопт"
-  other tags : shop=supermarket
-    geometry : [52.4047799,30.9189486]
 n1696111773  null / null / Магазин "Час Пик"
   other tags : shop=convenience
     geometry : [52.4423131,31.0009349]
