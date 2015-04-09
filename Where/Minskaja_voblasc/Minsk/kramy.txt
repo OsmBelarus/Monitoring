@@ -2340,7 +2340,7 @@ n593622491  Гламур / null / Гламур
   other tags : shop=hairdresser
     geometry : [53.9335628,27.6014008]
 n593622496  null / null / Садовая техника
-  other tags : addr:city=Минск | addr:housenumber=63 | addr:street=улица Якуба Колоса | shop=hardware | url=agrox.by
+  other tags : addr:city=Минск | addr:housenumber=63 | addr:street=улица Якуба Коласа | shop=hardware | url=agrox.by
     geometry : [53.9348151,27.6023807]
 n593622516  Насенне / null / Насенне
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=garden_centre
@@ -3140,7 +3140,7 @@ n1064214555  null / null / Людмилица
   other tags : shop=convenience
     geometry : [53.8975744,27.4900245]
 n1064219060  null / null / Мясной магазин
-  other tags : addr:housenumber=62 | addr:street=Янки Мавра | operator=Мясная Гаспадарка | shop=butcher
+  other tags : addr:housenumber=62 | addr:street=улица Янки Мавра | operator=Мясная Гаспадарка | shop=butcher
     geometry : [53.8970863,27.4903725]
 n1065108940  null / null / СТО "СитиАвтоСервис"
   other tags : shop=car_repair
@@ -5310,7 +5310,7 @@ n1790053516  null / null / Магазин в общежитии №6
   other tags : addr:housename=Общежитие №6 БГУ | addr:housenumber=10 | addr:postcode=220030 | addr:street=Октябрьская улица | shop=convenience
     geometry : [53.8921821,27.5674690]
 n1791600628  null / null / Дорорс
-  other tags : addr:housenumber=19 | opening_hours=Mo-Su 08:00-20:00 | shop=convenience
+  other tags : addr:housenumber=19 | addr:street=Профсоюзная улица | opening_hours=Mo-Su 08:00-20:00 | shop=convenience
     geometry : [53.8078207,27.5804831]
 n1794346026  null / null / Малахитовая шкатулка
   other tags : shop=jewelry
@@ -7272,6 +7272,9 @@ n2621395955  null / null / Ветерок
 n2621400661
   other tags : shop=hairdresser
     geometry : [53.8860192,27.4262551]
+n2621455399  null / null / Белсаюздрук
+  other tags : shop=newsagent
+    geometry : [53.9003553,27.4421508]
 n2621455402  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.9060616,27.4354620]
@@ -7625,10 +7628,10 @@ n2628400628  null / null / продуктовый
   other tags : shop=supermarket
     geometry : [53.8409166,27.6318235]
 n2628648208  null / null / Секонд хенд
-  other tags : addr:housenumber=18 | addr:street=Хоружей | shop=clothes
+  other tags : addr:housenumber=18 | addr:street=улица Веры Хоружей | shop=clothes
     geometry : [53.9215229,27.5687412]
 n2628651029  null / null / Магазин Охота и рыбалка
-  other tags : addr:city=Минск | addr:housenumber=18/1 | addr:postcode=220123 | addr:street=Хоружей | shop=department_store
+  other tags : addr:city=Минск | addr:housenumber=18/1 | addr:postcode=220123 | addr:street=улица Веры Хоружей | shop=department_store
     geometry : [53.9213460,27.5695136]
 n2628676874  null / null / Эврика
   other tags : addr:city=Минск | addr:housenumber=75 | addr:postcode=220100 | addr:street=улица Куйбышева | phone=+375 17 292 00 67 | shop=books | website=http://www.evrica.belkniga.by/
@@ -8219,7 +8222,7 @@ n3095539790  null / null / Изюминка
 n3095539791  null / null / Фрукты-овощи
   other tags : shop=kiosk
     geometry : [53.9006223,27.4358568]
-n3095540853  null / null / РЕМОНТ обуви
+n3095540853  null / null / Ремонт обуви
   other tags : shop=shoes
     geometry : [53.9002869,27.4403896]
 n3095540856  null / null / Розлив пива
@@ -8265,7 +8268,7 @@ n3100339029  null / null / Медея
   other tags : addr:city=Минск | addr:housenumber=135 | addr:postcode=220100 | addr:street=улица Максима Богдановича | opening_hours=8 - 20 | phone=+375 17 283 25 54 | shop=beauty
     geometry : [53.9234921,27.5690247]
 n3100340587
-  other tags : addr:housenumber=1 | shop=florist
+  other tags : shop=florist
     geometry : [53.9239344,27.5693788]
 n3100340588  null / null / Елена
   other tags : addr:city=Минск | addr:housenumber=135 | addr:postcode=220100 | addr:street=улица Максима Богдановича | shop=florist

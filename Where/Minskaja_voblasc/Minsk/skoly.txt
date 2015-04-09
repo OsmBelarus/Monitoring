@@ -378,7 +378,7 @@ n1159763566  null / null / Детская художественная школ�
   other tags : amenity=school
     geometry : [53.8955557,27.5542578]
 n1377652352  null / MyFreedom / Майфридом-центр
-  other tags : addr:housenumber=16 | alt_name=www.myfreedom.by | amenity=school
+  other tags : addr:housenumber=16 | addr:street=переулок Калинина | alt_name=www.myfreedom.by | amenity=school
     geometry : [53.9327616,27.6086701]
 n1595946431  null / null / null / Гимназия № 5 младшие классы
   other tags : amenity=school
@@ -426,7 +426,7 @@ n2609162852  null / null / СШ№148
   other tags : amenity=school
     geometry : [53.9581535,27.6182612]
 n2609162853  null / null / Гимназия № 22
-  other tags : addr:housenumber=8 | addr:street=Улица Гамарника | amenity=school
+  other tags : addr:housenumber=8 | addr:street=улица Гамарника | amenity=school
     geometry : [53.9587903,27.6190063]
 n2613170229  null / null / Музыкальная школа
   other tags : addr:street=улица Якуба Коласа | amenity=school
