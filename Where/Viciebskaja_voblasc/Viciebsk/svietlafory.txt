@@ -653,8 +653,8 @@ n1855185870  null / null / улица 3-я Бебеля
   other tags : highway=bus_stop
     geometry : [55.1901871,30.1788409]
 n1855953483
-  other tags : highway=bus_stop
-    geometry : [55.1690422,30.2651148]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1690301,30.2651825]
 n1868900588  null / null / Лиозненская
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1908681,30.2808408]
@@ -989,8 +989,8 @@ n2876225931
 n2876225973
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1643184,30.2765431]
-n2876226021
-  other tags : highway=bus_stop | public_transport=platform
+n2876226021  null / null / Генерала Ивановского
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1655458,30.2638300]
 n2912317072
   other tags : bus=yes | highway=bus_stop | public_transport=platform
@@ -1142,3 +1142,9 @@ n3234419471  null / null / Посёлок Билево
 n3234419474  null / null / Улица Короткевича
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1750680,30.2595914]
+n3445682795  null / null / Генерала Ивановского
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1648221,30.2666181]
+n3445682842
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1673487,30.2783872]
