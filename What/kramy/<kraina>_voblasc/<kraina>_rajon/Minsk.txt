@@ -2580,7 +2580,7 @@ n768586403  null / null / Зеленый клен
   other tags : addr:housenumber=26 | addr:postcode=220112 | addr:street=Игуменский тракт | phone=+375173287772 | shop=supermarket | website=http://zelenyiklen.by/
     geometry : [53.8425692,27.5717190]
 n769113236  null / null / Шиномонтаж
-  other tags : addr:housenumber=130 | addr:street=улица Есенина | shop=tyres
+  other tags : addr:housenumber=130 | addr:street=улица Сергея Есенина | shop=tyres
     geometry : [53.8661211,27.4374035]
 n769118408
   other tags : shop=convenience
@@ -2589,7 +2589,7 @@ n769123027
   other tags : brand=Chevrolet, Lada | shop=car
     geometry : [53.8440114,27.5369073]
 n769124225  null / null / СТО-Мерседес
-  other tags : addr:housenumber=130А | addr:street=улица Есенина | shop=car_repair
+  other tags : addr:housenumber=130А | addr:street=улица Сергея Есенина | shop=car_repair
     geometry : [53.8663724,27.4366436]
 n774667733  null / null / У Юлии
   other tags : phone=+375172845999 | shop=hairdresser | source=advertisement
@@ -4341,7 +4341,7 @@ n1462083152  null / null / Пивной барон
   other tags : addr:housename=Пивной барон | addr:housenumber=26 | addr:postcode=220112 | addr:street=Игуменский тракт | opening_hours=10:00-23:00 | phone=+37529 1234 014 | shop=beverages | website=http://www.beerbaron.by/
     geometry : [53.8427644,27.5712714]
 n1463849097
-  other tags : addr:housenumber=123 | addr:street=ул. Лынькова | note=Прием б/у АКБ, продажа новых АКБ | operator=группа компаний ПАК | shop=car
+  other tags : addr:housenumber=123 | addr:street=улица Михася Лынькова | note=Прием б/у АКБ, продажа новых АКБ | operator=группа компаний ПАК | shop=car
     geometry : [53.9307149,27.4637997]
 n1464597871
   other tags : shop=car
@@ -5076,7 +5076,7 @@ n1685841670  null / null / Связной
   other tags : shop=mobile_phone
     geometry : [53.9003635,27.4460072]
 n1685864321  null / null / СТО
-  other tags : addr:housenumber=130 | addr:street=улица Есенина | shop=car_repair
+  other tags : addr:housenumber=130 | addr:street=улица Сергея Есенина | shop=car_repair
     geometry : [53.8660600,27.4376392]
 n1693866760  null / null / Volkswagen
   other tags : shop=car_repair
