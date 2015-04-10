@@ -1488,7 +1488,7 @@ n1708287536  null / null / Рада
     geometry : [55.2006324,30.2071791]
 n1708626537  null / null / Продукты
   other tags : shop=convenience
-    geometry : [55.1643604,30.2120905]
+    geometry : [55.1643586,30.2120212]
 n1712341313  null / null / Автозапчасти
   other tags : contact:phone=+375336420532, +375293555915 | opening_hours=Mo-Sa 09:00-19:00 | operator=ЧТПУП «НордАвто» | shop=car_parts
     geometry : [55.1944206,30.2324790]
@@ -3111,7 +3111,7 @@ n3084226227  Белсаюздрук / null / Белсоюзпечать
   other tags : shop=newsagent
     geometry : [55.1765369,30.2431520]
 n3084226535  Белсаюздрук / null / Белсоюзпечать
-  other tags : shop=newsagent
+  other tags : fixme=уточнить наличие | shop=newsagent
     geometry : [55.1752767,30.2439668]
 n3084227333  Белсаюздрук / null / Белсоюзпечать
   other tags : shop=newsagent
@@ -3281,8 +3281,8 @@ n3245827940  null / null / СТО Евро
   other tags : phone=+375- 29-3773100, +375-33-3773100 | shop=car_repair | website=http://www.stoevro.by/
     geometry : [55.1796709,30.1835979]
 n3247298514  null / null / Салон красоты "Bybor"
-  other tags : addr:city=Витебск | addr:housenumber=40 | addr:postcode=210032 | addr:street=улица Чкалова | shop=beauty
-    geometry : [55.1644908,30.2110694]
+  other tags : shop=beauty
+    geometry : [55.1644807,30.2110651]
 n3250934159  null / null / Зоомагазин
   other tags : level=2 | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-15:00 | shop=pet
     geometry : [55.2013904,30.2647647]
