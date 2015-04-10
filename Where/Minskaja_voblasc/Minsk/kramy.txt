@@ -3604,17 +3604,17 @@ n1216621471  null / null / Свитанак / Свитанак
 n1223278892
   other tags : shop=doityourself
     geometry : [53.8375409,27.6422491]
-n1223278893  null / null / Мясной магазин "Гурман"
+n1223278893  null / null / Гурман
   other tags : shop=butcher
     geometry : [53.8374052,27.6415055]
 n1223283847  null / null / Щетовка
   other tags : addr:housenumber=14 | addr:street=улица Голодеда | shop=convenience
     geometry : [53.8403442,27.6433562]
 n1223283852  null / null / продуктовый магазин "Соседи"
-  other tags : addr:housenumber=15 | addr:street=улица Голодеда | opening_hours=8-23 | shop=convenience
+  other tags : addr:housenumber=15 | addr:street=улица Голодеда | opening_hours=Mo-Su 08:00-23:00 | shop=convenience
     geometry : [53.8393772,27.6410817]
 n1223283863  null / null / Смак
-  other tags : addr:housenumber=11 | addr:street=улица Ауэзова | opening_hours=8-22 | shop=convenience
+  other tags : addr:housenumber=11 | addr:street=улица Ауэзова | opening_hours=Mo-Su 08:00-22:00 | shop=convenience
     geometry : [53.8375540,27.6431952]
 n1223303512  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
