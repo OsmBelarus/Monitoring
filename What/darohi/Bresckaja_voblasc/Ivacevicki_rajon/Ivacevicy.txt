@@ -372,13 +372,13 @@ w80232365
   other tags : highway=tertiary | official_name=Ивацевичи - Житлин - Корочин | ref=Н692 | surface=asphalt
     geometry : n275444182[52.6963720,25.3202778] n581846787[52.6911150,25.3210857] n2822553373[52.6874126,25.3216617] n1263238235[52.6871943,25.3217159] n442936677[52.6824994,25.3237227] n2804051993[52.6817292,25.3238185] n275441531[52.6797386,25.3227861] n275444183[52.6784716,25.3221033] n1956066023[52.6777019,25.3224788]
 w80232366  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | ref=Р2
+  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n275444137[52.7216915,25.3629154] n2822515623[52.7203939,25.3603546]
 w80232367
   other tags : highway=residential
     geometry : n372419428[52.7079856,25.3351799] n581846923[52.7056132,25.3359623]
 w80232368
-  other tags : highway=primary | maxspeed=60 | ref=Р2
+  other tags : highway=primary | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n275444141[52.6989859,25.3170120] n3310368268[52.6987180,25.3164728]
 w85945140
   other tags : highway=residential
@@ -399,7 +399,7 @@ w157770384
   other tags : highway=residential
     geometry : n581891236[52.7164030,25.3425880] n581891252[52.7158397,25.3460512] n581891248[52.7157661,25.3465290] n416836117[52.7155019,25.3470928] n3217232235[52.7152253,25.3474046]
 w173467488  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | maxspeed=60 | ref=Р2 | surface=asphalt
+  other tags : highway=primary | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта | surface=asphalt
     geometry : n275441440[52.7144024,25.3482641] n416836160[52.7129621,25.3453888] n3217232221[52.7122483,25.3438670] n416836087[52.7119437,25.3432175] n275444138[52.7107498,25.3408542] n581983745[52.7097695,25.3388417] n416836037[52.7090518,25.3374495] n372419428[52.7079856,25.3351799] n2822476941[52.7070169,25.3331950] n581846891[52.7069554,25.3330690] n581846863[52.7060370,25.3312218] n581846859[52.7052154,25.3295524] n581846839[52.7034002,25.3258444] n581846837[52.7029657,25.3249627] n3310368290[52.7015028,25.3220895] n275444140[52.7013938,25.3218754] n3310368282[52.7006113,25.3202950] n3310368279[52.7003157,25.3196978] n3310368271[52.6994457,25.3179407] n3310368269[52.6990327,25.3171065] n275444141[52.6989859,25.3170120]
 w274243715
   other tags : highway=residential
@@ -531,19 +531,19 @@ w277849499
   other tags : highway=residential
     geometry : n2822549862[52.7053506,25.3621752] n581846997[52.7051258,25.3609779] n2822549814[52.7044821,25.3590142]
 w277849532
-  other tags : highway=primary | int_ref=E 85 | maxspeed=90 | ref=Р2
+  other tags : highway=primary | int_ref=E 85 | maxspeed=90 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n2822967889[52.7252969,25.3704168] n416836165[52.7243578,25.3685211] n275444137[52.7216915,25.3629154]
 w277849535  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : bridge=yes | highway=primary | int_ref=E 85 | layer=1 | maxspeed=60 | ref=Р2
+  other tags : bridge=yes | highway=primary | int_ref=E 85 | layer=1 | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n2822967833[52.7194059,25.3583557] n2822496154[52.7190466,25.3576104]
 w277849536  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | ref=Р2
+  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n2822967835[52.7201930,25.3599665] n2822967833[52.7194059,25.3583557]
 w277849537  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : bridge=yes | highway=primary | int_ref=E 85 | layer=1 | maxspeed=60 | ref=Р2
+  other tags : bridge=yes | highway=primary | int_ref=E 85 | layer=1 | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта
     geometry : n2822515623[52.7203939,25.3603546] n2822967835[52.7201930,25.3599665]
 w277849538  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | ref=Р2 | surface=asphalt
+  other tags : highway=primary | int_ref=E 85 | maxspeed=60 | official_name=Столбцы — Ивацевичи — Кобрин | ref=Р2 | source:ref=Публичная кадастровая карта | surface=asphalt
     geometry : n2822496154[52.7190466,25.3576104] n581891260[52.7168321,25.3531136] n581983798[52.7158167,25.3511066] n275441440[52.7144024,25.3482641]
 w315598019
   other tags : bridge=viaduct | highway=footway | layer=1
