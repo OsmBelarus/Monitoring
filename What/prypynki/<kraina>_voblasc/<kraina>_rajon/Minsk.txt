@@ -1,11 +1,11 @@
 n211621449  null / null / БНТУ
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9242250,27.5919855]
 n254987885  Аўтавакзал Усходні / null / Автовокзал Восточный / Автовокзал "Восточный"
   other tags : amenity=bus_station | operator=Минсктранс
     geometry : [53.8773676,27.5993345]
 n255190052  ст. м. "Партызанская" / null / ст.м. "Партизанская"
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8766414,27.6270514]
 n277734756
   other tags : amenity=bus_station
@@ -38,7 +38,7 @@ n320718945  Вакзал / null / Вокзал / Вокзал
   other tags : railway=tram_stop
     geometry : [53.8918719,27.5469031]
 n340354774  праспект Ракасоўскага / null / проспект Рокоссовского / проспект Рокоссовского
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8627072,27.6069309]
 n340418844  Свярдлова / null / Свердлова / Свердлова
   other tags : railway=tram_stop
@@ -62,73 +62,73 @@ n343858628  ДС Серабранка / null / ДС Серебрянка / ДС 
   other tags : amenity=bus_station
     geometry : [53.8485577,27.6023215]
 n380447000  Гараўца / null / Горовца
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8653853,27.6151866]
 n506566577  Берасцянская / null / Берестянская / Берестянская
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9069334,27.5882318]
 n522096256  ДС Уручча-2 / null / ДС Уручье-2 / ДС Уручье-2
   other tags : amenity=bus_station
     geometry : [53.9322830,27.6944264]
 n567327478  Серабранка-3 / null / Серебрянка-3 / Серебрянка-3
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8526575,27.5952929]
 n567327479  Якубава / null / Якубова / Якубова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8584371,27.5917432]
 n567327481  Васняцова / null / Васнецова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8678322,27.6207911]
 n567327482  Народная / null / Народная
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8727818,27.6247269]
 n567327483  Ванеева / null / Ванеева
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8853116,27.6197344]
 n567327493  Уральская / null / Уральская
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8983839,27.6050583]
 n567327498  Трактарны завод / null / Тракторный завод
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8893117,27.6153138]
 n567327510  парк 50-годдзя Кастрычніка / null / парк 50-летия Октября
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8819882,27.6231399]
 n567331522  Батанічная / null / Ботаническая / Ботаническая
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9043886,27.5964516]
 n567331523  Платонава / null / Платонова / Платонова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9062783,27.5905051]
 n567331524  Платонава / null / Платонова / Платонова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9057927,27.5911719]
 n567333848  З. Бядулі / null / З. Бядули / З. Бядули
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9073497,27.5829885]
 n567337188  Красная / null / Красная / Красная
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9131501,27.5752023]
 n567337191  праспект Незалежнасці / null / проспект Независимости / проспект Независимости
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9103567,27.5783100]
 n567337192  Пугачоўская / null / Пугачевская / Пугачевская
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9139794,27.5773597]
 n567338364  плошча Якуба Коласа / null / площадь Якуба Коласа / площадь Якуба Коласа
   other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9160980,27.5826679]
 n567794249  Будзёнага / null / Будённого
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8865813,27.6184407]
 n567796859  Дарашэвіча / null / Дорошевича / Дорошевича
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9206708,27.5881307]
 n567797522  Багдана Хмяльніцкага / null / Богдана Хмельницкого / Богдана Хмельницкого
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9252089,27.5930407]
 n595691672  Бялінскага / null / Белинского / Белинского
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9351773,27.6028484]
 n612352754  null / null / ДC Кунцевщина
   other tags : amenity=bus_station
@@ -155,28 +155,28 @@ n816440280  null / null / улица Кольцова / улица Кольцо�
   other tags : railway=tram_stop
     geometry : [53.9514138,27.6177598]
 n1040949068  Парк Горкага / null / Парк Горького
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9000037,27.5736198]
 n1070436672  null / null / Стадион "Динамо"
   other tags : railway=tram_stop
     geometry : [53.8943016,27.5621725]
 n1080926210  null / null / Д/С Озеро / Д/С Озеро
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9330394,27.5416692]
 n1080926299  Тэатральная / null / Театральная / Театральная
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9173956,27.5569684]
 n1080926438  вуліца Максіма Багдановіча / null / улица Максима Богдановича / улица Максима Богдановича
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9164976,27.5650166]
 n1503033806  Цэнтральны аўтавакзал / null / Автовокзал Центральный
   other tags : amenity=bus_station
     geometry : [53.8896515,27.5568420]
 n1860106687  null / null / Д/С Серебрянка
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8506121,27.5970255]
 n1860106688  null / null / Д/С Серебрянка
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8498241,27.5977567]
 n1901125234  null / null / Октябрьская
   other tags : railway=tram_stop
@@ -191,11 +191,11 @@ n1901125305  null / null / Студенческий городок
   other tags : railway=tram_stop
     geometry : [53.8923892,27.5679094]
 n1901127860  null / null / Чапаева
-  other tags : railway=tram_stop
-    geometry : [53.9042859,27.5854210]
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
+    geometry : [53.9042844,27.5854110]
 n1901127861  null / null / Чапаева
-  other tags : railway=tram_stop
-    geometry : [53.9044207,27.5852507]
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
+    geometry : [53.9043660,27.5852688]
 n1911551711  null / null / улица Калинина / улица Калинина
   other tags : railway=tram_stop
     geometry : [53.9307672,27.5990013]
@@ -209,22 +209,22 @@ n2852528983  null / null / ДС КАЛИНОВСКОГО / ДС КАЛИНОВС
   other tags : amenity=bus_station | building=yes
     geometry : [53.9436303,27.6431412]
 n2863838181  ст. м. "Партызанская" / null / ст.м. "Партизанская"
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8766309,27.6271205]
 n2863856139  Трактарны завод / null / Тракторный завод
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8895128,27.6151444]
 n2866040308  завулак Казлова / null / переулок Козлова / переулок Козлова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9014088,27.6017816]
 n2866040311  Уральская / null / Уральская
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8978518,27.6057190]
 n2868276549  плошча Якуба Коласа / null / площадь Якуба Коласа / площадь Якуба Коласа
   other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9155455,27.5819008]
 n2919447872  завулак Казлова / null / переулок Козлова / переулок Козлова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9018236,27.6012598]
 n3005336646  null / null / АС Славинского
   other tags : amenity=bus_station
@@ -245,61 +245,61 @@ n3162738665  РК Брылевічы / null / РК Брилевичи
   other tags : amenity=bus_station
     geometry : [53.8430049,27.4748226]
 n3164454963  null / null / Богдановича М.
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9167217,27.5628179]
 n3286297187  Серабранка-3 / null / Серебрянка-3 / Серебрянка-3
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8526752,27.5953612]
 n3304415369  Якубава / null / Якубова / Якубова
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8585572,27.5923306]
 n3351787852  null / null / Центральный Автовокзал
   other tags : amenity=bus_station
     geometry : [53.8900007,27.5554089]
 n3417174478  null / null / Веры Слуцкой / Веры Слуцкой
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9302375,27.5435713]
 n3417174479  null / null / Веры Слуцкой / Веры Слуцкой
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9306828,27.5433409]
 n3417174480  null / null / Дворец детей и молодёжи / Дворец детей и молодёжи
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9252522,27.5453647]
 n3417174481  null / null / Старовиленский тракт / Старовиленский тракт
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9263369,27.5451537]
 n3417174482  null / null / Переспа / Переспа
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9205247,27.5502475]
 n3417174483  null / null / Переспа / Переспа
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9205972,27.5501212]
 n3447549808  null / null / Дворец детей и молодёжи / Дворец детей и молодёжи
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9243771,27.5462583]
 n3447549809  Змітрака Бядулі / null / Змитрока Бядули / Змитрока Бядули
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9079585,27.5846446]
 n3447549810  Красная / null / Красная / Красная
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9131419,27.5751557]
 n3447549811  Куйбышава / null / Куйбышева / Куйбышева
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9160087,27.5702953]
 n3447549812  Куйбышава / null / Куйбышева / Куйбышева
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9160543,27.5700831]
 n3447549813  Паліклініка № 18 / null / Поликлиника № 18 / Поликлиника № 18
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8600957,27.5977739]
 n3447549814  Паліклініка № 18 / null / Поликлиника № 18 / Поликлиника № 18
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.8603698,27.5985109]
 n3447549815  Тэатральная / null / Театральная / Театральная
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9174492,27.5562693]
 n3447549816  праспект Незалежнасці / null / проспект Независимости / проспект Независимости
-  other tags : railway=tram_stop
+  other tags : public_transport=stop_position | railway=tram_stop | tram=yes
     geometry : [53.9107533,27.5773643]
 w135170722  null / null / Автоазаводская
   other tags : amenity=bus_station
