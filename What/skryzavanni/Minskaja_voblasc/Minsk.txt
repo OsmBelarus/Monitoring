@@ -1536,10 +1536,10 @@ n699639309
     geometry : [53.9145909,27.5399438]
 n699639310
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9145553,27.5388571]
+    geometry : [53.9145539,27.5388612]
 n699639311
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9146788,27.5389943]
+    geometry : [53.9146814,27.5389867]
 n699661817
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9143198,27.5400736]
@@ -2059,6 +2059,9 @@ n838338318
 n838338379
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9290165,27.5131071]
+n838338403
+  other tags : crossing=unmarked | highway=crossing
+    geometry : [53.9275358,27.5187849]
 n838338411
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9279362,27.5166490]
@@ -2084,7 +2087,7 @@ n838338606
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9057491,27.4962662]
 n838338623
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9269455,27.5189247]
 n838338632
   other tags : crossing=traffic_signals | highway=crossing
@@ -2099,7 +2102,7 @@ n838338687
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9297993,27.5138211]
 n838338696
-  other tags : highway=crossing
+  other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9270592,27.5193759]
 n838338721
   other tags : crossing=traffic_signals | highway=crossing
@@ -5598,13 +5601,13 @@ n1580010934
     geometry : [53.9419363,27.6490029]
 n1581220933
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9295356,27.5208054]
+    geometry : [53.9295355,27.5208036]
 n1581220977
   other tags : crossing=uncontrolled | highway=crossing
-    geometry : [53.9292677,27.5208353]
+    geometry : [53.9292675,27.5208300]
 n1581220978
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9294084,27.5208196]
+    geometry : [53.9294083,27.5208161]
 n1581305581
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8920703,27.6118969]
@@ -6493,6 +6496,9 @@ n1648656844
 n1650613800
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9241131,27.5465909]
+n1650662945
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9203798,27.5303748]
 n1650694211
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9366151,27.4942127]
@@ -8185,6 +8191,9 @@ n2461325929
 n2466020635
   other tags : highway=crossing
     geometry : [53.8397425,27.6277586]
+n2506484970
+  other tags : crossing=unmarked | highway=crossing
+    geometry : [53.9264690,27.5207364]
 n2510772350
   other tags : highway=crossing
     geometry : [53.8881452,27.4256990]
@@ -8490,10 +8499,10 @@ n2688499124
     geometry : [53.9444346,27.5394121]
 n2688502070
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9297160,27.5264397]
+    geometry : [53.9297218,27.5267269]
 n2688502073
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9296011,27.5264596]
+    geometry : [53.9296069,27.5267468]
 n2689999788
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8845535,27.5365123]
@@ -9041,7 +9050,7 @@ n3105966353
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8997786,27.5351091]
 n3116325121
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9269518,27.5192304]
 n3116385797
   other tags : crossing=uncontrolled | highway=crossing
@@ -9358,9 +9367,6 @@ n3359265747
 n3359265748
   other tags : bicycle=designated | crossing=traffic_signals | highway=crossing
     geometry : [53.9094056,27.5804211]
-n3369939093
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9181232,27.5524923]
 n3369947993
   other tags : crossing=island | highway=crossing
     geometry : [53.9182244,27.5527736]

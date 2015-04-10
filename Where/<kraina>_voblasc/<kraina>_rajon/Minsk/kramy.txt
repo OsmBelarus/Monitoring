@@ -6215,7 +6215,7 @@ n2511237679  null / null / Старое предместье
     geometry : [53.9019434,27.5505721]
 n2511555258  null / null / Нотный магазин
   other tags : addr:housenumber=51 к1 | addr:street=проспект Победителей | shop=yes
-    geometry : [53.9178929,27.5323728]
+    geometry : [53.9178857,27.5323832]
 n2511781762  null / null / Спортимпорт
   other tags : shop=bicycle
     geometry : [53.9131910,27.5754617]
@@ -6902,7 +6902,7 @@ n2613265808  null / null / Элита-2
     geometry : [53.9253043,27.5463003]
 n2613330378  null / null / Венеция
   other tags : addr:housenumber=2 | addr:street=улица Осипенко | shop=furniture
-    geometry : [53.9254555,27.5460189]
+    geometry : [53.9254584,27.5460196]
 n2613336975  null / null / Mothercare
   other tags : addr:housenumber=10 | addr:street=Старовиленский тракт | opening_hours=10:00-22:00 | shop=clothes
     geometry : [53.9227550,27.5505167]
@@ -6915,9 +6915,6 @@ n2613344516  null / null / Беремушка
 n2613358460  null / null / ГарантПластСтрой
   other tags : addr:housenumber=6 | addr:street=Нововиленская улица | opening_hours=Mo-Fr 8:45-17:45 | shop=furniture
     geometry : [53.9288098,27.5424147]
-n2613360326  null / null / Вербалия
-  other tags : addr:housenumber=10 | addr:street=Нововиленская улица | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=furniture
-    geometry : [53.9299280,27.5413207]
 n2613364373  null / null / Тропинка
   other tags : addr:housenumber=1 | addr:street=Нововиленская улица | shop=convenience
     geometry : [53.9270370,27.5435265]
@@ -11019,3 +11016,6 @@ n3446227278
 n3446982242  null / null / Белсоюзпечать
   other tags : shop=newsagent
     geometry : [53.9335462,27.5028482]
+n3447201288  null / null / Вербалия
+  other tags : addr:housenumber=10 | addr:street=Нововиленская улица | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=furniture
+    geometry : [53.9299265,27.5413276]
