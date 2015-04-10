@@ -29,7 +29,7 @@ n255112938  null / null / Атлант-М Салон KIA
   other tags : shop=car
     geometry : [53.9082558,27.4541872]
 n255275768  Юбілейны 92;Родны Кут / null / Родная Сторона плюс;Юбилейный 92
-  other tags : opening_hours=Пн.–Вс.: 8.00-22.00 | phone=+375 (17) 226-86-18 | shop=supermarket | website=http://www.rstorona.by/ | wheelchair=yes
+  other tags : opening_hours=Mo-Su 08:00-22:00 | phone=+375 (17) 226-86-18 | shop=supermarket | website=http://www.rstorona.by/ | wheelchair=yes
     geometry : [53.9099277,27.5370581]
 n255275942
   other tags : description=винный магазин | shop=supermarket
@@ -2209,7 +2209,7 @@ n493144000  null / null / Салон-магазин "Атлант"
   other tags : addr:housenumber=14 | addr:street=проспект Пушкина | opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-18:00 | operator=Атлант, ЗАО | phone=252-65-43 | shop=household appliances
     geometry : [53.8991722,27.4978541]
 n493180143  null / null / Stroyremont / Стройремонт
-  other tags : addr:housename=Стройремонт | addr:housenumber=22/1 | addr:postcode=220015 | addr:street=улица Болеслава Берута | operator=Radaxis LLC | shop=doityourself | website=http://www.radaxis.by/
+  other tags : addr:housename=Стройремонт | addr:housenumber=22 к1 | addr:postcode=220015 | addr:street=улица Болеслава Берута | operator=Radaxis LLC | shop=doityourself | website=http://www.radaxis.by/
     geometry : [53.9003815,27.5053182]
 n496820255
   other tags : shop=mall
@@ -6129,9 +6129,6 @@ n2454061176  null / null / Гаспадар
 n2455761984  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.8754760,27.9037721]
-n2457918676  null / null / Дзержинский МК
-  other tags : shop=convenience
-    geometry : [53.9090784,27.5439200]
 n2457918677  null / null / Немига, 3
   other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Немига | shop=mall
     geometry : [53.9041311,27.5524994]
@@ -6531,8 +6528,8 @@ n2574072162  null / null / Остров вкуса
 n2574327241  null / null / Мэрилин
   other tags : shop=hairdresser
     geometry : [53.9096784,27.4908477]
-n2574327242  null / null / ВЕЧЕРНЯЯ ЗВЕЗДА
-  other tags : addr:housenumber=22/1 | addr:street=улица Одинцова | opening_hours=пн. — вс.: 08:00 — 21:00 | operator=ПАРИКМАХЕРСКАЯ | shop=hairdresser;beauty
+n2574327242  null / null / Вечерняя звезда
+  other tags : addr:housenumber=22 к1 | addr:street=улица Одинцова | opening_hours=Mo-Su 08:00-21:00 | shop=hairdresser
     geometry : [53.9006486,27.4447402]
 n2574327245  null / null / Салон-парикмахерская "Три Грации"
   other tags : shop=hairdresser
@@ -9092,8 +9089,8 @@ n3206014223
 n3206016277  null / null / Эгоистка
   other tags : shop=beauty
     geometry : [53.9466657,27.6113142]
-n3206020411  null / null / velcom;солярий
-  other tags : addr:housenumber=25/1 | addr:street=Логойский тракт | shop=mobile_phone;beauty
+n3206020411  null / null / velcom
+  other tags : addr:housenumber=25 к1 | addr:street=Логойский тракт | shop=mobile_phone
     geometry : [53.9532637,27.6182987]
 n3206178275  null / null / Баернкрафт
   other tags : shop=car_parts
@@ -9573,11 +9570,11 @@ n3259075545  null / null / Дюа-ли
   other tags : addr:housenumber=1 | addr:street=улица Гамарника | shop=hairdresser
     geometry : [53.9549907,27.6175573]
 n3260072524  null / null / Хозтовары
-  other tags : addr:city=минск | addr:housenumber=32/1 | addr:street=Логойский тракт | shop=yes
-    geometry : [53.9527152,27.6194851]
+  other tags : addr:city=минск | addr:housenumber=32 к1 | addr:street=Логойский тракт | shop=yes
+    geometry : [53.9527366,27.6194093]
 n3260078564  null / null / Мила
   other tags : shop=cosmetics
-    geometry : [53.9514462,27.6183005]
+    geometry : [53.9514648,27.6182523]
 n3260085718  null / null / Секонд-хенд
   other tags : shop=second_hand
     geometry : [53.9471678,27.6290319]
@@ -10159,11 +10156,11 @@ n3270524361  null / null / БОНЖУР
 n3270524362  null / null / АФИНА
   other tags : addr:housenumber=9 | addr:street=улица Мельникайте | opening_hours=пн. — пт.: 08:00 — 21:00 сб.: 09:00 — 19:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
     geometry : [53.9073911,27.5419204]
-n3270527285  null / null / ПЕРВАЯ ЛЕДИ И ЛУЧШИЙ МУЖЧИНА
-  other tags : addr:housenumber=23/1 | addr:street=проспект Победителей | opening_hours=вт. — сб.: 08:00 — 21:00 пн.: 09:00 — 21:00 вс.: 09:00 — 19:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270527285  null / null / Первая леди и лучший мужчина
+  other tags : addr:housenumber=23 к1 | addr:street=проспект Победителей | opening_hours=Mo 09:00-21:00; Tu-Sa 08:00-21:00; Su 09:00-19:00 | shop=beauty
     geometry : [53.9108686,27.5427344]
-n3270527847  null / null / КЛЕОПАТРА
-  other tags : addr:housenumber=19 | addr:street=проспект Победителей | opening_hours=пн. — сб.: 08:00 — 20:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270527847  null / null / Клеопатра
+  other tags : addr:housenumber=19 | addr:street=проспект Победителей | opening_hours=Mo-Sa 08:00-20:00; Su off | shop=beauty
     geometry : [53.9111480,27.5459693]
 n3270529162  null / null / ПРЫГАЖОСЦЬ
   other tags : addr:housenumber=41 | addr:street=проспект Победителей | opening_hours=пн. — пт.: 08:00 — 21:00 сб.: 08:00 — 18:00 вс.: выходной | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
@@ -11016,3 +11013,12 @@ n3445464812  null / null / Изюминка
 n3446058136  null / null / Мебель
   other tags : shop=furniture
     geometry : [53.9056706,27.5402650]
+n3446227257  null / null / Дзержинский МК
+  other tags : shop=convenience
+    geometry : [53.9090643,27.5439330]
+n3446227258  null / null / Солярий
+  other tags : addr:housenumber=25 к1 | addr:street=Логойский тракт | shop=beauty
+    geometry : [53.9533129,27.6183474]
+n3446227278
+  other tags : shop=florist
+    geometry : [53.9541246,27.6191133]
