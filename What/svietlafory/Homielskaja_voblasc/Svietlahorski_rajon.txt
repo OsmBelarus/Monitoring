@@ -19,9 +19,9 @@ n343162052  Індустрыяльны каледж / null / null / Индуст
 n343162053  Шашэйная вуліца / null / null / Шоссейная улица
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6235643,29.7150783]
-n343162058
-  other tags : highway=bus_stop
-    geometry : [52.6278607,29.7328112]
+n343162058  Свярдлова / null / Свярдлова / Свердлова
+  other tags : bench=yes | highway=bus_stop
+    geometry : [52.6280231,29.7325665]
 n343162059
   other tags : highway=bus_stop
     geometry : [52.6397704,29.7283027]
@@ -52,15 +52,15 @@ n343162067  Гасцініца / null / гостиница / Гостиница
 n343162068
   other tags : highway=bus_stop
     geometry : [52.6332952,29.7457089]
-n343162076  null / null / кинотеатр "Юность"
-  other tags : highway=bus_stop
-    geometry : [52.6320517,29.7466004]
-n343162077  null / null / Автостанция / Автостанция
-  other tags : highway=bus_stop
+n343162076  гасцініца / null / Гасцініца / Гостиница
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6321530,29.7467440]
+n343162077  Аўтастанцыя / null / Автостанция / Автостанция
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5
     geometry : [52.6234760,29.7485002]
-n343162078  null / null / Автостанция / Автостанция
-  other tags : highway=bus_stop
-    geometry : [52.6229816,29.7484072]
+n343162078  Аўтастанцыя / null / Автостанция / Автостанция
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6230686,29.7482595]
 n343162079  ЦЭЦ / null / ТЭЦ
   other tags : highway=bus_stop
     geometry : [52.6299667,29.7703541]
@@ -73,12 +73,12 @@ n438072714
 n438072715
   other tags : highway=bus_stop
     geometry : [52.6410420,29.7188010]
-n438072716  null / null / Дп Мирошниченко
-  other tags : highway=bus_stop
-    geometry : [52.6301972,29.7536190]
-n438072717  null / null / Дп Мирошниченко
-  other tags : highway=bus_stop
-    geometry : [52.6298499,29.7540105]
+n438072716  Мірашнічэнкі / null / Мирошниченко
+  other tags : bench=yes | covered=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6302227,29.7535441]
+n438072717  Мірашнічэнкі / null / Мирошниченко
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5
+    geometry : [52.6297433,29.7542611]
 n438072718
   other tags : highway=bus_stop
     geometry : [52.6273044,29.7097891]
@@ -130,9 +130,6 @@ n615559894  Прывакзальная / null / null / Привокзальна�
 n1180665825  null / null / Остановка "Серебряные Ключи"
   other tags : highway=bus_stop
     geometry : [52.6794753,29.6525511]
-n1190913796
-  other tags : highway=bus_stop
-    geometry : [52.6297734,29.7445605]
 n1469322028  null / null / АП-5
   other tags : highway=bus_stop
     geometry : [52.6242237,29.7860505]
@@ -151,27 +148,24 @@ n1469322062  null / null / Зптн
 n1469322068  null / null / Зптн
   other tags : highway=bus_stop
     geometry : [52.6132111,29.7687859]
-n1469322074  null / null / Картинная Галерея
-  other tags : highway=bus_stop
-    geometry : [52.6258727,29.7404673]
 n1469322089  Могілкі / null / кладбище / Кладбище
   other tags : highway=bus_stop
     geometry : [52.6218430,29.6969848]
 n1469322092  Лясная / null / Лесная / Лесная
   other names: name:uk=Лісова
-  other tags : highway=bus_stop
-    geometry : [52.6272197,29.7613672]
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [52.6271532,29.7611539]
 n1469322096  Медсанчастка / null / Медсанчасть
   other tags : highway=bus_stop
     geometry : [52.6226871,29.7458624]
 n1469322104  Медсанчастка / null / Медсанчасть
   other tags : highway=bus_stop
     geometry : [52.6228666,29.7457606]
-n1469322124  null / null / Химволокно
+n1469322124  Хімвалакно / null / Хімвалакно / Химволокно
   other tags : highway=bus_stop
     geometry : [52.6132308,29.7748269]
-n1469322126  null / null / Химволокно
-  other tags : highway=bus_stop
+n1469322126  Хімвалакно / null / Хімвалакно / Химволокно
+  other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.6131756,29.7745368]
 n1469322165
   other tags : highway=bus_stop
@@ -209,6 +203,18 @@ n2952874456
 n2952874465
   other tags : highway=bus_stop
     geometry : [52.9058065,29.3087665]
+n3454207819  Станцыя ГРЭС / null / Станцыя ГРЭС / Станция ГРЭС
+  other tags : bench=yes | highway=bus_stop
+    geometry : [52.6195088,29.7523509]
+n3454215610  Карцінная галерэя / null / null / Картинная галерея
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [52.6264583,29.7410005]
+n3454252094  Цэнтральная бібліятэка / null / Цэнтральная бібліятэка / Центральная библиотека
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6293647,29.7437274]
+n3454252095  Цэнтральная бібліятэка / null / Цэнтральная бібліятэка / Центральная библиотека
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6296747,29.7443825]
 n3459435424  Свярдлова / null / null / Свердлова
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6271122,29.7325712]

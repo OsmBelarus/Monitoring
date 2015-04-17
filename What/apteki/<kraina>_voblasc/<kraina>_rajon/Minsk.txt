@@ -72,7 +72,7 @@ n281678127  null / null / Аптека "Фармация №25" / Аптека "
     geometry : [53.8881165,27.6113679]
 n281694144
   other tags : amenity=pharmacy
-    geometry : [53.8828169,27.5685046]
+    geometry : [53.8828204,27.5686094]
 n281703845  null / null / Искамед №7 / Искамед №7
   other tags : amenity=pharmacy
     geometry : [53.8627395,27.6038483]
@@ -107,8 +107,8 @@ n288089584
   other tags : amenity=pharmacy
     geometry : [53.8850926,27.5881191]
 n297201435
-  other tags : addr:housenumber=22 к1 | addr:postcode=220006 | addr:street=улица Маяковского | amenity=pharmacy | wikipedia=ru:Улица Маяковского (Минск)
-    geometry : [53.8770467,27.5678200]
+  other tags : addr:housenumber=22 к1 | addr:postcode=220006 | addr:street=улица Маяковского | amenity=pharmacy
+    geometry : [53.8770555,27.5678260]
 n305673920  null / null / Флорафарм / Флорафарм
   other tags : amenity=pharmacy
     geometry : [53.8583300,27.4327300]
@@ -536,8 +536,8 @@ n305686385  №112 / №112 / №112 / №112
 n305686673  null / null / Меджел / Меджел
   other tags : amenity=pharmacy
     geometry : [53.8953798,27.6524257]
-n305686713  null / null / Белмедпресс ООО Аптека №7 / Белмедпресс ООО Аптека №7
-  other tags : addr:city=Минск | addr:housenumber=13 к2 | addr:street=улица Карбышева | amenity=pharmacy | opening_hours=Mo-Fr 09:00-20:00; Su-Sa 10:00-18:00 | phone=+375 (17) 2633897
+n305686713  Белмедпрэс ТАА Аптэка №7 / null / Белмедпресс ООО Аптека №7 / Белмедпресс ООО Аптека №7
+  other tags : addr:city=Минск | addr:housenumber=13 к2 | addr:street=улица Карбышева | amenity=pharmacy | contact:phone=+375 (17) 2633897 | opening_hours=Mo-Fr 09:00-20:00; Su-Sa 10:00-18:00
     geometry : [53.9510446,27.6371774]
 n305686926  Планета Здароўя Аптэка №2 ТАА Доктар-Таір / null / Планета Здоровья Аптека №2 ООО Доктор-Таир / Планета Здоровья Аптека №2 ООО Доктор-Таир
   other tags : amenity=pharmacy
@@ -835,7 +835,7 @@ n1723308207  Аптэка №3 / Apteka №3 / Аптека №3 / Аптека 
     geometry : [53.9266807,27.5931102]
 n1737353376
   other tags : amenity=pharmacy
-    geometry : [53.8697056,27.5695428]
+    geometry : [53.8696983,27.5693119]
 n1737523961
   other tags : amenity=pharmacy
     geometry : [53.8555147,27.5200903]
@@ -935,9 +935,6 @@ n2591401396
 n2593654421  null / null / Зеленая Аптека N15 / Зеленая Аптека N15
   other tags : addr:housenumber=26 | addr:postcode=220112 | addr:street=Игуменский тракт | amenity=pharmacy | operator=ООО Здоровое решение | phone=+375 (17) 2455532 | website=http://www.fito.by/
     geometry : [53.8429740,27.5708855]
-n2598207066
-  other tags : addr:housenumber=3 | addr:street=Нёманская улица | amenity=pharmacy | operator=Ретфарм ООО Аптека N1
-    geometry : [53.9096024,27.4199154]
 n2599683030  null / null / Белфармация А РУП Аптека №20 / Белфармация А РУП Аптека №20
   other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Пн-Пт: 11.00 - 19.00 | phone=+37517 2744929
     geometry : [53.8553409,27.4464375]
@@ -1031,9 +1028,6 @@ n2672658740  null / null / Любимая аптека / Любимая апте
 n2712556013  "Любімая аптэка" / "Liubimaja apteka" / "Любимая аптека" / "Любимая аптека"
   other tags : amenity=pharmacy
     geometry : [53.9262899,27.4440488]
-n2714025138  Іскамед / Iskamied / Искамед / Искамед
-  other tags : amenity=pharmacy
-    geometry : [53.9116038,27.4344910]
 n2728511023  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy | dispensing=no
     geometry : [53.9053994,27.5448226]
@@ -1404,3 +1398,6 @@ n3400540137  null / null / Доктор Вет
 n3446537643
   other tags : amenity=pharmacy
     geometry : [53.9172652,27.5331995]
+n3456932513
+  other tags : amenity=pharmacy | operator=Ретфарм ООО Аптека N1
+    geometry : [53.9096051,27.4199370]

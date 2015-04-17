@@ -21,7 +21,7 @@ n242998791  Дамуці / Damuci / Домути / Домути
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9841700,26.2866800]
 n242998794  Кавалі / Kavali / Ковали / Ковали
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Лынтупский сельский Совет | place=hamlet
     geometry : [55.0232200,26.2486600]
 n242998795  Гіруці / Hiruci / Гирути / Гирути
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -35,7 +35,7 @@ n242998797  Саболкі / Sabolki / Соболки / Соболки
 n242998798  Раманішкі / Ramaniški / Романишки / Романишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0500900,26.2638500]
-n242998800  Пад’ясенка / Padjasienka / Подъясенка / Подъясенка
+n242998800  Пад’ясенка / Padjasienka / Подьясенка / Подьясенка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Подьясенка | place=hamlet
     geometry : [55.0874200,26.3566300]
 n242998801  Ігнацішкі / Ihnaciški / Игнатишки / Игнатишки
@@ -48,16 +48,16 @@ n242998803  Чопанішкі / Čopaniški / Чопанишки / Чопани
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0025400,26.3073600]
 n242998804  Дварчаны / Dvarčany / Дворчаны / Дворчаны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Лынтупский сельский Совет | place=hamlet
     geometry : [55.0149800,26.2610200]
 n242998805  Масленікі / Maslieniki / Масленики / Масленики
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0022800,26.2809300]
-n242998807  Рачаны / Račany / Рачаны / Рачаны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рочаны | place=hamlet
+n242998807  Рачаны / Račany / Рочаны / Рочаны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рачаны | place=hamlet
     geometry : [55.0079400,26.2348400]
-n242998808  Свірдуны / Svirduny / Свирдуны / Свирдуны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Свірдуні | alt_name:ru=Свирдуни | place=hamlet
+n242998808  Свірдуні / Svirduny / Свирдуни / Свирдуни
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Свірдуны | alt_name:ru=Свирдуны | place=hamlet
     geometry : [55.0442500,26.3611800]
 n242998809  Казнадзеюшкі / Kaznadziejuški / Казнадеюшки / Казнадеюшки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Казнадзеішкі | place=hamlet
@@ -71,8 +71,8 @@ n242998811  Шудаўцы / Šudaŭcy / Шудовцы / Шудовцы
 n242999345  Янанішкі / Jananiški / Янанишки / Янанишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1007300,26.3021300]
-n242999346  Рынкяны / Rynkiany / Рынкяны / Рынкяны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рынк’яны | alt_name:ru=Рынкьяны | place=hamlet
+n242999346  Рынк’яны / Rynkiany / Рынкьяны / Рынкьяны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рынкяны | alt_name:ru=Рынкяны | place=hamlet
     geometry : [55.1128300,26.2865100]
 n242999349  Вейсішкі / Viejsiški / Вейсишки / Вейсишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -114,8 +114,8 @@ n242999384  Палессе / Paliessie / Полесье / Полесье
 n242999787  Бядункі / Biadunki / Бедунки / Бедунки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9845238,26.6792642]
-n242999788  Марачы / Maračy / Морочи / Морочи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Марачи | place=hamlet
+n242999788  Марачы / Maračy / Марачи / Марачи
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Морочи | place=hamlet
     geometry : [54.9900000,26.5949800]
 n242999799  Данеўцы / Danieŭcy / Даневцы / Даневцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -132,8 +132,8 @@ n243002881  Рэдута / Reduta / Редута / Редута
 n243002884  Субачы / Subačy / Субочи / Субочи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0393175,26.4550839]
-n243002887  Мягуны / Miahuny / Мегуны / Мегуны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мягуны | place=hamlet
+n243002887  Мягуны / Miahuny / Мягуны / Мягуны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мегуны | place=hamlet
     geometry : [55.0680535,26.5193701]
 n243002892  Лодасі / Lodasi / Лодоси / Лодоси
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -196,12 +196,12 @@ n243002977  Чырвоны Ручай / Čyrvony Ručaj / Красный Руч�
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Чирвоный Ручай | place=hamlet
     geometry : [54.9662300,26.4879500]
 n243002983  Роўнае Поле / Roŭnaje Polie / Ровное Поле / Ровное Поле
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.0091500,26.4007500]
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=be-x-old:Роўнае Поле (Пастаўскі раён)
+    geometry : [55.0096723,26.4008895]
 n243002986  Скарпаўцы / Skarpaŭcy / Скарповцы / Скарповцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0159300,26.5035700]
-n243002989  Навасёлкі / Navasiolki / Новоселки / Новоселки
+n243002989  Навасёлкі / Navasiolki / Новосёлки / Новоселки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0152370,26.5368094]
 n243002992  Саранчаны / Sarančany / Саранчаны / Саранчаны
@@ -274,7 +274,7 @@ n243004414  Дашкі Вялікія / Daški Vialikija / Дашки Больш
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Дашки Большие | place=hamlet
     geometry : [55.0012500,26.7160900]
 n243004417  Камаі / Kamai / Камаи / Камаи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village | wikipedia=ru:Камаи
     geometry : [55.0597800,26.6023600]
 n243004420  Каралінова / Karalinova / Королиново / Королиново
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Каролиново | place=hamlet
@@ -326,7 +326,7 @@ n243004485  Краскі / Kraski / Краски / Краски
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9683208,26.7299595]
 n243004488  Русакі / Rusaki / Русаки / Русаки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Лынтупский сельский Совет | place=hamlet
     geometry : [55.0064748,26.5901601]
 n243004491  Свіраны / Svirany / Свираны / Свираны
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -382,8 +382,8 @@ n243004586  Янковічы / Jankovičy / Янковичи / Янковичи
 n243004589  Цябуты / Ciabuty / Тябуты / Тябуты
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1197000,26.6035700]
-n243004592  Волься Вялікая / Voĺsia Vialikaja / Олься Великая / Олься Великая
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Олься Большая | place=hamlet
+n243004592  Волься Вялікая / Voĺsia Vialikaja / Олься Большая / Олься Большая
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Олься Великая | place=hamlet
     geometry : [55.1183368,26.7140340]
 n243007241  Васіліны / Vasiliny / Василины / Василины
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -410,7 +410,7 @@ n243007287  Лескава / Lieskava / Лесково / Лесково
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.2270257,26.8931115]
 n243007290  Койры / Kojry / Койры / Койры
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Куропольский сельский Совет | place=hamlet
     geometry : [55.2306885,26.8325515]
 n243007293  Бараўкі / Baraŭki / Боровки / Боровки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -437,7 +437,7 @@ n243007314  Чарты / Čarty / Черты / Черты
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1802196,26.9099975]
 n243007317  Русакі / Rusaki / Русаки / Русаки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Куропольский сельский Совет | place=hamlet
     geometry : [55.1811190,26.7969442]
 n243007321  Валодзькі / Valodźki / Володьки / Володьки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -578,7 +578,7 @@ n243008504  Курсевічы / Kursievičy / Курсевичи / Курсев
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1079400,26.9783900]
 n243008507  Дашкі / Daški / Дашки / Дашки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Юньковский сельский Совет | place=hamlet
     geometry : [55.1197800,26.9466300]
 n243008510  Грэйцева / Hrejcieva / Грейтево / Грейтево
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -603,10 +603,10 @@ n243008529  Манчаняты / Mančaniaty / Манченяты / Манчен
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1231300,26.9777900]
 n243008532  Ваўкі / Vaŭki / Волки / Волки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Новосёлковский сельский Совет | place=hamlet
     geometry : [55.1364300,26.9843100]
-n243008535  Гінева Вялікае / Hinieva Vialikaje / Гинево Великое / Гинево Великое
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Гинево Большое | place=hamlet
+n243008535  Гінева Вялікае / null / Гинево Большое / Гинево Большое
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Гинево Великое | place=hamlet
     geometry : [55.1265600,27.0214800]
 n243008538  Ліпаўка / Lipaŭka / Липовка / Липовка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -636,7 +636,7 @@ n243008565  Пухаўка / Puchaŭka / Пуховка / Пуховка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0939122,27.0282664]
 n243008570  Курылавічы / Kurylavičy / Куриловичи / Куриловичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Юньковский сельский Совет | place=hamlet
     geometry : [55.0938600,26.9638000]
 n243008574  Жылінскія / Žylinskija / Жилинские / Жилинские
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -679,7 +679,7 @@ n243008624  Алашкаўшчына / Alaškaŭščyna / Алашковщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.2946861,27.0906024]
 n243008634  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Куропольский сельский Совет | place=hamlet
     geometry : [55.2874938,27.0514189]
 n243008655  Пруднікі / Prudniki / Прудники / Прудники
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -744,8 +744,8 @@ n243008814  Жалязоўшчына / Žaliazoŭščyna / Железовщин�
 n243008817  Савічы / Savičy / Савичи / Савичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0616700,26.9435400]
-n243008820  Цешылава / Ciešylava / Тешилово / Тешилово
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Тешелово | place=hamlet
+n243008820  Цешылава / Ciešylava / Тешелово / Тешелово
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Тешилово | place=hamlet
     geometry : [55.0806400,27.0225100]
 n243008823  Смыччо / Smyččo / Смычьё / Смычьё
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Смычье | place=hamlet
@@ -759,8 +759,8 @@ n243008830  Груздава / Hruzdava / Груздово / Груздово
 n243008835  Сіманы / Simany / Симоны / Симоны
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0526600,27.0690300]
-n243008838  Ажарава / Ažarava / Ожарово / Ожарово
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ожарево | place=hamlet
+n243008838  Ажарава / Ažarava / Ожарево / Ожарево
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ожарово | place=hamlet
     geometry : [55.0220652,26.9967473]
 n243008841  Ажарцы / Ažarcy / Ожарцы / Ожарцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -775,7 +775,7 @@ n243008849  Кубаркі / Kubarki / Кубарки / Кубарки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0347200,26.9660300]
 n243008853  Кавалі / Kavali / Ковали / Ковали
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Новосёлковский сельский Совет | place=hamlet
     geometry : [55.0488236,27.0328184]
 n243008856  Забалацце / Zabalaccie / Заболотье / Заболотье
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -796,10 +796,10 @@ n243011592  null / null / Зеньково / Зеньково
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0464800,27.1277300]
 n243011595  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Дуниловичский сельский Совет | place=hamlet
     geometry : [55.0530900,27.1877300]
 n243011598  Пятровічы / Piatrovičy / Петровичи / Петровичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Дуниловичский сельский Совет | place=hamlet
     geometry : [55.0561800,27.2300400]
 n243011601  Калінаўка / Kalinaŭka / Калиновка / Калиновка
   other names: name:uk=Калинівка
@@ -818,7 +818,7 @@ n243011616  Васевічы / Vasievičy / Васевичи / Васевичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1058800,27.1425800]
 n243011619  Дашкі / Daški / Дашки / Дашки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Воропаевский сельский Совет | place=hamlet
     geometry : [55.0890500,27.1527100]
 n243011622  null / null / Пещаки / Пещаки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -827,7 +827,7 @@ n243011626  null / null / Михалина / Михалина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0403000,27.2508200]
 n243011628  Лучай / Lučaj / Лучай / Лучай
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=be-x-old:Лучай
     geometry : [55.0894170,27.1244442]
 n243011631  Каменка / Kamienka / Каменка / Каменка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -836,7 +836,7 @@ n243011643  Сергі / Sierhi / Серги / Серги
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9964400,27.2855800]
 n243011661  Дунілавічы / Dunilavičy / Дуниловичи / Дуниловичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village | wikipedia=be-x-old:Дунілавічы
     geometry : [55.0751500,27.2367400]
 n243011664  Гліншчына / Hlinščyna / Глинщина / Глинщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -857,13 +857,13 @@ n243011685  Казароўшчына / Kazaroŭščyna / Казаровщина 
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1818400,27.2612900]
 n243011688  Анкуды / Ankudy / Анкуды / Анкуды
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Воропаевский сельский Совет | place=hamlet
     geometry : [55.1566000,27.2892700]
 n243011692  null / null / Разлутишки / Разлутишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1676700,27.2793100]
 n243011695  Анкуды / Ankudy / Анкуды / Анкуды
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Дуниловичский сельский Совет | place=hamlet
     geometry : [55.1098200,27.2774200]
 n243011698  Чорнае / Čornaje / Чёрное / Чёрное
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -890,10 +890,10 @@ n243011719  Куніцкія 1 / Kunickija 1 / Куницкие 1 / Куницк
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Куницкие-1 | place=hamlet
     geometry : [55.2284400,27.2329600]
 n243011722  Вайцяхі / Vajciachi / Войтехи / Войтехи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=ru:Войтехи (Поставский район)
     geometry : [55.2372613,27.2312956]
 n243011725  Мацейкі / Maciejki / Матейки / Матейки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Куропольский сельский Совет | place=hamlet
     geometry : [55.2579479,27.1250660]
 n243011728  Галбея / Halbieja / Голбея / Голбея
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Голбея | place=hamlet
@@ -936,15 +936,15 @@ n243011769  Дземяшы / Dziemiašy / Демеши / Демеши
     geometry : [55.1400400,27.1140000]
 n243011771  null / null / Кейзики / Кейзики
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.1614100,27.2224900]
+    geometry : [55.1602121,27.2237947]
 n243011774  Хралы / Chraly / Хролы / Хролы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1240700,27.1754600]
 n243012294  Косаўшчына / Kosaŭščyna / Косовщина / Косовщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.2886372,27.2277185]
-n243012297  Невядомшчына / Nieviadomščyna / Неведомщина / Неведомщина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Невядомщина | place=hamlet
+n243012297  Невядомшчына / Nieviadomščyna / Невядомщина / Невядомщина
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Неведомщина | place=hamlet
     geometry : [55.2938930,27.2344200]
 n243012300  Асіннікі / Asinniki / Осинники / Осинники
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -956,7 +956,7 @@ n243012323  Полава / Polava / Полово / Полово
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.3058600,27.1683300]
 n243012335  Пятровічы / Piatrovičy / Петровичи / Петровичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Воропаевский сельский Совет | place=hamlet
     geometry : [55.3097200,27.2163100]
 n243012345  null / null / Хардаково / Хардаково
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -986,7 +986,7 @@ n243014095  Станілевічы / Stanilievičy / Станилевичи / С
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0760900,27.3806800]
 n243014097  Валкі / Valki / Волки / Волки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=village
     geometry : [55.0804700,27.4243600]
 n243014100  Норыца / Noryca / Норица / Норица
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -995,8 +995,8 @@ n243014104  Плешкуны / Plieškuny / Плешкуны / Плешкуны
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0057100,27.3597300]
 n243014107  Курылавічы / Kurylavičy / Куриловичи / Куриловичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.0215100,27.4353500]
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=hamlet
+    geometry : [55.0208944,27.4357969]
 n243014109  Гінькі / Hińki / Гиньки / Гиньки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0284600,27.3466900]
@@ -1019,7 +1019,7 @@ n243014135  Янчукі / Jančuki / Янчуки / Янчуки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0042500,27.4017100]
 n243014138  Заўлічча Новае / Zaŭličča Novaje / Завличье Новое / Завличье Новое
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Завличье-Новое | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name=Завличье-Новое | alt_name:ru=Завличье-Новое | place=hamlet
     geometry : [55.0015900,27.4305400]
 n243014141  Жданы / Ždany / Жданы / Жданы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1028,7 +1028,7 @@ n243014143  Гігалы / Hihaly / Гиголы / Гиголы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0066600,27.4646200]
 n243014147  Мацейкі / Maciejki / Матейки / Матейки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=hamlet
     geometry : [55.0020200,27.4564700]
 n243014149  Хрыстова / Chrystova / Христово / Христово
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1043,13 +1043,13 @@ n243014158  Жукава / Žukava / Жуково / Жуково
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0914600,27.3149300]
 n243014162  Ласіца / Lasica / Ласица / Ласица
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=hamlet
     geometry : [55.0920600,27.3956100]
 n243014165  Каліты / Kality / Калиты / Калиты
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0224500,27.3048900]
 n243014168  Пятровічы / Piatrovičy / Петровичи / Петровичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=hamlet
     geometry : [55.0614200,27.4141500]
 n243014171  Дразды / Drazdy / Дрозды / Дрозды
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1058,7 +1058,7 @@ n243014174  null / null / Турчино / Турчино
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0415900,27.4386100]
 n243014178  Мартулі / Martuli / Мартули / Мартули
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=ru:Мартули
     geometry : [55.0347200,27.4253900]
 n243014181  Вараноўка / Varanoŭka / Вороновка / Вороновка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1082,7 +1082,7 @@ n243014200  Рудка / Rudka / Рудка / Рудка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1312800,27.3121800]
 n243014206  Верацеі / Vieraciei / Веретеи / Веретеи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Козловщинский сельский Совет | place=hamlet
     geometry : [55.1485400,27.4135500]
 n243014212  Заканоўшчына / Zakanoŭščyna / Законовщина / Законовщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1097,19 +1097,19 @@ n243014221  Рудае / Rudaje / Рудое / Рудое
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1555041,27.3252289]
 n243014224  Ляхаўшчына / Liachaŭščyna / Ляховщина / Ляховщина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=be-x-old:Ляхаўшчына (Віцебская вобласьць)
     geometry : [55.1373700,27.3346700]
 n243014227  Верацеі / Vieraciei / Веретеи / Веретеи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Волковский сельский Совет | place=hamlet
     geometry : [55.1359200,27.4216200]
 n243014231  Ласіца / Lasica / Ласица / Ласица
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Козловщинский сельский Совет | place=hamlet
     geometry : [55.1742000,27.3606800]
 n243014235  Асінагарадок / Asinaharadok / Осиногородок / Осиногородок
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | wikipedia=be-x-old:Асінагарадок
     geometry : [55.1624400,27.3758700]
 n243014239  Кавалі / Kavali / Ковали / Ковали
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Козловщинский сельский Совет | place=hamlet
     geometry : [55.2056900,27.3104700]
 n243014241  Навінкі / Navinki / Новинки / Новинки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1164,8 +1164,8 @@ n282470052  Ралаўцы / Ralaŭcy / Раловцы / Раловцы
 n957891175  Крукі 2 / Kruki 2 / Крюки 2 / Крюки 2
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Крюки-2 | place=hamlet
     geometry : [55.1503707,26.5909631]
-n957891176  Ідаліна / Idalina / Идолина / Идолина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Идолино | place=hamlet
+n957891176  Ідаліна / Idalina / Идолино / Идолино
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Идолина | place=hamlet
     geometry : [55.0022691,26.8496291]
 n957891177  Мірклішкі / Mirkliški / Мирклишки / Мирклишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1209,9 +1209,6 @@ n1453872254  Сухарышкі / Sucharyški / Сухаришки / Сухар�
 n1621185642  Зарэцкія / Zareckija / Зарецкие / Зарецкие
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1515639,27.2196771]
-n1621185732  Кейзікі / Kiejziki / Кейзики / Кейзики
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : [55.1589144,27.2462855]
 n1621248470  null / null / Королевцы / Королевцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0441167,26.5238241]
@@ -1224,8 +1221,8 @@ n1621260720  Гайдукі / Hajduki / Гайдуки / Гайдуки
 n1621260721  Марцінелевічы / Marcinielievičy / Мартинелевичи / Мартинелевичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0101671,27.4275819]
-n1623209858  Васкаўшчына / Vaskaŭščyna / Васковщина / Васковщина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Васкаўшчызна | alt_name:ru=Восковщизна | place=hamlet
+n1623209858  Васкаўшчызна / Vaskaŭščyna / Восковщизна / Восковщизна
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Васкаўшчына | alt_name:ru=Васковщина | place=hamlet
     geometry : [55.0255745,26.4444754]
 n1623209859  Гурніца / Hurnica / Гурница / Гурница
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1248,8 +1245,8 @@ n1626462187  null / null / Бадрувка / Бадрувка
 n1626473211  Вараноўшчына / Varanoŭščyna / Вороновщина / Вороновщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0747789,26.7745219]
-n1626473212  Загачча / Zahačča / Загачье / Загачье
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Загатье | place=hamlet
+n1626473212  Загачча / Zahačča / Загатье / Загатье
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Загачье | place=hamlet
     geometry : [55.0782802,26.7813993]
 n1626473214  Шпакі / null / Шпаки / Шпаки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1297,10 +1294,10 @@ n3037437223  Вайшкілог / Vajškiloh / Войшкилог / Войшки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0401794,26.3873281]
 n3037437224  Койры / Kojry / Койры / Койры
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | addr:subdistrict=Лынтупский сельский Совет | place=hamlet
     geometry : [55.0347045,26.3818612]
-n3037437225  Рэпішкі / Repiški / Репишки / Репишки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рэпешкі | alt_name:ru=Репешки | place=hamlet
+n3037437225  Рэпешкі / Repiški / Репешки / Репешки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рэпішкі | alt_name:ru=Репишки | place=hamlet
     geometry : [55.0460503,26.3869995]
 n3037439199  Сенькішкі / Sieńkiški / Сенькишки / Сенькишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1314,14 +1311,14 @@ n3037443441  Абрамаўшчына / Abramaŭščyna / Абрамовщина
 n3037443574  Свіркі / Svirki / Свирки / Свирки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9959139,26.4983843]
-n3037444254  Рамейкі / Ramiejki / Ромейки / Ромейки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рамейки | place=hamlet
+n3037444254  Рамейкі / Ramiejki / Рамейки / Рамейки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ромейки | place=hamlet
     geometry : [55.0225635,26.5047987]
 n3037444495  Лаўцы / Laŭcy / Ловцы / Ловцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.0044226,26.5983806]
-n3038524068  Пуцяцішкі / Puciaciški / Путятишки / Путятишки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Путятешки | place=hamlet
+n3038524068  Пуцяцішкі / Puciaciški / Путятешки / Путятешки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Путятишки | place=hamlet
     geometry : [55.0771277,26.5293138]
 n3038528698  Гродзі / Hrodzi / Гроди / Гроди
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1422,8 +1419,8 @@ n3046795966  Невярышкі / Nieviaryški / Неверишки / Невер
 n3046797402  Мажэйкі / Mažejki / Можейки / Можейки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : [55.1516040,26.7671021]
-n3046798309  Муляры Лясныя / Muliary Liasnyja / Муляры Лесные / Муляры Лесные
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мулеры Лесные | place=hamlet
+n3046798309  Муляры Лясныя / Muliary Liasnyja / Мулеры Лесные / Мулеры Лесные
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Муляры Лесные | place=hamlet
     geometry : [55.1653253,26.7300235]
 n3046799480  Азёркі / Aziorki / Озёрки / Озёрки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Озерки | place=hamlet
@@ -1584,7 +1581,7 @@ w25128418  Станілевічы / Stanilievičy / Станилевичи / С�
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273713962[55.0699100,27.3799900] n273713971[55.0701700,27.3859100] n273713982[55.0735200,27.3851400] n273713994[55.0807300,27.3841100] n273714007[55.0808100,27.3776700] n273714017[55.0796100,27.3774200] n273714020[55.0796100,27.3747500] n273714023[55.0780700,27.3746700] n273714025[55.0780700,27.3778400] n273713962[55.0699100,27.3799900]
 w25128420  Валкі / Valki / Волки / Волки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village
     geometry : n273714031[55.0855300,27.4250500] n273714034[55.0864800,27.4236800] n273714037[55.0852800,27.4212700] n273714040[55.0845900,27.4208500] n273714042[55.0837300,27.4192100] n273714044[55.0823600,27.4192100] n273714048[55.0809800,27.4187000] n273714049[55.0798700,27.4181000] n273714053[55.0795300,27.4182700] n273714056[55.0791000,27.4187000] n1187116537[55.0787389,27.4212012] n1187116639[55.0774589,27.4208612] n273714064[55.0769500,27.4196400] n273714066[55.0765200,27.4200700] n273714070[55.0763500,27.4219600] n273714072[55.0763500,27.4234200] n273714074[55.0777200,27.4238500] n273714078[55.0774700,27.4251400] n273714081[55.0777200,27.4254800] n273714082[55.0766263,27.4276260] n273714085[55.0769821,27.4303534] n273714089[55.0772900,27.4315700] n273714090[55.0794943,27.4317795] n273714092[55.0811374,27.4320547] n273714097[55.0816429,27.4312369] n273714098[55.0818400,27.4302000] n273714100[55.0818400,27.4277100] n273714103[55.0821000,27.4253100] n273714105[55.0823600,27.4247100] n1187116648[55.0834948,27.4251872] n1187116640[55.0838348,27.4250172] n273714116[55.0848500,27.4263400] n273714119[55.0855300,27.4252200] n273714031[55.0855300,27.4250500]
 w25128421  Норыца / Noryca / Норица / Норица
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1608,7 +1605,7 @@ w25128429  Янчукі / Jančuki / Янчуки / Янчуки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273714428[55.0054500,27.4085700] n273714430[55.0056300,27.4072000] n273714433[55.0064000,27.4037700] n273714435[55.0064000,27.4023100] n273714437[55.0059700,27.3981000] n273714441[55.0054500,27.3934398] n273714443[55.0036170,27.3943798] n273714445[55.0006531,27.3957312] n273714449[55.0006820,27.3995781] n273714451[54.9994448,27.4025935] n273714454[55.0001168,27.4065334] n273714457[55.0023362,27.4087480] n273714459[55.0042367,27.4102392] n273714462[55.0054500,27.4093400] n273714428[55.0054500,27.4085700]
 w25128430  Заўлічча Новае / Zaŭličča Novaje / Завличье Новое / Завличье Новое
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Завличье-Новое | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name=Завличье-Новое | alt_name:ru=Завличье-Новое | place=hamlet
     geometry : n273714467[54.9988500,27.4210200] n273714469[54.9979800,27.4225600] n273714472[54.9966100,27.4244500] n273714475[54.9964447,27.4281263] n273714477[54.9973283,27.4314735] n273714479[54.9991900,27.4332100] n273714483[54.9999771,27.4374155] n273714484[54.9997460,27.4391925] n273714486[55.0002200,27.4399000] n273714490[55.0013300,27.4421300] n273714492[55.0029590,27.4358372] n273714495[55.0040000,27.4340600] n273714497[55.0045641,27.4321498] n273714500[55.0043874,27.4304610] n273714503[55.0043400,27.4291700] n273714505[55.0036608,27.4277441] n273714508[55.0026200,27.4255700] n273714511[55.0015900,27.4249700] n273714513[54.9989300,27.4208500] n273714467[54.9988500,27.4210200]
 w25128431  Глінскія / Hlinskija / Глинские / Глинские
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1628,8 +1625,8 @@ w25129590  Рымкi / null / Римки / Римки
 w25129591  Асіннікі / Asinniki / Осинники / Осинники
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273741644[55.2986554,27.1275629] n273741647[55.2977100,27.1273900] n273741652[55.2957300,27.1279900] n273741656[55.2957300,27.1352000] n273741660[55.2977900,27.1347700] n273741664[55.2977153,27.1340029] n273741668[55.2989100,27.1327100] n273741672[55.2983954,27.1309129] n273741677[55.2986554,27.1290229] n273741644[55.2986554,27.1275629]
-w25129599  Невядомшчына / Nieviadomščyna / Неведомщина / Неведомщина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Невядомщина | place=hamlet
+w25129599  Невядомшчына / Nieviadomščyna / Невядомщина / Невядомщина
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Неведомщина | place=hamlet
     geometry : n1188899071[55.2914732,27.2297900] n1188899281[55.2921632,27.2351100] n273741691[55.2928815,27.2345443] n273741697[55.2932043,27.2360132] n273741699[55.2947000,27.2373400] n273741700[55.2968500,27.2395700] n273741703[55.2991700,27.2416300] n273741704[55.3002000,27.2382000] n273741706[55.2950500,27.2337300] n273741708[55.2925600,27.2282400] n273741709[55.2920400,27.2284100] n1188899071[55.2914732,27.2297900]
 w25129601  Косаўшчына / Kosaŭščyna / Косовщина / Косовщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1724,9 +1721,6 @@ w25129656  Зарэцкія / Zareckija / Зарецкие / Зарецкие
 w25129657  null / null / Карабаниха / Карабаниха
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273742901[55.1123100,27.1731400] n273742904[55.1102500,27.1723700] n273742907[55.1094000,27.1765700] n273742909[55.1101700,27.1780300] n273742912[55.1115400,27.1784600] n273742915[55.1125700,27.1733100] n273742901[55.1123100,27.1731400]
-w25129658  null / null / Кейзики / Кейзики
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : n273742918[55.1603800,27.2490100] n273742921[55.1606400,27.2479000] n273742925[55.1602100,27.2456700] n273742928[55.1597287,27.2431623] n273742933[55.1580029,27.2434507] n3332718608[55.1574973,27.2469772] n273742936[55.1581500,27.2489300] n1975992137[55.1583594,27.2489161] n1975992141[55.1589288,27.2480393] n1975992144[55.1595807,27.2483213] n1975992146[55.1600775,27.2491669] n273742918[55.1603800,27.2490100]
 w25129659  Фяркі / Fiarki / Ферки / Ферки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273742951[55.1351500,27.1671300] n273742953[55.1356600,27.1652400] n273742956[55.1343700,27.1631800] n273742958[55.1322200,27.1604400] n273742959[55.1306800,27.1644700] n273742962[55.1344600,27.1688500] n273742951[55.1351500,27.1671300]
@@ -1745,9 +1739,6 @@ w25129664  Белае / Bielaje / Белое / Белое
 w25129666  Хралы / Chraly / Хролы / Хролы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273743143[55.1260400,27.1681600] n273743145[55.1242400,27.1669600] n273743146[55.1239800,27.1677300] n273743150[55.1239000,27.1685000] n273743152[55.1233900,27.1698800] n273743155[55.1229500,27.1724500] n273743158[55.1226100,27.1752800] n273743161[55.1218400,27.1797500] n273743162[55.1214620,27.1830757] n273743172[55.1243300,27.1846400] n273743173[55.1248500,27.1824900] n273743176[55.1242400,27.1815500] n273743179[55.1257000,27.1738300] n273743181[55.1252169,27.1731862] n273743183[55.1265600,27.1688500] n273743143[55.1260400,27.1681600]
-w25129667  null / null / Кейзики / Кейзики
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
-    geometry : n273743188[55.1645009,27.2240132] n273743191[55.1648985,27.2229381] n273743193[55.1645800,27.2205583] n920551319[55.1640700,27.2206397] n920551276[55.1630400,27.2209797] n920551338[55.1618400,27.2208097] n920551291[55.1600300,27.2195197] n273743208[55.1569236,27.2188954] n273743210[55.1572900,27.2242100] n272815601[55.1573700,27.2249800] n272815602[55.1587500,27.2248100] n272815603[55.1610600,27.2255800] n272815604[55.1614900,27.2255800] n272815605[55.1618400,27.2251500] n273743188[55.1645009,27.2240132]
 w25129669  Васілеўшчына / Vasilieŭščyna / Василевщина / Василевщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273743280[55.1733400,27.2169100] n273743283[55.1724587,27.2145487] n273743286[55.1680200,27.2139900] n273743290[55.1673300,27.2151100] n273743293[55.1666400,27.2166500] n273743296[55.1666400,27.2192300] n273743301[55.1683600,27.2194900] n273743303[55.1702500,27.2203500] n273743307[55.1717100,27.2230100] n273743311[55.1742000,27.2186300] n273743280[55.1733400,27.2169100]
@@ -1816,7 +1807,7 @@ w25129700  Гліншчына / Hlinščyna / Глинщина / Глинщин�
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273744763[55.0740300,27.2143400] n273744767[55.0747200,27.2135600] n273744770[55.0737800,27.2102200] n273744775[55.0739500,27.2071300] n273744778[55.0702600,27.1980300] n273744781[55.0710300,27.1969100] n273744785[55.0697400,27.1940000] n273744790[55.0676000,27.1969100] n273744793[55.0663900,27.1989700] n273744796[55.0677700,27.2020600] n273744800[55.0662200,27.2049000] n273744804[55.0682246,27.2072319] n273744806[55.0694000,27.2049000] n273744809[55.0730900,27.2154500] n273744763[55.0740300,27.2143400]
 w25129701  Дунілавічы / Dunilavičy / Дуниловичи / Дуниловичи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village
     geometry : n1187116629[55.0795291,27.2305056] n1187116604[55.0782391,27.2309356] n1187116658[55.0770391,27.2311056] n1187116644[55.0746318,27.2305425] n1187116561[55.0742091,27.2292256] n1187116520[55.0732691,27.2275056] n273744821[55.0724000,27.2268700] n273744824[55.0643147,27.2275291] n273744827[55.0642117,27.2302219] n1187116573[55.0721731,27.2304762] n1187116651[55.0727731,27.2309962] n1187116664[55.0729430,27.2323662] n1187116617[55.0732030,27.2359762] n1187116590[55.0724900,27.2389000] n1187116659[55.0717200,27.2396700] n1187116524[55.0708600,27.2398400] n1187116630[55.0699100,27.2396700] n1187116645[55.0692300,27.2392400] n1187116575[55.0680200,27.2379500] n273744868[55.0659600,27.2371700] n273744872[55.0657100,27.2418000] n273744874[55.0692300,27.2421500] n273744879[55.0697400,27.2432600] n273744881[55.0727500,27.2437800] n273744885[55.0736203,27.2467489] n3332710823[55.0750561,27.2459262] n273744889[55.0760100,27.2447200] n273744892[55.0791800,27.2443800] n273744893[55.0799140,27.2427523] n273744897[55.0817625,27.2429054] n273744900[55.0832587,27.2435539] n273744904[55.0897526,27.2550746] n3332710839[55.0918224,27.2524758] n3332710834[55.0870473,27.2442080] n273744906[55.0900127,27.2406067] n273744910[55.0898328,27.2360224] n273744912[55.0838200,27.2391400] n273744914[55.0821000,27.2365700] n273744919[55.0807575,27.2351900] n273744922[55.0805573,27.2345152] n273744927[55.0789938,27.2326620] n273744931[55.0798700,27.2317600] n1187116629[55.0795291,27.2305056]
 w25129703  Сяргеевічы / Siarhiejevičy / Сергеевичи / Сергеевичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1896,8 +1887,8 @@ w25131113  Стары Двор / Stary Dvor / Старый Двор / Стары
 w25131116  Круткі / Krutki / Крутки / Крутки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273777893[55.1282800,27.0728000] n273777895[55.1269100,27.0694500] n273777897[55.1251900,27.0694500] n273777900[55.1251900,27.0713400] n273777902[55.1260400,27.0728900] n273777905[55.1241600,27.0779500] n273777906[55.1210700,27.0855900] n273777909[55.1215000,27.0867100] n273777911[55.1219200,27.0871400] n273777914[55.1228700,27.0889400] n273777917[55.1243300,27.0870500] n273777920[55.1254500,27.0848200] n1166165547[55.1260739,27.0856406] n273777922[55.1265600,27.0862800] n273777924[55.1277600,27.0834500] n273777927[55.1267300,27.0819900] n273777934[55.1285400,27.0776100] n273777936[55.1295700,27.0812100] n273777937[55.1311900,27.0807800] n273777941[55.1311100,27.0770100] n273777942[55.1304200,27.0738300] n273777893[55.1282800,27.0728000]
-w25131118  Гінева Вялікае / Hinieva Vialikaje / Гинево Великое / Гинево Великое
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Гинево Большое | place=hamlet
+w25131118  Гінева Вялікае / null / Гинево Большое / Гинево Большое
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Гинево Великое | place=hamlet
     geometry : n273777957[55.1275900,27.0199300] n273777960[55.1266500,27.0183900] n273777962[55.1252700,27.0205300] n273777963[55.1257000,27.0214800] n273777966[55.1254500,27.0231100] n273777968[55.1276800,27.0240500] n273777971[55.1280200,27.0207000] n273777957[55.1275900,27.0199300]
 w25131120  Ліпаўка / Lipaŭka / Липовка / Липовка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -1997,8 +1988,8 @@ w25131158  Калееўцы / Kaliejeŭcy / Колеевцы / Колеевцы
 w25131160  Сіманы / Simany / Симоны / Симоны
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273778874[55.0540300,27.0648200] n273778876[55.0530900,27.0632800] n273778877[55.0512900,27.0661900] n273778879[55.0508600,27.0677400] n273778880[55.0503500,27.0710900] n2535527736[55.0524984,27.0725803] n273778887[55.0525700,27.0726300] n273778899[55.0536000,27.0730600] n273778908[55.0543800,27.0728000] n273778910[55.0534400,27.0695400] n273778912[55.0546300,27.0665400] n273778874[55.0540300,27.0648200]
-w25131161  Ажарава / Ažarava / Ожарово / Ожарово
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ожарево | place=hamlet
+w25131161  Ажарава / Ažarava / Ожарево / Ожарево
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ожарово | place=hamlet
     geometry : n273778916[55.0257100,26.9971900] n273778918[55.0252800,26.9958100] n273778920[55.0241600,26.9929800] n273778922[55.0234709,26.9929184] n273778924[55.0227419,26.9928714] n273778926[55.0204233,26.9952734] n1187652215[55.0176079,27.0000733] n273778928[55.0184182,27.0021729] n273778916[55.0257100,26.9971900]
 w25131162  Ажарцы / Ažarcy / Ожарцы / Ожарцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2027,8 +2018,8 @@ w25131172  Жалязоўшчына / Žaliazoŭščyna / Железовщина
 w25131174  Савічы / Savičy / Савичи / Савичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273779172[55.0555800,26.9456000] n273779173[55.0558400,26.9509200] n273779175[55.0591800,26.9505800] n274328739[55.0598700,26.9502400] n274328740[55.0617600,26.9473200] n274328741[55.0622700,26.9458600] n273779182[55.0623600,26.9450900] n273779185[55.0634800,26.9433700] n273779186[55.0630500,26.9412200] n273779190[55.0648500,26.9402800] n273779191[55.0651100,26.9433700] n273779193[55.0676800,26.9424300] n273779196[55.0679400,26.9393400] n273779197[55.0675100,26.9353900] n273779199[55.0623600,26.9369300] n273779202[55.0617600,26.9391600] n273779208[55.0585000,26.9402800] n273779210[55.0586700,26.9418200] n273779213[55.0553200,26.9432800] n273779172[55.0555800,26.9456000]
-w25131175  Цешылава / Ciešylava / Тешилово / Тешилово
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Тешелово | place=hamlet
+w25131175  Цешылава / Ciešylava / Тешелово / Тешелово
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Тешилово | place=hamlet
     geometry : n273779216[55.0839900,27.0300600] n273779218[55.0845900,27.0294600] n273779219[55.0834700,27.0246500] n273779222[55.0839900,27.0235400] n273779224[55.0838200,27.0201000] n273779225[55.0843300,27.0182100] n273779228[55.0843300,27.0140100] n273779230[55.0839000,27.0122900] n273779232[55.0827776,27.0114287] n1452682000[55.0816913,27.0134577] n1452681997[55.0813413,27.0139777] n273779238[55.0809800,27.0146100] n273779240[55.0803000,27.0150400] n273779241[55.0797800,27.0150400] n273779244[55.0778900,27.0171000] n273779245[55.0789200,27.0183900] n273779247[55.0798700,27.0199300] n273779250[55.0785800,27.0224200] n273779251[55.0797000,27.0252500] n273779253[55.0798700,27.0266300] n273779255[55.0730000,27.0313500] n273779257[55.0733500,27.0336600] n273779259[55.0738600,27.0359000] n273779261[55.0803000,27.0315200] n273779263[55.0811600,27.0307500] n273779266[55.0824400,27.0290300] n273779267[55.0830400,27.0310000] n273779216[55.0839900,27.0300600]
 w25131176  Сліжова / Sližova / Слижово / Слижово
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2096,8 +2087,8 @@ w25132241  Койры / Kojry / Койры / Койры
 w25132242  Бараўкі / Baraŭki / Боровки / Боровки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273807900[55.2006055,26.8931091] n1678674541[55.2008326,26.8928585] n1678674545[55.2018126,26.8931891] n273807906[55.2030400,26.8929000] n273807912[55.2040700,26.8921300] n273807914[55.2040700,26.8891200] n273807916[55.2022600,26.8885200] n273807921[55.1972900,26.8871500] n273807927[55.1971100,26.8905800] n273807930[55.1972000,26.8918700] n273807934[55.1966800,26.8935900] n1678674444[55.1962061,26.8942499] n1678674453[55.1969456,26.8960417] n273807946[55.1973072,26.8980927] n273807948[55.2011047,26.8959910] n273807900[55.2006055,26.8931091]
-w25132243  Дзеткава / Dzietkava / Детково / Детково
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Дзедкава | alt_name:ru=Дедково | place=hamlet
+w25132243  Дзедкава / Dzietkava / Дедково / Дедково
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Дзеткава | alt_name:ru=Детково | place=hamlet
     geometry : n273807966[55.2505191,26.8560886] n273807968[55.2492276,26.8562428] n1075466944[55.2461905,26.8591303] n1075467016[55.2451178,26.8571425] n273808005[55.2428600,26.8582300] n273808009[55.2426100,26.8596800] n273808028[55.2430305,26.8640608] n273808032[55.2468100,26.8623500] n273808042[55.2488929,26.8649314] n273808046[55.2512715,26.8627700] n273807966[55.2505191,26.8560886]
 w25132245  Кураполле / Kurapollie / Курополье / Курополье
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village
@@ -2282,8 +2273,8 @@ w25133473  Янковічы / Jankovičy / Янковичи / Янковичи
 w25133474  Цябуты / Ciabuty / Тябуты / Тябуты
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273839684[55.1218359,26.6102766] n273839686[55.1230400,26.6097500] n273839688[55.1212400,26.6023600] n273839689[55.1198600,26.6002200] n273839690[55.1187500,26.6005600] n273839693[55.1184900,26.5983300] n273839694[55.1169500,26.5985000] n273839696[55.1172100,26.6007300] n273839698[55.1172987,26.6022172] n1137745378[55.1195690,26.6068866] n273839699[55.1211968,26.6103314] n273839684[55.1218359,26.6102766]
-w25133475  Волься Вялікая / Voĺsia Vialikaja / Олься Великая / Олься Великая
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Олься Большая | place=hamlet
+w25133475  Волься Вялікая / Voĺsia Vialikaja / Олься Большая / Олься Большая
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Олься Великая | place=hamlet
     geometry : n273839702[55.1200366,26.7026077] n1185829922[55.1164957,26.7141973] n1137745375[55.1149296,26.7160991] n1137744402[55.1141596,26.7174791] n273839709[55.1109400,26.7196100] n273839710[55.1115400,26.7222700] n273839713[55.1118008,26.7227349] n273839714[55.1148179,26.7209015] n273839715[55.1160410,26.7215633] n273839718[55.1177200,26.7210700] n273839719[55.1186582,26.7191335] n273839720[55.1214738,26.7124842] n1904479032[55.1233595,26.7085562] n1904479144[55.1265496,26.7074300] n1904479115[55.1260246,26.7030810] n1904479029[55.1233298,26.6983507] n273839702[55.1200366,26.7026077]
 w25133478  Мольдзевічы / Moĺdzievičy / Мольдевичи / Мольдевичи
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2350,7 +2341,7 @@ w25133510  Каралінова / Karalinova / Королиново / Корол
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Каролиново | place=hamlet
     geometry : n273840548[55.0227900,26.6536100] n273840550[55.0240800,26.6535200] n273840552[55.0256300,26.6530900] n273840553[55.0272500,26.6524000] n273840556[55.0279400,26.6480300] n273840557[55.0258800,26.6464800] n273840559[55.0233900,26.6410700] n273840561[55.0217600,26.6418500] n273840563[55.0212500,26.6449400] n273840565[55.0217600,26.6475100] n273840567[55.0224500,26.6482800] n273840548[55.0227900,26.6536100]
 w25133511  Камаі / Kamai / Камаи / Камаи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=village
     geometry : n273840571[55.0626759,26.5926499] n1187611656[55.0625456,26.5965082] n273840572[55.0621177,26.5984124] n273840574[55.0613617,26.5989997] n274599079[55.0608262,26.5988622] n274599080[55.0604762,26.5986568] n274599081[55.0599758,26.5981138] n274599082[55.0600934,26.5963565] n274599084[55.0602015,26.5957241] n274599071[55.0605600,26.5951500] n274599072[55.0605600,26.5942100] n274599073[55.0607300,26.5934400] n273840593[55.0600006,26.5914779] n1132766570[55.0598311,26.5902040] n273840595[55.0601825,26.5856387] n1132766374[55.0588823,26.5855675] n273840596[55.0563500,26.5933500] n273840598[55.0547146,26.5945336] n273840600[55.0540525,26.6006753] n273840603[55.0567151,26.6060418] n273840604[55.0562209,26.6085876] n1132765100[55.0560151,26.6133920] n273840606[55.0569496,26.6135771] n1187611620[55.0580501,26.6147211] n273840609[55.0594370,26.6146917] n273840610[55.0606579,26.6187823] n273840612[55.0627900,26.6168700] n273840615[55.0651386,26.6153515] n273840616[55.0687002,26.6102202] n1187611503[55.0682197,26.6070470] n1132766052[55.0670335,26.6035866] n2134908275[55.0657683,26.6044176] n2531731425[55.0638456,26.5926631] n273840571[55.0626759,26.5926499]
 w25133512  Відлы / Vidly / Видлы / Видлы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2400,8 +2391,8 @@ w25133535  Жары / Žary / Жары / Жары
 w25133538  null / null / Ольшевские / Ольшевские
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273841210[54.9884578,26.6920130] n273841212[54.9893879,26.6914122] n273841214[54.9903653,26.6906704] n273841216[54.9907907,26.6904865] n273841218[54.9906398,26.6896408] n273841220[54.9893833,26.6900804] n273841223[54.9883623,26.6914175] n273841210[54.9884578,26.6920130]
-w25133543  Марачы / Maračy / Морочи / Морочи
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Марачи | place=hamlet
+w25133543  Марачы / Maračy / Марачи / Марачи
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Морочи | place=hamlet
     geometry : n273841306[54.9908735,26.5917603] n273841310[54.9901783,26.5912564] n1075136310[54.9893547,26.5920436] n1075136316[54.9882447,26.5942736] n1075136313[54.9877403,26.5968421] n273841318[54.9878600,26.5984200] n273841319[54.9886300,26.5994500] n273841322[54.9895769,26.5995033] n273841324[54.9912900,26.5967900] n273841328[54.9916927,26.5926562] n273841306[54.9908735,26.5917603]
 w25133545  Данеўцы / Danieŭcy / Даневцы / Даневцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2481,8 +2472,8 @@ w25134633  Рагалі / Rahali / Рогали / Рогали
 w25134634  null / null / Клентаки / Клентаки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273862706[55.0756220,26.4855462] n273862707[55.0754855,26.4827854] n273862709[55.0750600,26.4822900] n273862712[55.0739411,26.4825170] n273862714[55.0733880,26.4828262] n273862715[55.0724000,26.4830097] n273862717[55.0724900,26.4858031] n273862706[55.0756220,26.4855462]
-w25134635  Рамейкі / Ramiejki / Ромейки / Ромейки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рамейки | place=hamlet
+w25134635  Рамейкі / Ramiejki / Рамейки / Рамейки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Ромейки | place=hamlet
     geometry : n273862719[55.0201803,26.5032211] n1129710919[55.0201732,26.5044090] n1132766224[55.0201997,26.5049160] n273862723[55.0233900,26.5073500] n273862725[55.0244200,26.5083800] n273862728[55.0252800,26.5083800] n273862729[55.0252800,26.5060600] n1129711114[55.0246117,26.5054623] n273862733[55.0242500,26.5051200] n273862734[55.0247600,26.5030600] n273862736[55.0236500,26.5022000] n273862738[55.0233100,26.5032300] n273862739[55.0210369,26.5020451] n273862719[55.0201803,26.5032211]
 w25134636  Шчэрбішкі / Ščerbiški / Щербишки / Щербишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2508,8 +2499,8 @@ w25134642  Субачы / Subačy / Субочи / Субочи
 w25134643  Лодасі / Lodasi / Лодоси / Лодоси
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273862852[55.0359300,26.5149900] n273862855[55.0353234,26.5136945] n1082165785[55.0350244,26.5166874] n1082165793[55.0338356,26.5191495] n1082165787[55.0341756,26.5208027] n1082165795[55.0348221,26.5246900] n1082165801[55.0352418,26.5267365] n273862863[55.0377300,26.5294900] n273862864[55.0387600,26.5319000] n273862865[55.0406400,26.5310400] n273862867[55.0410800,26.5279500] n273862868[55.0400500,26.5230600] n273862869[55.0372100,26.5224600] n273862871[55.0372100,26.5153300] n273862852[55.0359300,26.5149900]
-w25134646  Мягуны / Miahuny / Мегуны / Мегуны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мягуны | place=hamlet
+w25134646  Мягуны / Miahuny / Мягуны / Мягуны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мегуны | place=hamlet
     geometry : n273862873[55.0799948,26.5180288] n273862875[55.0782549,26.5114582] n273862876[55.0712000,26.5162800] n273862878[55.0701189,26.5170153] n273862880[55.0687539,26.5168303] n273862881[55.0679400,26.5173900] n273862883[55.0670800,26.5175706] n273862885[55.0665700,26.5175600] n273862901[55.0663900,26.5133600] n273862912[55.0652800,26.5133600] n273862914[55.0652800,26.5150700] n273862915[55.0621000,26.5155900] n273862918[55.0605600,26.5130100] n273862919[55.0595300,26.5145600] n273862920[55.0609000,26.5168800] n273862923[55.0606400,26.5192800] n273862924[55.0625300,26.5198800] n273862926[55.0626200,26.5185900] n273862927[55.0642226,26.5210559] n273862929[55.0657900,26.5234000] n1082165799[55.0671618,26.5217666] n273862931[55.0680200,26.5234000] n273862932[55.0680200,26.5252900] n273862934[55.0698300,26.5251200] n273862936[55.0698300,26.5230600] n273862954[55.0744600,26.5208300] n1082165790[55.0748100,26.5195868] n1082165772[55.0753200,26.5193268] n1082165767[55.0757500,26.5193268] n273862873[55.0799948,26.5180288]
 w25134647  Лапуны / Lapuny / Лапуны / Лапуны
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2529,7 +2520,7 @@ w25134654  Роўнае Поле / Roŭnaje Polie / Ровное Поле / Ро
 w25134655  Скарпаўцы / Skarpaŭcy / Скарповцы / Скарповцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273863076[55.0123200,26.5052900] n273863077[55.0123200,26.5079500] n273863079[55.0194500,26.5075200] n273863081[55.0194500,26.5048600] n273863082[55.0191900,26.5033200] n273863085[55.0188400,26.5031400] n273863086[55.0163600,26.5027100] n273863087[55.0162119,26.5017046] n273863090[55.0142294,26.5021438] n273863091[55.0141200,26.5030600] n273863093[55.0130100,26.5034000] n273863076[55.0123200,26.5052900]
-w25134658  Навасёлкі / Navasiolki / Новоселки / Новоселки
+w25134658  Навасёлкі / Navasiolki / Новосёлки / Новоселки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273863096[55.0130067,26.5266699] n273863097[55.0119800,26.5262300] n273863099[55.0116799,26.5285803] n273863101[55.0121758,26.5303428] n273863102[55.0132700,26.5288900] n273863104[55.0138700,26.5396200] n273863106[55.0147200,26.5430600] n273863107[55.0171242,26.5479507] n273863110[55.0186558,26.5457517] n273863111[55.0157500,26.5333600] n273863114[55.0157500,26.5307000] n273863115[55.0167000,26.5304400] n273863118[55.0167800,26.5272600] n273863119[55.0175290,26.5250803] n273863122[55.0170742,26.5236523] n273863123[55.0155800,26.5228900] n273863125[55.0149927,26.5229836] n1132766447[55.0144813,26.5247440] n273863127[55.0136352,26.5247175] n273863128[55.0130900,26.5264000] n273863096[55.0130067,26.5266699]
 w25134661  Міцкяны / Mickiany / Мицкяны / Мицкяны
@@ -2572,8 +2563,8 @@ w25135625  Палессе / Paliessie / Полесье / Полесье
 w25135629  Цырклішкі Вялікія / Cyrkliški Vialikija / Цирклишки Большие / Цирклишки Большие
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Цирклишки Великие | place=hamlet
     geometry : n273883062[55.1194846,26.3452970] n273883064[55.1186497,26.3450926] n273883065[55.1173800,26.3468500] n1132243489[55.1177611,26.3479285] n273883067[55.1183200,26.3495100] n273883069[55.1193500,26.3478800] n273883062[55.1194846,26.3452970]
-w25135633  Рынкяны / Rynkiany / Рынкяны / Рынкяны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рынк’яны | alt_name:ru=Рынкьяны | place=hamlet
+w25135633  Рынк’яны / Rynkiany / Рынкьяны / Рынкьяны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рынкяны | alt_name:ru=Рынкяны | place=hamlet
     geometry : n273883098[55.1169500,26.2849600] n273883099[55.1164300,26.2829000] n273883101[55.1158300,26.2810100] n273883102[55.1110300,26.2847000] n273883103[55.1112000,26.2873700] n273883105[55.1100800,26.2875400] n273883106[55.1100800,26.2909700] n273883107[55.1129100,26.2909700] n273883109[55.1129100,26.2883100] n273883098[55.1169500,26.2849600]
 w25135635  Вейсішкі / Viejsiški / Вейсишки / Вейсишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2581,7 +2572,7 @@ w25135635  Вейсішкі / Viejsiški / Вейсишки / Вейсишки
 w25135637  Янанішкі / Jananiški / Янанишки / Янанишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273883133[55.1022700,26.3047900] n273883134[55.1020100,26.3010100] n273883135[55.1002900,26.2993000] n273883137[55.0993500,26.2993800] n273883138[55.0993500,26.3026400] n273883139[55.1003432,26.3033440] n273883141[55.1009000,26.3049600] n273883133[55.1022700,26.3047900]
-w25135638  Пад’ясенка / Padjasienka / Подъясенка / Подъясенка
+w25135638  Пад’ясенка / Padjasienka / Подьясенка / Подьясенка
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Подьясенка | place=hamlet
     geometry : n273883143[55.0886200,26.3580900] n273883144[55.0894000,26.3562000] n273883145[55.0867400,26.3531100] n273883147[55.0861300,26.3550000] n273883148[55.0855300,26.3572300] n273883149[55.0881900,26.3599800] n273883143[55.0886200,26.3580900]
 w25135639  Пятруці / Piatruci / Петрути / Петрути
@@ -2641,8 +2632,8 @@ w25135664  Гайлюны / Hajliuny / Гайлюны / Гайлюны
 w25135665  Казнадзеюшкі / Kaznadziejuški / Казнадеюшки / Казнадеюшки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Казнадзеішкі | place=hamlet
     geometry : n273883390[55.0755800,26.2773200] n273883392[55.0753200,26.2778400] n273883394[55.0737309,26.2795687] n273883396[55.0731779,26.2853931] n273883397[55.0727257,26.2902367] n273883399[55.0763572,26.2915383] n1886854959[55.0774277,26.2876258] n1886854958[55.0755988,26.2862627] n273883401[55.0761995,26.2781752] n273883390[55.0755800,26.2773200]
-w25135666  Свірдуны / Svirduny / Свирдуны / Свирдуны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Свірдуні | alt_name:ru=Свирдуни | place=hamlet
+w25135666  Свірдуні / Svirduny / Свирдуни / Свирдуни
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Свірдуны | alt_name:ru=Свирдуны | place=hamlet
     geometry : n273883404[55.0441466,26.3562404] n1137828590[55.0436496,26.3564420] n273883405[55.0427305,26.3584575] n273883407[55.0427824,26.3638397] n273883409[55.0426702,26.3666519] n273883411[55.0433401,26.3683611] n1137828536[55.0441945,26.3689090] n1137829722[55.0454559,26.3671358] n1137828710[55.0461380,26.3660910] n273883413[55.0467747,26.3670803] n273883414[55.0479207,26.3654470] n273883417[55.0474538,26.3632549] n273883419[55.0451050,26.3607201] n273883421[55.0453573,26.3568527] n273883404[55.0441466,26.3562404]
 w25135668  Шудаўцы / Šudaŭcy / Шудовцы / Шудовцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2665,8 +2656,8 @@ w25135677  Дварчаны / Dvarčany / Дворчаны / Дворчаны
 w25135678  Чопанішкі / Čopaniški / Чопанишки / Чопанишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273883565[55.0002200,26.3074500] n273883567[55.0002200,26.3096800] n273883568[55.0035700,26.3099400] n273883569[55.0044200,26.3081400] n273883571[55.0046000,26.3064200] n273883572[55.0044200,26.3048800] n273883573[55.0002200,26.3053000] n273883565[55.0002200,26.3074500]
-w25135682  Рачаны / Račany / Рачаны / Рачаны
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рочаны | place=hamlet
+w25135682  Рачаны / Račany / Рочаны / Рочаны
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Рачаны | place=hamlet
     geometry : n273883575[55.0100900,26.2338100] n273883579[55.0071700,26.2320000] n273883584[55.0055400,26.2300300] n273883585[55.0046800,26.2332900] n273883587[55.0057100,26.2344900] n273883588[55.0053700,26.2355200] n273883590[55.0083186,26.2388075] n273883591[55.0098663,26.2383498] n273883600[55.0113700,26.2372400] n273883602[55.0100000,26.2353500] n273883575[55.0100900,26.2338100]
 w25135683  Пешкаўцы / Pieškaŭcy / Пешковцы / Пешковцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2713,8 +2704,8 @@ w97539318  Каптаруны / Kaptaruny / Каптаруны / Каптару�
 w97696359  Пятроўшчына / Piatroŭščyna / Петровщина / Петровщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n1131060443[55.0077301,26.8528054] n1131059843[55.0083304,26.8551254] n1131060658[55.0087605,26.8574454] n1131060057[55.0090418,26.8570258] n1131060021[55.0091907,26.8570154] n1131059421[55.0096600,26.8565751] n1131060238[55.0088487,26.8531853] n1131060443[55.0077301,26.8528054]
-w97696360  Ідаліна / Idalina / Идолина / Идолина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Идолино | place=hamlet
+w97696360  Ідаліна / Idalina / Идолино / Идолино
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Идолина | place=hamlet
     geometry : n1131060164[55.0006939,26.8477225] n1131059586[55.0005182,26.8496809] n1131059510[55.0010555,26.8505429] n1131060331[55.0012231,26.8509748] n1131059741[55.0013788,26.8515709] n1131060550[55.0040106,26.8508659] n1131060484[55.0041624,26.8490505] n1131060164[55.0006939,26.8477225]
 w98279347  Гадуцішкі / Haduciški / Годутишки / Годутишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2731,8 +2722,8 @@ w132097238  Сухарышкі / Sucharyški / Сухаришки / Сухари
 w149100769  Гайдукі / Hajduki / Гайдуки / Гайдуки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n1621260696[55.0083557,27.4202534] n1621260697[55.0088979,27.4219556] n1621260695[55.0081290,27.4226959] n1621260694[55.0075153,27.4212769] n1621260696[55.0083557,27.4202534]
-w149323485  Васкаўшчына / Vaskaŭščyna / Васковщина / Васковщина
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Васкаўшчызна | alt_name:ru=Восковщизна | place=hamlet
+w149323485  Васкаўшчызна / Vaskaŭščyna / Восковщизна / Восковщизна
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Васкаўшчына | alt_name:ru=Васковщина | place=hamlet
     geometry : n1623209857[55.0271077,26.4436430] n1623209855[55.0262171,26.4426945] n1623209854[55.0260435,26.4432999] n1623209852[55.0256850,26.4429367] n1623209850[55.0253958,26.4440264] n1623209849[55.0248290,26.4436834] n1623209848[55.0244935,26.4452171] n1623209851[55.0254073,26.4460445] n1623209853[55.0259510,26.4441677] n1623209856[55.0266682,26.4449547] n1623209857[55.0271077,26.4436430]
 w149325877  null / null / Баранишки / Баранишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2743,8 +2734,8 @@ w149699282  null / null / Бадрувка / Бадрувка
 w149700138  Вараноўшчына / Varanoŭščyna / Вороновщина / Вороновщина
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n1626473195[55.0751065,26.7741826] n1626473194[55.0746381,26.7738915] n1626473193[55.0745336,26.7751031] n1626473196[55.0749704,26.7754998] n1626473197[55.0751316,26.7744062] n1626473195[55.0751065,26.7741826]
-w149700139  Загачча / Zahačča / Загачье / Загачье
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Загатье | place=hamlet
+w149700139  Загачча / Zahačča / Загатье / Загатье
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Загачье | place=hamlet
     geometry : n1626473208[55.0802800,26.7789351] n1626473209[55.0805546,26.7812403] n1626473210[55.0805546,26.7820448] n1626473207[55.0793235,26.7823233] n1626473205[55.0787479,26.7824006] n1626473206[55.0787567,26.7841953] n1626473202[55.0775345,26.7844583] n1626473201[55.0775080,26.7821531] n1626473198[55.0760820,26.7821686] n1626473199[55.0760997,26.7802656] n1626473200[55.0768525,26.7776200] n1626473203[55.0783316,26.7778366] n1626473204[55.0783493,26.7798634] n1626473208[55.0802800,26.7789351]
 w149700141  Шпакі / null / Шпаки / Шпаки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2773,14 +2764,14 @@ w299709176  Стукаўшчына / Stukaŭščyna / Стуковщина / С�
 w299709369  Кабыльнішкі / Kabyĺniški / Кобыльнишки / Кобыльнишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n3037431009[55.1033932,26.2679548] n3037431007[55.1024207,26.2690304] n3037431008[55.1030231,26.2706946] n3037431010[55.1039956,26.2696190] n3037431009[55.1033932,26.2679548]
-w299709890  Рэпішкі / Repiški / Репишки / Репишки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рэпешкі | alt_name:ru=Репешки | place=hamlet
+w299709890  Рэпешкі / Repiški / Репешки / Репешки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:be=Рэпішкі | alt_name:ru=Репишки | place=hamlet
     geometry : n3037437222[55.0467049,26.3867176] n3037437220[55.0458471,26.3857500] n3037437219[55.0452839,26.3872712] n3037437221[55.0461417,26.3882388] n3037437222[55.0467049,26.3867176]
 w299711125  Лаўцы / Laŭcy / Ловцы / Ловцы
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n273840771[55.0050621,26.5965462] n273840785[55.0032201,26.5976580] n273840788[55.0037541,26.6003477] n273840796[55.0055961,26.5992359] n273840771[55.0050621,26.5965462]
-w299788412  Пуцяцішкі / Puciaciški / Путятишки / Путятишки
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Путятешки | place=hamlet
+w299788412  Пуцяцішкі / Puciaciški / Путятешки / Путятешки
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Путятишки | place=hamlet
     geometry : n3038524065[55.0772144,26.5281948] n3038524064[55.0762992,26.5291848] n3038524066[55.0773385,26.5321161] n3038524067[55.0782536,26.5311261] n3038524065[55.0772144,26.5281948]
 w299788526  Гродзі / Hrodzi / Гроди / Гроди
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
@@ -2854,8 +2845,8 @@ w300587476  Будзева / Budzieva / Будево / Будево
 w300600385  Невярышкі / Nieviaryški / Неверишки / Неверишки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet
     geometry : n3046795965[55.1371767,26.6801875] n3046795963[55.1366461,26.6794931] n3046795962[55.1363431,26.6802015] n3046795964[55.1368737,26.6808959] n3046795965[55.1371767,26.6801875]
-w300600544  Муляры Лясныя / Muliary Liasnyja / Муляры Лесные / Муляры Лесные
-  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Мулеры Лесные | place=hamlet
+w300600544  Муляры Лясныя / Muliary Liasnyja / Мулеры Лесные / Мулеры Лесные
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Муляры Лесные | place=hamlet
     geometry : n3046798307[55.1654853,26.7250542] n3046798303[55.1642174,26.7252301] n3046798304[55.1644791,26.7310123] n3046798301[55.1638805,26.7310954] n3046798302[55.1640189,26.7341537] n3046798305[55.1647134,26.7340573] n3046798306[55.1647666,26.7352333] n3046798308[55.1659387,26.7350707] n3046798307[55.1654853,26.7250542]
 w300600670  Азёркі / Aziorki / Озёрки / Озёрки
   other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | alt_name:ru=Озерки | place=hamlet
@@ -2943,3 +2934,8 @@ r4708048  Ясюкі / Jasiuki / Ясюки / Ясюки
     geometry : <outer> w25129654: n273742824[55.1506000,27.2401700] n273742827[55.1500800,27.2382800] n273742832[55.1482800,27.2394900] n273742835[55.1488413,27.2417657] n273742837[55.1505764,27.2406128] n273742824[55.1506000,27.2401700] : w25129654
     geometry : <outer> w25129668: n273743231[55.1472296,27.2432255] n273743236[55.1461739,27.2397924] n273743242[55.1455300,27.2366500] n273743254[55.1428583,27.2335615] n273743265[55.1415896,27.2374683] n273743267[55.1427000,27.2397400] n273743269[55.1450827,27.2413971] n273743272[55.1460687,27.2441294] n273743231[55.1472296,27.2432255] : w25129668
     geometry : <label> n243011733[55.1444200,27.2374300] : n243011733  Ясюкі / Jasiuki / Ясюки / Ясюки
+r4784166  null / null / Кейзики / Кейзики
+  other tags : addr:country=BY | addr:district=Поставский район | addr:region=Витебская область | place=hamlet | type=multipolygon
+    geometry : <outer> w25129667: n273743188[55.1645009,27.2240132] n273743191[55.1648985,27.2229381] n273743193[55.1645800,27.2205583] n920551319[55.1640700,27.2206397] n920551276[55.1630400,27.2209797] n920551338[55.1618400,27.2208097] n920551291[55.1600300,27.2195197] n273743208[55.1569236,27.2188954] n273743210[55.1572900,27.2242100] n272815601[55.1573700,27.2249800] n272815602[55.1587500,27.2248100] n272815603[55.1610600,27.2255800] n272815604[55.1614900,27.2255800] n272815605[55.1618400,27.2251500] n273743188[55.1645009,27.2240132] : w25129667
+    geometry : <outer> w25129658: n273742918[55.1603800,27.2490100] n273742921[55.1606400,27.2479000] n273742925[55.1602100,27.2456700] n273742928[55.1597287,27.2431623] n273742933[55.1580029,27.2434507] n3332718608[55.1574973,27.2469772] n273742936[55.1581500,27.2489300] n1975992137[55.1583594,27.2489161] n1975992141[55.1589288,27.2480393] n1975992144[55.1595807,27.2483213] n1975992146[55.1600775,27.2491669] n273742918[55.1603800,27.2490100] : w25129658
+    geometry : <label> n243011771[55.1602121,27.2237947] : n243011771  null / null / Кейзики / Кейзики

@@ -89,8 +89,8 @@ n1036966528  Melody / null / Melody
   other tags : amenity=cafe | website=http://www.gorod.vitebsk.by/melody
     geometry : [55.2005995,30.2076375]
 n1043416198  Жарпіца / null / Жарпицца
-  other tags : amenity=fast_food
-    geometry : [55.1614720,30.2190105]
+  other tags : amenity=fast_food | cuisine=pizza
+    geometry : [55.1614738,30.2189653]
 n1050179676
   other tags : amenity=fast_food
     geometry : [55.1930604,30.1412880]
@@ -282,8 +282,8 @@ n2074986044
   other tags : amenity=cafe
     geometry : [55.1955581,30.2447418]
 n2078093072
-  other tags : amenity=fast_food
-    geometry : [55.2002259,30.2419040]
+  other tags : amenity=cafe
+    geometry : [55.2002361,30.2418506]
 n2158025784  null / null / Планета Pizza
   other tags : amenity=cafe | cuisine=pizza | opening_hours=Mo-Su 11:00-23:00 | operator=ООО «Гриль-пиво»
     geometry : [55.1819672,30.2031241]
@@ -436,7 +436,7 @@ w172024234  null / null / Столовая
     geometry : n1829751296[55.1863256,30.1811905] n1829751295[55.1862652,30.1810957] n1829751293[55.1861993,30.1812247] n1829751291[55.1860400,30.1809749] n1829751292[55.1861450,30.1807696] n1829751294[55.1862273,30.1808986] n1829751297[55.1863333,30.1806912] n1829751298[55.1864707,30.1809067] n1829751296[55.1863256,30.1811905]
 w172610775  null / null / Хутка-Смачна
   other tags : amenity=fast_food | building=yes | building:levels=1 | internet_access=no | internet_access:fee=no | opening_hours=24/7 | smoking=yes
-    geometry : n1834992710[55.1722348,30.2119584] n1834992709[55.1722261,30.2120356] n1834992711[55.1722557,30.2120458] n2933874663[55.1722643,30.2119686] n1834992710[55.1722348,30.2119584]
+    geometry : n1834992710[55.1722392,30.2119256] n1834992709[55.1722305,30.2120028] n1834992711[55.1722601,30.2120130] n2933874663[55.1722687,30.2119358] n1834992710[55.1722392,30.2119256]
 w172610776  null / null / Хутка-Смачна
   other tags : amenity=fast_food | building=yes | building:levels=1 | internet_access=no | internet_access:fee=no | opening_hours=24/7 | smoking=yes
     geometry : n1834992721[55.1782779,30.2297816] n1834992719[55.1782506,30.2297740] n1834992718[55.1782444,30.2298424] n2910178957[55.1782717,30.2298501] n1834992721[55.1782779,30.2297816]

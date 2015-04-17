@@ -30,7 +30,7 @@ n871933911  Юбілейны / Jubiliejny / Юбилейный
     geometry : [52.7872684,27.5388092]
 n871933933  null / null / "Шахтер"
   other tags : shop=doityourself
-    geometry : [52.7896600,27.5458846]
+    geometry : [52.7896741,27.5459226]
 n960124078  null / null / Цветы у Михалыча
   other tags : shop=florist
     geometry : [52.7873939,27.5385045]
@@ -43,11 +43,8 @@ n960124080
 n1162102475  null / null / "Народный"
   other tags : shop=supermarket
     geometry : [52.7904995,27.5445481]
-n1168827603  null / null / "Златка"
-  other tags : shop=convenience
-    geometry : [52.7851189,27.5222647]
 n1168827693  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
-  other tags : shop=car
+  other tags : shop=car_parts
     geometry : [52.7913484,27.5500371]
 n1168827703  null / null / "ДНК Медиа"
   other tags : shop=variety_store
@@ -71,7 +68,7 @@ n1168827913  null / null / "Детский Супермаркет"
   other tags : shop=baby_goods
     geometry : [52.7839358,27.5125185]
 n1168827920  null / null / Центр "Velcom"
-  other tags : operator=Velcom | shop=mobile_phone
+  other tags : office=telecommunication | operator=Velcom | shop=mobile_phone
     geometry : [52.7854138,27.5232075]
 n1168827941  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : shop=car_parts
@@ -252,7 +249,7 @@ n1215126572  null / null / Киоск
     geometry : [52.7928747,27.5431406]
 n1215353857  null / null / Киоск
   other tags : shop=kiosk
-    geometry : [52.7893214,27.5461502]
+    geometry : [52.7893409,27.5461531]
 n1215354712  Дом быту / null / Дом быта
   other tags : shop=doityourself
     geometry : [52.7897659,27.5450612]
@@ -302,9 +299,6 @@ n1382960649  Аўтазапчасткі / null / Автозапчасти / Ав
 n1382960660  null / null / Киоск "Солигоская птицефабрика"
   other tags : amenity=shop | building=yes | shop=convenience
     geometry : [52.7882652,27.5212014]
-n1382960692  null / null / "Проспект"
-  other tags : amenity=shop | shop=convenience
-    geometry : [52.7874182,27.5225589]
 n1382960724  null / null / "Ласунак"
   other tags : amenity=shop | building=yes | shop=convenience
     geometry : [52.7887477,27.5215541]
@@ -423,7 +417,7 @@ n2555693384  null / null / Домовой
   other tags : addr:housenumber=27 | addr:street=Северная | shop=doityourself
     geometry : [52.8004284,27.5448963]
 n2555713508  null / null / Остров чистоты
-  other tags : addr:housenumber=18 | addr:street=улица Ленинского Комсомола | shop=convenience
+  other tags : addr:housenumber=18 | addr:street=улица Ленинского Комсомола | shop=chemist
     geometry : [52.7891772,27.5463878]
 n2555791344  null / null / Радуга-Дом
   other tags : shop=department_store
@@ -508,9 +502,9 @@ n2857474801  null / null / СТО
     geometry : [52.8102508,27.5609770]
 n2912571210  null / null / Велоцентр
   other tags : shop=bicycle
-    geometry : [52.7846846,27.5242028]
-n3280531546  null / null / Обувной маг.
-  other tags : shop=supermarket
+    geometry : [52.7846606,27.5241538]
+n3280531546  null / null / Обувь
+  other tags : shop=shoes
     geometry : [52.7927740,27.5415425]
 n3440052545
   other tags : shop=seafood

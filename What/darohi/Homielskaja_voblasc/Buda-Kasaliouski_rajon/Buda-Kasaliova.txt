@@ -65,6 +65,7 @@ w137336258  вуліца Карчагіна / vulica Karčahina / улица К�
   other tags : highway=residential | surface=asphalt
     geometry : n1506563349[52.7291621,30.5577622] n1506563552[52.7287872,30.5578030] n1554833563[52.7282172,30.5579286] n1506563274[52.7276144,30.5580517] n1506563243[52.7265897,30.5583241] n1506563473[52.7259478,30.5584754] n1506563387[52.7251360,30.5590708]
 w137336259  Зялёная вуліца / Zialionaja vulica / Зелёная улица / Зелёная улица
+  other names: name:lt=Žalioji g.
   other tags : highway=residential | surface=unpaved
     geometry : n1506563143[52.7226257,30.5572326] n1506563324[52.7215727,30.5576473] n1506563246[52.7204827,30.5580830]
 w137336260  вуліца 30 гадоў Перамогі / vulica 30 hadoŭ Pieramohi / улица 30 лет Победы / улица 30 лет Победы
@@ -344,16 +345,16 @@ w145611042  Калядная вуліца / Kaliadnaja vulica / Рождеств
   other tags : highway=residential | surface=unpaved
     geometry : n1589922775[52.7191993,30.5650729] n1589922776[52.7192538,30.5662670] n1589922777[52.7192680,30.5665778] n1589922793[52.7193693,30.5668824] n1589922789[52.7193548,30.5671481] n1589922802[52.7194543,30.5674318]
 w152239640
-  other tags : bridge=yes | highway=footway | layer=1 | surface=asphalt | width=2,5
+  other tags : bridge=yes | highway=footway | layer=1 | surface=asphalt | width=2.5
     geometry : n1650669119[52.7134030,30.5676804] n1650669101[52.7128353,30.5669477]
 w152239641
-  other tags : bridge=no | highway=footway | surface=asphalt
+  other tags : highway=footway | surface=asphalt
     geometry : n1650669112[52.7133622,30.5677690] n1650669103[52.7132125,30.5680958]
 w152239642
-  other tags : bridge=no | highway=steps | layer=1 | surface=asphalt | width=2,5
+  other tags : bridge=no | highway=steps | layer=1 | surface=asphalt | width=2.5
     geometry : n1650669101[52.7128353,30.5669477] n1650669100[52.7127895,30.5668842] n1650669099[52.7127323,30.5670101]
 w152239643
-  other tags : highway=steps | surface=asphalt | width=2,5
+  other tags : highway=steps | surface=asphalt | width=2.5
     geometry : n1650669112[52.7133622,30.5677690] n1650669119[52.7134030,30.5676804] n1650669121[52.7134395,30.5676023]
 w152255583
   other tags : highway=footway | surface=asphalt | width=1

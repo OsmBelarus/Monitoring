@@ -12,19 +12,13 @@ n1061780495  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
     geometry : [52.6343675,29.7483211]
 n1190676422  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : addr:housenumber=45А | addr:street=улица Ленина | amenity=bank
-    geometry : [52.6330700,29.7449653]
+    geometry : [52.6332448,29.7440629]
 n1465777522  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes
     geometry : [52.6357246,29.7261367]
 n1465838167  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=bank
     geometry : [52.6356212,29.7377425]
-n1537066493  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
-  other tags : amenity=bank | atm=yes
-    geometry : [52.6297420,29.7439000]
-n1537066494  null / null / Idea-Bank / Idea-Bank
-  other tags : amenity=bank
-    geometry : [52.6299868,29.7441586]
 n1537088668  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes
     geometry : [52.6284771,29.7544198]
@@ -37,3 +31,9 @@ n2181231775  Белінвестбанк / Bielinviestbank / Белинвестб
 n2208025527  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes | opening_hours=09:00-19:00
     geometry : [52.6267184,29.7262664]
+n3454251088  null / null / Банк ВТБ
+  other tags : amenity=bank | atm=yes
+    geometry : [52.6295473,29.7435730]
+n3454251089  null / null / Idea-Bank
+  other tags : amenity=bank
+    geometry : [52.6300556,29.7441503]

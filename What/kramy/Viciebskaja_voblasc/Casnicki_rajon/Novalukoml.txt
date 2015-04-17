@@ -13,9 +13,6 @@ n2444389436  null / null / Ганна
 n2444389439  null / null / Шанс
   other tags : shop=yes
     geometry : [54.6581432,29.1416965]
-n2444390999
-  other tags : shop=hardware
-    geometry : [54.6580475,29.1418654]
 n2444392345  null / null / Лана
   other tags : shop=yes
     geometry : [54.6579745,29.1415848]
@@ -25,8 +22,8 @@ n2444393349
 n2444393350  null / null / Промтовары
   other tags : addr:city=Новолукомль | addr:postcode=211162 | opening_hours=8:00-20:00 | shop=convenience
     geometry : [54.6577583,29.1415215]
-n2444393351  null / null / Техносеть
-  other tags : shop=electronics
+n2444393351  null / null / Париматч
+  other tags : shop=bookmaker
     geometry : [54.6586576,29.1413048]
 n2445115072
   other tags : shop=butcher
@@ -43,9 +40,6 @@ n2463399896  null / null / Кулинария
 n2463400376  null / null / Обувь
   other tags : shop=shoes
     geometry : [54.6583840,29.1415006]
-n2463405979  null / null / МТС
-  other tags : shop=mobile_phone
-    geometry : [54.6524442,29.1358975]
 n2464212317  null / null / Рубин
   other tags : shop=gift
     geometry : [54.6570190,29.1402764]
@@ -78,10 +72,19 @@ n3214158168
     geometry : [54.6557010,29.1453883]
 n3350455123  null / null / Строительный
   other tags : shop=yes
-    geometry : [54.6547472,29.1518861]
+    geometry : [54.6545061,29.1515789]
 n3350455124  null / null / Ритуальный
   other tags : shop=yes
-    geometry : [54.6545794,29.1518762]
+    geometry : [54.6543389,29.1515887]
 n3424627338  null / null / Твой
   other tags : addr:housenumber=1 | addr:street=Коммунальная улица | operator=ЧТПУП Торговый Дом "Твой" | phone=8(02133)53176 | shop=furniture
     geometry : [54.6545097,29.1462810]
+n3449201513
+  other tags : shop=car_repair
+    geometry : [54.6773064,29.1425432]
+n3449203817
+  other tags : shop=doityourself
+    geometry : [54.6774562,29.1424956]
+n3451682458  null / null / МТС
+  other tags : shop=mobile_phone
+    geometry : [54.6523156,29.1356662]

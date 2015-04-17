@@ -104,7 +104,7 @@ n558233808  null / null / Bigzz
 n595701659  Гіпа / null / Гиппо / Гиппо
   other tags : shop=supermarket
     geometry : [53.9655165,27.6448537]
-n595701904  null / null / A-100 / A-100
+n595701904  A-100 / null / A-100 / A-100
   other tags : shop=convenience
     geometry : [53.9644193,27.6437947]
 n641870301
@@ -709,7 +709,7 @@ n2335860338
 n2343265471  null / null / Мясная лавка
   other tags : shop=convenience
     geometry : [53.8234669,27.5191672]
-n2406126200  null / null / Хоздвор
+n2406126200  Гаспдвор / null / Хоздвор / Хоздвор
   other tags : shop=hardware
     geometry : [53.9645574,27.6463109]
 n2409602496
@@ -766,7 +766,7 @@ n2579746780
 n2579746797  null / null / Пятачок
   other tags : shop=yes
     geometry : [54.0078038,27.6818466]
-n2579746810  null / null / Пятый элемент
+n2579746810  Пяты элемент / null / Пятый элемент / Пятый элемент
   other tags : shop=hifi
     geometry : [53.9661699,27.6458244]
 n2579746820  null / null / церковная утварь
@@ -808,7 +808,7 @@ n2623829736
 n2630868522
   other tags : shop=car_parts
     geometry : [53.8224372,27.5186017]
-n2789062055  null / null / Шиномонтаж
+n2789062055  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : shop=car_repair
     geometry : [53.9617486,27.6486382]
 n2810991730  null / null / "Газовский" магазин
@@ -883,8 +883,8 @@ n2975428778
 n3049649131
   other tags : shop=convenience
     geometry : [53.8454342,27.4138800]
-n3056233050  null / null / МастерПро
-  other tags : email=masterproboro@mail.ru | fax=+375 17 511 0005 | image=http://vseinstrumenti.by/sites/default/files/boro_logo.png | phone=+375 29 786 8888 | shop=hardware | website=http://vseinstrumenti.by/shop
+n3056233050  МайстарПра / null / МастерПро / МастерПро
+  other tags : contact:email=masterproboro@mail.ru | contact:fax=+375 17 511 0005 | contact:phone=+375 29 786 8888 | contact:website=http://vseinstrumenti.by/shop | image=http://vseinstrumenti.by/sites/default/files/boro_logo.png | shop=hardware
     geometry : [53.9658115,27.6454501]
 n3067418276
   other tags : addr:street=Лесная улица | shop=yes
@@ -988,6 +988,12 @@ n3351971831
 n3446735561  null / null / Шиномонтаж
   other tags : shop=car_repair
     geometry : [53.7787955,27.6499776]
+n3449103767
+  other tags : shop=convenience
+    geometry : [53.8394792,27.4636129]
+n3449155824
+  other tags : shop=florist
+    geometry : [53.8389497,27.4634471]
 n3458019805
   other tags : addr:city=Прилуки | shop=convenience
     geometry : [53.7937173,27.4526465]

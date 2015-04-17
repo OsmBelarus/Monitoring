@@ -455,9 +455,6 @@ n305683627  Слявянскі кут / null / Славянский кут / С�
 n305683807  Камелія / null / Камелия
   other tags : amenity=restaurant
     geometry : [53.8796148,27.6088951]
-n305683855  Марс / null / Мясная лавка / Марс
-  other tags : amenity=cafe | cuisine=pizza
-    geometry : [53.8584400,27.6056600]
 n305683895  null / null / Медвежий Угол / Медвежий Угол
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9010326,27.6069244]
@@ -496,7 +493,7 @@ n305684628  Вэрсаль / null / Версаль / Версаль
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9198430,27.6036750]
 n305684666  null / null / Упоение / Упоение
-  other tags : amenity=cafe | cuisine=cafe/diner
+  other tags : addr:housenumber=13 | addr:street=улица Толбухина | amenity=cafe | cuisine=cafe/diner
     geometry : [53.9282360,27.6110744]
 n305684724  Ракаўскi Бровар / null / Ракаўскi Бровар / Ракаўскi Бровар
   other tags : amenity=cafe | cuisine=cafe/diner
@@ -556,7 +553,7 @@ n305685367  null / null / Сатурн / Сатурн
 n305685517  null / null / Роксалана / Роксалана
   other tags : amenity=cafe | cuisine=cafe/diner | opening_hours=11:00-23:00
     geometry : [53.9289187,27.6249070]
-n305685562  null / null / Агат
+n305685562  Агат / null / Агат / Агат
   other tags : amenity=restaurant
     geometry : [53.9473869,27.6451270]
 n305685575  Салтайм / null / Салтайм / Салтайм
@@ -565,10 +562,10 @@ n305685575  Салтайм / null / Салтайм / Салтайм
 n305685608  null / null / Калабрия / Калабрия
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.9432100,27.6405700]
-n305685723  null / null / Чинар / Чинар
+n305685723  Чынар / null / Чинар / Чинар
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9084663,27.6328537]
-n305686034  null / null / Советский / Советский
+n305686034  Савецкі / null / Советский / Советский
   other names: name:uk=Совєтський
   other tags : amenity=restaurant
     geometry : [53.9166300,27.6576300]
@@ -702,8 +699,8 @@ n497588009  null / null / Pizza
     geometry : [53.8401271,27.4968267]
 n500020928  null / null / Перчик
   other tags : amenity=cafe | opening_hours=Mo-Th 12:00-23:00, Fr-Sa 12:00-00:00, Su 12:00-23:00 | website=http://perchik.by/
-    geometry : [53.8626225,27.5896561]
-n522813952  null / null / София
+    geometry : [53.8626133,27.5898258]
+n522813952  Сафія / null / София / София
   other tags : amenity=cafe
     geometry : [53.9071812,27.6357317]
 n526817366  null / null / Максибис
@@ -1113,7 +1110,7 @@ n1181087507
 n1181443429  null / null / Матч-Болл
   other tags : amenity=cafe
     geometry : [53.9170537,27.4805854]
-n1207342770  null / null / Терраса
+n1207342770  Тэраса / null / Терраса / Терраса
   other tags : amenity=cafe
     geometry : [53.9231938,27.6452469]
 n1244183057  Сталовая БДУ / null / Столовая БГУ
@@ -1379,7 +1376,7 @@ n1695378708  null / null / СТОЛОВАЯ N 57
   other tags : amenity=cafe | operator=РУП МИНСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД | phone=+375172639468
     geometry : [53.9289207,27.6257416]
 n1710499613  null / null / Loft
-  other tags : amenity=cafe
+  other tags : addr:housenumber=22 | addr:street=улица Петруся Бровки | amenity=cafe | internet_access=wlan | smoking=yes | source=http://loft.relax.by | website=http://loftcafe.by
     geometry : [53.9123574,27.6014835]
 n1715460516
   other tags : amenity=fast_food
@@ -1696,7 +1693,7 @@ n2058947088  null / null / На Шпалернай
 n2078000252  Гамбрынус / null / Гамбринус
   other tags : amenity=pub | opening_hours=Su-We 12:00-24:00; Th-Su 12:00-02:00 | smoking=separated
     geometry : [53.9038501,27.5557063]
-n2094628321  null / null / Столовая
+n2094628321  Сталовая / null / Столовая / Столовая
   other tags : amenity=restaurant
     geometry : [53.9057143,27.6383664]
 n2102131225  null / null / Столовая
@@ -1869,7 +1866,7 @@ n2507680457  null / null / Amato
     geometry : [53.8745477,27.5952690]
 n2511161629  null / null / Спарт
   other tags : amenity=restaurant
-    geometry : [53.9360253,27.4826196]
+    geometry : [53.9361307,27.4823778]
 n2513893953  null / null / Мимино
   other tags : amenity=restaurant
     geometry : [53.9324383,27.5605997]
@@ -2643,9 +2640,6 @@ n3280410268  null / null / Ресторан индийской кухни «Taj�
 n3282351241  null / null / Кафе ""орион
   other tags : amenity=cafe
     geometry : [53.8495443,27.4650996]
-n3283609961  null / null / Суши
-  other tags : addr:housenumber=3 | addr:street=Нёманская улица | amenity=cafe | cuisine=sushi | website=http://www.sushi-life.by/
-    geometry : [53.9099923,27.4196515]
 n3284261886  null / null / Гудис
   other tags : amenity=cafe | cuisine=burger | internet_access=yes | opening_hours=8-23 | smoking=no
     geometry : [53.8591144,27.4825137]
@@ -2737,6 +2731,9 @@ n3437793152  null / null / Янцзы
 n3446537641  null / null / Куршавель
   other tags : amenity=cafe
     geometry : [53.9173185,27.5330506]
+n3456932442  null / null / Суши
+  other tags : addr:housenumber=3 | addr:street=Нёманская улица | amenity=cafe | cuisine=sushi | website=http://www.sushi-life.by/
+    geometry : [53.9099766,27.4196814]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]

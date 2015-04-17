@@ -1,5 +1,5 @@
-n247278444  null / null / А-100 АЗС №2
-  other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:electricity=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7
+n247278444  А-100 АЗС №2 / null / А-100 АЗС №2 / А-100 АЗС №2
+  other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:electricity=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-17-2664606 | website=http://azs.a-100.by/
     geometry : [53.9643005,27.6433932]
 n255481016  null / null / Газпромнефть
   other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes | fuel:octane_98=yes | operator=Газпромнефть | shop=kiosk
@@ -79,8 +79,8 @@ n1685199284  null / null / Белоруснефть
 n1779266829  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [53.9702934,27.6002741]
-n1779294746  null / null / Газ
-  other tags : amenity=fuel | fuel:lpg=yes
+n1779294746  Газ / null / Газ / Газ
+  other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | fuel:lpg=yes | phone=+375-17-2664606 | website=http://azs.a-100.by/
     geometry : [53.9641952,27.6430593]
 n1780098826  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes | operator=Белорусьнефть
@@ -101,8 +101,8 @@ n2132764518  null / null / АЗС №: 19
   other tags : amenity=fuel | brand=Беларуснефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белнефтехим
     geometry : [53.9032952,27.4061894]
 n2168732526  null / null / А-100
-  other tags : amenity=fuel | brand=А-100 | fuel:adblue=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100
-    geometry : [53.8396030,27.4635888]
+  other tags : amenity=fuel | brand=А-100 | fuel:adblue=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100 | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes
+    geometry : [53.8393094,27.4637016]
 n2313466283
   other tags : amenity=fuel
     geometry : [53.8322636,27.7362468]
@@ -112,8 +112,8 @@ n2324623014  null / null / АГЗС №2
 n2462938146  Беларуснафта №19 / Belorusneft №19 / Белоруснефть №19 / Белоруснефть №19
   other tags : addr:street=21км дороги М6 Минск-Гродно | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-17-5420748 | website=http://www.belorusneft.by/
     geometry : [53.9140168,27.2544184]
-n2579746811  null / null / А-100 самообслуживания
-  other tags : amenity=fuel | brand=А-100 | operator=А-100
+n2579746811  А-100 самаабслугоўваньне / null / А-100 самообслуживания / А-100 самообслуживания
+  other tags : amenity=fuel | brand=А-100 | operator=А-100 | website=http://azs.a-100.by/
     geometry : [53.9661888,27.6427935]
 n2862595522  null / null / МАЗС №: 59
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белоруснефть
@@ -133,30 +133,6 @@ n2932324233  null / null / АЗС №60 Белоруснефть
 n3057009970  Беларуснафта №20 / Belorusneft №20 / Белоруснефть №20 / Белоруснефть №20
   other tags : addr:street=20км дороги М6 Минск-Гродно | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-17-5422167 | website=http://www.belorusneft.by/
     geometry : [53.9164229,27.2760676]
-n3223839594
-  other tags : amenity=fuel
-    geometry : [53.8365526,27.5135488]
-n3223839598
-  other tags : amenity=fuel
-    geometry : [53.8365954,27.5134759]
-n3223839600
-  other tags : amenity=fuel
-    geometry : [53.8366383,27.5134031]
-n3223839604
-  other tags : amenity=fuel
-    geometry : [53.8366812,27.5133302]
-n3223839605
-  other tags : amenity=fuel
-    geometry : [53.8367240,27.5132574]
-n3223839607
-  other tags : amenity=fuel
-    geometry : [53.8367669,27.5131846]
-n3223839609
-  other tags : amenity=fuel | fuel:lpg=yes
-    geometry : [53.8368098,27.5131117]
-n3223839611
-  other tags : amenity=fuel | fuel:lpg=yes
-    geometry : [53.8368527,27.5130389]
 n3421549646
   other tags : amenity=fuel | operator=А-100
     geometry : [53.8329528,27.6126572]
@@ -172,6 +148,9 @@ w129524074
 w192132125
   other tags : amenity=fuel
     geometry : n2026946520[53.8456716,27.4450634] n2026946514[53.8453891,27.4460460] n2026946526[53.8445529,27.4453587] n2026946517[53.8452981,27.4425920] n2026946534[53.8456857,27.4421104] n2026946507[53.8458671,27.4421600] n2026946528[53.8460153,27.4425850] n2026946510[53.8463342,27.4430786] n2026946512[53.8461151,27.4436390] n2026946520[53.8456716,27.4450634]
+w192146957  null / null / Белоруснефть АЗС № 77
+  other tags : amenity=fuel | brand=Белоруснефть | fuel:adblue=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:viacard=yes | payment:visa=yes
+    geometry : n2027077294[53.8368494,27.5146983] n2027077295[53.8353401,27.5143135] n2027077288[53.8353798,27.5138952] n2027077291[53.8359512,27.5129512] n2027077296[53.8367624,27.5123585] n2027077293[53.8370322,27.5128224] n2027077294[53.8368494,27.5146983]
 w203293736
   other tags : amenity=fuel
     geometry : n2132995256[53.9038263,27.4060392] n2132995268[53.9037785,27.4067077] n2132995260[53.9026158,27.4066603] n2132995246[53.9026190,27.4062967] n2132995255[53.9030867,27.4058568] n2132995256[53.9038263,27.4060392]
@@ -186,7 +165,7 @@ w260185423
     geometry : n2656691825[53.8451209,27.4153997] n2927544018[53.8453588,27.4154419] n2733659847[53.8453900,27.4150904] n2656691819[53.8458713,27.4141557] n2656691822[53.8455108,27.4133683] n2656691821[53.8454363,27.4133823] n2656691820[53.8452231,27.4139681] n2974512593[53.8451242,27.4148575] n2656691825[53.8451209,27.4153997]
 w269373651
   other tags : amenity=fuel
-    geometry : n2746017206[53.8397559,27.4627111] n2871168368[53.8399236,27.4629545] n2746017211[53.8399690,27.4642646] n2746017210[53.8398519,27.4646186] n2746017216[53.8394973,27.4646401] n2746017215[53.8385859,27.4638244] n2746017214[53.8388075,27.4631137] n2871175856[53.8396364,27.4628682] n2871175858[53.8396249,27.4627464] n2746017206[53.8397559,27.4627111]
+    geometry : n2746017206[53.8397605,27.4627246] n2871168368[53.8398984,27.4631128] n2746017211[53.8399288,27.4639405] n2746017210[53.8396998,27.4646327] n2746017216[53.8394973,27.4646401] n2746017215[53.8385334,27.4641040] n2746017214[53.8387003,27.4630869] n2871175856[53.8396350,27.4629323] n2871175858[53.8396249,27.4627464] n2746017206[53.8397605,27.4627246]
 w286078977
   other tags : amenity=fuel
     geometry : n2897182501[53.9665952,27.6431633] n2897182100[53.9656832,27.6431329] n2897182508[53.9656926,27.6423191] n2897182098[53.9666045,27.6423495] n2897182501[53.9665952,27.6431633]

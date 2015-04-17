@@ -7,9 +7,9 @@ n513281742  Белаграпрамбанк / Bielahraprambank / Белагроп
 n1121996507  Беларусбанк / null / null / Беларусбанк
   other tags : addr:housenumber=15 | addr:postcode=223710 | addr:street=Парковая улица | amenity=bank | atm=no | branch=633/9 | opening_hours=Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-13:00,14:00-16:00; Su 10:15-14:00 | operator=Беларусбанк
     geometry : [52.7793559,27.5400446]
-n1121996570  Беларусбанк / null / null / Беларусбанк
-  other tags : addr:housenumber=24 | addr:postcode=223710 | addr:street=улица Ленинского Комсомола | amenity=bank | atm=no | branch=633/8 | opening_hours=Mo-Fr 09:00-13:00,14:00-18:30; Sa 08:15-13:00,14:00-16:00 | operator=Беларусбанк
-    geometry : [52.7901180,27.5464367]
+n1121996570  Беларусбанк / null / Беларусбанк / Беларусбанк
+  other tags : amenity=bank | atm=no | branch=633/8 | contact:email=info@belarusbank.by | contact:phone=+375(174) 222-673 | contact:website=http://belarusbank.by | opening_hours=Mo-Fr 10:00-13:00,14:00-18:00 | operator=ОАО "АСБ Беларусбанк"
+    geometry : [52.7901105,27.5464455]
 n1121996637  Беларусбанк / null / null / Беларусбанк
   other tags : addr:housenumber=54 | addr:street=улица Козлова | amenity=bank | atm=yes | branch=633/7 | opening_hours=Mo-Fr 08:30-19:00; Sa-Su 08:30-16:00 | operator=Беларусбанк
     geometry : [52.7833731,27.5307497]
@@ -25,9 +25,9 @@ n1121996735  Беларусбанк / null / null / Беларусбанк
 n1121996831  Беларусбанк / null / null / Беларусбанк
   other tags : addr:housenumber=15 | addr:postcode=223710 | addr:street=Молодёжная улица | amenity=bank | atm=yes | branch=633/11 | opening_hours=Mo-Fr 08:45-14:00,15:00-18:45; Sa 08:00-14:00,15:00-17:00; Su 08:30-14:30 | operator=Беларусбанк
     geometry : [52.7878712,27.5049646]
-n1121996841  Беларусбанк / null / null / Беларусбанк
-  other tags : addr:housenumber=17А | addr:postcode=223710 | addr:street=проспект Мира | amenity=bank | atm=yes | branch=633/10 | opening_hours=Mo-Fr 08:00-13:00,14:00-19:00; Sa 08:00-13:00,14:00-16:30 | operator=Беларусбанк
-    geometry : [52.7881497,27.5234742]
+n1121996841  Беларусбанк / null / Беларусбанк / Беларусбанк
+  other tags : amenity=bank | atm=yes | branch=633/10 | contact:email=info@belarusbank.by | contact:phone=+375(174) 25-27-68 | contact:website=http://belarusbank.by | opening_hours=Mo-Fr 08:30-13:00,14:00-19:00 | operator=ОАО "АСБ Беларусбанк"
+    geometry : [52.7881408,27.5234556]
 n1121996871  Беларусбанк / null / null / Беларусбанк
   other tags : addr:housenumber=9 | addr:postcode=223710 | addr:street=улица Коржа | amenity=bank | atm=yes | branch=633/15 | opening_hours=Mo-Th 09:00-14:00,15:00-17:15; Fr 09:00-14:00,15:00-16:00 | operator=Беларусбанк
     geometry : [52.7822135,27.5406809]
@@ -73,9 +73,6 @@ w41616068
 w41616097  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=16А | addr:postcode=223710 | addr:street=улица Богомолова | amenity=bank | atm=yes | building=yes
     geometry : n511006145[52.7870673,27.5152249] n511006165[52.7870665,27.5154827] n511122933[52.7869859,27.5154820] n511006169[52.7869857,27.5155280] n511006153[52.7868820,27.5155281] n511006149[52.7868837,27.5152242] n511006145[52.7870673,27.5152249]
-w96833404
-  other tags : addr:housenumber=17А | addr:street=проспект Мира | amenity=bank | atm=no | building=yes
-    geometry : n1121996438[52.7881068,27.5234833] n1121996936[52.7881287,27.5235639] n845786936[52.7882316,27.5234791] n513923905[52.7882079,27.5234010] n1121996438[52.7881068,27.5234833]
 w96833405
   other tags : addr:housenumber=15 | addr:street=Парковая улица | amenity=bank | building=yes
     geometry : n503739310[52.7794323,27.5398988] n1121996713[52.7793204,27.5399941] n1121996655[52.7793798,27.5401901] n503739315[52.7794940,27.5400956] n503739310[52.7794323,27.5398988]

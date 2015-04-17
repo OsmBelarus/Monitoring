@@ -792,7 +792,7 @@ n991911600
     geometry : [53.8646023,27.4683398]
 n991911606
   other tags : traffic_calming=bump
-    geometry : [53.8677394,27.4716908]
+    geometry : [53.8677259,27.4717182]
 n992683232
   other tags : traffic_calming=bump
     geometry : [53.9264905,27.4928074]
@@ -828,7 +828,7 @@ n994863676
     geometry : [53.9528714,27.6826423]
 n999516747
   other tags : crossing=zebra | crossing_ref=zebra | highway=crossing | traffic_calming=bump
-    geometry : [53.8560396,27.6325799]
+    geometry : [53.8560409,27.6325888]
 n1000812704
   other tags : traffic_calming=bump
     geometry : [53.9415065,27.5660996]
@@ -924,7 +924,7 @@ n1000871880
     geometry : [53.9034497,27.5015097]
 n1000871893
   other tags : traffic_calming=bump
-    geometry : [53.8688496,27.4728868]
+    geometry : [53.8688334,27.4729371]
 n1000871968
   other tags : traffic_calming=bump
     geometry : [53.8850877,27.4812352]
@@ -1615,6 +1615,9 @@ n2865896376
 n2865896379
   other tags : traffic_calming=bump
     geometry : [53.8594197,27.6257785]
+n2868796914
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.8922184,27.4372495]
 n2875457831
   other tags : traffic_calming=bump
     geometry : [53.9200219,27.5654781]
@@ -1651,9 +1654,6 @@ n3188746043
 n3188746044
   other tags : traffic_calming=bump
     geometry : [53.8467008,27.4714732]
-n3242815088
-  other tags : traffic_calming=bump
-    geometry : [53.8527410,27.5957865]
 n3242815091
   other tags : traffic_calming=bump
     geometry : [53.8587786,27.5924971]
@@ -1720,3 +1720,15 @@ n3401364053
 n3444901434
   other tags : traffic_calming=bump
     geometry : [53.8949018,27.4629270]
+n3450346482
+  other tags : traffic_calming=bump
+    geometry : [53.8529039,27.5956490]
+n3451626421
+  other tags : traffic_calming=bump
+    geometry : [53.8879293,27.4434881]
+n3451626422
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.8976244,27.4631692]
+n3454019113
+  other tags : traffic_calming=bump
+    geometry : [53.9171816,27.4194198]

@@ -15,7 +15,7 @@ n306066659
     geometry : [55.1603483,30.1693627]
 n314953823  Вуліца генерала Маргелава / vul. Marhielava / Улица генерала Маргелова / Улица генерала Маргелова
   other tags : highway=bus_stop | shelter=yes
-    geometry : [55.1617162,30.2098045]
+    geometry : [55.1617715,30.2097204]
 n324658920  Савецкая / Savieckaja / Улица Советская / Улица Советская
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1987988,30.2069858]
@@ -142,7 +142,7 @@ n349061134  Гасцініца «Лучоса» / null / Гостиница «Л
     geometry : [55.1732258,30.2007943]
 n349062024  ГД «Амега» / null / ТД «Омега»
   other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.1715254,30.2142814]
+    geometry : [55.1715298,30.2142274]
 n349062663  Поўдзень-6 / Poŭdzień-6 / Юг-6
   other tags : highway=bus_stop
     geometry : [55.1681665,30.2119165]
@@ -246,7 +246,7 @@ n481384892  25-я школа / null / 25-я школа
   other tags : highway=bus_stop
     geometry : [55.1764034,30.2151424]
 n482021657  Кальцавая / Kaĺcavaja / Кольцевая / Кольцевая
-  other tags : highway=bus_stop | note=выяснить правильное название
+  other tags : fixme=выяснить правильное название | highway=bus_stop
     geometry : [55.1645632,30.2227163]
 n482021659  Лядовы палац / null / Ледовый дворец / Ледовый дворец
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
@@ -526,8 +526,8 @@ n1193112769  null / null / ООО «Альянспласт»
 n1202757732  сад. тав. Альгоўскае / Aĺhoŭskaje / Сад. Тов. Ольговское
   other tags : highway=bus_stop
     geometry : [55.2306157,30.1962339]
-n1202765471  Канцавы маршруту №12 ""Уланавічы-2"" / null / конечная маршрута № 12 "Улановичи-2"
-  other tags : highway=bus_stop
+n1202765471  Уланавічы-2 / null / Улановичи-2
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2309204,30.1692559]
 n1206310719  Камбінат Віцьба / null / комбинат Витьба
   other tags : highway=bus_stop
@@ -891,10 +891,10 @@ n2519144841
   other tags : highway=bus_stop
     geometry : [55.2141861,30.2693714]
 n2519479788  null / null / Дачная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2272523,30.1627696]
 n2519479792  null / null / Дачная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2273416,30.1630792]
 n2519479796  null / null / парк Советской армии
   other tags : highway=bus_stop

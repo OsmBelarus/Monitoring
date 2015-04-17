@@ -887,7 +887,7 @@ n2620165307  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
     geometry : [53.9476487,27.6784996]
 n2620202417  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=bank
-    geometry : [53.8694729,27.5692642]
+    geometry : [53.8694758,27.5693259]
 n2621041185  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [53.9384147,27.6096955]
@@ -944,7 +944,7 @@ n2710870651  null / null / Беларусбанк
   other tags : addr:housenumber=14 | addr:street=улица Алеся Бачило | amenity=bank
     geometry : [53.8427361,27.7011240]
 n2727574769  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : addr:housenumber=26/1 | addr:street=Народная улица | amenity=bank | atm=yes
+  other tags : addr:housenumber=26 к1 | addr:street=Народная улица | amenity=bank | atm=yes
     geometry : [53.8738773,27.6199827]
 n2791930688  null / null / БНБ-Банк (ЦБУ №3) / БНБ-Банк (ЦБУ №3)
   other tags : amenity=bank | opening_hours=Mo-Fr 09:00-17:30; Sa-Su off | operator=БНБ-Банк
@@ -965,9 +965,6 @@ n2824862591  Франсабанк / Fransabank / Франсабанк / Фран
 n2847745513  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=bank
     geometry : [53.9690761,27.5450263]
-n2852637772  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:housenumber=35 | addr:street=Нёманская улица | amenity=bank
-    geometry : [53.9143501,27.4263918]
 n2876979887  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=10 | addr:street=Полевая улица | amenity=bank
     geometry : [53.8742940,27.5662224]
@@ -1187,6 +1184,15 @@ n3441666282  null / null / Idea Bank
 n3446537640  null / null / Белагропромбанк
   other tags : amenity=bank
     geometry : [53.9172996,27.5331527]
+n3448142332  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
+  other tags : addr:housenumber=35 | addr:street=Нёманская улица | amenity=bank
+    geometry : [53.9143071,27.4263147]
+n3453862145  null / null / Ломбард техники ZAEM.BY
+  other tags : addr:housenumber=21 | addr:postcode=220017 | addr:street=улица Кунцевщина | amenity=bank | opening_hours=с 10-00 - 18-00 | phone=+375298573355
+    geometry : [53.9120095,27.4348735]
+n3455382722  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=bank
+    geometry : [53.8702513,27.6311254]
 w25319049  Нацыянальны / null / Национальный / Национальный
   other tags : addr:housenumber=72А | addr:postcode=220114 | addr:street=улица Калиновского | amenity=bank | building=yes
     geometry : n275837443[53.9387421,27.6527470] n275837447[53.9387628,27.6529193] n3236937113[53.9388290,27.6528963] n275837451[53.9388713,27.6532480] n275837452[53.9386393,27.6533286] n275837454[53.9385945,27.6529573] n275837456[53.9386350,27.6529432] n275837458[53.9386166,27.6527907] n275837443[53.9387421,27.6527470]

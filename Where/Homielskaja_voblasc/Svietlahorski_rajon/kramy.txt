@@ -8,9 +8,6 @@ n823148846
 n823149585  null / null / Колосок
   other tags : shop=convenience
     geometry : [52.6395535,29.7348041]
-n878885497  null / null / Торговый центр
-  other tags : addr:street=улица Луначарского | shop=mall
-    geometry : [52.6268350,29.7232660]
 n946960630
   other tags : shop=convenience
     geometry : [52.6287517,29.7222348]
@@ -119,9 +116,6 @@ n1537066519  Марка / null / Марко / Марко
 n1537088629  null / null / Гермес Сантехстрой
   other tags : shop=convenience
     geometry : [52.6256110,29.7409825]
-n1537088637  null / null / Книжный
-  other tags : shop=books
-    geometry : [52.6295547,29.7437030]
 n1537088643  null / null / Ларец
   other tags : shop=gift
     geometry : [52.6388042,29.7268681]
@@ -136,7 +130,7 @@ n1537088677  Аўтазапчасткі / null / Автозапчасти / Ав
     geometry : [52.6313823,29.7174118]
 n1537088683  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : shop=convenience
-    geometry : [52.6298862,29.7440527]
+    geometry : [52.6298928,29.7440446]
 n1537088692  null / null / автозапчасти
   other tags : shop=convenience
     geometry : [52.6263215,29.7091441]
@@ -224,3 +218,6 @@ n2940862008
 n2940862010  null / null / БУтик
   other tags : addr:street=микрорайон Молодежный | shop=yes
     geometry : [52.6284038,29.7295231]
+n3454251087
+  other tags : shop=books
+    geometry : [52.6292512,29.7432884]

@@ -19,8 +19,8 @@ n306068258  Гомельаблгаз / null / АГНКС Гомель-2 / Гом
 n306068278  null / null / Белоруснефть-гомельоблнефтепродукт / Белоруснефть-гомельоблнефтепродукт
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=5
     geometry : [52.4861737,30.9967691]
-n306068285
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | operator=Белоруснефть
+n306068285  null / null / Белоруснефть №18
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-232-620166 | website=http://www.belorusneft.by
     geometry : [52.4681029,30.9743874]
 n306068286  Дружба / null / Дружба / Дружба
   other names: name:uk=Дружба
@@ -48,8 +48,8 @@ n306068323  null / null / Белоруснефть-гомельоблнефте�
 n637615414
   other tags : amenity=fuel | operator=Белоруснефть
     geometry : [52.4585801,30.9198729]
-n1103242421
-  other tags : amenity=fuel | fuel:lpg=yes
+n1103242421  null / null / Белоруснефть №39
+  other tags : addr:housenumber=20 | addr:street=улица Косарева | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-232-457014 | website=http://www.belorusneft.by
     geometry : [52.4061523,30.9178463]
 n1256743143
   other tags : amenity=fuel | fuel:lpg=yes
@@ -66,6 +66,9 @@ n2666768822
 n2859387963  null / null / АЗС Беларуснефть № 77
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [52.4739476,30.9767238]
+n3456150706  null / null / Белоруснефть №39
+  other tags : addr:housenumber=20 | addr:street=улица Косарева | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-232-457014 | website=http://www.belorusneft.by
+    geometry : [52.4064141,30.9170624]
 w66029603  null / null / Газпромнефть
   other tags : addr:housenumber=10А | addr:street=улица Владимирова | amenity=fuel | building=yes
     geometry : n801990634[52.4307359,30.9470161] n801990704[52.4306662,30.9468489] n801990646[52.4307485,30.9467567] n801990695[52.4308181,30.9469240] n801990634[52.4307359,30.9470161]

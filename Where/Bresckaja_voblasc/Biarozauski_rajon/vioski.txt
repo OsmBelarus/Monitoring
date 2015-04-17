@@ -136,7 +136,7 @@ n242987015  Зарэчча / Zarečča / Заречье / Заречье
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | addr:subdistrict=Сигневичский сельский Совет | place=hamlet
     geometry : [52.4158500,24.9184500]
 n242987018  Падоссе / Padossie / Подосье / Подосье
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Падосьсе
     geometry : [52.4686400,24.9181100]
 n242987021  Мінкі / Minki / Минки / Минки
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
@@ -148,10 +148,10 @@ n242987027  Бармуты / Barmuty / Бармуты / Бармуты
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
     geometry : [52.4627200,24.8116800]
 n242987029  Светач / Svietač / Светоч / Светоч
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Горач | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Горач | place=hamlet | wikipedia=be-x-old:Сьветач (Берасьцейская вобласьць)
     geometry : [52.4860700,24.9208600]
 n242987032  Першамайская / Pieršamajskaja / Первомайская / Первомайская
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Блудзень | alt_name:ru=Першемайская | place=village
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Блудзень | alt_name:ru=Першемайская | place=village | wikipedia=be-x-old:Першамайская (Берасьцейская вобласьць)
     geometry : [52.5276900,24.8922700]
 n242987035  Парослава / Paroslava / Порослово / Порослово
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Парославэ | place=hamlet | wikipedia=be-x-old:Парослава
@@ -181,7 +181,7 @@ n242987060  null / null / Косиловичи / Косиловичи
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
     geometry : [52.5675200,24.7903100]
 n242987063  Леашкі / Lieaški / Леошки / Леошки
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Левашкі
     geometry : [52.5754200,24.9463500]
 n242987067  Плехаўшчына / Pliechaŭščyna / Пляховщина / Пляховщина
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:ru=Плеховщина | place=hamlet | wikipedia=be-x-old:Пляхаўшчына
@@ -202,13 +202,13 @@ n242987082  Сялец / Sialiec / Селец / Селец
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Сэлец | place=village | wikipedia=be-x-old:Сялец (Бярозаўскі раён)
     geometry : [52.5870000,24.8656700]
 n242987106  Хамічы / Chamičy / Хомичи / Хомичи
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Хомічы | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Хомічы | place=hamlet | wikipedia=be-x-old:Хамічы (Берасьцейская вобласьць)
     geometry : [52.5606500,24.9417100]
 n242987328  Бронная Гара / Bronnaja Hara / Бронная Гора / Бронная Гора
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Бронна Гара | place=hamlet
     geometry : [52.6100100,25.0876200]
 n242987331  Мормажава / Mormažava / Морможево / Морможево
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Мормажэва
     geometry : [52.5802200,24.9881500]
 n242987334  Круглае / Kruhlaje / Круглое / Круглое
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Круглэ | place=hamlet
@@ -220,7 +220,7 @@ n242987339  Здзітава / Zdzitava / Здитово / Здитово
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | addr:subdistrict=Здитовский сельский Совет | place=village | wikipedia=ru:Здитово (Здитовский сельсовет)
     geometry : [52.4752904,24.9998427]
 n242987341  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Навасёлкі (Бярозаўскі раён)
     geometry : [52.5113000,24.9633400]
 n242987344  null / null / Самойловичи / Самойловичи
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
@@ -235,7 +235,7 @@ n242987352  Навое / Navoje / Новое / Новое
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Навое
     geometry : [52.4811700,25.0633300]
 n242987355  Зарэчча / Zarečča / Заречье / Заречье
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | addr:subdistrict=Берёзовский сельский Совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | addr:subdistrict=Берёзовский сельский Совет | place=hamlet | wikipedia=be-x-old:Зарэчча (Бярозаўскі сельсавет)
     geometry : [52.5415100,25.0259100]
 n242987358  Вугляны / Vuhliany / Угляны / Угляны
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Угляны | place=hamlet | wikipedia=be-x-old:Вугляны (Бярозаўскі раён)
@@ -244,7 +244,7 @@ n242987360  Стрыгінь / Stryhiń / Стригинь / Стригинь
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=village | wikipedia=be-x-old:Стрыгінь
     geometry : [52.5044014,25.0337300]
 n242987363  Дзягелец / Dziahieliec / Дягелец / Дягелец
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Дзягэлец | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Дзягэлец | place=hamlet | wikipedia=be-x-old:Дзягелец
     geometry : [52.4586900,24.9699500]
 n242987366  Совіна / Sovina / Совино / Совино
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Савіно | place=hamlet | wikipedia=be-x-old:Совіна
@@ -341,7 +341,7 @@ n2798132908  Альшэва / Aĺševa / Ольшево / Ольшево
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Гальшэва | place=hamlet | wikipedia=be-x-old:Альшэва
     geometry : [52.4734098,25.1977097]
 n2798143443  Калонія / Kalonija / Колония / Колония
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=Калёнія (Бярозаўскі раён)
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet | wikipedia=be-x-old:Калёнія (Бярозаўскі раён)
     geometry : [52.4171770,24.9498983]
 n2798149930  Бухалі / Buchali / Бухали / Бухали
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Бухалi | place=hamlet | wikipedia=be-x-old:Бухалі
@@ -386,7 +386,7 @@ w25141477  Жабер / Žabier / Жабер / Жабер
   other tags : addr:country=BY | addr:district=Дрогичинский район | addr:region=Брестская область | place=hamlet
     geometry : n273980602[52.3499400,25.1681300] n273980604[52.3497700,25.1724300] n273980605[52.3526800,25.1732000] n273980606[52.3522600,25.1750000] n273980608[52.3522600,25.1767200] n273980609[52.3611800,25.1778300] n273980612[52.3625600,25.1780900] n273980613[52.3640100,25.1781800] n273980614[52.3641000,25.1740600] n273980616[52.3621300,25.1723400] n273980602[52.3499400,25.1681300]
 w25142171  Рачыца / Račyca / Речица / Речица
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Рэчыца | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Рэчыца | landuse=residential | place=hamlet
     geometry : n273991824[52.5616800,25.1392900] n273991826[52.5633200,25.1420400] n273991828[52.5660873,25.1398113] n273991833[52.5671466,25.1413489] n273991834[52.5671800,25.1438400] n273991837[52.5685500,25.1441900] n273991839[52.5702700,25.1453000] n273991842[52.5724100,25.1429900] n273991843[52.5719800,25.1399000] n273991846[52.5727500,25.1376600] n273991847[52.5708700,25.1338000] n273991849[52.5651200,25.1229000] n273991852[52.5644134,25.1230639] n273991853[52.5614796,25.1250022] n273991855[52.5623700,25.1274500] n273991858[52.5620300,25.1311400] n273991859[52.5630600,25.1333700] n273991862[52.5613400,25.1371500] n273991824[52.5616800,25.1392900]
 w25142174  Круглае / Kruhlaje / Круглое / Круглое
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Круглэ | place=hamlet
@@ -401,13 +401,13 @@ w25142179  Смалярка / Smaliarka / Смолярка / Смолярка
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
     geometry : n273992000[52.5492075,25.0401711] n273992004[52.5443119,25.0380958] n273992008[52.5434318,25.0423442] n273992010[52.5487508,25.0434822] n273992000[52.5492075,25.0401711]
 w25142181  Агароднікі / Aharodniki / Огородники / Огородники
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Гароднікі | place=hamlet
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Гароднікі | landuse=residential | place=hamlet
     geometry : n273992027[52.5395400,25.1223900] n273992029[52.5414300,25.1222100] n273992039[52.5434900,25.1215300] n273992042[52.5473500,25.1170600] n273992044[52.5447800,25.1083100] n273992045[52.5422800,25.0988700] n1271720597[52.5423788,25.0903475] n1271720856[52.5383444,25.0905614] n273992056[52.5379900,25.0928600] n273992057[52.5367900,25.0928600] n273992059[52.5365400,25.0987800] n273992062[52.5373900,25.0990400] n273992063[52.5352500,25.1023900] n273992064[52.5349900,25.1044500] n273992067[52.5369600,25.1073700] n273992069[52.5383555,25.1064584] n273992070[52.5394703,25.1118701] n273992074[52.5376500,25.1142300] n273992027[52.5395400,25.1223900]
 w25142182  Зарэчча / Zarečča / Заречье / Заречье
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet
     geometry : n273992079[52.5456324,25.0132064] n273992081[52.5424789,25.0149890] n3421888470[52.5359634,25.0180608] n3421888468[52.5285697,25.0191164] n3421888467[52.5279275,25.0201117] n3421888469[52.5285881,25.0249372] n3421888471[52.5368622,25.0195085] n3421888472[52.5419251,25.0207149] n273992085[52.5361900,25.0414500] n273992086[52.5398800,25.0430800] n273992088[52.5446900,25.0187000] n273992079[52.5456324,25.0132064]
 w25142183  Сакалова / Sakalova / Соколово / Соколово
-  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Сакаловэ | place=village
+  other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | alt_name:be=Сакаловэ | landuse=residential | place=village
     geometry : n273992093[52.5447286,25.0606759] n273992095[52.5444218,25.0623171] n3310542549[52.5433844,25.0637408] n3310542550[52.5437246,25.0666599] n3310542548[52.5420025,25.0667822] n3310542547[52.5416490,25.0650780] n273992098[52.5406929,25.0657457] n273992099[52.5412589,25.0732910] n273992101[52.5340415,25.0726388] n3310542542[52.5338163,25.0739487] n273992104[52.5319678,25.0737798] n273992105[52.5315711,25.0760382] n273992113[52.5355614,25.0767493] n273992114[52.5355348,25.0884000] n273992117[52.5374341,25.0903135] n273992050[52.5426009,25.0899368] n273992118[52.5451598,25.0799482] n2353036017[52.5488269,25.0796753] n273992121[52.5492083,25.0784276] n273992122[52.5472944,25.0681203] n273992126[52.5485500,25.0662883] n273992129[52.5494900,25.0631600] n273992136[52.5459580,25.0604550] n273992093[52.5447286,25.0606759]
 w25142190  Навое / Navoje / Новое / Новое
   other tags : addr:country=BY | addr:district=Берёзовский район | addr:region=Брестская область | place=hamlet

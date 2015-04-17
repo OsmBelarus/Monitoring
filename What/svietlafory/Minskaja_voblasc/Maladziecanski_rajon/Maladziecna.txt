@@ -286,8 +286,8 @@ n3166373537  null / null / улица Буйницкого
 n3170151241  null / null / улица Буховщина
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [54.3082617,26.8350501]
-n3219826407  null / null / Восточный
-  other tags : highway=bus_stop
+n3219826407  null / null / Микрорайон "Восточный"
+  other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [54.2967388,26.8919605]
 n3219826435  null / null / ГАИ
   other tags : highway=bus_stop
@@ -295,8 +295,8 @@ n3219826435  null / null / ГАИ
 n3219843473
   other tags : highway=bus_stop
     geometry : [54.2970487,26.8790966]
-n3219843474
-  other tags : highway=bus_stop
+n3219843474  null / null / Кольцевая дорога
+  other tags : bench=no | highway=bus_stop | shelter=no
     geometry : [54.2949653,26.8902519]
 n3219843478
   other tags : highway=bus_stop

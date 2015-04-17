@@ -34,7 +34,7 @@ n480210958
 n535480307  Лаванда / null / Лаванда
   other tags : amenity=cafe
     geometry : [53.9655370,27.6645354]
-n595701734  null / null / SunCafe
+n595701734  SunCafe / null / SunCafe / SunCafe
   other tags : amenity=cafe
     geometry : [53.9646171,27.6436850]
 n702980332  Аазіс / null / Оазис
@@ -55,7 +55,7 @@ n825192853  Бар "Каменная горка" / null / Бар "Каменна
 n827868277  null / null / Шкипер
   other tags : amenity=cafe
     geometry : [53.7992071,27.8046534]
-n833390249  Кавярня Sky House / null / кафе Sky House
+n833390249  Кавярня Sky House / null / Кафе Sky House / Кафе Sky House
   other tags : amenity=cafe
     geometry : [53.9613939,27.6505120]
 n836873273
@@ -173,6 +173,12 @@ n3243169115  Кафэ Куб / null / Кафе Куб / Кафе Куб
   other names: name:en=Cube Cafe
   other tags : addr:city=Минск | addr:housenumber=1Б | addr:postcode=223053 | addr:street=Радужная Улица | amenity=cafe | contact:phone=+375 29 175-08-09;+375 29 629-12-41 | cuisine=belarusian;italian;homemade | internet_access=wlan | opening_hours=12:00-02:00 | smoking=isolated
     geometry : [53.9651417,27.6688340]
+n3449103768
+  other tags : amenity=fast_food
+    geometry : [53.8395479,27.4637073]
+n3450290413
+  other tags : amenity=fast_food
+    geometry : [53.8364487,27.5132474]
 w77893770  null / null / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n915598435[53.7800079,27.6570028] n915598400[53.7800885,27.6574227] n915598353[53.7797264,27.6576219] n915598326[53.7796458,27.6572020] n915598435[53.7800079,27.6570028]

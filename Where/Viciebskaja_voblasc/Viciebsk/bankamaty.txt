@@ -52,9 +52,9 @@ n349217160  ATM Белаграпрамбанк / null / null
 n415939253  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1929512,30.2051276]
-n456909148  ATM Беларусбанк / null / null
+n456909148  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
-    geometry : [55.1609122,30.2175974]
+    geometry : [55.1609207,30.2175567]
 n574396224  ATM Беларусбанк / null / null / АТМ Беларусбанк
   other tags : amenity=atm | opening_hours=24/7 | operator=Беларусбанк
     geometry : [55.1851337,30.2212445]
@@ -132,11 +132,11 @@ n861440993  ATM Беларусбанк / null / null / АТМ Беларусба
     geometry : [55.1835827,30.2068478]
 n867406991  null / null / ATM / ATM
   other tags : amenity=atm
-    geometry : [55.1862537,30.2303828]
+    geometry : [55.1862621,30.2303352]
 n867407020  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | operator=Белгазпромбанк
     geometry : [55.1782559,30.2334187]
-n905861022  ATM Беларусбанк / null / null
+n905861022  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1816002,30.2052807]
 n1054241163
@@ -148,9 +148,9 @@ n1082896880  ATM Белрасбанк / null / null
 n1093528821  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 13 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1945295,30.2333425]
-n1094960606  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n1094960606  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 36 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
-    geometry : [55.1998495,30.2402843]
+    geometry : [55.1998547,30.2402418]
 n1100240011  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1712947,30.2228898]
@@ -160,16 +160,16 @@ n1100240026  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
 n1106746197  ATM / null / null
   other tags : amenity=atm
     geometry : [55.1825065,30.2311070]
-n1109252706  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
+n1109252706  ATM Альфа-Банк / Aĺfa-Bank / ATM Альфа-Банк / ATM Альфа-Банк
   other tags : amenity=atm | operator=Альфа-Банк | website=http://www.alfabank.by/
-    geometry : [55.1862991,30.2276862]
+    geometry : [55.1863050,30.2276448]
 n1115011594  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 38 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1729238,30.1515942]
 n1160881264  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm | operator=Приорбанк | website=http://www.priorbank.by/
     geometry : [55.1599101,30.2065026]
-n1161855849  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n1161855849  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 46 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1818532,30.2061015]
 n1170882797  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
@@ -364,7 +364,7 @@ n2499057664  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n2500768957  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm | operator=Приорбанк
     geometry : [55.1599640,30.1679273]
-n2541365337  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n2541365337  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 49 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1688254,30.2124243]
 n2541365356  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
@@ -390,7 +390,7 @@ n2848015447  Белінвестбанк / Bielinviestbank / Белинвестб
     geometry : [55.1952490,30.2288056]
 n2940952701  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | operator=БПС-Сбербанк
-    geometry : [55.1609524,30.2117820]
+    geometry : [55.1609543,30.2117455]
 n2949731817  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | contact:website=https://www.bps-sberbank.by/ | opening_hours=24/7 | operator=БПС-Сбербанк
     geometry : [55.1825061,30.2011783]
@@ -409,18 +409,18 @@ n2965911251  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
 n2969422397  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : amenity=atm | contact:website=http://www.vtb-bank.by/ | opening_hours=24/7 | operator=ЗАО «Банк ВТБ»
     geometry : [55.1699873,30.2236520]
-n2969538207  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n2969538207  ATM Белінвестбанк / Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
-    geometry : [55.1581389,30.2144960]
+    geometry : [55.1581460,30.2144618]
 n3103594326  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | official_name=ATM11953 | opening_hours=24/7 | operator=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
     geometry : [55.2057410,30.2154641]
 n3121614349  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 17 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1585750,30.2123968]
-n3121614350  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n3121614350  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 1 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
-    geometry : [55.1615652,30.2199691]
+    geometry : [55.1615694,30.2198679]
 n3121614351  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 33 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1769670,30.1784630]

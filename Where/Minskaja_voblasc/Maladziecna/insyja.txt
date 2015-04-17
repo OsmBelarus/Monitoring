@@ -191,7 +191,7 @@ n1680933019  null / null / Хлебозавод
 n1680933020  null / null / улица Мира / улица Мира
   other tags : bus=yes | public_transport=stop_position
     geometry : [54.2950471,26.8549730]
-n1685688739  null / null / Домоуправление
+n1685688739  null / null / ЖРЭУ-4
   other tags : office=property_maintenance
     geometry : [54.3014392,26.8482919]
 n1745586502
@@ -443,8 +443,8 @@ n2456839382  null / null / Памятный знак воинам-интерна
 n2457061605
   other tags : amenity=waste_disposal | waste=trash
     geometry : [54.3042209,26.8283030]
-n2457089508
-  other tags : amenity=bureau_de_change
+n2457089508  null / null / Банк БелВЭБ №670/1
+  other tags : addr:city=Молодечно | addr:housenumber=8 | addr:postcode=222310 | addr:street=Громадовская улица | amenity=bureau_de_change | operator=Банк БелВЭБ | phone=+375 176 746212 | wheelchair=yes
     geometry : [54.3102378,26.8358004]
 n2507102608  null / null / Ветрази
   other tags : office=advertising_agency
@@ -866,9 +866,6 @@ w156706484
 w158844052
   other tags : building=industrial
     geometry : n1709793902[54.3184522,26.9101545] n1709793906[54.3185304,26.9101920] n1709793903[54.3185461,26.9100954] n1709793905[54.3184679,26.9100579] n1709793902[54.3184522,26.9101545]
-w161182063
-  other tags : addr:housenumber=144 | addr:street=улица Великий Гостинец | shop=convenience
-    geometry : n1731788002[54.2958395,26.8879179] n1731787998[54.2959612,26.8879750] n1731788000[54.2958535,26.8886497] n1731788005[54.2957317,26.8885927] n1731788002[54.2958395,26.8879179]
 w161186618  null / null / Алми
   other tags : addr:housenumber=136 | addr:street=улица Великий Гостинец | building=retail | opening_hours=24/7 | shop=supermarket
     geometry : n1731832801[54.2967793,26.8827569] n1731832855[54.2969008,26.8821113] n1731832842[54.2973791,26.8823757] n1731832819[54.2972576,26.8830212] n1731832801[54.2967793,26.8827569]
@@ -2363,6 +2360,15 @@ w331473302
 w331967399
   other tags : power=sub_station
     geometry : n3390706002[54.2966385,26.8935553] n3390706006[54.2965759,26.8935285] n3390706004[54.2965571,26.8936411] n3390706000[54.2966201,26.8936667] n3390706002[54.2966385,26.8935553]
+w338441826
+  other tags : leisure=playground
+    geometry : n3455211378[54.2959115,26.8932482] n3455211379[54.2960789,26.8933247] n3455211380[54.2961717,26.8927283] n3455211381[54.2960082,26.8926539] n3455211378[54.2959115,26.8932482]
+w338441878
+  other tags : power=transformer
+    geometry : n3455218066[54.2955271,26.8925869] n3455218067[54.2954988,26.8927747] n3455218068[54.2954050,26.8927373] n3455218069[54.2954356,26.8925515] n3455218066[54.2955271,26.8925869]
+w338442048
+  other tags : leisure=playground
+    geometry : n3455219527[54.2967673,26.8929911] n3455219528[54.2967184,26.8932850] n3455219529[54.2964592,26.8931833] n3455219530[54.2965056,26.8928807] n3455219527[54.2967673,26.8929911]
 r2086031  null / null / 6-й микрорайон
   other tags : public_transport=stop_area | type=public_transport
     geometry : <platform> n1674173980[54.2961264,26.8800666] : n1674173980  null / null / 6-й микрорайон
