@@ -4,9 +4,9 @@ n343162047  Свярдлова / null / null / Свердлова
 n343162048  null / null / Гандлёвы Цэнтр
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6287215,29.7256821]
-n343162049
-  other tags : highway=bus_stop
-    geometry : [52.6306258,29.7203167]
+n343162049  Азалава / null / null / Азалова
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.6305831,29.7202827]
 n343162050  Гандлёвы Цэнтр / null / null / Торговый Центр
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6257991,29.7232374]
@@ -212,3 +212,6 @@ n2952874465
 n3459435424  Свярдлова / null / null / Свердлова
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6271122,29.7325712]
+n3459794828  Азалава / null / null / Азалова
+  other tags : bench=no | highway=bus_stop
+    geometry : [52.6306977,29.7212135]
