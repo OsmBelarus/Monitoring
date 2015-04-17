@@ -124,9 +124,9 @@ n445650488  null / null / Строитель
 n615559891
   other tags : highway=bus_stop
     geometry : [52.6357428,29.7152615]
-n615559894
-  other tags : highway=bus_stop
-    geometry : [52.6259500,29.7130180]
+n615559894  Прывакзальная / null / null / Привокзальная
+  other tags : bench=yes | highway=bus_stop
+    geometry : [52.6258083,29.7128951]
 n1180665825  null / null / Остановка "Серебряные Ключи"
   other tags : highway=bus_stop
     geometry : [52.6794753,29.6525511]
@@ -227,3 +227,9 @@ n3459826563  Вакзал / null / null / Вокзал
 n3459826564  Вакзал / null / null / Вокзал
   other tags : bench=yes | highway=bus_stop
     geometry : [52.6307186,29.7175887]
+n3459835805  Прывакзальная / null / null / Привокзальная
+  other tags : bench=yes | highway=bus_stop
+    geometry : [52.6269411,29.7136732]
+n3459835806  null / null / Школа № 9
+  other tags : highway=bus_stop
+    geometry : [52.6255690,29.7167865]
