@@ -1,18 +1,18 @@
-n343162047
-  other tags : highway=bus_stop
-    geometry : [52.6288354,29.7289931]
+n343162047  Свярдлова / null / null / Свердлова
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6289827,29.7281591]
 n343162048  null / null / Гандлёвы Цэнтр
   other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
     geometry : [52.6287215,29.7256821]
 n343162049
   other tags : highway=bus_stop
     geometry : [52.6306258,29.7203167]
-n343162050
-  other tags : highway=bus_stop
-    geometry : [52.6258582,29.7233304]
-n343162051
-  other tags : highway=bus_stop
-    geometry : [52.6230445,29.7204738]
+n343162050  Гандлёвы Цэнтр / null / null / Торговый Центр
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6257991,29.7232374]
+n343162051  Індустрыяльны каледж / null / null / Индустриальный колледж
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6230246,29.7204908]
 n343162052
   other tags : highway=bus_stop
     geometry : [52.6228408,29.7200697]
@@ -209,3 +209,6 @@ n2952874456
 n2952874465
   other tags : highway=bus_stop
     geometry : [52.9058065,29.3087665]
+n3459435424  Свярдлова / null / null / Свердлова
+  other tags : bench=yes | highway=bus_stop | operator=Аўтобусны парк № 5 | shelter=yes
+    geometry : [52.6271122,29.7325712]
