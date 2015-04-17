@@ -694,7 +694,7 @@ n1334767922
     geometry : [52.4180350,31.0007343]
 n1334767924
   other tags : shop=hifi
-    geometry : [52.4169892,31.0011574]
+    geometry : [52.4168345,31.0014106]
 n1334767925
   other tags : shop=convenience
     geometry : [52.4178914,31.0011098]
@@ -729,7 +729,7 @@ n1334767990
   other tags : shop=kiosk
     geometry : [52.4129496,30.9531031]
 n1334780663
-  other tags : shop=convenience
+  other tags : opening_hours=Mo-Su 08:00-22:00 | shop=convenience
     geometry : [52.4049072,30.9418115]
 n1338424720
   other tags : shop=kiosk
@@ -1343,7 +1343,7 @@ n3188081083  null / null / Гермес
     geometry : [52.3566267,31.0293812]
 n3267791971
   other tags : shop=jewelry
-    geometry : [52.4168474,31.0010145]
+    geometry : [52.4167640,31.0013265]
 n3284531823
   other tags : shop=hairdresser
     geometry : [52.4695389,31.0362847]
@@ -1368,3 +1368,6 @@ n3457460511  null / null / ХимХауз - Дом Профессиональн�
 n3457472629
   other tags : shop=florist
     geometry : [52.4549132,31.0231419]
+n3459787200
+  other tags : opening_hours=Mo-Su 08:00-13:00,14:00-22:00 | shop=convenience
+    geometry : [52.4032240,30.9110515]
