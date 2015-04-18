@@ -395,10 +395,10 @@ n674059963  вуліца Некрасава / Niakrasava / улица Некра
   other tags : highway=bus_stop
     geometry : [55.1923434,30.1810637]
 n674059964  Лявонава / Liavonava / Леонова / Леонова
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1976688,30.1793084]
 n674059965  Лявонава / Liavonava / Леонова / Леонова
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1974675,30.1790237]
 n674059966  Чыгуначны вакзал / null / Ж/д вокзал / Ж/д вокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
@@ -718,10 +718,10 @@ n2143487068  null / null / Посёлок Лужесно
     geometry : [55.2419467,30.1150837]
 n2145755313  Аўтавакзал / null / Автовокзал / Автовокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.1962589,30.1883412]
+    geometry : [55.1963091,30.1883647]
 n2145755314  Аўтавакзал / null / Автовокзал / Автовокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.1973751,30.1893393]
+    geometry : [55.1973810,30.1892999]
 n2189274142  9-я Сацыялістычная вул. / 9-ja Sacyjalistyčnaja vul. / 9-я Социалистическая улица / 9-я Социалистическая улица
   other tags : highway=bus_stop
     geometry : [55.1638649,30.1185915]
