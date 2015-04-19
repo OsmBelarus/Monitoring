@@ -305,7 +305,7 @@ n673997865  вул. Смаленская / vul. Smalienskaja / Улица Смо
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1941735,30.2345439]
 n673997870  Вулiца 6-я Стадыённая / 6-ja Stadyjonnaja vul. / Улица 6-я Стадионная / Улица 6-я Стадионная
-  other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [55.2001238,30.2484857]
 n673997873  null / null / Улица Коноплёва
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
@@ -689,8 +689,8 @@ n2078584525  null / null / Улица Берестеня
   other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1965030,30.2425080]
 n2078613569  Вулiца 6-я Стадыённая / 6-ja Stadyjonnaja vul. / Улица 6-я Стадионная / Улица 6-я Стадионная
-  other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.1999997,30.2495369]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
+    geometry : [55.2000077,30.2495389]
 n2078743124  null / null / База «Хозторг»
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.2010693,30.2584997]
