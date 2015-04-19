@@ -6177,9 +6177,6 @@ n2507700126  null / null / ТехноБай
 n2508527532  null / null / Дом фарфора
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa,Su 11:00-18:00 | phone=+375 (17) 290 62 00; +375 (44) 540 62 00 | shop=салон_посуды_и предметов интерьера | website=http://www.domfarfora.by/
     geometry : [53.9096726,27.5733490]
-n2508536898  null / null / 585 Ювелирная сеть
-  other tags : addr:housenumber=4 | addr:street=улица Веры Хоружей | shop=jewelry
-    geometry : [53.9171568,27.5803721]
 n2508875849  null / null / 585 Ювелирная сеть
   other tags : addr:housenumber=4 | addr:street=улица Веры Хоружей | shop=jewelry
     geometry : [53.9171568,27.5803721]
@@ -8237,19 +8234,19 @@ n3100352848  null / null / Ситилайн
     geometry : [53.9032718,27.5635131]
 n3100383386  null / null / SMS
   other names: name:en=SMS
-  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Кульман | opening_hours=10 - 20 | phone=+375 17 289 59 92 | shop=clothes | website=http://fh.by/shops/magazin-sms/
+  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | phone=+375 17 289 59 92 | shop=clothes | website=http://fh.by/shops/magazin-sms/
     geometry : [53.9190492,27.5800545]
 n3100385733  null / null / Mango
   other names: name:en=Mango
-  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Веры Хоружей | opening_hours=10 - 20 | phone=+375 17 289 58 68 | shop=clothes | website=http://fh.by/shops/mango/
+  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Веры Хоружей | opening_hours=Mo-Su 10:00-20:00 | phone=+375 17 289 58 68 | shop=clothes | website=http://fh.by/shops/mango/
     geometry : [53.9190782,27.5801192]
 n3100385734  null / null / Accessorize
   other names: name:en=Accessorize
-  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Кульман | opening_hours=10 - 20 | phone=+ 375 17 289 58 65 | shop=clothes | website=http://fh.by/shops/accessorize/
+  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | phone=+ 375 17 289 58 65 | shop=clothes | website=http://fh.by/shops/accessorize/
     geometry : [53.9190419,27.5800021]
 n3100387569  null / null / Mexx
   other names: name:en=Mexx
-  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Веры Хоружей | opening_hours=10 - 20 | phone=+375 17 289 58 56 | shop=clothes | website=http://fh.by/shops/mexx/
+  other tags : addr:city=Минск | addr:housenumber=6Б | addr:street=улица Веры Хоружей | opening_hours=Mo-Su 10:00-20:00 | phone=+375 17 289 58 56 | shop=clothes | website=http://fh.by/shops/mexx/
     geometry : [53.9190329,27.5800237]
 n3100841215  null / null / Gerry Ross
   other tags : addr:housenumber=56 | addr:street=улица Притыцкого | shop=boutique
@@ -8289,7 +8286,7 @@ n3110901918  null / null / Салон Boutique Longines
     geometry : [53.9234927,27.5792712]
 n3110917484
   other tags : shop=florist
-    geometry : [53.9214294,27.5793218]
+    geometry : [53.9214191,27.5793375]
 n3110921493  null / null / Портатив
   other tags : phone=+375 17 286 02 02 | shop=computer | website=http://www.portative.by/
     geometry : [53.9213115,27.5795675]
@@ -8303,16 +8300,16 @@ n3110932573  null / null / Кравт
   other tags : contact:phone=+375(29) 312-63-79, +375(17) 331 39 85 | opening_hours=Mo-Su 10:00-20:00 | shop=cosmetics | website=http://www.cravt.by/
     geometry : [53.9198393,27.5829927]
 n3110935676  null / null / Porfira
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=10 - 20 | shop=clothes
+  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | shop=clothes
     geometry : [53.9197681,27.5824396]
 n3110936438  null / null / Lakbi / Лакби
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=10 - 20 | phone=+375 17 387 00 30 | shop=clothes | website=http://m.lakbi.com/
+  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | phone=+375 17 387 00 30 | shop=clothes | website=http://m.lakbi.com/
     geometry : [53.9199079,27.5828595]
 n3110939344  null / null / Ecco
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=10 - 20 | shop=shoes
+  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | shop=shoes
     geometry : [53.9197653,27.5829169]
 n3110941168  null / null / Devur
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=10 - 20 | shop=clothes | website=www.devur.com
+  other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Кульман | opening_hours=Mo-Su 10:00-20:00 | shop=clothes | website=www.devur.com
     geometry : [53.9197493,27.5826894]
 n3110951769  null / null / ВипТурс
   other names: name:en=VipTours
@@ -9256,7 +9253,7 @@ n3212057558  null / null / Тропинка
   other tags : addr:city=Минск | opening_hours=до 23.00 | shop=supermarket
     geometry : [53.9196620,27.5733533]
 n3212074657  null / null / Стрелка
-  other tags : opening_hours=до 19.00 | shop=pet
+  other tags : shop=pet
     geometry : [53.9211279,27.5799630]
 n3212077163  null / null / матрешка
   other tags : shop=детский
