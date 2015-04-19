@@ -998,14 +998,14 @@ n2628199699  null / null / Аптека + / Аптека
 n2628617452  null / null / Фарммаркет-Плюс ООО Аптека N12 / Фарммаркет-Плюс ООО Аптека N12
   other tags : addr:housename=Нордин | addr:housenumber=47Б | addr:postcode=220000 | addr:street=улица Сурганова | amenity=pharmacy
     geometry : [53.9273036,27.5878921]
-n2628620702  null / null / Фарммаркет-Плюс ООО Аптека N31 / Фарммаркет-Плюс ООО Аптека N31
-  other tags : addr:housename=Комаровский рынок, | addr:housenumber=8 | addr:street=улица Веры Хоружей | amenity=pharmacy
+n2628620702  null / null / Аптека N31 / Аптека N31
+  other tags : addr:housename=Комаровский рынок, | addr:housenumber=8 | addr:street=улица Веры Хоружей | amenity=pharmacy | operator=Фарммаркет-Плюс ООО
     geometry : [53.9197032,27.5769165]
-n2628621990  null / null / Доктор До Аптека N8 ООО Табина / Доктор До Аптека N8 ООО Табина
-  other tags : addr:housename=Комаровский рынок | addr:street=ул. В.Хоружей, 6, | amenity=pharmacy
+n2628621990  null / null / Доктор До Аптека N8 / Доктор До Аптека N8
+  other tags : addr:housename=Комаровский рынок | addr:street=ул. В.Хоружей, 6, | amenity=pharmacy | operator=ООО Табина
     geometry : [53.9193241,27.5775174]
-n2628627995  null / null / Аленфарм-Плюс ОДО Аптека №15 / Аленфарм-Плюс ОДО Аптека №15
-  other tags : addr:housename=Кмаровский рынок пав. 44 | addr:housenumber=8 | addr:street=улица Веры Хоружей | amenity=pharmacy | opening_hours=Tu-Su 09:00-19:00 | phone=+37529 1076923
+n2628627995  null / null / Аптека №15 / Аптека №15
+  other tags : addr:housename=Кмаровский рынок пав. 44 | addr:housenumber=8 | addr:street=улица Веры Хоружей | amenity=pharmacy | opening_hours=Tu-Su 09:00-19:00 | operator=Аленфарм-Плюс ОДО | phone=+37529 1076923
     geometry : [53.9199623,27.5771633]
 n2628639101  null / null / Медвакс СЗАО Аптека N12 / Медвакс СЗАО Аптека N12
   other tags : addr:housenumber=19 | addr:street=улица Веры Хоружей | amenity=pharmacy

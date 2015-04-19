@@ -1342,9 +1342,6 @@ n1630817994  null / null / Столовая
 n1640226688  null / null / столовая
   other tags : amenity=fast_food
     geometry : [53.8492860,27.6602568]
-n1641674947  null / null / Pronto
-  other tags : amenity=fast_food | cuisine=pizza
-    geometry : [53.9215563,27.5767804]
 n1641693732  null / null / кафе-бар (не работает)
   other tags : amenity=cafe
     geometry : [53.9421266,27.6075136]
@@ -2232,8 +2229,8 @@ n2831825756  null / null / Столовая РУП Объединенное Ди
 n2831885553  null / null / Столовая Кол ОАО МПОВТ / Столовая Кол ОАО МПОВТ
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [53.9217150,27.5802815]
-n2831897803  null / null / Столовая УП Минский Комаровский Рынок / Столовая УП Минский Комаровский Рынок
-  other tags : amenity=fast_food | fast_food=cafeteria
+n2831897803  null / null / Столовая / Столовая
+  other tags : amenity=fast_food | fast_food=cafeteria | operator=УП Минский Комаровский Рынок
     geometry : [53.9197599,27.5772913]
 n2831904633  Сталовая ПУП Канаш / null / Столовая ЧУП Канаш / Столовая ЧУП Канаш
   other tags : amenity=fast_food | fast_food=cafeteria
