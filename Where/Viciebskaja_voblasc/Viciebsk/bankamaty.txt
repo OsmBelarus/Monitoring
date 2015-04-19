@@ -22,8 +22,8 @@ n306066627  Беларусбанк / Bielarusbank / Беларусбанк / Б�
 n306066753  ATM Трастбанк / null / null
   other tags : amenity=atm | operator=Трастбанк
     geometry : [55.1970287,30.2044449]
-n306297071
-  other tags : amenity=atm | operator=Белагропромбанк
+n306297071  ATM Белаграпрамбанк / null / ATM Белагропромбанк / ATM Белагропромбанк
+  other tags : amenity=atm | contact:email=info@belapb.by | contact:website=http://www.belapb.by/ | opening_hours=24/7 | operator=ОАО «Белагропромбанк»
     geometry : [55.1961878,30.1879292]
 n312622216  ATM Беларусбанк / null / null / АТМ Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
@@ -149,7 +149,7 @@ n1082896880  ATM Белрасбанк / null / null
   other tags : amenity=atm | operator=Белросбанк
     geometry : [55.1986555,30.2068049]
 n1093528821  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
-  other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 13 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | currency:EUR=yes | currency:USD=yes | currency:others=no | language:be=yes | language:others=no | language:ru=yes | official_name=Банкомат № 13 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1945295,30.2333425]
 n1094960606  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 36 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
