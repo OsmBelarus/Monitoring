@@ -3344,6 +3344,9 @@ n1932224344
 n1933649694
   other tags : railway=level_crossing
     geometry : [55.1717612,30.1486892]
+n1936449653
+  other tags : amenity=payment_terminal | contact:email=info@paynet.by | contact:phone=8-801-100-6000 | contact:website=http://paynet.by/ | currency:BYR=yes | currency:others=no | indoor=yes | language:ru=yes | network=PayNet | opening_hours=Mo-Su 10:00-19:00; Tu off | operator=ИООО «ПейНэт» | payment:cash=yes | ref=CDX0164
+    geometry : [55.1823350,30.2310739]
 n1937692285
   other tags : addr:housenumber=13 | addr:street=3-я Прорезная улица
     geometry : [55.2158483,30.1978911]
@@ -3575,6 +3578,9 @@ n1992455698  null / null / скульптура «Встречающие»
 n1993424876
   other tags : barrier=sally_port | bicycle=yes | foot=yes
     geometry : [55.1653149,30.1478131]
+n1998510170
+  other tags : amenity=payment_terminal | contact:email=info@paynet.by | contact:phone=8-801-100-6000 | contact:website=http://paynet.by/ | currency:BYR=yes | currency:others=no | indoor=yes | language:ru=yes | network=PayNet | opening_hours=Mo-Su 08:00-22:00 | operator=ИООО «ПейНэт» | payment:cash=yes | ref=CDX0156
+    geometry : [55.1656751,30.2216508]
 n1998612413
   other tags : addr:housenumber=13 | addr:street=7-я Полоцкая улица
     geometry : [55.1973553,30.1700292]
@@ -5352,6 +5358,9 @@ n2493603261
 n2493603358
   other tags : entrance=main
     geometry : [55.1998396,30.2452818]
+n2493603360
+  other tags : entrance=main
+    geometry : [55.2001315,30.2444412]
 n2493665108
   other tags : amenity=waste_disposal
     geometry : [55.1950138,30.2374107]
@@ -11522,10 +11531,10 @@ n3436574870
     geometry : [55.1654698,30.2191238]
 n3436574886
   other tags : entrance=main
-    geometry : [55.1657170,30.2217061]
+    geometry : [55.1657241,30.2217069]
 n3436574889
   other tags : entrance=service
-    geometry : [55.1657526,30.2208223]
+    geometry : [55.1657513,30.2208208]
 n3436819488
   other tags : entrance=main
     geometry : [55.1689458,30.2329368]
@@ -11697,6 +11706,12 @@ n3462335982  Міграцыйная служба / null / Миграционна
 n3463621592
   other tags : amenity=clock | display=digital | support=wall_mounted | visibility=street
     geometry : [55.1964401,30.1876647]
+n3463973337
+  other tags : amenity=payment_terminal | contact:email=info@paynet.by | contact:phone=8-801-100-6000 | contact:website=http://paynet.by/ | currency:BYR=yes | currency:others=no | indoor=yes | language:ru=yes | network=PayNet | opening_hours=Mo-Su 08:00-23:00 | operator=ИООО «ПейНэт» | payment:cash=yes | ref=CDX1107
+    geometry : [55.2001820,30.2417366]
+n3463973338
+  other tags : amenity=payment_terminal | contact:email=info@paynet.by | contact:phone=8-801-100-6000 | contact:website=http://paynet.by/ | currency:BYR=yes | currency:others=no | indoor=yes | language:ru=yes | network=PayNet | opening_hours=Mo-Su 08:00-21:00 | operator=ИООО «ПейНэт» | payment:cash=yes | ref=CDX1163
+    geometry : [55.2002935,30.2494369]
 w8384407
   other tags : abandoned=yes | aeroway=runway
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
@@ -22739,6 +22754,9 @@ w339034309  Вицебскаблсаюздрук / null / Витебскоблс
 w339034316  null / null / Иконная лавка
   other tags : building=kiosk | building:levels=1 | shop=religion
     geometry : n3462230812[55.1985939,30.1819912] n3462230813[55.1985939,30.1820586] n3462230809[55.1985624,30.1820586] n3462230808[55.1985624,30.1819912] n3462230812[55.1985939,30.1819912]
+w339212840
+  other tags : building=roof | building:levels=1
+    geometry : n3463973335[55.2001642,30.2417390] n3463973332[55.2001289,30.2417413] n3463973333[55.2001297,30.2417742] n3463973334[55.2001308,30.2418263] n3463973336[55.2001660,30.2418240] n2419390131[55.2001649,30.2417720] n3463973335[55.2001642,30.2417390]
 r68616  Кастрычніцкі раён / Kastryčnicki Rajon / Октябрьский район / Октябрьский район
   other tags : admin_level=9 | boundary=administrative | type=boundary | wikipedia=ru:Октябрьский_район_Витебска
     geometry : <outer> w30272994: n333629330[55.2233022,30.1296652] n333629333[55.2221879,30.1304412] n333629334[55.2207542,30.1314940] n333629336[55.2182219,30.1352507] n333629337[55.2165060,30.1381037] n333630238[55.2149078,30.1411245] n333630241[55.2137073,30.1433837] n333630243[55.2125657,30.1455525] n333630246[55.2119765,30.1470370] n333630248[55.2111016,30.1506855] n333630250[55.2101676,30.1551873] n333630253[55.2092336,30.1593821] n333630255[55.2086790,30.1626050] n1117825873[55.2083913,30.1654872] n333630256[55.2082119,30.1688051] n333630258[55.2080485,30.1744119] n1277036179[55.2079354,30.1769149] n1277036182[55.2079366,30.1782883] n333630259[55.2080550,30.1816507] n333630265[55.2080849,30.1873082] n333630266[55.2075917,30.1910798] n333630596[55.2066651,30.1936991] n333630599[55.2059925,30.1951658] n333630604[55.2040196,30.1971302] n333630610[55.2023754,30.1984398] n333630614[55.1998792,30.1999066] n333632895[55.1947846,30.1989637] n333632903[55.1932473,30.1987148] n1258018418[55.1931222,30.2007278] n333632944[55.1926464,30.2063139] n333632963[55.1912092,30.2059891] n905861013[55.1909410,30.2059244] n333632976[55.1893441,30.2056307] n333632995[55.1884974,30.2054184] n333633010[55.1874272,30.2051419] n333633031[55.1851815,30.2042215] n333633035[55.1835629,30.2034422] n333633040[55.1828233,30.2031248] : w30272994
