@@ -277,6 +277,9 @@ n3358879676  null / null / Станция скорой помощи №2
 n3450887602
   other tags : entrance=yes
     geometry : [53.6734200,23.8292803]
+w29124729  null / null / Пункт приёма вторичного сырья
+  other tags : amenity=recycling | building=yes | building:levels=1 | recycling:cans=yes | recycling:paper=yes
+    geometry : n320412999[53.6700936,23.7980838] n320413000[53.6700780,23.7981876] n320413003[53.6698779,23.7981022] n320413004[53.6699055,23.7979174] n320413001[53.6700080,23.7979611] n320413002[53.6699959,23.7980420] n320412999[53.6700936,23.7980838]
 w29124760
   other tags : addr:housenumber=86Б | addr:street=улица Врублевского | building=yes | building:levels=2
     geometry : n320413507[53.7072932,23.8041572] n320413509[53.7071331,23.8042209] n320413508[53.7071736,23.8045115] n320413506[53.7073336,23.8044478] n320413507[53.7072932,23.8041572]
@@ -1545,7 +1548,7 @@ w29158410
   other tags : building=yes | source=yahoo
     geometry : n320718835[53.6629156,23.7706340] n320718837[53.6628287,23.7707976] n320718840[53.6627223,23.7706366] n320718839[53.6628092,23.7704730] n320718835[53.6629156,23.7706340]
 w29158413  null / null / Космос
-  other tags : area=yes | building=yes | building:levels=1 | shop=yes | wheelchair=yes
+  other tags : building=yes | building:levels=1 | shop=yes | wheelchair=yes
     geometry : n320504820[53.6668201,23.8001297] n3245269354[53.6667186,23.8000885] n320718848[53.6666446,23.8000584] n320718847[53.6666715,23.7998705] n320718844[53.6668469,23.7999418] n320504820[53.6668201,23.8001297]
 w29158414
   other tags : addr:housename=ЖЭС-15 | building=yes | building:levels=1
