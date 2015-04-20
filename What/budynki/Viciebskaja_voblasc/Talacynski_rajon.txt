@@ -3128,13 +3128,13 @@ w193112925
   other tags : addr:housenumber=п 6 | addr:street=Восточная улица | building=yes | building:levels=1
     geometry : n2036307898[54.4218069,29.6696874] n2036307899[54.4218660,29.6698113] n2036307897[54.4218051,29.6698971] n2036307893[54.4217460,29.6697732] n2036307898[54.4218069,29.6696874]
 w193260404
-  other tags : addr:housenumber=11 | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n2037792549[54.3918871,29.5214546] n2037792533[54.3918230,29.5214812] n2037792536[54.3918460,29.5216452] n2037792551[54.3919101,29.5216186] n2037792549[54.3918871,29.5214546]
 w193260405
-  other tags : addr:housenumber=12 | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n2037792731[54.3920085,29.5241228] n2037792712[54.3919130,29.5241472] n2037792715[54.3919261,29.5242987] n2037792735[54.3920216,29.5242743] n2037792731[54.3920085,29.5241228]
 w193260409
-  other tags : addr:housenumber=8 | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n2037792620[54.3921699,29.5231245] n2037792598[54.3920765,29.5231719] n2037792590[54.3920952,29.5233219] n2037792611[54.3921865,29.5232765] n2037792620[54.3921699,29.5231245]
 w193260410
   other tags : addr:housenumber=13 | addr:street=Луговая улица | building=yes | building:levels=1
@@ -3263,10 +3263,10 @@ w193260496
   other tags : building=yes | building:levels=1
     geometry : n2037792036[54.3883476,29.5217225] n2037792038[54.3883635,29.5218887] n2037791976[54.3881958,29.5219359] n2037791971[54.3881799,29.5217697] n2037792036[54.3883476,29.5217225]
 w193302083
-  other tags : addr:housenumber=10 | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n2038111217[54.3919085,29.5220898] n2038111213[54.3919882,29.5220564] n2038111211[54.3919649,29.5218789] n2038111215[54.3918803,29.5219187] n2038111217[54.3919085,29.5220898]
 w193302085
-  other tags : addr:housenumber=9 | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Криничная улица | building=yes | building:levels=1
     geometry : n2038111644[54.3963509,29.5238729] n2038111642[54.3963206,29.5237193] n2038111640[54.3962395,29.5237666] n2038111643[54.3962698,29.5239201] n2038111644[54.3963509,29.5238729]
 w193302087
   other tags : building=yes | building:levels=1
