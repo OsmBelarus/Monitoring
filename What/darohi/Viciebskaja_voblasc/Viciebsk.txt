@@ -5071,7 +5071,7 @@ w28255825  3-я Заводская вуліца / 3-ja Zavodskaja vulica / 3-я 
   other tags : highway=residential | surface=gravel
     geometry : n310310598[55.2075835,30.2124325] n310310701[55.2075108,30.2130787] n2133332573[55.2081295,30.2140234] n2133332593[55.2084883,30.2146333]
 w28255826  вуліца Кірава / vulica Kirava / улица Кирова / улица Кирова
-  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes
+  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|right
     geometry : n336085108[55.1935210,30.1968872] n725561867[55.1936177,30.1957412] n306293882[55.1936767,30.1954153]
 w28255828
   other tags : highway=unclassified | oneway=no | surface=asphalt
@@ -7866,7 +7866,7 @@ w67557896  вуліца Праўды / vulica Praŭdy / улица Правды 
     geometry : n815732348[55.1891721,30.2057989] n310311105[55.1891458,30.2056341]
 w67558872  Замкавая вуліца / Zamkavaja vulica / Замковая улица / Замковая улица
   other names: name:uk=Замкова вулиця
-  other tags : highway=primary | lanes=3 | oneway=yes | trolley_wire=yes
+  other tags : highway=primary | lanes=3 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through|right
     geometry : n347270196[55.1930190,30.2025126] n1193528366[55.1930304,30.2023536] n310306362[55.1930470,30.2021690]
 w68201970  1-я Біцялёўская вуліца / 1-ja Bicialioŭskaja vulica / 1-я Бителёвская улица / 1-я Бителёвская улица
   other tags : highway=residential | surface=unpaved
@@ -19597,7 +19597,7 @@ w289901658  вуліца Кірава / vulica Kirava / улица Кирова 
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes
     geometry : n2932272550[55.1945967,30.1895956] n310304737[55.1947101,30.1887873]
 w289901659  вуліца Кірава / vulica Kirava / улица Кирова / улица Кирова
-  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes
+  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through;right|right
     geometry : n310304737[55.1947101,30.1887873] n344983364[55.1947915,30.1883705] n310304584[55.1948487,30.1882002]
 w289901660  вуліца Кірава / vulica Kirava / улица Кирова / улица Кирова
   other names: name:de=uliza Kirowa (Kirow-Straße) | name:fr=oulitsa Kirova  (rue de Kirov)
