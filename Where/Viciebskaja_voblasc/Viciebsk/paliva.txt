@@ -4,9 +4,6 @@ n306066595  Лукойл №41 / null / Лукoйл №41 / Лукойл №41
 n306066602  null / null / Белоруснефть №14
   other tags : addr:housenumber=160 | addr:street=улица Титова | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:10-19:00, 19:30-00:00, 00:20-07:00 | operator=Белоруснефть | phone=+375-212-354014 | website=http://www.belorusneft.by/
     geometry : [55.1930046,30.1410668]
-n306066651  null / null / Лукойл №33
-  other tags : addr:housenumber=81 | addr:street=Зеленогурская улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-268222 | website=http://lukoil.by/
-    geometry : [55.1607711,30.1720495]
 n332027730  null / null / Газпромнефть №80
   other tags : addr:housenumber=92 | addr:street=Московский проспект | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Газпромнефть | phone=+375-212-487989 | website=http://gpnbonus.by/
     geometry : [55.1759920,30.2508109]
@@ -109,6 +106,9 @@ n2077911515  null / null / Белоруснефть № 68
 w76097211  null / null / Витебскоблгаз №3
   other tags : addr:housenumber=42 | addr:street=улица Петруся Бровки | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375-212-213999 | fuel:lpg=yes | opening_hours=08:00-12:00, 12:15-16:00, 16:15-19:45, 20:00-07:45 | operator=Витебскоблгаз | ref=3
     geometry : n897761509[55.1606901,30.2382223] n2365237396[55.1606863,30.2382371] n2365237395[55.1606587,30.2383438] n897761587[55.1606578,30.2383475] n306066089[55.1605979,30.2383001] n897761553[55.1606302,30.2381750] n897761509[55.1606901,30.2382223]
+w76168103  null / null / Лукойл №33
+  other tags : addr:housenumber=81 | addr:street=Зеленогурская улица | amenity=fuel | building=yes | building:levels=2 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-268222 | website=http://lukoil.by/
+    geometry : n898726451[55.1607516,30.1718241] n306066651[55.1608145,30.1720513] n1793352711[55.1607831,30.1720462] n2558086247[55.1607318,30.1720379] n1793352708[55.1606826,30.1720299] n898726438[55.1606408,30.1720219] n898726432[55.1606779,30.1718875] n898726451[55.1607516,30.1718241]
 w90844100  Беларуснафта №3 / null / Белоруснефть №3 / Белоруснефть №3
   other tags : addr:housenumber=180А | addr:street=Ленинградская улица | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=08:10-20:00, 20:30-00:00, 00:20-08:00 | operator=Белоруснефть | phone=+375-212-355540 | website=http://beloil.by/
     geometry : n306066554[55.2257666,30.1157658] n2408615173[55.2257602,30.1156401] n1791750905[55.2257586,30.1156091] n1054723536[55.2257492,30.1154254] n1054723557[55.2258251,30.1154135] n1054723497[55.2258425,30.1157539] n306066554[55.2257666,30.1157658]

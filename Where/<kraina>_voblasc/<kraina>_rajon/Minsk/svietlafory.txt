@@ -350,7 +350,7 @@ n320719065  Медсанчастка / null / Медсанчасть / Медс�
   other tags : highway=bus_stop
     geometry : [53.9244219,27.6391530]
 n320719071  Філімонава / null / Филимонова / Филимонова
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9282847,27.6406919]
 n320719072  Філімонава / null / Филимонова / Филимонова
   other tags : highway=bus_stop
@@ -411,7 +411,7 @@ n320719131  Універсам / null / Курган / Универсам
     geometry : [53.8611846,27.4608655]
 n320719133  Любімава / null / Универсам Брест / Любимова
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [53.8605165,27.4640425]
+    geometry : [53.8604907,27.4640076]
 n320719134  Гасцініца «Звязда» / null / Гостиница Звезда / Гостиница «Звезда»
   other tags : highway=bus_stop | public_transport=stop_area | type=public_transport
     geometry : [53.8626816,27.4657149]
@@ -1302,7 +1302,7 @@ n342081570  null / null / ДС Ангарская-4
   other tags : highway=bus_stop
     geometry : [53.8872508,27.6907267]
 n342081763  null / null / ДС Ангарская-4
-  other tags : highway=bus_stop
+  other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.8869412,27.6893556]
 n342085422  Белмедпрэпараты / null / Белмедпрепараты
   other tags : highway=bus_stop
@@ -2189,7 +2189,7 @@ n615026310  Універсам / null / Универсам Брест / Унив
     geometry : [53.8595859,27.4659801]
 n615026311  Паўднёвы Захад 2 / null / Юго-Запад-2 / Юго-Запад-2
   other tags : highway=bus_stop
-    geometry : [53.8588037,27.4701769]
+    geometry : [53.8589066,27.4697844]
 n615026327  Універсам Валгаград / null / Универсам Волгоград
   other tags : highway=bus_stop
     geometry : [53.8614079,27.4779510]
@@ -2227,10 +2227,10 @@ n641326458  Першамайская / Pieršamajskaja vul. / Первомайс
   other tags : highway=bus_stop
     geometry : [53.9024340,27.5827299]
 n646794437  Дом міласэрнасці / null / Дом милосердия / Дом милосердия
-  other tags : highway=bus_stop | public_transport=platform | ref=50509
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | ref=50509 | shelter=yes
     geometry : [53.9267566,27.6559167]
 n646794444  Дом міласэрнасці / null / Дом милосердия / Дом милосердия
-  other tags : highway=bus_stop | public_transport=platform | ref=60513
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | ref=60513 | shelter=yes
     geometry : [53.9271851,27.6541361]
 n656464480  null / null / Кольцевая дорога
   other tags : highway=bus_stop
@@ -2682,7 +2682,7 @@ n767085041  Сакалянскі завулак / null / Соколянский 
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8735700,27.5798800]
 n767085042  null / null / ДС Ангарская-4
-  other tags : generated=yes | highway=bus_stop
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8882046,27.6891303]
 n767085043  null / null / Замчище
   other tags : generated=yes | highway=bus_stop
@@ -3823,7 +3823,7 @@ n767183459  null / null / Кузьмы Чорного
   other tags : highway=bus_stop
     geometry : [53.9250457,27.5976123]
 n767183460  Белаўтагаз / null / Белавтогаз / Белавтогаз
-  other tags : generated=yes | highway=bus_stop | ref=50201
+  other tags : bench=yes | generated=yes | highway=bus_stop | ref=50201 | shelter=yes
     geometry : [53.9256038,27.6625347]
 n767183461  null / null / Бетонный проезд
   other tags : generated=yes | highway=bus_stop
@@ -4040,7 +4040,7 @@ n767183551  null / null / Западный поселок
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8640259,27.6260806]
 n767183552  Белаўтагаз / null / Белавтогаз / Белавтогаз
-  other tags : generated=yes | highway=bus_stop | ref=60201
+  other tags : bench=yes | generated=yes | highway=bus_stop | ref=60201 | shelter=yes
     geometry : [53.9261500,27.6611200]
 n767183553  null / null / Владислава Голубка
   other tags : generated=yes | highway=bus_stop
@@ -4139,7 +4139,7 @@ n767183608  null / null / Станция метро Автозаводская
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8681819,27.6470961]
 n767183610  Язмінавая / null / Жасминовая / Жасминовая
-  other tags : highway=bus_stop | public_transport=platform | ref=63202
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | ref=63202 | shelter=yes
     geometry : [53.9279947,27.6470410]
 n767183611  ДС Паўднёвы Захад / null / ДС Юго-Запад
   other tags : generated=yes | highway=bus_stop
@@ -4364,8 +4364,8 @@ n767183707  Станцыя метро Ўсход / null / Станция мет�
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9345668,27.6511495]
 n767183709  Каледж сувязі / null / Колледж связи / Колледж связи
-  other tags : generated=yes | highway=bus_stop | ref=61203
-    geometry : [53.9251100,27.6658700]
+  other tags : bench=no | generated=yes | highway=bus_stop | ref=61203 | shelter=no
+    geometry : [53.9249059,27.6668704]
 n767183711  null / null / Лукьяновича
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9424364,27.6089033]
@@ -4817,7 +4817,7 @@ n767184043  null / null / Ротмистрова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8393780,27.6926021]
 n767184046  Каледж сувязі / null / Колледж связи / Колледж связи
-  other tags : generated=yes | highway=bus_stop | ref=51202
+  other tags : bench=yes | generated=yes | highway=bus_stop | ref=51202 | shelter=yes
     geometry : [53.9245921,27.6671256]
 n767184049  null / null / Белпласт
   other tags : generated=yes | highway=bus_stop

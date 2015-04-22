@@ -1113,19 +1113,19 @@ n305685781  Прыёрбанк / Pryjorbank / Приорбанк / Приорб�
   other tags : amenity=atm
     geometry : [53.9483915,27.6228779]
 n305685835  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
+  other tags : amenity=atm | cash_in=no
     geometry : [53.8848640,27.6843957]
 n305685837  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
+  other tags : amenity=atm | cash_in=no
     geometry : [53.8837300,27.6816900]
 n305685925  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm
-    geometry : [53.8836685,27.6817998]
+  other tags : amenity=atm | cash_in=no
+    geometry : [53.8833779,27.6813720]
 n305685928  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm
     geometry : [53.8836508,27.6851153]
 n305685929  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
+  other tags : amenity=atm | cash_in=no
     geometry : [53.8830900,27.6843900]
 n305686062  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
@@ -2054,3 +2054,6 @@ n3439590173  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3450185357  null / null / Приорбанк
   other tags : amenity=atm | operator=Приорбанк
     geometry : [53.9184286,27.5315847]
+n3469589121  БПС-Сбребанк / BPS-Sberbank / БПС-Сбербанк / БПС-Сбребанк
+  other tags : addr:city=Минск | addr:housenumber=27 | addr:street=Илимская улица | amenity=atm | cash_in=no | operator=БПС-Сбербанк
+    geometry : [53.8914920,27.6835116]

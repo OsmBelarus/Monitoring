@@ -2208,9 +2208,9 @@ n496989928  СТА / null / СТО / СТО
 n496989947  null / null / ТД Некрасовский
   other tags : shop=supermarket
     geometry : [53.9357518,27.5831297]
-n512019076  null / null / Базар
-  other tags : shop=convenience
-    geometry : [53.8916182,27.6837956]
+n512019076  null / null / Рублёвский
+  other tags : addr:city=Минск | addr:housenumber=27 | addr:street=Илимская улица | opening_hours=9:00-22:00 | shop=convenience
+    geometry : [53.8913694,27.6837000]
 n513572092  null / null / Соседи / Востокторг
   other tags : opening_hours=Mo-Su 08:00-23:00 | shop=convenience
     geometry : [53.9366055,27.5971049]
@@ -3353,7 +3353,7 @@ n1128459680  null / null / Путейный
     geometry : [53.8897854,27.5864143]
 n1132771335  Керамін / null / Керамин
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-15:00 | shop=bathroom_furnishing
-    geometry : [53.8507826,27.4582054]
+    geometry : [53.8507794,27.4583395]
 n1132783705  null / null / Еврообои
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | shop=yes
     geometry : [53.9284505,27.6306962]
@@ -4076,10 +4076,10 @@ n1395886664  null / null / Мясной смак
   other tags : shop=butcher
     geometry : [53.8783374,27.5006720]
 n1398753492  null / null / Златка
-  other tags : shop=convenience
-    geometry : [53.8869074,27.6907691]
+  other tags : opening_hours=8:00-23:00 | shop=convenience
+    geometry : [53.8870131,27.6908503]
 n1398753502  null / null / Белмаркет
-  other tags : shop=convenience
+  other tags : opening_hours=9:00-23:00 | shop=convenience
     geometry : [53.8875018,27.6916489]
 n1398765431  null / null / Заводской
   other tags : shop=convenience
@@ -5622,7 +5622,7 @@ n2027533806  null / null / Second Hand
   other tags : shop=clothes
     geometry : [53.8791488,27.4840808]
 n2030672428  null / Euroopt / Евроопт
-  other tags : shop=supermarket
+  other tags : opening_hours=9:00-22:00 | shop=supermarket
     geometry : [53.8834451,27.6815164]
 n2058558044
   other tags : shop=motorcycle
@@ -11020,3 +11020,6 @@ n3461466181  null / null / Трюм
 n3466953954  null / null / Павильон №380
   other tags : opening_hours=9:00-20:00 | operator=Белсоюзпечать | shop=newsagent
     geometry : [53.9266058,27.4314302]
+n3468114971  null / null / Буслик
+  other tags : shop=baby_goods
+    geometry : [53.8722251,27.5732353]

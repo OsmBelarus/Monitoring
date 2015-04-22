@@ -518,10 +518,10 @@ w55741871
   other tags : highway=service | surface=unpaved
     geometry : n700322129[55.3343815,30.3674554] n1907883961[55.3342982,30.3664132] n700322114[55.3341620,30.3654087] n1907883956[55.3339250,30.3644326] n3450010190[55.3336620,30.3636154] n2887263795[55.3336463,30.3635668] n700322131[55.3335890,30.3635922]
 w55741873
-  other tags : addr:street=Шоколадная | highway=service
+  other tags : addr:street=Шоколадная | highway=service | surface=unpaved
     geometry : n700322131[55.3335890,30.3635922] n700322117[55.3317504,30.3652497]
 w55741877
-  other tags : highway=service
+  other tags : addr:street=Dbiytdfz | highway=service
     geometry : n700322114[55.3341620,30.3654087] n700322125[55.3322868,30.3671107] n700322121[55.3316825,30.3676637]
 w55750654
   other tags : highway=service | surface=unpaved
@@ -2970,7 +2970,7 @@ w180347860
   other tags : highway=service
     geometry : n1907883952[55.3334557,30.3759936] n1907883946[55.3328759,30.3765690]
 w180347861
-  other tags : highway=service | surface=unpaved
+  other tags : addr:street=Речная | highway=service | surface=unpaved
     geometry : n1907883926[55.3293269,30.3646827] n1907883941[55.3324077,30.3613033] n3319533616[55.3324554,30.3613539] n3319533617[55.3327101,30.3619049]
 w180347862
   other tags : highway=service
@@ -2994,7 +2994,7 @@ w180347875
   other tags : highway=service | surface=unpaved
     geometry : n1907883939[55.3320553,30.3683926] n2887263598[55.3323633,30.3681657] n2887263749[55.3333957,30.3672014] n1907883961[55.3342982,30.3664132]
 w180347876
-  other tags : highway=service | surface=unpaved
+  other tags : addr:street=Шоколадная | highway=service | surface=unpaved
     geometry : n700322117[55.3317504,30.3652497] n1907883933[55.3313635,30.3655870]
 w180347879
   other tags : highway=service
