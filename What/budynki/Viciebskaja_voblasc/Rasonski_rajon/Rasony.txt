@@ -11,7 +11,7 @@ w156958328
   other tags : addr:housenumber=6 | addr:street=улица Заслонова | building=yes | building:levels=1
     geometry : n1691963446[55.8972643,28.8167311] n1691963450[55.8972676,28.8171355] n1691963438[55.8970818,28.8171402] n1691963428[55.8970786,28.8167358] n1691963446[55.8972643,28.8167311]
 w156958329
-  other tags : addr:housenumber=8 | addr:street=Заслонова | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=улица Заслонова | building=yes | building:levels=1
     geometry : n1691963458[55.8972682,28.8173518] n1691963460[55.8972715,28.8177562] n1691963441[55.8970857,28.8177609] n1691963440[55.8970825,28.8173565] n1691963458[55.8972682,28.8173518]
 w156995997
   other tags : addr:housenumber=1 | addr:street=улица Машерова | building=yes | building:levels=1 | description=20-ти квартирный ж/д
@@ -284,7 +284,7 @@ w157110715
   other tags : addr:street=Колхозная улица | building=yes | building:levels=1
     geometry : n1693455287[55.8965841,28.8155678] n1693455289[55.8965873,28.8159723] n1693455266[55.8964016,28.8159770] n1693455264[55.8963984,28.8155725] n1693455287[55.8965841,28.8155678]
 w157110716
-  other tags : addr:street=Е. Полоцкой ул. | building=yes | building:levels=1
+  other tags : addr:street=улица Ефросиньи Полоцкой | building=yes | building:levels=1
     geometry : n1693455179[55.8952753,28.8183233] n1693455183[55.8952771,28.8185586] n1693455173[55.8951431,28.8185620] n1693455172[55.8951413,28.8183267] n1693455179[55.8952753,28.8183233]
 w157110717
   other tags : addr:housenumber=17 | addr:street=улица Мира | building=yes | building:levels=1
@@ -296,7 +296,7 @@ w157110719
   other tags : addr:street=Жасминная улица | building=yes | building:levels=1
     geometry : n1693454971[55.8907175,28.8167471] n1693454973[55.8908727,28.8167388] n1693454966[55.8908760,28.8169383] n1693454964[55.8907209,28.8169466] n1693454971[55.8907175,28.8167471]
 w157110720
-  other tags : addr:housenumber=14 | addr:street=Заслонова | building=yes | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=переулок Заслонова | building=yes | building:levels=1
     geometry : n1693455223[55.8959647,28.8210907] n1693455225[55.8959679,28.8214952] n1693455203[55.8957823,28.8214999] n1693455201[55.8957791,28.8210954] n1693455223[55.8959647,28.8210907]
 w157110721
   other tags : addr:street=переулок Заслонова | building=yes | building:levels=1
@@ -317,7 +317,7 @@ w157110728
   other tags : addr:street=Колхозная улица | building=yes | building:levels=1
     geometry : n1693455316[55.8969159,28.8156467] n1693455318[55.8969191,28.8160512] n1693455299[55.8967334,28.8160559] n1693455298[55.8967302,28.8156514] n1693455316[55.8969159,28.8156467]
 w157110729
-  other tags : addr:street=Е. Полоцкой ул. | building=yes | building:levels=1
+  other tags : building=yes | building:levels=1
     geometry : n1693455165[55.8950255,28.8199015] n1693455166[55.8950270,28.8200928] n1693455157[55.8949064,28.8200958] n1693455156[55.8949049,28.8199045] n1693455165[55.8950255,28.8199015]
 w157110730
   other tags : addr:street=улица Мира | building=yes | building:levels=1
@@ -332,7 +332,7 @@ w157110733
   other tags : addr:street=переулок Заслонова | building=yes | building:levels=1
     geometry : n1693455280[55.8965620,28.8172641] n1693455284[55.8965652,28.8176686] n1693455261[55.8963795,28.8176733] n1693455257[55.8963763,28.8172688] n1693455280[55.8965620,28.8172641]
 w157110734
-  other tags : addr:street=Е. Полоцкой ул. | building=yes | building:levels=1
+  other tags : addr:street=улица Ефросиньи Полоцкой | building=yes | building:levels=1
     geometry : n1693455190[55.8952432,28.8170270] n1693455192[55.8952451,28.8172662] n1693455177[55.8951083,28.8172697] n1693455175[55.8951065,28.8170304] n1693455190[55.8952432,28.8170270]
 w157110735
   other tags : addr:street=улица Мира | building=yes | building:levels=1
@@ -350,7 +350,7 @@ w157110741
   other tags : addr:housenumber=18 | addr:street=переулок Заслонова | building=yes | building:levels=1
     geometry : n1693455344[55.8972919,28.8212288] n1693455345[55.8972951,28.8216333] n1693455329[55.8971094,28.8216380] n1693455328[55.8971062,28.8212335] n1693455344[55.8972919,28.8212288]
 w157110742
-  other tags : addr:housenumber=8 | addr:street=Е.Полоцкой | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=улица Ефросиньи Полоцкой | building=yes | building:levels=1
     geometry : n1693455198[55.8952688,28.8178544] n1693455199[55.8952707,28.8180921] n1693455189[55.8951271,28.8180958] n1693455187[55.8951252,28.8178580] n1693455198[55.8952688,28.8178544]
 w157110743
   other tags : addr:street=улица Мира | building=yes | building:levels=1
@@ -365,7 +365,7 @@ w157110746
   other tags : addr:street=переулок Заслонова | building=yes | building:levels=1
     geometry : n1693455236[55.8960975,28.8176389] n1693455237[55.8961007,28.8180434] n1693455221[55.8959150,28.8180481] n1693455219[55.8959118,28.8176436] n1693455236[55.8960975,28.8176389]
 w157110747
-  other tags : addr:housenumber=10 | addr:street=Е.Полоцкой | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=улица Ефросиньи Полоцкой | building=yes | building:levels=1
     geometry : n1693455168[55.8952126,28.8192360] n1693455170[55.8952146,28.8194895] n1693455163[55.8950760,28.8194930] n1693455161[55.8950740,28.8192395] n1693455168[55.8952126,28.8192360]
 w157110748
   other tags : addr:housenumber=19 | addr:street=улица Мира | building=yes | building:levels=1
@@ -413,7 +413,7 @@ w157110764
   other tags : addr:street=переулок Заслонова | building=yes | building:levels=1
     geometry : n1693455239[55.8962412,28.8167710] n1693455249[55.8962444,28.8171755] n1693455235[55.8960588,28.8171802] n1693455234[55.8960556,28.8167757] n1693455239[55.8962412,28.8167710]
 w157110765
-  other tags : addr:housenumber=6 | addr:street=Е.Полоцкой | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=улица Ефросиньи Полоцкой | building=yes | building:levels=1
     geometry : n1693455194[55.8952693,28.8174729] n1693455196[55.8952709,28.8176846] n1693455185[55.8951389,28.8176880] n1693455180[55.8951372,28.8174763] n1693455194[55.8952693,28.8174729]
 w157110766
   other tags : addr:street=улица Мира | building=yes | building:levels=1
@@ -1271,7 +1271,7 @@ w157161470
   other tags : addr:street=Советская улица | building=yes | building:levels=1
     geometry : n1693811273[55.9121320,28.8072452] n1693811154[55.9120196,28.8073198] n1693811198[55.9120671,28.8075475] n1693811313[55.9121795,28.8074729] n1693811273[55.9121320,28.8072452]
 w157161471
-  other tags : addr:housenumber=8 | addr:street=Невельская | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Невельская улица | building=yes | building:levels=1
     geometry : n1693812010[55.9132742,28.8087342] n1693811967[55.9131618,28.8088088] n1693811997[55.9132093,28.8090365] n1693812045[55.9133217,28.8089619] n1693812010[55.9132742,28.8087342]
 w157161472
   other tags : addr:street=Жукова ул. | building=yes | building:levels=1
@@ -1685,10 +1685,10 @@ w157161659
   other tags : addr:housenumber=17 | addr:street=Лесная улица | building=yes | building:levels=1
     geometry : n1693809594[55.9072030,28.8175742] n1693809589[55.9071135,28.8179784] n1693809583[55.9069159,28.8178392] n1693809586[55.9070054,28.8174351] n1693809594[55.9072030,28.8175742]
 w157211972
-  other tags : addr:housenumber=1 | addr:street=1-й переулок Пушкина | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=переулок Пушкина | building=yes | building:levels=1
     geometry : n1694296043[55.9065021,28.8057775] n1694296045[55.9065053,28.8061820] n1694296021[55.9063196,28.8061867] n1694296018[55.9063164,28.8057822] n1694296043[55.9065021,28.8057775]
 w157211973
-  other tags : addr:housenumber=2 | addr:street=1-й переулок Пушкина | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=переулок Пушкина | building=yes | building:levels=1
     geometry : n1694296093[55.9067484,28.8047314] n1694296095[55.9067516,28.8051359] n1694296065[55.9065659,28.8051406] n1694296063[55.9065627,28.8047361] n1694296093[55.9067484,28.8047314]
 w157211974
   other tags : addr:housenumber=3 | addr:street=переулок Пушкина | building=yes | building:levels=1
@@ -1697,10 +1697,10 @@ w157211975
   other tags : addr:housenumber=4 | addr:street=переулок Пушкина | building=yes | building:levels=1
     geometry : n1694296027[55.9063809,28.8047802] n1694296036[55.9063841,28.8051847] n1694295994[55.9061984,28.8051894] n1694295991[55.9061952,28.8047849] n1694296027[55.9063809,28.8047802]
 w157211976
-  other tags : addr:housenumber=5 | addr:street=1-й переулок Пушкина | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=переулок Пушкина | building=yes | building:levels=1
     geometry : n1694295919[55.9059040,28.8063075] n1694295920[55.9059072,28.8067120] n1694295885[55.9057215,28.8067167] n1694295881[55.9057183,28.8063122] n1694295919[55.9059040,28.8063075]
 w157211978
-  other tags : addr:housenumber=7 | addr:street=1-й переулок Пушкина | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=переулок Пушкина | building=yes | building:levels=1
     geometry : n1694295863[55.9056382,28.8065864] n1694295866[55.9056414,28.8069909] n1694295824[55.9054557,28.8069956] n1694295823[55.9054525,28.8065911] n1694295863[55.9056382,28.8065864]
 w157211979
   other tags : addr:housenumber=8 | addr:street=переулок Пушкина | building=yes | building:levels=1
@@ -1880,7 +1880,7 @@ w157228893  null / null / Сеть частных магазинов
   other tags : building=yes | building:levels=1 | opening_hours=8:00-21:00 | shop=convenience
     geometry : n1694475328[55.9062816,28.8114685] n1694475334[55.9063222,28.8117373] n1694475345[55.9065654,28.8116198] n1694475342[55.9065247,28.8113511] n1694475328[55.9062816,28.8114685]
 w157228897  null / null / Славянский
-  other tags : building=yes | building:levels=1 | opening_hours=09:00-22:00 | shop=supermarket
+  other tags : building=yes | building:levels=1 | opening_hours=09:00-22:00 | shop=convenience
     geometry : n1694475331[55.9063336,28.8122618] n1694475308[55.9060765,28.8123848] n1694475310[55.9061247,28.8127056] n1694475338[55.9063817,28.8125825] n1694475331[55.9063336,28.8122618]
 w157228899
   other tags : addr:street=улица Ленина | building=yes | building:levels=1
@@ -1949,7 +1949,7 @@ w157259760  null / null / Магазин
   other tags : building=yes | building:levels=1 | opening_hours=9:00-19:00 | shop=convenience
     geometry : n1694679834[55.9011557,28.8282453] n1694679816[55.9009561,28.8283404] n1694679823[55.9009896,28.8285643] n1694679837[55.9011892,28.8284692] n1694679834[55.9011557,28.8282453]
 w157259767
-  other tags : addr:housenumber=10 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679658[55.8995915,28.8347864] n1694679662[55.8996413,28.8351066] n1694679697[55.8997939,28.8350311] n1694679681[55.8997441,28.8347109] n1694679658[55.8995915,28.8347864]
 w157259768
   other tags : addr:street=улица Мелиораторов | building=yes | building:levels=1
@@ -1958,7 +1958,7 @@ w157259769
   other tags : addr:housenumber=16 | addr:street=улица Есенина | building=yes | building:levels=1
     geometry : n1694679753[55.9006025,28.8276466] n1694679759[55.9006522,28.8279668] n1694679780[55.9008048,28.8278913] n1694679774[55.9007551,28.8275711] n1694679753[55.9006025,28.8276466]
 w157259770
-  other tags : addr:housenumber=12 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679677[55.8997143,28.8355232] n1694679691[55.8997641,28.8358434] n1694679710[55.8999167,28.8357679] n1694679703[55.8998669,28.8354477] n1694679677[55.8997143,28.8355232]
 w157259771
   other tags : addr:housenumber=18 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -1976,7 +1976,7 @@ w157259775
   other tags : addr:housenumber=23 | addr:street=Октябрьская улица | building=yes | building:levels=1
     geometry : n1694679736[55.9004298,28.8310183] n1694679740[55.9004796,28.8313385] n1694679757[55.9006322,28.8312630] n1694679750[55.9005824,28.8309428] n1694679736[55.9004298,28.8310183]
 w157259776
-  other tags : addr:housenumber=8 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679640[55.8994910,28.8340994] n1694679642[55.8995408,28.8344196] n1694679676[55.8996934,28.8343441] n1694679665[55.8996437,28.8340239] n1694679640[55.8994910,28.8340994]
 w157259777
   other tags : addr:housenumber=14 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -2024,7 +2024,7 @@ w157259795
   other tags : addr:street=улица Мелиораторов | building=yes | building:levels=1
     geometry : n1694679996[55.9031508,28.8392398] n1694679998[55.9031540,28.8396443] n1694679978[55.9029683,28.8396490] n1694679977[55.9029651,28.8392445] n1694679996[55.9031508,28.8392398]
 w157259796
-  other tags : addr:housenumber=5 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679678[55.8997255,28.8328648] n1694679694[55.8997753,28.8331850] n1694679711[55.8999279,28.8331095] n1694679706[55.8998781,28.8327893] n1694679678[55.8997255,28.8328648]
 w157259798
   other tags : addr:housenumber=1 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -2039,7 +2039,7 @@ w157259805
   other tags : addr:housenumber=2 | addr:street=улица Есенина | building=yes | building:levels=1
     geometry : n1694679915[55.9021877,28.8268700] n1694679925[55.9022375,28.8271902] n1694679944[55.9023901,28.8271147] n1694679941[55.9023403,28.8267945] n1694679915[55.9021877,28.8268700]
 w157259807
-  other tags : addr:housenumber=1 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679682[55.8997590,28.8311124] n1694679700[55.8998088,28.8314326] n1694679713[55.8999614,28.8313571] n1694679709[55.8999116,28.8310369] n1694679682[55.8997590,28.8311124]
 w157259811
   other tags : addr:housenumber=5 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -2048,7 +2048,7 @@ w157259813
   other tags : addr:housenumber=2 | addr:street=переулок Есенина | building=yes | building:levels=1
     geometry : n1694679733[55.9004013,28.8283565] n1694679737[55.9004511,28.8286767] n1694679754[55.9006037,28.8286012] n1694679747[55.9005539,28.8282810] n1694679733[55.9004013,28.8283565]
 w157259814
-  other tags : addr:housenumber=3 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679667[55.8996808,28.8319687] n1694679679[55.8997306,28.8322889] n1694679708[55.8998832,28.8322134] n1694679702[55.8998334,28.8318932] n1694679667[55.8996808,28.8319687]
 w157259818
   other tags : addr:housenumber=3 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -2066,14 +2066,14 @@ w157259827
   other tags : addr:housenumber=9 | addr:street=переулок Есенина | building=yes | building:levels=1
     geometry : n1694679818[55.9010823,28.8312041] n1694679825[55.9011321,28.8315243] n1694679832[55.9012847,28.8314488] n1694679830[55.9012349,28.8311286] n1694679818[55.9010823,28.8312041]
 w157259828
-  other tags : addr:housenumber=4 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679626[55.8993515,28.8328249] n1694679627[55.8994013,28.8331452] n1694679643[55.8995539,28.8330697] n1694679641[55.8995041,28.8327495] n1694679626[55.8993515,28.8328249]
 w157259829
   other tags : addr:housenumber=10 | addr:street=улица Есенина | building=yes | building:levels=1
     geometry : n1694679835[55.9013225,28.8272683] n1694679838[55.9013723,28.8275885] n1694679845[55.9015249,28.8275130] n1694679843[55.9014751,28.8271928] n1694679835[55.9013225,28.8272683]
 w157259830
-  other tags : addr:housenumber=6А | addr:street=Ф.Скорины улица | building=yes | building:levels=1
-    geometry : n1694679629[55.8994185,28.8334422] n1694679638[55.8994420,28.8336044] n1694679659[55.8995946,28.8335231] n1694679657[55.8995711,28.8333668] n1694679629[55.8994185,28.8334422]
+  other tags : addr:housenumber=6А | addr:street=улица Франциска Скорины | building=yes | building:levels=1
+    geometry : n1694679629[55.8994207,28.8334441] n1694679638[55.8994450,28.8336030] n1694679659[55.8995982,28.8335283] n1694679657[55.8995739,28.8333694] n1694679629[55.8994207,28.8334441]
 w157259831
   other tags : addr:housenumber=3 | addr:street=переулок Есенина | building=yes | building:levels=1
     geometry : n1694679775[55.9008267,28.8294899] n1694679781[55.9008765,28.8298101] n1694679802[55.9010291,28.8297346] n1694679797[55.9009793,28.8294144] n1694679775[55.9008267,28.8294899]
@@ -2081,7 +2081,7 @@ w157259832
   other tags : addr:housenumber=5 | addr:street=переулок Есенина | building=yes | building:levels=1
     geometry : n1694679791[55.9009093,28.8300054] n1694679798[55.9009590,28.8303257] n1694679817[55.9011116,28.8302502] n1694679812[55.9010619,28.8299300] n1694679791[55.9009093,28.8300054]
 w157259833
-  other tags : addr:housenumber=2 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
     geometry : n1694679620[55.8992845,28.8321479] n1694679623[55.8993343,28.8324681] n1694679639[55.8994869,28.8323926] n1694679632[55.8994371,28.8320724] n1694679620[55.8992845,28.8321479]
 w157259834
   other tags : addr:housenumber=8 | addr:street=улица Есенина | building=yes | building:levels=1
@@ -2120,13 +2120,13 @@ w157507915
   other tags : addr:housenumber=12 | addr:street=улица Богдановича | building=yes | building:levels=1
     geometry : n1697410895[55.9030550,28.8311324] n1697410979[55.9031048,28.8314526] n1697411221[55.9032574,28.8313771] n1697411163[55.9032076,28.8310569] n1697410895[55.9030550,28.8311324]
 w157507917
-  other tags : addr:housenumber=2 | addr:street=М.Богдановича переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=переулок Максима Богдановича | building=yes | building:levels=1
     geometry : n1697411129[55.9031931,28.8296669] n1697411191[55.9032429,28.8299871] n1697411355[55.9033954,28.8299116] n1697411325[55.9033456,28.8295914] n1697411129[55.9031931,28.8296669]
 w157507918
   other tags : addr:housenumber=2 | addr:street=улица Богдановича | building=yes | building:levels=1
     geometry : n1697410416[55.9026328,28.8280221] n1697410432[55.9026826,28.8283423] n1697410579[55.9028351,28.8282668] n1697410543[55.9027853,28.8279466] n1697410416[55.9026328,28.8280221]
 w157507919
-  other tags : addr:housenumber=4 | addr:street=М.Богдановича переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=переулок Максима Богдановича | building=yes | building:levels=1
     geometry : n1697411409[55.9034706,28.8295622] n1697411438[55.9035204,28.8298824] n1697411526[55.9036730,28.8298069] n1697411497[55.9036232,28.8294867] n1697411409[55.9034706,28.8295622]
 w157507921
   other tags : addr:housenumber=4 | addr:street=улица Богдановича | building=yes | building:levels=1
@@ -2138,7 +2138,7 @@ w157507924
   other tags : addr:housenumber=5 | addr:street=Октябрьская улица | building=yes | building:levels=1
     geometry : n1697410132[55.9015710,28.8384937] n1697410142[55.9016715,28.8391303] n1697410123[55.9015232,28.8392048] n1697410106[55.9014227,28.8385683] n1697410132[55.9015710,28.8384937]
 w157507925
-  other tags : addr:housenumber=6 | addr:street=улица Богдановича | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=переулок Максима Богдановича | building=yes | building:levels=1
     geometry : n1697411648[55.9038029,28.8294437] n1697411667[55.9038527,28.8297639] n1697411790[55.9040053,28.8296884] n1697411757[55.9039555,28.8293682] n1697411648[55.9038029,28.8294437]
 w157507926
   other tags : addr:housenumber=6 | addr:street=улица Богдановича | building=yes | building:levels=1
@@ -2153,7 +2153,7 @@ w157507929
   other tags : addr:housenumber=8 | addr:street=улица Богдановича | building=yes | building:levels=1
     geometry : n1697410660[55.9028947,28.8298910] n1697410746[55.9029445,28.8302112] n1697410974[55.9030971,28.8301357] n1697410864[55.9030473,28.8298155] n1697410660[55.9028947,28.8298910]
 w157507931
-  other tags : addr:housenumber=8 | addr:street=улица Богдановича | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=переулок Максима Богдановича | building=yes | building:levels=1
     geometry : n1697411851[55.9040727,28.8293740] n1697411900[55.9041225,28.8296942] n1697412058[55.9042750,28.8296187] n1697412004[55.9042253,28.8292985] n1697411851[55.9040727,28.8293740]
 w157507932
   other tags : addr:housenumber=9 | addr:street=Октябрьская улица | building=yes | building:levels=1
@@ -2612,7 +2612,7 @@ w157508165
   other tags : addr:housenumber=12 | addr:street=улица Гагарина | building=yes | building:levels=1
     geometry : n1697412126[55.9043120,28.8267338] n1697412173[55.9043618,28.8270540] n1697412334[55.9045144,28.8269785] n1697412298[55.9044646,28.8266583] n1697412126[55.9043120,28.8267338]
 w157508166
-  other tags : addr:street=улица Богдановича | building=yes | building:levels=1
+  other tags : addr:street=переулок Максима Богдановича | building=yes | building:levels=1
     geometry : n1697412023[55.9042426,28.8286753] n1697412086[55.9042924,28.8289955] n1697412265[55.9044450,28.8289200] n1697412228[55.9043952,28.8285998] n1697412023[55.9042426,28.8286753]
 w157508168
   other tags : addr:street=Держинского ул. | building=yes | building:levels=1
@@ -2762,7 +2762,7 @@ w157513610
   other tags : addr:housenumber=22 | addr:street=Партизанская улица | building=yes | building:levels=1
     geometry : n1697477734[55.9002253,28.8231683] n1697477736[55.9002722,28.8234899] n1697477748[55.9004255,28.8234188] n1697477746[55.9003785,28.8230972] n1697477734[55.9002253,28.8231683]
 w157513611
-  other tags : addr:housenumber=9 | addr:street=Партизанский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=улица Заслонова | building=yes | building:levels=1
     geometry : n1697477652[55.8985661,28.8230573] n1697477653[55.8986636,28.8233405] n1697477657[55.8987985,28.8231927] n1697477654[55.8987010,28.8229095] n1697477652[55.8985661,28.8230573]
 w157513612
   other tags : addr:street=Партизанская улица | building=yes | building:levels=1
@@ -2822,13 +2822,13 @@ w157515540  null / null / Славянский
   other tags : building=yes | building:levels=1 | opening_hours=8:00-22:00 | shop=supermarket
     geometry : n1697495940[55.9039162,28.8167665] n1697495938[55.9036312,28.8168112] n1697495939[55.9036485,28.8171623] n1697495941[55.9039335,28.8171176] n1697495940[55.9039162,28.8167665]
 w157515541
-  other tags : addr:housenumber=6 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496029[55.9069294,28.8138984] n1697496033[55.9070858,28.8140790] n1697496038[55.9071718,28.8138419] n1697496031[55.9070155,28.8136613] n1697496029[55.9069294,28.8138984]
 w157515542
   other tags : addr:housenumber=13 | addr:street=улица Некрасова | building=yes | building:levels=1
     geometry : n1697496107[55.9093194,28.8150695] n1697496115[55.9095037,28.8150214] n1697496114[55.9094807,28.8147419] n1697496106[55.9092965,28.8147901] n1697496107[55.9093194,28.8150695]
 w157515543
-  other tags : addr:housenumber=12 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496059[55.9077476,28.8147663] n1697496065[55.9079040,28.8149469] n1697496069[55.9079900,28.8147098] n1697496063[55.9078337,28.8145292] n1697496059[55.9077476,28.8147663]
 w157515544
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2843,7 +2843,7 @@ w157515547
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697495984[55.9057000,28.8162283] n1697495985[55.9057016,28.8165606] n1697495988[55.9058600,28.8165581] n1697495986[55.9058583,28.8162258] n1697495984[55.9057000,28.8162283]
 w157515548
-  other tags : addr:housenumber=3 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496026[55.9068852,28.8131588] n1697496032[55.9070416,28.8133394] n1697496034[55.9071276,28.8131023] n1697496030[55.9069713,28.8129217] n1697496026[55.9068852,28.8131588]
 w157515549
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2855,10 +2855,10 @@ w157515551
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697495944[55.9044229,28.8164453] n1697495945[55.9044246,28.8167776] n1697495952[55.9045829,28.8167750] n1697495946[55.9045812,28.8164428] n1697495944[55.9044229,28.8164453]
 w157515552
-  other tags : addr:housenumber=11 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496067[55.9079632,28.8143620] n1697496074[55.9081195,28.8145426] n1697496076[55.9082056,28.8143055] n1697496070[55.9080493,28.8141249] n1697496067[55.9079632,28.8143620]
 w157515553
-  other tags : addr:housenumber=2 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697495995[55.9063070,28.8139021] n1697496006[55.9064868,28.8138150] n1697496000[55.9064453,28.8135424] n1697495994[55.9062656,28.8136295] n1697495995[55.9063070,28.8139021]
 w157515554
   other tags : addr:housenumber=12 | addr:street=улица Некрасова | building=yes | building:levels=1
@@ -2867,7 +2867,7 @@ w157515555
   other tags : addr:housenumber=11 | addr:street=улица Некрасова | building=yes | building:levels=1
     geometry : n1697496098[55.9090596,28.8151682] n1697496103[55.9092439,28.8151201] n1697496102[55.9092209,28.8148406] n1697496096[55.9090366,28.8148887] n1697496098[55.9090596,28.8151682]
 w157515556
-  other tags : addr:housenumber=10 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496050[55.9074823,28.8145198] n1697496056[55.9076386,28.8147004] n1697496058[55.9077247,28.8144633] n1697496052[55.9075683,28.8142827] n1697496050[55.9074823,28.8145198]
 w157515557
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2876,10 +2876,10 @@ w157515558
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697496093[55.9088696,28.8167845] n1697496097[55.9090495,28.8168701] n1697496099[55.9090903,28.8165972] n1697496094[55.9089103,28.8165116] n1697496093[55.9088696,28.8167845]
 w157515559
-  other tags : addr:housenumber=14 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496068[55.9079853,28.8150129] n1697496075[55.9081417,28.8151935] n1697496077[55.9082277,28.8149564] n1697496072[55.9080714,28.8147758] n1697496068[55.9079853,28.8150129]
 w157515560
-  other tags : addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697495991[55.9061818,28.8130548] n1697495992[55.9062257,28.8133778] n1697495998[55.9063796,28.8133113] n1697495997[55.9063357,28.8129884] n1697495991[55.9061818,28.8130548]
 w157515561
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2897,19 +2897,19 @@ w157515565
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697496133[55.9099785,28.8171279] n1697496139[55.9101635,28.8171656] n1697496141[55.9101815,28.8168849] n1697496135[55.9099964,28.8168473] n1697496133[55.9099785,28.8171279]
 w157515566
-  other tags : addr:housenumber=4 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496011[55.9065945,28.8137837] n1697496025[55.9067743,28.8136967] n1697496023[55.9067328,28.8134241] n1697496009[55.9065530,28.8135111] n1697496011[55.9065945,28.8137837]
 w157515567
   other tags : addr:housenumber=10 | addr:street=улица Некрасова | building=yes | building:levels=1
     geometry : n1697496105[55.9092917,28.8157303] n1697496113[55.9094760,28.8156822] n1697496112[55.9094531,28.8154027] n1697496104[55.9092688,28.8154508] n1697496105[55.9092917,28.8157303]
 w157515568
-  other tags : addr:housenumber=8 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496040[55.9072224,28.8142535] n1697496047[55.9073788,28.8144341] n1697496049[55.9074648,28.8141970] n1697496042[55.9073085,28.8140164] n1697496040[55.9072224,28.8142535]
 w157515569
   other tags : addr:housenumber=15 | addr:street=улица Некрасова | building=yes | building:levels=1
     geometry : n1697496119[55.9096068,28.8149906] n1697496125[55.9097911,28.8149425] n1697496124[55.9097682,28.8146630] n1697496117[55.9095839,28.8147112] n1697496119[55.9096068,28.8149906]
 w157515570
-  other tags : addr:housenumber=1 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496008[55.9065123,28.8129036] n1697496010[55.9065561,28.8132266] n1697496019[55.9067100,28.8131602] n1697496014[55.9066662,28.8128372] n1697496008[55.9065123,28.8129036]
 w157515571
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2924,13 +2924,13 @@ w157515574
   other tags : addr:housenumber=17 | addr:street=улица Некрасова | building=yes | building:levels=1
     geometry : n1697496131[55.9098943,28.8149019] n1697496137[55.9100786,28.8148538] n1697496136[55.9100556,28.8145743] n1697496130[55.9098714,28.8146224] n1697496131[55.9098943,28.8149019]
 w157515575
-  other tags : addr:housenumber=9 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496057[55.9076757,28.8140661] n1697496062[55.9078321,28.8142467] n1697496066[55.9079181,28.8140096] n1697496060[55.9077618,28.8138290] n1697496057[55.9076757,28.8140661]
 w157515576
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697496100[55.9091460,28.8169226] n1697496108[55.9093259,28.8170082] n1697496109[55.9093667,28.8167352] n1697496101[55.9091867,28.8166496] n1697496100[55.9091460,28.8169226]
 w157515577
-  other tags : addr:housenumber=5 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496035[55.9071284,28.8134251] n1697496041[55.9072848,28.8136056] n1697496046[55.9073709,28.8133685] n1697496039[55.9072145,28.8131879] n1697496035[55.9071284,28.8134251]
 w157515578
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2939,7 +2939,7 @@ w157515579
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697495954[55.9046772,28.8164157] n1697495956[55.9046789,28.8167480] n1697495960[55.9048372,28.8167454] n1697495959[55.9048355,28.8164132] n1697495954[55.9046772,28.8164157]
 w157515580
-  other tags : addr:housenumber=16 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=16 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496078[55.9082396,28.8152693] n1697496082[55.9083960,28.8154499] n1697496084[55.9084820,28.8152128] n1697496080[55.9083257,28.8150322] n1697496078[55.9082396,28.8152693]
 w157515581
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
@@ -2948,7 +2948,7 @@ w157515582
   other tags : addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1697495964[55.9049260,28.8163762] n1697495965[55.9049277,28.8167085] n1697495968[55.9050860,28.8167060] n1697495966[55.9050843,28.8163737] n1697495964[55.9049260,28.8163762]
 w157515583
-  other tags : addr:housenumber=7 | addr:street=Хомченовского пер. | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=переулок Хомченовского | building=yes | building:levels=1
     geometry : n1697496045[55.9073662,28.8137012] n1697496051[55.9075225,28.8138818] n1697496055[55.9076086,28.8136447] n1697496048[55.9074522,28.8134641] n1697496045[55.9073662,28.8137012]
 w157849560
   other tags : addr:housenumber=14 | addr:street=Комсомольская улица | building=yes | building:levels=1
@@ -3071,8 +3071,8 @@ w256149406
   other tags : addr:housenumber=41 | addr:street=Лесная улица | building=yes | building:levels=1
     geometry : n2618410332[55.9102001,28.8187748] n2618410330[55.9101280,28.8189755] n2618410328[55.9100591,28.8188968] n2618410329[55.9101132,28.8187461] n2618410331[55.9101312,28.8186960] n2618410332[55.9102001,28.8187748]
 w274479058
-  other tags : addr:housenumber=6 | addr:street=Ф.Скорины улица | building=yes | building:levels=1
-    geometry : n2791930537[55.8994404,28.8335991] n2791930538[55.8994640,28.8337614] n2791930540[55.8996166,28.8336800] n2791930539[55.8995930,28.8335237] n2791930537[55.8994404,28.8335991]
+  other tags : addr:housenumber=6 | addr:street=улица Франциска Скорины | building=yes | building:levels=1
+    geometry : n2791930537[55.8994454,28.8336122] n2791930538[55.8994702,28.8337709] n2791930540[55.8996232,28.8336947] n2791930539[55.8995983,28.8335360] n2791930537[55.8994454,28.8336122]
 w292423922
   other tags : addr:housenumber=3 | addr:street=Строительный переулок | building=yes | building:levels=1
     geometry : n2959797856[55.8989188,28.8253523] n2959797857[55.8989625,28.8254873] n2959797855[55.8989003,28.8255515] n2959797854[55.8988566,28.8254165] n2959797856[55.8989188,28.8253523]
