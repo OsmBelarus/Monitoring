@@ -142,6 +142,9 @@ n2517208804  null / null / Коростень
 n2517208818  null / null / Коростень
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.2809674,30.3005479]
+n2574109885  null / null / Дом культуры
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
+    geometry : [52.4127034,30.3441986]
 n2594728612
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [52.2594469,30.2349051]
@@ -229,9 +232,6 @@ n2684760897  null / null / Школа
 n2684760900  null / null / Школа
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
     geometry : [52.4063094,30.3382585]
-n2684760904  null / null / Дом культуры
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
-    geometry : [52.4126996,30.3441981]
 n2684760910  null / null / Дом культуры
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
     geometry : [52.4130543,30.3447408]
