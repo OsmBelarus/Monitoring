@@ -1943,7 +1943,7 @@ w167862052
   other tags : building=yes | building:levels=1
     geometry : n1792075188[55.6753995,29.9855116] n1792075242[55.6755045,29.9855195] n1792075240[55.6754983,29.9857778] n1792075184[55.6753934,29.9857699] n1792075188[55.6753995,29.9855116]
 w167862054
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=Советская улица | building=yes | building:levels=1
     geometry : n1792075275[55.6756252,29.9839254] n1792075279[55.6757152,29.9839564] n1792075278[55.6756762,29.9843129] n1792075273[55.6755862,29.9842819] n1792075275[55.6756252,29.9839254]
 w167862055
   other tags : addr:housenumber=17 | addr:street=улица Рудыка | building=yes
@@ -8807,7 +8807,7 @@ w239077251
   other tags : building=yes | building:levels=1 | source=Bing
     geometry : n2468908742[55.6757859,29.9818872] n2468908737[55.6757117,29.9818692] n2468908738[55.6757141,29.9818385] n2468908735[55.6756756,29.9818292] n2468908734[55.6756654,29.9819612] n2468908740[55.6757781,29.9819885] n2468908742[55.6757859,29.9818872]
 w239077252
-  other tags : addr:housenumber=30а | building=yes | building:levels=1 | source=Bing
+  other tags : addr:housenumber=30а | addr:street=Советская улица | building=yes | building:levels=1 | source=Bing
     geometry : n2468908745[55.6758047,29.9831095] n2468908739[55.6757174,29.9830900] n2468908736[55.6757046,29.9832710] n2468908741[55.6757842,29.9832887] n2468908743[55.6757861,29.9832614] n2468908746[55.6758219,29.9832694] n2468908747[55.6758297,29.9831593] n2468908744[55.6758017,29.9831530] n2468908745[55.6758047,29.9831095]
 w239975572
   other tags : building=yes | building:levels=1
@@ -17441,46 +17441,46 @@ w324480310
   other tags : addr:housenumber=24 | addr:street=ул.Садовая | building=yes | building:levels=1
     geometry : n3311933808[55.4805795,29.9649189] n3311933804[55.4805100,29.9649249] n3311933805[55.4805120,29.9649959] n3311933802[55.4804869,29.9649980] n3311933803[55.4804891,29.9650786] n3311933806[55.4805128,29.9650766] n3311933807[55.4805140,29.9651222] n3311933809[55.4805850,29.9651160] n3311933808[55.4805795,29.9649189]
 w331175795
-  other tags : addr:housenumber=27 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=27 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350518[55.6761556,29.9854970] n3382350536[55.6762522,29.9855091] n3382350534[55.6762464,29.9856522] n3382350515[55.6761499,29.9856400] n3382350518[55.6761556,29.9854970]
 w331175796
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350520[55.6761835,29.9832024] n3382350530[55.6762400,29.9832065] n3382350529[55.6762365,29.9833580] n3382350519[55.6761801,29.9833539] n3382350520[55.6761835,29.9832024]
 w331175797
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350498[55.6756926,29.9813216] n3382350504[55.6758207,29.9813410] n3382350503[55.6758162,29.9814339] n3382350497[55.6756882,29.9814145] n3382350498[55.6756926,29.9813216]
 w331175798
-  other tags : addr:housenumber=39 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=39 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350528[55.6762241,29.9823748] n3382350548[55.6763070,29.9823781] n3382350545[55.6763045,29.9825687] n3382350525[55.6762217,29.9825654] n3382350528[55.6762241,29.9823748]
 w331175799
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350517[55.6761534,29.9841267] n3382350532[55.6762436,29.9841278] n3382350531[55.6762431,29.9842491] n3382350516[55.6761529,29.9842480] n3382350517[55.6761534,29.9841267]
 w331175800
-  other tags : addr:housenumber=23 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350506[55.6760523,29.9866581] n3382350514[55.6761412,29.9866583] n3382350513[55.6761411,29.9867837] n3382350505[55.6760522,29.9867835] n3382350506[55.6760523,29.9866581]
 w331175801
-  other tags : addr:housenumber=29 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=29 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350509[55.6761022,29.9850032] n3382350522[55.6761920,29.9850052] n3382350521[55.6761911,29.9851240] n3382350508[55.6761013,29.9851220] n3382350509[55.6761022,29.9850032]
 w331175802
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350500[55.6757110,29.9816471] n3382350502[55.6758037,29.9816629] n3382350501[55.6757979,29.9817708] n3382350499[55.6757051,29.9817550] n3382350500[55.6757110,29.9816471]
 w331175803
-  other tags : addr:housenumber=25 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350510[55.6761031,29.9859289] n3382350524[55.6762082,29.9859450] n3382350523[55.6762027,29.9860579] n3382350507[55.6760976,29.9860418] n3382350510[55.6761031,29.9859289]
 w331175804
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350494[55.6755993,29.9822615] n3382350496[55.6756844,29.9822854] n3382350495[55.6756727,29.9824163] n3382350493[55.6755876,29.9823924] n3382350494[55.6755993,29.9822615]
 w331175805
-  other tags : addr:housenumber=31 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=31 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350512[55.6761343,29.9846027] n3382350527[55.6762232,29.9846034] n3382350526[55.6762229,29.9847165] n3382350511[55.6761340,29.9847158] n3382350512[55.6761343,29.9846027]
 w331175806
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350564[55.6764290,29.9836161] n3382350570[55.6764855,29.9836180] n3382350569[55.6764823,29.9839148] n3382350562[55.6764258,29.9839129] n3382350564[55.6764290,29.9836161]
 w331175807
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350550[55.6763092,29.9831739] n3382350558[55.6763708,29.9831742] n3382350557[55.6763704,29.9833997] n3382350549[55.6763088,29.9833993] n3382350550[55.6763092,29.9831739]
 w331175808
-  other tags : addr:housenumber=1 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3382350547[55.6763061,29.9837050] n3382350560[55.6763896,29.9837064] n3382350559[55.6763888,29.9838702] n3382350546[55.6763052,29.9838688] n3382350547[55.6763061,29.9837050]
 w331175809
   other tags : building=yes | building:levels=1 | source=Bing
@@ -17498,7 +17498,7 @@ w331175813
   other tags : building=yes | building:levels=1 | source=Bing
     geometry : n3382350553[55.6763361,29.9859343] n3382350537[55.6762648,29.9859351] n3382350538[55.6762652,29.9860553] n3382350541[55.6762867,29.9860551] n3382350542[55.6762869,29.9861098] n3382350554[55.6763367,29.9861093] n3382350553[55.6763361,29.9859343]
 w331332448
-  other tags : addr:housenumber=41 | addr:street=улица Советская | building=yes | building:levels=1
+  other tags : addr:housenumber=41 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n3383953150[55.6762688,29.9817387] n3383953152[55.6763807,29.9817441] n3383953151[55.6763791,29.9818436] n3383953149[55.6762673,29.9818383] n3383953150[55.6762688,29.9817387]
 w331355984  null / null / Дом милосердия
   other tags : building=yes
@@ -17513,7 +17513,7 @@ w331355987  null / null / Дом милосердия
   other tags : building=yes
     geometry : n3384161917[55.6749564,29.9715739] n3384161918[55.6749580,29.9720745] n3384161923[55.6750742,29.9720733] n3384161922[55.6750725,29.9715727] n3384161917[55.6749564,29.9715739]
 w331355988
-  other tags : addr:housenumber=51 | building=yes
+  other tags : addr:housenumber=51 | addr:street=Советская улица | building=yes
     geometry : n3384161910[55.6747080,29.9735422] n3384161909[55.6747036,29.9737407] n3384161913[55.6747944,29.9737470] n3384161914[55.6747988,29.9735485] n3384161910[55.6747080,29.9735422]
 w331355989
   other tags : building=yes
