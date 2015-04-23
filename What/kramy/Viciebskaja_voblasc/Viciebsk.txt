@@ -599,7 +599,7 @@ n1187004763
     geometry : [55.1861909,30.2302890]
 n1191936893  Оптыка / null / Оптика / Оптика
   other tags : opening_hours=Mo-Fr 10:00-13:00,14:00-18:00 | operator=ООО "МИОФТОН" | shop=optician
-    geometry : [55.1819356,30.2182269]
+    geometry : [55.1819404,30.2181922]
 n1193017739  Кенгуру / null / Кенгуру
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-16:00 | shop=baby_goods
     geometry : [55.1688476,30.2410173]
@@ -1043,23 +1043,23 @@ n1357426386  "Пілот" / null / "Пилот"
   other tags : addr:housenumber=11/9 | addr:street=улица Янки Купалы | opening_hours=Mo-Fr 09:00-18:00; Su 11:00-16:00 | shop=computer | website=http://vpilot.by/
     geometry : [55.1971568,30.2051614]
 n1360856817  null / null / Королева
-  other tags : description=Свадебный салон "Королева" | opening_hours=Mo-Sa 12:00-18:00 | phone=+37529 8165757 | shop=wedding
-    geometry : [55.1820226,30.2179760]
+  other tags : clothes=wedding | description=Свадебный салон "Королева" | opening_hours=Mo-Sa 12:00-18:00 | phone=+37529 8165757 | shop=clothes
+    geometry : [55.1820274,30.2179413]
 n1360856818  Ламбард / null / Ломбард / Ломбард
   other tags : opening_hours=Mo-Su 09:00-13:30,14:00-21:00 | operator=ООО "ВИСЕМ" | shop=pawnbroker
     geometry : [55.1821322,30.2153951]
 n1360856821  Мэбля / null / Мебель / Мебель
   other tags : level=2 | opening_hours=Mo-Sa 10:00-18:00 | shop=furniture
-    geometry : [55.1820256,30.2179037]
+    geometry : [55.1820304,30.2178690]
 n1360856836  Налада музычных інструментаў / null / Настройка музыкальных инструментов
   other tags : level=2 | opening_hours=Mo-Fr 08:00-12:00 | shop=musical_instrument
-    geometry : [55.1819878,30.2181938]
+    geometry : [55.1819926,30.2181591]
 n1360856845  Помнікі / null / Памятники
   other tags : opening_hours=Mo-Fr 08:00-12:00,13:00-17:00 | operator=ОАО "МИР УСЛУГ Плюс" | shop=funeral_directors
-    geometry : [55.1819617,30.2182797]
+    geometry : [55.1819665,30.2182450]
 n1360856856  Цырульня №2 / null / Парикмахерская №2
   other tags : opening_hours=Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-15:00 | operator=ОАО "МИР УСЛУГ Плюс" | shop=hairdresser
-    geometry : [55.1819848,30.2180680]
+    geometry : [55.1819896,30.2180333]
 n1360856881  Казка / null / Сказка
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su 10:00-15:00 | shop=hairdresser
     geometry : [55.1827143,30.2140077]
@@ -3395,3 +3395,6 @@ n3471067325  null / null / Хобби-мания / Хобби-мания
 n3471968130  null / null / Ломбард
   other tags : contact:phone=+375 (212) 358-777 | opening_hours=Mo-Su 09:00-13:30,14:00-21:00 | operator=ООО "Висем" | shop=pawnbroker
     geometry : [55.1971083,30.1766961]
+n3472044097  null / null / Салон красоты для домашних питомцев
+  other tags : opening_hours=Mo-Sa 08:00-20:00 | operator=ОАО "Мир услуг плюс" | shop=pet_grooming
+    geometry : [55.1820578,30.2178087]
