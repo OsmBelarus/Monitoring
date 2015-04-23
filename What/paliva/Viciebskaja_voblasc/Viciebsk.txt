@@ -22,9 +22,6 @@ n334322226  null / null / Белоруснефть № 8
 n336085211  Лукоiл №38 / null / Лукойл №38 / Лукойл №38
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=no | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-212-486026 | website=http://lukoil.by/
     geometry : [55.2127116,30.2282474]
-n340016348  null / null / Лукойл № 34
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | phone=+375-212-214000 | website=http://www.lukoil.by/
-    geometry : [55.1748322,30.2501107]
 n341748314  null / null / Лукойл №39
   other tags : addr:housenumber=171Г | addr:street=Ленинградская улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-357526 | website=http://lukoil.by/
     geometry : [55.2087862,30.1493214]
@@ -100,6 +97,9 @@ n2077911509  null / null / Белоруснефть № 68
 n2077911515  null / null / Белоруснефть № 68
   other tags : amenity=fuel | fuel:lpg=yes | official_name=Белоруснефть МАЗС № 68 | opening_hours=Mo-Su 08:00-20:00 | operator=Белоруснефть | phone=+375-212-292516 | website=http://www.belorusneft.by/
     geometry : [55.2900098,30.3237413]
+w74659015  null / null / Лукойл № 34
+  other tags : addr:housenumber=57А | addr:street=Московский проспект | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | phone=+375-212-214000 | website=http://www.lukoil.by/
+    geometry : n881802414[55.1749131,30.2499439] n881802411[55.1748903,30.2501094] n1786529839[55.1748651,30.2500988] n1786529837[55.1748015,30.2500719] n2460079079[55.1747888,30.2500665] n340016348[55.1747779,30.2500619] n881802399[55.1748008,30.2498963] n881802414[55.1749131,30.2499439]
 w76097211  null / null / Витебскоблгаз №3
   other tags : addr:housenumber=42 | addr:street=улица Петруся Бровки | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375-212-213999 | fuel:lpg=yes | opening_hours=08:00-12:00, 12:15-16:00, 16:15-19:45, 20:00-07:45 | operator=Витебскоблгаз | ref=3
     geometry : n897761509[55.1606901,30.2382223] n2365237396[55.1606863,30.2382371] n2365237395[55.1606587,30.2383438] n897761587[55.1606578,30.2383475] n306066089[55.1605979,30.2383001] n897761553[55.1606302,30.2381750] n897761509[55.1606901,30.2382223]
