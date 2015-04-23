@@ -684,7 +684,7 @@ n2399147172  null / null / Жилищно-эксплуатационное уп�
   other tags : amenity=townhall
     geometry : [55.5426568,28.6317494]
 n2405911099  Міліцыя / null / Милиция / Милиция
-  other tags : amenity=police
+  other tags : addr:housenumber=2 | addr:street=улица Дзержинского | amenity=police
     geometry : [55.5383227,28.6308993]
 n2407638375  null / null / Новополоцк
   other tags : historic=monument
