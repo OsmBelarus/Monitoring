@@ -22,9 +22,6 @@ n340087894
 n340088116
   other tags : addr:housenumber=41 | addr:postcode=210017 | addr:street=улица Гагарина | amenity=post_office | ref=210017
     geometry : [55.2122197,30.2298407]
-n340101902
-  other tags : addr:housenumber=136Б | addr:postcode=210021 | addr:street=улица Титова | amenity=post_office | ref=210021
-    geometry : [55.1962774,30.1526522]
 n340101938
   other tags : addr:postcode=210023 | amenity=post_office | internet_access=terminal | ref=210023
     geometry : [55.1930673,30.2170862]
@@ -94,6 +91,9 @@ n3163061390  null / null / ОПС-1
 n3196338596
   other tags : amenity=post_office
     geometry : [55.1538932,30.2204662]
+w27901471
+  other tags : addr:housenumber=136А | addr:postcode=210021 | addr:street=улица Титова | amenity=post_office | building=yes | building:levels=1 | ref=210021
+    geometry : n306321084[55.1961688,30.1527898] n306321089[55.1961303,30.1526031] n1764014530[55.1962268,30.1525419] n306321088[55.1962382,30.1525971] n1764014535[55.1962628,30.1525815] n3470654100[55.1962701,30.1526169] n340101902[55.1962774,30.1526522] n1764014533[55.1962493,30.1526700] n306321087[55.1962619,30.1527309] n306321084[55.1961688,30.1527898]
 w168211185
   other tags : addr:housenumber=6 | addr:postcode=210004 | addr:street=5-я Кооперативная улица | amenity=post_office | building=yes | building:levels=1 | ref=210004
     geometry : n1794991954[55.1769552,30.1725980] n1794991972[55.1770564,30.1727295] n1794991930[55.1768571,30.1731999] n1794991926[55.1767559,30.1730684] n1794991954[55.1769552,30.1725980]
