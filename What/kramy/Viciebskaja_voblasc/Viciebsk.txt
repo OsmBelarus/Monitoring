@@ -10,6 +10,9 @@ n306297917  Беларускае футра / null / Белорусский ме
 n306305626  null / null / Продукты
   other tags : shop=convenience
     geometry : [55.2033781,30.2032699]
+n306306954  null / null / Салон красоты
+  other tags : opening_hours=Mo-Su 08:30-20:00 | operator=ЧУП "ПерсонаЛайн" | shop=beauty
+    geometry : [55.1842781,30.2073234]
 n306309165  null / null / Вега
   other tags : opening_hours=Mo-Su 09:00-13:00,14:00-19:00 | operator=ООО «Вегаприм» | shop=pawnbroker
     geometry : [55.1950730,30.2393502]
@@ -1936,8 +1939,8 @@ n2401916301  null / null / Салон-магазин кованых издели
 n2401954712  null / null / Ирис
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 11:00-15:00 | shop=cosmetics
     geometry : [55.1792761,30.2275429]
-n2401954715  null / null / Кописервис
-  other tags : opening_hours=Mo-Fr 08:00-17:00 | shop=copyshop
+n2401954715  null / null / Кописервис Гарант
+  other tags : opening_hours=Mo,Sa 08:00-17:00; Tu-Fr 08:00-19:00 | operator=ОАО «ВОТТЦ «Гарант» | shop=copyshop
     geometry : [55.1792810,30.2275005]
 n2402039280  null / null / турагентство
   other tags : office=travel_agent | shop=travel_agency
@@ -3389,3 +3392,6 @@ n3462230807
 n3471067325  null / null / Хобби-мания / Хобби-мания
   other tags : description=всё для творчества | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-15:00 | shop=art_supplies
     geometry : [55.1950339,30.2377818]
+n3471968130  null / null / Ломбард
+  other tags : contact:phone=+375 (212) 358-777 | opening_hours=Mo-Su 09:00-13:30,14:00-21:00 | operator=ООО "Висем" | shop=pawnbroker
+    geometry : [55.1971083,30.1766961]
