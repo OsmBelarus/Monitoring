@@ -2896,7 +2896,7 @@ n1729281949  null / null / Нарезка стекла
     geometry : [55.1976397,30.1900349]
 n1731814085  null / null / Хулахуп
   other tags : contact:phone=+375 (29) 535-84-13 | description=фитнес-зал | leisure=sports_centre
-    geometry : [55.1948881,30.2330248]
+    geometry : [55.1948861,30.2330249]
 n1732642557
   other tags : barrier=block | bicycle=yes | foot=yes
     geometry : [55.1959036,30.2334933]
@@ -6096,7 +6096,7 @@ n2726742642  null / null / ООО "ПСК"
   other tags : addr:city=Витебск | addr:housenumber=81 | addr:postcode=210015 | addr:street=проспект Фрунзе | office=company | phone=+375 (212) 23-05-85 | website=http://www.sg-m.ru/
     geometry : [55.1959463,30.2572080]
 n2733819335  Разліковы цэнтр ЖКГ № 7 / null / Расчётный ценр ЖКХ № 7
-  other tags : office=accountant | opening_hours=Mo-Fr 08:00-20:00;Sa 08:00-17:00
+  other tags : note=закрыт на ремонт | office=accountant | opening_hours=Mo-Fr 08:00-20:00;Sa 08:00-17:00
     geometry : [55.1949828,30.2384162]
 n2739451549  null / null / Ремонт компьютеров
   other tags : contact:phone=+375298206646 | craft=electronics_repair | electronics_repair:list=computer, monitor | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-16:00 | operator=ООО «Самиком»
@@ -6330,7 +6330,7 @@ n2811053921
   other tags : entrance=main
     geometry : [55.2006721,30.1798928]
 n2814407900
-  other tags : amenity=post_box
+  other tags : amenity=post_box | collection_times=Mo-Fr 15:05; Sa 12:19
     geometry : [55.1954452,30.2443334]
 n2814939043  null / null / ЗАО "КИС"
   other tags : office=company | phone=+375-212-372708, +375-212-366376, +375-212-363316 | website=http://www.kis.by/
@@ -10209,7 +10209,7 @@ n3060564556
     geometry : [55.2125097,30.1991236]
 n3063390582  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375 (212) 261-866 | operator=РУП «Белтелеком»
-    geometry : [55.1943986,30.2324377]
+    geometry : [55.1944007,30.2324421]
 n3063390583  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375 (212) 55-88-35
     geometry : [55.1950763,30.2393871]
@@ -10762,9 +10762,6 @@ n3131121663
 n3133367435  null / null / Ремонт сотовых телефонов
   other tags : craft=electronics_repair | electronics_repair=phone | opening_hours=Mo-Sa 10:00-14:00,14:30-18:30 | operator=ЧУП «МобайлЦентр»
     geometry : [55.1948971,30.2331258]
-n3133367466
-  other tags : entrance=service
-    geometry : [55.1950142,30.2329828]
 n3133892101
   other tags : man_made=chimney
     geometry : [55.1875795,30.1946190]
@@ -11072,8 +11069,8 @@ n3207755554  null / null / Велопарковка "Делового центр
   other tags : access=customers | amenity=bicycle_parking | operator=Управляющая компания С28
     geometry : [55.1983121,30.2042087]
 n3208502321
-  other tags : amenity=post_box
-    geometry : [55.1943646,30.2320583]
+  other tags : amenity=post_box | collection_times=Mo-Fr 15:07; Sa 12:50
+    geometry : [55.1943617,30.2320245]
 n3208510993  null / null / пункт охраны правопорядка
   other tags : amenity=police | contact:phone=+375 (212) 55-11-42 | official_name=Общественный пункт охраны правопорядка | short_name=ОПОП
     geometry : [55.1939563,30.2344044]
@@ -17327,7 +17324,7 @@ w200468540
     geometry : n2104568272[55.1930230,30.2345759] n2104568271[55.1930206,30.2344488] n2104568274[55.1931382,30.2344420] n2104568277[55.1931406,30.2345691] n2104568272[55.1930230,30.2345759]
 w200468541  null / null / ТП-139
   other tags : building=industrial | building:levels=1 | power=substation
-    geometry : n2104568281[55.1947507,30.2333026] n2104568285[55.1948056,30.2332901] n2104568286[55.1948157,30.2334262] n2104568283[55.1947607,30.2334386] n2104568281[55.1947507,30.2333026]
+    geometry : n2104568281[55.1947548,30.2332942] n2104568285[55.1948069,30.2332824] n2104568286[55.1948167,30.2334151] n2104568283[55.1947646,30.2334269] n2104568281[55.1947548,30.2332942]
 w200468542
   other tags : building=kindergarten | building:levels=1
     geometry : n2104568266[55.1928752,30.2345814] n2104568263[55.1928728,30.2344542] n2104568268[55.1929904,30.2344474] n2104568269[55.1929928,30.2345746] n2104568266[55.1928752,30.2345814]
@@ -22789,6 +22786,9 @@ w337387858
 w337387859
   other tags : barrier=guard_rail
     geometry : n3444786460[55.1992908,30.2457021] n3444786457[55.1992832,30.2454645] n3444786443[55.1990609,30.2450288] n3444786444[55.1990741,30.2449859]
+w337394818  ТП-85 / null / ТП-85 / ТП-85
+  other tags : building=industrial | building:levels=1 | contact:phone=+375(212) 36-27-44 | contact:website=http://www.vitebsk.energo.by/ | location=indoor | operator=РУП «Витебскэнерго» | power=substation | rating=400 kVA | substation=converter
+    geometry : n3444892898[55.1971180,30.2455941] n3444892899[55.1971444,30.2456419] n3444892897[55.1971133,30.2456947] n3444892896[55.1970869,30.2456469] n3444892898[55.1971180,30.2455941]
 w337401164
   other tags : leisure=playground
     geometry : n3444901123[55.1991470,30.2462790] n3444901121[55.1991037,30.2462818] n3444901122[55.1991143,30.2467836] n3444901124[55.1991576,30.2467808] n3444901123[55.1991470,30.2462790]
