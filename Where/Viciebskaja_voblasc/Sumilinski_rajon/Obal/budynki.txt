@@ -515,7 +515,7 @@ w231945609
   other tags : addr:housenumber=8 | addr:street=улица Дружбы | building=yes | building:levels=1
     geometry : n2402668138[55.3504597,29.3043610] n2402668142[55.3505410,29.3045399] n2402668137[55.3503934,29.3047476] n2402668133[55.3503121,29.3045687] n2402668138[55.3504597,29.3043610]
 w231945611
-  other tags : addr:housenumber=28 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=28 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2402668253[55.3550394,29.2959159] n2402668255[55.3551286,29.2957661] n2402668257[55.3551999,29.2958977] n2402668254[55.3551107,29.2960474] n2402668253[55.3550394,29.2959159]
 w231945616
   other tags : building=yes | building:levels=1
@@ -626,7 +626,7 @@ w236840805
   other tags : addr:housenumber=20 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2448081148[55.3539623,29.2982623] n2448081140[55.3538444,29.2983851] n2448081144[55.3539146,29.2985934] n2448081153[55.3540324,29.2984706] n2448081148[55.3539623,29.2982623]
 w236840806
-  other tags : addr:housenumber=26 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=26 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2448081193[55.3549105,29.2966431] n2448081188[55.3547892,29.2965200] n2448081186[55.3546842,29.2968402] n2448081191[55.3548055,29.2969633] n2448081193[55.3549105,29.2966431]
 w236840807
   other tags : addr:housenumber=3 | addr:street=Комсомольская улица | building=yes | building:levels=1
@@ -650,7 +650,7 @@ w236840813
   other tags : addr:housenumber=22 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2448081180[55.3544455,29.2976429] n2448081177[55.3543672,29.2978412] n2448081174[55.3542699,29.2977224] n2448081175[55.3543482,29.2975241] n2448081180[55.3544455,29.2976429]
 w236840814
-  other tags : addr:housenumber=24 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=24 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2448081181[55.3544753,29.2971494] n2448081185[55.3545961,29.2973005] n2448081182[55.3545099,29.2975138] n2448081179[55.3543891,29.2973628] n2448081181[55.3544753,29.2971494]
 w236840815
   other tags : addr:housenumber=4 | addr:street=улица Азолиной | building=yes | building:levels=1
@@ -725,16 +725,16 @@ w252582924
   other tags : addr:housenumber=2 | building=yes | building:levels=1
     geometry : n2586334587[55.3519276,29.3017730] n2586334585[55.3517857,29.3017598] n2586334584[55.3517766,29.3020627] n2586334586[55.3519185,29.3020758] n2586334587[55.3519276,29.3017730]
 w252589616
-  other tags : addr:housenumber=17 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2586400451[55.3548604,29.2983611] n2586400453[55.3549245,29.2985268] n2586400452[55.3548535,29.2986118] n2586400450[55.3547894,29.2984462] n2586400451[55.3548604,29.2983611]
 w252589617
-  other tags : addr:housenumber=21 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2586400459[55.3557637,29.2971117] n2586400456[55.3556436,29.2968938] n2586400454[55.3555504,29.2970526] n2586400457[55.3556705,29.2972706] n2586400459[55.3557637,29.2971117]
 w252589618
-  other tags : addr:housenumber=23 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2586400465[55.3560447,29.2966410] n2586400462[55.3559103,29.2964291] n2586400460[55.3557987,29.2966481] n2586400463[55.3559330,29.2968600] n2586400465[55.3560447,29.2966410]
 w252589619
-  other tags : addr:housenumber=25 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2586400469[55.3561831,29.2961580] n2586400466[55.3560614,29.2960001] n2586400464[55.3559825,29.2961883] n2586400468[55.3561042,29.2963462] n2586400469[55.3561831,29.2961580]
 w252589620
   other tags : addr:housenumber=9 | addr:street=Комсомольская улица | building=yes | building:levels=1
@@ -749,7 +749,7 @@ w259344241
   other tags : building=yes | building:levels=1
     geometry : n2647412582[55.3491568,29.3016467] n2647412585[55.3492270,29.3016909] n2647412584[55.3491585,29.3020278] n2647412581[55.3490882,29.3019836] n2647412582[55.3491568,29.3016467]
 w264583309
-  other tags : addr:housenumber=19 | addr:street=Слышанкова | building=yes | building:levels=1
+  other tags : addr:housenumber=19 | addr:street=улица Слышанкова | building=yes | building:levels=1
     geometry : n2702451215[55.3553818,29.2974938] n2702451220[55.3554585,29.2976419] n2702451216[55.3553950,29.2977437] n2702451213[55.3553182,29.2975956] n2702451215[55.3553818,29.2974938]
 w264583310
   other tags : building=yes | building:levels=1
