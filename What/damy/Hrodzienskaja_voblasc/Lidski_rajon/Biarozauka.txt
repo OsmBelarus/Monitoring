@@ -746,7 +746,7 @@ w98357054
   other tags : addr:housenumber=16 | addr:street=Садовая улица | building=house
     geometry : n1137934653[53.7218027,25.4889833] n1137934874[53.7218828,25.4890510] n1137934433[53.7218428,25.4891864] n1137934047[53.7217626,25.4891188] n1137934653[53.7218027,25.4889833]
 w98357055
-  other tags : addr:housenumber=1 | addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=5 | addr:street=Садовая улица | building=house
     geometry : n1137935267[53.7217867,25.4883042] n1137934724[53.7217448,25.4884368] n1137934305[53.7216663,25.4883660] n1137934470[53.7217082,25.4882334] n1137935267[53.7217867,25.4883042]
 w98357056
   other tags : addr:housenumber=31 | addr:street=Красноармейская улица | building=house
@@ -770,7 +770,7 @@ w98357062
   other tags : addr:housenumber=7 | addr:street=Красноармейская улица | building=house
     geometry : n1137934286[53.7237049,25.4887314] n1137935408[53.7236783,25.4888744] n1137934794[53.7235936,25.4888294] n1137935257[53.7236202,25.4886864] n1137934286[53.7237049,25.4887314]
 w98357063
-  other tags : addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=3 | addr:street=Садовая улица | building=house
     geometry : n1137935150[53.7214375,25.4879650] n1137935440[53.7213956,25.4880977] n1137934821[53.7213171,25.4880269] n1137934396[53.7213590,25.4878942] n1137935150[53.7214375,25.4879650]
 w98357064
   other tags : addr:housenumber=14 | addr:street=Красноармейская улица | building=house
@@ -839,7 +839,7 @@ w98357089
   other tags : addr:housenumber=2 | addr:street=2-й Заводской переулок | building=house
     geometry : n1137934041[53.7222292,25.4927105] n1137935044[53.7222738,25.4928421] n1137934546[53.7221959,25.4929174] n1137934178[53.7221513,25.4927858] n1137934041[53.7222292,25.4927105]
 w98357090
-  other tags : addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=1А | addr:street=Садовая улица | building=house
     geometry : n1137934175[53.7209198,25.4876801] n1137934440[53.7208779,25.4878128] n1137934074[53.7207994,25.4877420] n1137935065[53.7208412,25.4876094] n1137934175[53.7209198,25.4876801]
 w98357091
   other tags : addr:housenumber=13 | addr:street=Садовая улица | building=house
@@ -863,7 +863,7 @@ w98357097
   other tags : addr:housenumber=13 | addr:street=Красноармейская улица | building=house
     geometry : n1137934863[53.7230803,25.4883933] n1137935323[53.7230461,25.4885308] n1137934764[53.7229647,25.4884729] n1137934338[53.7229990,25.4883354] n1137934863[53.7230803,25.4883933]
 w98357098
-  other tags : addr:housenumber=5 | addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=5А | addr:street=Садовая улица | building=house
     geometry : n1137934551[53.7222402,25.4887926] n1137934183[53.7221983,25.4889252] n1137935201[53.7221198,25.4888544] n1137934079[53.7221617,25.4887218] n1137934551[53.7222402,25.4887926]
 w98357099
   other tags : addr:housenumber=11 | addr:street=Садовая улица | building=house
@@ -878,7 +878,7 @@ w98357103
   other tags : addr:housenumber=1 | addr:street=Садовый переулок | building=house
     geometry : n1137933974[53.7231698,25.4901633] n1137934467[53.7232132,25.4903650] n1137934952[53.7231318,25.4903008] n1137933974[53.7231698,25.4901633]
 w98357105
-  other tags : addr:housenumber=3 | addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=5А | addr:street=Садовая улица | building=house
     geometry : n1137934460[53.7220355,25.4885416] n1137934800[53.7219936,25.4886742] n1137934378[53.7219151,25.4886034] n1137933975[53.7219570,25.4884708] n1137934460[53.7220355,25.4885416]
 w98357106
   other tags : addr:housenumber=18 | addr:street=Садовый переулок | building=house
@@ -926,7 +926,7 @@ w98357121
   other tags : addr:housenumber=2 | addr:street=Садовая улица | building=house
     geometry : n1137934816[53.7201838,25.4879942] n1137934380[53.7202639,25.4880619] n1137933978[53.7202238,25.4881973] n1137934212[53.7201437,25.4881296] n1137934816[53.7201838,25.4879942]
 w98357122
-  other tags : addr:street=Садовая улица | building=house
+  other tags : addr:housenumber=1 | addr:street=Садовая улица | building=house
     geometry : n1137934267[53.7211525,25.4878090] n1137935308[53.7211107,25.4879417] n1137934746[53.7210321,25.4878709] n1137935169[53.7210740,25.4877382] n1137934267[53.7211525,25.4878090]
 w98357123
   other tags : addr:housenumber=6 | addr:street=Садовый переулок | building=house
@@ -3449,7 +3449,7 @@ w99468221
   other tags : addr:housenumber=76 | addr:street=улица Маяковского | building=house
     geometry : n1150646251[53.7288056,25.4935576] n1150646164[53.7288362,25.4937039] n1150646055[53.7287497,25.4937556] n1150645964[53.7287191,25.4936093] n1150646251[53.7288056,25.4935576]
 w99468222
-  other tags : addr:housenumber=39 | addr:street=переулок Дзержинского | building=house
+  other tags : addr:housenumber=50 | addr:street=переулок Дзержинского | building=house
     geometry : n1150646166[53.7295917,25.4973018] n1150646058[53.7296158,25.4974479] n1150645738[53.7295293,25.4974886] n1150646166[53.7295917,25.4973018]
 w99468223
   other tags : addr:housenumber=9 | addr:street=Цветочная улица | building=house
@@ -3788,10 +3788,10 @@ w99478562
   other tags : addr:housenumber=54А | addr:street=улица Маяковского | building=house
     geometry : n1150750668[53.7292397,25.4992230] n1150749873[53.7292156,25.4993700] n1150749642[53.7291274,25.4993288] n1150749430[53.7291514,25.4991817] n1150750668[53.7292397,25.4992230]
 w99478563
-  other tags : building=house
+  other tags : addr:housenumber=48 | addr:street=1-й переулок Дзержинского | building=house
     geometry : n1150750364[53.7301492,25.4976643] n1150750171[53.7301509,25.4978169] n1150749983[53.7300594,25.4978197] n1150750360[53.7300576,25.4976672] n1150750364[53.7301492,25.4976643]
 w99478564
-  other tags : addr:street=улица Маяковского | building=house
+  other tags : addr:housenumber=57А | addr:street=1-й переулок Дзержинского | building=house
     geometry : n1150750662[53.7295038,25.4982711] n1150750457[53.7294645,25.4984085] n1150750300[53.7293821,25.4983412] n1150750112[53.7294213,25.4982038] n1150750662[53.7295038,25.4982711]
 w99478565
   other tags : building=house
@@ -3932,7 +3932,7 @@ w339882977
   other tags : addr:housenumber=30А | addr:street=улица Маяковского | building=house
     geometry : n3470915427[53.7284741,25.5055654] n3470915426[53.7284685,25.5057144] n3470915424[53.7283805,25.5057052] n3470915425[53.7283860,25.5055563] n3470915427[53.7284741,25.5055654]
 w339882978
-  other tags : addr:housenumber=35 | addr:street=переулок Дзержинского | building=house
+  other tags : addr:housenumber=28 | addr:street=переулок Дзержинского | building=house
     geometry : n3470915440[53.7289798,25.4984041] n3470915436[53.7288961,25.4984548] n3470915434[53.7288661,25.4983132] n3470915438[53.7289498,25.4982625] n3470915440[53.7289798,25.4984041]
 w339882979
   other tags : addr:housenumber=35 | addr:street=переулок Дзержинского | building=house
@@ -3943,3 +3943,6 @@ w339882980
 w339882981
   other tags : addr:housenumber=50 | addr:street=переулок Дзержинского | building=house
     geometry : n3470915443[53.7290707,25.4977828] n3470915441[53.7289870,25.4978335] n3470915439[53.7289570,25.4976919] n3470915442[53.7290407,25.4976412] n3470915443[53.7290707,25.4977828]
+w340046878
+  other tags : addr:housenumber=21 | addr:street=Молодёжная улица | building=house
+    geometry : n3472530839[53.7307102,25.4967245] n3472530840[53.7307268,25.4968771] n3472530838[53.7306366,25.4969052] n3472530837[53.7306200,25.4967525] n3472530839[53.7307102,25.4967245]
