@@ -1680,10 +1680,10 @@ n736210278
     geometry : [53.8467739,27.4697819]
 n737288368
   other tags : highway=crossing
-    geometry : [53.8716891,27.4764315]
+    geometry : [53.8716788,27.4764734]
 n737288370
   other tags : highway=crossing
-    geometry : [53.8719935,27.4762627]
+    geometry : [53.8719749,27.4763332]
 n737288382
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8810460,27.4860472]
@@ -1692,7 +1692,7 @@ n737288400
     geometry : [53.8813184,27.4851294]
 n737288407
   other tags : highway=crossing
-    geometry : [53.8720118,27.4760804]
+    geometry : [53.8720108,27.4761010]
 n737288412
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8773267,27.4801777]
@@ -1704,22 +1704,22 @@ n737288432
     geometry : [53.8808542,27.4853853]
 n737288434
   other tags : highway=crossing
-    geometry : [53.8716876,27.4754459]
+    geometry : [53.8717010,27.4754613]
 n737288442
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8809440,27.4851986]
 n737288444
   other tags : highway=crossing
-    geometry : [53.8718927,27.4755014]
+    geometry : [53.8718739,27.4754777]
 n737288451
   other tags : highway=crossing
-    geometry : [53.8715168,27.4757863]
+    geometry : [53.8715078,27.4758523]
 n737288457
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8772433,27.4803511]
 n737288472
   other tags : highway=crossing
-    geometry : [53.8715567,27.4755835]
+    geometry : [53.8715655,27.4756324]
 n737288504
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8809216,27.4858976]
@@ -1728,7 +1728,7 @@ n737288505
     geometry : [53.8776660,27.4806359]
 n737288508
   other tags : highway=crossing
-    geometry : [53.8718728,27.4764397]
+    geometry : [53.8718486,27.4764751]
 n737288523
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8775832,27.4808080]
@@ -1930,6 +1930,9 @@ n809991123
 n809991216
   other tags : highway=crossing
     geometry : [53.8655819,27.4698420]
+n809991296
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.8699297,27.4858010]
 n809994102
   other tags : highway=crossing
     geometry : [53.8600680,27.4638353]
@@ -2997,7 +3000,7 @@ n920202860
     geometry : [53.9035971,27.5584960]
 n929463318
   other tags : highway=crossing
-    geometry : [53.8719981,27.4764781]
+    geometry : [53.8719979,27.4765465]
 n933607147
   other tags : highway=crossing
     geometry : [53.8564037,27.4317922]
@@ -3378,7 +3381,7 @@ n1025528553
     geometry : [53.8589128,27.4437040]
 n1025601002
   other tags : highway=crossing
-    geometry : [53.8716051,27.4753445]
+    geometry : [53.8715757,27.4753716]
 n1025601035
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8738628,27.4667688]
@@ -4059,7 +4062,7 @@ n1243210183
     geometry : [53.9331624,27.5379228]
 n1243286971
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8717263,27.4816799]
+    geometry : [53.8717229,27.4816803]
 n1247376035
   other tags : bicycle=designated | crossing=traffic_signals | highway=crossing
     geometry : [53.9069973,27.5875407]
@@ -5055,7 +5058,7 @@ n1427247573
     geometry : [53.8657402,27.4786040]
 n1428560601
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8694199,27.4941913]
+    geometry : [53.8694300,27.4942163]
 n1432193322
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8906098,27.5426974]
@@ -7701,7 +7704,7 @@ n2136424515
     geometry : [53.8501191,27.4568723]
 n2140341275
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8656085,27.4962185]
+    geometry : [53.8656062,27.4962054]
 n2141581237
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8867401,27.4514015]
@@ -8169,13 +8172,13 @@ n2432875062
     geometry : [53.8844103,27.5511263]
 n2439959781
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8719113,27.4816495]
+    geometry : [53.8718983,27.4816509]
 n2439959787
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8720599,27.4856487]
+    geometry : [53.8720622,27.4856681]
 n2439959790
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8722323,27.4855946]
+    geometry : [53.8722279,27.4856124]
 n2450961215
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.8581848,27.6272662]
@@ -8352,25 +8355,25 @@ n2597504742
     geometry : [53.8883698,27.6562850]
 n2603529507
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8695271,27.4944621]
+    geometry : [53.8695176,27.4944768]
 n2605965490
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8698588,27.4860743]
 n2605965493
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8699990,27.4859781]
+    geometry : [53.8700019,27.4859478]
 n2605965519
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8698610,27.4859400]
+    geometry : [53.8698606,27.4859202]
 n2605999298
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8695051,27.4937519]
+    geometry : [53.8695401,27.4937185]
 n2605999299
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8699920,27.4947671]
 n2605999300
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8701526,27.4945721]
+    geometry : [53.8701344,27.4945882]
 n2605999302
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8696320,27.4936135]
@@ -8379,7 +8382,7 @@ n2605999303
     geometry : [53.8702284,27.4940988]
 n2605999304
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8701262,27.4937946]
+    geometry : [53.8701314,27.4938290]
 n2607670331
   other tags : highway=crossing
     geometry : [53.8747585,27.6261187]
@@ -9705,7 +9708,7 @@ n3472129855
     geometry : [53.8653341,27.4965643]
 n3472129873
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8655888,27.4960873]
+    geometry : [53.8655892,27.4960908]
 n3472133671
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8654004,27.4965258]
@@ -9717,10 +9720,19 @@ n3472194602
     geometry : [53.8721496,27.4866323]
 n3472197547
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8718652,27.4862860]
+    geometry : [53.8718659,27.4862860]
 n3472197549
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.8718673,27.4860872]
+    geometry : [53.8718655,27.4860872]
 n3472546047
   other tags : highway=crossing
     geometry : [53.8693942,27.4911030]
+n3473511893
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.8716727,27.4793360]
+n3473511895
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.8718590,27.4793242]
+n3473833373
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.8699555,27.4862238]
