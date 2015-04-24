@@ -107,7 +107,7 @@ n1103802339  null / null / Собрание
   other tags : amenity=cafe | internet_access=wlan
     geometry : [55.1915913,30.2026113]
 n1106635911  Бульбяная / null / Бульбяная / Бульбяная
-  other tags : amenity=restaurant | layer=-1 | opening_hours=Mo-Fr 09:00-21:00; Sa 10:00-21:00; Su 10:00-18:00
+  other tags : amenity=cafe | level=-1 | opening_hours=Mo-Fr 09:00-21:00; Sa 10:00-21:00; Su 10:00-18:00 | operator=ОАО «Витмил»
     geometry : [55.1923366,30.2059508]
 n1106651755  null / null / Тифлис
   other tags : amenity=cafe | cuisine=georgian | description=грузинская кухня | opening_hours=Mo-Su 11:00-23:00
@@ -127,8 +127,8 @@ n1139890646  Піцэрыя / null / Пиццерия / Пиццерия
 n1145306916  Любімы горад / null / Любимый город
   other tags : amenity=cafe
     geometry : [55.1993068,30.2065378]
-n1157361808  Гранд-кафэ / null / Гранд Кафе
-  other tags : amenity=restaurant | description=2-й наценочной категории | opening_hours=Mo-Su 11:00-24:00 | operator=ЧТУП "Элдмис-инвест" | phone=+375-212-360045 | smoking=no | website=http://www.grand-cafe.by/
+n1157361808  Чараўнік / null / Волшебник / Волшебник
+  other tags : amenity=cafe | opening_hours=Mo-Su 00:00-01:00,11:00-24:00; Fr,Sa 00:00-02:00,11:00-24:00
     geometry : [55.1929858,30.2047680]
 n1158124773  Markfill / null / Markfill
   other tags : addr:housenumber=8 | addr:street=Московский проспект | amenity=fast_food | contact:email=arena-pizza@mail.ru | contact:phone=+375-212-482020 | contact:website=http://www.arena-pizza.by/ | internet_access=no | internet_access:fee=no | opening_hours=10:00-22:00 | smoking=no

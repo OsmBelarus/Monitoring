@@ -302,13 +302,13 @@ n1104893618  Крама Бытхім / null / магазин Бытхим
     geometry : [55.1617239,30.2105509]
 n1104895786  Сфера / null / Сфера
   other tags : shop=hardware
-    geometry : [55.1934140,30.2260254]
+    geometry : [55.1934174,30.2259864]
 n1105532603  Планар сэрвіс / null / Планар Сервис
   other tags : craft=electronics_repair | electronics_repair:computer=yes | electronics_repair:phone=yes | electronics_repair:photo=yes | electronics_repair:tv=yes | electronics_repair:video=yes | email=planarservice@gmail.com | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | phone=+375-212-272182, +375-25-9347298, +375-29-2138417 | shop=electronics
     geometry : [55.1706656,30.1975957]
 n1106646692  Ніка-9 / null / Ника-9 / Ника-9
   other tags : contact:email=roznica@nica.by | contact:website=http://www.nika.by/?q=19 | opening_hours=Mo-Su 08:00-23:00 | operator=ОАО «Ника» | shop=convenience
-    geometry : [55.1934974,30.2240110]
+    geometry : [55.1935041,30.2239816]
 n1106651785  Штопар / null / Штопор
   other tags : description=винный магазин «Штопор» | shop=alcohol
     geometry : [55.1954856,30.2307919]
@@ -525,7 +525,7 @@ n1159484266  Свет касметыкі / null / Мир косметики
     geometry : [55.1941365,30.2293378]
 n1159484277  Дэльфа / null / Дельфа
   other tags : opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00 | shop=fabric
-    geometry : [55.1934366,30.2262613]
+    geometry : [55.1934400,30.2262223]
 n1160958055  Бытхім / null / Бытхим
   other tags : shop=chemist
     geometry : [55.1774076,30.2277496]
@@ -851,7 +851,7 @@ n1310955770  Помнікі / null / Памятники
     geometry : [55.1928365,30.2263470]
 n1312334895  Аўтафлортур / null / Автофлоттур
   other tags : office=travel_agent | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00 | shop=travel_agency
-    geometry : [55.1933980,30.2258591]
+    geometry : [55.1934014,30.2258201]
 n1312334896  Альянс-Тур / null / Альянс-Тур
   other tags : opening_hours=Mo-Fr 09:00-19:00; Su 10:00-15:00 | shop=travel_agency
     geometry : [55.1928988,30.2147872]
@@ -1167,7 +1167,7 @@ n1405150634  null / null / Горячие туры
     geometry : [55.1937230,30.2263043]
 n1405150644  Кот і пёс / null / Кот и Пёс
   other tags : shop=pet
-    geometry : [55.1935706,30.2246810]
+    geometry : [55.1935772,30.2246351]
 n1405150645  Сэрвіс-плюс / null / Сервис плюс
   other tags : shop=furniture
     geometry : [55.1938582,30.2251532]
@@ -1901,7 +1901,7 @@ n2392254915  null / null / Кованные изделия
   other tags : shop=doityourself
     geometry : [55.1797581,30.2153773]
 n2397706845
-  other tags : shop=convenience
+  other tags : fixme=непонятный магазин | shop=convenience
     geometry : [55.1936434,30.2254516]
 n2397706846  null / null / Викинг
   other tags : addr:street=проспект Фрунзе | shop=travel_agency
@@ -1974,10 +1974,10 @@ n2406468914  ВелаСэрвіс / null / ВелоСервис
     geometry : [55.1813332,30.2216611]
 n2407733001  null / null / Медицинская книга
   other tags : shop=books
-    geometry : [55.1936059,30.2245240]
+    geometry : [55.1936125,30.2244781]
 n2407733002  null / null / Одежда
   other tags : shop=clothes
-    geometry : [55.1935848,30.2248235]
+    geometry : [55.1935914,30.2247776]
 n2408615173
   other tags : shop=kiosk
     geometry : [55.2257602,30.1156401]
@@ -2510,7 +2510,7 @@ n2757731995  null / null / ЧТПУП "Постформ"
   other tags : addr:housenumber=161Б | addr:street=Ленинградская улица | contact:email=postform@list.ru | contact:phone=+375-212-353100, +375-29-7102409, +375-29-3434536 | contact:website=http://www.postform.biz/ | opening_hours=Mo-Fr 09:00-17:00 | shop=furniture
     geometry : [55.2068566,30.1541100]
 n2769172884  null / null / Быстрые займы
-  other tags : office=accountant | shop=money_lender
+  other tags : fixme=проверить наличие | shop=money_lender
     geometry : [55.1932805,30.2215975]
 n2769172885  null / null / Двери Стройматериалы
   other tags : shop=doityourself
@@ -3007,8 +3007,7 @@ n2988927036  null / null / Жара
 n2991612674  null / null / Палас
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 11:00-17:00 | operator=ООО «Эрнис» | phone=+375 (212) 359 656 | shop=doityourself | website=http://www.palas.by/
     geometry : [55.1930321,30.2042868]
-n2991612675  Планета здароўя / null / Планета Здоровья / Планета Здоров`я
-  other names: name:uk=Планета Здоровья
+n2991612675  Планета здароўя / null / Планета Здоровья / Планета Здоровья
   other tags : official_name=Косметический магазин № 1 | opening_hours=Mo-Sa 09:00-22:15; Su 10:00-22:00 | operator=ОДО «Фарм-Продукт» | shop=cosmetics
     geometry : [55.1929487,30.2051540]
 n2991612676  null / null / Цветы
@@ -3164,7 +3163,7 @@ n3107069930  null / null / Санвади
     geometry : [55.1815332,30.2022894]
 n3107201697  null / null / Срочное фото
   other tags : craft=photographer | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-16:00 | operator=ЧТПУП «Фото-плюс-сервис» | shop=copyshop
-    geometry : [55.1933788,30.2256593]
+    geometry : [55.1933822,30.2256203]
 n3110116890  null / null / Арка
   other tags : opening_hours=Mo-Su 10:00-20:00 | operator=ЧТУП «Евро АГИС» | shop=convenience
     geometry : [55.1758887,30.2388606]
@@ -3293,8 +3292,8 @@ n3330610659  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [55.1911875,30.2030963]
 n3330615193  null / null / Глобус
-  other tags : shop=books
-    geometry : [55.1924386,30.2056806]
+  other tags : contact:phone=+375 (212) 36-28-11 | description=книги, канцтовары | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00 | operator=ОАО «Витебсккнига» | ref=15 | shop=books
+    geometry : [55.1924572,30.2057445]
 n3330619105  null / null / Ровесник
   other tags : shop=books
     geometry : [55.1783657,30.2302071]
@@ -3320,8 +3319,8 @@ n3373140968  null / null / Ремонт легковых авто и микро�
   other tags : description=Ремонт подвески, трансмиссии, автоэлектрика, ремонт глушителей, развал-схождение | fax=+375-212-487343 | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off | phone=+375-29-7179317, +375-25-6013290, +375-212-487343 | shop=car_repair
     geometry : [55.1736109,30.2528949]
 n3374718762  Еўрасець / null / Евросеть
-  other tags : addr:housenumber=28 | addr:street=улица Ленина | operator=Евросеть | shop=mobile_phone
-    geometry : [55.1920052,30.2058602]
+  other tags : operator=Евросеть | shop=mobile_phone
+    geometry : [55.1920037,30.2058712]
 n3399988362  null / null / АМИ мебель
   other tags : addr:housenumber=20 | addr:street=Московский проспект | opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | phone=+375-33-3706654, +375-29-6451892 | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1812698,30.2129423]

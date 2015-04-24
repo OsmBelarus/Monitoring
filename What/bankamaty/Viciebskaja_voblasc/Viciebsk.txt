@@ -52,7 +52,7 @@ n336084596
 n349217160  ATM Белаграпрамбанк / null / null
   other tags : amenity=atm | operator=Белагропромбанк
     geometry : [55.1947059,30.2056163]
-n415939253  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
+n415939253  ATM БелВЭБ / ATM BielVEB / ATM БелВЭБ / ATM БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1929512,30.2051276]
 n456909148  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
@@ -175,9 +175,9 @@ n1160881264  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
 n1161855849  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 46 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1818532,30.2061015]
-n1170882797  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
-  other tags : amenity=atm | operator=Банк Москва-Минск
-    geometry : [55.1933237,30.2250955]
+n1170882797  ATM Банк Масква-Мінск / ATM Bank Maskva-Minsk / ATM Банк Москва-Минск / ATM Банк Москва-Минск
+  other tags : amenity=atm | opening_hours=24/7 | operator=Банк Москва-Минск
+    geometry : [55.1933108,30.2250942]
 n1185766531  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 11 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.2299413,30.2668849]
@@ -325,7 +325,7 @@ n2360392579  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
 n2378164774
   other tags : amenity=atm
     geometry : [55.1960790,30.1895824]
-n2408226590  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
+n2408226590  ATM Беларусбанк / ATM Bielarusbank / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1924438,30.2058833]
 n2412396633  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк

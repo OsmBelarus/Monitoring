@@ -49,9 +49,6 @@ n1094894117  Беларусбанк / null / null / Беларусбанк
 n1100239988  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=12 | addr:street=проспект Строителей | amenity=bank
     geometry : [55.1712125,30.2228758]
-n1106646685  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-17:00
-    geometry : [55.1933068,30.2250049]
 n1115011573  Белінвестбанк / null / null / Белинвестбанк
   other tags : amenity=bank | operator=Белинвестбанк
     geometry : [55.1729320,30.1515010]
@@ -272,6 +269,9 @@ w185274773  null / null / Банк, магазин / Банк, магазин
 w202911899  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=7 | addr:street=улица Берестеня | amenity=bank | branch=Отделение № 200/84 | building=yes | building:levels=1 | contact:phone=+375212261325 | contact:website=http://belarusbank.by/ | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00 | operator=Беларусбанк
     geometry : n2128592447[55.1980455,30.2396848] n2128592448[55.1981011,30.2395974] n2128592450[55.1981879,30.2397670] n2128592449[55.1981702,30.2397948] n2128592446[55.1980036,30.2400564] n2128592445[55.1979896,30.2400291] n1553541909[55.1979735,30.2399976] n1553541912[55.1980601,30.2398630] n1553541911[55.1980492,30.2398414] n306311545[55.1980915,30.2397757] n2128592447[55.1980455,30.2396848]
+w266988189  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
+  other tags : amenity=bank | building:levels=3 | building:part=yes | opening_hours=Mo-Fr 09:00-17:00
+    geometry : n877482002[55.1932264,30.2249690] n877482035[55.1932137,30.2248496] n306313222[55.1932742,30.2248297] n1106646685[55.1932930,30.2250050] n1310955804[55.1932948,30.2250220] n1481224164[55.1932998,30.2250693] n1481224166[55.1933078,30.2250667] n1170882797[55.1933108,30.2250942] n1481224167[55.1933146,30.2251297] n1481224165[55.1933069,30.2251323] n306313221[55.1933109,30.2251699] n877481989[55.1932501,30.2251899] n877481947[55.1932445,30.2251382] n877482002[55.1932264,30.2249690]
 w278275842  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other names: name:en=Belvnesheconombank (Bank BelVEB)
   other tags : addr:housenumber=11 | addr:postcode=210602 | addr:street=улица Ленина | amenity=bank | building=yes | building:levels=3 | email=vitebsk@bveb.minsk.by | official_name=Витебское региональное отделение «Банк «БелВЭБ» | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00 | phone=+375212493000, +375212493060, +375212493030 | source=http://www.bveb.by/about/press-centre/news/741.html | website=http://www.bveb.by/
