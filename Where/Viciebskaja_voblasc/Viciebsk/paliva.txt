@@ -85,9 +85,6 @@ n1251041811  null / null / Белоруснефть №7
 n1396780928  ІП Белгазпраект / null / ИП БелГазПроект
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [55.1551524,30.2448845]
-n1791286525  null / null / Белоруснефть №2
-  other tags : addr:street=улица Воинов-Интернационалистов | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:10-19:00,19:20-24:00,00:20-07:00 | operator=Белоруснефть | phone=+375-212-287281 | website=http://www.belorusneft.by/
-    geometry : [55.1662644,30.1988945]
 n1803875354  Блок / null / Блок
   other tags : amenity=fuel | brand=Блок | fuel:diesel=yes | fuel:lpg=no | fuel:octane_92=yes | fuel:octane_95=yes | phone=+375-212-488970 | website=http://blokoil.by/
     geometry : [55.1821512,30.2479573]
@@ -97,6 +94,9 @@ n2077911509  null / null / Белоруснефть № 68
 n2077911515  null / null / Белоруснефть № 68
   other tags : amenity=fuel | fuel:lpg=yes | official_name=Белоруснефть МАЗС № 68 | opening_hours=Mo-Su 08:00-20:00 | operator=Белоруснефть | phone=+375-212-292516 | website=http://www.belorusneft.by/
     geometry : [55.2900098,30.3237413]
+w74486814  null / null / Белоруснефть №2
+  other tags : addr:street=улица Воинов-Интернационалистов | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:10-19:00,19:20-24:00,00:20-07:00 | operator=Белоруснефть | phone=+375-212-287281 | website=http://www.belorusneft.by/
+    geometry : n880407056[55.1661312,30.1988611] n1791286510[55.1661408,30.1988886] n1543818853[55.1661476,30.1989080] n1791286512[55.1661682,30.1989668] n880407067[55.1661716,30.1989762] n880407058[55.1660812,30.1990734] n880407059[55.1660408,30.1989583] n880407056[55.1661312,30.1988611]
 w74659015  null / null / Лукойл № 34
   other tags : addr:housenumber=57А | addr:street=Московский проспект | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | phone=+375-212-214000 | website=http://www.lukoil.by/
     geometry : n881802414[55.1749131,30.2499439] n881802411[55.1748903,30.2501094] n1786529839[55.1748651,30.2500988] n1786529837[55.1748015,30.2500719] n2460079079[55.1747888,30.2500665] n340016348[55.1747779,30.2500619] n881802399[55.1748008,30.2498963] n881802414[55.1749131,30.2499439]
