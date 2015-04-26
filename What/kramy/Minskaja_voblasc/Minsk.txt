@@ -2199,9 +2199,6 @@ n493144000  null / null / Салон-магазин "Атлант"
 n493180143  null / null / Stroyremont / Стройремонт
   other tags : addr:housename=Стройремонт | addr:housenumber=22 к1 | addr:postcode=220015 | addr:street=улица Болеслава Берута | operator=Radaxis LLC | shop=doityourself | website=http://www.radaxis.by/
     geometry : [53.9003815,27.5053182]
-n496820255
-  other tags : shop=mall
-    geometry : [53.8718137,27.5688401]
 n496989928  СТА / null / СТО / СТО
   other tags : shop=car_repair
     geometry : [53.9380881,27.5786824]
@@ -7117,11 +7114,11 @@ n2620202421  null / null / Все для рукоделия
   other tags : shop=yes
     geometry : [53.8703139,27.5662481]
 n2620202422  null / null / Рублёвский
-  other tags : addr:street=улица Маяковского | shop=yes
-    geometry : [53.8717565,27.5687385]
-n2620202423  null / null / Пятый Элемент
-  other tags : shop=yes
-    geometry : [53.8717059,27.5689531]
+  other tags : addr:street=улица Маяковского | shop=supermarket
+    geometry : [53.8716664,27.5687637]
+n2620202423  null / null / Пятый элемент
+  other tags : shop=electronics | website=http://5element.by/
+    geometry : [53.8717059,27.5688964]
 n2620202426  null / null / Семена
   other tags : shop=yes
     geometry : [53.8597107,27.5688351]
@@ -8348,7 +8345,7 @@ n3142276056  null / null / Магазин одежды "Элема"
 n3142287579  null / null / Гастроном
   other tags : operator="Особый" | shop=convenience
     geometry : [53.8791007,27.5676480]
-n3142291822  null / null / «Эконом-сити»
+n3142291822  null / null / Эконом-сити
   other tags : shop=second_hand
     geometry : [53.8718726,27.5684223]
 n3142303756  null / null / Обувь
