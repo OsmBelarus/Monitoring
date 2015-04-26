@@ -268,13 +268,13 @@ n1820607793  null / null / У Ганны
     geometry : [55.1727804,30.2633268]
 n1835088502  null / null / Столовая ВГТУ
   other tags : amenity=fast_food
-    geometry : [55.1782499,30.2334635]
+    geometry : [55.1782528,30.2334134]
 n1902072542  null / null / Граф Суворов
   other tags : amenity=cafe
     geometry : [55.1983691,30.2041601]
 n2022627382
   other tags : amenity=cafe
-    geometry : [55.1891972,30.2507487]
+    geometry : [55.1892031,30.2507018]
 n2044544977
   other tags : amenity=cafe
     geometry : [55.1888478,30.2589108]
@@ -377,9 +377,9 @@ n3097158999  null / null / рюмочная
 n3097159554  null / null / Пельменная
   other tags : amenity=cafe
     geometry : [55.2037708,30.2111585]
-n3097243848  null / null / рюмочная
-  other tags : amenity=pub
-    geometry : [55.1720176,30.2418703]
+n3097243848  null / null / Кафетерий
+  other tags : amenity=fast_food | description=спиртное в продаже | opening_hours=Mo-Sa 08:00-21:00; Su 08:00-19:00 | operator=ОАО «Веста»
+    geometry : [55.1720026,30.2417048]
 n3097245823  null / null / рюмочная
   other tags : amenity=pub
     geometry : [55.1653263,30.2210278]

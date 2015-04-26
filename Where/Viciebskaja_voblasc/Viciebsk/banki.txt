@@ -94,7 +94,7 @@ n1276813864  Белінвестбанк / Bielinviestbank / Белинвестб
     geometry : [55.2028984,30.2191301]
 n1281494854  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=bank | operator=Белгазпромбанк | phone=+375212474042 | website=http://www.belgazprombank.by/
-    geometry : [55.1784052,30.2332054]
+    geometry : [55.1784081,30.2331553]
 n1305904621  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=Отделение №200/179 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:30; Su 09:00-15:00
     geometry : [55.1762334,30.2375957]
@@ -218,6 +218,9 @@ n3129492583  Белінвестбанк / Bielinviestbank / Белинвестб
 n3377777370  null / null / Паритетбанк
   other tags : amenity=bank
     geometry : [55.1787609,30.2105358]
+n3476745773  Беларусбанк / null / Беларусбанк / Беларусбанк
+  other tags : amenity=bank | branch=№ 200/93 | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | official_name=Филиал № 200/93 ОАО «АСБ Беларусбанк» | opening_hours=Mo-Fr 09:00-14:00,15:00-19:00 | operator=ОАО «АСБ Беларусбанк»
+    geometry : [55.1719119,30.2364484]
 w27898590  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=4 | addr:street=улица Пушкина | amenity=bank | atm=no | building=yes | building:levels=2
     geometry : n306306277[55.1940193,30.2036017] n306306273[55.1939031,30.2035058] n2923535241[55.1939302,30.2034050] n306306275[55.1939564,30.2033076] n306306285[55.1940726,30.2034036] n306306277[55.1940193,30.2036017]

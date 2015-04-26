@@ -138,7 +138,7 @@ n867406991  null / null / ATM / ATM
     geometry : [55.1862621,30.2303352]
 n867407020  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | operator=Белгазпромбанк
-    geometry : [55.1782559,30.2334187]
+    geometry : [55.1782588,30.2333686]
 n905861022  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1816002,30.2052807]
@@ -436,3 +436,6 @@ n3158161289  null / null / Инфокиоск / Инфокиоск
 n3199553600
   other tags : amenity=atm | opening_hours=24/7
     geometry : [55.1699799,30.2237127]
+n3476745771  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк»
+    geometry : [55.1719250,30.2363516]
