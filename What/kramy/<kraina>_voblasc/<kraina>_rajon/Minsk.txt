@@ -4219,7 +4219,7 @@ n1443476168  null / null / Маркет плюс
     geometry : [53.8590668,27.5910089]
 n1443476470
   other tags : shop=convenience
-    geometry : [53.8629639,27.5890382]
+    geometry : [53.8629803,27.5890775]
 n1443489772  null / null / Латвело / Латвело
   other tags : service:bicycle:repair=yes | shop=bicycle
     geometry : [53.8700324,27.6028489]
@@ -11029,3 +11029,6 @@ n3472801693
 n3476030429  null / null / Автомойка
   other tags : amenity=car_wash | shop=car
     geometry : [53.9350251,27.4296564]
+n3476103668
+  other tags : shop=hairdresser
+    geometry : [53.8629094,27.5886600]
