@@ -7348,10 +7348,10 @@ n2623731358  null / null / Детская одежда Буслик
   other tags : addr:city=Минск | addr:housenumber=36 | addr:street=улица Сергея Есенина | shop=yes
     geometry : [53.8513596,27.4541432]
 n2623731367  null / null / Second hand
-  other tags : addr:housenumber=23 к1 | addr:street=улица Сергея Есенина | shop=clothes
+  other tags : addr:housenumber=23 к1 | addr:street=улица Сергея Есенина | shop=second_hand
     geometry : [53.8507687,27.4529450]
 n2623731368  null / null / Магазин обуви
-  other tags : shop=clothes
+  other tags : shop=shoes
     geometry : [53.8520945,27.4493890]
 n2623878802  null / null / Second hand
   other tags : shop=yes
@@ -8064,7 +8064,7 @@ n3056778924
     geometry : [53.8645105,27.4698880]
 n3059871128
   other tags : shop=hairdresser
-    geometry : [53.8484433,27.4580427]
+    geometry : [53.8484873,27.4580582]
 n3066649289  Прадукты.ТУТ / null / Продукты.ТУТ / Продукты.ТУТ
   other tags : opening_hours=Mo-Sa 09:00-21:00 | shop=convenience
     geometry : [53.9277419,27.6982539]
@@ -10188,7 +10188,7 @@ n3270566382  null / null / ЛИЛИТА
   other tags : opening_hours=пн. — сб.: 08:00 — 21:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
     geometry : [53.8870272,27.4370653]
 n3272451276
-  other tags : shop=supermarket
+  other tags : shop=convenience
     geometry : [53.8482227,27.4565748]
 n3272512522  null / null / Продукты
   other tags : opening_hours=8:00-22:00 | shop=convenience
