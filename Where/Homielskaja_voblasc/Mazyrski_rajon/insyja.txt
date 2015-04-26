@@ -151,6 +151,9 @@ n2387956408
 n2387956474
   other tags : man_made=chimney
     geometry : [51.9047350,29.3134667]
+n2387956875
+  other tags : barrier=entrance
+    geometry : [51.9191677,29.3161956]
 n2387957185
   other tags : location=outdoor | power=transformer
     geometry : [51.9612674,29.4014700]
@@ -2330,8 +2333,8 @@ w229935911
 w230272988
   other tags : landuse=industrial | man_made=pumping_station
     geometry : n2387957203[51.9647898,29.4025920] n2387957199[51.9634123,29.4013513] n2387957196[51.9623944,29.4041859] n2387957201[51.9639160,29.4055014] n2387957203[51.9647898,29.4025920]
-w230273027  null / null / Исправительная колония №20
-  other tags : craft=insulation | fence_type=barbed_wire
+w230273027  Папраўчая калонія № 20 / null / Исправительная колония № 20 / Исправительная колония № 20
+  other tags : amenity=prison | barrier=wall | craft=insulation | fence_type=barbed_wire
     geometry : n2387956838[51.9167564,29.3162706] n2387956890[51.9195440,29.3103857] n2387956930[51.9217867,29.3127771] n2387956909[51.9202475,29.3166956] n2387956885[51.9193853,29.3158909] n2387956880[51.9192370,29.3162728] n2387956875[51.9191677,29.3161956] n2387956873[51.9191373,29.3161616] n2387956864[51.9187608,29.3170921] n2387956838[51.9167564,29.3162706]
 w230273030
   other tags : railway=rail | service=spur | usage=industrial
