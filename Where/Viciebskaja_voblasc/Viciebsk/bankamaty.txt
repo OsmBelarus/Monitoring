@@ -154,9 +154,9 @@ n1093528821  ATM Белінвестбанк / ATM Bielinviestbank / ATM Бели
 n1094960606  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 36 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1998547,30.2402418]
-n1100240011  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm | operator=Беларусбанк
-    geometry : [55.1712947,30.2228898]
+n1100240011  ATM Беларусбанк / ATM Bielarusbank / ATM Беларусбанк / ATM Беларусбанк
+  other tags : amenity=atm | operator=ОАО «АСБ Беларусбанк»
+    geometry : [55.1712947,30.2228487]
 n1100240026  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [55.1702278,30.2222562]
@@ -231,10 +231,10 @@ n1539188624  ATM Прыёрбанк / ATM Pryjorbank / ATM Приорбанк / 
     geometry : [55.1938717,30.2323450]
 n1596289625
   other tags : amenity=atm | operator=Приорбанк
-    geometry : [55.1711921,30.2142220]
+    geometry : [55.1711989,30.2141825]
 n1627082018  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=atm
-    geometry : [55.1710631,30.2148409]
+    geometry : [55.1710679,30.2148074]
 n1632327308  null / null / ATM Приорбанк / ATM Приорбанк
   other tags : amenity=atm | operator=Приорбанк
     geometry : [55.1606283,30.2167546]

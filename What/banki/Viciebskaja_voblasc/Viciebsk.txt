@@ -47,8 +47,8 @@ n1094894117  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | branch=Отделение №200/192 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off | operator=Беларусбанк
     geometry : [55.1609171,30.2095164]
 n1100239988  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:housenumber=12 | addr:street=проспект Строителей | amenity=bank
-    geometry : [55.1712125,30.2228758]
+  other tags : amenity=bank | operator=ОАО «АСБ Беларусбанк»
+    geometry : [55.1712125,30.2228347]
 n1115011573  Белінвестбанк / null / null / Белинвестбанк
   other tags : amenity=bank | operator=Белинвестбанк
     geometry : [55.1729320,30.1515010]
@@ -82,7 +82,7 @@ n1147998402  Цептар Банк / Cieptar Bank / Цептер Банк / Це
     geometry : [55.1804000,30.2018789]
 n1229699013  Белаграпрамбанк, РКЦ №3 / Bielahraprambank, RKC №3 / Белагропромбанк, РКЦ №3 / Белагропромбанк, РКЦ №3
   other tags : amenity=bank | opening_hours=Mo-Fr 09:15-19:00; Sa 09:15-13:00,13:30-16:00
-    geometry : [55.1711585,30.2220325]
+    geometry : [55.1711585,30.2219914]
 n1229699061  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : alt_name=РКЦ № 9 | amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00 | website=http://www.belapb.by/
     geometry : [55.1785947,30.2233038]
@@ -139,7 +139,7 @@ n1599889112  Беларускі Народны Банк / Bielaruski Narodny Ban
     geometry : [55.1949214,30.2047620]
 n1627082017  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=bank | atm=yes | official_name=Приорбанк ЦБУ 200/5 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00 | phone=+375(212) 27-27-03, +375(212) 27-27-04 | website=http://www.priorbank.by/
-    geometry : [55.1709213,30.2155273]
+    geometry : [55.1709261,30.2154938]
 n1697811624  null / null / Белинвестбанк Прк 18 / Белинвестбанк Прк 18
   other tags : amenity=bank | atm=no | note=на ремотне
     geometry : [55.1991099,30.1808713]
