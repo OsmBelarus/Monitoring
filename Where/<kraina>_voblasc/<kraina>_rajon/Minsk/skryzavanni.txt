@@ -237,7 +237,7 @@ n275051117
     geometry : [53.9453455,27.6650259]
 n275051858
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9420810,27.6520942]
+    geometry : [53.9420538,27.6520731]
 n275052234
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8967067,27.6503941]
@@ -1107,7 +1107,7 @@ n431528300
     geometry : [53.9524145,27.6821019]
 n431528347
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9397915,27.6541519]
+    geometry : [53.9398187,27.6542010]
 n431528373
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9274515,27.6498258]
@@ -1119,7 +1119,7 @@ n431528449
     geometry : [53.9020065,27.6650474]
 n431528478
   other tags : highway=crossing
-    geometry : [53.9368151,27.6549612]
+    geometry : [53.9368205,27.6549570]
 n439822014
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8738094,27.4662161]
@@ -5607,7 +5607,7 @@ n1579928677
     geometry : [53.9145372,27.5806357]
 n1580010934
   other tags : highway=crossing
-    geometry : [53.9419573,27.6490027]
+    geometry : [53.9419474,27.6490027]
 n1581220933
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9295355,27.5208036]
@@ -6552,10 +6552,10 @@ n1670177423
     geometry : [53.9519742,27.5963598]
 n1670210205
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9396929,27.6539609]
+    geometry : [53.9396364,27.6539644]
 n1670210208
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9398575,27.6539162]
+    geometry : [53.9399513,27.6538824]
 n1670606696
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [53.9047883,27.4414100]
@@ -9760,3 +9760,9 @@ n3476022444
 n3476173722
   other tags : highway=crossing
     geometry : [53.9271645,27.6852316]
+n3480849836
+  other tags : highway=crossing
+    geometry : [53.9423721,27.6521917]
+n3480849838
+  other tags : highway=crossing
+    geometry : [53.9424698,27.6520785]
