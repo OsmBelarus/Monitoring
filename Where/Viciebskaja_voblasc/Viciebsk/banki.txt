@@ -116,11 +116,11 @@ n1357426388  Трастбанк / null / null
 n1386653824  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : addr:street=проспект Фрунзе | amenity=bank | operator=Банк ВТБ Беларусь
     geometry : [55.1924621,30.2114874]
-n1411586364  Белінвестбанк / null / null / Белинвестбанк
-  other tags : amenity=bank | operator=Белинвестбанк
+n1411586364  Белінвестбанк / null / Белинвестбанк / Белинвестбанк
+  other tags : amenity=bank | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1938264,30.1913767]
-n1411586407  Сомбелбанк / null / null
-  other tags : amenity=bank | operator=Сомбелбанк
+n1411586407  Idea Bank / null / Idea Bank / Idea Bank
+  other tags : amenity=bank | contact:phone=+375(29) 500-53-36, +375(29) 644-00-24 | contact:website=https://ideabank.by/ | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00 | operator=ЗАО «Идея Банк» | short_name=ЦБУ № 20
     geometry : [55.1937885,30.1916535]
 n1440262018  Белаграпрамбанк, РКЦ №7 / Bielahraprambank, RKC №7 / Белагропромбанк, РКЦ №7 / Белагропромбанк, РКЦ №7
   other tags : amenity=bank | opening_hours=Mo-Fr 09:00-12:00, 12:30-19:00; Sa 09:00-16:00 | operator=Белагропромбанк
