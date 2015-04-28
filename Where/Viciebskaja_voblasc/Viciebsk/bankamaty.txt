@@ -256,8 +256,8 @@ n1712357499  Белінвестбанк / Bielinviestbank / Белинвестб
 n1734264968
   other tags : amenity=atm | operator=Приорбанк
     geometry : [55.1625632,30.2140053]
-n1767615381  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 35 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+n1767615381  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | currency:EUR=yes | currency:USD=yes | currency:others=no | language:be=yes | language:others=no | language:ru=yes | official_name=Банкомат № 35 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.2042685,30.2119313]
 n1767615390  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
