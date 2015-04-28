@@ -90,7 +90,7 @@ n429379290  Абласная бальніца / null / Областная бол
     geometry : [53.6958588,23.7944971]
 n431330918  вуліца Карбышава / vulica Karbyšava / улица Карбышева / улица Карбышева
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=no
-    geometry : [53.6790109,23.8419460]
+    geometry : [53.6792022,23.8422334]
 n431335367  Чыгуначны вакзал / null / Железнодорожный вокзал / Железнодорожный вокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6869997,23.8474969]
@@ -1147,6 +1147,9 @@ n2567084046  null / null / Механический завод
 n2567086814
   other tags : highway=bus_stop
     geometry : [53.6804102,23.8957031]
+n2574266485  вуліца Будзёнага / vulica Budzionaha / улица Будённого / улица Будённого
+  other tags : bus=yes | highway=bus_stop | shelter=yes
+    geometry : [53.6830358,23.8451358]
 n2630823976  вуліца Кабяка – 2 / null / улица Кабяка – 2 / улица Кабяка – 2
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6449459,23.8585625]
