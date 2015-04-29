@@ -363,7 +363,7 @@ n305681824  Біблас / null / Библос / Библос
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9036866,27.5584111]
 n305681829  null / null / Театро / Театро
-  other tags : amenity=cafe | cuisine=pizza
+  other tags : amenity=cafe | cuisine=pizza | internet_access=wlan
     geometry : [53.9119300,27.5604100]
 n305681878  Піцэрыя / null / Пиццерия / Пиццерия
   other tags : amenity=cafe | cuisine=pizza
@@ -1166,7 +1166,7 @@ n1313533334  Харчэўня / null / null
   other tags : amenity=restaurant | fixme:komzpa=добавить русское имя | microbrewery=yes | opening_hours=Mo-Su 12:00-23:00
     geometry : [53.8681258,27.5997498]
 n1336520143  null / null / Salad Drive
-  other tags : amenity=cafe | cuisine=ice_cream | takeaway=yes | terrace=yes
+  other tags : amenity=cafe | cuisine=ice_cream | internet_access=wlan | takeaway=yes | terrace=yes
     geometry : [53.9382527,27.4791111]
 n1352208247  Кафэтэрый / null / Кафетерий / Кафетерий
   other tags : addr:city=Минск | amenity=cafe
