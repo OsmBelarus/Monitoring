@@ -105,7 +105,7 @@ n344983340
     geometry : [55.1942484,30.1876354]
 n344983350
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1942815,30.1880028]
+    geometry : [55.1942789,30.1879730]
 n344983358
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
     geometry : [55.1944250,30.1882164]
@@ -306,7 +306,7 @@ n976850120
     geometry : [55.1848535,30.2039629]
 n983245176
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1951095,30.1880440]
+    geometry : [55.1951141,30.1880038]
 n1003371891
   other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
     geometry : [55.1965137,30.2566819]
@@ -510,7 +510,7 @@ n1216448870
     geometry : [55.1944167,30.1869692]
 n1216448896
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
-    geometry : [55.1944914,30.1863772]
+    geometry : [55.1945021,30.1863263]
 n1216448937
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [55.1949614,30.1872302]
@@ -2147,8 +2147,8 @@ n3147626001
   other tags : highway=crossing
     geometry : [55.1678652,30.2778221]
 n3171783573
-  other tags : highway=crossing
-    geometry : [55.1816425,30.2437884]
+  other tags : highway=crossing | traffic_calming=table
+    geometry : [55.1816426,30.2437873]
 n3184812145
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [55.3105064,30.3102770]

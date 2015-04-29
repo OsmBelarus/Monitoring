@@ -217,8 +217,8 @@ n1398217272  Белінвестбанк / Bielinviestbank / Белинвестб
 n1401564165
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1700698,30.2234230]
-n1463940033  ATM Беларусбанк / null / null / АТМ Беларусбанк
-  other tags : amenity=atm | operator=Беларусбанк
+n1463940033  ATM Беларусбанк / null / АТМ Беларусбанк / АТМ Беларусбанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:phone=+375212244870 | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:others=no | language:ru=yes | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1889260,30.2451649]
 n1464339294
   other tags : amenity=atm | operator=Беларусбанк
@@ -240,10 +240,10 @@ n1632327308  null / null / ATM Приорбанк / ATM Приорбанк
     geometry : [55.1606283,30.2167546]
 n1639215865
   other tags : amenity=atm | operator=Беларусбанк
-    geometry : [55.1947528,30.1858017]
-n1639215867  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+    geometry : [55.1947593,30.1857487]
+n1639215867  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 41 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
-    geometry : [55.1947958,30.1857984]
+    geometry : [55.1948023,30.1857454]
 n1678098820
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1608597,30.2092853]
