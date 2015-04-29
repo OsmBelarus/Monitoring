@@ -8119,9 +8119,9 @@ n3082118694  null / null / Бугалюкс
   other names: name:en=Bugalux
   other tags : addr:housenumber=143 | addr:postcode=220100 | addr:street=улица Максима Богдановича | phone=+375 17 239 26 38 | shop=clothes | website=http://bugalux.ru/
     geometry : [53.9255582,27.5705170]
-n3084880398  null / null / Продуктовый магазин (8-22)
-  other tags : shop=supermarket
-    geometry : [53.8376542,27.6924896]
+n3084880398
+  other tags : opening_hours=Mo-Su 08:00-22:00 | shop=convenience
+    geometry : [53.8376441,27.6925360]
 n3084957843  null / null / 5 звёзд, турагентство
   other names: name:en=5 star, travel agency
   other tags : addr:city=Минск | addr:housenumber=95 | addr:postcode=220043 | addr:street=проспект Независимости | opening_hours=10:00-20:00 | phone=+375 29 7752752 | shop=travel_agency | website=turi.by
