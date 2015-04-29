@@ -301,8 +301,8 @@ n2718547419  null / null / Задвинье
 n2718547420  null / null / Задвинье
   other tags : highway=bus_stop
     geometry : [55.3517385,30.4047681]
-n2751953626
-  other tags : highway=bus_stop | public_transport=platform
+n2751953626  null / null / Сокольники / Сокольники
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1446390,30.2493051]
 n2778405163  null / null / Мазолово
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
@@ -541,3 +541,6 @@ n3217072927
 n3217073071
   other tags : highway=bus_stop
     geometry : [55.1040802,30.2357440]
+n3485206004  null / null / Сокольники / Сокольники
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1430344,30.2506245]
