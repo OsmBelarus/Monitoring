@@ -93,7 +93,7 @@ n501803184  Сельст / null / Сельпо / Сельпо
     geometry : [53.9445078,27.7760340]
 n534852873  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
-  other tags : shop=supermarket
+  other tags : shop=convenience
     geometry : [53.8189095,27.7534202]
 n535480315
   other tags : shop=convenience
@@ -1009,3 +1009,6 @@ n3483702509
 n3483704992  null / null / Соседи
   other tags : addr:housenumber=1б | addr:street=Полевая улица | shop=supermarket
     geometry : [53.8208732,27.5246080]
+n3484498717
+  other tags : shop=diy
+    geometry : [53.8189762,27.7536142]
