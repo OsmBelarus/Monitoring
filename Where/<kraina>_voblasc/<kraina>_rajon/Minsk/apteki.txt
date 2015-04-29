@@ -506,7 +506,7 @@ n305685726  null / null / Табина / Табина
 n305685727  null / null / Белфармация А РУП Аптека №34 / Белфармация А РУП Аптека №34
   other tags : addr:city=Минск | addr:housenumber=38 | addr:street=Авангардная улица | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:30, Su 09:00-17:00 | phone=+37517 2458501;+37517 2995745
     geometry : [53.9065853,27.6275849]
-n305685776  null / null / №55 / №55
+n305685776  null / null / Аптека №55
   other tags : amenity=pharmacy
     geometry : [53.9468875,27.6296535]
 n305685831  null / null / №90 / №90
@@ -677,6 +677,9 @@ n1119772802  null / null / №1 ООО "Моя аптека" / №1 ООО "Мо
 n1123273177
   other tags : amenity=pharmacy
     geometry : [53.8896193,27.5859644]
+n1135064254  Аптэка / null / Аптека №5 / Аптека
+  other tags : amenity=pharmacy
+    geometry : [53.9468672,27.6278672]
 n1138857879  null / null / null / Аптека-Оптика
   other tags : amenity=pharmacy
     geometry : [53.8680865,27.5696209]
@@ -1319,9 +1322,9 @@ n3207873618  null / null / Юнифарм №7 / Юнифарм №7
 n3207908195  null / null / Юнифарм №12 / Юнифарм №12
   other tags : amenity=pharmacy
     geometry : [53.8682058,27.5993119]
-n3208646751
+n3208646751  null / null / Аптека
   other tags : amenity=pharmacy
-    geometry : [53.9468907,27.6282266]
+    geometry : [53.9469006,27.6282090]
 n3220263139  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:city=Минск | addr:housenumber=69 | addr:street=улица Селицкого | amenity=pharmacy
     geometry : [53.8375157,27.7030621]
