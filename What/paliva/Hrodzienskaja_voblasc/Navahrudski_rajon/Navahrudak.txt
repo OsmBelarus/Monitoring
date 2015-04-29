@@ -4,9 +4,15 @@ n1427678681  Беларуснафта / null / Белоруснефть / Бел
 n1427678724  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | ref=48
     geometry : [53.5810358,25.8137895]
-n1427699769  Беларуснафта / null / Белоруснефть / Белоруснефть
-  other tags : amenity=fuel | ref=11
-    geometry : [53.5986121,25.8479555]
-w308382659
-  other tags : amenity=fuel | building=yes
-    geometry : n3136692944[53.6048241,25.8077425] n3136692945[53.6050406,25.8100600] n3136692946[53.6034618,25.8108968] n3136692947[53.6030671,25.8098883] n3136692948[53.6031817,25.8081717] n3136692949[53.6035255,25.8081288] n3136692944[53.6048241,25.8077425]
+n3483470304  Беларуснафта № 11 / null / Белоруснефть № 11 / Белоруснефть № 11
+  other tags : addr:housenumber=87 | addr:street=Минская улица | amenity=fuel | contact:phone=+375(1597) 2-06-90 | fuel:lpg=yes | opening_hours=Mo-Su 06:00-22:00
+    geometry : [53.5985125,25.8485933]
+n3483470305  null / null / Лукойл № 57 / Лукойл № 57
+  other tags : addr:housenumber=52 | addr:street=улица Чапаева | amenity=fuel | contact:website=http://www.lukoil.by/ | fuel:lpg=yes | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | payment:cash=yes | payment:mastercard=yes | payment:visa=yes
+    geometry : [53.6034144,25.8085615]
+w129395769  Беларуснафта № 11 / null / Белоруснефть № 11 / Белоруснефть № 11
+  other tags : addr:housenumber=87 | addr:street=Минская улица | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375(1597) 2-06-90 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | ref=11 | shop=yes
+    geometry : n1427699760[53.5986109,25.8483597] n1427699769[53.5986985,25.8483908] n1427699763[53.5987227,25.8481969] n1427699767[53.5986351,25.8481658] n3483470854[53.5986299,25.8482075] n3483470853[53.5986130,25.8483429] n1427699760[53.5986109,25.8483597]
+w308382659  null / null / Лукойл № 57 / Лукойл № 57
+  other tags : addr:housenumber=52 | addr:street=улица Чапаева | amenity=fuel | building=yes | building:levels=1 | contact:website=http://www.lukoil.by/ | fuel:diesel=yes | fuel:octane_92=yes | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | shop=yes
+    geometry : n3136692948[53.6033139,25.8082034] n3136692947[53.6033107,25.8084559] n3136692949[53.6032220,25.8084527] n3483470945[53.6032231,25.8083670] n3483470946[53.6032246,25.8082473] n3136692946[53.6032252,25.8082002] n3136692948[53.6033139,25.8082034]
