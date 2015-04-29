@@ -875,6 +875,12 @@ n3457372163
 n3457372164
   other tags : amenity=shelter
     geometry : [52.5020828,30.6582633]
+n3483436751
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.5071089,30.9471720]
+n3483436752
+  other tags : class=junction | diameter=57 | height=6.65 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.5071360,30.9396377]
 n3483444839
   other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
     geometry : [52.4951525,30.9602921]
@@ -899,6 +905,24 @@ n3483445067
 n3483445109
   other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
     geometry : [52.4949922,30.9604005]
+n3483447253
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.5061153,30.9481215]
+n3483447259
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.5068697,30.9397655]
+n3483447261
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.5069903,30.9397070]
+n3483447493
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.4949922,30.9604005]
+n3483447494
+  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
+    geometry : [52.4951525,30.9602921]
+n3483448204
+  other tags : class=pit | owner=canalization
+    geometry : [52.5619906,30.8803913]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
@@ -4310,6 +4334,63 @@ w341122876
 w341122878
   other tags : class=gas link | length=10.95
     geometry : n328436[???] n3483444848[52.5071360,30.9396377]
+w341123220
+  other tags : class=gas pipeline | diameter=57 | length=6.90 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483447261[52.5069903,30.9397070] n3483436750[52.5070096,30.9398005]
+w341123742
+  other tags : class=gas link | length=15.08
+    geometry : n3483447906[52.5071537,30.9397335] n3483447261[52.5069903,30.9397070]
+w341123743
+  other tags : class=gas link | length=7.38
+    geometry : n3483447314[52.4866288,30.9667316] n943872[???]
+w341123744
+  other tags : class=gas link | length=9.40
+    geometry : n3483447315[52.4949318,30.9604389] n3483447492[52.4949618,30.9602811]
+w341123748
+  other tags : class=gas link | length=8.5
+    geometry : n3483448205[52.5620954,30.8802953] n673004[???]
+w341123749
+  other tags : class=gas pipeline | diameter=57 | length=25.25 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483447253[52.5061153,30.9481215] n3483447254[52.5062224,30.9484458]
+w341125029
+  other tags : class=gas link | length=15.30
+    geometry : n3483436750[52.5070096,30.9398005] n3483447259[52.5068697,30.9397655]
+w341125031
+  other tags : class=gas link | length=13.20
+    geometry : n3483446226[52.4950972,30.9603266] n3483446227[52.4951375,30.9601743]
+w341125034
+  other tags : class=gas pipeline | diameter=57 | length=7.0 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483447259[52.5068697,30.9397655] n3483447570[52.5068869,30.9398614]
+w341125037
+  other tags : class=gas link | length=21.20
+    geometry : n3483447882[52.5084149,30.9463608] n3483445973[52.5082432,30.9460730]
+w341125038
+  other tags : class=gas link | length=21.40
+    geometry : n3483447880[52.5072144,30.9471521] n3483436753[52.5071430,30.9475480]
+w341125039
+  other tags : class=gas pipeline | diameter=57 | length=7.20 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483447493[52.4949922,30.9604005] n3483447492[52.4949618,30.9602811]
+w341125041
+  other tags : class=gas pipeline | diameter=57 | length=6.65 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483436752[52.5071360,30.9396377] n3483447906[52.5071537,30.9397335]
+w341125369
+  other tags : class=gas link | length=10.95
+    geometry : n328436[???] n3483436752[52.5071360,30.9396377]
+w341125440
+  other tags : class=gas link | length=12.30
+    geometry : n3483445973[52.5082432,30.9460730] n3483447881[52.5083685,30.9460308]
+w341125442
+  other tags : class=gas link | length=27.30
+    geometry : n3483447252[52.5060140,30.9481968] n3483447254[52.5062224,30.9484458]
+w341125443
+  other tags : class=gas pipeline | diameter=57 | length=30.0 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483436751[52.5071089,30.9471720] n1112924[???] n3483436753[52.5071430,30.9475480]
+w341125444
+  other tags : class=gas pipeline | diameter=57 | length=8.20 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
+    geometry : n3483446227[52.4951375,30.9601743] n3483447247[52.4951535,30.9602368] n3483447494[52.4951525,30.9602921]
+w341125450
+  other tags : class=other pipeline | owner=canalization
+    geometry : n3483448294[52.5620113,30.8802691] n3483448204[52.5619906,30.8803913] n3483447885[52.5618547,30.8803318] n3483447886[52.5618788,30.8802008]
 r390651
   other tags : natural=wood | type=multipolygon
     geometry : <inner> w48612033: n617368592[52.0763681,31.0027217] n617368591[52.0749723,31.0028978] n617368594[52.0742057,31.0030482] n617368593[52.0742560,31.0036110] n617368596[52.0769472,31.0035127] n2118437354[52.0793406,31.0030244] n2118437355[52.0793607,31.0022385] n617368595[52.0779028,31.0026309] n617368592[52.0763681,31.0027217] : w48612033
