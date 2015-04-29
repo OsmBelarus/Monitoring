@@ -18808,7 +18808,7 @@ w287314145
   other tags : highway=footway
     geometry : n310292993[55.1759780,30.2334490] n310292991[55.1760352,30.2342571] n2909399366[55.1760049,30.2343872] n2909399367[55.1759661,30.2346789] n2909399368[55.1761082,30.2350369]
 w287315831  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|right
+  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|left|right
     geometry : n310311149[55.1792690,30.2162245] n1792748122[55.1798440,30.2165651] n1161856452[55.1799303,30.2166136] n332643938[55.1801168,30.2167173]
 w287316186
   other tags : highway=footway
@@ -24708,7 +24708,7 @@ w337441663  праспект Перамогі / praspiekt Pieramohi / просп
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
     geometry : n310312094[55.1701991,30.2256719] n310293070[55.1703470,30.2257191] n1229499715[55.1705765,30.2257972] n1792735519[55.1712059,30.2260368] n313371821[55.1722513,30.2264642] n336085146[55.1728222,30.2266864] n336085138[55.1734042,30.2268905] n310292469[55.1734674,30.2269157] n660719356[55.1736155,30.2269830] n660719361[55.1740254,30.2271477] n1221911448[55.1742695,30.2272354] n310292422[55.1750841,30.2275742] n797580804[55.1757452,30.2278433] n1810138459[55.1775871,30.2285920]
 w337441664  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|through|right
+  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
     geometry : n310293050[55.1716929,30.2258012] n1792735520[55.1712453,30.2256047] n1229499792[55.1706356,30.2253307] n310293066[55.1704081,30.2252409]
 w337441665  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
   other names: name:de=prospect Pobiedy (Sieges Avenue) | name:fr=prospect Pobiedy (avenue de la Victoire)
@@ -24728,7 +24728,7 @@ w337441668  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / п�
     geometry : n310311936[55.1700232,30.2282422] n1792735497[55.1701607,30.2271121] n1229499702[55.1702914,30.2261398] n310293070[55.1703470,30.2257191]
 w337441669  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
-  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
+  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|right
     geometry : n310311914[55.1705992,30.2225886] n1773572984[55.1704088,30.2240635] n1792735499[55.1703966,30.2241617] n1229499816[55.1703172,30.2247454] n310293065[55.1702604,30.2251949]
 w337442207  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left|through|through|through|right
@@ -24748,7 +24748,7 @@ w337445505  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / п�
     geometry : n310311951[55.1698780,30.2281886] n1289828055[55.1696998,30.2295545] n310292930[55.1694456,30.2314849]
 w337445507  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
-  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left;through|through|through|right
+  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
     geometry : n915783182[55.1690613,30.2355759] n914384758[55.1693150,30.2336823] n1405152912[55.1695437,30.2319665] n310292935[55.1695964,30.2315778]
 w337445510  вуліца Пятруся Броўкі / vulica Piatrusia Broŭki / улица Петруся Бровки / улица Петруся Бровки
   other names: name:de=uliza Pyatrusya Browki (Pyatrus Browka Straße) | name:fr=oulitsa Pyatroussya Browki (rue de Pyatrous Browka)
