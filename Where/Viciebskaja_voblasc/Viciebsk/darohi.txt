@@ -1,15 +1,39 @@
-n306066054
-  other tags : highway=traffic_signals
-    geometry : [55.1681920,30.2416783]
 n306066150
   other tags : highway=traffic_signals
     geometry : [55.1742846,30.2270445]
 n306066355
   other tags : highway=traffic_signals
     geometry : [55.1991948,30.2072299]
+n310291426
+  other tags : highway=traffic_signals
+    geometry : [55.1682933,30.2414710]
+n310291427
+  other tags : highway=traffic_signals
+    geometry : [55.1681359,30.2414087]
+n310291442
+  other tags : highway=traffic_signals
+    geometry : [55.1682357,30.2419185]
+n310291486
+  other tags : highway=traffic_signals
+    geometry : [55.1689115,30.2367987]
 n310291705
   other tags : highway=turning_circle
     geometry : [55.1834876,30.2358942]
+n310292930
+  other tags : highway=traffic_signals
+    geometry : [55.1694456,30.2314849]
+n310292935
+  other tags : highway=traffic_signals
+    geometry : [55.1695964,30.2315778]
+n310293065
+  other tags : highway=traffic_signals
+    geometry : [55.1702604,30.2251949]
+n310293066
+  other tags : highway=traffic_signals
+    geometry : [55.1704081,30.2252409]
+n310293070
+  other tags : highway=traffic_signals
+    geometry : [55.1703470,30.2257191]
 n310293373
   other tags : highway=turning_circle
     geometry : [55.2295998,30.2602508]
@@ -64,6 +88,9 @@ n310311314
 n310311593
   other tags : highway=traffic_signals
     geometry : [55.1992860,30.2384668]
+n310312094
+  other tags : highway=traffic_signals
+    geometry : [55.1701991,30.2256719]
 n332389203
   other tags : highway=turning_circle
     geometry : [55.1761376,30.2547502]
@@ -79,6 +106,9 @@ n342342093
 n343672260
   other tags : highway=turning_circle
     geometry : [55.1964477,30.2133690]
+n366964116
+  other tags : highway=traffic_signals
+    geometry : [55.1680729,30.2418455]
 n389050818
   other tags : highway=turning_circle
     geometry : [55.2216862,30.2678668]
@@ -103,9 +133,6 @@ n861359124
 n899486856
   other tags : highway=traffic_signals
     geometry : [55.1635878,30.2097298]
-n899486872
-  other tags : highway=traffic_signals
-    geometry : [55.1695274,30.2315870]
 n899486878
   other tags : highway=traffic_signals
     geometry : [55.1781327,30.2285410]
@@ -118,9 +145,6 @@ n899486886
 n899486889
   other tags : highway=traffic_signals
     geometry : [55.1735806,30.1994887]
-n899486900
-  other tags : highway=traffic_signals
-    geometry : [55.1688474,30.2368070]
 n903715318
   other tags : highway=traffic_signals
     geometry : [55.1596405,30.1700708]
@@ -133,6 +157,9 @@ n912142561
 n912223716
   other tags : highway=traffic_signals
     geometry : [55.1760312,30.2448069]
+n914384760
+  other tags : highway=traffic_signals
+    geometry : [55.1687547,30.2367385]
 n916322764
   other tags : highway=traffic_signals | traffic_signals:sound=yes
     geometry : [55.1938453,30.1949237]
@@ -2299,9 +2326,6 @@ n2071131067
 n2082325334
   other tags : highway=traffic_signals
     geometry : [55.1571235,30.2148241]
-n2082326518
-  other tags : highway=traffic_signals
-    geometry : [55.1703102,30.2254682]
 n2115807017
   other tags : highway=street_lamp
     geometry : [55.1666114,30.1767143]
@@ -4095,7 +4119,7 @@ w28255207  2-я Чыгуначная вуліца / 2-ja Čyhunačnaja vulica / 
     geometry : n2747167990[55.1997315,30.1525123] n310297568[55.1997224,30.1533902] n310299297[55.1997181,30.1545551] n310299288[55.1997050,30.1558642] n376068476[55.1996753,30.1572005] n310299255[55.1996811,30.1585857] n310299243[55.1996830,30.1603226] n310299298[55.1996794,30.1629948]
 w28255209
   other tags : highway=unclassified | oneway=no | surface=asphalt
-    geometry : n310311936[55.1700232,30.2282422] n310311951[55.1698780,30.2281886]
+    geometry : n310311936[55.1700232,30.2282422] n310311951[55.1698720,30.2281870]
 w28255211  завулак Заслонава / zavulak Zaslonava / переулок Заслонова / переулок Заслонова
   other tags : highway=residential | surface=unpaved
     geometry : n310297571[55.2048285,30.1539497] n310299302[55.2048961,30.1542821] n2870102265[55.2048028,30.1547041] n2870102261[55.2045256,30.1564282] n310299080[55.2043750,30.1571930] n310299277[55.2041461,30.1588165]
@@ -23448,7 +23472,7 @@ w326793781
     geometry : n3334661416[55.1683228,30.2285969] n3334661417[55.1684206,30.2287244] n3334661418[55.1685277,30.2289899] n3334661419[55.1688592,30.2291456] n3334661425[55.1694696,30.2294400] n3334661420[55.1695127,30.2294608]
 w326793782
   other tags : highway=path
-    geometry : n2517148822[55.1690368,30.2281712] n3334661421[55.1690487,30.2282468] n3436575054[55.1690395,30.2283307] n3334671163[55.1690190,30.2285170] n3334661422[55.1690048,30.2286466] n3334661423[55.1691907,30.2289899] n3334661424[55.1693565,30.2291951] n3334661425[55.1694696,30.2294400]
+    geometry : n2517148822[55.1690368,30.2281712] n3334661421[55.1690392,30.2282375] n3436575054[55.1690395,30.2283307] n3334671163[55.1690190,30.2285170] n3334661422[55.1690048,30.2286466] n3334661423[55.1691907,30.2289899] n3334661424[55.1693565,30.2291951] n3334661425[55.1694696,30.2294400]
 w326793783
   other tags : highway=footway
     geometry : n3334661426[55.1695654,30.2290533] n3334661427[55.1696313,30.2293041] n3334661428[55.1696033,30.2295201]
@@ -24717,7 +24741,7 @@ w337441665  праспект Перамогі / praspiekt Pieramohi / просп
 w337441666  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | trolley_wire=yes
-    geometry : n310293065[55.1702604,30.2251949] n310312094[55.1701991,30.2256719] n1229499844[55.1701447,30.2260823] n2933873934[55.1700825,30.2266001] n1792735493[55.1700197,30.2270961] n728892739[55.1699926,30.2272867] n728892748[55.1698871,30.2281041] n310311951[55.1698780,30.2281886]
+    geometry : n310293065[55.1702604,30.2251949] n310312094[55.1701991,30.2256719] n1229499844[55.1701447,30.2260823] n2933873934[55.1700825,30.2266001] n1792735493[55.1700197,30.2270961] n728892739[55.1699136,30.2278622] n310311951[55.1698720,30.2281870]
 w337441667  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes
@@ -24745,7 +24769,7 @@ w337442210  вуліца Воінаў-Інтэрнацыяналістаў / vul
 w337445505  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through|through|right
-    geometry : n310311951[55.1698780,30.2281886] n1289828055[55.1696998,30.2295545] n310292930[55.1694456,30.2314849]
+    geometry : n310311951[55.1698720,30.2281870] n3485882934[55.1697821,30.2289008] n1289828055[55.1696998,30.2295545] n310292930[55.1694456,30.2314849]
 w337445507  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
