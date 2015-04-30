@@ -13109,7 +13109,7 @@ w152319043
   other tags : addr:housenumber=6 | addr:street=Социалистическая улица | building=yes | building:levels=1
     geometry : n1651463918[55.1398086,27.7085676] n1651463920[55.1398276,27.7086873] n1651463901[55.1397291,27.7087350] n1651463893[55.1397102,27.7086153] n1651463918[55.1398086,27.7085676]
 w152319044
-  other tags : addr:housenumber=53а | building=yes | building:levels=1
+  other tags : addr:housenumber=53а | addr:street=Коммунистическая улица | building=yes | building:levels=1
     geometry : n1651465814[55.1477335,27.7033856] n1651465811[55.1476445,27.7035534] n1651465810[55.1475748,27.7034401] n1651465812[55.1476638,27.7032723] n1651465814[55.1477335,27.7033856]
 w152319046
   other tags : addr:housenumber=12 | addr:street=Социалистический переулок | building=yes | building:levels=1
@@ -13193,7 +13193,7 @@ w152319077
   other tags : addr:housenumber=5 | addr:street=Социалистический переулок | building=yes | building:levels=1
     geometry : n1651463753[55.1390696,27.7084373] n1651463748[55.1390359,27.7085821] n1651463737[55.1389879,27.7085479] n1651463738[55.1389926,27.7085279] n1651463726[55.1389580,27.7085033] n1651463735[55.1389871,27.7083785] n1651463753[55.1390696,27.7084373]
 w152319078
-  other tags : addr:housenumber=51 | building=yes | building:levels=1
+  other tags : addr:housenumber=51 | addr:street=Коммунистическая улица | building=yes | building:levels=1
     geometry : n1651465792[55.1474235,27.7041523] n1651465784[55.1473303,27.7042952] n1651465780[55.1472913,27.7042174] n1651465782[55.1473287,27.7041601] n1651465781[55.1473177,27.7041382] n1651465788[55.1473736,27.7040525] n1651465792[55.1474235,27.7041523]
 w152319079
   other tags : building=yes | building:levels=1
@@ -18785,7 +18785,7 @@ w254997895
   other tags : building=yes | building:levels=1
     geometry : n2607577256[55.1481680,27.7064361] n2607577253[55.1481017,27.7065683] n2607577257[55.1481843,27.7066952] n2607577259[55.1482506,27.7065629] n2607577256[55.1481680,27.7064361]
 w254997897  null / null / 7
-  other tags : addr:housenumber=7 | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=улица Соболевского | building=yes | building:levels=1
     geometry : n2607577267[55.1485801,27.7071525] n2607577263[55.1485138,27.7072847] n2607577269[55.1485964,27.7074116] n2607577273[55.1486627,27.7072793] n2607577267[55.1485801,27.7071525]
 w254997899
   other tags : building=yes | building:levels=1
@@ -18794,7 +18794,7 @@ w254997900
   other tags : building=yes | building:levels=1
     geometry : n2607577275[55.1489458,27.7085679] n2607577272[55.1488795,27.7087001] n2607577276[55.1489621,27.7088270] n2607577277[55.1490284,27.7086947] n2607577275[55.1489458,27.7085679]
 w254997902
-  other tags : addr:city=Глубокое | addr:housenumber=6 | addr:street=Соболевского улица | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=улица Соболевского | building=yes | building:levels=1
     geometry : n2607577254[55.1481649,27.7074768] n2607577251[55.1480986,27.7076090] n2607577255[55.1481812,27.7077359] n2607577258[55.1482475,27.7076036] n2607577254[55.1481649,27.7074768]
 w254997904
   other tags : addr:housenumber=1 | addr:street=улица Соболевского | building=yes | building:levels=1
@@ -18824,10 +18824,10 @@ w255000913
   other tags : building=yes | building:levels=1
     geometry : n2607579256[55.1482630,27.7051259] n2607579250[55.1481967,27.7052581] n2607579259[55.1482793,27.7053850] n2607579261[55.1483456,27.7052527] n2607579256[55.1482630,27.7051259]
 w255000915
-  other tags : addr:city=Глубокое | addr:housenumber=10 | addr:street=Солнечная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n2607579267[55.1486877,27.7056998] n2607579264[55.1486213,27.7058320] n2607579269[55.1487040,27.7059589] n2607579272[55.1487703,27.7058266] n2607579267[55.1486877,27.7056998]
 w255000917
-  other tags : addr:city=Глубокое | addr:housenumber=12 | addr:street=Солнечная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n2607579276[55.1489272,27.7060813] n2607579274[55.1488609,27.7062135] n2607579278[55.1489435,27.7063404] n2607579280[55.1490098,27.7062081] n2607579276[55.1489272,27.7060813]
 w255000919
   other tags : addr:housenumber=6 | addr:street=Солнечная улица | building=yes | building:levels=1
@@ -18857,7 +18857,7 @@ w255745313
   other tags : addr:housenumber=22 | addr:street=Радужная улица | building=yes | building:levels=1
     geometry : n2614330710[55.1494381,27.7074707] n2614330709[55.1493718,27.7076029] n2614330711[55.1494544,27.7077298] n2614330712[55.1495207,27.7075975] n2614330710[55.1494381,27.7074707]
 w255745314
-  other tags : addr:housenumber=23 | addr:street=улица Соболевского | building=yes | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=Радужная улица | building=yes | building:levels=1
     geometry : n2614330714[55.1495571,27.7084179] n3285426628[55.1495138,27.7085092] n2614330713[55.1494908,27.7085501] n2614330715[55.1495734,27.7086770] n2614330716[55.1496397,27.7085447] n2614330714[55.1495571,27.7084179]
 w255745315
   other tags : addr:housenumber=8 | addr:street=улица Корсака | building=yes | building:levels=1
@@ -19151,7 +19151,7 @@ w314362838
   other tags : building=yes | building:levels=1
     geometry : n3204107115[55.1478938,27.7075411] n3204107116[55.1479667,27.7076646] n3204107114[55.1478650,27.7078487] n3204107112[55.1477920,27.7077252] n3204107115[55.1478938,27.7075411]
 w314362840
-  other tags : addr:housenumber=2 | addr:street=Соболевского улица | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=улица Соболевского | building=yes | building:levels=1
     geometry : n3204107111[55.1477149,27.7066834] n3285426589[55.1477773,27.7067081] n3285426590[55.1477999,27.7067655] n3204107113[55.1478134,27.7068510] n3204107110[55.1477035,27.7070487] n3204107109[55.1476050,27.7068811] n3204107111[55.1477149,27.7066834]
 w314362842
   other tags : building=yes | building:levels=1
@@ -19325,7 +19325,7 @@ w320661684
   other tags : building=yes | building:levels=1
     geometry : n3272820104[55.1351261,27.6825862] n1707935208[55.1351478,27.6825948] n1707935202[55.1351374,27.6826756] n1707935201[55.1351129,27.6826659] n1707935200[55.1350997,27.6827682] n3272820106[55.1351448,27.6827862] n3272820107[55.1351804,27.6825144] n3272820105[55.1351377,27.6824973] n3272820104[55.1351261,27.6825862]
 w320662724
-  other tags : addr:housenumber=21 | building=yes | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=Радужная улица | building=yes | building:levels=1
     geometry : n3272836384[55.1497405,27.7079797] n3272836382[55.1496403,27.7081760] n3272836383[55.1497204,27.7083012] n3272836385[55.1498206,27.7081048] n3272836384[55.1497405,27.7079797]
 w320925029
   other tags : building=yes | building:levels=1
@@ -19334,10 +19334,10 @@ w321776816
   other tags : addr:city=Глубокое | addr:housenumber=20 | addr:street=Радужная улица | building=yes | building:levels=1
     geometry : n3285426631[55.1496103,27.7071081] n3285426630[55.1495440,27.7072403] n3285426632[55.1496266,27.7073672] n3285426633[55.1496929,27.7072349] n3285426631[55.1496103,27.7071081]
 w321776818
-  other tags : addr:city=Глубокое | addr:housenumber=4 | addr:street=Солнечная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n3285426594[55.1479056,27.7052689] n3285426593[55.1478585,27.7052915] n3285426592[55.1478433,27.7053300] n3285426591[55.1478393,27.7054011] n3285426595[55.1479219,27.7055280] n3285426596[55.1479882,27.7053957] n3285426594[55.1479056,27.7052689]
 w321776819
-  other tags : addr:city=Глубокое | addr:housenumber=8 | addr:street=Солнечная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n3285426602[55.1484586,27.7053521] n3285426598[55.1483923,27.7054843] n3285426601[55.1484451,27.7055709] n3285426603[55.1484749,27.7056112] n3285426605[55.1485411,27.7054789] n3285426602[55.1484586,27.7053521]
 w321776820
   other tags : building=yes | building:levels=1
