@@ -342,7 +342,7 @@ n674027546  Плошча Леніна / Plošča Lienina / Площадь Лен
     geometry : [55.2022157,30.2071040]
 n674027549  Смаленскі рынак / Smalienski rynak / Смоленский рынок
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
-    geometry : [55.2040256,30.2077174]
+    geometry : [55.2040256,30.2076656]
 n674027554  Фабрыка «Сцяг індустрыялізацыі» / null / фабрика "Знамя Индустрилизации"
   other tags : highway=bus_stop
     geometry : [55.2072720,30.2186406]
@@ -439,11 +439,8 @@ n674060056  Лагерная / Lahiernaja / Лагерная
 n674060087  Куйбышава / Kujbyšava / Куйбышева
   other tags : highway=bus_stop
     geometry : [55.2061276,30.1996232]
-n674060090  Грыбаедава / Hrybajedava / Грибоедова
-  other tags : highway=bus_stop
-    geometry : [55.2047715,30.2069861]
 n674060091  Грыбаедава / Hrybajedava / Грибоедова
-  other tags : highway=bus_stop
+  other tags : fixme=проверить название | highway=bus_stop
     geometry : [55.2057529,30.2077422]
 n674060095  Куйбышава / Kujbyšava / Куйбышева
   other tags : highway=bus_stop
