@@ -27,7 +27,7 @@ n306314504  null / null / Новый дом плюс
     geometry : [55.1666086,30.2419455]
 n324658252  null / null / Илва
   other tags : shop=travel_agency
-    geometry : [55.1979187,30.2076022]
+    geometry : [55.1979169,30.2075519]
 n337891619  Катафей / null / Котофей
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00 | shop=baby_goods
     geometry : [55.1623133,30.2126203]
@@ -121,10 +121,10 @@ n726957507  Малако / null / Молоко
     geometry : [55.1583097,30.2142670]
 n727028306  Прырода / null / Природа
   other tags : shop=outdoor
-    geometry : [55.1992377,30.2082548]
-n727030284  Веста / null / Веста / Веста
-  other tags : shop=convenience
-    geometry : [55.1990568,30.2074227]
+    geometry : [55.1992402,30.2082059]
+n727030284  Веста № 84 / null / Веста № 84 / Веста № 84
+  other tags : contact:fax=pokypatel_vesta@tut.by | contact:phone=+375(212) 23-60-91 | contact:website=http://vesta-retail.by/ | opening_hours=Mo-Sa 08:00-20:00; Su 08:00-17:00 | shop=convenience
+    geometry : [55.1990169,30.2073694]
 n728606567  Металпрофіль / null / МеталлПрофиль
   other tags : shop=doityourself
     geometry : [55.2126350,30.1257246]
@@ -482,13 +482,13 @@ n1145290648  Лазурыт / null / Лазурит
 n1145306909  Нёман / Nioman / Неман / Неман
   other names: name:uk=Німан
   other tags : shop=hardware
-    geometry : [55.1991761,30.2059120]
+    geometry : [55.1991916,30.2058654]
 n1145306913  Парфумер / null / Парфюмеръ
   other tags : shop=chemist
-    geometry : [55.1993280,30.2061231]
+    geometry : [55.1993348,30.2060715]
 n1145306919  Світанак / null / Свитанок / Свитанок
   other tags : shop=clothes
-    geometry : [55.1991597,30.2062424]
+    geometry : [55.1991752,30.2061958]
 n1145401557  Руно / null / Руно
   other tags : shop=fabric
     geometry : [55.1950274,30.2291567]
@@ -521,8 +521,8 @@ n1147998438  Селена / null / Селена
   other tags : shop=fabric
     geometry : [55.1803293,30.2024237]
 n1158124962  Арэна-дэсерціна / null / Арена-десертино
-  other tags : addr:street=улица Ленина | email=arena-pizza@mail.ru | internet_access=no | internet_access:fee=no | opening_hours=Mo-Su 10:00-22:00 | phone=+375-212-372463 | shop=confectionery | smoking=no | website=http://www.arena-pizza.by/
-    geometry : [55.1990797,30.2077334]
+  other tags : email=arena-pizza@mail.ru | opening_hours=Mo-Su 10:00-22:00 | phone=+375-212-372463 | shop=confectionery | smoking=no | website=http://www.arena-pizza.by/
+    geometry : [55.1990778,30.2076893]
 n1159484266  Свет касметыкі / null / Мир косметики
   other tags : operator=Биолита | shop=chemist
     geometry : [55.1941365,30.2293378]
@@ -690,40 +690,34 @@ n1272485045  Фруктовая планета / null / Фруктовая пл�
     geometry : [55.1849162,30.1908277]
 n1276842672  Мармуровы барс / null / Мраморный барс
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-15:00 | shop=doityourself
-    geometry : [55.1975419,30.2067272]
+    geometry : [55.1975462,30.2066931]
 n1276842674  Аўрора Кафэ-марозіва / null / Аврора - мороженое
   other tags : shop=ice_cream
-    geometry : [55.1980567,30.2073273]
+    geometry : [55.1980551,30.2072769]
 n1276842681  Парыж / null / Париж / Париж
   other tags : opening_hours=Mo-Fr 11:00-14:00, 15:00-20:00; Sa 11:00-17:00; Su off | shop=chemist
-    geometry : [55.1981332,30.2068198]
+    geometry : [55.1981354,30.2067629]
 n1276842683  MTC офіс / null / Салон связи МТС
   other tags : brand=МТС | email=info@mts.by | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | operator=СООО «Мобильные ТелеСистемы» | shop=mobile_phone | website=http://www.mts.by/
-    geometry : [55.1979541,30.2067971]
-n1276842685  Віцебскія прадукты №4 / null / Витебские продукты №4
-  other tags : opening_hours=07:00-23:00 | shop=convenience
-    geometry : [55.1987636,30.2069150]
+    geometry : [55.1979563,30.2067402]
+n1276842685  Віцебскія прадукты № 4 / null / Витебские продукты № 4 / Витебские продукты № 4
+  other tags : contact:phone=+375(212) 36-01-69 | contact:website=http://vitprod.by/ | opening_hours=07:00-23:00 | operator=ОАО «Витебские продукты» | shop=convenience
+    geometry : [55.1987788,30.2068733]
 n1276842687  Белдрэў / null / Белдрев / Белдрев
   other tags : phone=+375-212-374746 | shop=furniture | website=http://www.beldrev.by/
-    geometry : [55.1984086,30.2068504]
-n1276842692  Кветкі / null / Цветы / Цветы
-  other tags : shop=florist
-    geometry : [55.1986334,30.2073592]
-n1276842693  Рускае золата / null / Царское золото
-  other tags : shop=jewelry
-    geometry : [55.1986668,30.2073642]
+    geometry : [55.1984108,30.2067935]
 n1276842694  Life Тры кіты / null / Life Три кита
   other tags : email=life55@3k.by | opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00 | operator=ЧТУП "Три Кита Ритейл" | phone=+375-212-363872; +375-25-6113333 | shop=electronics | website=http://www.3k.by/
-    geometry : [55.1985113,30.2073409]
+    geometry : [55.1983852,30.2072797]
 n1277964607  Крышталь / null / Кристалл / Кристалл
   other tags : shop=alcohol
-    geometry : [55.2049001,30.2077175]
+    geometry : [55.2049074,30.2076666]
 n1277965643  ShagoVita / null / ShagoVita
   other tags : opening_hours=10:00-20:00 | operator=ОАО "Обувь" | phone=+375-212-486308 | shop=shoes | website=http://www.shagovita.by/
-    geometry : [55.2031941,30.2074822]
+    geometry : [55.2031976,30.2074393]
 n1277965647
   other tags : shop=convenience
-    geometry : [55.2034243,30.2068406]
+    geometry : [55.2034278,30.2067977]
 n1277967176  Гаспадынька / null / Хозяюшка
   other tags : shop=chemist
     geometry : [55.1938046,30.2328839]
@@ -863,22 +857,22 @@ n1312334896  Альянс-Тур / null / Альянс-Тур
     geometry : [55.1928988,30.2147872]
 n1312612091  null / null / Мир инструментов
   other tags : shop=hardware
-    geometry : [55.1997515,30.2070057]
+    geometry : [55.1997583,30.2069541]
 n1312612093  Веды / null / Знание
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-15:00 | shop=books
-    geometry : [55.1999147,30.2070952]
+    geometry : [55.1999124,30.2070555]
 n1312612094  null / null / Золотая фея
   other tags : shop=jewelry
-    geometry : [55.2003012,30.2075861]
+    geometry : [55.2003079,30.2075333]
 n1312612096  null / null / Штопор
   other tags : shop=alcohol
-    geometry : [55.2001171,30.2071168]
+    geometry : [55.2001148,30.2070771]
 n1312616673  Мэбля / null / Мебель / Мебель
   other tags : shop=furniture
-    geometry : [55.2016211,30.2072478]
+    geometry : [55.2016142,30.2072032]
 n1312616678  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : shop=car_parts
-    geometry : [55.1997201,30.2066025]
+    geometry : [55.1997219,30.2065553]
 n1312616680  Мэбля / null / Мебель / Мебель
   other tags : shop=furniture
     geometry : [55.2041626,30.2083207]
@@ -914,7 +908,7 @@ n1325668237  null / null / Продукты
     geometry : [55.1941224,30.2350696]
 n1325755534  Гаспадарчы гандаль / null / Витебский хозторг
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-15:00 | shop=hardware
-    geometry : [55.1972031,30.2066575]
+    geometry : [55.1972074,30.2066234]
 n1326175767  Белдрэў / null / Белдрев
   other tags : shop=furniture
     geometry : [55.2055404,30.2164820]
@@ -1037,13 +1031,13 @@ n1356174884  null / null / Олимп
   other tags : shop=sports
     geometry : [55.1627204,30.2202649]
 n1357426384  null / null / Цветы
-  other tags : addr:housenumber=11/9 | addr:street=улица Янки Купалы | shop=florist
+  other tags : shop=florist
     geometry : [55.1971672,30.2048482]
 n1357426385  Макей / null / Макей
-  other tags : addr:housenumber=11/9 | addr:street=улица Янки Купалы | shop=clothes
+  other tags : shop=clothes
     geometry : [55.1971549,30.2050593]
-n1357426386  "Пілот" / null / "Пилот"
-  other tags : addr:housenumber=11/9 | addr:street=улица Янки Купалы | opening_hours=Mo-Fr 09:00-18:00; Su 11:00-16:00 | shop=computer | website=http://vpilot.by/
+n1357426386  Пілот / null / Пилот / Пилот
+  other tags : contact:email=oper@vpilot.by | contact:phone=+375(29) 8-155-199, +375(44) 7-155-199 | contact:skype=operatorim | contact:website=http://vpilot.by/ | opening_hours=Mo-Fr 09:00-18:00; Su 11:00-16:00 | operator=ЧТУП «Провиком» | shop=computer
     geometry : [55.1971568,30.2051614]
 n1360856817  null / null / Королева
   other tags : clothes=wedding | description=Свадебный салон "Королева" | opening_hours=Mo-Sa 12:00-18:00 | phone=+37529 8165757 | shop=clothes
@@ -1191,7 +1185,7 @@ n1405759105  null / null / магазин «Комфорт плюс»
     geometry : [55.1800812,30.2194466]
 n1405768439  Глорыя Джынс / null / Глория Джинс
   other tags : shop=clothes
-    geometry : [55.2013522,30.2072713]
+    geometry : [55.2013453,30.2072267]
 n1405815197
   other tags : shop=convenience
     geometry : [55.2094351,30.2114109]
@@ -1269,7 +1263,7 @@ n1523158676
     geometry : [55.1979222,30.2147367]
 n1523160768
   other tags : shop=clothes
-    geometry : [55.2015749,30.2054987]
+    geometry : [55.2016143,30.2054743]
 n1524588379  Еўраопт / null / Евроопт / Евроопт
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=convenience | website=http://www.euroopt.by/
     geometry : [55.1897030,30.2086458]
@@ -1377,13 +1371,13 @@ n1606144117  null / null / Мебель
     geometry : [55.1749650,30.2471554]
 n1606610361  Вiцебскаблсаюздрук / null / Витебскоблсоюзпечать
   other tags : building=kiosk | building:levels=1 | email=vitebsk_sp@mail.ru | operator=Витебскоблсоюзпечать | phone=+375 (212) 36-29-95, +375 (212) 36-49-02 | shop=newsagent | website=http://vitoblsouzpechat.by/
-    geometry : [55.1998261,30.2070413]
+    geometry : [55.1998284,30.2070016]
 n1606610376  null / null / Косметика
-  other tags : shop=boutique
-    geometry : [55.2010291,30.2072310]
+  other tags : shop=cosmetics
+    geometry : [55.2010314,30.2071913]
 n1606610392  null / null / Продукты
   other tags : shop=convenience
-    geometry : [55.2007155,30.2071900]
+    geometry : [55.2007178,30.2071503]
 n1607230025  null / null / Ziko
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00 | operator=СООО «Зико» | shop=jewelry
     geometry : [55.1930827,30.2037615]
@@ -1476,7 +1470,7 @@ n1708284535  null / null / Салон мебели
     geometry : [55.1645734,30.1872937]
 n1708287536  null / null / Рада
   other tags : shop=clothes
-    geometry : [55.2006324,30.2071791]
+    geometry : [55.2006347,30.2071394]
 n1708626537  null / null / Продукты
   other tags : shop=convenience
     geometry : [55.1643586,30.2120212]
@@ -2349,7 +2343,7 @@ n2612703033  null / null / СТО, ремонт двигателей
     geometry : [55.2008861,30.1588268]
 n2621950162  null / null / 8 Марта
   other tags : shop=clothes
-    geometry : [55.2003215,30.2071385]
+    geometry : [55.2003192,30.2070988]
 n2627527432  null / null / салон красоты "Черная кошка"
   other tags : shop=boutique
     geometry : [55.1788236,30.2011928]
@@ -2385,7 +2379,7 @@ n2634704972  null / null / Автозапчасти District Motors
     geometry : [55.1640377,30.1875817]
 n2639633533  null / null / Парикмахерская №3
   other tags : addr:street=улица Ленина | shop=hairdresser
-    geometry : [55.1990843,30.2076385]
+    geometry : [55.1990822,30.2075944]
 n2640110309
   other tags : shop=furniture
     geometry : [55.1858085,30.1903006]
@@ -2409,10 +2403,10 @@ n2640126076  null / null / Остров отдыха
     geometry : [55.1928757,30.2143661]
 n2642090056  null / null / Техносеть
   other tags : shop=electronics
-    geometry : [55.1987610,30.2073750]
+    geometry : [55.1986284,30.2073142]
 n2643722131  null / null / Связной
-  other tags : shop=mobile_phone
-    geometry : [55.1990045,30.2069595]
+  other tags : office=telecommunication | shop=mobile_phone
+    geometry : [55.1990199,30.2069143]
 n2643789767  Вiцебскаблсаюздрук / null / Витебскоблсоюзпечать
   other tags : building=kiosk | building:levels=1 | email=vitebsk_sp@mail.ru | operator=Витебскоблсоюзпечать | phone=+375 (212) 36-29-95, +375 (212) 36-49-02 | shop=newsagent | website=http://vitoblsouzpechat.by/
     geometry : [55.2022600,30.2071025]
@@ -2610,7 +2604,7 @@ n2813696575  null / null / Байк-сервис
     geometry : [55.1911368,30.2047092]
 n2814939042  null / null / ВитарТур
   other tags : shop=travel_agency
-    geometry : [55.1990377,30.2066415]
+    geometry : [55.1990532,30.2065949]
 n2823453960  null / null / Autosnab.by
   other tags : email=info@autosnab.by | operator=ЧТУП «Айман» | phone=+375292145145, +375291456145, +375212482040 | shop=car_parts | website=http://autosnab.by/
     geometry : [55.1850786,30.2350322]
@@ -2628,10 +2622,10 @@ n2824230916  null / null / Дискомания
     geometry : [55.2031383,30.2086761]
 n2824230917  null / null / ЗооЛавка
   other tags : shop=pet
-    geometry : [55.2036214,30.2075269]
+    geometry : [55.2036249,30.2074840]
 n2824230918  null / null / Кроновит
   other tags : shop=furniture
-    geometry : [55.2045024,30.2077401]
+    geometry : [55.2045054,30.2076881]
 n2824230919  null / null / Лотос
   other tags : opening_hours=Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su off | shop=dry_cleaning
     geometry : [55.2032241,30.2079260]
@@ -2643,7 +2637,7 @@ n2824230921  null / null / Продукты
     geometry : [55.2039444,30.2081548]
 n2824230922  null / null / Свитанок
   other tags : shop=clothes
-    geometry : [55.2041263,30.2072165]
+    geometry : [55.2041327,30.2071580]
 n2824230923  null / null / Цветы
   other tags : shop=florist
     geometry : [55.2031342,30.2087734]
@@ -2655,7 +2649,7 @@ n2827689872  null / null / Особино
     geometry : [55.1712372,30.2090235]
 n2828234248  null / null / Бефана тур
   other tags : office=travel_agent | shop=travel_agency
-    geometry : [55.1982778,30.2068358]
+    geometry : [55.1982800,30.2067789]
 n2828417236  null / null / Euro-Sport.by
   other tags : contact:phone=+375336835222, +375296835222 | contact:website=http://euro-sport.by/ | description=спортивный дискаунтер | opening_hours=Mo-Su 10:00-19:00 | shop=outdoor
     geometry : [55.1777124,30.2007981]
@@ -3192,7 +3186,7 @@ n3139952303  null / null / Мегатоп / Мегатоп
   other tags : addr:city=Витебск | addr:housenumber=5 | addr:street=Смоленская площадь | shop=shoes
     geometry : [55.2052659,30.2097035]
 n3139952304  null / null / Коммунарка
-  other tags : addr:city=Витебск | addr:housenumber=5 | addr:street=Смоленская площадь | shop=chocolate
+  other tags : addr:street=Смоленская площадь | shop=confectionery
     geometry : [55.2052090,30.2099367]
 n3141601124  null / null / Продукты
   other tags : shop=convenience
@@ -3205,7 +3199,7 @@ n3143613398  Віцебскія дываны / null / Витебские ков�
     geometry : [55.2049691,30.2060435]
 n3146010257
   other tags : shop=clothes
-    geometry : [55.2036253,30.2074312]
+    geometry : [55.2036288,30.2073883]
 n3147369736  офіс life :) / life:) office / Салон связи life:) / Салон связи life:)
   other tags : brand=life:) | contact:email=info@life.com.by | contact:phone=+375(25) 772-38-45 | contact:website=http://www.life.com.by/ | email=info@life.com.by | office=telecommunication | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-17:00 | operator=ЗАО «БеСТ» | shop=mobile_phone
     geometry : [55.1933955,30.2227245]
@@ -3398,8 +3392,17 @@ n3476745775  null / null / Марлен
   other tags : opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-15:00 | operator=ЧП «Кася-Тайя» | shop=hairdresser
     geometry : [55.1720989,30.2363934]
 n3483941718  null / null / Цветы
-  other tags : shop=florist
+  other tags : opening_hours=Mo-Su 08:00-20:00 | shop=florist
     geometry : [55.1933642,30.2223651]
 n3485961434  null / null / Гипермаркет Green
   other tags : opening_hours=09:00-23:00 | phone=+375-212-612050 | shop=supermarket | website=http://www.green-market.by/
     geometry : [55.1620480,30.2086551]
+n3487315714  Царскае золата / null / Царское золото / Царское золото
+  other tags : contact:email=mail@carskoe.by | contact:phone=+375(212) 27-69-66 | contact:website=http://carskoe.by/ | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | shop=jewelry
+    geometry : [55.1985670,30.2073055]
+n3487315715  Кветкі / null / Цветы / Цветы
+  other tags : shop=florist
+    geometry : [55.1985181,30.2072986]
+n3487315716  null / null / касса Дом кино
+  other tags : shop=ticket
+    geometry : [55.1967286,30.2065709]

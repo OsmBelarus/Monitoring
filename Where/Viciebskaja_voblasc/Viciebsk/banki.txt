@@ -1,9 +1,9 @@
 n306304365  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [55.1771073,30.2112866]
-n343089092  Альфа-Банк / Aĺfa-Bank / «Альфа-Банк», отделение «На Советской» / «Альфа-Банк», отделение «На Советской»
-  other tags : amenity=bank | opening_hours=пн-пт: 09:00 - 19:00, сб: 11.00 - 16.00 | operator=Альфа-Банк | website=www.alfabank.by
-    geometry : [55.1993406,30.2057946]
+n343089092  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
+  other tags : amenity=bank | contact:phone=+375(29) 733-33-32, +375(44) 733-33-32, +375(25) 733-33-32 | contact:website=http://www.alfabank.by/ | opening_hours=Mo-Fr 10:00-18:00 | operator=ЗАО «Альфа-Банк»
+    geometry : [55.1993474,30.2057430]
 n494592609  Беларусбанк / null / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=Отделение № 200/104 | contact:phone=+375212244870 | contact:website=http://belarusbank.by/ | opening_hours=Mo-Fr 09:00-19:00 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1889603,30.2451548]
@@ -42,7 +42,7 @@ n1043416189  Белінвестбанк / null / null / Белинвестбан
     geometry : [55.1615655,30.2198872]
 n1082870202  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 9:00-19:00; Sa 9:00-17:00 | operator=Беларусбанк
-    geometry : [55.1991921,30.2051171]
+    geometry : [55.1991857,30.2050623]
 n1094894117  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | branch=Отделение №200/192 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off | operator=Беларусбанк
     geometry : [55.1609171,30.2095164]
@@ -100,13 +100,13 @@ n1305904621  Беларусбанк / Bielarusbank / Беларусбанк / Б
     geometry : [55.1762334,30.2375957]
 n1312612092  Дэльта Банк / Deĺta Bank / Дельта Банк / Дельта Банк
   other tags : amenity=bank | operator=Дельта-банк
-    geometry : [55.1998715,30.2075404]
+    geometry : [55.1998782,30.2074876]
 n1312616679  БТА Банк / BTA Bank / БТА Банк / БТА Банк
   other tags : amenity=bank | atm=yes | email=contactcenter@btabank.by | fax=+375 (212) 68-61-99 | official_name=БТА Банк ЦБУ «Витебская дирекция» | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00 | operator=ЗАО «БТА Банк» | phone=+375 (212) 48-62-00 | website=http://www.btabank.by/ru/offices-vitebsk
-    geometry : [55.2007264,30.2076511]
-n1325668004  Белгазпрамбанк / null / null / Белгазпромбанк
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-13:00, 13:30-19:00; Sa-Su 09:00-13:00, 13:30-17:00 | operator=Белгазпромбанк
-    geometry : [55.1970266,30.2066205]
+    geometry : [55.2007289,30.2076012]
+n1325668004  Белгазпрамбанк / null / Белгазпромбанк / Белгазпромбанк
+  other tags : amenity=bank | contact:email=vitebskobl@bgpb.by | contact:website=http://www.belgazprombank.by/ | opening_hours=Mo-Fr 09:00-13:00, 13:30-19:00; Sa-Su 09:00-13:00, 13:30-17:00 | operator=ОАО «Белгазпромбанк»
+    geometry : [55.1970284,30.2065713]
 n1331024634  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00 | operator=Белинвестбанк | website=http://www.belinvestbank.by/
     geometry : [55.1776328,30.2270895]
@@ -131,9 +131,6 @@ n1445281953  Беларусбанк / null / null / Беларусбанк
 n1464339292  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [55.1676833,30.2127895]
-n1560152722  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кредит Банк / Хоум Кредит Банк
-  other tags : amenity=bank | operator=Хоум кредит банк
-    geometry : [55.1988182,30.2073828]
 n1599889112  Беларускі Народны Банк / Bielaruski Narodny Bank / Белорусский Народный Банк / Белорусский Народный Банк
   other tags : amenity=bank
     geometry : [55.1949214,30.2047620]
@@ -221,6 +218,9 @@ n3377777370  null / null / Паритетбанк
 n3476745773  Беларусбанк / null / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=№ 200/93 | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | official_name=Филиал № 200/93 ОАО «АСБ Беларусбанк» | opening_hours=Mo-Fr 09:00-14:00,15:00-19:00 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1719119,30.2364484]
+n3487315713  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кредит Банк / Хоум Кредит Банк
+  other tags : amenity=bank | contact:email=info@homecredit.by | contact:website=http://homecredit.by/ | official_name=ЦБУ № 205 | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00 | operator=ОАО «ХКБанк»
+    geometry : [55.1988443,30.2073449]
 w27898590  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=4 | addr:street=улица Пушкина | amenity=bank | atm=no | building=yes | building:levels=2
     geometry : n306306277[55.1940193,30.2036017] n306306273[55.1939031,30.2035058] n2923535241[55.1939302,30.2034050] n306306275[55.1939564,30.2033076] n306306285[55.1940726,30.2034036] n306306277[55.1940193,30.2036017]

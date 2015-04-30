@@ -1,21 +1,21 @@
 n306066341  Аўрора / null / Аврора / Аврора
   other tags : amenity=cafe | cuisine=regional
-    geometry : [55.1979105,30.2079026]
+    geometry : [55.1979087,30.2078523]
 n306310624
   other tags : amenity=cafe
     geometry : [55.1725257,30.2253420]
 n324658253  Арэна-pizza / null / Арена Pizza
-  other tags : addr:street=улица Ленина | amenity=fast_food | cuisine=pizza | email=arena-pizza@mail.ru | internet_access=no | internet_access:fee=no | opening_hours=Mo-Su 10:00-22:00 | phone=+375-212-37-24-63 | smoking=no | website=http://www.arena-pizza.by/
-    geometry : [55.1990757,30.2078154]
+  other tags : amenity=fast_food | cuisine=pizza | email=arena-pizza@mail.ru | opening_hours=Mo-Su 10:00-22:00 | phone=+375-212-37-24-63 | smoking=no | website=http://www.arena-pizza.by/
+    geometry : [55.1990740,30.2077714]
 n326023903  Амарыт / null / Аморит
   other tags : addr:street=1-я улица Доватора | amenity=cafe | opening_hours=Mo-Su 12:00-23:00
     geometry : [55.1934308,30.2138704]
 n331012804  У Кліма / null / У Клима
   other tags : amenity=cafe | cuisine=regional | opening_hours=Mo-Su 10:00-24:00
     geometry : [55.1930233,30.2152699]
-n338978799  Арэна-сушы / null / Арена суши
-  other tags : addr:housenumber=53 | addr:street=улица Ленина | amenity=restaurant | cuisine=japanese | email=arena-pizza@mail.ru | internet_access=no | internet_access:fee=no | opening_hours=Mo-Su 12:00-23:00 | phone=+375-212-373790 | smoking=no | website=http://www.arena-pizza.by/
-    geometry : [55.1979048,30.2081129]
+n338978799  Арэна-сушы / null / Арена суши / Арена суши
+  other tags : amenity=restaurant | contact:phone=+375(212) 37-37-90 | contact:website=http://www.arena-pizza.by/ | cuisine=japanese | email=arena-pizza@mail.ru | opening_hours=Mo-Su 12:00-23:00 | smoking=no
+    geometry : [55.1979030,30.2080626]
 n339065575  Залаты дракон / null / Золотой дракон
   other tags : addr:street=улица Крылова | amenity=restaurant | contact:phone=+375-212-236300 | cuisine=chinese | opening_hours=Mo-Su 12:00-00:00
     geometry : [55.1958043,30.2037570]
@@ -27,7 +27,7 @@ n341356195  Лідскія бліны / null / Лидские блины
     geometry : [55.1901366,30.2051865]
 n441906837
   other tags : amenity=restaurant | cuisine=regional
-    geometry : [55.1993714,30.2051931]
+    geometry : [55.1993782,30.2051415]
 n442951340  У Ганны / null / У Ганны
   other tags : amenity=cafe
     geometry : [55.1951197,30.2293991]
@@ -40,12 +40,12 @@ n683378193  Арэна-грыль / null / Арена Гриль
 n717539622  Блок / null / Блок
   other tags : amenity=fast_food
     geometry : [55.1637467,30.2043058]
-n727032151  Белла Марыя / null / Белла Мария
+n727032151  Белла Марыя / null / Белла Мария / Белла Мария
   other tags : amenity=fast_food
-    geometry : [55.1979249,30.2073741]
-n727032154  Паўночная сталіца / null / Северная столица
+    geometry : [55.1979231,30.2073238]
+n727032154  Паўночная сталіца / null / Северная столица / Северная столица
   other tags : amenity=restaurant | opening_hours=12:00-24:00
-    geometry : [55.1978256,30.2085438]
+    geometry : [55.1978732,30.2084186]
 n728893081  Востраў скарбаў / null / Остров сокровищ
   other tags : amenity=cafe | contact:phone=+375-212-213935
     geometry : [55.1687920,30.2332326]
@@ -54,7 +54,7 @@ n739410899  Шварцвальд / null / Шварцвальд
     geometry : [55.1948482,30.2050971]
 n775573067  Ля Ратушы / null / Ля Ратуши
   other tags : amenity=cafe
-    geometry : [55.1950084,30.2051628]
+    geometry : [55.1950135,30.2051228]
 n806433341  Кавярня / null / Кофейня
   other tags : amenity=cafe | contact:phone=+375-29-1370730 | opening_hours=Mo-Su 10:00-23:00
     geometry : [55.1953708,30.2055092]
@@ -66,7 +66,7 @@ n806433640  null / null / Эйлат
     geometry : [55.1963120,30.2048766]
 n807645348  null / null / Кофе Ман
   other tags : amenity=cafe | opening_hours=11:00-24:00
-    geometry : [55.1979933,30.2068021]
+    geometry : [55.1979955,30.2067452]
 n861267354  Кавярня «ОК» / null / Кафе "ОК"
   other tags : amenity=cafe | internet_access=wlan | opening_hours=10:00-00:00
     geometry : [55.1762311,30.2473079]
@@ -87,7 +87,7 @@ n930010233  Рудакова / Rudakova / Рудаково / Рудаково
     geometry : [55.1434781,30.1674317]
 n1036966528  Melody / null / Melody
   other tags : amenity=cafe | website=http://www.gorod.vitebsk.by/melody
-    geometry : [55.2005995,30.2076375]
+    geometry : [55.2006021,30.2075855]
 n1043416198  Жарпіца / null / Жарпицца
   other tags : amenity=fast_food | cuisine=pizza
     geometry : [55.1614738,30.2189653]
@@ -126,7 +126,7 @@ n1139890646  Піцэрыя / null / Пиццерия / Пиццерия
     geometry : [55.1808725,30.2304144]
 n1145306916  Любімы горад / null / Любимый город
   other tags : amenity=cafe
-    geometry : [55.1993068,30.2065378]
+    geometry : [55.1993136,30.2064862]
 n1157361808  Чараўнік / null / Волшебник / Волшебник
   other tags : amenity=cafe | opening_hours=Mo-Su 00:00-01:00,11:00-24:00; Fr,Sa 00:00-02:00,11:00-24:00
     geometry : [55.1929858,30.2047680]
@@ -162,7 +162,7 @@ n1260788757  Гулівер / null / Гулливер
     geometry : [55.1941209,30.2019795]
 n1276842680  null / null / Бар "Двинский бровар"
   other tags : amenity=pub
-    geometry : [55.1990155,30.2074165]
+    geometry : [55.1989873,30.2073652]
 n1277995897  Паўднёвае / null / Южное / Южное
   other tags : amenity=cafe | opening_hours=11:00-23:00
     geometry : [55.1681379,30.2122573]
@@ -177,7 +177,7 @@ n1304240434  Банкетная зала / null / Банкетный зал
     geometry : [55.1847529,30.2046545]
 n1312612095  Маладзёжная / Maladziožnaja / Молодежное
   other tags : amenity=cafe | opening_hours=11:00-23:00
-    geometry : [55.2001265,30.2075675]
+    geometry : [55.2001332,30.2075147]
 n1319458640  Любава / null / Любава / Любава
   other tags : amenity=cafe
     geometry : [55.1936610,30.2126756]
@@ -189,14 +189,14 @@ n1357426383  Залаты леў / null / Золотой Лев
     geometry : [55.1972232,30.2043149]
 n1357426387  Планета-бюргер / null / Планета бюргер
   other names: name:de=Der Planet Burger | name:en=The Planet burger | name:fr=La Planète hamburger | name:pl=Planeta burger
-  other tags : addr:street=улица Суворова | amenity=fast_food | opening_hours=10:00-23:00
-    geometry : [55.1966740,30.2049918]
+  other tags : amenity=fast_food | opening_hours=10:00-23:00
+    geometry : [55.1966758,30.2049426]
 n1360093888  Квартал / null / Квартал
   other tags : amenity=cafe
     geometry : [55.1605495,30.2168484]
 n1398220515  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | opening_hours=08:00-20:00
-    geometry : [55.1993150,30.2074586]
+    geometry : [55.1993175,30.2074097]
 n1398264251  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | level=2
     geometry : [55.1736628,30.2519147]
@@ -235,7 +235,7 @@ n1599901599  null / null / Пассаж
     geometry : [55.1943316,30.2068529]
 n1606610370  null / null / Кафетерий
   other tags : amenity=pub
-    geometry : [55.2008326,30.2072053]
+    geometry : [55.2008349,30.2071656]
 n1617327703
   other tags : amenity=pub
     geometry : [55.1736968,30.2275467]

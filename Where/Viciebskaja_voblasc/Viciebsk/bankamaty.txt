@@ -147,7 +147,7 @@ n1054241163
     geometry : [55.1726870,30.2016820]
 n1082896880  ATM Белрасбанк / null / null
   other tags : amenity=atm | operator=Белросбанк
-    geometry : [55.1986555,30.2068049]
+    geometry : [55.1986552,30.2067543]
 n1093528821  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | currency:EUR=yes | currency:USD=yes | currency:others=no | language:be=yes | language:others=no | language:ru=yes | official_name=Банкомат № 13 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк» | ref=13
     geometry : [55.1945295,30.2333425]
@@ -193,9 +193,9 @@ n1256821608  Белінвестбанк / Bielinviestbank / Белинвестб
 n1282535412
   other tags : amenity=atm
     geometry : [55.1784032,30.2299242]
-n1312612090  ATM Тэхнабанк / null / null
-  other tags : amenity=atm | operator=Технобанк
-    geometry : [55.2004892,30.2070943]
+n1312612090  ATM Тэхнабанк / null / ATM Технобанк / ATM Технобанк
+  other tags : amenity=atm | contact:website=https://tb.by | operator=ОАО «Технобанк»
+    geometry : [55.2004915,30.2070546]
 n1325668078  ATM Белгазпрамбанк / null / null
   other tags : amenity=atm | operator=Белгазпромбанк
     geometry : [55.1870944,30.2176474]
@@ -205,15 +205,15 @@ n1345287858
 n1347264782
   other tags : amenity=atm
     geometry : [55.1778454,30.2015579]
-n1363834745  Белгазпрамбанк / null / null / Белгазпромбанк
-  other tags : amenity=atm | operator=Белгазпромбанк
-    geometry : [55.1970637,30.2066242]
+n1363834745  ATM Белгазпрамбанк / null / ATM Белгазпромбанк / ATM Белгазпромбанк
+  other tags : amenity=atm | contact:email=vitebskobl@bgpb.by | contact:website=http://www.belgazprombank.by/ | opening_hours=24/7 | operator=ОАО «Белгазпромбанк»
+    geometry : [55.1970412,30.2065726]
 n1365440030
   other tags : amenity=atm | operator=Технобанк
     geometry : [55.1966179,30.1891690]
-n1398217272  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n1398217272  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 19 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
-    geometry : [55.1963448,30.2065566]
+    geometry : [55.1963732,30.2065103]
 n1401564165
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1700698,30.2234230]
