@@ -32,8 +32,8 @@ n243023274  null / null / Везцы / Везцы
 n243023275  null / null / Шия / Шия
   other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Шия (Ельский район)
     geometry : [51.6570300,28.5749300]
-n243023276  null / null / Глазки (нежил.) / Глазки (нежил.)
-  other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
+n243023276  null / null / Глазки / Глазки
+  other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
     geometry : [51.6354800,28.6276300]
 n243023277  Серыя / Sieryja / Серые / Серые
   other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
@@ -108,7 +108,7 @@ n243025268  Белякі / Bieliaki / Беляки / Беляки
     geometry : [51.7119600,28.8449500]
 n243025271  null / null / Чапаевка / Чапаевка
   other names: name:uk=Чапаєвка
-  other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Чапаевка (Ельский район)
     geometry : [51.7316866,28.8057521]
 n243025274  Лукаўцы / Lukaŭcy / Лукавцы / Лукавцы
   other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
@@ -142,7 +142,7 @@ n243025300  Мядзведнае / Miadzviednaje / Медведное / Медв
   other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
     geometry : [51.6181500,28.7424700]
 n243025303  Пагарэлае / null / Погорелое / Погорелое
-  other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Погорелое (Ельский район)
     geometry : [51.6175400,28.8859800]
 n243025306  Дземіды / Dziemidy / Демиды / Демиды
   other tags : addr:country=BY | addr:district=Ельский район | addr:region=Гомельская область | alt_name:be=Дзяміды | place=hamlet

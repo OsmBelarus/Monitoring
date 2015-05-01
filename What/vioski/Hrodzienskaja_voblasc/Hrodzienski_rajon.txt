@@ -17,10 +17,10 @@ n320409367  Скрынікі / Skryniki / Скрыники / Скрыники
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7539100,23.6885390]
 n320409368  Русота / Rusota / Русота / Русота
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Гожский сельский Совет | place=hamlet
     geometry : [53.7527515,23.9152814]
 n320409369  Агароднікі / Aharodniki / Огородники / Огородники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Гожский сельский Совет | place=hamlet
     geometry : [53.7502952,23.9294478]
 n320409370  Забрачаны / Zabračany / Забречаны / Забречаны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -67,6 +67,9 @@ n320409730  Трычы / Tryčy / Тричи / Тричи
 n320409939  Прыгодзічы / Pryhodzičy / Пригодичи / Пригодичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6472719,23.9299420]
+n320409940  Тарусічы / Tarusičy / Тарусичи / Тарусичи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+    geometry : [53.6433638,23.7391887]
 n320409953  Пагараны / Paharany / Погораны / Погораны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6395093,23.9349538]
@@ -83,8 +86,8 @@ n333605354  Лабна-Агароднікі / Labna-Aharodniki / Лабно-Ог
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Лабна-Огородники | place=hamlet
     geometry : [53.7029723,23.6478375]
 n333607582  Канюхі / Kaniuchi / Конюхи / Конюхи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.7249670,23.6256074]
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Подлабенский сельский Совет | place=hamlet
+    geometry : [53.7250776,23.6268536]
 n333608428  Белыя Балаты / Bielyja Balaty / Белые Болоты / Белые Болоты
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Белыя Балоты | place=hamlet
     geometry : [53.8008694,23.8049077]
@@ -93,7 +96,7 @@ n333608811  Селіванаўцы / Sielivanaŭcy / Селивановцы / С
     geometry : [53.8200769,23.7781285]
 n406025360  Сапоцкін / Sapockin / Сопоцкин / Сопоцкин
   other names: name:lt=Sapackinė
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | fixme=description=г.п. Сопоцкин | place=village | population=1132 | population:date=2012
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | fixme=description=г.п. Сопоцкин | place=village | population=1132 | population:date=2012 | wikipedia=ru:Сопоцкин
     geometry : [53.8312349,23.6559563]
 n406077132  Асочнікі / Asočniki / Осочники / Осочники
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -159,7 +162,7 @@ n415314817  Тумашы / Tumašy / Тумаши / Тумаши
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | old_name=Тумаши | place=hamlet
     geometry : [53.6617355,23.6649785]
 n415314829  Пракопавічы / Prakopavičy / Прокоповичи / Прокоповичи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Подлабенский сельский Совет | place=hamlet
     geometry : [53.6580831,23.6728693]
 n415314833  Выселка Рагачы / Vysielka Rahačy / Выселка Рогачи / Выселка Рогачи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -223,11 +226,11 @@ n559829977  Буднікі / Budniki / Будники / Будники
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8126377,23.9332694]
 n560592914  Чарнуха / Čarnucha / Чернуха / Чернуха
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Гожский сельский Совет | place=hamlet
     geometry : [53.7737967,23.9701859]
 n560596923  Барбарычы / Barbaryčy / Барбаричи / Барбаричи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.7938801,23.8958080]
+    geometry : [53.7966172,23.8961611]
 n567633144  Галавенчыцы / Halavienčycy / Головенчицы / Головенчицы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.9043788,23.7020971]
@@ -244,7 +247,7 @@ n567909898  Плоскаўцы / Ploskaŭcy / Плосковцы / Плоско�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8278176,23.8204357]
 n568465943  Войтаўцы / Vojtaŭcy / Войтовцы / Войтовцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | wikipedia=ru:Войтовцы (деревня)
     geometry : [53.8167486,23.7688346]
 n568469376  Шынкаўцы / Šynkaŭcy / Шинковцы / Шинковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -274,7 +277,7 @@ n629605378  Малая Жорнаўка / Malaja Žornaŭka / Малая Жор�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4362225,23.8372059]
 n629605381  Рагачы / Rahačy / Рогачи / Рогачи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Индурский сельский Совет | place=hamlet
     geometry : [53.4354819,23.9734948]
 n629605386  Скраблякі / Skrabliaki / Скребляки / Скребляки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -305,7 +308,7 @@ n629605403  Клачкі / Klački / Клочки / Клочки
     geometry : [53.5569942,23.6990805]
 n629605407  Бакуны / Bakuny / Бакуны / Бакуны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.5674478,23.7138769]
+    geometry : [53.5668596,23.7146549]
 n629605408  Кулёўцы / Kulioŭcy / Кулёвцы / Кулёвцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5784068,23.6658509]
@@ -349,7 +352,7 @@ n629605432  Жытарадзь / Žytaradź / Житородь / Житород�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Жытародзь | place=hamlet
     geometry : [53.4508017,23.8567557]
 n629605435  Баяры / Bajary / Бояры / Бояры
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Индурский сельский Совет | place=hamlet
     geometry : [53.4771533,23.9016753]
 n629605436  Зарубічы / Zarubičy / Зарубичи / Зарубичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -358,7 +361,7 @@ n629605438  Яскевічы / Jaskievičy / Яскевичи / Яскевичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4849214,23.8529789]
 n629605440  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Квасовский сельский Совет | place=hamlet
     geometry : [53.5241338,23.8606693]
 n629605441  Дайлідкі / Dajlidki / Дайлидки / Дайлидки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Дойлидки | place=hamlet
@@ -367,7 +370,7 @@ n629605446  Грыўкі / Hryŭki / Гривки / Гривки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5363961,23.8946584]
 n629605447  Новікі / Noviki / Новики / Новики
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Квасовский сельский Совет | place=hamlet
     geometry : [53.5662647,23.7996966]
 n629605448  Бычкі / Byčki / Бычки / Бычки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -385,7 +388,7 @@ n629605455  Саломенка / Salomienka / Соломенка / Соломе�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5330278,23.8193240]
 n629605459  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Подлабенский сельский Совет | place=hamlet
     geometry : [53.6785743,23.6303424]
 n629605462  Караліно / Karalino / Каролино / Каролино
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -397,15 +400,15 @@ n629605468  Кулакоўшчына / Kulakoŭščyna / Кулаковщина 
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7426424,23.6271217]
 n629605470  Польныя Багатыры / Poĺnyja Bahatyry / Польные Богатыри / Польные Богатыри
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.7190660,23.6170987]
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name=Польные-Богатыри | place=hamlet
+    geometry : [53.7185902,23.6170987]
 n629605472  Перстунь / Pierstuń / Перстунь / Перстунь
   other names: name:lt=Perstunė
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Пярстунь | place=hamlet
     geometry : [53.7887689,23.6169584]
 n629605473  Баяры / Bajary / Бояры / Бояры
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.7817342,23.6015970]
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Подлабенский сельский Совет | place=hamlet
+    geometry : [53.7810706,23.6006767]
 n629605474  Галынка / Halynka / Голынка / Голынка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7757621,23.5684115]
@@ -420,7 +423,7 @@ n629605492  Валавічоўцы / Valavičoŭcy / Воловичёвцы / В
     geometry : [53.7858603,23.6587838]
 n629605499  Васарабы / Vasaraby / Васарабы / Васарабы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.7671549,23.7220085]
+    geometry : [53.7667402,23.7217512]
 n629605501  Рацічы / Racičy / Ратичи / Ратичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village | wikipedia=be-x-old:Рацічы
     geometry : [53.7688463,23.6504309]
@@ -449,9 +452,9 @@ n629605570  Доргунь / Dorhuń / Доргунь / Доргунь
   other names: name:lt=Dargūnė
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Даргунь | place=hamlet
     geometry : [53.8088552,23.6057932]
-n629605573  Баляненты / Balianienty / Балененты / Балененты
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Баліненты | place=hamlet
-    geometry : [53.8274884,23.6285699]
+n629605573  Баліненты / Balianienty / Балиненты / Балиненты
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Баляненты | alt_name:ru=Балененты | place=hamlet
+    geometry : [53.8263074,23.6286446]
 n629605576  Пралейкі / Praliejki / Пролейки / Пролейки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7909608,23.5885644]
@@ -459,7 +462,7 @@ n629605577  Маркаўцы / Markaŭcy / Марковцы / Марковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8059390,23.5636016]
 n629605579  Новікі / Noviki / Новики / Новики
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Сопоцкинский сельский Совет | place=hamlet
     geometry : [53.8448961,23.6270524]
 n629605585  Дамброўка / Dambroǔka / Домбровка / Домбровка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -504,8 +507,8 @@ n629605646  Сонічы / Soničy / Соничи / Соничи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8730469,23.6779534]
 n629605648  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.8561708,23.6457946]
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Сопоцкинский сельский Совет | place=hamlet
+    geometry : [53.8555026,23.6454352]
 n629605659  Кодзі / Kodzi / Коди / Коди
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.9411441,23.5740507]
@@ -546,7 +549,7 @@ n629605724  Мельнікі / Mieĺniki / Мельники / Мельники
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.9115622,23.8213691]
 n629605733  Дуброва / Dubrova / Дуброва / Дуброва
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Гожский сельский Совет | place=hamlet
     geometry : [53.9392490,23.8736486]
 n629605736  Кунцаўшчына / Kuncaŭščyna / Кунцевщина / Кунцевщина
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -555,7 +558,7 @@ n629605741  Луцкаўляны / Luckaŭliany / Луцковляны / Луц�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4427834,23.9353996]
 n629605743  Пракопавічы / Prakopavičy / Прокоповичи / Прокоповичи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Индурский сельский Совет | place=hamlet
     geometry : [53.4462537,23.9164354]
 n629605745  Белева / Bielieva / Белево / Белево
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -585,7 +588,7 @@ n629605777  Літвінкі / Litvinki / Литвинки / Литвинки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Ліцвінкі | place=hamlet
     geometry : [53.4670968,24.0294980]
 n629605780  Занявічы / Zaniavičy / Заневичи / Заневичи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | wikipedia=ru:Заневичи
     geometry : [53.4475457,24.0256661]
 n629605783  Сухая Даліна / Suchaja Dalina / Сухая Долина / Сухая Долина
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -594,7 +597,7 @@ n629605786  Хамікі / Chamiki / Хомики / Хомики
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Хамякі | place=hamlet
     geometry : [53.5112514,24.0451301]
 n629605788  Агароднікі / Aharodniki / Огородники / Огородники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Квасовский сельский Совет | place=hamlet
     geometry : [53.5048872,24.0161516]
 n629605797  Дзякалавічы / Dziakalavičy / Декаловичи / Декаловичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Дзекалавічы;Дэкалавічы;Дэкаловічы | place=hamlet
@@ -637,11 +640,11 @@ n629605834  Дарошавічы / Darošavičy / Дорошевичи / Дор�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5328566,24.0417409]
 n629605837  Агароднікі / Aharodniki / Огородники / Огородники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Обуховский сельский Совет | place=hamlet
     geometry : [53.5670854,24.0633217]
 n629605840  Мігова / Mihova / Мигово / Мигово
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.5912145,24.0181736]
+    geometry : [53.5921269,24.0172732]
 n629605842  Верхнія Пагараны / Vierchnija Paharany / Верхние Погораны / Верхние Погораны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5424915,24.0029033]
@@ -662,7 +665,7 @@ n629605865  Некрашы / Niekrašy / Некраши / Некраши
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6024115,24.2308344]
 n629605870  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Обуховский сельский Совет | place=hamlet
     geometry : [53.5312651,24.0851438]
 n629605873  Саволеўка / Savolieŭka / Саволевка / Саволевка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -695,16 +698,16 @@ n629605917  Казловічы / Kazlovičy / Козловичи / Козлов�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6720187,24.0269276]
 n629605919  Баяры / Bajary / Бояры / Бояры
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Вертелишковский сельский Совет | place=hamlet
     geometry : [53.7161729,23.9845669]
 n629605921  Русота / Rusota / Русота / Русота
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7213489,23.9162215]
 n629605939  Казіміроўка / Kazimiroŭka / Казимировка / Казимировка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Казіміраўка | place=hamlet
-    geometry : [53.7374987,23.9804816]
+    geometry : [53.7410439,23.9780135]
 n629605941  Камяністая / Kamianistaja / Каменистая / Каменистая
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Гожский сельский Совет | place=hamlet
     geometry : [53.7888247,23.9570583]
 n629605948  Гумбачы / Humbačy / Гумбачи / Гумбачи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -723,7 +726,7 @@ n629605969  Сыпаная Гара / Sypanaja Hara / Сыпаная Гора / 
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7276611,24.0657817]
 n629605980  Верцялішкі / Vierciališki / Вертелишки / Вертелишки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village | wikipedia=ru:Вертелишки
     geometry : [53.7023248,24.0083352]
 n629605982  Юравічы / Juravičy / Юровичи / Юровичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -765,9 +768,9 @@ n629606022  Пруды / Prudy / Пруды / Пруды
   other names: name:uk=Пруди
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6458488,24.1705946]
-n629606023  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.6229338,24.2192794]
+n629606023  Кашубінцы / Kašubincy / Кошубинцы / Кошубинцы
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Кашубинцы | place=hamlet
+    geometry : [53.6229154,24.2206469]
 n629606025  Лазы / Lazy / Лазы / Лазы
   other names: name:uk=Лази
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -781,11 +784,11 @@ n629606028  Саламянка / Salamianka / Соломянка / Соломя�
 n629606031  Бушнева / Bušnieva / Бушнево / Бушнево
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7476890,24.0956751]
-n629606036  Забагонікі / Zabahoniki / Забагоники / Забагоники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+n629606036  Забагонікі / Zabahoniki / Забогоники / Забогоники
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Забагоники | place=hamlet
     geometry : [53.7085291,24.0944559]
 n629606044  Камяністая / Kamianistaja / Каменистая / Каменистая
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Камяністае | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Озёрский сельский Совет | alt_name:be=Камяністае | place=hamlet
     geometry : [53.7580268,24.1079045]
 n629606047  Масткі / Mastki / Мостки / Мостки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -814,8 +817,8 @@ n629606083  Мількаўшчына / Miĺkaŭščyna / Мильковщина 
 n629606087  Гліняны / Hliniany / Глиняны / Глиняны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6041943,24.2904649]
-n629606090  Восьнікі / Vośniki / Осьники / Осьники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+n629606090  Восьнікі / Vośniki / Осники / Осники
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Осьники | place=hamlet
     geometry : [53.5965722,24.3617255]
 n629606094  Гарашкі / Haraški / Горошки / Горошки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -845,7 +848,7 @@ n629606123  Стральцы 1 / Straĺcy 1 / Стрельцы 1 / Стрель�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6682836,24.2668280]
 n629606124  Канюхі / Kaniuchi / Конюхи / Конюхи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Скидельский сельский Совет | place=hamlet
     geometry : [53.6503874,24.2775949]
 n629606126  Забярэзіна / Zabiarezina / Заберезина / Заберезина
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -857,7 +860,7 @@ n629606130  Баброўня / Babroŭnia / Бобровня / Бобровня
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.6591094,24.3404690]
 n629606136  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Озёрский сельский Совет | place=hamlet
     geometry : [53.7386968,24.3927136]
 n629606140  Галавачы / Halavačy / Головачи / Головачи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -884,11 +887,11 @@ n629606174  Гумнішча / Humnišča / Гумнище / Гумнище
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8640608,24.1341316]
 n629606178  Чарнуха / Čarnucha / Чернуха / Чернуха
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | addr:subdistrict=Поречский сельский Совет | place=hamlet
     geometry : [53.9284997,24.0825937]
 n629606181  Хамуты / Chamuty / Хомуты / Хомуты
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.8414549,24.1848225]
+    geometry : [53.8409342,24.1852755]
 n629606184  Прывалкі / Pryvalki / Привалки / Привалки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.9441452,23.9187545]
@@ -915,7 +918,7 @@ n993855678  Плябанішкі / Pliabaniški / Плебанишки / Пле�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | source=survey
     geometry : [53.8639194,23.8739244]
 n1929981904  Балічы / Baličy / Баличи / Баличи
-  other tags : addr:country=BY | addr:district=Берестовицкий район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4243355,24.0083855]
 n2094813901  Брошкаўцы / Broškaŭcy / Брошковцы / Брошковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -949,7 +952,7 @@ n2096008449  Жылічы / Žyličy / Жиличи / Жиличи
     geometry : [53.6320871,23.9773431]
 n2096008450  Пералом / Pieralom / Перелом / Перелом
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.8945542,23.7817975]
+    geometry : [53.8938764,23.7808243]
 n2096008451  Палаткова / Palatkova / Полотково / Полотково
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5836652,23.8524586]
@@ -972,8 +975,8 @@ n2099061024  Табольская Будка / Taboĺskaja Budka / Таболь�
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7282590,24.0780221]
 n2337037357  Абухава / Abuchava / Обухово / Обухово
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.6077258,24.0832030]
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village
+    geometry : [53.6063433,24.0820224]
 n2346002033  Райста / Rajsta / Райста / Райста
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8307105,23.8816324]
@@ -1006,7 +1009,7 @@ n2769103892  Чарнушкі / Čarnuški / Чернушки / Чернушки
     geometry : [53.9214221,23.9169431]
 n2770205014  Сцяцкі / Sciacki / Стецки / Стецки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.4831212,24.0459082]
+    geometry : [53.4834862,24.0466529]
 n2770205016  Ферма / Fierma / Ферма / Ферма
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4777988,24.0368978]
@@ -1018,7 +1021,7 @@ n2770227820  Кузьмічы / Kuźmičy / Кузьмичи / Кузьмичи
     geometry : [53.4598320,24.0903906]
 n2770227824  Няцечы / Niaciečy / Нетечи / Нетечи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : [53.4643108,24.1066934]
+    geometry : [53.4651495,24.1093717]
 n2770231074  Рудавіцы / Rudavicy / Рудавицы / Рудавицы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Рудавіца | place=hamlet
     geometry : [53.4979106,24.0285851]
@@ -1035,7 +1038,7 @@ n2771592149  Рыскі / Ryski / Рыски / Рыски
   other tags : addr:country=BY | addr:district=Мостовский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5396660,24.3264011]
 n2771597908  Багудзенька / Bahudzieńka / Богуденька / Богуденька
-  other tags : addr:country=BY | addr:district=Мостовский район | addr:region=Гродненская область | alt_name:be=Багудзенка | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Багудзенка | place=hamlet | wikipedia=be-x-old:Багудзенька
     geometry : [53.6580221,24.2471734]
 n2771602392  Бярві / Biarvi / Берви / Берви
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Бэрві | place=hamlet
@@ -1067,9 +1070,6 @@ n2776781248  Радута / Raduta / Радута / Радута
 n2776784845  Бабіна / Babina / Бабино / Бабино
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8080611,24.2853952]
-n3139565507  null / null / Барбаричи
-  other tags : place=hamlet
-    geometry : [53.8051617,23.9048764]
 n3201535912  Індура / Indura / Индура / Индура
   other names: name:en=Indura
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village | wikipedia=ru:Индура
@@ -1094,17 +1094,17 @@ n3221345550  Дуброва / Dubrova / Дуброва / Дуброва
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7546062,23.8767316]
 n3221348304  Кукалі / Kukali / Куколи / Куколи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village
     geometry : [53.7678045,23.8186989]
-n3221362669  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+n3221362669  Кашубінцы / Kašubincy / Кошубинцы / Кошубинцы
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Кашубинцы | place=hamlet
     geometry : [53.6115749,24.2104755]
 n3221376847  Сікорыца / Sikoryca / Сикорица / Сикорица
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5824374,24.3836134]
-n3466950735  null / null / Жиличи
-  other tags : place=village
-    geometry : [53.6181281,23.9812848]
+n3489189188  null / null / Зарица
+  other tags : place=hamlet
+    geometry : [53.7564275,23.8223067]
 w25144539  null / null / Зубровка / Зубровка
   other tags : addr:country=BY | addr:district=Щучинский район | addr:region=Гродненская область | place=hamlet
     geometry : n274032243[53.8270000,24.3842400] n274032244[53.8256960,24.3834228] n1333161548[53.8250139,24.3841669] n1333161547[53.8245903,24.3853522] n274032249[53.8234292,24.3866982] n1333161539[53.8226158,24.3873710] n1333161538[53.8211680,24.3875896] n274032254[53.8209100,24.3882800] n274032256[53.8209900,24.3902500] n274032258[53.8230500,24.3908500] n274032259[53.8275100,24.3860400] n274032243[53.8270000,24.3842400]
@@ -1124,18 +1124,9 @@ w29155098  Дамброўка / null / Домбровка / Домбровка
 w29160854  Загараны / Zaharany / Загораны / Загораны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n320734924[53.7361100,23.6975990] n320734922[53.7380790,23.6978700] n320734921[53.7384100,23.7033500] n320734920[53.7385480,23.7088200] n320734923[53.7365600,23.7092990] n320734926[53.7353210,23.7048200] n320734352[53.7327610,23.7064800] n320734344[53.7330010,23.7080090] n320734363[53.7312810,23.7124400] n320734372[53.7300300,23.7123600] n320734375[53.7300110,23.7090300] n320734382[53.7298810,23.7070500] n320734367[53.7304000,23.6994990] n320734360[53.7322080,23.6991590] n320734927[53.7327993,23.6898993] n320734925[53.7354500,23.6908790] n320734924[53.7361100,23.6975990]
-w29164061  null / null / Сикорица / Сикорица
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n320759191[53.5764177,24.3912490] n320759113[53.5770796,24.3904668] n320759110[53.5775467,24.3912806] n320759189[53.5768036,24.3921513] n320759191[53.5764177,24.3912490]
-w29164754  null / null / Сикорица / Сикорица
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n320763955[53.5774811,24.3902035] n320763953[53.5780697,24.3890240] n320763952[53.5784403,24.3903214] n320763954[53.5778453,24.3909990] n320763955[53.5774811,24.3902035]
 w29164994  null / null / Черток / Черток
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n320765514[53.8685983,23.6597807] n320765512[53.8693726,23.6590567] n2600659938[53.8697113,23.6597795] n320765511[53.8699734,23.6618774] n2600659892[53.8694240,23.6621599] n2600659838[53.8688859,23.6614877] n320765513[53.8688282,23.6605027] n320765514[53.8685983,23.6597807]
-w29168129  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n320783195[53.6231896,24.2168759] n320783193[53.6235272,24.2182868] n320783192[53.6232270,24.2214198] n3221362667[53.6237143,24.2240896] n3221362668[53.6242597,24.2239550] n320783194[53.6243922,24.2247467] n3221362666[53.6235015,24.2250427] n3221362665[53.6231956,24.2234280] n3221362664[53.6228830,24.2234840] n3221362663[53.6228298,24.2231476] n2094813789[53.6220599,24.2233731] n320783196[53.6218681,24.2219656] n320783198[53.6224485,24.2181496] n320783200[53.6220890,24.2173300] n320783202[53.6204769,24.2162372] n320783201[53.6209822,24.2148388] n320783199[53.6219941,24.2154273] n320783197[53.6227910,24.2162300] n320783195[53.6231896,24.2168759]
 w29168237  Ракітна / Rakitna / Ракитно / Ракитно
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n320784102[53.6815680,23.9732490] n320784100[53.6837080,23.9743090] n320702755[53.6834999,23.9763760] n320784101[53.6833910,23.9798900] n320783779[53.6795880,23.9771990] n320783783[53.6750065,23.9733591] n320783782[53.6754833,23.9714207] n320783781[53.6763300,23.9709090] n320783780[53.6774576,23.9718807] n320783778[53.6801980,23.9742100] n320784102[53.6815680,23.9732490]
@@ -1167,7 +1158,7 @@ w29168773  Келбаскі / Kielbaski / Келбаски / Келбаски
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Калбаскі | place=hamlet
     geometry : n320787273[53.7820580,23.7873700] n320787274[53.7812110,23.7968800] n320787275[53.7809980,23.7980800] n320787278[53.7799110,23.8022590] n320787279[53.7780490,23.8012190] n320787282[53.7762480,23.8050490] n320787288[53.7739900,23.8055090] n320787285[53.7741810,23.8014200] n320787289[53.7732200,23.7999890] n320787287[53.7740890,23.7976200] n320787284[53.7759810,23.7974390] n320787283[53.7762100,23.7913780] n320787281[53.7774690,23.7913090] n320787280[53.7778390,23.7870900] n320787276[53.7800780,23.7873890] n320787273[53.7820580,23.7873700]
 w29168796  Абухава / Abuchava / Обухово / Обухово
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village
     geometry : n320787650[53.6098860,24.0812960] n2337039016[53.6085697,24.0843639] n2337039003[53.6084676,24.0851237] n2337038980[53.6082018,24.0850700] n2337038965[53.6080699,24.0852062] n320787651[53.6080083,24.0855081] n2337038936[53.6077828,24.0855359] n2337038918[53.6076637,24.0857582] n2337038913[53.6076106,24.0861991] n320787653[53.6070400,24.0861240] n320787654[53.6067260,24.0871766] n320787655[53.6062460,24.0878120] n320787658[53.6050260,24.0878120] n320787659[53.6050030,24.0881990] n320787660[53.6047660,24.0882110] n320787666[53.6047210,24.0874740] n2337038089[53.6027101,24.0876737] n320787679[53.6024421,24.0878269] n320787683[53.6014686,24.0873990] n320787682[53.6016395,24.0862660] n320787678[53.6025266,24.0863313] n320787676[53.6025810,24.0857730] n320787675[53.6025463,24.0839882] n320787677[53.6025500,24.0821200] n320787680[53.6022220,24.0821570] n320787681[53.6021650,24.0813060] n320787688[53.6001850,24.0830070] n320787695[53.5974757,24.0833551] n2337037369[53.5974500,24.0788912] n320787697[53.5974500,24.0722310] n320787694[53.5979300,24.0719120] n320787693[53.5983580,24.0719710] n320787692[53.5985260,24.0725420] n320787691[53.5985410,24.0733600] n320787690[53.5995590,24.0733830] n320787689[53.5996130,24.0739280] n320787687[53.6003830,24.0739130] n320787686[53.6008410,24.0743750] n320787685[53.6010360,24.0751720] n320787684[53.6010850,24.0758470] n320787674[53.6026950,24.0753990] n320787673[53.6029336,24.0751859] n320787667[53.6043796,24.0750898] n320787664[53.6047400,24.0750650] n320787665[53.6047280,24.0758700] n320787657[53.6054910,24.0758700] n320787656[53.6057050,24.0761580] n320787642[53.6116182,24.0752009] n2337039190[53.6117154,24.0754299] n320787645[53.6117147,24.0768388] n320787635[53.6128000,24.0774300] n320787637[53.6127310,24.0788950] n320787639[53.6119190,24.0787390] n320787647[53.6107970,24.0812470] n320787650[53.6098860,24.0812960]
 w29406804  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1199,9 +1190,6 @@ w30233286  Пад’ятлы / Padjatly / Подъятлы / Подъятлы
 w30233287  Завадзічы / Zavadzičy / Завадичи / Завадичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333111317[53.6599700,24.0923300] n333111176[53.6599700,24.0926700] n333115204[53.6594600,24.0931000] n333106763[53.6592000,24.0919900] n333108835[53.6550800,24.0942200] n333108333[53.6551700,24.0954200] n333110963[53.6548200,24.0961900] n333112426[53.6546500,24.0987700] n333115654[53.6552500,24.0988500] n333111232[53.6548200,24.0999700] n333109488[53.6548200,24.1017700] n333114118[53.6566200,24.1015200] n333111828[53.6566200,24.1010900] n333113267[53.6598000,24.1008300] n333111640[53.6597100,24.0974800] n333111296[53.6609200,24.0967100] n333111317[53.6599700,24.0923300]
-w30233288  Александрова / Alieksandrova / Александрово / Александрово
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333114586[53.6189354,24.0060560] n2355677229[53.6184735,24.0058042] n333112683[53.6179138,24.0057443] n333111362[53.6171146,24.0090462] n333112836[53.6170423,24.0100973] n333108620[53.6172062,24.0113602] n333110825[53.6180000,24.0118726] n333115935[53.6181673,24.0117769] n2355677338[53.6189812,24.0091889] n2355677377[53.6194715,24.0071853] n2355677353[53.6192062,24.0064850] n333114586[53.6189354,24.0060560]
 w30233289  Бубны / Bubny / Бубны / Бубны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n333116116[53.5963700,24.3354900] n333108824[53.5955100,24.3339500] n333111006[53.5949100,24.3323100] n333112653[53.5938800,24.3308600] n333107012[53.5930200,24.3300000] n333109473[53.5925100,24.3293100] n333110065[53.5912200,24.3286200] n333113492[53.5901900,24.3331700] n333113001[53.5913100,24.3337700] n333108470[53.5918200,24.3338600] n333109949[53.5926000,24.3349800] n333111775[53.5937900,24.3373800] n333112018[53.5951700,24.3390900] n333109223[53.5958500,24.3373800] n333116116[53.5963700,24.3354900]
@@ -1244,8 +1232,8 @@ w30233303  Крынічная / Kryničnaja / Криничная / Кринич�
 w30233304  Каленікі / Kalieniki / Каленики / Каленики
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333115763[53.4489100,24.0506200] n333115134[53.4475400,24.0507000] n333115498[53.4468500,24.0519900] n333112071[53.4478000,24.0580900] n333112399[53.4478000,24.0591200] n333114229[53.4477100,24.0597200] n333113399[53.4475400,24.0600600] n333110890[53.4478000,24.0607500] n333108786[53.4483100,24.0651200] n333110996[53.4496793,24.0665309] n333108682[53.4505500,24.0655500] n333114303[53.4509700,24.0640100] n333110229[53.4495200,24.0516500] n333115763[53.4489100,24.0506200]
-w30233305  Восьнікі / Vośniki / Осьники / Осьники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+w30233305  Восьнікі / Vośniki / Осники / Осники
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Осьники | place=hamlet
     geometry : n333107773[53.5953411,24.3580037] n333115905[53.5944498,24.3594888] n333114622[53.5971738,24.3658895] n333112633[53.5984893,24.3639000] n333107773[53.5953411,24.3580037]
 w30233306  Скрынікі / Skryniki / Скрыники / Скрыники
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1352,9 +1340,6 @@ w30233353  Гарачкі / Harački / Горячки / Горячки
 w30233354  Галавенчыцы / Halavienčycy / Головенчицы / Головенчицы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n333108056[53.9035777,23.6965267] n333114735[53.9027578,23.6994082] n333112800[53.9035745,23.7079306] n333112048[53.9038727,23.7101589] n2610727129[53.9046873,23.7101476] n2610727168[53.9050706,23.7123018] n2610727206[53.9054902,23.7120468] n333113727[53.9052876,23.7105927] n2610727158[53.9049711,23.7108494] n2610727104[53.9042092,23.7064787] n2610727123[53.9045837,23.7063052] n2610727141[53.9047909,23.7046962] n2610727193[53.9053141,23.7034740] n2610727176[53.9051468,23.7022413] n2610727098[53.9041538,23.6993679] n2610727096[53.9041330,23.6985854] n2610727155[53.9049500,23.6964953] n2610727201[53.9054343,23.6953479] n2610727184[53.9052426,23.6944422] n333109906[53.9047533,23.6946771] n333109525[53.9040517,23.6948147] n333109954[53.9040663,23.6962436] n333108056[53.9035777,23.6965267]
-w30233355  Гліняны / Hliniany / Глиняны / Глиняны
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333115641[53.5993326,24.2847350] n3139943577[53.5992414,24.2856315] n3139943570[53.5991441,24.2865880] n333109063[53.5990885,24.2871343] n333108586[53.5991415,24.2885477] n333115861[53.5997200,24.2895700] n333107682[53.5998100,24.2934300] n333108598[53.6003699,24.2945182] n333109075[53.6017603,24.2956589] n333108441[53.6035000,24.2938600] n333113405[53.6019500,24.2915400] n333107466[53.6097600,24.2949800] n333114432[53.6100200,24.2942900] n333106759[53.6100867,24.2919826] n333114695[53.6084700,24.2887100] n333115898[53.6082100,24.2879400] n333115641[53.5993326,24.2847350]
 w30233357  Пяслі / Piasli / Песли / Песли
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333110463[53.4924300,23.7972500] n333111473[53.4891700,23.7951000] n333108785[53.4860800,23.8096900] n333107811[53.4876200,23.8106400] n333112698[53.4892600,23.8042800] n333108645[53.4913200,23.8042800] n333111804[53.4928600,23.7977600] n333110463[53.4924300,23.7972500]
@@ -1370,8 +1355,8 @@ w30233360  Канюхі / Kaniuchi / Конюхи / Конюхи
 w30233361  Губінка / Hubinka / Губинка / Губинка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333115462[53.6619500,24.1576500] n333111908[53.6620300,24.1594500] n333113397[53.6588600,24.1595400] n333114213[53.6587700,24.1560200] n333113271[53.6566200,24.1560200] n333110387[53.6562000,24.1567900] n333116137[53.6565400,24.1647700] n333115209[53.6579100,24.1684600] n333107455[53.6588600,24.1681200] n333107949[53.6593700,24.1682100] n333109208[53.6598000,24.1685500] n333108822[53.6602300,24.1692400] n333110540[53.6608300,24.1694900] n333110865[53.6615200,24.1701800] n333113452[53.6627200,24.1700100] n333110037[53.6630600,24.1675200] n333107925[53.6616000,24.1671800] n333109243[53.6613500,24.1665800] n333108101[53.6610900,24.1655500] n333107050[53.6600600,24.1638300] n333109847[53.6598000,24.1626300] n333108100[53.6602300,24.1624600] n333116113[53.6611700,24.1623700] n333114720[53.6618600,24.1649400] n333113903[53.6623800,24.1650300] n333108914[53.6638300,24.1647700] n333110781[53.6631500,24.1631400] n333113436[53.6623800,24.1604800] n333115182[53.6637500,24.1606500] n333115626[53.6649500,24.1587600] n333116150[53.6636600,24.1576500] n333115462[53.6619500,24.1576500]
-w30233362  Баляненты / Balianienty / Балененты / Балененты
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Баліненты | place=hamlet
+w30233362  Баліненты / Balianienty / Балиненты / Балиненты
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Баляненты | alt_name:ru=Балененты | place=hamlet
     geometry : n333113126[53.8353300,23.6271300] n333111201[53.8289700,23.6288500] n333111754[53.8278600,23.6244700] n333111576[53.8295700,23.6203500] n333114359[53.8263100,23.6190600] n333111592[53.8251100,23.6191500] n333114449[53.8242500,23.6239500] n333113709[53.8233658,23.6278384] n3155968750[53.8237840,23.6303782] n333114403[53.8240192,23.6328463] n3155968760[53.8240623,23.6337438] n333110975[53.8242312,23.6353273] n333108603[53.8238690,23.6355297] n333109874[53.8238493,23.6356851] n3155968754[53.8238991,23.6358824] n3155968770[53.8242628,23.6358413] n333107956[53.8262200,23.6350300] n333109781[53.8307800,23.6345100] n333114513[53.8313700,23.6312500] n333112380[53.8352400,23.6301300] n333113126[53.8353300,23.6271300]
 w30233363  Тапалёва / Tapaliova / Тополёво / Тополёво
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1440,8 +1425,8 @@ w30233395  Зарубічы / Zarubičy / Зарубичи / Зарубичи
 w30233397  Адамавічы / Adamavičy / Адамовичи / Адамовичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333113366[53.6895384,23.7304746] n3059417999[53.6897129,23.7367896] n3059418000[53.6897252,23.7372328] n3059418001[53.6897326,23.7375021] n333113049[53.6897874,23.7394851] n333110537[53.6916077,23.7395690] n333109106[53.6917063,23.7365336] n3318391709[53.6923128,23.7360597] n333114854[53.6928802,23.7309893] n333112704[53.6938419,23.7160403] n333111327[53.6905317,23.7155654] n333113366[53.6895384,23.7304746]
-w30233399  Кашубінцы / Broškaŭcy / Кашубинцы / Брошковцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+w30233399  Кашубінцы / Broškaŭcy / Кошубинцы / Кошубинцы
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Кашубинцы | place=hamlet
     geometry : n333110757[53.6138000,24.2095800] n333110801[53.6099173,24.2066618] n333113198[53.6089284,24.2072294] n333109993[53.6106200,24.2135200] n2509757434[53.6107662,24.2134807] n333115379[53.6128500,24.2129200] n333113851[53.6132800,24.2147300] n333111505[53.6143900,24.2140400] n1130809528[53.6146905,24.2139862] n333109140[53.6153400,24.2138700] n333111002[53.6152600,24.2127500] n333112336[53.6144800,24.2130100] n333110757[53.6138000,24.2095800]
 w30233406  Сухаўляны / Suchaŭliany / Суховляны / Суховляны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
@@ -1472,9 +1457,6 @@ w30233441  Казловічы / Kazlovičy / Козловичи / Козлови
 w30233443  Іванаўцы / Ivanaŭcy / Ивановцы / Ивановцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333110357[53.5092237,23.7750784] n1870463037[53.5092047,23.7724352] n1870463038[53.5093401,23.7708112] n1870463015[53.5083213,23.7701972] n333114240[53.5081051,23.7714644] n333111655[53.5068106,23.7703938] n333111614[53.5064937,23.7693128] n333113149[53.5036953,23.7678552] n333111724[53.5030237,23.7703171] n333109094[53.5029429,23.7726157] n1870462960[53.5043277,23.7736575] n1870463004[53.5071182,23.7748533] n1870463002[53.5068683,23.7763097] n333115277[53.5086648,23.7768992] n333110357[53.5092237,23.7750784]
-w30233445  Гліняны / Hliniany / Глиняны / Глиняны
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333108625[53.5976600,24.2912000] n333112662[53.5980000,24.2875100] n333109492[53.5985015,24.2862480] n333112897[53.5983717,24.2819663] n333107636[53.5964415,24.2821138] n2094813523[53.5957402,24.2864193] n333113191[53.5937900,24.2901700] n333115316[53.5927600,24.2936000] n333108425[53.5919100,24.2950600] n333107715[53.5907000,24.3000400] n333109005[53.5919100,24.3010700] n333107498[53.5932000,24.3019300] n333114502[53.5953400,24.2987500] n333111826[53.5980000,24.2967800] n333111629[53.5989400,24.2933500] n333110542[53.5988600,24.2909400] n333108625[53.5976600,24.2912000]
 w30233449  Навасады / Navasady / Новосады / Новосады
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n473895792[53.7971937,23.6696659] n333114865[53.7968089,23.6701506] n333115423[53.7965881,23.6703792] n333110052[53.7961523,23.6710447] n333112632[53.7953298,23.6713931] n333107938[53.7967000,23.6823200] n333115607[53.7977460,23.6811641] n333116147[53.7978640,23.6780315] n333106786[53.7981798,23.6764264] n333109462[53.7983788,23.6747803] n473895812[53.7974748,23.6722177] n333111307[53.7974215,23.6701874] n473895792[53.7971937,23.6696659]
@@ -1496,9 +1478,6 @@ w30233461  Жылічы / Žyličy / Жиличи / Жиличи
 w30233462  Камісарава / Kamisarava / Комиссарово / Комиссарово
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Камісарова | alt_name:ru=Комисарово | place=hamlet
     geometry : n333112854[53.7400147,23.6054750] n333113430[53.7400616,23.6046146] n3256685573[53.7417484,23.6050345] n3256685578[53.7418698,23.6053532] n3256685591[53.7426060,23.6059094] n3256685626[53.7442342,23.6059974] n3256685627[53.7442706,23.6053113] n3256685633[53.7444786,23.6051970] n3256685645[53.7453733,23.6057423] n3256685670[53.7460131,23.6057511] n3256685779[53.7477140,23.6055576] n3256685791[53.7479896,23.6056544] n3256685786[53.7479272,23.6070529] n3256685839[53.7495448,23.6069561] n3256685841[53.7496072,23.6053025] n3256685815[53.7487074,23.6050211] n3256685818[53.7487386,23.6044229] n3256685775[53.7476776,23.6042646] n3256685764[53.7469962,23.6042470] n3256685767[53.7470690,23.6027781] n3256685630[53.7443268,23.6030131] n3256685609[53.7433006,23.6025591] n3256685582[53.7420353,23.6023849] n3256685453[53.7412849,23.6025777] n3256685449[53.7409281,23.6036910] n3256685430[53.7402991,23.6034049] n3256685421[53.7399238,23.6025529] n3256685391[53.7390592,23.6021818] n333112139[53.7372373,23.6021193] n333116076[53.7350377,23.6026198] n333108826[53.7329824,23.6042054] n333111286[53.7332042,23.6052557] n333115617[53.7336028,23.6064902] n333112661[53.7345483,23.6057268] n3256685310[53.7355561,23.6055315] n333111489[53.7379108,23.6055332] n333112854[53.7400147,23.6054750]
-w30233468  Падліпкі / Padlipki / Подлипки / Подлипки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333107865[53.4969800,23.6929600] n333115556[53.4966300,23.6916700] n333108985[53.4972400,23.6894400] n333115304[53.4967200,23.6884100] n333108361[53.4950100,23.6897900] n333111161[53.4904500,23.6993100] n333106752[53.4902000,23.7033500] n333114840[53.4908000,23.7030900] n333114880[53.4909700,23.7038600] n333114761[53.4933800,23.7060100] n333107240[53.4945700,23.7073800] n333110999[53.4955200,23.7050600] n333107740[53.4943200,23.7030000] n333111604[53.4958600,23.6998300] n333109656[53.4996400,23.7006000] n333114560[53.5011000,23.6978500] n333107865[53.4969800,23.6929600]
 w30233470  Вулькаўцы / Vuĺkaŭcy / Вульковцы / Вульковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333107195[53.7405384,23.6779500] n333114045[53.7399310,23.6772297] n333107739[53.7405700,23.6863500] n333108209[53.7413763,23.6862430] n333109461[53.7418362,23.6886491] n333112752[53.7425042,23.6927707] n333113823[53.7434101,23.6926080] n2961695487[53.7422333,23.6849219] n333107062[53.7422265,23.6786648] n333110551[53.7424261,23.6752156] n333110091[53.7397609,23.6750035] n333107195[53.7405384,23.6779500]
@@ -1511,15 +1490,9 @@ w30233476  Кашэўнікі / Kašeŭniki / Кошевники / Кошевн�
 w30233517  Шчачынова / Ščačynova / Щечиново / Щечиново
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333112267[53.6498541,23.9655048] n2810123325[53.6502012,23.9638786] n2810123340[53.6506370,23.9631579] n333112830[53.6503938,23.9628517] n333114304[53.6498238,23.9626460] n333107919[53.6486569,23.9634090] n333115283[53.6479711,23.9645589] n333112385[53.6462487,23.9671305] n333107718[53.6457032,23.9727225] n2810123234[53.6476178,23.9741426] n333108075[53.6487213,23.9732447] n2810123272[53.6491260,23.9727535] n2810123293[53.6495755,23.9726542] n2810123308[53.6499411,23.9714271] n333109316[53.6493392,23.9680619] n333112267[53.6498541,23.9655048]
-w30233519  Казіміроўка / Kazimiroŭka / Казимировка / Казимировка
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333115216[53.7489800,23.9548300] n333115322[53.7455400,23.9539700] n333116054[53.7437400,23.9524300] n333111205[53.7423700,23.9617800] n333114670[53.7444006,23.9605516] n333110384[53.7434800,23.9668500] n333115393[53.7467500,23.9667600] n333107273[53.7473548,23.9652390] n333115490[53.7476176,23.9638295] n333115216[53.7489800,23.9548300]
 w30233522  Балічы / Baličy / Баличи / Баличи
-  other tags : addr:country=BY | addr:district=Берестовицкий район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n333112777[53.4266800,24.0107100] n333106992[53.4250600,24.0036700] n333112309[53.4244500,24.0032400] n333109089[53.4223900,24.0048700] n333113020[53.4242800,24.0125900] n333115868[53.4252200,24.0120800] n333113409[53.4261700,24.0118200] n333112172[53.4268600,24.0113100] n333112777[53.4266800,24.0107100]
-w30233524  Мігова / Mihova / Мигово / Мигово
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333112792[53.5928042,24.0154465] n333107922[53.5923903,24.0153149] n333116105[53.5917948,24.0156161] n2874369687[53.5904645,24.0170015] n333114606[53.5896314,24.0199878] n333110810[53.5900200,24.0204900] n333109079[53.5901100,24.0214400] n333115716[53.5927037,24.0182429] n333113381[53.5926800,24.0169700] n333112792[53.5928042,24.0154465]
 w30233525  Пагараны / Paharany / Погораны / Погораны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333107912[53.6416288,23.9374709] n333115660[53.6414642,23.9363170] n333114299[53.6414984,23.9352338] n333109888[53.6413198,23.9341499] n333107836[53.6403227,23.9344332] n2062131319[53.6394536,23.9347663] n2062131301[53.6389747,23.9347550] n333115038[53.6385563,23.9350576] n2062131265[53.6379272,23.9353590] n2062131263[53.6379249,23.9362303] n2062131250[53.6376678,23.9363126] n2062131239[53.6374948,23.9355310] n2062131232[53.6371822,23.9360022] n2062131222[53.6371334,23.9367090] n2062131210[53.6368053,23.9365893] n2062131204[53.6364749,23.9365706] n2062131197[53.6362798,23.9366678] n2062131189[53.6359029,23.9371540] n2062131184[53.6355234,23.9372239] n333112750[53.6353431,23.9374645] n2062131162[53.6348984,23.9385363] n333114651[53.6347266,23.9391841] n2062131160[53.6348424,23.9392720] n566689225[53.6358738,23.9388401] n2062131214[53.6369833,23.9385674] n2062131241[53.6375116,23.9382739] n2062131272[53.6380901,23.9381813] n2062131293[53.6386891,23.9379199] n2062131317[53.6394503,23.9377477] n2062131345[53.6398705,23.9378323] n2062131360[53.6403878,23.9379963] n333107747[53.6407536,23.9379721] n2062131377[53.6412680,23.9377443] n2062131383[53.6413338,23.9387279] n2062131402[53.6414968,23.9387385] n2062131398[53.6414764,23.9398808] n2062131380[53.6413181,23.9399178] n2062131381[53.6413295,23.9411750] n2062131451[53.6424135,23.9412378] n2062131455[53.6424327,23.9406294] n2062131424[53.6417330,23.9403997] n2062131422[53.6417236,23.9398444] n333115738[53.6420925,23.9396158] n2062131435[53.6420835,23.9379340] n333107912[53.6416288,23.9374709]
@@ -1580,9 +1553,6 @@ w30233585  Беражаны / Bieražany / Бережаны / Бережаны
 w30233586  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333111293[53.5244400,23.8565500] n333107954[53.5225600,23.8566400] n333113044[53.5219055,23.8656430] n333107611[53.5255491,23.8653836] n333114980[53.5263400,23.8573300] n3002130576[53.5255718,23.8570146] n3002130564[53.5254173,23.8569512] n333111293[53.5244400,23.8565500]
-w30233588  Казіміроўка / Kazimiroŭka / Казимировка / Казимировка
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Казіміраўка | landuse=residential | place=hamlet
-    geometry : n2776763728[53.7330035,23.9868498] n333110108[53.7353254,23.9857265] n333107603[53.7362395,23.9841321] n3096084029[53.7383561,23.9826330] n3096084038[53.7409386,23.9803771] n3096084040[53.7414981,23.9798781] n333115606[53.7433111,23.9793033] n3096084063[53.7449997,23.9778269] n3096084077[53.7465999,23.9783231] n333113960[53.7468591,23.9750039] n333114322[53.7459373,23.9726764] n3096084072[53.7456358,23.9736822] n3096084043[53.7427155,23.9764475] n333107561[53.7422839,23.9753481] n333109880[53.7393093,23.9779079] n333107126[53.7388346,23.9766099] n3096083973[53.7334122,23.9809385] n3096083977[53.7339779,23.9825602] n333111440[53.7322254,23.9840011] n3096083970[53.7322868,23.9848577] n2776763728[53.7330035,23.9868498]
 w30233590  Партызанская / Partyzanskaja / Партизанская / Партизанская
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Пузавічы | place=hamlet
     geometry : n333113433[53.5655094,24.2318424] n333115453[53.5544000,24.2234800] n333113461[53.5539700,24.2257100] n333112824[53.5539700,24.2262300] n333109838[53.5538000,24.2266600] n333114469[53.5541774,24.2273350] n333107768[53.5552600,24.2279400] n333108694[53.5562000,24.2288900] n333112835[53.5572391,24.2299347] n1039476268[53.5578759,24.2309447] n333115027[53.5589500,24.2320600] n333111478[53.5592100,24.2328400] n333115795[53.5594600,24.2329200] n333112080[53.5623000,24.2359300] n333115165[53.5631500,24.2369600] n333107102[53.5640100,24.2374700] n333107297[53.5644346,24.2377858] n333107409[53.5653900,24.2342100] n333113433[53.5655094,24.2318424]
@@ -1607,8 +1577,8 @@ w30233613  Кругляны / Kruhliany / Кругляны / Кругляны
 w30233624  Радзявічы / Radziavičy / Радевичи / Радевичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333115008[53.5169357,23.7443200] n333115468[53.5147537,23.7436733] n333107087[53.5152675,23.7415133] n333109599[53.5128328,23.7396974] n1870463114[53.5120718,23.7394839] n1870463075[53.5107418,23.7393218] n333108114[53.5101928,23.7401177] n1870463036[53.5091395,23.7394977] n333112421[53.5083286,23.7430138] n1870463080[53.5110355,23.7451830] n1870463061[53.5105688,23.7466653] n1870463085[53.5111606,23.7470712] n1870463113[53.5120015,23.7472152] n1870463123[53.5126478,23.7450154] n1032146796[53.5144903,23.7463408] n333115336[53.5144624,23.7465822] n1870463206[53.5154502,23.7473524] n333109793[53.5157848,23.7462245] n333107589[53.5169072,23.7470944] n333115973[53.5176025,23.7448871] n333115008[53.5169357,23.7443200]
-w30233630  Забагонікі / Zabahoniki / Забагоники / Забагоники
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+w30233630  Забагонікі / Zabahoniki / Забогоники / Забогоники
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Забагоники | place=hamlet
     geometry : n333114042[53.7086400,24.0894100] n333111352[53.7069200,24.0897600] n333112020[53.7062400,24.0909600] n333109682[53.7085500,24.0998800] n333111850[53.7095800,24.0991100] n333106776[53.7099300,24.0990300] n333114518[53.7108700,24.0982500] n333114042[53.7086400,24.0894100]
 w30233631  Камяністая / Kamianistaja / Каменистая / Каменистая
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1700,15 +1670,15 @@ w30233715  Пракопавічы / Prakopavičy / Прокоповичи / Пр
 w30233720  Малое Дзямідкава / Maloje Dziamidkava / Малое Демидково / Малое Демидково
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333111676[53.5226277,23.7869270] n1031881050[53.5222220,23.7881228] n333115311[53.5220690,23.7895387] n1870463417[53.5245104,23.7913154] n1870463447[53.5259423,23.7907693] n1870463455[53.5262420,23.7910074] n333115709[53.5268875,23.7887679] n333114285[53.5266336,23.7885372] n333109976[53.5276918,23.7850655] n1870463476[53.5282615,23.7830246] n333116086[53.5279241,23.7823949] n1870463473[53.5281720,23.7809705] n1870463477[53.5282778,23.7800530] n1870463463[53.5280662,23.7793409] n1870463494[53.5289453,23.7772731] n1870463474[53.5282371,23.7764514] n1870463496[53.5289534,23.7740276] n1870463481[53.5285057,23.7737126] n1870463461[53.5280596,23.7737422] n1870463457[53.5266453,23.7730921] n1870463449[53.5260999,23.7741876] n1870463435[53.5248826,23.7785974] n1870463443[53.5256275,23.7790082] n1870463438[53.5252181,23.7800468] n1870463419[53.5245180,23.7800605] n1870463411[53.5243552,23.7807863] n333110916[53.5237959,23.7801969] n1870463413[53.5243812,23.7783409] n1870463402[53.5237508,23.7774887] n333109068[53.5241011,23.7757210] n333107357[53.5222459,23.7747517] n333109742[53.5215411,23.7791556] n333108590[53.5207516,23.7787499] n333108417[53.5206419,23.7798225] n333114860[53.5196813,23.7794710] n1870463338[53.5194399,23.7807813] n1870463359[53.5200986,23.7812264] n333114470[53.5193840,23.7841271] n333111676[53.5226277,23.7869270]
+w30233722  Васарабы / Vasaraby / Васарабы / Васарабы
+  other tags : landuse=residential | place=hamlet
+    geometry : n333110089[53.7711468,23.7097020] n333114679[53.7694923,23.7067168] n333116110[53.7671248,23.7082520] n333114671[53.7645522,23.7194440] n333112671[53.7651555,23.7409218] n333107572[53.7667723,23.7414931] n333115845[53.7679569,23.7419040] n333111226[53.7680286,23.7324436] n333113689[53.7684009,23.7254641] n333110563[53.7686164,23.7201899] n333114589[53.7701057,23.7141566] n333110089[53.7711468,23.7097020]
 w30233724  Глушнева / Hlušnieva / Глушнево / Глушнево
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333109078[53.8549800,24.2540400] n333115969[53.8591000,24.2537800] n333108741[53.8596100,24.2545500] n333115761[53.8601300,24.2555800] n333114316[53.8624500,24.2517200] n333112292[53.8621900,24.2500900] n333112689[53.8621900,24.2487200] n333108655[53.8615900,24.2476900] n333109536[53.8628800,24.2476000] n333108869[53.8627900,24.2438200] n333113159[53.8611600,24.2434800] n333115426[53.8625300,24.2424500] n333113037[53.8622700,24.2415900] n333113767[53.8613300,24.2399600] n333111015[53.8608200,24.2385900] n333108274[53.8594400,24.2390200] n333114400[53.8590200,24.2401300] n333107316[53.8581500,24.2406500] n333108920[53.8581500,24.2421100] n333110760[53.8585000,24.2446800] n333110001[53.8582400,24.2477700] n333113263[53.8577300,24.2488900] n333107545[53.8549000,24.2506000] n333106993[53.8549000,24.2518100] n333110011[53.8549800,24.2524900] n333109078[53.8549800,24.2540400]
 w30233727  Стрыеўка / Stryjeŭka / Стриевка / Стриевка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333113540[53.7303784,24.1388977] n333111158[53.7301553,24.1305746] n333114298[53.7282900,24.1304400] n333115433[53.7269200,24.1285500] n333108514[53.7249400,24.1286400] n333107219[53.7242600,24.1307000] n333108600[53.7244300,24.1341300] n333114484[53.7254600,24.1340500] n333114592[53.7255500,24.1378200] n333109818[53.7258900,24.1382500] n333114001[53.7270900,24.1382500] n333112787[53.7271800,24.1409100] n333107226[53.7259700,24.1437400] n333109612[53.7274300,24.1452000] n333111117[53.7275200,24.1462300] n333115493[53.7297547,24.1457244] n333107867[53.7294027,24.1495537] n333115900[53.7309503,24.1494612] n333109456[53.7315059,24.1474792] n3191462895[53.7342434,24.1472877] n333110005[53.7349563,24.1467816] n333111442[53.7355900,24.1458000] n333114832[53.7379100,24.1456300] n333116087[53.7401400,24.1432300] n333112999[53.7399700,24.1396200] n333113209[53.7452900,24.1333600] n333114211[53.7462331,24.1313272] n333110804[53.7462300,24.1297500] n333107823[53.7457442,24.1283090] n333107504[53.7443599,24.1289778] n333115228[53.7403864,24.1313990] n333107190[53.7319292,24.1399766] n333113540[53.7303784,24.1388977]
-w30233730  Старына / Staryna / Старина / Старина
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333107940[53.6988060,24.1361355] n333107432[53.6982500,24.1415100] n333112757[53.6995400,24.1417700] n333111373[53.7000513,24.1413502] n333109664[53.7001043,24.1392743] n333110769[53.7003149,24.1376085] n333108856[53.7003622,24.1366392] n2759612659[53.7005494,24.1358335] n333107235[53.7006600,24.1343900] n333107940[53.6988060,24.1361355]
 w30233731  Міхайлаўка / Michajlaŭka / Михайловка / Михайловка
   other names: name:uk=Михайлівка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1726,7 +1696,7 @@ w30233741  Бушнева / Bušnieva / Бушнево / Бушнево
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333107830[53.7494100,24.1001400] n333115271[53.7501800,24.0996300] n333108868[53.7476900,24.0903600] n333114808[53.7467500,24.0907900] n333115663[53.7454600,24.0914700] n333111347[53.7461500,24.0958500] n333107761[53.7477800,24.1008300] n333107830[53.7494100,24.1001400]
 w30233746  Верцялішкі / Vierciališki / Вертелишки / Вертелишки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village
     geometry : n3390616761[53.7058925,23.9968209] n3390616760[53.7055665,23.9938656] n3390616763[53.7072124,23.9859401] n3390616764[53.7078962,23.9820580] n3390616762[53.7072124,23.9812117] n3390616759[53.7049065,23.9876327] n3390616758[53.7039285,23.9867192] n3390616757[53.7033877,23.9866386] n3390616756[53.7020518,23.9867058] n3390616755[53.7012248,23.9894193] n3390616752[53.7001512,23.9884387] n3390616751[53.6999285,23.9892850] n3390616754[53.7003261,23.9897551] n3390616753[53.7001512,23.9919581] n333116060[53.6988108,23.9980134] n333114382[53.6918753,24.0141577] n3390616740[53.6916252,24.0200197] n333108045[53.6932145,24.0217528] n333115386[53.7006000,24.0208527] n333110058[53.7019400,24.0170600] n333113418[53.7040000,24.0133700] n333114307[53.7090700,24.0037500] n333110074[53.7083570,24.0015859] n3101546040[53.7080045,24.0011808] n333107492[53.7074583,23.9996037] n3390616761[53.7058925,23.9968209]
 w30233748  Сухары / Suchary / Сухари / Сухари
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -1751,7 +1721,7 @@ w30233780  Падбелае / Padbielaje / Подбелое / Подбелое
     geometry : n333114241[53.8258800,24.1825400] n333112250[53.8258000,24.1784200] n333113563[53.8251100,24.1781600] n437334017[53.8248660,24.1784763] n333108657[53.8240000,24.1782500] n333115348[53.8231300,24.1787600] n333114721[53.8233100,24.1833100] n333108815[53.8246800,24.1832300] n333114241[53.8258800,24.1825400]
 w30233783  Караліно / Karalino / Каролино / Каролино
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333110205[53.6359400,23.7250600] n333107164[53.6366300,23.7243800] n333113393[53.6363700,23.7236000] n333109459[53.6321424,23.7159250] n2322534782[53.6308762,23.7120347] n2322534771[53.6300976,23.7090599] n333110897[53.6294765,23.7051419] n2214578951[53.6292676,23.7042414] n333115551[53.6273415,23.7051296] n333114269[53.6276462,23.7077606] n333112710[53.6267703,23.7101034] n333108280[53.6269450,23.7112171] n333108473[53.6288100,23.7147600] n333112893[53.6301900,23.7191400] n333113456[53.6301000,23.7209400] n333112364[53.6318200,23.7237700] n333113714[53.6329296,23.7266237] n333111579[53.6335711,23.7283607] n333114726[53.6351619,23.7307220] n2322534987[53.6364017,23.7328251] n2322535190[53.6385200,23.7342679] n2322535207[53.6400434,23.7367689] n2322535210[53.6403367,23.7375246] n810249654[53.6413887,23.7383125] n333110497[53.6420915,23.7365388] n333111779[53.6370500,23.7271200] n333110205[53.6359400,23.7250600]
+    geometry : n333110205[53.6359400,23.7250600] n333107164[53.6366300,23.7243800] n333113393[53.6363700,23.7236000] n333109459[53.6321424,23.7159250] n2322534782[53.6308762,23.7120347] n2322534771[53.6300976,23.7090599] n333110897[53.6294765,23.7051419] n2214578951[53.6292676,23.7042414] n333115551[53.6273415,23.7051296] n333114269[53.6276462,23.7077606] n333112710[53.6267703,23.7101034] n333108280[53.6269450,23.7112171] n333108473[53.6288100,23.7147600] n333112893[53.6301900,23.7191400] n333113456[53.6301000,23.7209400] n333112364[53.6318200,23.7237700] n333113714[53.6329296,23.7266237] n333111579[53.6335711,23.7283607] n333114726[53.6351619,23.7307220] n2322534987[53.6364017,23.7328251] n2322535190[53.6385200,23.7342679] n2322535207[53.6400434,23.7367689] n2322535210[53.6403367,23.7375246] n810249654[53.6409883,23.7376697] n333110497[53.6420915,23.7365388] n333111779[53.6370500,23.7271200] n333110205[53.6359400,23.7250600]
 w30233784  Курпікі / Kurpiki / Курпики / Курпики
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333115268[53.5622382,24.1014510] n1307601288[53.5615719,24.1007478] n333109866[53.5609544,24.1016700] n333114861[53.5609644,24.1034929] n333115653[53.5618662,24.1050827] n2352766662[53.5615840,24.1070071] n333108798[53.5606281,24.1089461] n2352766341[53.5604650,24.1113283] n1307601287[53.5607804,24.1135054] n333111813[53.5618838,24.1132701] n333107931[53.5616795,24.1109377] n333111912[53.5621661,24.1083040] n333113449[53.5623800,24.1081200] n333107833[53.5625500,24.1073500] n1307601309[53.5628618,24.1059066] n1307601331[53.5625661,24.1039825] n333115268[53.5622382,24.1014510]
@@ -1761,9 +1731,6 @@ w30233789  Старая Руда / Staraja Ruda / Старая Руда / Ста
 w30233791  Коматава / Komatava / Комотово / Комотово
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333111611[53.5774900,24.0331900] n333107659[53.5769700,24.0325900] n333113112[53.5751700,24.0312200] n333115440[53.5743100,24.0341400] n333108403[53.5740270,24.0348583] n333108794[53.5739700,24.0356000] n333113233[53.5732800,24.0377400] n333110484[53.5735400,24.0381700] n333111322[53.5737100,24.0381700] n333107435[53.5743100,24.0388600] n333110942[53.5756000,24.0401500] n333111611[53.5774900,24.0331900]
-w30233794  Старына / Staryna / Старина / Старина
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333107915[53.6948200,24.1367900] n333114323[53.6949900,24.1434000] n333113570[53.6964500,24.1464900] n333111631[53.6977400,24.1462300] n333112584[53.6976500,24.1426300] n333115819[53.6961900,24.1367100] n333107915[53.6948200,24.1367900]
 w30233795  null / null / Баторовка / Баторовка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n333109629[53.6510516,24.0074283] n333108631[53.6521610,24.0082603] n333111261[53.6523498,24.0075434] n333113419[53.6512405,24.0067114] n333109629[53.6510516,24.0074283]
@@ -1841,13 +1808,10 @@ w30233884  Сінявічы / Siniavičy / Синевичи / Синевичи
     geometry : n333109634[53.8947200,23.7688400] n333107737[53.8949800,23.7609400] n333108511[53.8903400,23.7609400] n333106756[53.8902600,23.7703800] n333114696[53.8907211,23.7705235] n333115601[53.8933273,23.7704435] n333113552[53.8942000,23.7712400] n333111323[53.8947200,23.7708100] n333109634[53.8947200,23.7688400]
 w30233886  Новая Руда / Novaja Ruda / Новая Руда / Новая Руда
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333107468[53.8224500,24.2350700] n333111035[53.8221900,24.2358400] n333109729[53.8226200,24.2370400] n333109113[53.8225400,24.2380700] n333113249[53.8235700,24.2415100] n333109230[53.8246000,24.2407300] n333115207[53.8247700,24.2402200] n333116066[53.8249400,24.2400500] n333114626[53.8257100,24.2388400] n333107875[53.8254500,24.2367000] n333109744[53.8253700,24.2355000] n333110765[53.8254500,24.2339500] n333113378[53.8244200,24.2340400] n333110343[53.8237400,24.2348100] n333107468[53.8224500,24.2350700]
+    geometry : n3489178333[53.8236951,24.2414153] n333109230[53.8246000,24.2407300] n333115207[53.8247700,24.2402200] n333116066[53.8249400,24.2400500] n333114626[53.8257100,24.2388400] n333107875[53.8254500,24.2367000] n333109744[53.8253700,24.2355000] n333110765[53.8254500,24.2339500] n333113378[53.8244200,24.2340400] n333110343[53.8237400,24.2348100] n333107468[53.8224500,24.2350700] n333111035[53.8221900,24.2358400] n333109729[53.8226200,24.2370400] n333109113[53.8225400,24.2380700] n3489178331[53.8235170,24.2413330] n3489178330[53.8234561,24.2415581] n333106913[53.8227900,24.2418500] n333107149[53.8209100,24.2424500] n333108012[53.8201300,24.2429600] n333111916[53.8199600,24.2429600] n333113446[53.8197900,24.2405600] n333106878[53.8190100,24.2386700] n333115059[53.8167900,24.2403000] n333110345[53.8155000,24.2386700] n333110014[53.8136100,24.2426200] n333108770[53.8151500,24.2457100] n333112737[53.8185000,24.2483700] n333110071[53.8188500,24.2507800] n333116172[53.8203000,24.2534400] n333109499[53.8236500,24.2544700] n333108335[53.8246800,24.2573800] n333115967[53.8257100,24.2564400] n333109923[53.8285400,24.2568700] n333115472[53.8320600,24.2557500] n333114890[53.8318900,24.2540400] n333114455[53.8338600,24.2539500] n333114796[53.8339500,24.2506900] n333115253[53.8256300,24.2512900] n333107806[53.8246000,24.2507800] n333107546[53.8237400,24.2500000] n333114749[53.8219400,24.2494000] n333107013[53.8216800,24.2483700] n333108295[53.8215900,24.2474300] n333114398[53.8219400,24.2468300] n333110224[53.8224500,24.2469100] n333113264[53.8233100,24.2468300] n333113154[53.8244200,24.2472600] n333110561[53.8246000,24.2449400] n3489178332[53.8236128,24.2416635] n3489178333[53.8236951,24.2414153]
 w30233898  Новікі / Noviki / Новики / Новики
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333114675[53.8469905,23.6242735] n333108017[53.8458496,23.6258955] n333107894[53.8453666,23.6250861] n333108602[53.8440553,23.6261877] n3170754682[53.8438146,23.6249036] n333115208[53.8437234,23.6241063] n333116144[53.8433912,23.6238172] n333110559[53.8433432,23.6247447] n333114515[53.8381706,23.6278803] n333113693[53.8384061,23.6295991] n333115922[53.8406321,23.6305321] n333108707[53.8417846,23.6302295] n333116114[53.8438174,23.6283492] n3170754702[53.8443419,23.6279356] n333112376[53.8450352,23.6287243] n333115270[53.8454020,23.6279890] n333115538[53.8467044,23.6264922] n333108595[53.8473384,23.6255447] n3170755091[53.8476696,23.6260076] n333112414[53.8483858,23.6248485] n3170755261[53.8483250,23.6236546] n333108312[53.8482317,23.6219433] n3170755141[53.8481418,23.6217915] n3170755095[53.8477103,23.6218191] n3170755101[53.8477592,23.6211428] n3170755029[53.8472096,23.6209358] n3170755027[53.8472015,23.6215707] n3170755051[53.8473277,23.6218950] n3170755037[53.8472462,23.6221089] n3170754982[53.8468595,23.6221227] n3170754963[53.8466356,23.6226057] n3170754859[53.8466030,23.6237098] n333114675[53.8469905,23.6242735]
-w30233907  Хамуты / Chamuty / Хомуты / Хомуты
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333113071[53.8398302,24.1846688] n333110138[53.8401300,24.1859700] n333109797[53.8404800,24.1877800] n333114239[53.8419300,24.1869200] n333107716[53.8428031,24.1856188] n333108852[53.8421419,24.1835648] n333113071[53.8398302,24.1846688]
 w30233908  Гарны / Harny / Горны / Горны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333116064[53.5665000,23.9980000] n333108247[53.5665900,23.9967200] n333114428[53.5656400,23.9959400] n333109129[53.5647000,23.9948300] n333110707[53.5642700,23.9935400] n333107654[53.5610100,23.9936300] n333106989[53.5610100,23.9951700] n333108750[53.5544900,23.9938000] n333115404[53.5544000,23.9964600] n333111625[53.5558600,23.9967200] n333115755[53.5555664,23.9984650] n333115369[53.5556891,23.9991583] n333115476[53.5558626,24.0004391] n333114644[53.5578300,24.0009200] n333113512[53.5605800,24.0017800] n333107796[53.5633300,24.0030700] n333109608[53.5634100,24.0052100] n333108779[53.5641000,24.0051300] n333114567[53.5645300,24.0061600] n333110806[53.5659900,24.0059000] n333112928[53.5661600,24.0049600] n333109470[53.5666700,24.0014400] n333116064[53.5665000,23.9980000]
@@ -1914,9 +1878,6 @@ w30233968  Сколабава / Skolabava / Сколобово / Сколобо�
 w30233970  Шынкаўцы / Šynkaŭcy / Шинковцы / Шинковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333113245[53.8220200,23.7145100] n333111800[53.8195123,23.7127822] n333108884[53.8144402,23.7206700] n333107609[53.8186101,23.7273777] n333113389[53.8187372,23.7353805] n333115467[53.8193600,23.7433400] n333115168[53.8183300,23.7434300] n333115407[53.8182400,23.7473800] n333108991[53.8190100,23.7486700] n333115718[53.8191000,23.7498700] n333108466[53.8190100,23.7515000] n333113877[53.8196200,23.7523600] n333115328[53.8191900,23.7561300] n333113618[53.8205600,23.7551000] n333110779[53.8209100,23.7557447] n333108648[53.8216800,23.7556200] n333111802[53.8221900,23.7541600] n333109787[53.8222800,23.7531300] n333112575[53.8227968,23.7403004] n333106850[53.8220619,23.7345283] n333115887[53.8210700,23.7260100] n333108529[53.8224500,23.7207700] n333115487[53.8219400,23.7174200] n333113245[53.8220200,23.7145100]
-w30233977  Новая Руда / Novaja Ruda / Новая Руда / Новая Руда
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333108295[53.8215900,24.2474300] n333114398[53.8219400,24.2468300] n333110224[53.8224500,24.2469100] n333113264[53.8233100,24.2468300] n333113154[53.8244200,24.2472600] n333110561[53.8246000,24.2449400] n333113249[53.8235700,24.2415100] n333106913[53.8227900,24.2418500] n333107149[53.8209100,24.2424500] n333108012[53.8201300,24.2429600] n333111916[53.8199600,24.2429600] n333113446[53.8197900,24.2405600] n333106878[53.8190100,24.2386700] n333115059[53.8167900,24.2403000] n333110345[53.8155000,24.2386700] n333110014[53.8136100,24.2426200] n333108770[53.8151500,24.2457100] n333112737[53.8185000,24.2483700] n333110071[53.8188500,24.2507800] n333116172[53.8203000,24.2534400] n333109499[53.8236500,24.2544700] n333108335[53.8246800,24.2573800] n333115967[53.8257100,24.2564400] n333109923[53.8285400,24.2568700] n333115472[53.8320600,24.2557500] n333114890[53.8318900,24.2540400] n333114455[53.8338600,24.2539500] n333114796[53.8339500,24.2506900] n333115253[53.8256300,24.2512900] n333107806[53.8246000,24.2507800] n333107546[53.8237400,24.2500000] n333114749[53.8219400,24.2494000] n333107013[53.8216800,24.2483700] n333108295[53.8215900,24.2474300]
 w30233979  Дзякалавічы / Dziakalavičy / Декаловичи / Декаловичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Дзекалавічы;Дэкалавічы;Дэкаловічы | place=hamlet
     geometry : n333115505[53.5025731,24.0562492] n2290957230[53.5008661,24.0547420] n333107449[53.4992100,24.0536200] n333106788[53.4986858,24.0533990] n333108456[53.4989675,24.0511935] n333115232[53.4986141,24.0510694] n333114215[53.4971898,24.0505635] n333110341[53.4962141,24.0505407] n2290956587[53.4955766,24.0528586] n333109816[53.4957933,24.0566313] n333113467[53.4979702,24.0574716] n333115563[53.4988397,24.0582076] n333106979[53.5012600,24.0583332] n333115505[53.5025731,24.0562492]
@@ -1939,9 +1900,6 @@ w30233999  Лікоўка / Likoŭka / Ликовка / Ликовка
 w30234001  Скраблякі / Skrabliaki / Скребляки / Скребляки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333110222[53.4247100,23.7358800] n333108577[53.4248000,23.7356200] n333115340[53.4253100,23.7351900] n333114558[53.4260000,23.7343300] n333114777[53.4260000,23.7309000] n333107631[53.4248800,23.7308100] n333109731[53.4241900,23.7310700] n333108576[53.4214500,23.7309000] n333107962[53.4213600,23.7357100] n333110222[53.4247100,23.7358800]
-w30234005  Пералом / Pieralom / Перелом / Перелом
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333115650[53.8757794,23.7632555] n3089585567[53.8746703,23.7631916] n333110747[53.8744864,23.7639629] n3089585362[53.8740162,23.7644085] n333112538[53.8737994,23.7675555] n333109905[53.8745694,23.7677255] n333107431[53.8755994,23.7676355] n333115650[53.8757794,23.7632555]
 w30234012  Ляшчыцы / Liaščycy / Лещицы / Лещицы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Лішчыцы | place=hamlet
     geometry : n3160546252[53.6834012,24.2894282] n333113516[53.6820948,24.2871557] n333110155[53.6775523,24.2870197] n333112958[53.6771400,24.2880300] n333114281[53.6773100,24.2889700] n333113578[53.6773100,24.2907700] n333108157[53.6784300,24.2911200] n333114593[53.6791100,24.2911200] n333108621[53.6829700,24.2938600] n333114603[53.6850300,24.2936000] n333115164[53.6850300,24.2913700] n333110231[53.6849030,24.2901339] n3160546252[53.6834012,24.2894282]
@@ -1951,9 +1909,6 @@ w30234016  Лужкі / Lužki / Лужки / Лужки
 w30234020  Шэмбелеўцы / Šembielieŭcy / Шембелевцы / Шембелевцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333114741[53.7579900,23.7975900] n333110251[53.7585900,23.7958700] n333108844[53.7561000,23.7929500] n333110802[53.7553300,23.7954400] n333107465[53.7549900,23.7972500] n333109364[53.7573000,23.7992200] n333114741[53.7579900,23.7975900]
-w30234027  Узбераж / Uzbieraž / Узбережь / Узбережь
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333112037[53.9195116,24.2295491] n333107239[53.9189447,24.2307429] n333109221[53.9196117,24.2316561] n333114318[53.9201786,24.2304623] n333112037[53.9195116,24.2295491]
 w30234028  Пралейкі / Praliejki / Пролейки / Пролейки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333107201[53.7963047,23.5956735] n333108845[53.7965030,23.5950549] n3175605439[53.7959076,23.5931557] n333113667[53.7954290,23.5921803] n3175605418[53.7948050,23.5916806] n333114564[53.7889862,23.5847804] n333114619[53.7886288,23.5854531] n333112615[53.7860073,23.5824911] n333108849[53.7856971,23.5831366] n333114723[53.7879655,23.5874683] n333112680[53.7900832,23.5897963] n333108696[53.7916691,23.5915483] n333113700[53.7928215,23.5931339] n333111646[53.7947143,23.5945767] n333107201[53.7963047,23.5956735]
@@ -1976,9 +1931,6 @@ w30234047  Пруды / Prudy / Пруды / Пруды
   other names: name:uk=Пруди
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333112837[53.6485600,24.1689800] n333108829[53.6489000,24.1668300] n333114532[53.6478834,24.1668216] n333110680[53.6473500,24.1655500] n333111171[53.6462400,24.1638300] n333112694[53.6451300,24.1637400] n333110887[53.6450400,24.1655500] n333113051[53.6440100,24.1699200] n333114674[53.6431500,24.1736100] n333109034[53.6435800,24.1741300] n333112350[53.6429800,24.1762700] n333111125[53.6439200,24.1777300] n333113357[53.6451300,24.1766200] n333114682[53.6467500,24.1743900] n333111196[53.6476100,24.1737000] n333112837[53.6485600,24.1689800]
-w30234050  Барбарычы / Barbaryčy / Барбаричи / Барбаричи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n333108917[53.7958848,23.8979859] n1229693969[53.7966206,23.8990957] n3370151551[53.7979219,23.8973706] n3370151552[53.7979416,23.8951785] n1229693921[53.7979106,23.8946493] n333107895[53.7962688,23.8939676] n333112610[53.7951244,23.8941755] n333114040[53.7937498,23.8942948] n333115330[53.7930086,23.8942771] n333113579[53.7910731,23.8948228] n333107630[53.7909002,23.8963758] n1229693995[53.7917059,23.8973126] n333107016[53.7925394,23.8974501] n1229693933[53.7928664,23.8971834] n1229693977[53.7933322,23.8971446] n1229693942[53.7936223,23.8976229] n1229693966[53.7945156,23.8981658] n333108917[53.7958848,23.8979859]
 w30234052  Чарнуха / Čarnucha / Чернуха / Чернуха
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333112775[53.9297400,24.0804900] n333111342[53.9278500,24.0805700] n333108859[53.9270800,24.0808300] n333115486[53.9268200,24.0823800] n333114525[53.9269900,24.0829800] n333107781[53.9275900,24.0830600] n333107246[53.9277600,24.0850400] n333111993[53.9298200,24.0846900] n333112775[53.9297400,24.0804900]
@@ -2101,9 +2053,6 @@ w148113587  Кодзі / null / Коди / Коди
 w199494935  Будоўля / Budoŭlia / Будовля / Будовля
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2094812980[53.5881587,24.0745725] n2094812916[53.5861091,24.0741286] n2094812903[53.5856700,24.0798256] n2094812993[53.5883929,24.0787404] n2094813002[53.5886125,24.0747452] n2094812980[53.5881587,24.0745725]
-w199494941  Мігова / Mihova / Мигово / Мигово
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n320795656[53.6025935,24.0154516] n2094813642[53.6000916,24.0167595] n2094813636[53.5997422,24.0168983] n1878246472[53.5973883,24.0150690] n320795665[53.5972710,24.0141656] n320795664[53.5981269,24.0120809] n1878246477[53.5989940,24.0117531] n320795663[53.5996182,24.0125353] n320795662[53.5997345,24.0130194] n320795661[53.5999567,24.0130348] n320795660[53.6000545,24.0133950] n320795659[53.6014673,24.0120632] n1878246479[53.6016382,24.0125052] n320795658[53.6011221,24.0141219] n1878246478[53.6013211,24.0142034] n320795657[53.6020604,24.0139460] n1878246481[53.6025505,24.0145629] n320795656[53.6025935,24.0154516]
 w199495007  Прыступічы / Prystupičy / Приступичи / Приступичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n333107060[53.5837624,24.3328951] n333115434[53.5818439,24.3359557] n333112761[53.5836700,24.3390900] n333111616[53.5854700,24.3359200] n333107060[53.5837624,24.3328951]
@@ -2119,25 +2068,10 @@ w199566696  Цыдзікі / Cydziki / Цыдики / Цыдики
 w199615509  Гадуны / Haduny / Годуны / Годуны
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2096008298[53.9184208,24.1628071] n2096008296[53.9174615,24.1620218] n2096008295[53.9167807,24.1644195] n2096008299[53.9187675,24.1660458] n2096008301[53.9194482,24.1636481] n2096008298[53.9184208,24.1628071]
-w199615523  Пералом / Pieralom / Перелом / Перелом
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2096008293[53.8960906,23.7811419] n2096008292[53.8956873,23.7849389] n2096008290[53.8954856,23.7851345] n2096008288[53.8933357,23.7838342] n2096008283[53.8929228,23.7830764] n2096008287[53.8931629,23.7816749] n2096008284[53.8929324,23.7807623] n2096008286[53.8930332,23.7795401] n2096008285[53.8929948,23.7786846] n2096008289[53.8940080,23.7794098] n2096008291[53.8955252,23.7804609] n2096008293[53.8960906,23.7811419]
-w199615524  Узбераж / Uzbieraž / Узбережь / Узбережь
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2096008321[53.9423056,24.2327201] n2096008317[53.9407115,24.2315128] n2096008316[53.9403850,24.2332421] n2096008320[53.9419503,24.2342863] n2096008321[53.9423056,24.2327201]
-w199615527  Узбераж / Uzbieraž / Узбережь / Узбережь
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2096008308[53.9320386,24.2250580] n3221337577[53.9310008,24.2280257] n3221337579[53.9324738,24.2295118] n2096008307[53.9319768,24.2309330] n3221337583[53.9334854,24.2324550] n3221337581[53.9328998,24.2341297] n3221337585[53.9341909,24.2354324] n3221337582[53.9334198,24.2376377] n2096008311[53.9362299,24.2404730] n3221337588[53.9373909,24.2371528] n3221337586[53.9353456,24.2350892] n2096008315[53.9363575,24.2321954] n3221337580[53.9328028,24.2286090] n3221337584[53.9335214,24.2265540] n2096008308[53.9320386,24.2250580]
-w199915728  Хамуты / Chamuty / Хомуты / Хомуты
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2099061019[53.8387817,24.1866129] n2099061017[53.8372333,24.1889254] n2099061018[53.8381430,24.1907296] n2099061020[53.8395947,24.1884662] n2099061019[53.8387817,24.1866129]
 w201908078  Рыскі / Ryski / Рыски / Рыски
   other tags : addr:country=BY | addr:district=Мостовский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n2119183798[53.5419288,24.3259139] n2771592141[53.5402393,24.3243516] n2119183766[53.5398762,24.3254636] n2119183758[53.5393897,24.3250137] n2119183752[53.5386396,24.3273105] n2119183760[53.5393139,24.3279340] n2119183761[53.5394855,24.3274086] n2119183778[53.5400018,24.3278861] n2771592145[53.5405319,24.3262629] n2771592147[53.5415173,24.3271741] n2119183798[53.5419288,24.3259139]
-w202031043  null / null / Сикорица / Сикорица
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n2120147636[53.5827223,24.3825111] n2120147619[53.5822137,24.3828649] n2120147614[53.5820479,24.3836378] n2120147626[53.5823096,24.3846404] n2120147648[53.5830117,24.3840165] n2120147636[53.5827223,24.3825111]
-w223306777  null / null / Дуброво / Дуброво
+w223306777  Дуброва / Dubrova / Дуброва / Дуброва
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n2322152850[53.7562331,23.8709794] n2322152653[53.7558925,23.8707254] n2322152337[53.7554610,23.8702782] n2322152254[53.7553383,23.8706073] n2322152220[53.7552431,23.8713086] n2322152144[53.7551437,23.8725787] n2322152091[53.7550654,23.8729472] n2322151993[53.7548631,23.8736130] n2322151766[53.7543039,23.8749830] n2322151724[53.7542510,23.8752084] n2322151713[53.7542150,23.8757021] n2322151604[53.7538795,23.8766106] n2322151509[53.7537270,23.8771571] n2322151462[53.7535819,23.8780628] n2322151423[53.7534532,23.8789053] n2322151393[53.7532992,23.8795150] n2322151459[53.7535799,23.8796668] n2322151434[53.7535126,23.8811594] n2322151419[53.7534288,23.8812100] n2322151355[53.7531356,23.8810785] n2322151301[53.7528424,23.8811721] n2322151268[53.7526315,23.8819740] n2322151264[53.7525851,23.8823510] n2322151265[53.7526076,23.8833503] n2322151285[53.7527616,23.8857057] n2322151255[53.7522022,23.8862015] n2322151254[53.7521289,23.8864596] n2322151256[53.7522396,23.8869959] n2322151313[53.7529307,23.8867935] n2322151453[53.7535647,23.8866349] n2322151731[53.7542588,23.8862033] n2322151787[53.7543694,23.8858732] n2322151812[53.7544157,23.8857746] n2322151777[53.7543320,23.8852028] n2322151756[53.7542826,23.8851573] n2322151764[53.7543021,23.8845602] n2322151795[53.7543963,23.8843958] n2322151809[53.7544127,23.8837329] n2322151866[53.7545174,23.8836241] n2322151865[53.7545145,23.8831333] n2322151946[53.7546895,23.8827134] n2322151966[53.7547538,23.8815193] n2322151758[53.7542863,23.8815121] n2322151681[53.7541255,23.8777733] n2322152263[53.7553586,23.8777268] n2322152331[53.7554516,23.8780023] n2322152318[53.7554347,23.8785890] n2322152294[53.7553988,23.8793761] n2322152434[53.7556082,23.8796230] n2322152777[53.7561116,23.8795801] n2322153112[53.7567328,23.8801189] n2322153250[53.7570708,23.8800607] n2322153359[53.7576347,23.8802682] n2322153372[53.7578052,23.8801860] n2322153374[53.7578553,23.8799456] n2322153355[53.7576099,23.8788527] n2322153318[53.7572600,23.8784989] n2322153255[53.7570910,23.8781422] n2322152929[53.7563668,23.8770314] n2322152504[53.7556922,23.8763939] n2322152463[53.7556382,23.8753905] n2322152461[53.7556352,23.8745506] n2322152751[53.7560840,23.8742293] n2322152776[53.7561109,23.8738650] n2322153371[53.7578010,23.8739004] n2322153373[53.7578429,23.8740471] n2322153403[53.7583365,23.8742394] n2322153411[53.7584621,23.8734298] n2322153406[53.7583754,23.8732173] n2322153400[53.7582738,23.8731941] n2322152861[53.7562457,23.8727970] n2322152779[53.7561119,23.8728623] n2322152651[53.7558876,23.8728694] n2322152599[53.7558390,23.8726297] n2322152659[53.7559042,23.8720989] n2322152743[53.7560417,23.8720452] n2322152845[53.7562300,23.8720738] n2322152850[53.7562331,23.8709794]
 w224398241  null / null / Колония Казимировка / Колония Казимировка
@@ -2149,26 +2083,17 @@ w224534474  Гневяншчына / Hnievianščyna / Гневенщина / Г
 w225808379  Райста / Rajsta / Райста / Райста
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2346002594[53.8314539,23.8727149] n2346002216[53.8289272,23.8731852] n2346002225[53.8290292,23.8783655] n2346002189[53.8282033,23.8800863] n2346002544[53.8312360,23.8844568] n2346002702[53.8319459,23.8856417] n2346002757[53.8321271,23.8847138] n2346002752[53.8321183,23.8837343] n2346002743[53.8320498,23.8831002] n2346002646[53.8316967,23.8827191] n2346002679[53.8318302,23.8824750] n2346002706[53.8319505,23.8824542] n2346002740[53.8320456,23.8820928] n2346002755[53.8321205,23.8818737] n2346002735[53.8320088,23.8775047] n2346002663[53.8317741,23.8730275] n2346002594[53.8314539,23.8727149]
-w225859498  null / null / Куколи / Куколи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n2346712610[53.7694211,23.8256073] n2346712654[53.7698699,23.8267260] n2346712663[53.7699953,23.8268419] n2346712712[53.7706507,23.8263651] n2346712707[53.7706170,23.8252716] n2346712683[53.7702370,23.8240185] n2346712655[53.7698790,23.8242547] n2346712612[53.7694503,23.8245929] n2346712595[53.7692986,23.8243826] n2346712591[53.7692456,23.8238939] n2346712636[53.7695947,23.8236124] n2346712640[53.7696240,23.8234609] n2346712629[53.7695399,23.8230093] n2346712638[53.7696020,23.8227433] n2346712646[53.7697007,23.8225423] n2346712642[53.7696624,23.8223722] n2346712631[53.7695490,23.8223907] n2346712604[53.7693735,23.8218000] n2346712588[53.7690500,23.8219670] n2346712571[53.7688909,23.8214536] n2346712582[53.7689622,23.8207237] n2346712590[53.7690682,23.8204917] n2346712602[53.7693498,23.8200618] n2346712589[53.7690573,23.8192607] n2346712583[53.7689641,23.8192824] n2346712548[53.7686807,23.8192607] n2346712528[53.7683443,23.8187009] n2346712494[53.7680427,23.8181257] n2346712509[53.7681743,23.8177731] n2346712501[53.7680884,23.8172596] n2346712427[53.7675034,23.8161740] n2346712183[53.7666296,23.8151225] n2346712173[53.7666003,23.8147142] n2346712089[53.7659221,23.8137616] n2346712065[53.7656168,23.8137615] n2346712037[53.7653079,23.8140553] n2346712014[53.7647612,23.8140058] n2346712008[53.7647082,23.8143553] n2346712034[53.7652640,23.8147760] n2346712046[53.7653828,23.8146028] n2346712061[53.7654980,23.8146708] n2346712136[53.7663572,23.8155677] n2346712155[53.7665108,23.8160348] n2346712160[53.7665583,23.8166131] n2346712158[53.7665419,23.8168389] n2346712172[53.7665986,23.8170461] n2346712154[53.7665072,23.8177451] n2346712162[53.7665730,23.8180173] n2346712200[53.7667009,23.8181194] n2346712323[53.7670501,23.8186452] n2346712334[53.7670958,23.8186266] n2346712401[53.7673828,23.8182338] n2346712418[53.7674322,23.8183390] n2346712451[53.7677046,23.8192823] n2346712438[53.7675547,23.8194555] n2346712416[53.7674285,23.8197369] n2346712426[53.7675016,23.8200277] n2346712415[53.7674267,23.8202689] n2346712331[53.7670757,23.8195390] n2346712311[53.7669752,23.8195823] n2346712179[53.7666205,23.8203215] n2346712177[53.7666114,23.8204112] n2346712207[53.7667210,23.8207978] n2346712289[53.7669130,23.8209061] n2346712362[53.7672146,23.8206401] n2346712390[53.7673371,23.8208040] n2346712417[53.7674285,23.8211071] n2346712414[53.7674249,23.8216762] n2346712436[53.7675492,23.8217968] n2346712452[53.7677064,23.8217071] n2346712481[53.7679239,23.8210669] n2346712505[53.7681323,23.8207360] n2346712510[53.7681835,23.8208133] n2346712523[53.7683243,23.8213947] n2346712518[53.7682877,23.8214721] n2346712500[53.7680866,23.8217040] n2346712515[53.7682694,23.8222577] n2346712526[53.7683353,23.8223040] n2346712545[53.7686460,23.8221216] n2346712610[53.7694211,23.8256073]
+w225859496  null / null / Зарица
+  other tags : landuse=residential | place=hamlet
+    geometry : n2346711519[53.7576683,23.8193401] n2346711421[53.7569964,23.8182441] n2346711377[53.7568450,23.8181812] n2346711326[53.7567016,23.8184597] n2346711269[53.7565210,23.8189538] n2346711095[53.7557508,23.8218377] n2346711073[53.7556021,23.8223251] n2346711050[53.7550775,23.8245532] n2346711247[53.7564572,23.8255571] n2346711382[53.7568530,23.8257009] n2346711428[53.7570309,23.8254942] n2346711501[53.7574611,23.8235896] n2346711511[53.7576098,23.8221297] n2346711509[53.7576000,23.8211831] n2346711506[53.7575719,23.8208432] n2346711523[53.7577026,23.8205389] n2346711542[53.7578590,23.8206517] n2346711588[53.7582045,23.8208073] n2346711618[53.7583491,23.8203309] n2346711559[53.7579936,23.8201367] n2346711518[53.7576593,23.8204861] n2346711490[53.7573926,23.8202892] n2346711519[53.7576683,23.8193401]
 w232801261  Саволеўка / Savolieŭka / Саволевка / Саволевка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2411201987[53.5660403,24.1352369] n2411201989[53.5665260,24.1333747] n2411201990[53.5717684,24.1306868] n2411201991[53.5717242,24.1279930] n3337310362[53.5729574,24.1280045] n3337310361[53.5729333,24.1300016] n2411201998[53.5809871,24.1291009] n2411201999[53.5808431,24.1238536] n2411202000[53.5833979,24.1236722] n2411202001[53.5836093,24.1275697] n2411202002[53.5849266,24.1272989] n2411202003[53.5850567,24.1292930] n3337310373[53.5815705,24.1301942] n3337310372[53.5816547,24.1312079] n3337310370[53.5803668,24.1316134] n3337310371[53.5803728,24.1330124] n2411201997[53.5767693,24.1332761] n3337310366[53.5767435,24.1361246] n3337310365[53.5758527,24.1363070] n2411201996[53.5758335,24.1408267] n3337310364[53.5740468,24.1407741] n3337310363[53.5739084,24.1387400] n3337310351[53.5680873,24.1387501] n3337310350[53.5680150,24.1405967] n2411201988[53.5663364,24.1405473] n2411201986[53.5655667,24.1373639] n2411201987[53.5660403,24.1352369]
-w271223965  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n2761820925[53.6324981,24.2350820] n2761820916[53.6320688,24.2354303] n2761820918[53.6321557,24.2360030] n2761820931[53.6326883,24.2357602] n2761820925[53.6324981,24.2350820]
-w271224022  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n2761820912[53.6318230,24.2318719] n2765645300[53.6318900,24.2323254] n2765645306[53.6319363,24.2333099] n2761820914[53.6319914,24.2334347] n2761820927[53.6326055,24.2331778] n2761820923[53.6324153,24.2318535] n2761820921[53.6321327,24.2315374] n2761820912[53.6318230,24.2318719]
-w271224031  Кашубінцы / Kašubincy / Кашубинцы / Кашубинцы
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
-    geometry : n2761820959[53.6362743,24.2384269] n2761820958[53.6361222,24.2382757] n2761820955[53.6356820,24.2385185] n2761820956[53.6357880,24.2392975] n2761820960[53.6363205,24.2390776] n2761820959[53.6362743,24.2384269]
 w271224046  Заполле / Zapollie / Заполье / Заполье
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n2761821315[53.6633043,24.0567107] n2761821303[53.6625789,24.0564848] n2761821302[53.6624861,24.0570969] n2761821308[53.6629481,24.0572172] n2761821312[53.6632482,24.0571625] n2761821316[53.6633086,24.0570860] n2761821315[53.6633043,24.0567107]
 w271611106  Багудзенька / Bahudzieńka / Богуденька / Богуденька
-  other tags : addr:country=BY | addr:district=Мостовский район | addr:region=Гродненская область | alt_name:be=Багудзенка | landuse=residential | place=hamlet
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Багудзенка | landuse=residential | place=hamlet
     geometry : n2765646168[53.6589159,24.2466327] n2765646153[53.6585325,24.2467352] n2765646150[53.6583649,24.2466185] n2765646146[53.6582140,24.2462260] n2765646142[53.6576922,24.2454375] n2765646141[53.6576231,24.2454694] n2765646137[53.6575686,24.2463003] n2765646124[53.6569190,24.2460422] n2765646128[53.6569274,24.2464276] n2765646130[53.6570406,24.2470216] n2765646133[53.6572459,24.2474141] n2765646159[53.6585891,24.2486128] n2765646163[53.6588573,24.2485951] n2765646168[53.6589159,24.2466327]
 w271976029  null / null / Санковщина / Санковщина
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
@@ -2185,33 +2110,9 @@ w271977868  Свентаянск / Svientajansk / Свентоянск / Све�
 w271977949  Чарнушкі / Čarnuški / Чернушки / Чернушки
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2769103891[53.9223688,23.9168912] n2769103889[53.9213072,23.9159378] n2769103888[53.9207727,23.9176541] n2769103890[53.9218343,23.9186075] n2769103891[53.9223688,23.9168912]
-w272087890  null / null / Стецки / Стецки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770205013[53.4875097,24.0541179] n2770205010[53.4871840,24.0539498] n2770205009[53.4870450,24.0547104] n2770205012[53.4873707,24.0548785] n2770205013[53.4875097,24.0541179]
-w272087891  Сцяцкі / Sciacki / Стецки / Стецки
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770205003[53.4850379,24.0474550] n2770204986[53.4821508,24.0437647] n2770204984[53.4819571,24.0441446] n2770204982[53.4814468,24.0435801] n2770204980[53.4810076,24.0451214] n2770204985[53.4819829,24.0472488] n2770204990[53.4825061,24.0460331] n2770204999[53.4843726,24.0488986] n2770205003[53.4850379,24.0474550]
-w272087892  null / null / Ферма / Ферма
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770204974[53.4785788,24.0393672] n2770204964[53.4781730,24.0392384] n2770204962[53.4780752,24.0401085] n2770204972[53.4784811,24.0402373] n2770204974[53.4785788,24.0393672]
-w272087893  Ферма / Fierma / Ферма / Ферма
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770204966[53.4783655,24.0365658] n2770204960[53.4780335,24.0364447] n2770204963[53.4780886,24.0360173] n2770204957[53.4775011,24.0358031] n2770204950[53.4771672,24.0383891] n2770204956[53.4774448,24.0384903] n2770204958[53.4775719,24.0375060] n2770204965[53.4782139,24.0377401] n2770204966[53.4783655,24.0365658]
 w272089882  Кузьмічы / Kuźmičy / Кузьмичи / Кузьмичи
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2770227668[53.4599245,24.0873729] n2770227667[53.4587802,24.0872894] n2770227666[53.4586255,24.0932628] n2770227679[53.4614660,24.0934702] n2770227682[53.4614926,24.0924453] n2770227672[53.4610468,24.0924128] n2770227675[53.4610844,24.0909603] n2770227670[53.4602344,24.0908983] n2770227668[53.4599245,24.0873729]
-w272089885  null / null / Нетечи / Нетечи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770227768[53.4699169,24.1167512] n2770227743[53.4690962,24.1170278] n2770227749[53.4691683,24.1175465] n2770227745[53.4691065,24.1175637] n2770227747[53.4691425,24.1178014] n2770227758[53.4696005,24.1176718] n2770227760[53.4696596,24.1183719] n2770227771[53.4699735,24.1182768] n2770227765[53.4699040,24.1175637] n2770227773[53.4700224,24.1175378] n2770227768[53.4699169,24.1167512]
-w272089888  Няцечы / Niaciečy / Нетечи / Нетечи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770227696[53.4620734,24.0981319] n2770227685[53.4615807,24.0983732] n2770227687[53.4616171,24.0985505] n2770227677[53.4611768,24.0987858] n2770227683[53.4615164,24.1005804] n2770227691[53.4617784,24.1004521] n2770227693[53.4619421,24.1011672] n2770227689[53.4616692,24.1013994] n2770227707[53.4653058,24.1125237] n2770227709[53.4655969,24.1148463] n2770227711[53.4659316,24.1148708] n2770227713[53.4659898,24.1160809] n2770227721[53.4666448,24.1158976] n2770227717[53.4665429,24.1152619] n2770227733[53.4669795,24.1151030] n2770227730[53.4667248,24.1130738] n2770227705[53.4651966,24.1079153] n2770227719[53.4666448,24.1070840] n2770227715[53.4662991,24.1055927] n2770227702[53.4646327,24.1063934] n2770227700[53.4627370,24.1001645] n2770227698[53.4624488,24.1002941] n2770227696[53.4620734,24.0981319]
-w272089891  null / null / Нетечи / Нетечи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770227761[53.4697291,24.1158436] n2770227751[53.4691786,24.1160338] n2770227753[53.4692429,24.1165567] n2770227763[53.4698629,24.1163666] n2770227761[53.4697291,24.1158436]
-w272089894  null / null / Нетечи / Нетечи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2770227804[53.4710153,24.1128942] n2770227780[53.4701203,24.1133098] n2770227783[53.4702586,24.1140188] n2770227770[53.4699603,24.1141900] n2770227776[53.4700549,24.1147889] n2770227806[53.4711099,24.1142144] n2770227804[53.4710153,24.1128942]
 w272093178  Юзафоўка / Juzafoŭka / Юзефовка / Юзефовка
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Юзэфоўка | place=hamlet
     geometry : n2770254613[53.6037097,23.7934511] n2770254611[53.6029133,23.7930083] n3140451793[53.6025741,23.7944452] n2770254609[53.6022741,23.7954338] n2770254607[53.6015757,23.7949849] n2770254604[53.6010906,23.7971282] n2770254608[53.6021043,23.7977798] n2770254610[53.6025471,23.7958230] n2770254612[53.6030728,23.7961610] n2770254613[53.6037097,23.7934511]
@@ -2224,21 +2125,9 @@ w272208638  Бярві / Biarvi / Берви / Берви
 w272208730  Полымя / Polymia / Полымя / Полымя
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Дземша;Дзямшы | place=hamlet
     geometry : n2771604011[53.6906767,24.3258465] n2771604008[53.6902159,24.3261229] n2771604010[53.6903521,24.3267706] n2771604012[53.6908129,24.3264942] n2771604011[53.6906767,24.3258465]
-w272407723  Струпіна / Strupina / Струпино / Струпино
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2773445243[53.5987989,24.1243569] n2773445244[53.5989989,24.1265821] n2773445242[53.5859889,24.1299017] n2773445239[53.5857889,24.1276766] n2773445243[53.5987989,24.1243569]
-w272407726  null / null / Струпино / Струпино
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2773445252[53.6030683,24.1341166] n2773445251[53.6023555,24.1333823] n2773445248[53.6006391,24.1381148] n2773445247[53.6003287,24.1377952] n2773445246[53.6001362,24.1383259] n2773445249[53.6011594,24.1393798] n2773445252[53.6030683,24.1341166]
 w272410429  Ракіце / Rakicie / Раките / Раките
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Ракіцце | place=hamlet
     geometry : n2773455803[53.5963246,24.1124517] n2773455800[53.5953038,24.1126725] n2773455802[53.5953172,24.1144420] n2773455804[53.5963277,24.1142141] n2773455803[53.5963246,24.1124517]
-w272418225  Лашавічы / Lašavičy / Лашевичи / Лашевичи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2773511533[53.6166814,24.1755438] n2773511508[53.6153878,24.1764699] n2773511518[53.6157501,24.1779080] n2773511536[53.6170437,24.1769820] n2773511533[53.6166814,24.1755438]
-w272418228  null / null / Лашевичи / Лашевичи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n2773511580[53.6196648,24.1751181] n2773511582[53.6198098,24.1760264] n2773511566[53.6188304,24.1764706] n2773511559[53.6185118,24.1744742] n2773511570[53.6188451,24.1743230] n2773511562[53.6187745,24.1738811] n2773511572[53.6191040,24.1737317] n2773511576[53.6193482,24.1752617] n2773511580[53.6196648,24.1751181]
 w272420784  Брошкаўцы / Broškaŭcy / Брошковцы / Брошковцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet
     geometry : n2773546275[53.6033472,24.2042976] n2773511443[53.6038020,24.2039843] n2773511452[53.6040287,24.2049186] n2773546288[53.6043223,24.2047163] n2773546283[53.6040942,24.2037759] n2773546293[53.6046191,24.2034142] n2773546297[53.6047323,24.2038809] n2773546306[53.6051131,24.2036185] n2773546310[53.6052381,24.2041336] n2773546320[53.6055169,24.2039415] n2773546315[53.6052519,24.2028492] n2773546325[53.6056197,24.2025958] n2773546334[53.6057209,24.2030133] n333109489[53.6060817,24.2027647] n2773546338[53.6058978,24.2020065] n2773546330[53.6056936,24.2021472] n333107248[53.6054979,24.2013403] n333113663[53.6048872,24.2017610] n2773546301[53.6050513,24.2024374] n2773546279[53.6037755,24.2033163] n333112401[53.6035545,24.2024052] n2773546270[53.6029836,24.2027985] n2773546275[53.6033472,24.2042976]
@@ -2254,21 +2143,9 @@ w272749261  Арэхавічы / Arechavičy / Ореховичи / Орехов
 w272749581  Бабіна / Babina / Бабино / Бабино
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n2776784844[53.8093115,24.2848250] n2776784840[53.8072355,24.2846897] n2776784837[53.8071968,24.2863946] n2776784842[53.8092728,24.2865299] n2776784844[53.8093115,24.2848250]
-w298125027  null / null / Куколи
-  other tags : place=village
-    geometry : n3020277841[53.7489753,23.8055063] n3020277842[53.7531496,23.8093473] n3020277843[53.7536190,23.8068582] n3020277844[53.7518047,23.8041116] n3020277845[53.7511785,23.8037552] n3020277846[53.7498767,23.8036901] n3020277847[53.7487035,23.8035016] n3020277848[53.7482952,23.8051169] n3020277841[53.7489753,23.8055063]
-w308689583  null / null / Барбаричи
-  other tags : place=hamlet
-    geometry : n3139565504[53.8043267,23.9026899] n3139565506[53.8044534,23.9040203] n3139565501[53.8040226,23.9055845] n3139565503[53.8046055,23.9067668] n1265576789[53.8049195,23.9076014] n3139565502[53.8052644,23.9061424] n3139565505[53.8057966,23.9045975] n3139565513[53.8062021,23.9041490] n3139565508[53.8061514,23.9031619] n3139565509[53.8057459,23.9030761] n3139565514[53.8051884,23.9023036] n3139565510[53.8049349,23.9021320] n3139565504[53.8043267,23.9026899]
 w314963862  null / null / Луговая / Луговая
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n3210489241[53.4360552,24.0029316] n3210489239[53.4354676,24.0032709] n3210489240[53.4359514,24.0058463] n3210489242[53.4363713,24.0046273] n3210489241[53.4360552,24.0029316]
-w316015008  Узбераж / Uzbieraž / Узбережь / Узбережь
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n3221336213[53.9220302,24.2368222] n3221336192[53.9212845,24.2358186] n3221336187[53.9206160,24.2372508] n3221336198[53.9213617,24.2382545] n3221336213[53.9220302,24.2368222]
-w316016238  null / null / Куколи / Куколи
-  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
-    geometry : n3221348295[53.7560376,23.8119599] n3221348298[53.7566465,23.8123277] n3221348300[53.7570525,23.8139870] n3221348301[53.7573521,23.8138562] n3221348303[53.7577145,23.8154665] n3221348302[53.7576952,23.8162675] n3221348299[53.7570056,23.8172810] n3221348297[53.7565175,23.8185807] n3221348296[53.7562565,23.8193572] n3221348294[53.7557878,23.8181883] n3221348293[53.7553963,23.8178695] n3221348291[53.7551740,23.8186542] n3221348288[53.7542317,23.8180494] n3221348289[53.7543380,23.8171257] n3221348286[53.7536469,23.8167089] n3221348287[53.7538789,23.8153602] n3221348290[53.7544443,23.8135947] n3221348292[53.7552127,23.8142322] n3221348295[53.7560376,23.8119599]
 w326133653  Лосева / Losieva / Лосево / Лосево
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : n3327492603[53.8763977,24.1229782] n3327492605[53.8775131,24.1199108] n3327492611[53.8798452,24.1196528] n3327492620[53.8851680,24.1151233] n3327492624[53.8873983,24.1185061] n3327492628[53.8886830,24.1253898] n3328861455[53.8869985,24.1312223] n3327492621[53.8857083,24.1333199] n3328861433[53.8838164,24.1315001] n3328861432[53.8822823,24.1298438] n3327492603[53.8763977,24.1229782]
@@ -2276,6 +2153,15 @@ w326133656  Парэчча / Parečča / Поречье / Поречье
   other names: name:lt=Pariečė
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=village
     geometry : n3327492625[53.8875248,24.1295806] n3327492631[53.8898089,24.1323108] n3328861472[53.8898918,24.1299191] n3328861474[53.8901538,24.1284618] n3327492633[53.8905113,24.1278472] n3328861478[53.8909141,24.1289549] n3327492636[53.8916649,24.1293435] n3327492639[53.8941507,24.1338445] n3327492643[53.8956964,24.1296017] n3327492648[53.9022164,24.1249217] n3327492650[53.9027399,24.1326333] n3327492645[53.8974532,24.1385674] n3327492641[53.8950207,24.1432116] n3327492637[53.8925205,24.1483144] n3327492617[53.8832785,24.1475977] n3327492607[53.8780569,24.1541625] n3328861431[53.8750706,24.1543435] n3327492602[53.8758244,24.1503556] n3327492608[53.8789577,24.1437454] n3327493088[53.8694203,24.1340093] n3328861429[53.8699932,24.1320655] n3327493085[53.8678263,24.1294320] n3328861428[53.8690067,24.1262010] n3328861430[53.8704813,24.1275394] n3327493091[53.8726487,24.1244917] n3327492600[53.8745754,24.1223416] n3327492609[53.8786484,24.1268424] n3327492614[53.8812001,24.1295658] n3327492618[53.8852751,24.1340914] n3328861456[53.8870115,24.1312531] n3327492625[53.8875248,24.1295806]
+w341824091  Чэхаўшчына / Čechaŭščyna / Чеховщина / Чеховщина
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Чэхаўшчызна | place=hamlet
+    geometry : n3489041266[53.6257122,23.7510486] n3489041264[53.6253989,23.7514140] n3489041263[53.6250022,23.7532464] n3489041262[53.6238054,23.7554161] n3489041261[53.6235420,23.7547135] n3489041260[53.6234987,23.7529878] n3489041259[53.6228820,23.7524595] n3489041265[53.6254622,23.7501605] n3489041266[53.6257122,23.7510486]
+w341826681  Гібулічы / Hibuličy / Гибуличи / Гибуличи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+    geometry : n3489063170[53.6178806,23.8697306] n3489063169[53.6177958,23.8711452] n3489063166[53.6171782,23.8709784] n3489063163[53.6144439,23.8689994] n3489063165[53.6145051,23.8676881] n3489063160[53.6119828,23.8662814] n3489063161[53.6123788,23.8638097] n3489063164[53.6145051,23.8650813] n3489063162[53.6144344,23.8665596] n3489063168[53.6173809,23.8679424] n3489063167[53.6173196,23.8691743] n3489063170[53.6178806,23.8697306]
+w341843298  Бакуны / Bakuny / Бакуны / Бакуны
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
+    geometry : n3489179452[53.5692337,23.7166675] n3489179451[53.5688537,23.7179922] n3489179448[53.5676269,23.7189241] n3489179445[53.5662801,23.7173411] n3489179443[53.5644865,23.7131872] n3489179444[53.5653066,23.7111439] n3489179446[53.5670802,23.7129290] n3489179447[53.5674202,23.7142200] n3489179449[53.5680870,23.7147926] n3489179450[53.5682870,23.7157469] n3489179452[53.5692337,23.7166675]
 r4785669  Рудавіцы / Rudavicy / Рудавицы / Рудавицы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Рудавіца | place=hamlet | type=multipolygon
     geometry : <outer> w30233899: n333109534[53.4973779,24.0251634] n333108414[53.4971500,24.0257300] n333113500[53.4962100,24.0265000] n333110004[53.4965952,24.0276357] n333114311[53.4970217,24.0291301] n333109941[53.4974077,24.0301476] n333110557[53.4975854,24.0302555] n333112931[53.4980100,24.0298500] n333114645[53.4994617,24.0276874] n333111302[53.4986008,24.0266766] n333109534[53.4973779,24.0251634] : w30233899
@@ -2292,3 +2178,100 @@ r4785719  Лойкі / Lojki / Лойки / Лойки
     geometry : <outer> w217514141: n333112786[53.7767000,23.7684900] n2267955196[53.7771869,23.7692634] n2267955206[53.7790761,23.7734047] n2267955194[53.7801031,23.7763444] n2267955202[53.7804474,23.7798881] n2267955198[53.7822858,23.7819695] n2267955203[53.7832094,23.7853781] n2267955195[53.7825774,23.7870979] n320787273[53.7820580,23.7873700] n320787276[53.7800780,23.7873890] n2267955204[53.7778208,23.7868801] n2267955197[53.7776833,23.7831712] n2267955199[53.7769098,23.7777209] n2267955201[53.7754750,23.7746063] n333109203[53.7738158,23.7710905] : w217514141
     geometry : <outer> w30233578: n333112786[53.7767000,23.7684900] n333111032[53.7737800,23.7584500] n333109419[53.7689748,23.7424040] n333108142[53.7651100,23.7410300] n333113360[53.7640800,23.7435200] n333107910[53.7633100,23.7460900] n333108897[53.7635700,23.7515800] n333107888[53.7682000,23.7597400] n333109203[53.7738158,23.7710905] : w30233578
     geometry : <label> n2598103315[53.7773129,23.7735549] : n2598103315  Лойкі / Lojki / Лойки / Лойки
+r4851051  Казіміроўка / Kazimiroŭka / Казимировка / Казимировка
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Казіміраўка | landuse=residential | place=hamlet | type=multipolygon
+    geometry : <outer> w30233588: n2776763728[53.7330035,23.9868498] n333110108[53.7353254,23.9857265] n333107603[53.7362395,23.9841321] n3096084029[53.7383561,23.9826330] n3096084038[53.7409386,23.9803771] n3096084040[53.7414981,23.9798781] n333115606[53.7433111,23.9793033] n3096084063[53.7449997,23.9778269] n3096084077[53.7465999,23.9783231] n333113960[53.7468591,23.9750039] n333114322[53.7459373,23.9726764] n3096084072[53.7456358,23.9736822] n3096084043[53.7427155,23.9764475] n333107561[53.7422839,23.9753481] n333109880[53.7393093,23.9779079] n333107126[53.7388346,23.9766099] n3096083973[53.7334122,23.9809385] n3096083977[53.7339779,23.9825602] n333111440[53.7322254,23.9840011] n3096083970[53.7322868,23.9848577] n2776763728[53.7330035,23.9868498] : w30233588
+    geometry : <outer> w30233519: n333115216[53.7489800,23.9548300] n333115322[53.7455400,23.9539700] n333116054[53.7437400,23.9524300] n333111205[53.7423700,23.9617800] n333114670[53.7444006,23.9605516] n333110384[53.7434800,23.9668500] n333115393[53.7467500,23.9667600] n333107273[53.7473548,23.9652390] n333115490[53.7476176,23.9638295] n333115216[53.7489800,23.9548300] : w30233519
+    geometry : <label> n629605939[53.7410439,23.9780135] : n629605939  Казіміроўка / Kazimiroŭka / Казимировка / Казимировка
+r4851052  Кашубінцы / Kašubincy / Кошубинцы / Кошубинцы
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:ru=Кашубинцы | landuse=residential | place=hamlet | type=multipolygon
+    geometry : <outer> w29168129: n320783195[53.6231896,24.2168759] n320783193[53.6235272,24.2182868] n320783192[53.6232270,24.2214198] n3221362667[53.6237143,24.2240896] n3221362668[53.6242597,24.2239550] n320783194[53.6243922,24.2247467] n3221362666[53.6235015,24.2250427] n3221362665[53.6231956,24.2234280] n3221362664[53.6228830,24.2234840] n3221362663[53.6228298,24.2231476] n2094813789[53.6220599,24.2233731] n320783196[53.6218681,24.2219656] n320783198[53.6224485,24.2181496] n320783200[53.6220890,24.2173300] n320783202[53.6204769,24.2162372] n320783201[53.6209822,24.2148388] n320783199[53.6219941,24.2154273] n320783197[53.6227910,24.2162300] n320783195[53.6231896,24.2168759] : w29168129
+    geometry : <outer> w271224022: n2761820912[53.6318230,24.2318719] n2765645300[53.6318900,24.2323254] n2765645306[53.6319363,24.2333099] n2761820914[53.6319914,24.2334347] n2761820927[53.6326055,24.2331778] n2761820923[53.6324153,24.2318535] n2761820921[53.6321327,24.2315374] n2761820912[53.6318230,24.2318719] : w271224022
+    geometry : <outer> w271223965: n2761820925[53.6324981,24.2350820] n2761820916[53.6320688,24.2354303] n2761820918[53.6321557,24.2360030] n2761820931[53.6326883,24.2357602] n2761820925[53.6324981,24.2350820] : w271223965
+    geometry : <outer> w271224031: n2761820959[53.6362743,24.2384269] n2761820958[53.6361222,24.2382757] n2761820955[53.6356820,24.2385185] n2761820956[53.6357880,24.2392975] n2761820960[53.6363205,24.2390776] n2761820959[53.6362743,24.2384269] : w271224031
+    geometry : <label> n629606023[53.6229154,24.2206469] : n629606023  Кашубінцы / Kašubincy / Кошубинцы / Кошубинцы
+r4851056  Барбарычы / Barbaryčy / Барбаричи / Барбаричи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30234050: n333108917[53.7958848,23.8979859] n1229693969[53.7966206,23.8990957] n3370151551[53.7979219,23.8973706] n3370151552[53.7979416,23.8951785] n1229693921[53.7979106,23.8946493] n333107895[53.7962688,23.8939676] n333112610[53.7951244,23.8941755] n333114040[53.7937498,23.8942948] n333115330[53.7930086,23.8942771] n333113579[53.7910731,23.8948228] n333107630[53.7909002,23.8963758] n1229693995[53.7917059,23.8973126] n333107016[53.7925394,23.8974501] n1229693933[53.7928664,23.8971834] n1229693977[53.7933322,23.8971446] n1229693942[53.7936223,23.8976229] n1229693966[53.7945156,23.8981658] n333108917[53.7958848,23.8979859] : w30234050
+    geometry : <outer> w308689583: n3139565504[53.8043267,23.9026899] n3139565506[53.8044534,23.9040203] n3139565501[53.8040226,23.9055845] n3139565503[53.8046055,23.9067668] n1265576789[53.8049195,23.9076014] n3139565502[53.8052644,23.9061424] n3139565505[53.8057966,23.9045975] n3139565513[53.8062021,23.9041490] n3139565508[53.8061514,23.9031619] n3139565509[53.8057459,23.9030761] n3139565514[53.8051884,23.9023036] n3139565510[53.8049349,23.9021320] n3139565504[53.8043267,23.9026899] : w308689583
+    geometry : <label> n560596923[53.7966172,23.8961611] : n560596923  Барбарычы / Barbaryčy / Барбаричи / Барбаричи
+r4851060  Пералом / Pieralom / Перелом / Перелом
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30234005: n333115650[53.8757794,23.7632555] n3089585567[53.8746703,23.7631916] n333110747[53.8744864,23.7639629] n3089585362[53.8740162,23.7644085] n333112538[53.8737994,23.7675555] n333109905[53.8745694,23.7677255] n333107431[53.8755994,23.7676355] n333115650[53.8757794,23.7632555] : w30234005
+    geometry : <outer> w199615523: n2096008293[53.8960906,23.7811419] n2096008292[53.8956873,23.7849389] n2096008290[53.8954856,23.7851345] n2096008288[53.8933357,23.7838342] n2096008283[53.8929228,23.7830764] n2096008287[53.8931629,23.7816749] n2096008284[53.8929324,23.7807623] n2096008286[53.8930332,23.7795401] n2096008285[53.8929948,23.7786846] n2096008289[53.8940080,23.7794098] n2096008291[53.8955252,23.7804609] n2096008293[53.8960906,23.7811419] : w199615523
+    geometry : <label> n2096008450[53.8938764,23.7808243] : n2096008450  Пералом / Pieralom / Перелом / Перелом
+r4851078  Няцечы / Niaciečy / Нетечи / Нетечи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w272089888: n2770227696[53.4620734,24.0981319] n2770227685[53.4615807,24.0983732] n2770227687[53.4616171,24.0985505] n2770227677[53.4611768,24.0987858] n2770227683[53.4615164,24.1005804] n2770227691[53.4617784,24.1004521] n2770227693[53.4619421,24.1011672] n2770227689[53.4616692,24.1013994] n2770227707[53.4653058,24.1125237] n2770227709[53.4655969,24.1148463] n2770227711[53.4659316,24.1148708] n2770227713[53.4659898,24.1160809] n2770227721[53.4666448,24.1158976] n2770227717[53.4665429,24.1152619] n2770227733[53.4669795,24.1151030] n2770227730[53.4667248,24.1130738] n2770227705[53.4651966,24.1079153] n2770227719[53.4666448,24.1070840] n2770227715[53.4662991,24.1055927] n2770227702[53.4646327,24.1063934] n2770227700[53.4627370,24.1001645] n2770227698[53.4624488,24.1002941] n2770227696[53.4620734,24.0981319] : w272089888
+    geometry : <outer> w272089894: n2770227804[53.4710153,24.1128942] n2770227780[53.4701203,24.1133098] n2770227783[53.4702586,24.1140188] n2770227770[53.4699603,24.1141900] n2770227776[53.4700549,24.1147889] n2770227806[53.4711099,24.1142144] n2770227804[53.4710153,24.1128942] : w272089894
+    geometry : <outer> w272089891: n2770227761[53.4697291,24.1158436] n2770227751[53.4691786,24.1160338] n2770227753[53.4692429,24.1165567] n2770227763[53.4698629,24.1163666] n2770227761[53.4697291,24.1158436] : w272089891
+    geometry : <outer> w272089885: n2770227768[53.4699169,24.1167512] n2770227743[53.4690962,24.1170278] n2770227749[53.4691683,24.1175465] n2770227745[53.4691065,24.1175637] n2770227747[53.4691425,24.1178014] n2770227758[53.4696005,24.1176718] n2770227760[53.4696596,24.1183719] n2770227771[53.4699735,24.1182768] n2770227765[53.4699040,24.1175637] n2770227773[53.4700224,24.1175378] n2770227768[53.4699169,24.1167512] : w272089885
+    geometry : <label> n2770227824[53.4651495,24.1093717] : n2770227824  Няцечы / Niaciečy / Нетечи / Нетечи
+r4851088  Сцяцкі / Sciacki / Стецки / Стецки
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w272087891: n2770205003[53.4850379,24.0474550] n2770204986[53.4821508,24.0437647] n2770204984[53.4819571,24.0441446] n2770204982[53.4814468,24.0435801] n2770204980[53.4810076,24.0451214] n2770204985[53.4819829,24.0472488] n2770204990[53.4825061,24.0460331] n2770204999[53.4843726,24.0488986] n2770205003[53.4850379,24.0474550] : w272087891
+    geometry : <outer> w272087890: n2770205013[53.4875097,24.0541179] n2770205010[53.4871840,24.0539498] n2770205009[53.4870450,24.0547104] n2770205012[53.4873707,24.0548785] n2770205013[53.4875097,24.0541179] : w272087890
+    geometry : <label> n2770205014[53.4834862,24.0466529] : n2770205014  Сцяцкі / Sciacki / Стецки / Стецки
+r4851089  null / null / Сикорица / Сикорица
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet | type=multipolygon
+    geometry : <outer> w202031043: n2120147636[53.5827223,24.3825111] n2120147619[53.5822137,24.3828649] n2120147614[53.5820479,24.3836378] n2120147626[53.5823096,24.3846404] n2120147648[53.5830117,24.3840165] n2120147636[53.5827223,24.3825111] : w202031043
+    geometry : <outer> w29164754: n320763955[53.5774811,24.3902035] n320763953[53.5780697,24.3890240] n320763952[53.5784403,24.3903214] n320763954[53.5778453,24.3909990] n320763955[53.5774811,24.3902035] : w29164754
+    geometry : <outer> w29164061: n320759191[53.5764177,24.3912490] n320759113[53.5770796,24.3904668] n320759110[53.5775467,24.3912806] n320759189[53.5768036,24.3921513] n320759191[53.5764177,24.3912490] : w29164061
+    geometry : <label> n3221376847[53.5824374,24.3836134] : n3221376847  Сікорыца / Sikoryca / Сикорица / Сикорица
+r4851090  Старына / Staryna / Старина / Старина
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30233794: n333107915[53.6948200,24.1367900] n333114323[53.6949900,24.1434000] n333113570[53.6964500,24.1464900] n333111631[53.6977400,24.1462300] n333112584[53.6976500,24.1426300] n333115819[53.6961900,24.1367100] n333107915[53.6948200,24.1367900] : w30233794
+    geometry : <outer> w30233730: n333107940[53.6988060,24.1361355] n333107432[53.6982500,24.1415100] n333112757[53.6995400,24.1417700] n333111373[53.7000513,24.1413502] n333109664[53.7001043,24.1392743] n333110769[53.7003149,24.1376085] n333108856[53.7003622,24.1366392] n2759612659[53.7005494,24.1358335] n333107235[53.7006600,24.1343900] n333107940[53.6988060,24.1361355] : w30233730
+    geometry : <label> n629606004[53.6961774,24.1416873] : n629606004  Старына / Staryna / Старина / Старина
+r4851091  Узбераж / Uzbieraž / Узбережь / Узбережь
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w199615527: n2096008308[53.9320386,24.2250580] n3221337577[53.9310008,24.2280257] n3221337579[53.9324738,24.2295118] n2096008307[53.9319768,24.2309330] n3221337583[53.9334854,24.2324550] n3221337581[53.9328998,24.2341297] n3221337585[53.9341909,24.2354324] n3221337582[53.9334198,24.2376377] n2096008311[53.9362299,24.2404730] n3221337588[53.9373909,24.2371528] n3221337586[53.9353456,24.2350892] n2096008315[53.9363575,24.2321954] n3221337580[53.9328028,24.2286090] n3221337584[53.9335214,24.2265540] n2096008308[53.9320386,24.2250580] : w199615527
+    geometry : <outer> w199615524: n2096008321[53.9423056,24.2327201] n2096008317[53.9407115,24.2315128] n2096008316[53.9403850,24.2332421] n2096008320[53.9419503,24.2342863] n2096008321[53.9423056,24.2327201] : w199615524
+    geometry : <outer> w316015008: n3221336213[53.9220302,24.2368222] n3221336192[53.9212845,24.2358186] n3221336187[53.9206160,24.2372508] n3221336198[53.9213617,24.2382545] n3221336213[53.9220302,24.2368222] : w316015008
+    geometry : <outer> w30234027: n333112037[53.9195116,24.2295491] n333107239[53.9189447,24.2307429] n333109221[53.9196117,24.2316561] n333114318[53.9201786,24.2304623] n333112037[53.9195116,24.2295491] : w30234027
+    geometry : <label> n2096008454[53.9334803,24.2299279] : n2096008454  Узбераж / Uzbieraž / Узбережь / Узбережь
+r4851092  Ферма / Fierma / Ферма / Ферма
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w272087892: n2770204974[53.4785788,24.0393672] n2770204964[53.4781730,24.0392384] n2770204962[53.4780752,24.0401085] n2770204972[53.4784811,24.0402373] n2770204974[53.4785788,24.0393672] : w272087892
+    geometry : <outer> w272087893: n2770204966[53.4783655,24.0365658] n2770204960[53.4780335,24.0364447] n2770204963[53.4780886,24.0360173] n2770204957[53.4775011,24.0358031] n2770204950[53.4771672,24.0383891] n2770204956[53.4774448,24.0384903] n2770204958[53.4775719,24.0375060] n2770204965[53.4782139,24.0377401] n2770204966[53.4783655,24.0365658] : w272087893
+    geometry : <label> n2770205016[53.4777988,24.0368978] : n2770205016  Ферма / Fierma / Ферма / Ферма
+r4851093  Хамуты / Chamuty / Хомуты / Хомуты
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30233907: n333113071[53.8398302,24.1846688] n333110138[53.8401300,24.1859700] n333109797[53.8404800,24.1877800] n333114239[53.8419300,24.1869200] n333107716[53.8428031,24.1856188] n333108852[53.8421419,24.1835648] n333113071[53.8398302,24.1846688] : w30233907
+    geometry : <outer> w199915728: n2099061019[53.8387817,24.1866129] n2099061017[53.8372333,24.1889254] n2099061018[53.8381430,24.1907296] n2099061020[53.8395947,24.1884662] n2099061019[53.8387817,24.1866129] : w199915728
+    geometry : <label> n629606181[53.8409342,24.1852755] : n629606181  Хамуты / Chamuty / Хомуты / Хомуты
+r4851101  Лашавічы / Lašavičy / Лашевичи / Лашевичи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w272418225: n2773511533[53.6166814,24.1755438] n2773511508[53.6153878,24.1764699] n2773511518[53.6157501,24.1779080] n2773511536[53.6170437,24.1769820] n2773511533[53.6166814,24.1755438] : w272418225
+    geometry : <outer> w272418228: n2773511580[53.6196648,24.1751181] n2773511582[53.6198098,24.1760264] n2773511566[53.6188304,24.1764706] n2773511559[53.6185118,24.1744742] n2773511570[53.6188451,24.1743230] n2773511562[53.6187745,24.1738811] n2773511572[53.6191040,24.1737317] n2773511576[53.6193482,24.1752617] n2773511580[53.6196648,24.1751181] : w272418228
+    geometry : <label> n2773511586[53.6164486,24.1765318] : n2773511586  Лашавічы / Lašavičy / Лашевичи / Лашевичи
+r4851102  Мігова / Mihova / Мигово / Мигово
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet | type=multipolygon
+    geometry : <outer> w30233524: n333112792[53.5928042,24.0154465] n333107922[53.5923903,24.0153149] n333116105[53.5917948,24.0156161] n2874369687[53.5904645,24.0170015] n333114606[53.5896314,24.0199878] n333110810[53.5900200,24.0204900] n333109079[53.5901100,24.0214400] n333115716[53.5927037,24.0182429] n333113381[53.5926800,24.0169700] n333112792[53.5928042,24.0154465] : w30233524
+    geometry : <outer> w199494941: n320795656[53.6025935,24.0154516] n2094813642[53.6000916,24.0167595] n2094813636[53.5997422,24.0168983] n1878246472[53.5973883,24.0150690] n320795665[53.5972710,24.0141656] n320795664[53.5981269,24.0120809] n1878246477[53.5989940,24.0117531] n320795663[53.5996182,24.0125353] n320795662[53.5997345,24.0130194] n320795661[53.5999567,24.0130348] n320795660[53.6000545,24.0133950] n320795659[53.6014673,24.0120632] n1878246479[53.6016382,24.0125052] n320795658[53.6011221,24.0141219] n1878246478[53.6013211,24.0142034] n320795657[53.6020604,24.0139460] n1878246481[53.6025505,24.0145629] n320795656[53.6025935,24.0154516] : w199494941
+    geometry : <label> n629605840[53.5921269,24.0172732] : n629605840  Мігова / Mihova / Мигово / Мигово
+r4851115  null / null / Куколи / Куколи
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=village | type=multipolygon
+    geometry : <outer> w225859498: n2346712610[53.7694211,23.8256073] n2346712654[53.7698699,23.8267260] n2346712663[53.7699953,23.8268419] n2346712712[53.7706507,23.8263651] n2346712707[53.7706170,23.8252716] n2346712683[53.7702370,23.8240185] n2346712655[53.7698790,23.8242547] n2346712612[53.7694503,23.8245929] n2346712595[53.7692986,23.8243826] n2346712591[53.7692456,23.8238939] n2346712636[53.7695947,23.8236124] n2346712640[53.7696240,23.8234609] n2346712629[53.7695399,23.8230093] n2346712638[53.7696020,23.8227433] n2346712646[53.7697007,23.8225423] n2346712642[53.7696624,23.8223722] n2346712631[53.7695490,23.8223907] n2346712604[53.7693735,23.8218000] n2346712588[53.7690500,23.8219670] n2346712571[53.7688909,23.8214536] n2346712582[53.7689622,23.8207237] n2346712590[53.7690682,23.8204917] n2346712602[53.7693498,23.8200618] n2346712589[53.7690573,23.8192607] n2346712583[53.7689641,23.8192824] n2346712548[53.7686807,23.8192607] n2346712528[53.7683443,23.8187009] n2346712494[53.7680427,23.8181257] n2346712509[53.7681743,23.8177731] n2346712501[53.7680884,23.8172596] n2346712427[53.7675034,23.8161740] n2346712183[53.7666296,23.8151225] n2346712173[53.7666003,23.8147142] n2346712089[53.7659221,23.8137616] n2346712065[53.7656168,23.8137615] n2346712037[53.7653079,23.8140553] n2346712014[53.7647612,23.8140058] n2346712008[53.7647082,23.8143553] n2346712034[53.7652640,23.8147760] n2346712046[53.7653828,23.8146028] n2346712061[53.7654980,23.8146708] n2346712136[53.7663572,23.8155677] n2346712155[53.7665108,23.8160348] n2346712160[53.7665583,23.8166131] n2346712158[53.7665419,23.8168389] n2346712172[53.7665986,23.8170461] n2346712154[53.7665072,23.8177451] n2346712162[53.7665730,23.8180173] n2346712200[53.7667009,23.8181194] n2346712323[53.7670501,23.8186452] n2346712334[53.7670958,23.8186266] n2346712401[53.7673828,23.8182338] n2346712418[53.7674322,23.8183390] n2346712451[53.7677046,23.8192823] n2346712438[53.7675547,23.8194555] n2346712416[53.7674285,23.8197369] n2346712426[53.7675016,23.8200277] n2346712415[53.7674267,23.8202689] n2346712331[53.7670757,23.8195390] n2346712311[53.7669752,23.8195823] n2346712179[53.7666205,23.8203215] n2346712177[53.7666114,23.8204112] n2346712207[53.7667210,23.8207978] n2346712289[53.7669130,23.8209061] n2346712362[53.7672146,23.8206401] n2346712390[53.7673371,23.8208040] n2346712417[53.7674285,23.8211071] n2346712414[53.7674249,23.8216762] n2346712436[53.7675492,23.8217968] n2346712452[53.7677064,23.8217071] n2346712481[53.7679239,23.8210669] n2346712505[53.7681323,23.8207360] n2346712510[53.7681835,23.8208133] n2346712523[53.7683243,23.8213947] n2346712518[53.7682877,23.8214721] n2346712500[53.7680866,23.8217040] n2346712515[53.7682694,23.8222577] n2346712526[53.7683353,23.8223040] n2346712545[53.7686460,23.8221216] n2346712610[53.7694211,23.8256073] : w225859498
+    geometry : <outer> w316016238: n3221348295[53.7560376,23.8119599] n3221348298[53.7566465,23.8123277] n3221348300[53.7570525,23.8139870] n3221348301[53.7573521,23.8138562] n3221348303[53.7577145,23.8154665] n3221348302[53.7576952,23.8162675] n3221348299[53.7570056,23.8172810] n3221348297[53.7565175,23.8185807] n3221348296[53.7562565,23.8193572] n3221348294[53.7557878,23.8181883] n3221348293[53.7553963,23.8178695] n3221348291[53.7551740,23.8186542] n3221348288[53.7542317,23.8180494] n3221348289[53.7543380,23.8171257] n3221348286[53.7536469,23.8167089] n3221348287[53.7538789,23.8153602] n3221348290[53.7544443,23.8135947] n3221348292[53.7552127,23.8142322] n3221348295[53.7560376,23.8119599] : w316016238
+    geometry : <outer> w298125027: n3020277841[53.7489753,23.8055063] n3020277842[53.7531496,23.8093473] n3020277843[53.7536190,23.8068582] n3020277844[53.7518047,23.8041116] n3020277845[53.7511785,23.8037552] n3020277846[53.7498767,23.8036901] n3020277847[53.7487035,23.8035016] n3020277848[53.7482952,23.8051169] n3020277841[53.7489753,23.8055063] : w298125027
+    geometry : <label> n3221348304[53.7678045,23.8186989] : n3221348304  Кукалі / Kukali / Куколи / Куколи
+r4851206  Аляксандрава / Aliaksandrava / Александрово / Александрово
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | landuse=residential | place=hamlet | type=multipolygon
+    geometry : <outer> w30233288: n333114586[53.6189354,24.0060560] n2355677229[53.6184735,24.0058042] n333112683[53.6179138,24.0057443] n333111362[53.6171146,24.0090462] n333112836[53.6170423,24.0100973] n333108620[53.6172062,24.0113602] n333110825[53.6180000,24.0118726] n333115935[53.6181673,24.0117769] n2355677338[53.6189812,24.0091889] n2355677377[53.6194715,24.0071853] n2355677353[53.6192062,24.0064850] n333114586[53.6189354,24.0060560] : w30233288
+    geometry : <label> n2098967024[53.6183015,24.0080878] : n2098967024  Александрова / Alieksandrova / Александрово / Александрово
+r4851207  Гліняны / Hliniany / Глиняны / Глиняны
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30233355: n333115641[53.5993326,24.2847350] n3139943577[53.5992414,24.2856315] n3139943570[53.5991441,24.2865880] n333109063[53.5990885,24.2871343] n333108586[53.5991415,24.2885477] n333115861[53.5997200,24.2895700] n333107682[53.5998100,24.2934300] n333108598[53.6003699,24.2945182] n333109075[53.6017603,24.2956589] n333108441[53.6035000,24.2938600] n333113405[53.6019500,24.2915400] n333107466[53.6097600,24.2949800] n333114432[53.6100200,24.2942900] n333106759[53.6100867,24.2919826] n333114695[53.6084700,24.2887100] n333115898[53.6082100,24.2879400] n333115641[53.5993326,24.2847350] : w30233355
+    geometry : <outer> w30233445: n333108625[53.5976600,24.2912000] n333112662[53.5980000,24.2875100] n333109492[53.5985015,24.2862480] n333112897[53.5983717,24.2819663] n333107636[53.5964415,24.2821138] n2094813523[53.5957402,24.2864193] n333113191[53.5937900,24.2901700] n333115316[53.5927600,24.2936000] n333108425[53.5919100,24.2950600] n333107715[53.5907000,24.3000400] n333109005[53.5919100,24.3010700] n333107498[53.5932000,24.3019300] n333114502[53.5953400,24.2987500] n333111826[53.5980000,24.2967800] n333111629[53.5989400,24.2933500] n333110542[53.5988600,24.2909400] n333108625[53.5976600,24.2912000] : w30233445
+    geometry : <label> n629606087[53.6041943,24.2904649] : n629606087  Гліняны / Hliniany / Глиняны / Глиняны
+r4851208  Струпіна / Strupina / Струпино / Струпино
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w272407723: n2773445243[53.5987989,24.1243569] n2773445244[53.5989989,24.1265821] n2773445242[53.5859889,24.1299017] n2773445239[53.5857889,24.1276766] n2773445243[53.5987989,24.1243569] : w272407723
+    geometry : <outer> w272407726: n2773445252[53.6030683,24.1341166] n2773445251[53.6023555,24.1333823] n2773445248[53.6006391,24.1381148] n2773445247[53.6003287,24.1377952] n2773445246[53.6001362,24.1383259] n2773445249[53.6011594,24.1393798] n2773445252[53.6030683,24.1341166] : w272407726
+    geometry : <label> n2773445254[53.5928790,24.1271326] : n2773445254  Струпіна / Strupina / Струпино / Струпино
+r4851223  Падліпкі / Padlipki / Подлипки / Подлипки
+  other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | type=multipolygon
+    geometry : <outer> w30233468: n333107865[53.4969800,23.6929600] n333115556[53.4966300,23.6916700] n333108985[53.4972400,23.6894400] n333115304[53.4967200,23.6884100] n333108361[53.4950100,23.6897900] n333111161[53.4904500,23.6993100] n333106752[53.4902000,23.7033500] n333114840[53.4908000,23.7030900] n333114880[53.4909700,23.7038600] n333114761[53.4933800,23.7060100] n333107240[53.4945700,23.7073800] n333110999[53.4955200,23.7050600] n333107740[53.4943200,23.7030000] n333111604[53.4958600,23.6998300] n333109656[53.4996400,23.7006000] n333114560[53.5011000,23.6978500] n333107865[53.4969800,23.6929600] : w30233468
+    geometry : <label> n629605395[53.4949669,23.6980295] : n629605395  Падліпкі / Padlipki / Подлипки / Подлипки
+    geometry : <outer> w30233973: n333108709[53.4914800,23.7067800] n333110448[53.4904500,23.7048900] n333110673[53.4892600,23.7075500] n333110128[53.4878000,23.7055800] n333108020[53.4854704,23.7100830] n333108336[53.4872800,23.7115000] n333111365[53.4877100,23.7103000] n333112743[53.4905400,23.7132200] n333109894[53.4919200,23.7101300] n333111965[53.4906300,23.7089300] n333108709[53.4914800,23.7067800] : w30233973

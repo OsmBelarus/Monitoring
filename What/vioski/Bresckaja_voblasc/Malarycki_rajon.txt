@@ -79,11 +79,11 @@ n242980806  Печкі / Piečki / Печки / Печки
   other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Пячкы | place=hamlet
     geometry : [51.9572383,24.0460839]
 n242980845  Дрочава / Dročava / Дрочево / Дрочево
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Дрочево (Брестская область)
     geometry : [51.6016700,23.9837600]
 n242980847  Арэхава / Arechava / Орехово / Орехово
   other names: name:uk=Оріхове
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Аріхава;Гуріхава | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Аріхава;Гуріхава | place=village | wikipedia=ru:Орехово (Брестская область)
     geometry : [51.6366000,23.9500200]
 n242980872  Нікольскае / Mikoĺskaje / Никольское / Никольское
   other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Мікольскае | alt_name:ru=Микольское | place=hamlet
@@ -108,17 +108,17 @@ n242980891  Талочна / Taločna / Толочно / Толочно
   other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | place=hamlet
     geometry : [51.7528222,24.0537746]
 n242980894  Перавісь / Pieraviś / Перевись / Перевись
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Пэравысь | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Пэравысь | place=hamlet | wikipedia=ru:Перевись
     geometry : [51.6160900,23.9012700]
 n242980897  Зеляніца / Zielianica / Зеленица / Зеленица
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | place=hamlet | wikipedia=ru:Зеленица (Брестская область)
     geometry : [51.6539400,23.9853900]
 n242980900  Перавое / Pieravoje / Перовое / Перовое
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Пыравое | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Пыравое | place=hamlet | wikipedia=ru:Перовое
     geometry : [51.6409700,24.0581700]
 n242980902  Добрае / Dobraje / Доброе / Доброе
   other names: name:uk=Добре
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Добрэ | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Добрэ | place=hamlet | wikipedia=ru:Доброе (Малоритский район)
     geometry : [51.6597700,24.0498500]
 n242980909  Заазёрная / Zaaziornaja / Заозёрная / Заозёрная
   other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Ганна-Спаская;Радык | place=hamlet
@@ -491,7 +491,7 @@ w25146244  Дрочава / Dročava / Дрочево / Дрочево
     geometry : n274054583[51.6045000,23.9800700] n274054584[51.6030400,23.9798100] n274054585[51.6030400,23.9806700] n274054586[51.5963400,23.9804100] n274054587[51.5962600,23.9850400] n274054588[51.6022700,23.9853900] n274054589[51.6034700,23.9896800] n274054590[51.6058700,23.9882200] n275460743[51.6051900,23.9838400] n274054592[51.6050100,23.9819500] n274054583[51.6045000,23.9800700]
 w25146245  Арэхава / Arechava / Орехово / Орехово
   other names: name:uk=Оріхове
-  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Аріхава;Гуріхава | landuse=residential | place=hamlet
+  other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Аріхава;Гуріхава | landuse=residential | place=village
     geometry : n274054593[51.6474969,23.9552382] n1749424242[51.6446595,23.9540656] n1749424243[51.6449223,23.9511813] n1749424241[51.6418351,23.9482837] n274054594[51.6417138,23.9512478] n274054595[51.6355700,23.9483100] n274054596[51.6307600,23.9397200] n274054597[51.6299900,23.9407500] n274054598[51.6296500,23.9408400] n274054599[51.6286200,23.9420400] n1748293381[51.6329861,23.9500439] n274054600[51.6349963,23.9516187] n274054601[51.6348004,23.9585471] n274054602[51.6382708,23.9595384] n274054603[51.6386426,23.9561142] n274054604[51.6406300,23.9561200] n274054605[51.6461200,23.9589500] n274054593[51.6474969,23.9552382]
 w25146824  Брадзяцін / Bradziacin / Бродятин / Бродятин
   other tags : addr:country=BY | addr:district=Малоритский район | addr:region=Брестская область | alt_name:be=Брадетын;Брадятын | place=hamlet
