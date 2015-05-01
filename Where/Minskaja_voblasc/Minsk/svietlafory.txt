@@ -1524,8 +1524,8 @@ n451718760  Дворышча / null / Дворище / Дворище
   other tags : highway=bus_stop | shelter=yes | wheelchair=yes
     geometry : [53.8537917,27.4668192]
 n451718761  Касманаўтаў / null / Космонавтов / Космонавтов
-  other tags : highway=bus_stop | shelter=yes | wheelchair=yes | wikipedia=ru:Улица Космонавтов (Минск)
-    geometry : [53.8538043,27.4733997]
+  other tags : bench=yes | highway=bus_stop | shelter=yes | wheelchair=yes | wikipedia=ru:Улица Космонавтов (Минск)
+    geometry : [53.8538135,27.4734013]
 n473383509  null / null / Поворот на Сосны
   other tags : highway=bus_stop
     geometry : [53.8239191,27.7599828]
@@ -4739,7 +4739,7 @@ n767183910  Далгінаўскі тракт / null / Долгиновский 
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9345803,27.5467761]
 n767183912  Касманаўтаў / null / Космонавтов / Космонавтов
-  other tags : generated=yes | highway=bus_stop | shelter=yes | wheelchair=yes | wikipedia=ru:Улица Космонавтов (Минск)
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes | wheelchair=yes | wikipedia=ru:Улица Космонавтов (Минск)
     geometry : [53.8542200,27.4722700]
 n767183915  null / null / Карастояновой
   other tags : generated=yes | highway=bus_stop
