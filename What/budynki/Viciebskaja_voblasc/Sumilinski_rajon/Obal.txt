@@ -485,7 +485,7 @@ w128296137
   other tags : addr:street=улица Вышелесского | building=yes | building:levels=1
     geometry : n1418166475[55.3503225,29.3024497] n1418166465[55.3502744,29.3025868] n1418166456[55.3501981,29.3025039] n1418166459[55.3502462,29.3023668] n1418166475[55.3503225,29.3024497]
 w129516132
-  other tags : addr:housenumber=1/1 | addr:street=ул. C. Уравневой | building=yes | building:levels=1
+  other tags : addr:housenumber=1/1 | addr:street=улица Уравневой | building=yes | building:levels=1
     geometry : n1428833147[55.3585094,29.2757260] n1428833146[55.3584950,29.2759588] n1428833144[55.3583580,29.2759326] n1428833145[55.3583724,29.2756998] n1428833147[55.3585094,29.2757260]
 w129516133
   other tags : addr:housenumber=34 | addr:street=Вокзальная улица | building=yes | building:levels=1
@@ -559,6 +559,9 @@ w231945666
 w231945668
   other tags : building=yes | building:levels=1
     geometry : n2402668162[55.3509650,29.3037623] n2402668164[55.3510364,29.3039238] n2402668160[55.3509285,29.3040713] n2402668154[55.3508571,29.3039099] n2402668162[55.3509650,29.3037623]
+w233202293
+  other tags : building=yes | building:levels=1
+    geometry : n2415606300[55.3571232,29.2883586] n2415606302[55.3572004,29.2882778] n2415606304[55.3572542,29.2884369] n2415606301[55.3571770,29.2885176] n2415606300[55.3571232,29.2883586]
 w233202297
   other tags : addr:housenumber=1 | addr:street=Речная улица | building=yes | building:levels=1
     geometry : n2415606291[55.3566906,29.2871589] n2415606294[55.3567605,29.2873435] n2415606290[55.3566652,29.2874553] n2415606286[55.3565953,29.2872707] n2415606291[55.3566906,29.2871589]
@@ -575,7 +578,7 @@ w236821072
   other tags : addr:housenumber=5 | addr:street=Комсомольская улица | building=yes | building:levels=1
     geometry : n2447906451[55.3538718,29.2929731] n2447906449[55.3537746,29.2929645] n2447906448[55.3537688,29.2931675] n2447906450[55.3538660,29.2931761] n2447906451[55.3538718,29.2929731]
 w236831228
-  other tags : addr:housenumber=6 | addr:street=Черемуховая | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=Черёмуховая улица | building=yes | building:levels=1
     geometry : n2447994461[55.3569502,29.2876903] n2447994459[55.3568735,29.2877710] n2447994460[55.3569404,29.2879681] n2447994462[55.3570172,29.2878874] n2447994461[55.3569502,29.2876903]
 w236831883
   other tags : addr:housenumber=1 | addr:street=Поддубная улица | building=yes | building:levels=1
@@ -722,7 +725,7 @@ w252582923
   other tags : building=yes | building:levels=1
     geometry : n2586334593[55.3522642,29.3004562] n2586334595[55.3523826,29.3004599] n2586334594[55.3523799,29.3007252] n2586334592[55.3522615,29.3007216] n2586334593[55.3522642,29.3004562]
 w252582924
-  other tags : addr:housenumber=2 | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=улица Дружбы | building=yes | building:levels=1
     geometry : n2586334587[55.3519276,29.3017730] n2586334585[55.3517857,29.3017598] n2586334584[55.3517766,29.3020627] n2586334586[55.3519185,29.3020758] n2586334587[55.3519276,29.3017730]
 w252589616
   other tags : addr:housenumber=17 | addr:street=улица Слышанкова | building=yes | building:levels=1
