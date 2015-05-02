@@ -1,12 +1,9 @@
 n306065821  null / null / Татнефть №6
   other tags : addr:street=183км дороги М8/E95 | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Татнефть
     geometry : [54.3490302,30.4467483]
-n446094721  Беларуснафта №52 / Belorusneft №52 / Белоруснефть №52 / Белоруснефть №52
-  other tags : addr:street=573км М1 | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-279508 | website=http://www.belorusneft.by/
-    geometry : [54.6268957,30.4361168]
 n924543845  Беларуснафта №52 / Belorusneft №52 / Белоруснефть №52 / Белоруснефть №52
   other tags : addr:street=573км М1 | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | phone=+375-216-279508 | website=http://www.belorusneft.by/
-    geometry : [54.6265592,30.4364619]
+    geometry : [54.6265712,30.4364879]
 n1272770456  Беларуснафта №53 / Belorusneft №53 / Белоруснефть №53 / Белоруснефть №53
   other tags : addr:street=569км М1 | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-279509 | website=http://www.belorusneft.by/
     geometry : [54.6247245,30.4531059]
@@ -19,6 +16,9 @@ n1874945352
 n2206283629  null / null / Витебскоблгаз 550км на М1
   other tags : addr:street=550км дороги М1 | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Витебскоблгаз | website=http://www.oblgas.by/
     geometry : [54.5159611,30.1447565]
+w75971044  Беларуснафта №52 / Belorusneft №52 / Белоруснефть №52 / Белоруснефть №52
+  other tags : addr:street=573км М1 | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-216-279508 | website=http://www.belorusneft.by/
+    geometry : n896741149[54.6271592,30.4356498] n896741144[54.6272204,30.4361607] n446094721[54.6270958,30.4362053] n1434818528[54.6270717,30.4360039] n896741152[54.6270346,30.4356944] n896741149[54.6271592,30.4356498]
 w321086929  null / null / Белнефтехим
   other tags : amenity=fuel | fuel:GTL_diesel=yes | fuel:HGV_diesel=yes | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | shop=yes
     geometry : n3278064668[54.5099220,30.3428256] n3278064669[54.5099242,30.3430969] n3278064664[54.5098098,30.3430997] n3278064665[54.5098102,30.3431489] n3278064661[54.5097223,30.3431510] n3278060260[54.5097207,30.3429503] n3278064663[54.5097748,30.3429490] n3278064662[54.5097744,30.3428966] n3278064667[54.5098199,30.3428955] n3278064666[54.5098193,30.3428281] n3278064668[54.5099220,30.3428256]
