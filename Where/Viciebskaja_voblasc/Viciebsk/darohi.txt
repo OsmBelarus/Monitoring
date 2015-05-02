@@ -7982,13 +7982,13 @@ w72265484
   other tags : highway=footway
     geometry : n2390493036[55.1943665,30.2016581] n2499320775[55.1943777,30.2017572] n2583228605[55.1945074,30.2026150] n2583228604[55.1945002,30.2026879] n2583228602[55.1944918,30.2027733] n857580996[55.1945019,30.2027761]
 w72265490  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=left|through|through
+  other tags : highway=primary | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through|through
     geometry : n310312504[55.1993123,30.2071004] n310306982[55.1991929,30.2070860]
 w72265494  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
   other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes
     geometry : n310312483[55.1991810,30.2072438] n858680810[55.1993032,30.2072629] n727043080[55.1997762,30.2073342] n2933255629[55.1998918,30.2073495] n1501732400[55.2004270,30.2074220] n1501732403[55.2010658,30.2074746]
 w72265498  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=through|through|right
+  other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=through|through|through;right
     geometry : n858680805[55.1990921,30.2072317] n310312483[55.1991810,30.2072438]
 w72265501  Савецкая вуліца / Savieckaja vulica / Советская улица / Советская улица
   other tags : highway=tertiary | surface=asphalt
@@ -26164,7 +26164,7 @@ w341865209  вуліца Лазо / vulica Lazo / улица Лазо / улиц
   other tags : highway=tertiary | lanes=2 | maxspeed=60 | trolley_wire=yes | turn:lanes=through|through|right
     geometry : n1851331749[55.2038775,30.2678042] n310294587[55.2039997,30.2685222] n310294588[55.2040977,30.2692023] n310294481[55.2041454,30.2695235]
 w341866054  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through|right
+  other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through;right|right
     geometry : n1501732403[55.2010658,30.2074746] n1312616676[55.2015489,30.2075396] n811698207[55.2017051,30.2075591]
 w341866055  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
   other names: name:de=Uliza Lenina (Lenin-Straße) | name:fr=oulitsa Lénina (rue Lénine)
