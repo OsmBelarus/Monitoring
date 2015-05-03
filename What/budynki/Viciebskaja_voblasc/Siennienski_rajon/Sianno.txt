@@ -71,7 +71,7 @@ w159170965
   other tags : addr:housenumber=39 | addr:street=улица Чкалова | building=yes | building:levels=1
     geometry : n1712689371[54.8101546,29.6997064] n1712689417[54.8101846,29.6998688] n1718975390[54.8103045,29.6998021] n1712689627[54.8102745,29.6996397] n1712689371[54.8101546,29.6997064]
 w159170972
-  other tags : addr:housenumber=17 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718954465[54.8155894,29.6882839] n1718978543[54.8157164,29.6882232] n1718978539[54.8156887,29.6880489] n1718954451[54.8155617,29.6881096] n1718954465[54.8155894,29.6882839]
 w159170974
   other tags : addr:housenumber=50 | addr:street=улица Машерова | building=yes | building:levels=1
@@ -377,7 +377,7 @@ w159171268
   other tags : addr:housenumber=14 | addr:street=улица Горовца | building=yes | building:levels=1
     geometry : n1718959914[54.8220319,29.6992214] n1718959859[54.8219488,29.6990440] n1718959854[54.8218680,29.6991580] n1718983207[54.8219511,29.6993354] n1718959914[54.8220319,29.6992214]
 w159171273
-  other tags : addr:housenumber=12 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1712693871[54.8142105,29.6877735] n1718953973[54.8143385,29.6877195] n1718953967[54.8143139,29.6875438] n1718977703[54.8141859,29.6875978] n1712693871[54.8142105,29.6877735]
 w159171286
   other tags : addr:housenumber=15 | addr:street=1-й переулок Красной Слободы | building=yes | building:levels=1
@@ -404,7 +404,7 @@ w159171306
   other tags : addr:housenumber=20 | addr:street=улица Мелиораторов | building=yes | building:levels=1
     geometry : n1718970486[54.8028323,29.6875862] n1712682299[54.8027282,29.6876680] n1712682339[54.8028038,29.6879577] n1718970520[54.8029079,29.6878759] n1718970486[54.8028323,29.6875862]
 w159171307
-  other tags : addr:housenumber=3А | addr:street=Западная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=3А | addr:street=2-й Западный переулок | building=yes | building:levels=1
     geometry : n1712693391[54.8135653,29.6881429] n1718953702[54.8136933,29.6880889] n1718977460[54.8136687,29.6879133] n1718977390[54.8135407,29.6879672] n1712693391[54.8135653,29.6881429]
 w159171308
   other tags : addr:housenumber=24 | addr:street=4-я Западная улица | building=yes | building:levels=1
@@ -620,10 +620,10 @@ w159171588
   other tags : addr:housenumber=17 | addr:street=улица Назаренко | building=yes | building:levels=1
     geometry : n1718955941[54.8176706,29.7000617] n1718955835[54.8175335,29.7001179] n1712697132[54.8175657,29.7003545] n1718980645[54.8177144,29.7002935] n1718955941[54.8176706,29.7000617]
 w159171592
-  other tags : addr:housenumber=15 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718954442[54.8155313,29.6877478] n1718954490[54.8156619,29.6877185] n1712694707[54.8156485,29.6875392] n1718954434[54.8155179,29.6875685] n1718954442[54.8155313,29.6877478]
 w159171594
-  other tags : addr:housenumber=29 | building=yes | building:levels=1
+  other tags : addr:housenumber=29 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718978807[54.8161387,29.6928921] n1718954879[54.8162483,29.6927653] n1718954839[54.8161905,29.6926148] n1712695002[54.8160809,29.6927417] n1718978807[54.8161387,29.6928921]
 w159171597
   other tags : addr:housenumber=47 | addr:street=Пролетарская улица | building=yes | building:levels=1
@@ -902,7 +902,7 @@ w159171966
   other tags : addr:housenumber=19 | addr:street=улица Светличного | building=yes | building:levels=1
     geometry : n1712697344[54.8178171,29.7087501] n1712697396[54.8178442,29.7089173] n1718956146[54.8179204,29.7088801] n1718980843[54.8178933,29.7087129] n1712697344[54.8178171,29.7087501]
 w159171980
-  other tags : addr:housenumber=4 | addr:street=Западная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=2-й Западный переулок | building=yes | building:levels=1
     geometry : n1718953862[54.8139551,29.6878871] n1712693715[54.8140831,29.6878332] n1718953909[54.8140585,29.6876575] n1712693567[54.8139304,29.6877115] n1718953862[54.8139551,29.6878871]
 w159171990
   other tags : addr:housenumber=7 | addr:street=2-я Олимпийская улица | building=yes | building:levels=1
@@ -1475,7 +1475,7 @@ w159172744
   other tags : addr:housenumber=3 | addr:street=4-я Западная улица | building=yes | building:levels=1
     geometry : n1718955841[54.8175381,29.6870977] n1718955927[54.8176535,29.6869876] n1718980512[54.8176034,29.6868292] n1718955820[54.8174879,29.6869393] n1718955841[54.8175381,29.6870977]
 w159172757
-  other tags : addr:housenumber=11 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718954012[54.8145194,29.6869146] n1718954080[54.8146474,29.6868606] n1712694277[54.8146228,29.6866850] n1718977877[54.8144948,29.6867389] n1718954012[54.8145194,29.6869146]
 w159172762
   other tags : addr:housenumber=19 | addr:street=2-я Олимпийская улица | building=yes | building:levels=1
@@ -1712,7 +1712,7 @@ w159173097
   other tags : addr:street=Октябрьская улица | building=yes | building:levels=1
     geometry : n1718977466[54.8136979,29.7090618] n1718977384[54.8135464,29.7091802] n1718977450[54.8136420,29.7095483] n1718977493[54.8137934,29.7094298] n1718977466[54.8136979,29.7090618]
 w159173101
-  other tags : addr:housenumber=31 | building=yes | building:levels=1
+  other tags : addr:housenumber=31 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718954944[54.8163483,29.6934776] n1718955025[54.8164579,29.6933507] n1718954969[54.8164001,29.6932003] n1712695189[54.8162905,29.6933272] n1718954944[54.8163483,29.6934776]
 w159173111
   other tags : addr:housenumber=11 | addr:street=улица Алеся Жаврука | building=yes | building:levels=1
@@ -1919,7 +1919,7 @@ w159173563
   other tags : addr:housenumber=97 | addr:street=Октябрьская улица | building=yes | building:levels=1
     geometry : n1718972308[54.8063635,29.6847552] n1718972129[54.8059502,29.6853056] n1718948667[54.8060384,29.6855050] n1718948900[54.8064517,29.6849546] n1718972308[54.8063635,29.6847552]
 w159173568
-  other tags : addr:housenumber=23 | building=yes | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718954521[54.8157429,29.6913595] n1712694816[54.8158284,29.6912977] n1712694796[54.8158003,29.6911804] n1712694733[54.8157148,29.6912422] n1718954521[54.8157429,29.6913595]
 w159173569
   other tags : addr:housenumber=25 | addr:street=Заречная улица | building=yes | building:levels=1
@@ -1991,7 +1991,7 @@ w159173651
   other tags : addr:housenumber=50 | addr:street=Юбилейная улица | building=yes | building:levels=1
     geometry : n1718951595[54.8105261,29.7167985] n1712690049[54.8104683,29.7169236] n1712690120[54.8105413,29.7170251] n1718975654[54.8105990,29.7169000] n1718951595[54.8105261,29.7167985]
 w159173652
-  other tags : addr:housenumber=17 | addr:street=улица П.М.Машерова | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n1718954679[54.8159939,29.7047260] n1718978700[54.8160349,29.7049264] n1718978765[54.8161262,29.7048700] n1712694979[54.8160852,29.7046697] n1718954679[54.8159939,29.7047260]
 w159173661
   other tags : addr:housenumber=18 | addr:street=4-я Западная улица | building=yes | building:levels=1
@@ -2270,7 +2270,7 @@ w159174020
   other tags : addr:housenumber=32 | addr:street=улица Синкевича | building=yes | building:levels=1
     geometry : n1712682788[54.8037547,29.6919658] n1712682746[54.8036724,29.6920592] n1712682781[54.8037414,29.6922420] n1712682823[54.8038236,29.6921487] n1712682788[54.8037547,29.6919658]
 w159174021
-  other tags : addr:housenumber=9 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1712693946[54.8142574,29.6870056] n1718953987[54.8143854,29.6869516] n1718953979[54.8143608,29.6867759] n1712693885[54.8142328,29.6868299] n1712693946[54.8142574,29.6870056]
 w159174022
   other tags : addr:housenumber=30 | addr:street=улица Красный Октябрь | building=yes | building:levels=1
@@ -2501,7 +2501,7 @@ w159174398
   other tags : addr:housenumber=14 | addr:street=Октябрьская улица | building=yes | building:levels=2
     geometry : n1718953241[54.8131016,29.7041508] n1718977244[54.8132466,29.7047408] n1718977176[54.8131303,29.7048268] n1718953191[54.8129853,29.7042368] n1718953241[54.8131016,29.7041508]
 w159174399
-  other tags : addr:housenumber=25 | building=yes | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1718978623[54.8158636,29.6918235] n1718954694[54.8159732,29.6916966] n1712694872[54.8159154,29.6915462] n1718954561[54.8158058,29.6916731] n1718978623[54.8158636,29.6918235]
 w159174409
   other tags : addr:housenumber=23 | addr:street=Заречная улица | building=yes | building:levels=1
@@ -3737,7 +3737,7 @@ w185956456
   other tags : addr:housenumber=15 | addr:street=Заводская улица | building=yes | building:levels=1
     geometry : n1966450928[54.8097150,29.6836523] n1966450922[54.8096224,29.6836199] n1966450917[54.8095718,29.6840549] n1966450925[54.8096644,29.6840873] n1966450928[54.8097150,29.6836523]
 w185956848
-  other tags : addr:housenumber=3 | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=4-й Западный переулок | building=yes | building:levels=1
     geometry : n1966457299[54.8134097,29.6900213] n1966457302[54.8135363,29.6899578] n1966457300[54.8135073,29.6897841] n1966457298[54.8133808,29.6898477] n1966457299[54.8134097,29.6900213]
 w185956849
   other tags : addr:housenumber=9 | addr:street=2-я Западная улица | building=yes | building:levels=1
@@ -3764,7 +3764,7 @@ w185956856
   other tags : addr:housenumber=20 | addr:street=4-я Западная улица | building=yes | building:levels=1
     geometry : n1966457361[54.8179533,29.6893020] n1966457363[54.8180629,29.6891751] n1966457362[54.8180051,29.6890247] n1966457359[54.8178955,29.6891516] n1966457361[54.8179533,29.6893020]
 w185956857
-  other tags : addr:housenumber=4 | addr:street=1-я Западная | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Западная улица | building=yes | building:levels=1
     geometry : n1966457295[54.8131229,29.6883676] n1966457297[54.8132509,29.6883136] n1966457296[54.8132263,29.6881380] n1966457294[54.8130983,29.6881919] n1966457295[54.8131229,29.6883676]
 w185956858
   other tags : addr:housenumber=5 | addr:street=2-й Западный переулок | building=yes | building:levels=1
@@ -5510,7 +5510,7 @@ w253562017  null / null / Мечта
   other tags : building=yes | building:levels=1 | shop=convenience
     geometry : n2594753224[54.8152662,29.6976293] n2594753225[54.8152986,29.6977792] n2594753223[54.8152215,29.6978293] n2594753221[54.8151892,29.6976795] n2594753224[54.8152662,29.6976293]
 w253745650
-  other tags : addr:housenumber=40А | addr:street=улица П.М.Машерова | building=yes | building:levels=1
+  other tags : addr:housenumber=40А | addr:street=улица Машерова | building=yes | building:levels=1
     geometry : n2596292396[54.8182389,29.7030354] n2596292397[54.8182873,29.7032307] n2596292399[54.8183763,29.7031642] n2596292398[54.8183290,29.7029728] n2596292396[54.8182389,29.7030354]
 w286705032
   other tags : addr:housenumber=56 | addr:street=Пролетарская улица | building=yes | building:levels=1
