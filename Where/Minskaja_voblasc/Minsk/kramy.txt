@@ -2076,8 +2076,8 @@ n423773316  null / DorOrs / ДорОрс
 n429699977
   other tags : opening_hours=Mo-Fr 10:00-22:00 | shop=yes
     geometry : [53.9364190,27.6420140]
-n429942899  Веларамонт / null / Велоремонт
-  other tags : phone=+375297772163 | service=repair | shop=bicycle
+n429942899  Веларамонт / null / Велоремонт / Велоремонт
+  other tags : contact:phone=+375297772163 | service=repair | shop=bicycle
     geometry : [53.8896704,27.5909408]
 n431528425  Прадукты / null / Продукты / Продукты
   other tags : shop=convenience
@@ -11062,3 +11062,6 @@ n3488702544  null / null / Магазин "Мила"
 n3488837099
   other tags : shop=tailor
     geometry : [53.9377470,27.6410483]
+n3493318598  Алмі / null / Алми / Алми
+  other tags : opening_hours=Mo-Su 08:00-23:00; Tu[1] off | operator:be=ЗАТ "ЮніФуд" | operator:ru=ЗАО "ЮниФуд" | shop=supermarket
+    geometry : [53.8839734,27.5931819]
