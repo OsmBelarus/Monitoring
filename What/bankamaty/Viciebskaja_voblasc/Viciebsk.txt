@@ -178,8 +178,8 @@ n1170882797  ATM Банк Масква-Мінск / ATM Bank Maskva-Minsk / ATM 
 n1185766531  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 11 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.2299413,30.2668849]
-n1229430492  ATM Беларусбанк / null / null
-  other tags : amenity=atm | operator=Белинвестбанк
+n1229430492  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
+  other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1777137,30.2263680]
 n1238734778  ATM Белаграпрамбанк / null / null
   other tags : amenity=atm | operator=Белагропромбанк
@@ -277,9 +277,6 @@ n1851519161
 n1851520359
   other tags : amenity=atm | operator=БПС
     geometry : [55.1685071,30.1294768]
-n1936443460
-  other tags : amenity=atm | fee=CDX0155 Blue | operator=Credex
-    geometry : [55.1737210,30.2277182]
 n1936447624
   other tags : amenity=atm | designation=payment terminal | fee=CDX0772 Magenta | operator=Credex
     geometry : [55.2065428,30.2185260]
@@ -298,7 +295,7 @@ n2128592449  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n2325384685  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.1799741,30.2224547]
-n2342436106  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+n2342436106  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 31 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1776693,30.2271110]
 n2358049409  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
