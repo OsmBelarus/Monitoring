@@ -290,8 +290,8 @@ n1969477127
   other tags : power=pole
     geometry : [55.7549823,27.9570746]
 n1969477128
-  other tags : power=pole
-    geometry : [55.7558933,27.9579999]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.7559686,27.9579553]
 n1969477138
   other tags : power=pole
     geometry : [55.7586651,27.9593968]
@@ -676,3 +676,15 @@ n3409886843
 n3410067683
   other tags : power=pole
     geometry : [55.7829426,27.9465482]
+n3492690882
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.7529331,27.9558689]
+n3492690883
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.7545610,27.9578104]
+n3492693633
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.7579234,27.9586681]
+w342237456
+  other tags : power=line
+    geometry : n3492690875[55.7466623,27.9441828] n3492690876[55.7466762,27.9463098] n3492690877[55.7466901,27.9485852] n3492690880[55.7481031,27.9502175] n3492690881[55.7504973,27.9530370] n3492690882[55.7529331,27.9558689] n3492690883[55.7545610,27.9578104] n1969477128[55.7559686,27.9579553] n3492693633[55.7579234,27.9586681]
