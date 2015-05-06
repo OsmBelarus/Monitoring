@@ -1244,7 +1244,7 @@ n305687070  Беларусбанк / null / null / Беларусбанк
     geometry : [53.8423046,27.6997583]
 n305687077  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
-    geometry : [53.9350200,27.6891100]
+    geometry : [53.9350446,27.6890883]
 n305687144  БПС-Банк / null / БПС-Банк / БПС-Банк
   other tags : amenity=atm | fee=varies | operator=БПС-Сбербанк
     geometry : [53.9520240,27.6817158]
@@ -2069,3 +2069,6 @@ n3489183864
 n3489183865
   other tags : amenity=atm | opening_hours=24/7 | operator=Беларусбанк
     geometry : [53.9354149,27.6883976]
+n3499359308
+  other tags : amenity=atm | opening_hours=24/? | operator=Белорусский народный банк | wheelchair=yes
+    geometry : [53.9358363,27.6884316]

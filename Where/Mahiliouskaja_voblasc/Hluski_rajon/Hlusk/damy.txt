@@ -284,7 +284,7 @@ w206228470
   other tags : addr:housenumber=20 | building=house
     geometry : n2162322717[52.9095260,28.6909479] n2162322721[52.9096351,28.6909622] n2162322719[52.9096266,28.6911411] n2162322715[52.9095175,28.6911267] n2162322717[52.9095260,28.6909479]
 w206228564
-  other tags : addr:housenumber=1 | building=house
+  other tags : addr:housenumber=1 | addr:street=улица Примина | building=house
     geometry : n2162327318[52.9092909,28.6907210] n2162327321[52.9094237,28.6907184] n2396165776[52.9094231,28.6906420] n2162327319[52.9094227,28.6905740] n2162327315[52.9092899,28.6905793] n2162327318[52.9092909,28.6907210]
 w206229085
   other tags : addr:housenumber=24А | addr:street=улица Вилюги | building=house
@@ -482,55 +482,55 @@ w207549430
   other tags : addr:housenumber=12 | addr:street=Южная улица | building=house
     geometry : n2178107426[52.8820519,28.7020987] n2178107427[52.8820523,28.7022344] n2178107429[52.8821951,28.7022333] n2178107428[52.8821947,28.7020976] n2178107426[52.8820519,28.7020987]
 w207549950
-  other tags : addr:housenumber=20 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=20 | addr:street=улица Тупицы | building=house
     geometry : n2178111972[52.8827890,28.6998881] n2178111974[52.8828939,28.6998836] n2178111973[52.8828919,28.6997540] n2178111971[52.8827870,28.6997584] n2178111972[52.8827890,28.6998881]
 w207550359
   other tags : addr:housenumber=38 | building=house
     geometry : n2178114804[52.8829236,28.7043868] n2178114806[52.8830254,28.7043851] n2178114805[52.8830242,28.7042053] n2178114803[52.8829224,28.7042071] n2178114804[52.8829236,28.7043868]
 w207550393
-  other tags : addr:housenumber=1 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=1 | addr:street=улица Тупицы | building=house
     geometry : n2178115003[52.8826493,28.7042469] n2178115005[52.8827168,28.7042462] n2178115006[52.8827174,28.7044186] n2178115004[52.8826499,28.7044193] n2178115003[52.8826493,28.7042469]
 w207550415
-  other tags : addr:housenumber=3А | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=3А | addr:street=улица Тупицы | building=house
     geometry : n2178115180[52.8826370,28.7039727] n2178115182[52.8827434,28.7039716] n2178115181[52.8827425,28.7037407] n2178115179[52.8826361,28.7037418] n2178115180[52.8826370,28.7039727]
 w207550536
-  other tags : addr:housenumber=2 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=2 | addr:street=улица Тупицы | building=house
     geometry : n2178116058[52.8829062,28.7039183] n2178116061[52.8830189,28.7039170] n2178116060[52.8830181,28.7037380] n2178116059[52.8829054,28.7037393] n2178116058[52.8829062,28.7039183]
 w207550650
-  other tags : addr:housenumber=3 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=3 | addr:street=улица Тупицы | building=house
     geometry : n2178117340[52.8825997,28.7034990] n2178117343[52.8826967,28.7034965] n2178117342[52.8826951,28.7033201] n2178117338[52.8825980,28.7033226] n2178117340[52.8825997,28.7034990]
 w207550726
-  other tags : addr:housenumber=6 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=6 | addr:street=улица Тупицы | building=house
     geometry : n2178117932[52.8828670,28.7028829] n2178117933[52.8828669,28.7029958] n2178117935[52.8829768,28.7029960] n2178117934[52.8829769,28.7028831] n2178117932[52.8828670,28.7028829]
 w207550805
-  other tags : addr:housenumber=4 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=4 | addr:street=улица Тупицы | building=house
     geometry : n2178119444[52.8828926,28.7035086] n2178119443[52.8828936,28.7034002] n2178119446[52.8830156,28.7034034] n2178119445[52.8830145,28.7035118] n2178119444[52.8828926,28.7035086]
 w207551789
-  other tags : addr:housenumber=9 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=9 | addr:street=улица Тупицы | building=house
     geometry : n2178126964[52.8825745,28.7023471] n2178126966[52.8826431,28.7023463] n2178126965[52.8826425,28.7022051] n2178126963[52.8825739,28.7022059] n2178126964[52.8825745,28.7023471]
 w207551938
-  other tags : addr:housenumber=10 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=10 | addr:street=улица Тупицы | building=house
     geometry : n2178128554[52.8828568,28.7021683] n2178128553[52.8828561,28.7020784] n2178128555[52.8829834,28.7020758] n2178128556[52.8829840,28.7021657] n2178128554[52.8828568,28.7021683]
 w207552039
-  other tags : addr:housenumber=13 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=13 | addr:street=улица Тупицы | building=house
     geometry : n2178129454[52.8825859,28.7019917] n2178129456[52.8826789,28.7019900] n2178129455[52.8826777,28.7017993] n2178129453[52.8825847,28.7018009] n2178129454[52.8825859,28.7019917]
 w207552127
-  other tags : addr:housenumber=15А | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=15А | addr:street=улица Тупицы | building=house
     geometry : n2178130130[52.8825783,28.7016989] n2178130132[52.8826580,28.7016996] n2178130131[52.8826586,28.7015143] n2178130129[52.8825789,28.7015136] n2178130130[52.8825783,28.7016989]
 w207552357
-  other tags : addr:housenumber=17 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=17 | addr:street=улица Тупицы | building=house
     geometry : n2178131780[52.8825062,28.7006703] n2178131781[52.8826260,28.7006723] n2178131782[52.8826249,28.7008614] n2178131779[52.8825050,28.7008595] n2178131780[52.8825062,28.7006703]
 w207552453
-  other tags : addr:housenumber=15 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=15 | addr:street=улица Тупицы | building=house
     geometry : n2178132398[52.8825535,28.7013409] n2178132401[52.8826553,28.7013415] n2178132400[52.8826556,28.7011754] n2178132399[52.8825538,28.7011748] n2178132398[52.8825535,28.7013409]
 w207552534
-  other tags : addr:housenumber=12 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=12 | addr:street=улица Тупицы | building=house
     geometry : n2178132935[52.8828394,28.7017285] n2178132938[52.8829516,28.7017288] n2178132937[52.8829518,28.7015825] n2178132936[52.8828395,28.7015823] n2178132935[52.8828394,28.7017285]
 w207552738
-  other tags : addr:housenumber=16 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=16 | addr:street=улица Тупицы | building=house
     geometry : n2178136259[52.8828422,28.7009123] n2178136257[52.8828412,28.7008221] n2178136261[52.8829460,28.7008191] n2178136263[52.8829470,28.7009093] n2178136259[52.8828422,28.7009123]
 w207552938
-  other tags : addr:housenumber=19 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=19 | addr:street=улица Тупицы | building=house
     geometry : n2178137917[52.8825002,28.7003534] n2178137914[52.8824998,28.7005111] n2178137924[52.8825986,28.7005118] n2178137920[52.8825990,28.7003541] n2178137917[52.8825002,28.7003534]
 w207569761
   other tags : addr:housenumber=6 | addr:street=улица Тельмана | building=house
@@ -950,10 +950,10 @@ w210707356
   other tags : addr:housenumber=24 | addr:street=Интернациональная улица | building=house
     geometry : n2207793212[52.9064830,28.6822134] n2207793210[52.9064178,28.6821179] n2207793213[52.9064898,28.6819828] n2207793214[52.9065550,28.6820783] n2207793212[52.9064830,28.6822134]
 w210707357
-  other tags : addr:housenumber=25 | building=house
+  other tags : addr:housenumber=25 | addr:street=Интернациональная улица | building=house
     geometry : n2207793224[52.9068151,28.6837947] n2207793223[52.9067973,28.6840034] n2207793219[52.9067067,28.6839822] n2207793222[52.9067245,28.6837735] n2207793224[52.9068151,28.6837947]
 w210707358
-  other tags : addr:housenumber=25Б | building=house
+  other tags : addr:housenumber=25Б | addr:street=Интернациональная улица | building=house
     geometry : n2207793226[52.9068446,28.6841782] n2207793225[52.9068262,28.6843691] n2207793218[52.9066968,28.6843348] n2207793220[52.9067152,28.6841439] n2207793226[52.9068446,28.6841782]
 w210707359
   other tags : addr:housenumber=26 | addr:street=Интернациональная улица | building=house
@@ -1085,7 +1085,7 @@ w215393194
   other tags : addr:housenumber=9 | addr:street=переулок Вилюги | building=house
     geometry : n2248132021[52.9113857,28.6921617] n2248132018[52.9113684,28.6923207] n2248132025[52.9114793,28.6923537] n2248132027[52.9114966,28.6921948] n2248132021[52.9113857,28.6921617]
 w215397623
-  other tags : addr:housenumber=29 | building=house
+  other tags : addr:housenumber=29 | addr:street=Интернациональная улица | building=house
     geometry : n2248181354[52.9073624,28.6838581] n2248181349[52.9073281,28.6839803] n2248181357[52.9074185,28.6840502] n2582355542[52.9074286,28.6840145] n2582355552[52.9074462,28.6840283] n2248181360[52.9074704,28.6839480] n2248181354[52.9073624,28.6838581]
 w215400203
   other tags : addr:housenumber=11 | addr:street=улица Тельмана | building=house
@@ -1133,10 +1133,10 @@ w231908383
   other tags : building=house
     geometry : n2402333877[52.9035170,28.6818644] n2402333878[52.9035670,28.6817739] n2402333876[52.9034770,28.6816374] n2402333875[52.9034270,28.6817279] n2402333877[52.9035170,28.6818644]
 w242474920
-  other tags : addr:housenumber=21 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=21 | addr:street=улица Тупицы | building=house
     geometry : n2499350779[52.8825015,28.7000675] n2499350785[52.8826269,28.7000562] n2499350784[52.8826237,28.6999592] n2499350778[52.8824983,28.6999705] n2499350779[52.8825015,28.7000675]
 w242474921
-  other tags : addr:housenumber=23 | addr:street=улица Р.Тупицы | building=house
+  other tags : addr:housenumber=23 | addr:street=улица Тупицы | building=house
     geometry : n2499350781[52.8825986,28.6995131] n2499350782[52.8825986,28.6996558] n2499350777[52.8824757,28.6996558] n2499350776[52.8824757,28.6995131] n2499350781[52.8825986,28.6995131]
 w248453903
   other tags : building=house
