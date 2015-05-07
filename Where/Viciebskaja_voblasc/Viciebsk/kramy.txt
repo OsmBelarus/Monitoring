@@ -1463,7 +1463,7 @@ n1708626537  null / null / Продукты
     geometry : [55.1643586,30.2120212]
 n1712341313  null / null / Автозапчасти
   other tags : contact:phone=+375336420532, +375293555915 | opening_hours=Mo-Sa 09:00-19:00 | operator=ЧТПУП «НордАвто» | shop=car_parts
-    geometry : [55.1944207,30.2324453]
+    geometry : [55.1944216,30.2324451]
 n1712348017  null / null / Цветы
   other tags : shop=florist
     geometry : [55.1780813,30.2009224]
@@ -2056,7 +2056,7 @@ n2466514632  null / null / Автосервис
   other tags : shop=car_repair
     geometry : [55.1875305,30.2209130]
 n2468313087  null / null / Вещь
-  other tags : description=комиссионный магазин | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=consignment
+  other tags : description=комиссионный магазин | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | second_hand=yes | shop=consignment
     geometry : [55.1942501,30.2303723]
 n2468680291  null / null / "Цветы"
   other tags : shop=florist
@@ -3336,12 +3336,6 @@ n3462228042  null / null / Комбикорма
 n3462228043  Прадукты / null / Продукты / Продукты
   other tags : opening_hours=Mo-Su 08:00-22:00 | operator=ЧТУП «Надсорина» | shop=convenience
     geometry : [55.1940350,30.1952100]
-n3462228045  Рыбак / null / Рыбак / Рыбак
-  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | shop=fishing
-    geometry : [55.1937341,30.2308482]
-n3462228049
-  other tags : description=совмещён с рыболовным | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | shop=pet
-    geometry : [55.1937281,30.2308854]
 n3462230807
   other tags : shop=florist
     geometry : [55.1981000,30.1824323]
