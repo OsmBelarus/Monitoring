@@ -3710,7 +3710,7 @@ n767183413  вуліца Матусевіча / null / Матусевича / у
     geometry : [53.9150743,27.4944197]
 n767183414  Заапарк / null / Зоопарк / Зоопарк
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8497911,27.6333147]
+    geometry : [53.8501181,27.6335025]
 n767183417  Інстытут неўралогіі і нейрахірургіі / null / Институт неврологии и нейрохирургии / Институт неврологии и нейрохирургии
   other tags : generated=yes | highway=bus_stop | ref=61002
     geometry : [53.9241066,27.6766146]
@@ -3939,7 +3939,7 @@ n767183506  null / null / Масюковщина
     geometry : [53.9312700,27.4607300]
 n767183507  Заапарк / null / Зоопарк / Зоопарк
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8491192,27.6338542]
+    geometry : [53.8491693,27.6335952]
 n767183510  null / null / Стебенева
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8358200,27.5468800]
@@ -4764,7 +4764,7 @@ n767183943  Мост / null / Мост / Мост
     geometry : [53.8345900,27.5391100]
 n767183948  Чыжоука-Арэна / null / Чижовка-Арена / Чижовка-Арена
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8450500,27.6320800]
+    geometry : [53.8447335,27.6320402]
 n767183951  Клецкая вул. / null / Клецкая / Клецкая ул.
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8351872,27.6464204]
@@ -5338,7 +5338,7 @@ n2528253648  null / null / Станция метро Автозаводская
     geometry : [53.8681153,27.6458043]
 n2616090508  null / null / Ташкентская
   other tags : highway=bus_stop
-    geometry : [53.8403718,27.6310184]
+    geometry : [53.8405529,27.6310681]
 n2623668260  null / null / Громова
   other tags : highway=bus_stop | public_transport=stop_area | type=public_transport
     geometry : [53.8537968,27.4471632]
@@ -5531,3 +5531,6 @@ n3468037575  null / null / Ковальская слобода
 n3468037576  null / null / Ковальская слобода
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.8783852,27.5499673]
+n3501623926
+  other tags : highway=bus_stop
+    geometry : [53.8399366,27.6294417]
