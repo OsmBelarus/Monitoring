@@ -15,7 +15,7 @@ n306063922  Белінвестбанк / Bielinviestbank / Белинвестб�
   other tags : amenity=bank | atm=yes
     geometry : [52.0954671,23.6838404]
 n306063932  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank | atm=yes
+  other tags : amenity=bank | atm=yes | brunch=Отделение №100/155 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-14:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 217331
     geometry : [52.0887649,23.6740453]
 n306064003  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=bank | atm=yes
@@ -33,7 +33,7 @@ n739674584  Беларусбанк, №126/47 / Bielarusbank, №126/47 / Бел
   other tags : addr:housenumber=1 | addr:street=улица М О П Ра | amenity=bank | nat_name=Отделение №126/47 ОАО "Беларусбанк" | opening_hours=Mo-Fr 09:00-20:00, Sa 09:00-16:30 | operator=Беларусбанк | website=http://belarusbank.by/ru/about/structure/search_filials?&searchkey=4&search=1
     geometry : [52.0882671,23.7084426]
 n764074474  Беларусбанк, №100/118 / Bielarusbank, №100/118 / Беларусбанк, №100/118 / Беларусбанк, №100/118
-  other tags : addr:housenumber=80 | addr:street=проспект Машерова | amenity=bank | atm=yes | opening_hours=Mo-Fr 08:45-18:30 | operator=Беларусбанк | website=http://belarusbank.by/ru/about/structure/search_filials?&searchkey=4&search=1
+  other tags : addr:housenumber=80 | addr:street=проспект Машерова | amenity=bank | atm=no | brunch=Отделение №100/118 | opening_hours=Mo-Fr 09:00-18:30; Th[3] 10:00-18:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 220456 | website=http://belarusbank.by/ru/about/structure/search_filials/~Otdelenie_100_118
     geometry : [52.0886568,23.7051417]
 n791167275  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
   other tags : addr:housenumber=46 | addr:street=проспект Машерова | amenity=bank | nat_name=Операционная касса № 505 банка "Москва-Минск"
@@ -69,7 +69,7 @@ n1248253824  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа
   other tags : amenity=bank | atm=yes
     geometry : [52.0914656,23.6947267]
 n1302690360  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank | atm=yes
+  other tags : amenity=bank | atm=yes | brunch=Отделение №100/156 | opening_hours=Mo-Fr 08:30-18:30; Th[2] 09:30-18:30 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 217338
     geometry : [52.0991965,23.6911030]
 n1446468414  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : addr:housenumber=88 | addr:street=Вульковская улица | amenity=bank
