@@ -4,28 +4,16 @@ n1374745729  null / small convenience store / Small Convenience Store
 n1402632579  Родны кут / null / null
   other tags : shop=supermarket
     geometry : [55.6240868,27.6334744]
-n1454767136
-  other tags : shop=convenience
-    geometry : [55.6205500,27.6150424]
 n1493405657  Ніка / null / Ника / Ника
   other names: name:be-x-old=Ніка
   other tags : opening_hours=08:00-24:00 | shop=yes
     geometry : [55.6188567,27.6277738]
-n1493405660
-  other tags : shop=convenience
-    geometry : [55.6189147,27.6286789]
 n1493405661  null / null / Берёзка
   other tags : shop=convenience
     geometry : [55.6201992,27.6262521]
-n1493405663
-  other tags : shop=bakery
-    geometry : [55.6198477,27.6257081]
 n1493545342
   other tags : shop=convenience
     geometry : [55.6225254,27.6293956]
-n1521061748  Магазін / null / Магазин / Магазин
-  other tags : operator=Магазин | shop=convenience
-    geometry : [55.6162464,27.6534680]
 n1521083913  null / null / Пчелка / Пчелка
   other tags : shop=convenience
     geometry : [55.6159343,27.6533843]
@@ -35,21 +23,18 @@ n1669853046
 n1807025440  null / null / Минимаркет
   other tags : shop=convenience
     geometry : [55.6262860,27.6479140]
-n1807066245
-  other tags : shop=convenience
-    geometry : [55.6227776,27.6100502]
 n1807066247  null / null / Евроопт
   other tags : shop=convenience
     geometry : [55.6255823,27.6337288]
 n1807076727
   other tags : shop=clothes
-    geometry : [55.6193729,27.6251672]
+    geometry : [55.6194013,27.6250666]
 n1807076730
   other tags : shop=books
-    geometry : [55.6194820,27.6252959]
+    geometry : [55.6195104,27.6251953]
 n1807076740
   other tags : shop=garden_centre
-    geometry : [55.6192881,27.6250170]
+    geometry : [55.6193165,27.6249164]
 n1822739799  null / null / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [55.6190808,27.6254679]

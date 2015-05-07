@@ -26206,11 +26206,11 @@ w342220792  праспект Перамогі / praspiekt Pieramohi / просп
 w342220793  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=5 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
-    geometry : n1792735497[55.1701607,30.2271121] n1229499702[55.1702884,30.2261648] n310293070[55.1703443,30.2257664]
+    geometry : n1792735497[55.1701607,30.2271121] n1229499702[55.1702884,30.2261648]
 w342220794  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|right
-    geometry : n1792735499[55.1705215,30.2232299] n3495836919[55.1704142,30.2239627] n1229499816[55.1703005,30.2247392] n310293065[55.1702433,30.2251813]
+    geometry : n1792735499[55.1705215,30.2232299] n3495836919[55.1704142,30.2239627] n1229499816[55.1703005,30.2247392]
 w342220795  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | trolley_wire=yes
@@ -26486,6 +26486,14 @@ w342844863  праспект Перамогі / praspiekt Pieramohi / просп
 w342845141  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
   other tags : highway=primary | lanes=5 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
     geometry : n1229499792[55.1706349,30.2253350] n310293066[55.1704089,30.2252470]
+w343185787  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
+  other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
+  other tags : highway=primary | lanes=5 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
+    geometry : n1229499702[55.1702884,30.2261648] n310293070[55.1703443,30.2257664]
+w343185791  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
+  other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
+  other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|right
+    geometry : n1229499816[55.1703005,30.2247392] n310293065[55.1702433,30.2251813]
 w343208787
   other tags : highway=footway
     geometry : n3500913151[55.1946316,30.2289776] n1325004530[55.1946049,30.2289858]
