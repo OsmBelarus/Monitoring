@@ -245,8 +245,8 @@ n481381446  Плошча Свабоды / Plošča Svabody / Площадь Св
 n481384892  25-я школа / null / 25-я школа
   other tags : fixme=уточнить название | highway=bus_stop
     geometry : [55.1763974,30.2151635]
-n482021657  Кальцавая / Kaĺcavaja / Кольцевая / Кольцевая
-  other tags : fixme=выяснить правильное название | highway=bus_stop
+n482021657  Веста / Vesta / Веста / Веста
+  other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1645632,30.2227163]
 n482021659  Лядовы палац / null / Ледовый дворец / Ледовый дворец
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
@@ -482,8 +482,8 @@ n800107470
   other tags : highway=bus_stop
     geometry : [55.3010966,30.3050754]
 n805027496  Праспект Перамогі / Praspiekt Pieramohi / Проспект Победы / Проспект Победы
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.1623848,30.2223943]
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
+    geometry : [55.1623691,30.2223091]
 n958177065  Прадпрыемства «Эвістар» / null / Предприятие «Эвистор»
   other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1962376,30.2566246]
