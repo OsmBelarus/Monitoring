@@ -8112,7 +8112,7 @@ w75980399  вуліца Баграмяна / vulica Bahramiana / улица Ба
   other tags : highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n429979152[55.1687360,30.2660266] n1855953449[55.1685424,30.2659575] n1352769219[55.1678540,30.2657080] n929407478[55.1669023,30.2653546] n1352769066[55.1665658,30.2652316] n2876226020[55.1654796,30.2648580] n429976624[55.1653311,30.2648055]
 w76098882  вуліца Берасценя / vulica Bierascienia / улица Берестеня / улица Берестеня
-  other tags : highway=tertiary | lanes=2 | maxspeed=60 | trolley_wire=yes | turn:lanes=left|through|right
+  other tags : highway=tertiary | lanes=2 | maxspeed=60 | trolley_wire=yes | turn:lanes=left;through|right
     geometry : n310311593[55.1992860,30.2384668] n1404835883[55.1991545,30.2387075] n726966832[55.1987647,30.2392720]
 w76115412  6-я Прадзільная вуліца / 6-ja Pradziĺnaja vulica / 6-я Прядильная улица / 6-я Прядильная улица
   other tags : highway=residential | surface=unpaved
