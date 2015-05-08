@@ -248,6 +248,9 @@ n3484282425  Лукойл / null / Лукойл / Лукойл
 n3503046196
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | payment:mastercard=yes | payment:visa=yes
     geometry : [53.9072923,27.4547134]
+n3503073895
+  other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | payment:mastercard=yes | payment:visa=yes | phone=+375(17)230-19-42 | ref=3 | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4365
+    geometry : [53.8942470,27.6422608]
 w25313862  null / null / АЗС
   other tags : amenity=fuel | building=yes | operator=Беларуснефть
     geometry : n275740728[53.8151222,27.6894376] n275740729[53.8150502,27.6896636] n275740730[53.8149742,27.6895776] n275740731[53.8150502,27.6893576] n275740728[53.8151222,27.6894376]
@@ -375,11 +378,3 @@ w337959700
 w340468157  null / null / АЗС А-100 №35
   other tags : amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100
     geometry : n3476985322[53.8331603,27.6142420] n3476985327[53.8331763,27.6168825] n3476985325[53.8322459,27.6165982] n3476985324[53.8322473,27.6147494] n3476985326[53.8328153,27.6147327] n3476985322[53.8331603,27.6142420]
-r4872323
-  other tags : addr:housenumber=7 | addr:postcode=220070 | addr:street=улица Ваупшасова | amenity=fuel | brand=Лукойл | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375(17)230-19-42 | ref=3 | type=multipolygon | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4365
-    geometry : <outer> w25319738: n275849301[53.8942761,27.6424117] n275849293[53.8943706,27.6423063] n275849295[53.8944431,27.6424934] n275849298[53.8943486,27.6425989] n275849301[53.8942761,27.6424117] : w25319738
-    geometry : <outer> w343460465: n3502916135[53.8943210,27.6423470] n275849303[53.8942680,27.6424750] n275849306[53.8941070,27.6420780] n275849288[53.8941490,27.6419120] n3502916135[53.8943210,27.6423470] : w343460465
-    geometry : <> n3502916132[53.8943135,27.6424236] : n3502916132
-    geometry : <> n3502916133[53.8942819,27.6423753] : n3502916133
-    geometry : <> n3502916131[53.8943609,27.6423566] : n3502916131
-    geometry : <> n3502916134[53.8942186,27.6421903] : n3502916134
