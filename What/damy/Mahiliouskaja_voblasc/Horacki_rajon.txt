@@ -6635,7 +6635,7 @@ w306276502
   other tags : addr:city=Ленино | addr:housenumber=13 | addr:postcode=213421 | addr:street=Набережная улица | building=house | building:levels=1
     geometry : n3111431416[54.4076650,31.1278766] n3502399411[54.4076559,31.1279613] n3502373500[54.4076251,31.1279517] n3502403493[54.4076159,31.1280389] n3111431418[54.4077249,31.1280729] n3111431419[54.4077431,31.1279010] n3111431416[54.4076650,31.1278766]
 w306278650
-  other tags : addr:city=Ленино | addr:housenumber=6 | addr:postcode=213421 | addr:street=Набережная улица | building=house | building:levels=1
+  other tags : addr:city=Ленино | addr:postcode=213421 | addr:street=Набережная улица | building=house | building:levels=1
     geometry : n3111444044[54.4086135,31.1279931] n3111444045[54.4087393,31.1280338] n3111444046[54.4087622,31.1278248] n3111444047[54.4086365,31.1277841] n3111444044[54.4086135,31.1279931]
 w306278702
   other tags : addr:city=Ленино | addr:housenumber=1 | addr:postcode=213421 | addr:street=Набережная улица | building=house | building:levels=1
@@ -7529,5 +7529,8 @@ w341127629
   other tags : addr:housenumber=1 | addr:street=улица Луговая | building=house
     geometry : n3483480193[54.3212571,30.8828835] n3483480093[54.3212496,30.8827321] n3483480893[54.3213497,30.8827176] n3483480793[54.3213481,30.8826861] n3483480194[54.3213861,30.8826806] n3483481293[54.3213952,30.8828634] n3483480193[54.3212571,30.8828835]
 w343391629
-  other tags : building=house
+  other tags : addr:city=Ленино | addr:housenumber=11 | addr:postcode=213421 | addr:street=Набережная улица | building=house
     geometry : n3502372922[54.4078608,31.1279770] n3502403593[54.4078480,31.1280974] n3502399795[54.4079355,31.1281250] n3502403893[54.4079483,31.1280045] n3502372922[54.4078608,31.1279770]
+w343411009
+  other tags : addr:city=Ленино | addr:housenumber=6 | addr:postcode=213421 | addr:street=Набережная улица | building=house
+    geometry : n3502538495[54.4083487,31.1278013] n3502538993[54.4083725,31.1276304] n3502538895[54.4084908,31.1276791] n3502524302[54.4084670,31.1278500] n3502538495[54.4083487,31.1278013]
