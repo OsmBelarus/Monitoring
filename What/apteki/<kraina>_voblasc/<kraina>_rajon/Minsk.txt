@@ -939,7 +939,7 @@ n2593654421  null / null / Зеленая Аптека N15 / Зеленая Ап
   other tags : addr:housenumber=26 | addr:postcode=220112 | addr:street=Игуменский тракт | amenity=pharmacy | operator=ООО Здоровое решение | phone=+375 (17) 2455532 | website=http://www.fito.by/
     geometry : [53.8429740,27.5708855]
 n2599683030  null / null / Белфармация А РУП Аптека №20 / Белфармация А РУП Аптека №20
-  other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Пн-Пт: 11.00 - 19.00 | phone=+37517 2744929
+  other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Mo-Fr 11:00-19:00 | phone=+37517 2744929
     geometry : [53.8553409,27.4464375]
 n2599747642
   other tags : amenity=pharmacy
@@ -954,7 +954,7 @@ n2602935708  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [53.9043510,27.4575862]
 n2602935709  Белфармацыя А ТДА Аптэка №106 / Bielfarmacyja A TDA Apteka №106 / Белфармация А РУП Аптека №106 / Белфармация А РУП Аптека №106
-  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Бурдейного | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 2594898
+  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Бурдейного | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2594898
     geometry : [53.9044458,27.4585327]
 n2607487453  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
@@ -1140,7 +1140,7 @@ n3082495784  null / null / Белмедпресс ООО Аптека №21 / Б
   other tags : addr:housenumber=4 | addr:street=улица Толстого | amenity=pharmacy | opening_hours=08:00-21:00 | phone=+37517 2162432
     geometry : [53.8898972,27.5426857]
 n3085893509  Белфармацыя А ТДА Аптэка №1 / Bielfarmacyja A TDA Apteka №1 / Белфармация А РУП Аптека №1 / Белфармация А РУП Аптека №1
-  other tags : addr:city=Минск | addr:housenumber=22 | addr:street=улица Кульман | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+375 (17) 2373026
+  other tags : addr:city=Минск | addr:housenumber=22 | addr:street=улица Кульман | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+375 (17) 2373026
     geometry : [53.9241943,27.5775853]
 n3085896171  Белфармацыя А ТДА Аптэка №1 / Bielfarmacyja A TDA Apteka №1 / Белфармация А РУП Аптека №1 / Белфармация А РУП Аптека №1
   other tags : addr:city=Минск | addr:housenumber=17 | addr:street=улица Золотая Горка | amenity=pharmacy | contact:phone=+375173800658 | opening_hours=Mo-Fr 08:00-20:00 | website=http://apteka.103.by/pharmacies/belfarmatsiya_a_rue_pharmacy_n_1(2)/
@@ -1149,22 +1149,22 @@ n3085905098  Белфармацыя А ТДА Аптэка №100 / Bielfarmacyj
   other tags : addr:city=Минск | addr:housenumber=60 к1 | addr:street=улица Лейтенанта Кижеватова | amenity=pharmacy | opening_hours=Mo-Fr 09:00-17:00 | phone=+37517 3720369
     geometry : [53.8498943,27.5353284]
 n3085908775  Белфармацыя А ТДА Аптэка №101 / Bielfarmacyja A TDA Apteka №101 / Белфармация А РУП Аптека №101 / Белфармация А РУП Аптека №101
-  other tags : addr:city=Минск | addr:housenumber=33 | addr:street=улица Якубовского | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 2027079
+  other tags : addr:city=Минск | addr:housenumber=33 | addr:street=улица Якубовского | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2027079
     geometry : [53.8978784,27.4543360]
 n3085909584  Белфармацыя А ТДА Аптэка №100 / Bielfarmacyja A TDA Apteka №100 / Белфармация А РУП Аптека №100 / Белфармация А РУП Аптека №100
-  other tags : addr:city=Минск | addr:housenumber=15 | addr:street=улица Серова | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 2774467 | website=http://apteka.103.by/pharmacies/belfarmatsiya_a_rue_pharmacy_n_100/
+  other tags : addr:city=Минск | addr:housenumber=15 | addr:street=улица Серова | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2774467 | website=http://apteka.103.by/pharmacies/belfarmatsiya_a_rue_pharmacy_n_100/
     geometry : [53.8477371,27.5493368]
 n3085913225  Белфармацыя А ТДА Аптэка №102 / Bielfarmacyja A TDA Apteka №102 / Белфармация А РУП Аптека №102 / Белфармация А РУП Аптека №102
   other tags : addr:city=Минск | addr:housenumber=9 | addr:street=улица Алеся Бачило | amenity=pharmacy | opening_hours=Mo-Fr 08:00-19:30 | phone=+37517 3800648
     geometry : [53.8413801,27.6999498]
 n3086080249  Белфармацыя А ТДА Аптэка №104 / Bielfarmacyja A TDA Apteka №104 / Белфармация А РУП Аптека №104 / Белфармация А РУП Аптека №104
-  other tags : addr:city=Минск | addr:housenumber=17 | addr:street=Нарочанская улица | amenity=pharmacy | opening_hours=Пн-Пт: 09.00 - 17.00 | phone=+37517 2908159
+  other tags : addr:city=Минск | addr:housenumber=17 | addr:street=Нарочанская улица | amenity=pharmacy | opening_hours=Mo-Fr 09:00-17:00 | phone=+37517 2908159
     geometry : [53.9325790,27.4803382]
 n3086094885  Белфармацыя А ТДА Аптэка №109 / Bielfarmacyja A TDA Apteka №109 / Белфармация А РУП Аптека №109 / Белфармация А РУП Аптека №109
-  other tags : addr:city=Минск | addr:housenumber=66 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 2706689
+  other tags : addr:city=Минск | addr:housenumber=66 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2706689
     geometry : [53.8570850,27.4444820]
 n3086102748  Белфармацыя А ТДА Аптэка №109 / Bielfarmacyja A TDA Apteka №109 / Белфармация А РУП Аптека №109 / Белфармация А РУП Аптека №109
-  other tags : addr:city=Минск | addr:housenumber=83 | addr:street=проспект Дзержинского | amenity=pharmacy | opening_hours=Пн-пт: 08:00-18:00 | phone=+375(17)2706848
+  other tags : addr:city=Минск | addr:housenumber=83 | addr:street=проспект Дзержинского | amenity=pharmacy | opening_hours=Mo-Fr 08:00-18:00 | phone=+375(17)2706848
     geometry : [53.8618170,27.4846974]
 n3086106489  Белфармацыя А ТДА Аптэка №109 / Bielfarmacyja A TDA Apteka №109 / Белфармация А РУП Аптека №109 / Белфармация А РУП Аптека №109
   other tags : addr:city=Минск | addr:housenumber=87 | addr:street=проспект Дзержинского | amenity=pharmacy | phone=+37517 3966483
@@ -1173,25 +1173,25 @@ n3086109779  Аптэка №109 / Apteka №109 / Аптека №109 / Апт�
   other tags : addr:city=Минск | addr:housenumber=21 | addr:street=улица Сергея Есенина | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | operator=Белфармация А РУП | phone=+37517 3761984
     geometry : [53.8498146,27.4577440]
 n3086111153  Белфармацыя А ТДА Аптэка №11 / Bielfarmacyja A TDA Apteka №11 / Белфармация А РУП Аптека №11 / Белфармация А РУП Аптека №11
-  other tags : addr:city=Минск | addr:housenumber=6 | addr:street=Сухая улица | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 3927298
+  other tags : addr:city=Минск | addr:housenumber=6 | addr:street=Сухая улица | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 3927298
     geometry : [53.9035139,27.5379302]
 n3086114501  Белфармацыя А ТДА Аптэка №110 / Bielfarmacyja A TDA Apteka №110 / Белфармация А РУП Аптека №110 / Белфармация А РУП Аптека №110
   other tags : amenity=pharmacy | contact:phone=+37517 2606613 | opening_hours=Mo-Fr 08:00-20:00
     geometry : [53.9392542,27.6905654]
 n3086126059  Белфармацыя А ТДА Аптэка №13 / Bielfarmacyja A TDA Apteka №13 / Белфармация А РУП Аптека №13 / Белфармация А РУП Аптека №13
-  other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Лейтенанта Кижеватова | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00, Сб: 10.00 - 18.00 | phone=+37517 3987453
+  other tags : addr:city=Минск | addr:housenumber=58 | addr:street=улица Лейтенанта Кижеватова | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00; Sa 10:00-18:00 | phone=+37517 3987453
     geometry : [53.8526193,27.5340493]
 n3086127152  Белфармацыя А ТДА Аптэка №13 / Bielfarmacyja A TDA Apteka №13 / Белфармация А РУП Аптека №13 / Белфармация А РУП Аптека №13
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Привокзальная площадь | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 21.00, Сб-Вс: 09.00 - 17.00
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Привокзальная площадь | amenity=pharmacy | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 09:00-17:00
     geometry : [53.8909749,27.5507354]
 n3086127157  null / null / Белфармация А РУП Аптека №13 (дежурная) / Белфармация А РУП Аптека №13 (дежурная)
   other tags : addr:housenumber=5 | addr:street=Привокзальная площадь | amenity=pharmacy | opening_hours=24/7 | phone=+37517 2255201
     geometry : [53.8909435,27.5512286]
 n3086323329  null / null / Белфармация А РУП Аптека №16 / Белфармация А РУП Аптека №16
-  other tags : addr:city=Минск | addr:housenumber=73 | addr:street=улица Уборевича | amenity=pharmacy | opening_hours=Пн-Пт: 08.30 - 19.30 | phone=+37517 3403420
+  other tags : addr:city=Минск | addr:housenumber=73 | addr:street=улица Уборевича | amenity=pharmacy | opening_hours=Mo-Fr 08:30-19:30 | phone=+37517 3403420
     geometry : [53.8386577,27.6549721]
 n3086343539  null / null / Белфармация А РУП Аптека №17 / Белфармация А РУП Аптека №17
-  other tags : addr:city=Минск | addr:housenumber=17 | addr:street=улица Макаёнка | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00, Сб: 08.00 - 16.00 | phone=+37517 2670292
+  other tags : addr:city=Минск | addr:housenumber=17 | addr:street=улица Макаёнка | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-16:00 | phone=+37517 2670292
     geometry : [53.9176996,27.6275172]
 n3087823851
   other tags : amenity=pharmacy
@@ -1203,16 +1203,16 @@ n3087987638  Белфармацыя А РУП Аптэка №17 / Bielfarmacyja
   other tags : addr:city=Минск | addr:housenumber=131/1 | addr:street=проспект Независимости | amenity=pharmacy | contact:phone=+37517 2688064 | opening_hours=Mo 10:00-18:00; Tu-Fr 08:00-20:30; Su 08:00-16:00 | ref=17
     geometry : [53.9331663,27.6439643]
 n3092873438  null / null / Белфармация А РУП Аптека №18 / Белфармация А РУП Аптека №18
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Киселёва | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 2906252
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Киселёва | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 2906252
     geometry : [53.9105280,27.5718840]
 n3092873451  null / null / Белфармация А РУП Аптека №20 / Белфармация А РУП Аптека №20
-  other tags : addr:city=Минск | addr:housenumber=60 | addr:street=улица Рафиева | amenity=pharmacy | opening_hours=Пн-Пт: 08.00 - 20.00 | phone=+37517 3859712
+  other tags : addr:city=Минск | addr:housenumber=60 | addr:street=улица Рафиева | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 3859712
     geometry : [53.8630328,27.4437466]
 n3092880499  null / null / Белфармация А РУП Аптека №23 / Белфармация А РУП Аптека №23
-  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Нахимова | amenity=pharmacy | opening_hours=Пн-Пт: 09.00 - 17.00 | phone=+37517 2669882
+  other tags : addr:city=Минск | addr:housenumber=4 | addr:street=улица Нахимова | amenity=pharmacy | opening_hours=Mo-Fr 09:00-17:00 | phone=+37517 2669882
     geometry : [53.8836260,27.5983746]
 n3092884068  null / null / Белфармация А РУП Аптека №23 / Белфармация А РУП Аптека №23
-  other tags : addr:city=Минск | addr:housenumber=32 | addr:street=улица Станиславского | amenity=pharmacy | opening_hours=Пн-Пт: 10.00 - 18.00 | phone=+37517 3801835
+  other tags : addr:city=Минск | addr:housenumber=32 | addr:street=улица Станиславского | amenity=pharmacy | opening_hours=Mo-Fr 10:00-18:00 | phone=+37517 3801835
     geometry : [53.8871074,27.5917610]
 n3092887836  null / null / Белфармация А РУП Аптека №25 / Белфармация А РУП Аптека №25
   other tags : addr:city=Минск | addr:housenumber=1 | addr:street=улица Щербакова | amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00 | phone=+37517 3800641
