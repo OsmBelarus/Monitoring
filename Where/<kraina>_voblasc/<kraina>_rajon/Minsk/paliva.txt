@@ -10,9 +10,6 @@ n247697236  null / null / Белоруснефть
 n247777322
   other tags : amenity=fuel | opening_hours=24/7 | operator=United Company
     geometry : [53.9383259,27.4787785]
-n247780015
-  other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | ref=1
-    geometry : [53.9072470,27.4546297]
 n255020759  null / null / United Company / United Company
   other tags : amenity=fuel | brand=United Company | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes
     geometry : [53.8443938,27.4704074]
@@ -383,3 +380,11 @@ r4872323
     geometry : <> n3502916133[53.8942819,27.6423753] : n3502916133
     geometry : <> n3502916131[53.8943609,27.6423566] : n3502916131
     geometry : <> n3502916134[53.8942186,27.6421903] : n3502916134
+r4872432  null / null / АЗС 1
+  other tags : addr:housenumber=2 | addr:postcode=220140 | addr:street=улица Лещинского | amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375(17)258-20-59 | ref=1 | type=site | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4363
+    geometry : <> w25393973: n276758907[53.9073546,27.4547732] n276758918[53.9073548,27.4545740] n2528563273[53.9073562,27.4544476] n276758902[53.9074940,27.4544506] n276758904[53.9074906,27.4549066] n276758906[53.9073532,27.4549036] n276758907[53.9073546,27.4547732] : w25393973
+    geometry : <> w245714551: n276758909[53.9072859,27.4547730] n276758910[53.9072858,27.4549498] n276758912[53.9071943,27.4549496] n276758914[53.9071947,27.4544726] n276758915[53.9072852,27.4544728] n276758917[53.9072851,27.4545739] n276758918[53.9073548,27.4545740] n276758907[53.9073546,27.4547732] n276758909[53.9072859,27.4547730] : w245714551
+    geometry : <> n3502887877[53.9073908,27.4546807] : n3502887877
+    geometry : <> n3502992142[53.9073772,27.4545442] : n3502992142
+    geometry : <> n3502874355[53.9074198,27.4545463] : n3502874355
+    geometry : <> n3502874356[53.9074275,27.4547939] : n3502874356
