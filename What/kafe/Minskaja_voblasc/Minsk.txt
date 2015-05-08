@@ -1366,8 +1366,8 @@ n1692395960  null / null / Funny Chicken
 n1695377565  Міні-кафэ Мясноў / null / Мини-кафе Мяснов / Мини-кафе Мяснов
   other tags : amenity=fast_food | cuisine=turkish | opening_hours=Mo-Su 09:00-22:00 | operator:be=ПГУП "Мясноў" | operator:ru=ЧПТУ "Мяснов"
     geometry : [53.9446954,27.6871028]
-n1695378708  null / null / СТОЛОВАЯ N 57
-  other tags : amenity=cafe | operator=РУП МИНСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД | phone=+375172639468
+n1695378708  null / null / Столовая № 57
+  other tags : addr:housenumber=4 | addr:street=Волгоградская улица | amenity=cafe | operator=РУП МИНСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД | phone=+375172639468
     geometry : [53.9289207,27.6257416]
 n1710499613  null / null / Loft
   other tags : addr:housenumber=22 | addr:street=улица Петруся Бровки | amenity=cafe | internet_access=wlan | smoking=yes | source=http://loft.relax.by | website=http://loftcafe.by
@@ -1648,9 +1648,6 @@ n1870460979  null / null / Столовая
 n1870460981  Сталовая / null / Столовая / Столовая
   other tags : amenity=cafe | contact:phone=+375172175622 | operator=УО ВГКС
     geometry : [53.9239776,27.6665575]
-n1870460982  null / null / Столовая БГАТУ
-  other tags : addr:housenumber=99 к1 | addr:postcode=220012 | addr:street=проспект Независимости | amenity=cafe | operator=УО БГАТУ | phone=+375172673583
-    geometry : [53.9272570,27.6203602]
 n1870460984  Сталовая / null / Столовая / Столовая
   other tags : amenity=cafe | contact:phone=+375296519119 | operator=РУП ПСЗ ОПТРОН
     geometry : [53.9341903,27.7006685]
