@@ -1,6 +1,9 @@
 n306061864  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=Отделение №100/212 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00; Th[2] 10:00-19:00 | operator=ОАО "АСБ Беларусбанк"
     geometry : [52.1014542,23.7619802]
+n306061894  null / Bielarusbank / Беларусбанк
+  other tags : amenity=bank | branch=Отделение №100/207 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00; Tu[2] 10:00-19:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 426253
+    geometry : [52.1036300,23.7519700]
 n306062116  Беларусбанк / null / null / Беларусбанк
   other names: name:en=Belarusbank
   other tags : addr:housenumber=89 | addr:postcode=224033 | addr:street=Сябровская улица | amenity=bank | atm=yes | operator=Беларусбанк | website=http://belarusbank.by/
@@ -158,6 +161,12 @@ n3501431835  null / null / Беларусбанк
 n3501469452  null / null / Беларусбанк
   other tags : addr:street=пункт пропуска "Козловичи" | amenity=bank | atm=no | branch=Отделение №100/116 | description=пункт пропуска «Козловичи» | note=Примерное местоположение | opening_hours=Mo-Su 00:10-23:50 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 525529
     geometry : [52.1235380,23.5742200]
+n3505211851  null / Bielarusbank / Беларусбанк
+  other tags : amenity=bank | branch=Отделение №100/186 | opening_hours=Mo-Fr 09:00-19:00; Fr[1] 10:00-19:00; Sa-Su 09; 00-15:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162  215316
+    geometry : [52.0913696,23.7016995]
+n3505216729  null / Bielarusbank / Беларусбанк
+  other tags : amenity=bank | branch=Отделение №100/158 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00; Mo[-1] 10:00-19:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 289450
+    geometry : [52.0597879,23.7301194]
 w58064500  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
   other tags : addr:housenumber=24 | addr:street=Коммунистическая улица | amenity=bank | atm=yes | building=yes
     geometry : n720549903[52.0895964,23.6853839] n720549875[52.0896031,23.6858469] n720550295[52.0894941,23.6858510] n3306832272[52.0894930,23.6857760] n3306832274[52.0894626,23.6857772] n3306832275[52.0894613,23.6856879] n3306832273[52.0894903,23.6856868] n3306832276[52.0894886,23.6855713] n3306832278[52.0894608,23.6855723] n3306832283[52.0894595,23.6854798] n3306832277[52.0894852,23.6854788] n720549912[52.0894839,23.6853882] n720549903[52.0895964,23.6853839]
