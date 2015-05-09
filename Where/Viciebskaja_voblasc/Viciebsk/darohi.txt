@@ -4315,7 +4315,7 @@ w28255367  7-я Лугавая вуліца / 7-ja Luhavaja vulica / 7-я Луг
   other tags : highway=residential | surface=asphalt
     geometry : n310294497[55.2063806,30.2643893] n310294496[55.2056504,30.2645991] n310294492[55.2045213,30.2649452] n2105326415[55.2043813,30.2650545] n310294491[55.2042760,30.2651791] n2561084992[55.2040253,30.2657386] n310294494[55.2037398,30.2663514] n1933258090[55.2036480,30.2665315] n310294493[55.2035328,30.2667765]
 w28255369  вуліца Гараўца / vulica Haraŭca / улица Горовца / улица Горовца
-  other tags : highway=primary | lanes=3 | lanes:psv:backward=1 | maxspeed=60 | oneway=no | surface=asphalt
+  other tags : highway=primary | lanes=3 | lanes:forward=2 | lanes:psv:backward=1 | maxspeed=60 | oneway=no | surface=asphalt
     geometry : n310310571[55.2042776,30.2128944] n3398038588[55.2041305,30.2127030] n3398038591[55.2040337,30.2125428] n310311047[55.2039489,30.2123150]
 w28255371  Папярочная вуліца / Papiaročnaja vulica / Поперечная улица / Поперечная улица
   other tags : highway=residential | surface=unpaved
@@ -26080,7 +26080,7 @@ w341688338
   other tags : footway=crossing | highway=footway
     geometry : n3488024083[55.2040037,30.2142749] n1493263803[55.2040478,30.2143184] n2912273049[55.2041157,30.2143846] n2912273051[55.2041400,30.2144083] n2912273055[55.2041666,30.2144333] n2912273063[55.2041933,30.2144583] n2089409347[55.2042569,30.2145180] n3488024085[55.2042850,30.2145447]
 w341693296  вуліца Гараўца / vulica Haraŭca / улица Горовца / улица Горовца
-  other tags : highway=primary | lanes=3 | lanes:psv:backward=1 | maxspeed=60 | oneway=no | surface=asphalt | trolley_wire=yes
+  other tags : highway=primary | lanes=3 | lanes:forward=2 | lanes:psv:backward=1 | maxspeed=60 | oneway=no | surface=asphalt | trolley_wire=yes
     geometry : n310311047[55.2039489,30.2123150] n2438145685[55.2039067,30.2121606] n3505394415[55.2037677,30.2116159] n2371874019[55.2035507,30.2107652] n2371874009[55.2032522,30.2096952] n1226396484[55.2030680,30.2090114] n310311054[55.2030466,30.2087819] n344314264[55.2030472,30.2085361] n2458924471[55.2030804,30.2079160] n310312480[55.2030908,30.2077220]
 w341729466
   other tags : highway=footway
