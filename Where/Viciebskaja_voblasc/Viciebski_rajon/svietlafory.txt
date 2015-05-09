@@ -476,10 +476,10 @@ n3079074080  null / null / Осиновка
   other tags : highway=bus_stop
     geometry : [55.0959920,30.0750137]
 n3108872589
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1024737,30.1924676]
 n3108872590
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1027822,30.1917218]
 n3110129560
   other tags : highway=bus_stop
@@ -539,7 +539,7 @@ n3217072927
   other tags : highway=bus_stop
     geometry : [55.1034434,30.2394081]
 n3217073071
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1040802,30.2357440]
 n3485206004  null / null / Сокольники / Сокольники
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
