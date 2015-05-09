@@ -26,13 +26,13 @@ n259283578
   other tags : amenity=fuel
     geometry : [53.8808159,27.5975406]
 n277051301  null / null / Минскоблнефтепродукт
-  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=82
+  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=82
     geometry : [53.8490798,27.4362931]
 n278522500  null / null / Лукойл
   other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Лукойл
     geometry : [53.8382133,27.5320734]
 n279599464  null / null / A-100 / A-100
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=А-100 | shop=convenience
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=А-100 | shop=convenience
     geometry : [53.8718615,27.5518732]
 n280261767  null / null / Белоруснефть
   other tags : amenity=fuel
@@ -311,8 +311,8 @@ w25387073
 w25387724
   other tags : addr:housenumber=37А | addr:postcode=220007 | addr:street=улица Левкова | amenity=fuel | brand=Белнефтехим | building=yes | fuel:diesel=no | fuel:octane_92=yes | fuel:octane_95=yes | shop=kiosk
     geometry : n276701202[53.8743104,27.5557842] n276701203[53.8742997,27.5561616] n276701204[53.8742216,27.5561553] n276701205[53.8742323,27.5557779] n276701202[53.8743104,27.5557842]
-w25387749  null / null / Славнефть
-  other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes
+w25387749  null / null / Газпромнефть
+  other tags : addr:housenumber=4Б | addr:street=Аэродромная улица | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть
     geometry : n276701322[53.8720877,27.5470172] n1625134835[53.8720558,27.5470119] n276701323[53.8717707,27.5469632] n276701324[53.8717707,27.5470342] n276701325[53.8718017,27.5470402] n276701326[53.8717977,27.5471842] n276701327[53.8716797,27.5471622] n276701328[53.8716827,27.5469542] n276701329[53.8717177,27.5469542] n276701330[53.8717287,27.5467502] n276701331[53.8718247,27.5467652] n276701332[53.8718247,27.5468092] n1625134837[53.8720640,27.5468570] n276701333[53.8720917,27.5468622] n276701334[53.8721177,27.5469042] n276701335[53.8721137,27.5469802] n276701322[53.8720877,27.5470172]
 w25388050  null / null / Белоруснефть
   other names: name:en=Belorusneft

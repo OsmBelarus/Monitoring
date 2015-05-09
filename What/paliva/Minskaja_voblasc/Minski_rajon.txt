@@ -2,7 +2,7 @@ n247278444  А-100 АЗС №2 / null / А-100 АЗС №2 / А-100 АЗС №2
   other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:electricity=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-17-2664606 | website=http://azs.a-100.by/
     geometry : [53.9643005,27.6433932]
 n255481016  null / null / Газпромнефть
-  other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes | fuel:octane_98=yes | operator=Газпромнефть | shop=kiosk
+  other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | operator=Газпромнефть | shop=kiosk
     geometry : [53.8455843,27.4439659]
 n265496558
   other tags : amenity=fuel
@@ -62,7 +62,7 @@ n1117295288
   other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белнефтехим
     geometry : [53.7897248,27.5255638]
 n1248940756
-  other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes
+  other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [53.8526766,27.4271148]
 n1277943737
   other tags : amenity=fuel | fuel:lpg=yes | operator=Газпромнефть
