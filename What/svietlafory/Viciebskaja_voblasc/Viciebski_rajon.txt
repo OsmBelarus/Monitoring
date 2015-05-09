@@ -134,7 +134,7 @@ n1901105643  null / null / Прокуды
   other tags : highway=bus_stop
     geometry : [55.2382827,30.0764490]
 n1901105659  null / null / Станция Лужесно
-  other tags : highway=bus_stop
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.2522277,30.1137845]
 n1910389589
   other tags : highway=bus_stop
@@ -163,11 +163,11 @@ n2157319057
 n2157319095
   other tags : highway=bus_stop
     geometry : [55.3524246,30.0786152]
-n2286020722
-  other tags : highway=bus_stop
+n2286020722  null / null / Белвитунифарм / Белвитунифарм
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.3568084,30.0717393]
-n2286020723
-  other tags : highway=bus_stop
+n2286020723  null / null / Белвитунифарм / Белвитунифарм
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.3583169,30.0717639]
 n2331779257  null / null / Тулово
   other tags : highway=bus_stop
@@ -401,7 +401,7 @@ n2842666528
   other tags : highway=bus_stop
     geometry : [55.5377826,30.8178724]
 n2843347700
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.2541344,30.1138322]
 n2843847196
   other tags : highway=bus_stop | public_transport=platform

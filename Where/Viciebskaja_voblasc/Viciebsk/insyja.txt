@@ -286,7 +286,7 @@ n496124920
     geometry : [55.2904903,30.3010823]
 n501585556  null / null / Памятник летчику А.К.Горовцу
   other tags : historic=memorial
-    geometry : [55.2031525,30.2108869]
+    geometry : [55.2031525,30.2109902]
 n501587088  Помнік Леніну / null / памятник Ленину
   other names: name:de=Lenin-Denkmal | name:en=Lenin monument | name:fr=monument de Lénine | name:pl=pomnik Lenina
   other tags : historic=memorial
@@ -4985,6 +4985,9 @@ n2438721939
 n2448323300
   other tags : addr:housenumber=2 | addr:street=Смоленская площадь
     geometry : [55.2041354,30.2117594]
+n2448323311
+  other tags : barrier=bollard
+    geometry : [55.2045203,30.2102397]
 n2451040370
   other tags : railway=level_crossing
     geometry : [55.2186489,30.2466087]
@@ -6283,7 +6286,7 @@ n2831127441
     geometry : [55.2016031,30.2068134]
 n2831127442
   other tags : addr:housenumber=21 | addr:street=улица Урицкого
-    geometry : [55.2015415,30.2083772]
+    geometry : [55.2015594,30.2080893]
 n2831208707
   other tags : addr:housenumber=44 | addr:street=улица Суворова
     geometry : [55.2036261,30.2054836]
@@ -10120,8 +10123,8 @@ n3060526621
 n3060564556
   other tags : addr:housenumber=7 | addr:street=1-я Прорезная улица
     geometry : [55.2125097,30.1991236]
-n3063390582  null / null / Таксофон
-  other tags : amenity=telephone | contact:phone=+375 (212) 261-866 | operator=РУП «Белтелеком»
+n3063390582  Таксафон / null / Таксофон / Таксофон
+  other tags : amenity=telephone | contact:phone=+375 (212) 261-866 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
     geometry : [55.1944007,30.2324421]
 n3063390583  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375 (212) 55-88-35
@@ -11334,7 +11337,7 @@ n3374999704  null / null / Луга
   other tags : place=suburb
     geometry : [55.2054698,30.2658505]
 n3375008868  null / null / Белые дома
-  other tags : place=neighbourhood
+  other tags : place=locality
     geometry : [55.2032229,30.2109925]
 n3375045537  null / null / пристань
   other tags : leisure=marina
@@ -11858,6 +11861,30 @@ n3501571266  null / null / Ремонт обуви
 n3504835985  null / null / Автомойка
   other tags : amenity=car_wash
     geometry : [55.2083056,30.1479759]
+n3505394403  Смаленская плошча / null / Смоленская площадь / Смоленская площадь
+  other tags : bus=yes | public_transport=platform | shelter=yes
+    geometry : [55.2037291,30.2116512]
+n3505394404  Таксафон / null / Таксофон / Таксофон
+  other tags : amenity=telephone | contact:phone=+375(212) 35-87-39 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
+    geometry : [55.1924705,30.2088955]
+n3505394405  Таксафон / null / Таксофон / Таксофон
+  other tags : amenity=telephone | contact:phone=+375(212) 550-550 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
+    geometry : [55.1939699,30.2325964]
+n3505394406  інфакіёск Белпошта / null / инфокиоск Белпочта / инфокиоск Белпочта
+  other tags : amenity=payment_terminal | currency:BYR=yes | currency:others=no | indoor=yes | language:be=yes | language:ru=yes | operator=РУП «Белпочта» | payment:cash=no | payment:maestro=yes | payment:mastercard=yes | payment:visa_electron=yes
+    geometry : [55.1943988,30.2320152]
+n3505394407  інфакіёск Белпошта / null / инфокиоск Белпочта / инфокиоск Белпочта
+  other tags : amenity=payment_terminal | currency:BYR=yes | currency:others=no | indoor=yes | language:be=yes | language:ru=yes | operator=РУП «Белпочта» | payment:cash=yes
+    geometry : [55.1944105,30.2320117]
+n3505394408
+  other tags : amenity=post_box | collection_times=Mo-Sa 15:30
+    geometry : [55.2015910,30.2077207]
+n3505394415
+  other tags : public_transport=stop_position
+    geometry : [55.2037677,30.2116159]
+n3505394416
+  other tags : barrier=lift_gate
+    geometry : [55.2041832,30.2106789]
 w8384407
   other tags : note=аэродром разобран
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
@@ -20958,7 +20985,7 @@ w282575039
     geometry : n2865132569[55.1665954,30.1448300] n2865132570[55.1666319,30.1450643] n2865132568[55.1665537,30.1453716] n2865132562[55.1664720,30.1454902] n2865132553[55.1662374,30.1454750] n2865132544[55.1661105,30.1454537] n2865132548[55.1661487,30.1458067] n2865132545[55.1661262,30.1462448] n2865132539[55.1660375,30.1465156] n2865132527[55.1658290,30.1461261] n2865132521[55.1656500,30.1458188] n2865132518[55.1655891,30.1454324] n2865132515[55.1654692,30.1452438] n2865132516[55.1654953,30.1449669] n2865132519[55.1655943,30.1446140] n2865132524[55.1657647,30.1444405] n2865132547[55.1661453,30.1446505] n2865132565[55.1665050,30.1447631] n2865132569[55.1665954,30.1448300]
 w282850710
   other tags : landuse=residential
-    geometry : n2867987221[55.2017475,30.2053500] n2867987220[55.2016780,30.2073593] n2867987218[55.1992333,30.2070173] n2867987219[55.1993478,30.2049668] n2867987221[55.2017475,30.2053500]
+    geometry : n2867987221[55.2017475,30.2053500] n3505394411[55.2016649,30.2071974] n3505394410[55.2016571,30.2072863] n3505394409[55.2016278,30.2073120] n2867987220[55.2016028,30.2073234] n2867987218[55.1992333,30.2070173] n2867987219[55.1993478,30.2049668] n2867987221[55.2017475,30.2053500]
 w282850711
   other tags : landuse=residential | residential=urban
     geometry : n2867987217[55.1938201,30.1920500] n2867987216[55.1934694,30.1946561] n2867987215[55.1933831,30.1947317] n2867987213[55.1913290,30.1941725] n2867987214[55.1915730,30.1914577] n2867987217[55.1938201,30.1920500]
