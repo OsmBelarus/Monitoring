@@ -1553,8 +1553,8 @@ w74117114
   other tags : highway=footway | surface=paving_stones
     geometry : n1119755484[52.7862712,27.5017020] n1119755485[52.7862773,27.5012221] n2849552005[52.7860310,27.5012043] n876788860[52.7859542,27.5011181] n876788838[52.7859724,27.4986003]
 w74117356  Уваскрасенская вуліца / Uvaskrasienskaja vulica / Воскресенская улица / Воскресенская улица
-  other tags : foot=no | highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n3504883461[52.7815248,27.4946280] n3382307990[52.7816986,27.4946321] n3148212753[52.7834132,27.4946402] n3097456726[52.7839779,27.4946548] n3097513653[52.7840533,27.4946565] n867316745[52.7856225,27.4946626]
+  other tags : addr:city=Солигорск | addr:postcode=223700 | addr:street=Подольская улица | foot=no | highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
+    geometry : n3504883461[52.7815248,27.4946280] n3382307990[52.7816986,27.4946321] n3148212753[52.7834132,27.4946402] n3097456726[52.7839779,27.4946548] n3097513653[52.7840533,27.4946565] n867316745[52.7856225,27.4946626] n2337946808[52.7867612,27.4946548]
 w74175694
   other tags : highway=footway | surface=paving_stones
     geometry : n876788840[52.7857106,27.4985950] n877428164[52.7856963,27.4969593] n2849551899[52.7856996,27.4960720] n2849551893[52.7857372,27.4958901]
@@ -3113,7 +3113,7 @@ w295468792
   other tags : highway=footway | surface=paving_stones
     geometry : n826144295[52.7917069,27.5375937] n2992048010[52.7916506,27.5376540] n2992048008[52.7916090,27.5375202] n2992048005[52.7915137,27.5372138] n2992048000[52.7914184,27.5369074] n2992048001[52.7914366,27.5367123]
 w295789401  Падольская вуліца / Padoĺskaja vulica / Подольская улица / Подольская улица
-  other tags : highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | motor_vehicle=yes | oneway=yes | surface=asphalt
     geometry : n1319219323[52.7911777,27.4945429] n3108748440[52.7868537,27.4944856]
 w297140274
   other tags : highway=footway
@@ -3131,7 +3131,7 @@ w300177982
   other tags : bus=yes | highway=platform | public_transport=platform
     geometry : n3042795024[52.8249555,27.5923166] n3042795023[52.8249163,27.5922134] n3042795022[52.8248490,27.5920363]
 w300599966
-  other tags : highway=tertiary | lanes=2 | oneway=yes | surface=asphalt
+  other tags : highway=secondary_link | lanes=2 | oneway=yes | surface=asphalt
     geometry : n2337946808[52.7867612,27.4946548] n275331947[52.7868547,27.4946630]
 w301466248
   other tags : highway=footway
@@ -3160,9 +3160,9 @@ w301698422
 w303538339
   other tags : highway=footway | surface=paving_stones
     geometry : n538063397[52.7881562,27.5524568] n792140130[52.7882490,27.5528575]
-w305170753
-  other tags : addr:city=Солигорск | addr:postcode=223700 | addr:street=Подольская улица | highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n3108748440[52.7868537,27.4944856] n3381407404[52.7867612,27.4944853] n3148212765[52.7859534,27.4944829]
+w305170753  null / null / Воскресенская улица
+  other tags : addr:city=Солигорск | addr:postcode=223700 | addr:street=Подольская улица | highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
+    geometry : n3108748440[52.7868537,27.4944856] n3381407404[52.7867612,27.4944853] n3148212765[52.7859534,27.4944829] n2995487842[52.7856158,27.4944796] n2995487858[52.7840505,27.4944641] n3148212762[52.7839796,27.4944598] n3382321095[52.7816817,27.4944453] n3504883460[52.7815271,27.4944431]
 w307441760
   other tags : highway=footway | surface=asphalt
     geometry : n2857519587[52.8105089,27.5556221] n2857519588[52.8105650,27.5558677] n2857728261[52.8105545,27.5559150] n2857519589[52.8105279,27.5560351]
@@ -3178,9 +3178,6 @@ w307442106
 w307442107
   other tags : highway=footway | surface=asphalt
     geometry : n2857519589[52.8105279,27.5560351] n2857519590[52.8103514,27.5562341] n2857519591[52.8099580,27.5566227] n2857519592[52.8096421,27.5569947] n2857519593[52.8093398,27.5572904]
-w309484845  null / null / Воскресенская улица
-  other tags : highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n3148212765[52.7859534,27.4944829] n2995487842[52.7856158,27.4944796] n2995487858[52.7840505,27.4944641] n3148212762[52.7839796,27.4944598] n3382321095[52.7816817,27.4944453] n3504883460[52.7815271,27.4944431]
 w309484848
   other tags : highway=tertiary_link | surface=asphalt
     geometry : n3148212761[52.7839578,27.4993636] n1874188025[52.7840259,27.4993637]
@@ -3199,9 +3196,6 @@ w309484854
 w309484858
   other tags : highway=footway | surface=asphalt
     geometry : n511007666[52.7869116,27.5016942] n581996202[52.7868058,27.5016922] n873657806[52.7867127,27.5016900] n2845368927[52.7865400,27.5016798] n1126771343[52.7864945,27.5017120]
-w309484861  Уваскрасенская вуліца / Uvaskrasienskaja vulica / Воскресенская улица / Воскресенская улица
-  other tags : addr:city=Солигорск | addr:postcode=223700 | addr:street=Подольская улица | highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n867316745[52.7856225,27.4946626] n2337946808[52.7867612,27.4946548]
 w309484862  Кавалёва вуліца / vulica Kavaliova / Ковалёва улица / Ковалёва улица
   other tags : foot=no | highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n3097456726[52.7839779,27.4946548] n2995487862[52.7839701,27.4966524] n2995487869[52.7839605,27.4987561] n3148212761[52.7839578,27.4993636] n3382322131[52.7839446,27.5016777]
@@ -3236,7 +3230,7 @@ w338164908
   other tags : bridge=yes | highway=footway | layer=1
     geometry : n3452299530[52.7956143,27.5549231] n3055253714[52.7957951,27.5555201]
 w343687230  null / Padoĺskaja vulica / Подольская улица / Подольская улица
-  other tags : highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n275331947[52.7868547,27.4946630] n2305036734[52.7869410,27.4946638] n3148212776[52.7878937,27.4946726] n3504883469[52.7911768,27.4947031]
 w343687235  Канстанціна Заслонава вуліца / vulica Kanstancina Zaslonava / Константина Заслонова улица / Константина Заслонова улица
   other tags : embankment=yes | highway=primary | lanes=4 | maxspeed=60 | surface=asphalt
