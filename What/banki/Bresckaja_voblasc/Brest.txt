@@ -77,8 +77,8 @@ n1302690360  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n1446468414  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : addr:housenumber=88 | addr:street=Вульковская улица | amenity=bank
     geometry : [52.0702333,23.7279167]
-n1627245072
-  other tags : amenity=bank | operator=Беларусбанк
+n1627245072  null / Bielarusbank / Беларусбанк
+  other tags : amenity=bank | atm=yes | branch=Отделение №100/204 | opening_hours=Mo-Fr 09:15-17:00 | operator=ОАО "АСБ Беларусбанк" | phone=+375 162 423577
     geometry : [52.0954514,23.7568931]
 n1627245076
   other tags : addr:housenumber=210 | addr:street=Московская улица | amenity=bank | operator=Беларусбанк
