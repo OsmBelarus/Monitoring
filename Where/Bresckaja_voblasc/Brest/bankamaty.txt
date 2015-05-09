@@ -65,9 +65,9 @@ n306062306
 n306062308
   other tags : amenity=atm | brand=Белагропромбанк | operator=Белагропромбанк
     geometry : [52.1044662,23.7370704]
-n306062311
-  other tags : amenity=atm | operator=Беларусбанк
-    geometry : [52.1012000,23.7244800]
+n306062311  null / null / Беларусбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО "АСБ Беларусбанк"
+    geometry : [52.1011635,23.7246810]
 n306062316
   other tags : amenity=atm
     geometry : [52.1025800,23.7351500]
@@ -381,3 +381,9 @@ n3501477942
 n3505283014  null / null / Беларусбанк
   other tags : amenity=atm | opening_hours=24/7 | operator=ОАО "АСБ Беларусбанк"
     geometry : [52.0705408,23.7540446]
+n3505551541  null / null / Беларусбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО "АСБ Беларусбанк"
+    geometry : [52.1119082,23.7728222]
+n3505579175  null / null / Беларусбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО "АСБ Беларусбанк"
+    geometry : [52.1027831,23.7866464]
