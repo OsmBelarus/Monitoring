@@ -376,6 +376,9 @@ n2819524051
 n2867893995
   other tags : railway=level_crossing
     geometry : [54.4675609,26.8877221]
+n2918831101
+  other tags : man_made=tower | tower:construction=lattice | tower:type=observation
+    geometry : [54.3194969,27.3887885]
 n2924267065  Катоўка / Katoŭka / Котовка / Котовка
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | place=isolated_dwelling
     geometry : [54.3825639,27.3287417]
@@ -458,7 +461,7 @@ n3453920430
   other tags : tourism=picnic_site
     geometry : [54.4468201,27.1491592]
 n3496821424
-  other tags : man_made=tower
+  other tags : man_made=tower | tower:type=observation
     geometry : [54.3144168,27.2410482]
 n3496841079
   other tags : tourism=camp_site
