@@ -5935,7 +5935,7 @@ n2377715415  null / null / Квартал
   other tags : shop=convenience
     geometry : [53.9234172,27.4248105]
 n2379967639  null / null / Мила
-  other tags : addr:city=Минск | addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | opening_hours=ежедневно, 09:00-21:00 | phone=+375 (17) 296-71-67 | shop=chemist | website=milashop.by | wheelchair=yes
+  other tags : addr:city=Минск | addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | opening_hours=Mo-Su 09:00-21:00 | phone=+375 (17) 296-71-67 | shop=chemist | website=milashop.by | wheelchair=yes
     geometry : [53.8599744,27.4370024]
 n2379967642  null / null / Кипарис
   other tags : addr:city=Минск | addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | shop=clothes | wheelchair=yes
@@ -8409,7 +8409,7 @@ n3142414633  null / null / Салянския прысмаки
   other tags : shop=deli
     geometry : [53.8814471,27.5673167]
 n3143389960  null / null / Парикмахерская для животных «4 лапы»
-  other tags : addr:housenumber=11 | addr:street=Волгоградская улица | opening_hours=чт. — пн.: c 10:00 до 20:00 | phone=+375 44 727-28-22 (Velcom) +375 33 668-35-94 (MTS) +375 17 281-78-47 | shop=hairdresser
+  other tags : addr:housenumber=11 | addr:street=Волгоградская улица | opening_hours=Th,Fr 10:00-20:00 | phone=+375 44 727-28-22 (Velcom) +375 33 668-35-94 (MTS) +375 17 281-78-47 | shop=hairdresser
     geometry : [53.9324699,27.6221226]
 n3143413247  null / null / Парикмахерская № 66
   other tags : operator=Восход | phone=+375 (17) 280-04-82 | shop=hairdresser | website=http://rise.by
@@ -9235,7 +9235,7 @@ n3211912922  null / null / Robinzon.by
   other tags : contact:phone=+375(29) 602-55-70, +375(29) 602-60-70 | contact:website=http://robinzon.by/ | opening_hours=Mo-Sa 11:00-19:00 | shop=outdoor
     geometry : [53.9165329,27.5797701]
 n3212057558  null / null / Тропинка
-  other tags : addr:city=Минск | opening_hours=до 23.00 | shop=supermarket
+  other tags : addr:city=Минск | opening_hours=08:00-23:00 | shop=supermarket
     geometry : [53.9196620,27.5733533]
 n3212074657  null / null / Стрелка
   other tags : shop=pet
