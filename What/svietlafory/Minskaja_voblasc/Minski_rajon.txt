@@ -499,17 +499,17 @@ n1116664904  Вішнёўка / null / Вишнёвка / Вишнёвка
   other tags : bench=no | highway=bus_stop | shelter=no
     geometry : [54.0608661,27.5545618]
 n1116664911  null / null / Вяча / Вяча
-  other tags : highway=bus_stop
-    geometry : [54.0680075,27.5679345]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0688874,27.5680832]
 n1116664914  null / null / Вяча / Вяча
-  other tags : highway=bus_stop
-    geometry : [54.0671155,27.5673348]
-n1116664918  Паварот на Вішнёўку / null / поворот на Вишневку / Поворот на Вишневку
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [54.0606039,27.5656671]
-n1116664932  Паварот на Вішнёўку / null / поворот на Вишневку / Поворот на Вишневку
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [54.0609141,27.5659763]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0663907,27.5671044]
+n1116664918  Паварот на Вішнёўку / null / Поворот на Вишнёвку / Поворот на Вишнёвку
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0604764,27.5657531]
+n1116664932  Паварот на Вішнёўку / null / Поворот на Вишнёвку / Поворот на Вишнёвку
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0613072,27.5661890]
 n1116960036  null / null / поворот на Рахманьки
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [54.0305248,27.5594979]

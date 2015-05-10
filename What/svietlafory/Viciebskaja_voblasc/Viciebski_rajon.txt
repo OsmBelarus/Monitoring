@@ -431,7 +431,7 @@ n2926020510  null / null / Бутяжи
   other tags : highway=bus_stop
     geometry : [55.0632009,30.0614396]
 n2926022689  null / null / Осиновка
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.0960533,30.0746907]
 n2926022690
   other tags : highway=bus_stop
@@ -473,7 +473,7 @@ n3009139179  null / null / Огородники
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1900158,30.3639830]
 n3079074080  null / null / Осиновка
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.0959920,30.0750137]
 n3108872589
   other tags : highway=bus_stop | public_transport=platform
