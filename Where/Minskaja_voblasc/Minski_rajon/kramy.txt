@@ -499,18 +499,9 @@ n1724129354  null / null / Десяточка
 n1732135558  null / null / Молот
   other tags : shop=doityourself
     geometry : [53.9612755,27.7094065]
-n1735155555  null / null / Продуктовый магазин
-  other tags : addr:housename=Продуктовый магазин "Воляна" | addr:housenumber=1 | addr:street=Ленинская, 1 | shop=convenience
-    geometry : [54.0739628,27.6986662]
 n1736082667
   other tags : shop=car_repair
     geometry : [54.0672098,27.6970523]
-n1736082726
-  other tags : shop=convenience
-    geometry : [54.0740641,27.6985972]
-n1736082747  null / null / Стройматериалы
-  other tags : shop=doityourself
-    geometry : [54.0692371,27.6966633]
 n1749925928  null / null / CD
   other tags : shop=dry_cleaning
     geometry : [54.0131014,27.6783801]
@@ -889,9 +880,9 @@ n3067418276
 n3098541012
   other tags : shop=yes
     geometry : [53.8108596,27.3980692]
-n3103299997  null / null / "Девятка"
-  other tags : opening_hours=9:00-21:00 | shop=yes
-    geometry : [54.0658026,27.6971466]
+n3103299997  null / null / Девятка
+  other tags : opening_hours=9:00-21:00 | shop=convenience
+    geometry : [54.0658178,27.6973149]
 n3103347095  null / null / "Птичка"
   other tags : shop=yes
     geometry : [54.0600724,27.6976969]

@@ -16,8 +16,8 @@ n277048004
 n378269722  null / null / Марьяливо
   other tags : highway=bus_stop
     geometry : [54.0395668,27.6675333]
-n378274681  null / null / Танк
-  other tags : highway=bus_stop | shelter=yes
+n378274681  Скрыжаванне / null / Перекресток
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.0551258,27.6908083]
 n378274697
   other tags : highway=bus_stop
@@ -905,11 +905,11 @@ n1737233121
   other tags : highway=bus_stop
     geometry : [54.0094910,27.2439102]
 n1737614817
-  other tags : highway=bus_stop
-    geometry : [54.0732662,27.7000832]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0733244,27.7001568]
 n1737614998
-  other tags : highway=bus_stop
-    geometry : [54.0734963,27.7007592]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0735639,27.7008104]
 n1782647199  null / null / Аксаковщина
   other tags : highway=bus_stop
     geometry : [53.9536299,27.1035731]
@@ -941,7 +941,7 @@ n1791768009
   other tags : highway=bus_stop
     geometry : [53.7129158,27.6249073]
 n1840661781  Скрыжаванне / null / Перекресток
-  other tags : highway=bus_stop | shelter=yes
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.0545618,27.6934016]
 n1840685902  null / null / Малиновка
   other tags : highway=bus_stop | shelter=yes

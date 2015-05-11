@@ -103,12 +103,6 @@ n1561807491  null / null / Берлога
 n1683880335  null / null / Уса
   other tags : amenity=cafe
     geometry : [53.9510897,27.1169909]
-n1736082777  null / null / Столовая
-  other tags : amenity=cafe
-    geometry : [54.0668698,27.6989621]
-n1737652248  null / null / Кафе "ГородОк"
-  other tags : amenity=cafe
-    geometry : [54.0673735,27.6959929]
 n1754595228
   other tags : amenity=restaurant
     geometry : [53.9593957,27.6318759]
@@ -185,6 +179,9 @@ n3450290413
 n3477084291
   other tags : amenity=cafe
     geometry : [53.8324566,27.6156085]
+n3507843905  null / null / Столовая
+  other tags : amenity=fast_food | fast_food=cafeteria
+    geometry : [54.0670200,27.6990604]
 w77893770  null / null / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n915598435[53.7800079,27.6570028] n915598400[53.7800885,27.6574227] n915598353[53.7797264,27.6576219] n915598326[53.7796458,27.6572020] n915598435[53.7800079,27.6570028]
