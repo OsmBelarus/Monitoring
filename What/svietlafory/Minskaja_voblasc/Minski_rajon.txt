@@ -20,8 +20,8 @@ n378274681  Скрыжаванне / null / Перекресток
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.0551258,27.6908083]
 n378274697
-  other tags : highway=bus_stop
-    geometry : [54.0604108,27.7004661]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0604521,27.7005813]
 n378284231  Экспацэнтр / null / Экспоцентр
   other tags : highway=bus_stop
     geometry : [53.9613894,27.6338082]
@@ -1217,8 +1217,8 @@ n3085746752
   other tags : highway=bus_stop
     geometry : [53.9568384,27.6768184]
 n3103354829
-  other tags : highway=bus_stop
-    geometry : [54.0602488,27.6996762]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.0602601,27.6997466]
 n3116773029
   other tags : highway=bus_stop
     geometry : [53.9110155,27.2561574]
