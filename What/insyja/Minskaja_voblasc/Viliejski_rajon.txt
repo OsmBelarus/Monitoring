@@ -434,7 +434,7 @@ n3355714201
   other tags : leisure=yes
     geometry : [54.4079679,26.8602082]
 n3367406086
-  other tags : man_made=tower | tower:type=communication
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM;MTS | operator:MNC=01;02 | tower:type=communication
     geometry : [54.3257318,27.4520045]
 n3453916777
   other tags : natural=wetland
@@ -484,9 +484,30 @@ n3508149923
 n3508149924
   other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
     geometry : [54.6924635,26.9280331]
+n3508151453
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.4697880,26.8559218]
 n3508156823
   other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
     geometry : [54.4076183,26.8579483]
+n3508160312
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.4039100,26.8760120]
+n3508166733
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [54.5642749,27.0284697]
+n3508174276
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM;MTS | operator:MNC=01;02 | tower:type=communication
+    geometry : [54.3869959,27.3484521]
+n3508179543
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.4174434,27.2967579]
+n3508179544
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [54.4191555,27.2966575]
+n3508180443
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM;MTS | operator:MNC=01;02 | tower:type=communication
+    geometry : [54.4721773,27.2656281]
 w25128633  Жардэцкія / Žardeckija / Жердецкие / Жердецкие
   other tags : addr:country=BY | addr:district=Вилейский район | addr:region=Минская область | alt_name:be=Жардзецкая;Жардзецкія | landuse=residential | place=isolated_dwelling
     geometry : n273720528[54.3359034,27.3186153] n273720529[54.3367806,27.3190574] n1641653926[54.3370477,27.3174986] n273720538[54.3361705,27.3170565] n273720528[54.3359034,27.3186153]
