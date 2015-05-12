@@ -7384,7 +7384,7 @@ n2624523262  null / null / МАмалыш
   other tags : addr:city=Минск | addr:housename=Магазин детских товаров | addr:housenumber=1 | addr:street=Брилевская улица | shop=yes
     geometry : [53.8775334,27.5334714]
 n2624523267  null / null / Пивной магазин
-  other tags : addr:city=Минск | addr:housename=Живое пиво | addr:housenumber=1 | addr:street=Брилевская улица | shop=yes
+  other tags : addr:city=Минск | addr:housename=Живое пиво | addr:housenumber=1 | addr:street=Брилевская улица | shop=beverages
     geometry : [53.8775635,27.5335492]
 n2624523271  null / null / Штопор
   other tags : addr:housename=Винный магазин | shop=alcohol
@@ -7684,10 +7684,6 @@ n2661140597
 n2661140601
   other tags : shop=kiosk
     geometry : [53.8624379,27.6750960]
-n2671012468  null / null / Дракон Байк / Дракон Байк
-  other names: name:en=Dragon Bike
-  other tags : addr:city=Минск | addr:housenumber=1 | addr:postcode=220039 | addr:street=Брилевская улица | opening_hours=Mo-Su 09:30-19:00 | shop=bicycle | website=http://dragonbike.by
-    geometry : [53.8775406,27.5337722]
 n2672658243  null / null / MartInn
   other tags : shop=supermarket
     geometry : [53.9074127,27.4374217]
@@ -7929,7 +7925,7 @@ n2897182753  null / null / Ковры Бреста
 n2899309618  null / null / Ремонт кондиционеров
   other tags : description=Система отопления | shop=car_repair
     geometry : [53.9478093,27.5888490]
-n2901213128  null / null / Торговый центр "Аэропорт"
+n2901213128  null / null / Аэропорт
   other tags : addr:housenumber=20 | addr:postcode=220039 | addr:street=улица Чкалова | shop=mall
     geometry : [53.8772298,27.5343397]
 n2902930024  Salon Plus / null / Salon Plus / Salon Plus
