@@ -465,7 +465,7 @@ n306063881  Аўтазапчасткі / null / Автозапчасти / Ав�
 n306063884  null / null / Ювелир / Ювелир
   other tags : shop=general
     geometry : [52.0931300,23.6925300]
-n306063889  null / null / Прод / Прод
+n306063889  null / null / Продукты / Продукты
   other tags : shop=convenience
     geometry : [52.0973400,23.6819100]
 n306063896  null / null / Прод. / Прод.
@@ -504,8 +504,8 @@ n306063947  Мілавіца / null / Милавица / Милавица
 n306063950  null / null / Прод. / Прод.
   other tags : shop=general
     geometry : [52.0882200,23.6892900]
-n306063953  null / null / Продтовары 6 / Прод
-  other tags : shop=department_store
+n306063953  null / null / Продтовары 6 / Проддтовары 6
+  other tags : addr:housenumber=4 | addr:street=улица Ленина | shop=department_store
     geometry : [52.0964000,23.6824000]
 n306063957  null / null / Мир Подарков / Мир Подарков
   other tags : addr:housenumber=19 | addr:street=Пушкинская улица | shop=general
