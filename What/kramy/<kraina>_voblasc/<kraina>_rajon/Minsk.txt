@@ -2654,6 +2654,9 @@ n845832502  null / null / Bielita
 n846322422  null / null / Baldinini
   other tags : shop=shoes
     geometry : [53.8952751,27.5545638]
+n846322423  null / null / Princess SPA
+  other tags : shop=beauty
+    geometry : [53.8955060,27.5547132]
 n846325009  Еўраопт / null / Евроопт / Евроопт
   other tags : shop=supermarket
     geometry : [53.9384004,27.6882498]
@@ -5439,11 +5442,14 @@ n1849989520  null / null / Продукты
   other tags : opening_hours=Mo-Su 08:00-20:00 | shop=convenience
     geometry : [53.8914835,27.5527798]
 n1849990247  null / null / Хлеб
-  other tags : opening_hours=Mo-Su 08:00-21:00 | shop=convenience
+  other tags : FIXME=он еще работает? | opening_hours=Mo-Su 08:00-21:00 | shop=convenience
     geometry : [53.8917925,27.5520820]
 n1849990514  null / null / Мегатоп
   other tags : shop=shoes
     geometry : [53.8920238,27.5508340]
+n1849990773  null / null / Международные ЖД кассы
+  other tags : shop=ticket
+    geometry : [53.8914663,27.5529018]
 n1850017091  null / null / Инструмент
   other tags : shop=hardware
     geometry : [53.9031431,27.5852256]
@@ -6219,8 +6225,8 @@ n2525750882  null / null / Фрукты, овощи
 n2525780456
   other tags : addr:housenumber=92 | addr:street=улица Кабушкина | shop=hairdresser
     geometry : [53.8561015,27.6353794]
-n2526274189  null / null / Магазин разливного пива "Точка"
-  other tags : addr:housenumber=4 | addr:street=Михайловский переулок | opening_hours=10:00-23:00 | phone=+375 (29) 385-85-83 | shop=beverages | source=http://tochca.by | website=http://tochca.by/
+n2526274189  null / null / Точка
+  other tags : addr:housenumber=4 | addr:street=Михайловский переулок | description=Магазин разливного пива "Точка" | opening_hours=10:00-23:00 | phone=+375 (29) 385-85-83 | shop=beverages | source=http://tochca.by | website=http://tochca.by/
     geometry : [53.8940329,27.5509904]
 n2526279539  null / null / Магазин разливного пива "Точка"
   other tags : addr:housenumber=26 | addr:street=улица Лобанка | opening_hours=10:00-23:00 | phone=+375 (29) 313-84-22 | shop=beverages | source=http://tochca.by | website=http://tochca.by/
@@ -6598,7 +6604,7 @@ n2592374805
   other tags : shop=convenience
     geometry : [53.9382421,27.6855804]
 n2593604233  null / null / Yves Rocher / Ив Роше
-  other tags : addr:housenumber=41 | addr:street=Ульяновская улица | opening_hours=10:00-20:00 Mo-Fr, 11:00-19:00 Sa, 11:00-18:00 Su | phone=+375 (17) 328-61-40 | shop=beauty | website=http://www.yves-rocher.by/
+  other tags : addr:housenumber=41 | addr:street=Ульяновская улица | opening_hours=Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00 | phone=+375 (17) 328-61-40 | shop=beauty | website=http://www.yves-rocher.by/
     geometry : [53.8911712,27.5544689]
 n2593609185  null / null / Yves Rocher
   other tags : addr:housenumber=65 | addr:street=проспект Победителей | opening_hours=10:00-22:00 | phone=+375 (17) 2544648 | shop=beauty | website=http://www.yves-rocher.by/
@@ -6801,8 +6807,8 @@ n2612029634  null / null / SecondHand
 n2612030537  null / null / Зоотовары
   other tags : shop=yes
     geometry : [53.9054919,27.4534732]
-n2612044080  null / null / Кветкi "24часа"
-  other tags : shop=florist
+n2612044080  null / null / Кветкi
+  other tags : opening_hours=24/7 | shop=florist
     geometry : [53.8915032,27.5482514]
 n2612064942  null / null / Связной
   other tags : shop=mobile_phone
@@ -6919,7 +6925,7 @@ n2616022584  null / null / 11.by
   other tags : addr:housenumber=11 | addr:postcode=220029 | addr:street=проспект Машерова | opening_hours=9:00-18:00 | phone=+375 29 133 11 11  +375 29 770 11 11 | shop=интернет-магазин_расходных_материалов_для_печати
     geometry : [53.9155380,27.5699321]
 n2618464597  null / null / Мила
-  other tags : shop=yes
+  other tags : shop=chemist
     geometry : [53.8937303,27.5534613]
 n2618464598  null / null / Магазин спортивной одежды
   other tags : shop=sports
@@ -7128,6 +7134,9 @@ n2620202433  null / null / Кравт
 n2620202438  null / null / Космо
   other tags : opening_hours=9:00-21:00 | shop=yes
     geometry : [53.8943140,27.5466156]
+n2620202442  null / null / Tez Tour
+  other tags : shop=travel_agency
+    geometry : [53.8942508,27.5464547]
 n2620202443  null / null / Сэкондхэнд
   other tags : shop=yes
     geometry : [53.8811680,27.5674403]
@@ -8396,14 +8405,14 @@ n3142381319
 n3142386006
   other tags : shop=hairdresser
     geometry : [53.8742629,27.5663233]
-n3142397003  null / null / Магазин цветов "Дона роза"
-  other tags : shop=yes
+n3142397003  null / null / Дона роза
+  other tags : shop=florist
     geometry : [53.8852910,27.5680292]
 n3142398818  null / null / Агро-техника
   other tags : shop=yes
     geometry : [53.8814471,27.5673167]
 n3142398869  null / null / Скидельская птицефабрика
-  other tags : shop=yes
+  other tags : shop=butcher
     geometry : [53.8853161,27.5680079]
 n3142414633  null / null / Салянския прысмаки
   other tags : shop=deli
@@ -8510,13 +8519,13 @@ n3143682269  null / null / Баста
 n3143682496  null / null / Ксерокопия
   other tags : shop=yes
     geometry : [53.8929156,27.5586012]
-n3143682779  null / null / «Alladen»
+n3143682779  null / null / Alladen
   other tags : shop=shoes
     geometry : [53.8915467,27.5526650]
 n3143690193  null / null / Окей
   other tags : shop=shoes
     geometry : [53.8929302,27.5516297]
-n3143692755  null / null / «Луч»
+n3143692755  null / null / Луч
   other tags : shop=shoes
     geometry : [53.8927486,27.5524370]
 n3143694629  null / null / Верони
@@ -10062,17 +10071,17 @@ n3270491113  null / null / Кумир
 n3270492061  null / null / Розовая пантера
   other tags : addr:housenumber=4 | addr:street=Первомайская улица | shop=beauty
     geometry : [53.8981472,27.5702531]
-n3270506502  null / null / ВРЕМЕНА ГОДА-92
-  other tags : addr:housenumber=26 | addr:street=улица Свердлова | opening_hours=пн. — сб.: 08:00 — 20:00 вс.: 10:00 — 18:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270506502  null / null / Времена года-92
+  other tags : addr:housenumber=26 | addr:street=улица Свердлова | opening_hours=Mo-Sa 08:00-20:00; Su 10:00-18:00 | shop=beauty
     geometry : [53.8923771,27.5555337]
 n3270506503  null / null / ВУ-А-ЛЯ
   other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=пн. — чт.: 10:00 — 22:00 пт. — сб.: 10:00 — 23:00 вс.: 10:00 — 22:00 | operator=СТУДИЯ КРАСОТЫ | shop=beauty
     geometry : [53.8900983,27.5546511]
-n3270506504  null / null / УЛЫБКА
-  other tags : addr:housenumber=1 | addr:street=улица Кирова | opening_hours=пн. — пт.: 07:00 — 21:00 сб.: 08:00 — 18:00 вс.: 10:00 — 18:00 | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
+n3270506504  null / null / Улыбка
+  other tags : addr:housenumber=1 | addr:street=улица Кирова | opening_hours=Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00 | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
     geometry : [53.8924174,27.5513579]
-n3270508877  null / null / БОН ШАНС
-  other tags : addr:housenumber=1a | addr:street=Ленинградская улица | opening_hours=пн. — сб.: 09:00 — 21:00 вс.: 10:00 — 20:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270508877  null / null / Бон шанс
+  other tags : addr:housenumber=1a | addr:street=Ленинградская улица | opening_hours=Mo-Sa 09:00-21:00; Su 10:00-20:00 | shop=beauty
     geometry : [53.8933436,27.5508429]
 n3270508878  null / null / Принцесс СПА / Принцесс СПА
   other names: name:en=Princess SPA
@@ -11095,3 +11104,6 @@ n3505941668
 n3509944305  null / null / Развал-схождение
   other tags : shop=car_repair
     geometry : [53.8712113,27.5281946]
+n3510429449
+  other tags : description=Пригородные билетные кассы | shop=ticket
+    geometry : [53.8912834,27.5478925]

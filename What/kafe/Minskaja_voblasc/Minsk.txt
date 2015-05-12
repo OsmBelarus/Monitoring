@@ -1495,8 +1495,8 @@ n1870460832  null / null / СТОЛОВАЯ N 2
 n1870460833  null / null / Столовая № 2 БНТУ
   other tags : amenity=fast_food | fast_food=cafeteria | operator=УО БНТУ | phone=+375172921531
     geometry : [53.9229995,27.5913110]
-n1870460837  null / null / СТОЛОВАЯ N 6
-  other tags : amenity=cafe | operator=РУП БЕЛМЕДПРЕПАРАТЫ | phone=+375172233103
+n1870460837  null / null / Столовая №6
+  other tags : amenity=cafe | operator=Белмедпрепараты РУП | phone=+375172233103
     geometry : [53.8866392,27.5669029]
 n1870460841  null / null / Coffee House
   other tags : amenity=cafe | phone=+375172920391
@@ -2196,8 +2196,8 @@ n2831750353  null / null / Столовая Филиала Автобусный 
 n2831760347  null / null / Столовая Автокомбинат № 3 / Столовая Автокомбинат № 3
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [53.8749543,27.5906296]
-n2831767532  null / null / Столовая Белмедпрепараты РДУП / Столовая Белмедпрепараты РДУП
-  other tags : amenity=fast_food | fast_food=cafeteria
+n2831767532  null / null / Столовая / Столовая
+  other tags : amenity=fast_food | fast_food=cafeteria | operator=Белмедпрепараты РДУП
     geometry : [53.8862531,27.5638092]
 n2831775151  null / null / Столовая НИРУП Цнииту / Столовая НИРУП Цнииту
   other tags : amenity=fast_food | fast_food=cafeteria
@@ -2593,7 +2593,7 @@ n3270426783  null / null / Гараж
   other tags : amenity=cafe | cuisine=pizza | smoking=no
     geometry : [53.8956385,27.5480717]
 n3270432661  null / null / Кружка
-  other tags : amenity=cafe | cuisine=pizza | opening_hours=10 00 - 22 00 | smoking=no
+  other tags : amenity=cafe | cuisine=pizza | opening_hours=Mo-Su 10:00-22:00 | smoking=no
     geometry : [53.8956929,27.5481056]
 n3270432662  null / null / Собрание
   other tags : amenity=restaurant | cuisine=regional | opening_hours=Mo-Su 11:00-24:00 | smoking=no
