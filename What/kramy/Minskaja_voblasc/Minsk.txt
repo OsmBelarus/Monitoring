@@ -7907,7 +7907,7 @@ n2863958281  null / null / Алкогольные напитки
 n2866939280  null / null / Разливное пиво
   other tags : addr:housenumber=1А | addr:street=проспект Рокоссовского | opening_hours=11:00-23:00 | shop=alcohol
     geometry : [53.8756071,27.5979228]
-n2870181259  null / null / «Восход»
+n2870181259  null / null / Восход
   other tags : addr:housenumber=24 | addr:postcode=220006 | addr:street=улица Маяковского | shop=hairdresser | wikipedia=ru:Улица Маяковского (Минск)
     geometry : [53.8764130,27.5674592]
 n2875739914  Міла / null / Мила / Мила
@@ -8332,12 +8332,12 @@ n3142257187  null / null / Магазин семян
 n3142274134
   other tags : shop=Магазин_декоративной_косметики_"Джордана"
     geometry : [53.8762978,27.5673154]
-n3142276055  null / null / «Мила»
-  other tags : shop=yes
-    geometry : [53.8779823,27.5676037]
-n3142276056  null / null / «Элема»
+n3142276055  null / null / Мила
+  other tags : shop=chemist
+    geometry : [53.8779677,27.5676227]
+n3142276056  null / null / Элема
   other tags : shop=clothes
-    geometry : [53.8777953,27.5676165]
+    geometry : [53.8777868,27.5676867]
 n3142287579  null / null / «Особый»
   other tags : shop=convenience
     geometry : [53.8791007,27.5676480]
@@ -8422,6 +8422,9 @@ n3143413247  null / null / Парикмахерская № 66
 n3143635736  null / null / Belwest
   other tags : shop=shoes
     geometry : [53.8768432,27.5677383]
+n3143637366  null / null / Магазин рвзливного пива
+  other tags : shop=beverages
+    geometry : [53.8770109,27.5676739]
 n3143641550  null / null / Марко
   other tags : shop=shoes
     geometry : [53.8735019,27.5354546]

@@ -139,6 +139,9 @@ n305682778  Прыёрбанк / Pryjorbank / Приорбанк / Приорб�
   other names: name:en=Priorbank
   other tags : addr:city=Минск | addr:housenumber=31 | addr:postcode=220002 | addr:street=улица Кропоткина | amenity=bank | atm=yes | description=Центральный офис | phone=+375 17 289 90 90 | website=http://www.priorbank.by/
     geometry : [53.9222243,27.5585629]
+n305682996  Белінвестбанк / null / Белинвестбанк / Белинвестбанк
+  other tags : amenity=bank | atm=yes
+    geometry : [53.8803072,27.5670636]
 n305683853  Беларусбанк / Bielarusbank / ОАО «АСБ Беларусбанк» Отделение №511/319 / ОАО «АСБ Беларусбанк» Отделение №511/319
   other tags : addr:housenumber=7 | addr:postcode=220070 | addr:street=улица Чеботарёва | amenity=bank | atm=yes | phone=(017) 200-18-31, 218-84-31
     geometry : [53.8900400,27.6096700]
@@ -1013,9 +1016,9 @@ n3100354520  Ідэя Банк / Ideja Bank / Идея Банк / Идея Ба�
   other names: name:en=IdeaBank
   other tags : amenity=bank | atm=yes | description=ЦБУ №37 | opening_hours=Mo-Fr 09:00-19:00 | operator=ЗАО "Идея Банк" | phone=+375 29 699 47 11 | website=https://ideabank.by
     geometry : [53.9213023,27.5696123]
-n3142270801  null / null / Отделение «Беларусбанк» / Отделение «Беларусбанк»
+n3142270801  null / null / Беларусбанк / Беларусбанк
   other tags : amenity=bank
-    geometry : [53.8743667,27.5673173]
+    geometry : [53.8743552,27.5673046]
 n3142374357  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [53.8611063,27.5663287]
