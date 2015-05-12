@@ -2190,8 +2190,8 @@ n493124034  Валгаград / null / Рублевский / Волгогра�
 n493130773  null / null / Насенне
   other tags : operator=Минсксортсемовощ, ОАО | shop=garden_centre
     geometry : [53.8646906,27.4812626]
-n493144000  null / null / Салон-магазин "Атлант"
-  other tags : addr:housenumber=14 | addr:street=проспект Пушкина | opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-18:00 | operator=Атлант, ЗАО | phone=252-65-43 | shop=household appliances
+n493144000  null / null / Атлант
+  other tags : addr:housenumber=14 | addr:street=проспект Пушкина | opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-18:00 | operator=Атлант, ЗАО | phone=252-65-43 | shop=houseware
     geometry : [53.8991722,27.4978541]
 n493180143  null / null / Stroyremont / Стройремонт
   other tags : addr:housename=Стройремонт | addr:housenumber=22 к1 | addr:postcode=220015 | addr:street=улица Болеслава Берута | operator=Radaxis LLC | shop=doityourself | website=http://www.radaxis.by/
@@ -2752,8 +2752,8 @@ n912542703  Прадукты / null / Продукты / Продукты
 n912542713  null / null / ЭкономМаг
   other tags : shop=supermarket
     geometry : [53.9144241,27.5038824]
-n916574936  Універсам «Рублёўскі» №126 / null / Универсам «Рублёвский» №126 / Универсам «Рублёвский» №126
-  other tags : addr:housenumber=12А | addr:street=проспект Пушкина | opening_hours=08:00-23:00 | operator=RTL Holdings | phone=+375 17 202 81 92 | shop=supermarket | website=http://www.rublevski.by/ | wheelchair=yes
+n916574936  Рублёўскі / null / Рублёвский / Рублёвский
+  other tags : addr:housenumber=12А | addr:street=проспект Пушкина | opening_hours=Mo-Su 08:00-23:00 | operator=RTL Holdings | phone=+375 17 202 81 92 | ref=126 | shop=supermarket | website=http://www.rublevski.by/ | wheelchair=yes
     geometry : [53.8986679,27.4977127]
 n916574944  null / null / Новосёлкин
   other tags : opening_hours=Mo-Sa 08:00-22:00; Su 08:00-20:00 | shop=doityourself
@@ -5633,7 +5633,7 @@ n2092785442  null / null / Альтесса
 n2093069814
   other tags : shop=car_repair
     geometry : [53.9067308,27.6337669]
-n2094555212  null / null / "Евроопт"
+n2094555212  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [53.9111242,27.5028050]
 n2094816688
@@ -7434,7 +7434,7 @@ n2626953661  null / null / Пеликан
 n2626956595
   other tags : opening_hours=8:00-18:00 | shop=yes
     geometry : [53.9033053,27.4957135]
-n2626958827  null / null / магазин рыбалов
+n2626958827  null / null / Рыболов
   other tags : opening_hours=9:00-19:00 | shop=fishmonger
     geometry : [53.8977258,27.4979047]
 n2626963431  null / null / Клякса
@@ -7442,7 +7442,7 @@ n2626963431  null / null / Клякса
     geometry : [53.8985094,27.4982953]
 n2627068497  null / null / парикмахерская
   other tags : shop=hairdresser
-    geometry : [53.8997283,27.4976703]
+    geometry : [53.8996864,27.4976881]
 n2627074739  null / null / Мясныя прысмаки
   other tags : addr:housenumber=10А | addr:street=улица Корженевского | shop=yes
     geometry : [53.8439866,27.5046642]
@@ -7610,7 +7610,7 @@ n2628868142  null / null / Музыкальный рай
   other tags : addr:housenumber=117 к4 | addr:postcode=220114 | addr:street=проспект Независимости | shop=music
     geometry : [53.9304013,27.6347051]
 n2629118239  null / null / Second Hand
-  other tags : shop=clothes
+  other tags : shop=second_hand
     geometry : [53.8988382,27.4977106]
 n2629131444  null / null / Luisa Spagnoli
   other tags : addr:city=Минск | addr:housenumber=20 | addr:postcode=220039 | addr:street=улица Чкалова | opening_hours=Mo-Su 10:00-20:00 | phone=+375 44 777-70-08 +375 44 778-77-78 +375 33 370-78-88 +375 33 630-08-88 | shop=clothes | website=http://luisaspagnoli.relax.by
@@ -8916,7 +8916,7 @@ n3205794959  null / null / Продукты
 n3205811605  null / null / Магазин «Книги»
   other tags : shop=books
     geometry : [53.9096385,27.4907316]
-n3205811609  null / null / Багетная мастерская "Рамер"
+n3205811609  null / null / Рамер
   other tags : shop=frame
     geometry : [53.9109778,27.5044980]
 n3205811613  null / null / Салон красоты "Мастера ножниц"
