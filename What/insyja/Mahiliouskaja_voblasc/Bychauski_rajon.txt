@@ -136,6 +136,18 @@ n3467819797
 n3484293828
   other tags : man_made=water_tower
     geometry : [53.6424043,30.0703582]
+n3509295557
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.2987000,30.3612970]
+n3509295722
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [53.2936760,30.4147050]
+n3509295723
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.2946950,30.4137830]
+n3509296293
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.2645490,30.2891640]
 w25084733  null / null / Ляженка / Ляженка
   other tags : addr:country=BY | addr:district=Быховский район | addr:region=Могилёвская область | place=locality
     geometry : n272990498[53.6107100,30.5395000] n272990501[53.6089900,30.5438000] n272990503[53.6061500,30.5517800] n272990506[53.6083000,30.5536700] n272990507[53.6121700,30.5428500] n272990509[53.6125900,30.5410500] n272990498[53.6107100,30.5395000]
@@ -1171,6 +1183,9 @@ w344073342
 w344073391
   other tags : landuse=allotments
     geometry : n3508304050[53.5960189,29.8871652] n3508304049[53.5958079,29.8931346] n3508304068[53.5981989,29.8975783] n3508304065[53.5975133,29.8983042] n3508304058[53.5967485,29.8974154] n3508304040[53.5939793,29.8906906] n3508304035[53.5922035,29.8877133] n3508304042[53.5941991,29.8868542] n3508304050[53.5960189,29.8871652]
+w344171773
+  other tags : landuse=orchard
+    geometry : n3509296796[53.2617814,30.2800897] n3509296797[53.2627124,30.2854829] n3509296795[53.2611413,30.2865105] n3509296794[53.2592063,30.2839507] n3509296793[53.2589335,30.2820111] n3509296796[53.2617814,30.2800897]
 r538654  null / null / Чигиринское
   other tags : natural=water | type=multipolygon
     geometry : <inner> w25537220: n274779344[53.5622100,29.8296000] n274779347[53.5619500,29.8292500] n274779350[53.5615200,29.8292500] n274779353[53.5613500,29.8296800] n274779356[53.5613500,29.8302800] n274779358[53.5622100,29.8302000] n274779344[53.5622100,29.8296000] : w25537220
