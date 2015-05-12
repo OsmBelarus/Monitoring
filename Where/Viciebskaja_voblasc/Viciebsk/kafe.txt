@@ -81,7 +81,7 @@ n903715310  Талыш / null / Талыш
     geometry : [55.1642385,30.1876800]
 n905861058  Журавінка / null / Журавинка / Журавинка
   other tags : amenity=restaurant | opening_hours=12:00-24:00
-    geometry : [55.1819334,30.2035302]
+    geometry : [55.1819314,30.2034853]
 n930010233  Рудакова / Rudakova / Рудаково / Рудаково
   other tags : addr:housenumber=40 | addr:street=Витебская улица | amenity=restaurant
     geometry : [55.1434781,30.1674317]
@@ -120,7 +120,7 @@ n1115030327
     geometry : [55.2017201,30.2634805]
 n1124825589  Васількі / null / Васильки
   other tags : amenity=restaurant | internet_access=wlan | opening_hours=Mo-Su 11:00-23:00 | website=http://vasilki.by
-    geometry : [55.1818369,30.2061904]
+    geometry : [55.1818421,30.2061496]
 n1139890646  Піцэрыя / null / Пиццерия / Пиццерия
   other tags : amenity=fast_food
     geometry : [55.1808725,30.2304144]
@@ -138,7 +138,7 @@ n1158125009  Arena Deserto / null / Arena Deserto
     geometry : [55.1825760,30.2003319]
 n1160861782  Аранжавы апельсін / null / Апельсиновый рай
   other tags : amenity=cafe | opening_hours=11:00-23:00
-    geometry : [55.1818487,30.2039723]
+    geometry : [55.1818489,30.2039287]
 n1193015257  Вікторыя / null / Виктория
   other tags : amenity=restaurant | opening_hours=Mo-Su 10:00-23:00
     geometry : [55.1847037,30.2049764]
@@ -212,9 +212,6 @@ n1464339293  Арэна-сушы / null / Арена суши
 n1477785744  Арт-кавярня «Маэстра» / null / арт-кафе «Маэстро»
   other tags : addr:housenumber=13А | addr:street=проспект Фрунзе | amenity=cafe | wifi=yes
     geometry : [55.1918736,30.2096523]
-n1478862853
-  other tags : amenity=fast_food
-    geometry : [55.1751920,30.2136839]
 n1478863967
   other tags : amenity=fast_food
     geometry : [55.1721935,30.2017159]
@@ -226,7 +223,7 @@ n1501725495  Амстэрдам / null / Амстердам
     geometry : [55.1599085,30.1660005]
 n1537013062  Гермес / null / Гермес / Гермес
   other tags : amenity=pub
-    geometry : [55.1779391,30.2014725]
+    geometry : [55.1779417,30.2014408]
 n1539206207
   other tags : amenity=fast_food
     geometry : [55.1945092,30.1912231]
@@ -286,7 +283,7 @@ n2078093072
     geometry : [55.2002162,30.2418467]
 n2158025784  null / null / Планета Pizza
   other tags : amenity=cafe | cuisine=pizza | opening_hours=Mo-Su 11:00-23:00 | operator=ООО «Гриль-пиво»
-    geometry : [55.1819672,30.2031241]
+    geometry : [55.1819724,30.2030833]
 n2293950018  Спрынт / null / Спринт
   other tags : amenity=cafe
     geometry : [55.1981635,30.2281203]
@@ -416,6 +413,9 @@ n3335947931  null / null / Славянское
 n3404989773  null / null / 7 комнат
   other tags : amenity=cafe
     geometry : [55.2039782,30.2070992]
+n3511249654  кафетэрый «Колас» / null / кафетерий «Колос» / кафетерий «Колос»
+  other tags : amenity=fast_food | fast_food=cafeteria
+    geometry : [55.1752189,30.2135725]
 w27904344  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=university | building:levels=1 | cuisine=regional
     geometry : n306313899[55.1977361,30.2174681] n2356457654[55.1976500,30.2173442] n2356457651[55.1976410,30.2173636] n2356457645[55.1976074,30.2173153] n2356457648[55.1976160,30.2172970] n2356457639[55.1975090,30.2171429] n2356457642[55.1975241,30.2171109] n306313844[55.1972918,30.2167763] n2533272405[55.1973027,30.2167531] n2533272406[55.1973228,30.2167103] n2533272407[55.1973701,30.2166095] n2533272408[55.1973768,30.2166191] n306313843[55.1973962,30.2165778] n1506171968[55.1974722,30.2166873] n1506171970[55.1974766,30.2166778] n1506171973[55.1975690,30.2168109] n1506171972[55.1975633,30.2168232] n306313842[55.1978469,30.2172319] n306313899[55.1977361,30.2174681]

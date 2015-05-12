@@ -3,7 +3,7 @@ n330385121  Аптэка №13 Айбаліт / Apteka №13 Ajbalit / Апте�
     geometry : [55.1863176,30.2303091]
 n332737580  Аптэка №31 / Apteka №31 / Аптека №31 / Аптека №31
   other tags : amenity=pharmacy | dispensing=no | operator=РУП "Фармация" | phone=+375-212-471373 | website=http://www.pharmacia.by/
-    geometry : [55.1845438,30.2299443]
+    geometry : [55.1845438,30.2299530]
 n349060746  Аптэка №5 Айбаліт / Apteka №5 Ajbalit / Аптека №5 "Айболит" / Аптека №5 "Айболит"
   other tags : amenity=pharmacy | description=Пятая категория | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00 | operator=ЧТУП «Тэрралек» | pharmacy:category=5
     geometry : [55.1817573,30.2023767]
@@ -43,7 +43,7 @@ n891057814  Аптэка / Apteka / Аптека / Аптека
     geometry : [55.1797232,30.1513772]
 n905860998  Аптэка №157 / Apteka №157 / Аптека №157 / Аптека №157
   other tags : amenity=pharmacy | contact:phone=+375-212-210977 | contact:website=http://www.pharmacia.by/ | dispensing=yes | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 10:00-18:00 | operator=РУП "Фармация"
-    geometry : [55.1817031,30.2069211]
+    geometry : [55.1817083,30.2068803]
 n1043402496  Аптэка № 3 / Apteka № 3 / Аптека № 3 / Аптека № 3
   other tags : amenity=pharmacy | description=2-й категории | opening_hours=Mo-Su 08:00-20:00 | operator=ООО «Эдельвейсфари» | pharmacy:category=2
     geometry : [55.1685513,30.2237870]
@@ -114,7 +114,7 @@ n1159484273  Аптэка №27 / Apteka №27 / Аптека №27 / Аптек
     geometry : [55.1934594,30.2264236]
 n1161856350  Аптэка №4 / Apteka №4 / Аптека №4 / Аптека №4
   other tags : amenity=pharmacy | dispensing=no | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-17:00
-    geometry : [55.1819200,30.2098540]
+    geometry : [55.1819274,30.2098193]
 n1188569249
   other tags : amenity=pharmacy
     geometry : [55.1940814,30.2448744]
@@ -166,7 +166,7 @@ n1277968212
 n1304240328  Планета здароўя / Planieta zdaroŭja / Планета Здоровья / Планета Здоровья
   other names: name:uk=Планета Здоровья
   other tags : amenity=pharmacy
-    geometry : [55.1760636,30.2140858]
+    geometry : [55.1760692,30.2140440]
 n1314553678  Планета здароўя / Planieta zdaroŭja / Планета здоровья / Планета здоровья
   other names: name:uk=Планета Здоровья
   other tags : amenity=pharmacy | description=5-й категории | official_name=Аптека № 7 | opening_hours=Mo-Sa 09:00-22:15; Su 10:00-22:00 | operator=ОДО «Фарм-Продукт» | pharmacy:category=5
@@ -284,7 +284,7 @@ n2250256827
     geometry : [55.1700814,30.2230205]
 n2306504651  Аптэка №6 / Apteka №6 / Аптека №6 / Аптека №6
   other tags : amenity=pharmacy | description=пятой категории | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 09:00-18:00 | operator=ООО «Энергофарм» | pharmacy:category=5
-    geometry : [55.1818872,30.2030769]
+    geometry : [55.1818924,30.2030361]
 n2325449491  null / null / Витебское УП "Фармация" / Витебское УП "Фармация"
   other tags : amenity=pharmacy
     geometry : [55.2151214,30.2118189]
@@ -322,8 +322,8 @@ n2558229016  null / null / Аптека №49 / Аптека №49
   other tags : addr:housenumber=25Б | addr:street=улица Чкалова | amenity=pharmacy | phone=+375-212-27-03-22
     geometry : [55.1676242,30.2095971]
 n2630859279  null / null / Аптека № 1 «Де Жур» / Аптека № 1 «Де Жур»
-  other tags : addr:housenumber=42 | addr:street=Московский проспект | amenity=pharmacy | contact:phone=+375212475475 | contact:website=http://www.vitvar.by/ | opening_hours=8:00-24:00 | operator=ООО СП «ВИТВАР»
-    geometry : [55.1806538,30.2164931]
+  other tags : amenity=pharmacy | contact:phone=+375212475475 | contact:website=http://www.vitvar.by/ | opening_hours=8:00-24:00 | operator=ООО СП «Витвар»
+    geometry : [55.1806437,30.2164870]
 n2631039647  null / null / АПТЕКА N 14 Витвар / АПТЕКА N 14 Витвар
   other tags : addr:housenumber=135А | addr:street=Ленинградская улица | amenity=pharmacy | opening_hours=9:00-21:00 | operator=ООО СП ВИТВАР | phone=+375 212 35 39 36 | website=http://www.vitvar.by/
     geometry : [55.2060746,30.1598295]
