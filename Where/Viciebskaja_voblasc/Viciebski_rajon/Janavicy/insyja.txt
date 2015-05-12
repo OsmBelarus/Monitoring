@@ -1,15 +1,18 @@
 n1354144685
   other tags : amenity=recycling
     geometry : [55.2980206,30.6923713]
-n2153961355  null / null / Колонка
-  other tags : man_made=water_well
-    geometry : [55.2975271,30.7003416]
+n2153961355
+  other tags : amenity=drinking_water | man_made=standpipe
+    geometry : [55.2975301,30.7003573]
 n2154011663
   other tags : addr:housenumber=19 | addr:street=Суражская улица
     geometry : [55.2972885,30.6973106]
 n3323322364
   other tags : man_made=water_tower
     geometry : [55.2995657,30.7040838]
+n3509387943
+  other tags : man_made=chimney
+    geometry : [55.2975721,30.6939837]
 w120865106  Экапалітэх / null / ЭкоПолитех
   other tags : designation=ЭкоПолитех | landuse=industrial
     geometry : n1354158970[55.2983367,30.6906660] n1354158975[55.2980081,30.6905635] n1354158974[55.2974620,30.6930961] n1354158971[55.2980438,30.6934902] n1354158973[55.2981901,30.6927635] n1354158978[55.2984708,30.6929066] n1354158977[55.2988288,30.6913958] n1354158972[55.2986330,30.6908760] n1354158970[55.2983367,30.6906660]
