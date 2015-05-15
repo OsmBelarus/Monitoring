@@ -11461,7 +11461,7 @@ w130128376  вуліца Воінаў-Інтэрнацыяналістаў / vul
     geometry : n1434243545[55.1633921,30.2103527] n330033841[55.1631010,30.2128512] n336362341[55.1629537,30.2139097] n456920980[55.1628288,30.2148531] n1159460150[55.1626947,30.2157912] n310308430[55.1624072,30.2176406]
 w130128378  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes
-    geometry : n310312069[55.1598425,30.2116310] n341308325[55.1599248,30.2115339] n711772199[55.1604965,30.2108661] n1846459504[55.1612377,30.2099742]
+    geometry : n310312069[55.1598425,30.2116310] n341308325[55.1599248,30.2115339] n711772199[55.1604965,30.2108661]
 w130141203  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other names: name:de=uliza Woynow-Internazionalistow (Krieger-Internationalisten Straße) | name:fr=oulitsa Voynov-Internationalistov (rue des Guerriers internationalistes)
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
@@ -19720,7 +19720,7 @@ w291508164
   other tags : highway=footway | tunnel=building_passage
     geometry : n2949719581[55.1820049,30.2022827] n2949719580[55.1819909,30.2023818]
 w291713918  вуліца Пятруся Броўкі / vulica Piatrusia Broŭki / улица Петруся Бровки / улица Петруся Бровки
-  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | trolley_wire=yes
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | trolley_wire=yes | turn:lanes=through|through|right
     geometry : n2951979722[55.1521122,30.2265497] n418706573[55.1520880,30.2265220]
 w291961312
   other tags : highway=footway | surface=paving_stones
@@ -25067,7 +25067,7 @@ w339370037  праспект Перамогі / praspiekt Pieramohi / просп
     geometry : n310312142[55.1583432,30.2173123] n2739451833[55.1573839,30.2149678] n1114772213[55.1572960,30.2147292]
 w339370042  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left;through|through
-    geometry : n1846459504[55.1612377,30.2099742] n310308413[55.1613724,30.2098581]
+    geometry : n711772199[55.1604965,30.2108661] n1846459504[55.1612377,30.2099742] n310308413[55.1613724,30.2098581]
 w339370044  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left;through|through|right
     geometry : n310312155[55.1585131,30.2130591] n1964030930[55.1583073,30.2133122] n310311915[55.1575159,30.2142091] n2739451837[55.1573944,30.2143415] n310312060[55.1572169,30.2145421]
