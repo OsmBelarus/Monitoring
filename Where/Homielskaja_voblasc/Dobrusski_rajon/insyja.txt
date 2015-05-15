@@ -178,6 +178,21 @@ n3390705031  null / null / Селище
 n3478899366
   other tags : man_made=water_tower
     geometry : [52.3338388,31.3091639]
+n3514017340
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.1264587,31.7281974]
+n3514017341
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [52.1266759,31.7282788]
+n3514018144
+  other tags : communication:mobile_phone=yes | operator=MTS;VELCOM | operator:MNC=02;01
+    geometry : [52.1662544,31.6983412]
+n3514018145
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [52.1663616,31.6984343]
+n3514018441
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.2730757,31.5788900]
 w25078679  null / null / Торф. Стахановец / Торф. Стахановец
   other tags : addr:country=BY | addr:district=Добрушский район | addr:region=Гомельская область | place=locality
     geometry : n272896332[52.1205100,31.6105000] n272896334[52.1193100,31.6105900] n272896336[52.1190600,31.6153900] n272896338[52.1215400,31.6170200] n272896340[52.1213700,31.6144500] n272896342[52.1204300,31.6137600] n272896332[52.1205100,31.6105000]
