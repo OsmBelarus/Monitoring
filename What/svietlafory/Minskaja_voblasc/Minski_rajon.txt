@@ -130,8 +130,8 @@ n499482691  Пятроўскі завулак / null / Петровский пе
 n519909600  Радыёцэнтр / null / Радиоцентр / Радиоцентр
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9555058,27.7760809]
-n523137023  null / null / филиал БГУ
-  other tags : highway=bus_stop
+n523137023  null / null / Филиал БГУ
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [53.8340725,27.4638511]
 n612218713  Пуцеправод / null / Путепровод / Путепровод
   other tags : highway=bus_stop
@@ -1252,3 +1252,6 @@ n3446735559
 n3446735560
   other tags : highway=bus_stop
     geometry : [53.7769613,27.6489449]
+n3515054565  null / null / Щомыслица
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8252770,27.4498611]
