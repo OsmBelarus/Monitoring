@@ -272,6 +272,27 @@ n3198452636
 n3326610176
   other tags : railway=level_crossing
     geometry : [53.3188123,28.6096711]
+n3513556557
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.2462950,28.9304410]
+n3513556558
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.2463170,28.9326690]
+n3513556559
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [53.2545635,28.9232343]
+n3513840125
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [53.1774835,28.4979669]
+n3513843470
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.2654501,28.5221741]
+n3513848789
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.2220120,28.3870680]
+n3513848790
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [53.2221410,28.3865610]
 w24946665
   other tags : railway=rail | usage=main
     geometry : n271043867[53.2819005,28.5907056] n3025708266[53.2823306,28.5890503] n3025708267[53.2824303,28.5872718] n3025708265[53.2823240,28.5859824] n271043868[53.2819270,28.5847417]
