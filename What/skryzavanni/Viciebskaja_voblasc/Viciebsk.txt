@@ -387,16 +387,16 @@ n1159460150
     geometry : [55.1626947,30.2157912]
 n1161855913
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1799697,30.2164048]
+    geometry : [55.1799782,30.2163745]
 n1161856362
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
-    geometry : [55.1803291,30.2111396]
+    geometry : [55.1803083,30.2110863]
 n1161856389
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1804670,30.2163633]
 n1161856452
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1799192,30.2166759]
+    geometry : [55.1799313,30.2166168]
 n1161856480
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1801969,30.2162072]
@@ -672,13 +672,13 @@ n1261020249
     geometry : [55.1930283,30.2210809]
 n1263077847
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1956585,30.2497731]
+    geometry : [55.1956559,30.2497431]
 n1263077862
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1929198,30.2501399]
 n1263077869
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
-    geometry : [55.1958677,30.2497035]
+    geometry : [55.1958651,30.2496735]
 n1263077888
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1929036,30.2497377]
@@ -2254,3 +2254,15 @@ n3504853115
 n3504853116
   other tags : highway=crossing
     geometry : [55.1551915,30.1527734]
+n3513469835
+  other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
+    geometry : [55.1799171,30.2166898]
+n3513469838
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [55.1799917,30.2170225]
+n3513469839
+  other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
+    geometry : [55.1799920,30.2163053]
+n3513469841
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [55.1801360,30.2161719]

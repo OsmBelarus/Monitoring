@@ -1,6 +1,3 @@
-n306304365  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank
-    geometry : [55.1771080,30.2112746]
 n343089092  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
   other tags : amenity=bank | contact:phone=+375(29) 733-33-32, +375(44) 733-33-32, +375(25) 733-33-32 | contact:website=http://www.alfabank.by/ | opening_hours=Mo-Fr 10:00-18:00 | operator=ЗАО «Альфа-Банк»
     geometry : [55.1993474,30.2057430]
@@ -214,13 +211,16 @@ n3129492583  Белінвестбанк / Bielinviestbank / Белинвестб
     geometry : [55.1688295,30.2124494]
 n3377777370  Парытэтбанк / Parytetbank / Паритетбанк / Паритетбанк
   other tags : amenity=bank | contact:email=info@paritetbank.by | contact:phone=+375(44) 545-49-49, +375(29) 545-49-49, +375(25) 545-49-49 | contact:website=http://www.paritetbank.by/ | official_name=Центр банковских услуг № 1 ОАО «Паритетбанк» в г. Витебске | opening_hours=Mo-Th 08:45-13:00,13:45-17:00; Fr 08:45-13:00,13:45-15:45 | operator=ОАО «Паритетбанк» | short_name=ЦБУ № 1 Паритетбанк
-    geometry : [55.1787609,30.2105358]
+    geometry : [55.1787601,30.2105076]
 n3476745773  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=№ 200/93 | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | official_name=Филиал № 200/93 ОАО «АСБ Беларусбанк» | opening_hours=Mo-Fr 09:00-14:00,15:00-19:00 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1719119,30.2364484]
 n3487315713  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кредит Банк / Хоум Кредит Банк
   other tags : amenity=bank | contact:email=info@homecredit.by | contact:website=http://homecredit.by/ | official_name=ЦБУ № 205 | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00 | operator=ОАО «ХКБанк»
     geometry : [55.1988443,30.2073449]
+n3513469091  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
+  other tags : amenity=bank | atm=no | contact:email=info@belarusbank.by | contact:phone=+375 (212) 57-30-81 | contact:website=http://belarusbank.by/ | opening_hours=Mo-Fr 09:30-14:00,15:00-19:00 | operator=ОАО «АСБ Беларусбанк» | payment_terminal=yes
+    geometry : [55.1771783,30.2113140]
 w27898590  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=4 | addr:street=улица Пушкина | amenity=bank | atm=no | building=yes | building:levels=2
     geometry : n306306277[55.1940193,30.2036017] n306306273[55.1939031,30.2035058] n2923535241[55.1939302,30.2034050] n306306275[55.1939564,30.2033076] n306306285[55.1940726,30.2034036] n306306277[55.1940193,30.2036017]

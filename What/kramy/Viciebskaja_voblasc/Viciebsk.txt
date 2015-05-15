@@ -68,9 +68,9 @@ n458418746  null / null / Копи-центр
 n626501296  Веста № 138 / null / Веста № 138
   other tags : contact:phone=+375 (212) 57-77-08 | contact:website=http://vesta-retail.by/ | opening_hours=Mo-Sa 08:00-21:00; Su 08:00-18:00 | shop=convenience
     geometry : [55.1757365,30.2066282]
-n660719347
-  other tags : shop=hairdresser
-    geometry : [55.1744669,30.2108962]
+n660719347  null / null / Дуэт / Дуэт
+  other tags : opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-18:00 | operator=ЧТУП «Дуэт-парк» | shop=hairdresser
+    geometry : [55.1744650,30.2108962]
 n660719352  Мэбля / null / Мебель / Мебель
   other tags : shop=furniture
     geometry : [55.1762976,30.2068495]
@@ -115,7 +115,7 @@ n726818408  Прыдзвінне / Prydzvinnie / Придвинье
     geometry : [55.1734958,30.2129949]
 n726839159  Бурштын / null / Янтарь
   other tags : shop=jewelry
-    geometry : [55.1793866,30.2153665]
+    geometry : [55.1793980,30.2153198]
 n726957507  Малако / null / Молоко
   other tags : shop=convenience
     geometry : [55.1583097,30.2142670]
@@ -535,9 +535,9 @@ n1160958055  Бытхім / null / Бытхим
 n1161856042  МТС Офіс / null / МТС Офис
   other tags : contact:website=http://www.mts.by/ | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | shop=mobile_phone
     geometry : [55.1817770,30.2065053]
-n1161856134  Віцебскаблрэсурсы / null / Витебскоблресурсы
-  other tags : opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00 | shop=hardware
-    geometry : [55.1804538,30.2109396]
+n1161856134  null / null / Хозтовары
+  other tags : contact:phone=+375 (212) 65-22-27, +375 (212) 65-55-33 | contact:website=http://www.tavda.by/ | opening_hours=Mo-Fr 08:00-20:00; Sa 10:00-18:00 | operator=ЧТУП «Тавдв» | shop=hardware
+    geometry : [55.1805007,30.2109667]
 n1161856212  Негацыянт / null / Негоциант
   other tags : opening_hours=Mo-Su 8:00-23:00 | shop=convenience
     geometry : [55.1809378,30.2110104]
@@ -628,8 +628,8 @@ n1217484925  Вiцебскаблсаюздрук / null / Витебскоблс
     geometry : [55.1938544,30.2276212]
 n1219995106  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
-  other tags : opening_hours=Mo-Su 08:00-23:00 | shop=convenience
-    geometry : [55.1803499,30.2108796]
+  other tags : opening_hours=Mo-Su 09:00-23:00 | shop=convenience
+    geometry : [55.1801832,30.2107832]
 n1226851262  Візіт / null / Визит
   other tags : shop=convenience
     geometry : [55.1718500,30.2164595]
@@ -768,7 +768,7 @@ n1304240305  Вясельны салон Дар’я / null / Свадебный
     geometry : [55.1902513,30.2062964]
 n1304240317  Ганна / null / Ганна
   other tags : shop=convenience
-    geometry : [55.1790687,30.2153342]
+    geometry : [55.1790801,30.2152875]
 n1304240360  null / null / Цветы
   other tags : shop=florist
     geometry : [55.1816478,30.2070560]
@@ -1160,9 +1160,6 @@ n1405670779  СТА / null / СТО / СТО
 n1405759102  null / null / Парковка / Парковка
   other tags : opening_hours=Mo-Sa 10:00-18:00 | phone=+375298191191 | shop=car_parts
     geometry : [55.1800363,30.2196973]
-n1405759105  null / null / магазин «Комфорт плюс»
-  other tags : craft=hvac | opening_hours=Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 09:00-15:00 | phone=+375292187777 | shop=hardware_store | source=директор магазина | website=http://vk.com/komfort.plus
-    geometry : [55.1800873,30.2194290]
 n1405768439  Глорыя Джынс / null / Глория Джинс
   other tags : shop=clothes
     geometry : [55.2013453,30.2072267]
@@ -1195,10 +1192,10 @@ n1411586411  Лічбавік / null / Цифровик
     geometry : [55.1938024,30.1916073]
 n1418174040  null / null / Ломбард
   other tags : shop=pawnbroker
-    geometry : [55.1795311,30.2153969]
+    geometry : [55.1795425,30.2153502]
 n1418174041  Штопар / null / Штопор
   other tags : opening_hours=09:00-21:00 | shop=alcohol
-    geometry : [55.1795740,30.2153041]
+    geometry : [55.1795854,30.2152574]
 n1420512645
   other tags : shop=hairdresser
     geometry : [55.1858121,30.2214995]
@@ -1870,7 +1867,7 @@ n2385881863  Ніка-1 / null / Ника-1 / Ника-1
     geometry : [55.1761657,30.2396685]
 n2392254915  null / null / Кованные изделия
   other tags : shop=doityourself
-    geometry : [55.1797581,30.2153773]
+    geometry : [55.1797695,30.2153306]
 n2399798700  null / null / Белтехосмотр
   other tags : opening_hours=Mo-Fr 08:00-17:00 | operator=ОАО Автотранспортное предприятие № 4 | phone=+375-212-362230 | service=checking | shop=car_repair | website=http://gto.by/
     geometry : [55.2018464,30.1814657]
@@ -2209,7 +2206,7 @@ n2517170703  Электрасвет / null / Электромир
     geometry : [55.1711913,30.2248544]
 n2520715284  null / null / Тиккурила-777
   other tags : shop=paint
-    geometry : [55.1799204,30.2152677]
+    geometry : [55.1799223,30.2152210]
 n2528674407  null / null / AutoVitebsk.by
   other tags : email=mobicars@mail.ru | opening_hours=Mo-Fr 09:00-17:30 | phone=+375297462626 | ref=112Б | shop=car_parts | website=http://www.autovitebsk.by/
     geometry : [55.1998525,30.2377646]
@@ -2626,7 +2623,7 @@ n2828417240  null / null / Сувениры
     geometry : [55.1780142,30.2008965]
 n2843669201  null / null / Алиса
   other tags : description=магазин сумок | opening_hours=Mo-Fr 09:00-13:00,14:00-19:00; Sa,Su 10:00-14:00,14:20-15:20 | operator=ЧП «Си Лун» | shop=bag
-    geometry : [55.1773579,30.2142019]
+    geometry : [55.1773560,30.2142119]
 n2847988623  null / null / Метр квадратный
   other tags : shop=furniture
     geometry : [55.1889313,30.2051764]
@@ -3050,9 +3047,6 @@ n3084226227  Белсаюздрук / null / Белсоюзпечать
 n3084227333  Белсаюздрук / null / Белсоюзпечать
   other tags : shop=newsagent
     geometry : [55.1755280,30.2463739]
-n3084232435  Белсаюздрук / null / Белсоюзпечать
-  other tags : shop=newsagent
-    geometry : [55.1767338,30.2369233]
 n3084240411  Белсаюздрук / null / Белсоюзпечать
   other tags : shop=newsagent
     geometry : [55.1786479,30.2271390]
@@ -3280,16 +3274,16 @@ n3409729314  null / null / Шиномонтаж
 n3410519528  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : opening_hours=09:00-23:00 | shop=convenience
-    geometry : [55.1795255,30.2155138]
+    geometry : [55.1795369,30.2154671]
 n3410541088  null / null / Белдрев
   other tags : shop=furniture
-    geometry : [55.1789688,30.2152966]
+    geometry : [55.1789802,30.2152499]
 n3410541089  null / null / Парикмахерская
   other tags : shop=hairdresser
-    geometry : [55.1791252,30.2153678]
+    geometry : [55.1791366,30.2153211]
 n3410541090  null / null / Сервис-центр
   other tags : shop=electronics
-    geometry : [55.1790165,30.2153032]
+    geometry : [55.1790279,30.2152565]
 n3411340218  null / null / Добрыня
   other tags : description=авто-мото-бензотехника | opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=motorcycle
     geometry : [55.1799665,30.2200645]
@@ -3396,3 +3390,6 @@ n3511249647  null / null / Rio
 n3511249649  Майстар / null / Мастер / Мастер
   other tags : contact:phone=+375 (29) 8888-156, +375 (29) 2222-156 | description=садовая техника, инструмент | opening_hours=Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-13:00,14:00-17:00 | shop=garden_centre
     geometry : [55.1748716,30.2134881]
+n3513469594  null / null / Продукты
+  other tags : opening_hours=Mo-Su 08:00-23:00 | operator=ООО «Стройснаб» | shop=convenience
+    geometry : [55.1787571,30.2101919]
