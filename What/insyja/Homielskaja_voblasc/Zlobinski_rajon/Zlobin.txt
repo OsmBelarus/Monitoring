@@ -626,7 +626,7 @@ w108940380  null / null / рынок Колхозный
   other tags : amenity=marketplace | leisure=common
     geometry : n1248618584[52.8947282,30.0274379] n1248618572[52.8940195,30.0275882] n2355758771[52.8933858,30.0319331] n1248618587[52.8951611,30.0316608] n1248618584[52.8947282,30.0274379]
 w109137216
-  other tags : bridge=yes | layer=1 | railway=rail | usage=main
+  other tags : bridge=yes | electrified=no | gauge=1520 | layer=1 | railway=rail | usage=main
     geometry : n1250240939[52.8884681,30.0624066] n1250240782[52.8893145,30.0590419]
 w109137235
   other tags : railway=rail | usage=main
