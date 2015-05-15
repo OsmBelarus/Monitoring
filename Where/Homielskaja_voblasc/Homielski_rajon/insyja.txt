@@ -944,6 +944,18 @@ n3514024332
 n3514027931
   other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
     geometry : [52.1524729,30.9989791]
+n3514032467
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.3987721,31.1410949]
+n3514033324
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [52.3460831,31.1131101]
+n3514033325
+  other tags : communication:mobile_phone=yes | man_made=water_tower | operator=VELCOM | operator:MNC=01
+    geometry : [52.3504169,31.1095784]
+n3514033429
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.3453735,31.0612398]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]
