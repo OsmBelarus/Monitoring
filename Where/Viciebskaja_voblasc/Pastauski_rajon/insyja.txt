@@ -114,8 +114,8 @@ n432481074
   other tags : man_made=water_tower
     geometry : [55.1628417,27.3789286]
 n432481075  null / null / "Эйфелева башня" (30м)
-  other tags : man_made=tower | source=http://tourismby.com/news/2009-06-02-39 | tower:type=bell_tower | website=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6_(%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
-    geometry : [55.1544439,27.3800830]
+  other tags : man_made=tower | source=http://tourismby.com/news/2009-06-02-39 | tower:type=observation | website=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6_(%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+    geometry : [55.1562840,27.3856805]
 n432481076
   other tags : man_made=water_tower
     geometry : [55.1760723,27.3639985]
@@ -233,9 +233,6 @@ n1393367996
 n1393372428
   other tags : noexit=yes
     geometry : [55.1445618,26.5376737]
-n1478100678  null / null / "Эйфелева" башня
-  other tags : man_made=tower | tower:type=observation
-    geometry : [55.1561776,27.3855656]
 n1589948394
   other tags : natural=spring
     geometry : [54.9989468,27.0207112]
