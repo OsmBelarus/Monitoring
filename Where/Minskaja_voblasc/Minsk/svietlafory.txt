@@ -2473,9 +2473,6 @@ n767082156  null / null / Мебельный магазин
 n767082186  null / null / Малиновка-6
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8496819,27.4389125]
-n767082187  null / null / Поворот на Малиновку
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.8413400,27.4675200]
 n767082188  Гаражы / null / Гаражи / Гаражи
   other tags : generated=yes | highway=bus_stop | public_transport=stop_area | type=public_transport
     geometry : [53.9172483,27.4492579]
@@ -5531,3 +5528,6 @@ n3468037576  null / null / Ковальская слобода
 n3501623926
   other tags : highway=bus_stop
     geometry : [53.8399366,27.6294417]
+n3517019535  null / null / Поворот на Малиновку
+  other tags : bench=yes | highway=bus_stop
+    geometry : [53.8420561,27.4681660]
