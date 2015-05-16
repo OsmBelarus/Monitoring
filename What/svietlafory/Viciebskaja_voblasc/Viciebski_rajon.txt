@@ -47,8 +47,8 @@ n1501304348
   other tags : highway=bus_stop
     geometry : [55.2058450,30.2874033]
 n1588881006  null / null / Орлово-2
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.1125358,30.2829415]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1125417,30.2829053]
 n1784466048  null / null / Добрейка
   other tags : highway=bus_stop
     geometry : [55.1522706,30.1088512]
@@ -544,3 +544,6 @@ n3217073071
 n3485206004  null / null / Сокольники / Сокольники
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1430344,30.2506245]
+n3520681241  null / null / Орлово-2
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1119963,30.2824991]
