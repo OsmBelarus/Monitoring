@@ -292,6 +292,27 @@ n3349880938
 n3349922925
   other tags : man_made=communications_tower
     geometry : [53.2407024,24.8169969]
+n3518591683
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.2407100,24.8169860]
+n3518591828
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.1517380,24.9093450]
+n3518591829
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.1517990,24.9099700]
+n3518591979
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [53.1574800,24.6404620]
+n3518591980
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [53.1577740,24.6322760]
+n3518593764
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [53.0235150,24.8067690]
+n3518593765
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [53.0263260,24.8119570]
 w25141254
   other tags : admin_level=8 | boundary=administrative
     geometry : n273976857[53.1114365,25.1658895] n273976859[53.1098457,25.1738181] n273976860[53.1110800,25.1744800] n273976861[53.1127200,25.1670200] n273976857[53.1114365,25.1658895]
