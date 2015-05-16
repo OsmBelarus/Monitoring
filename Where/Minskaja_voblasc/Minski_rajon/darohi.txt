@@ -215,13 +215,13 @@ w23625400
   other tags : highway=unclassified | maxspeed=60
     geometry : n255916329[53.9176198,27.3290763] n255916431[53.9172393,27.3293400]
 w23625406
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255915642[53.9168479,27.3298607] n2463902124[53.9169713,27.3296407] n255916430[53.9171013,27.3294739] n255916431[53.9172393,27.3293400]
 w23625418
   other tags : highway=motorway_link | maxspeed=60 | oneway=yes
     geometry : n281948850[53.9169126,27.3250672] n255917323[53.9166299,27.3260928] n255917324[53.9163733,27.3267950] n255917325[53.9158594,27.3281700]
 w23625420
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255917325[53.9158594,27.3281700] n255917552[53.9158339,27.3284052] n255917553[53.9158370,27.3286045] n255917554[53.9158682,27.3287380] n255917029[53.9159918,27.3289579]
 w23625602
   other tags : highway=secondary | oneway=yes
@@ -16656,46 +16656,46 @@ w129604925
   other tags : highway=unclassified | surface=unpaved
     geometry : n974555089[53.9103425,27.2847942] n974554398[53.9106075,27.2842603] n974553922[53.9109040,27.2837340] n974554024[53.9109747,27.2836280] n974554506[53.9111736,27.2833298] n974554743[53.9113196,27.2830819] n974554616[53.9113803,27.2829789] n974555195[53.9115420,27.2826891]
 w129639498
-  other tags : highway=secondary | maxspeed=60 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=60 | oneway=yes
     geometry : n255916085[53.9170144,27.3288476] n281948570[53.9170298,27.3251325]
 w129639502
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255916431[53.9172393,27.3293400] n255916654[53.9171089,27.3292829] n2463902125[53.9170685,27.3292146] n255916655[53.9170406,27.3291230] n255916085[53.9170144,27.3288476]
 w129639503
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255917029[53.9159918,27.3289579] n255917028[53.9158359,27.3289996] n255917026[53.9157295,27.3291203] n255917025[53.9156232,27.3294185]
 w129639504
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255915642[53.9168479,27.3298607] n255915643[53.9168469,27.3296230] n255915644[53.9168093,27.3294858] n1399029649[53.9167413,27.3293920] n255915645[53.9166621,27.3293133]
 w129639507
   other tags : highway=unclassified
     geometry : n312552444[53.9058502,27.2934506] n312552445[53.9060373,27.2935021] n312552447[53.9061637,27.2932961] n312552448[53.9065884,27.2905066] n974969167[53.9066655,27.2899655]
 w129639509
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255915645[53.9166621,27.3293133] n255916081[53.9168018,27.3292789] n255916082[53.9168795,27.3292156] n255916083[53.9169387,27.3291130] n255916085[53.9170144,27.3288476]
 w129639512
-  other tags : highway=secondary | maxspeed=60 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=60 | oneway=yes
     geometry : n255917025[53.9156232,27.3294185] n1399029648[53.9156145,27.3304254] n517431486[53.9155709,27.3316650] n281948808[53.9155262,27.3326324]
 w129640468
-  other tags : highway=secondary | surface=asphalt
+  other tags : highway=motorway_link | oneway=no | surface=asphalt
     geometry : n255915645[53.9166621,27.3293133] n255917029[53.9159918,27.3289579]
 w129640470
   other tags : highway=secondary | surface=asphalt
     geometry : n255917330[53.9152563,27.3284158] n1429929871[53.9150035,27.3282048] n255915649[53.9135608,27.3269390] n255915650[53.9133472,27.3268103] n255915651[53.9131733,27.3267945] n255915652[53.9129885,27.3268563] n275338814[53.9126828,27.3269840]
 w129640471
-  other tags : highway=secondary | surface=asphalt
+  other tags : highway=motorway_link | oneway=no | surface=asphalt
     geometry : n255917029[53.9159918,27.3289579] n1429909040[53.9156789,27.3287515] n255917330[53.9152563,27.3284158]
 w129640472
-  other tags : highway=secondary | maxspeed=60 | surface=asphalt
+  other tags : highway=motorway_link | maxspeed=60 | oneway=no | surface=asphalt
     geometry : n255916431[53.9172393,27.3293400] n1429909042[53.9169585,27.3293791] n255915645[53.9166621,27.3293133]
 w129640473
   other tags : highway=secondary | maxspeed=90 | surface=asphalt
     geometry : n275338814[53.9126828,27.3269840] n275081770[53.9114316,27.3456319] n275081767[53.9111808,27.3498570]
 w129640476
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255917325[53.9158594,27.3281700] n255917326[53.9157719,27.3283019] n255917327[53.9156665,27.3283993] n255917329[53.9155174,27.3285020] n255917330[53.9152563,27.3284158]
 w129640477
-  other tags : highway=secondary_link | maxspeed=40 | oneway=yes
+  other tags : highway=motorway_link | maxspeed=40 | oneway=yes
     geometry : n255917330[53.9152563,27.3284158] n255917652[53.9154679,27.3286850] n255917650[53.9155811,27.3290401] n255917025[53.9156232,27.3294185]
 w129640832
   other tags : highway=tertiary | maxspeed=60 | surface=asphalt
