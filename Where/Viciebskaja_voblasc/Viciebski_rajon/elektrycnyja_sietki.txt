@@ -6470,32 +6470,32 @@ n2155758907
   other tags : power=pole
     geometry : [55.2055754,29.9279850]
 n2157320131
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0358810,30.3352378]
 n2157320132
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0370294,30.3301733]
 n2157320133
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0380957,30.3255711]
 n2157320134
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0391202,30.3210461]
 n2157320140
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0402312,30.3162024]
 n2157320144
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0412576,30.3116605]
 n2157320145
-  other tags : power=tower
-    geometry : [55.0422618,30.3072993]
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
+    geometry : [55.0422562,30.3072503]
 n2157320146
   other tags : power=tower
-    geometry : [55.0431678,30.3034836]
+    geometry : [55.0431341,30.3034444]
 n2157320149
-  other tags : power=tower
-    geometry : [55.0449686,30.3014790]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0449911,30.3014300]
 n2160614616
   other tags : power=pole
     geometry : [55.2042136,29.9246013]
@@ -9053,58 +9053,58 @@ n2990529139
   other tags : power=tower
     geometry : [55.1393389,30.2155345]
 n2990605616
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0641481,30.2985872]
 n2990605617
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0656132,30.2973555]
 n2990605618
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0657149,30.2967951]
 n2990605619
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0662544,30.2976997]
 n2990605620
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0666278,30.2980964]
 n2990605621
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0675565,30.2969721]
 n2990605622
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0677222,30.2963758]
 n2990605623
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0681564,30.2973228]
 n2990605624
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0689378,30.2961343]
 n2990605625
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0690049,30.2976165]
 n2990605626
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0691132,30.2966538]
 n2990605627
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0700723,30.2969351]
 n2990605628
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0710080,30.2962857]
 n2990605629
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0710893,30.2956832]
 n2990605630
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0716721,30.2970823]
 n2990605631
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0722489,30.2965013]
 n2990605632
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0728676,30.2959099]
 n2990607533
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0731252,30.2952745]
 n2990607534
   other tags : power=tower
@@ -9320,7 +9320,7 @@ n2990634804
   other tags : power=tower
     geometry : [55.0353826,30.2786943]
 n2990634805
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0356272,30.2801099]
 n2990634806
   other tags : power=tower
@@ -9330,12 +9330,12 @@ n2990634807
     geometry : [55.0367434,30.2821324]
 n2990634808
   other tags : power=tower
-    geometry : [55.0367830,30.3011652]
+    geometry : [55.0368031,30.3011185]
 n2990634809
   other tags : power=tower
     geometry : [55.0368683,30.3324158]
 n2990634810
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0369327,30.2833744]
 n2990634811
   other tags : power=tower
@@ -9344,14 +9344,14 @@ n2990634812
   other tags : power=tower
     geometry : [55.0380651,30.2853784]
 n2990634813
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0383603,30.2868855]
 n2990634814
   other tags : power=tower
     geometry : [55.0384009,30.3256224]
 n2990634815
   other tags : power=tower
-    geometry : [55.0388298,30.3005780]
+    geometry : [55.0388298,30.3005255]
 n2990634816
   other tags : power=tower
     geometry : [55.0392207,30.3220867]
@@ -9362,8 +9362,8 @@ n2990634818
   other tags : power=tower
     geometry : [55.0397716,30.3196855]
 n2990634819
-  other tags : power=tower
-    geometry : [55.0400201,30.2910738]
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
+    geometry : [55.0400485,30.2910243]
 n2990634820
   other tags : power=tower
     geometry : [55.0403747,30.3169335]
@@ -9374,109 +9374,109 @@ n2990634822
   other tags : power=tower
     geometry : [55.0411875,30.3134289]
 n2990634823
-  other tags : power=tower
-    geometry : [55.0415386,30.2948734]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0415587,30.2948033]
 n2990634824
   other tags : power=tower
-    geometry : [55.0417595,30.2945996]
+    geometry : [55.0417562,30.2945412]
 n2990634825
   other tags : power=tower
     geometry : [55.0419427,30.3101384]
 n2990634826
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0425778,30.3073367]
 n2990634827
-  other tags : power=tower
-    geometry : [55.0429899,30.2985016]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0429899,30.2984330]
 n2990634828
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0431803,30.2981040]
 n2990634829
-  other tags : power=pole
-    geometry : [55.0434308,30.2993790]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.0434308,30.2993323]
 n2990634830
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0436021,30.2988004]
 n2990634831
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0438995,30.2992972]
 n2990634832
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0440955,30.3070269]
 n2990635233
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0447574,30.2991008]
 n2990635234
-  other tags : power=tower
-    geometry : [55.0449522,30.3009750]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0449662,30.3009407]
 n2990635236
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0454268,30.2984041]
 n2990635237
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0458582,30.3066429]
 n2990635238
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0463886,30.2987817]
 n2990635239
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0468249,30.2981181]
 n2990635240
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0478609,30.3062217]
 n2990635241
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0480057,30.2984627]
 n2990635242
-  other tags : power=tower
-    geometry : [55.0480926,30.2999017]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0481093,30.2998667]
 n2990635243
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0481580,30.2978181]
 n2990635244
-  other tags : power=tower
-    geometry : [55.0481447,30.3003939]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0481547,30.3003530]
 n2990635245
-  other tags : power=tower
-    geometry : [55.0481657,30.3008584]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0481791,30.3008117]
 n2990635246
-  other tags : power=tower
-    geometry : [55.0481887,30.3013301]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0482021,30.3012776]
 n2990635247
-  other tags : power=tower
-    geometry : [55.0482259,30.3017953]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0482359,30.3017486]
 n2990635248
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0483234,30.2995874]
 n2990635249
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0484475,30.3049310]
 n2990635250
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0490052,30.3002254]
 n2990635251
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0491231,30.3006710]
 n2990635252
   other tags : power=pole
     geometry : [55.0491322,30.2978878]
 n2990635253
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0492362,30.3011200]
 n2990635254
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0492744,30.3015592]
 n2990635255
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0497504,30.3000647]
 n2990635256
   other tags : power=pole
     geometry : [55.0497699,30.2977171]
 n2990635257
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0501758,30.3004588]
 n2990635258
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0503554,30.3009038]
 n2990635259
   other tags : power=pole
@@ -9485,85 +9485,85 @@ n2990635260
   other tags : power=pole
     geometry : [55.0510394,30.2973773]
 n2990635261
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0513500,30.3011428]
 n2990635262
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0519837,30.2995985]
 n2990635263
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0526121,30.3004273]
 n2990635264
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0527674,30.2999344]
 n2990635265
   other tags : power=pole
     geometry : [55.0531086,30.2968234]
 n2990635266
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0536342,30.3007105]
 n2990635267
-  other tags : power=pole
-    geometry : [55.0536491,30.2992811]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.0536491,30.2992398]
 n2990635268
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0543451,30.2996301]
 n2990635269
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0545775,30.3000430]
 n2990635270
-  other tags : power=pole
-    geometry : [55.0557116,30.2988579]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.0557163,30.2988249]
 n2990635271
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0558150,30.3002621]
 n2990635272
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0563684,30.2996787]
 n2990635273
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0563792,30.2991937]
 n2990635274
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0576289,30.2998977]
 n2990635275
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0582139,30.2983486]
 n2990635276
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0584842,30.2987813]
 n2990635277
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0584872,30.2992463]
 n2990635278
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0596605,30.2994854]
 n2990635279
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0602276,30.2989100]
 n2990635280
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0602559,30.2979254]
 n2990635281
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0605272,30.2983690]
 n2990635282
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0623095,30.2984816]
 n2990635283
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0623899,30.2974905]
 n2990635284
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0626000,30.2979446]
 n2990635285
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0643443,30.2970752]
 n2990635286
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0643808,30.2980885]
 n2990635287
-  other tags : power=pole
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.0644135,30.2975963]
 n2990652702
   other tags : power=tower
@@ -10442,8 +10442,8 @@ n2995455455
   other tags : power=tower
     geometry : [55.0033030,30.1960769]
 n2995455456
-  other tags : power=tower
-    geometry : [55.0034773,30.1999552]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.0034740,30.1999027]
 n2995455457
   other tags : power=tower
     geometry : [55.0037020,30.1997018]
@@ -10454,7 +10454,7 @@ n2995455459
   other tags : power=tower
     geometry : [55.0046859,30.2021487]
 n2995455460
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0048350,30.2032555]
 n2995455461
   other tags : power=tower
@@ -10463,13 +10463,13 @@ n2995455462
   other tags : power=tower
     geometry : [55.0061364,30.1567244]
 n2995455463
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0063634,30.2070865]
 n2995455464
   other tags : power=tower
     geometry : [55.0069053,30.2077817]
 n2995455465
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0073851,30.2097371]
 n2995455466
   other tags : power=tower
@@ -10481,7 +10481,7 @@ n2995455468
   other tags : power=tower
     geometry : [55.0083623,30.1560295]
 n2995455469
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0086434,30.2128149]
 n2995455470
   other tags : power=tower
@@ -10490,13 +10490,13 @@ n2995455471
   other tags : power=tower
     geometry : [55.0098361,30.1562246]
 n2995455472
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0098768,30.2159290]
 n2995455473
   other tags : power=tower
     geometry : [55.0113618,30.1556115]
 n2995455474
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0114092,30.2197093]
 n2995455475
   other tags : power=tower
@@ -10505,13 +10505,13 @@ n2995455476
   other tags : power=tower
     geometry : [55.0118424,30.2198778]
 n2995455477
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0127795,30.2231348]
 n2995455478
   other tags : power=tower
     geometry : [55.0128191,30.1554131]
 n2995455479
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0138343,30.2256912]
 n2995455480
   other tags : power=tower
@@ -10520,13 +10520,13 @@ n2995455481
   other tags : power=tower
     geometry : [55.0150026,30.1551049]
 n2995455482
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0150260,30.2287401]
 n2995455483
   other tags : power=tower
     geometry : [55.0156346,30.2294471]
 n2995455484
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0162924,30.2319338]
 n2995455485
   other tags : power=tower
@@ -10535,7 +10535,7 @@ n2995455486
   other tags : power=tower
     geometry : [55.0171116,30.2330567]
 n2995455487
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0175131,30.2349609]
 n2995455488
   other tags : power=tower
@@ -10544,73 +10544,73 @@ n2995455491
   other tags : power=tower
     geometry : [55.0188361,30.2373554]
 n2995455492
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0190120,30.2386543]
 n2995455495
   other tags : power=tower
     geometry : [55.0198802,30.2399806]
 n2995455496
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0201869,30.2415946]
 n2995455497
   other tags : power=tower
     geometry : [55.0210967,30.2429831]
 n2995455498
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0217438,30.2454763]
 n2995455499
   other tags : power=tower
     geometry : [55.0223665,30.2461662]
 n2995455500
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0230408,30.2486803]
 n2995455501
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0242795,30.2518119]
 n2995455502
   other tags : power=tower
     geometry : [55.0250157,30.2528385]
 n2995455503
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0255994,30.2551419]
 n2995455504
   other tags : power=tower
     geometry : [55.0265957,30.2567325]
 n2995455505
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0270208,30.2586560]
 n2995455506
   other tags : power=tower
     geometry : [55.0276302,30.2593850]
 n2995455507
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0281213,30.2613696]
 n2995455508
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0290513,30.2637006]
 n2995455509
   other tags : power=tower
     geometry : [55.0292853,30.2635197]
 n2995455510
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0310289,30.2685963]
 n2995455511
   other tags : power=tower
     geometry : [55.0310438,30.2678513]
 n2995455512
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0322239,30.2715661]
 n2995455513
   other tags : power=tower
     geometry : [55.0330781,30.2729321]
 n2995455514
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0332202,30.2740710]
 n2995455515
   other tags : power=tower
     geometry : [55.0342566,30.2758635]
 n2995455516
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0344404,30.2771321]
 n2995463123
   other tags : power=pole
@@ -10673,28 +10673,28 @@ n2995465170
   other tags : power=tower
     geometry : [55.0238383,30.3895833]
 n2995465171
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0239719,30.3875180]
 n2995465172
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0251325,30.3824723]
 n2995465173
   other tags : power=tower
     geometry : [55.0260362,30.3799738]
 n2995465174
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0262620,30.3775799]
 n2995465175
   other tags : power=tower
     geometry : [55.0268013,30.3765891]
 n2995465176
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0273165,30.3728679]
 n2995465177
   other tags : power=tower
     geometry : [55.0276580,30.3728086]
 n2995465178
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0284046,30.3680793]
 n2995465179
   other tags : power=tower
@@ -10703,16 +10703,16 @@ n2995465180
   other tags : power=tower
     geometry : [55.0291244,30.3663925]
 n2995465181
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0292057,30.3645982]
 n2995465182
   other tags : power=tower
     geometry : [55.0299798,30.3626348]
 n2995465183
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0301335,30.3604634]
 n2995465184
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0309890,30.3567389]
 n2995465185
   other tags : power=tower
@@ -10721,13 +10721,13 @@ n2995465186
   other tags : power=tower
     geometry : [55.0316635,30.3552489]
 n2995465187
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0320795,30.3520134]
 n2995465188
   other tags : power=tower
     geometry : [55.0326271,30.3509648]
 n2995465189
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0330331,30.3477162]
 n2995465190
   other tags : power=tower
@@ -10736,10 +10736,10 @@ n2995465191
   other tags : power=tower
     geometry : [55.0340450,30.3447474]
 n2995465192
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0341650,30.3428148]
 n2995465193
-  other tags : power=tower
+  other tags : design=h-frame | material=concrete | power=tower | structure=solid
     geometry : [55.0348084,30.3399876]
 n2995465194
   other tags : power=tower
@@ -11703,7 +11703,7 @@ w176278686
     geometry : n1868254121[55.0043000,30.3045150] n1868254403[55.0040644,30.3033510] n1868254402[55.0039724,30.3028961] n1868254119[55.0038029,30.3020586]
 w205755601
   other tags : cables=3 | circuits=1 | power=line | ref=Л-349 | voltage=330000 | wires=double
-    geometry : n3331096095[54.9285137,30.9965116] n3331096087[54.9296264,30.9921557] n3331096092[54.9306898,30.9879285] n3331096091[54.9317747,30.9836424] n3331096086[54.9328072,30.9795332] n3331096085[54.9339445,30.9749627] n3331096089[54.9350540,30.9706390] n3331096088[54.9360710,30.9665245] n3331096093[54.9372883,30.9617180] n3331096094[54.9381512,30.9579843] n3331096084[54.9404824,30.9534326] n3331096090[54.9424791,30.9494308] n3067837742[54.9442188,30.9459746] n3067837743[54.9567617,30.9210340] n3067837744[54.9586436,30.9172470] n3067837745[54.9605817,30.9134043] n3067837746[54.9683580,30.8978767] n3067837747[54.9701345,30.8942368] n3066534530[54.9724515,30.8896926] n3066567833[54.9741401,30.8848641] n3066567835[54.9756699,30.8805570] n3066567838[54.9770592,30.8766427] n3066567840[54.9784632,30.8725867] n3066567842[54.9800629,30.8680737] n3066567845[54.9814668,30.8640370] n3066567847[54.9828892,30.8599682] n3066560892[54.9842770,30.8560506] n3066560893[54.9850513,30.8538078] n3066560896[54.9865221,30.8495992] n3066560898[54.9879221,30.8456434] n3066560900[54.9893998,30.8413609] n3066560901[54.9910578,30.8366718] n3066560903[54.9922548,30.8332460] n3066560905[54.9940578,30.8281097] n3066560907[54.9960125,30.8225608] n3066560908[54.9961787,30.8166277] n3066560909[54.9963485,30.8114882] n3066560911[54.9964551,30.8080272] n3066560912[54.9965815,30.8039931] n3066560913[54.9967261,30.7991685] n3066560914[54.9968706,30.7941140] n3066560915[54.9969808,30.7905869] n3066560916[54.9971217,30.7859135] n3066560917[54.9972228,30.7823896] n3066560918[54.9974035,30.7771052] n3066560919[54.9975353,30.7725924] n3066560920[54.9976780,30.7680449] n3066560921[54.9978406,30.7622158] n3066560922[54.9979833,30.7573943] n3066560923[54.9981567,30.7521446] n3066560924[54.9982633,30.7481483] n3066560925[54.9984096,30.7436890] n3066560926[54.9985560,30.7385306] n3066573017[54.9987177,30.7338497] n3066573018[54.9988242,30.7295317] n3066573019[54.9989938,30.7246567] n3066573022[54.9991436,30.7196236] n3066573024[54.9992738,30.7147555] n3066556493[54.9993942,30.7097763] n3066556496[54.9998332,30.6948770] n3066556498[55.0001154,30.6854692] n3066556499[55.0002579,30.6804498] n3066556502[55.0004175,30.6753309] n3066556503[55.0005086,30.6704073] n3067837748[55.0009124,30.6573162] n3067837749[55.0010698,30.6520890] n3067837750[55.0011892,30.6470751] n3067837751[55.0013262,30.6429553] n3067837753[55.0014544,30.6374029] n3067837755[55.0015966,30.6335996] n3067837758[55.0017195,30.6291785] n3067837760[55.0018448,30.6245405] n3067837763[55.0019788,30.6198568] n3071471263[55.0025228,30.6022069] n3071471264[55.0026598,30.5973586] n3071471265[55.0028050,30.5924524] n3071471266[55.0029212,30.5871409] n3071471267[55.0030375,30.5821985] n3071471268[55.0031620,30.5771982] n3071471269[55.0032657,30.5725742] n3071471270[55.0035082,30.5670165] n3071471271[55.0043282,30.5583404] n3071471272[55.0047224,30.5541144] n3071471273[55.0050835,30.5498884] n3071471274[55.0055151,30.5453947] n3071471275[55.0060546,30.5393379] n3071471276[55.0064945,30.5347284] n3071471277[55.0131809,30.4625917] n3071471278[55.0136622,30.4576493] n3071471279[55.0145667,30.4478224] n2995465139[55.0149129,30.4442439] n2995465142[55.0153196,30.4398061] n2995465145[55.0157841,30.4345380] n2995465147[55.0161938,30.4301706] n2995465150[55.0167344,30.4245740] n2995465152[55.0171096,30.4204528] n2995465154[55.0175286,30.4157191] n2995465157[55.0185177,30.4114116] n2995465161[55.0198982,30.4054145] n2995465163[55.0208287,30.4012932] n2995465166[55.0217774,30.3971404] n2995465168[55.0225968,30.3935331] n2995465171[55.0239719,30.3875180] n2995465172[55.0251325,30.3824723] n2995465174[55.0262620,30.3775799] n2995465176[55.0273165,30.3728679] n2995465178[55.0284046,30.3680793] n2995465181[55.0292057,30.3645982] n2995465183[55.0301335,30.3604634] n2995465184[55.0309890,30.3567389] n2995465187[55.0320795,30.3520134] n2995465189[55.0330331,30.3477162] n2995465192[55.0341650,30.3428148] n2995465193[55.0348084,30.3399876] n2157320131[55.0358810,30.3352378] n2157320132[55.0370294,30.3301733] n2157320133[55.0380957,30.3255711] n2157320134[55.0391202,30.3210461] n2157320140[55.0402312,30.3162024] n2157320144[55.0412576,30.3116605] n2157320145[55.0422618,30.3072993] n2157320146[55.0431678,30.3034836] n2157320149[55.0449686,30.3014790] n3066078381[55.0454376,30.3013170]
+    geometry : n3331096095[54.9285137,30.9965116] n3331096087[54.9296264,30.9921557] n3331096092[54.9306898,30.9879285] n3331096091[54.9317747,30.9836424] n3331096086[54.9328072,30.9795332] n3331096085[54.9339445,30.9749627] n3331096089[54.9350540,30.9706390] n3331096088[54.9360710,30.9665245] n3331096093[54.9372883,30.9617180] n3331096094[54.9381512,30.9579843] n3331096084[54.9404824,30.9534326] n3331096090[54.9424791,30.9494308] n3067837742[54.9442188,30.9459746] n3067837743[54.9567617,30.9210340] n3067837744[54.9586436,30.9172470] n3067837745[54.9605817,30.9134043] n3067837746[54.9683580,30.8978767] n3067837747[54.9701345,30.8942368] n3066534530[54.9724515,30.8896926] n3066567833[54.9741401,30.8848641] n3066567835[54.9756699,30.8805570] n3066567838[54.9770592,30.8766427] n3066567840[54.9784632,30.8725867] n3066567842[54.9800629,30.8680737] n3066567845[54.9814668,30.8640370] n3066567847[54.9828892,30.8599682] n3066560892[54.9842770,30.8560506] n3066560893[54.9850513,30.8538078] n3066560896[54.9865221,30.8495992] n3066560898[54.9879221,30.8456434] n3066560900[54.9893998,30.8413609] n3066560901[54.9910578,30.8366718] n3066560903[54.9922548,30.8332460] n3066560905[54.9940578,30.8281097] n3066560907[54.9960125,30.8225608] n3066560908[54.9961787,30.8166277] n3066560909[54.9963485,30.8114882] n3066560911[54.9964551,30.8080272] n3066560912[54.9965815,30.8039931] n3066560913[54.9967261,30.7991685] n3066560914[54.9968706,30.7941140] n3066560915[54.9969808,30.7905869] n3066560916[54.9971217,30.7859135] n3066560917[54.9972228,30.7823896] n3066560918[54.9974035,30.7771052] n3066560919[54.9975353,30.7725924] n3066560920[54.9976780,30.7680449] n3066560921[54.9978406,30.7622158] n3066560922[54.9979833,30.7573943] n3066560923[54.9981567,30.7521446] n3066560924[54.9982633,30.7481483] n3066560925[54.9984096,30.7436890] n3066560926[54.9985560,30.7385306] n3066573017[54.9987177,30.7338497] n3066573018[54.9988242,30.7295317] n3066573019[54.9989938,30.7246567] n3066573022[54.9991436,30.7196236] n3066573024[54.9992738,30.7147555] n3066556493[54.9993942,30.7097763] n3066556496[54.9998332,30.6948770] n3066556498[55.0001154,30.6854692] n3066556499[55.0002579,30.6804498] n3066556502[55.0004175,30.6753309] n3066556503[55.0005086,30.6704073] n3067837748[55.0009124,30.6573162] n3067837749[55.0010698,30.6520890] n3067837750[55.0011892,30.6470751] n3067837751[55.0013262,30.6429553] n3067837753[55.0014544,30.6374029] n3067837755[55.0015966,30.6335996] n3067837758[55.0017195,30.6291785] n3067837760[55.0018448,30.6245405] n3067837763[55.0019788,30.6198568] n3071471263[55.0025228,30.6022069] n3071471264[55.0026598,30.5973586] n3071471265[55.0028050,30.5924524] n3071471266[55.0029212,30.5871409] n3071471267[55.0030375,30.5821985] n3071471268[55.0031620,30.5771982] n3071471269[55.0032657,30.5725742] n3071471270[55.0035082,30.5670165] n3071471271[55.0043282,30.5583404] n3071471272[55.0047224,30.5541144] n3071471273[55.0050835,30.5498884] n3071471274[55.0055151,30.5453947] n3071471275[55.0060546,30.5393379] n3071471276[55.0064945,30.5347284] n3071471277[55.0131809,30.4625917] n3071471278[55.0136622,30.4576493] n3071471279[55.0145667,30.4478224] n2995465139[55.0149036,30.4442035] n2995465142[55.0153289,30.4397657] n2995465145[55.0158026,30.4344734] n2995465147[55.0162077,30.4300737] n2995465150[55.0167251,30.4245336] n2995465152[55.0171003,30.4203963] n2995465154[55.0175286,30.4157191] n2995465157[55.0185177,30.4114116] n2995465161[55.0198949,30.4053736] n2995465163[55.0208287,30.4012932] n2995465166[55.0217774,30.3971404] n2995465168[55.0225968,30.3935331] n2995465171[55.0239719,30.3875180] n2995465172[55.0251325,30.3824723] n2995465174[55.0262620,30.3775799] n2995465176[55.0273165,30.3728679] n2995465178[55.0284046,30.3680793] n2995465181[55.0292057,30.3645982] n2995465183[55.0301335,30.3604634] n2995465184[55.0309890,30.3567389] n2995465187[55.0320795,30.3520134] n2995465189[55.0330331,30.3477162] n2995465192[55.0341650,30.3428148] n2995465193[55.0348084,30.3399876] n2157320131[55.0358810,30.3352378] n2157320132[55.0370294,30.3301733] n2157320133[55.0380957,30.3255711] n2157320134[55.0391202,30.3210461] n2157320140[55.0402312,30.3162024] n2157320144[55.0412576,30.3116605] n2157320145[55.0422562,30.3072503] n2157320146[55.0431341,30.3034444] n2157320149[55.0449911,30.3014300] n3066078381[55.0454376,30.3013170]
 w217303764
   other tags : power=line
     geometry : n2265792584[55.0903646,30.0750518] n2265792582[55.0881054,30.0735144] n2265792578[55.0856210,30.0718498] n2265792576[55.0833023,30.0702772] n2265792572[55.0811151,30.0687991] n2265792569[55.0791449,30.0674700] n2265792566[55.0768085,30.0658779] n2265792565[55.0748923,30.0645961] n2265792562[55.0721138,30.0627991] n2265792547[55.0677448,30.0598753] n2265792536[55.0634605,30.0570765]
@@ -11712,25 +11712,25 @@ w217303765
     geometry : n2265792587[55.0917397,30.0709627] n2265792586[55.0911150,30.0715839] n2265792585[55.0908514,30.0722786] n2265792583[55.0890818,30.0721311] n2265792581[55.0878176,30.0720691] n2265792580[55.0864209,30.0720292] n2265792579[55.0857217,30.0717705] n2265792577[55.0845133,30.0714087] n2265792575[55.0829390,30.0708940] n2265792574[55.0822520,30.0706798] n2265792573[55.0815593,30.0704707] n2265792571[55.0801614,30.0700312] n2265792570[55.0794316,30.0698171] n2265792568[55.0787246,30.0695482] n2265792567[55.0781003,30.0693988]
 w295338261
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n1796979148[55.1468433,30.2364928] n2751866932[55.1443672,30.2364395] n2751866926[55.1421207,30.2375010] n2765923622[55.1378992,30.2395266] n2765923616[55.1355693,30.2406222] n2765923612[55.1334454,30.2416302] n2765923606[55.1314897,30.2425595] n2765923597[55.1292317,30.2431144] n2765923589[55.1270209,30.2436520] n2765923584[55.1250176,30.2441377] n2990529136[55.1229437,30.2446550] n2765923577[55.1203821,30.2452741] n2765923574[55.1180306,30.2458399] n2990529133[55.1155320,30.2464568] n2805320023[55.1137795,30.2468815] n2805320019[55.1110568,30.2475465] n2805320013[55.1093719,30.2479657] n2805320009[55.1072931,30.2484799] n2805317971[55.1043975,30.2491761] n2990607601[55.1018847,30.2497923] n2805317967[55.0999133,30.2502762] n2990607599[55.0983144,30.2531835] n2990607596[55.0969167,30.2557249] n2990607591[55.0951554,30.2589273] n2990607587[55.0939013,30.2611698] n2990607583[55.0922658,30.2641350] n2990607581[55.0910844,30.2663065] n2990607576[55.0892791,30.2695467] n2990607574[55.0879542,30.2719624] n2990607570[55.0863625,30.2748554] n2990607565[55.0842711,30.2786283] n2990607560[55.0826271,30.2816046] n2990607556[55.0808119,30.2849002] n2990607551[55.0793164,30.2876090] n2990607547[55.0779189,30.2901411] n2990607545[55.0767533,30.2922499] n2990607539[55.0755842,30.2943573] n2990607537[55.0743826,30.2965210] n2990605630[55.0716721,30.2970823] n2990605625[55.0690049,30.2976165] n2990605620[55.0666278,30.2980964] n2990605616[55.0641481,30.2985872] n2990635278[55.0596605,30.2994854] n2990635274[55.0576289,30.2998977] n2990635271[55.0558150,30.3002621] n2990635266[55.0536342,30.3007105] n2990635261[55.0513500,30.3011428] n2990635254[55.0492744,30.3015592] n2990635247[55.0482259,30.3017953] n3071474387[55.0477836,30.3017531]
+    geometry : n1796979148[55.1468433,30.2364928] n2751866932[55.1443672,30.2364395] n2751866926[55.1421207,30.2375010] n2765923622[55.1378992,30.2395266] n2765923616[55.1355693,30.2406222] n2765923612[55.1334454,30.2416302] n2765923606[55.1314897,30.2425595] n2765923597[55.1292317,30.2431144] n2765923589[55.1270209,30.2436520] n2765923584[55.1250176,30.2441377] n2990529136[55.1229437,30.2446550] n2765923577[55.1203821,30.2452741] n2765923574[55.1180306,30.2458399] n2990529133[55.1155320,30.2464568] n2805320023[55.1137795,30.2468815] n2805320019[55.1110568,30.2475465] n2805320013[55.1093719,30.2479657] n2805320009[55.1072931,30.2484799] n2805317971[55.1043975,30.2491761] n2990607601[55.1018847,30.2497923] n2805317967[55.0999133,30.2502762] n2990607599[55.0983144,30.2531835] n2990607596[55.0969167,30.2557249] n2990607591[55.0951554,30.2589273] n2990607587[55.0939013,30.2611698] n2990607583[55.0922658,30.2641350] n2990607581[55.0910844,30.2663065] n2990607576[55.0892791,30.2695467] n2990607574[55.0879542,30.2719624] n2990607570[55.0863625,30.2748554] n2990607565[55.0842711,30.2786283] n2990607560[55.0826271,30.2816046] n2990607556[55.0808119,30.2849002] n2990607551[55.0793164,30.2876090] n2990607547[55.0779189,30.2901411] n2990607545[55.0767533,30.2922499] n2990607539[55.0755842,30.2943573] n2990607537[55.0743826,30.2965210] n2990605630[55.0716721,30.2970823] n2990605625[55.0690049,30.2976165] n2990605620[55.0666278,30.2980964] n2990605616[55.0641481,30.2985872] n2990635278[55.0596605,30.2994854] n2990635274[55.0576289,30.2998977] n2990635271[55.0558150,30.3002621] n2990635266[55.0536342,30.3007105] n2990635261[55.0513500,30.3011428] n2990635254[55.0492744,30.3015592] n2990635247[55.0482359,30.3017486] n3071474387[55.0477836,30.3017531]
 w295338263
   other tags : cables=6 | circuits=2 | power=line | voltage=110000
-    geometry : n2751866931[55.1442441,30.2360010] n2751866927[55.1429252,30.2366472] n2765923625[55.1411934,30.2374797] n2990514617[55.1394169,30.2383465] n2765923621[55.1373617,30.2393232] n2765923615[55.1354911,30.2402120] n2765923611[55.1332262,30.2412934] n2765923604[55.1314466,30.2421398] n2765923598[55.1292748,30.2426806] n2765923591[55.1270964,30.2432087] n2765923585[55.1253520,30.2436331] n2765923580[55.1230838,30.2442149] n2765923578[55.1220275,30.2444583] n2765923576[55.1192198,30.2451420] n2805320027[55.1170301,30.2456708] n2805320024[55.1145691,30.2462876] n2805320020[55.1121421,30.2468899] n2805320017[55.1107169,30.2472379] n2805320011[55.1090875,30.2476365] n2805320007[55.1066600,30.2482256] n2805317972[55.1044005,30.2487880] n2805317968[55.1023451,30.2492885] n2805317966[55.0998455,30.2498979] n2990607594[55.0967422,30.2555246] n2990607590[55.0951308,30.2584460] n2990607586[55.0937046,30.2610295] n2990607582[55.0922555,30.2636264] n2990607580[55.0908092,30.2662483] n2990607575[55.0881892,30.2709965] n2990607571[55.0869834,30.2731681] n2990607567[55.0852749,30.2762849] n2990607563[55.0840408,30.2785136] n2990607557[55.0815791,30.2829572] n2990607554[55.0801876,30.2854763] n2990607550[55.0786296,30.2882941] n2990607546[55.0775844,30.2901926] n2990607543[55.0766983,30.2918054] n2990607540[55.0756838,30.2936314] n2990607536[55.0743271,30.2960587] n2990605631[55.0722489,30.2965013] n2990605627[55.0700723,30.2969351] n2990605623[55.0681564,30.2973228] n2990605619[55.0662544,30.2976997] n2990635286[55.0643808,30.2980885] n2990635282[55.0623095,30.2984816] n2990635279[55.0602276,30.2989100] n2990635277[55.0584872,30.2992463] n2990635272[55.0563684,30.2996787] n2990635269[55.0545775,30.3000430] n2990635263[55.0526121,30.3004273] n2990635258[55.0503554,30.3009038] n2990635253[55.0492362,30.3011200] n2990635246[55.0481887,30.3013301]
+    geometry : n2751866931[55.1442441,30.2360010] n2751866927[55.1429252,30.2366472] n2765923625[55.1411934,30.2374797] n2990514617[55.1394169,30.2383465] n2765923621[55.1373617,30.2393232] n2765923615[55.1354911,30.2402120] n2765923611[55.1332262,30.2412934] n2765923604[55.1314466,30.2421398] n2765923598[55.1292748,30.2426806] n2765923591[55.1270964,30.2432087] n2765923585[55.1253520,30.2436331] n2765923580[55.1230838,30.2442149] n2765923578[55.1220275,30.2444583] n2765923576[55.1192198,30.2451420] n2805320027[55.1170301,30.2456708] n2805320024[55.1145691,30.2462876] n2805320020[55.1121421,30.2468899] n2805320017[55.1107169,30.2472379] n2805320011[55.1090875,30.2476365] n2805320007[55.1066600,30.2482256] n2805317972[55.1044005,30.2487880] n2805317968[55.1023451,30.2492885] n2805317966[55.0998455,30.2498979] n2990607594[55.0967422,30.2555246] n2990607590[55.0951308,30.2584460] n2990607586[55.0937046,30.2610295] n2990607582[55.0922555,30.2636264] n2990607580[55.0908092,30.2662483] n2990607575[55.0881892,30.2709965] n2990607571[55.0869834,30.2731681] n2990607567[55.0852749,30.2762849] n2990607563[55.0840408,30.2785136] n2990607557[55.0815791,30.2829572] n2990607554[55.0801876,30.2854763] n2990607550[55.0786296,30.2882941] n2990607546[55.0775844,30.2901926] n2990607543[55.0766983,30.2918054] n2990607540[55.0756838,30.2936314] n2990607536[55.0743271,30.2960587] n2990605631[55.0722489,30.2965013] n2990605627[55.0700723,30.2969351] n2990605623[55.0681564,30.2973228] n2990605619[55.0662544,30.2976997] n2990635286[55.0643808,30.2980885] n2990635282[55.0623095,30.2984816] n2990635279[55.0602276,30.2989100] n2990635277[55.0584872,30.2992463] n2990635272[55.0563684,30.2996787] n2990635269[55.0545775,30.3000430] n2990635263[55.0526121,30.3004273] n2990635258[55.0503554,30.3009038] n2990635253[55.0492362,30.3011200] n2990635246[55.0482021,30.3012776]
 w295351109
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2995470762[54.9609192,30.3377852] n2995470763[54.9633072,30.3365786] n2995470764[54.9652246,30.3356485] n2995470765[54.9670849,30.3336533] n2995470766[54.9689530,30.3316164] n2995470767[54.9696620,30.3308434] n2995470768[54.9707483,30.3296585] n2995470769[54.9715730,30.3287634] n2995470770[54.9721891,30.3295379] n2995470771[54.9748820,30.3329163] n2995470772[54.9759555,30.3342206] n2995470773[54.9781372,30.3338618] n2995470774[54.9826145,30.3331131] n2995470775[54.9863720,30.3324972] n2995469971[54.9887178,30.3321282] n2995469972[54.9908666,30.3317819] n2995469973[54.9924563,30.3315170] n2995469974[54.9948621,30.3311184] n2995469975[54.9960321,30.3309276] n2995469976[54.9980607,30.3305968] n2995469983[55.0008344,30.3301358] n2995469984[55.0030674,30.3297613] n2995469985[55.0051460,30.3294123] n2995469986[55.0082767,30.3288941] n2995469987[55.0089860,30.3282104] n2995469988[55.0112325,30.3260555] n2995469989[55.0131633,30.3241883] n2995469990[55.0151633,30.3222721] n2995469991[55.0172763,30.3202077] n2990634800[55.0249768,30.3127557] n2990634801[55.0301168,30.3077964] n2990634802[55.0322601,30.3057159] n2990634803[55.0341359,30.3039015] n2990634806[55.0361635,30.3019278] n2990634808[55.0367830,30.3011652] n2990634815[55.0388298,30.3005780] n2990634829[55.0434308,30.2993790] n2990634831[55.0438995,30.2992972] n2990635233[55.0447574,30.2991008] n2990635238[55.0463886,30.2987817] n2990635241[55.0480057,30.2984627] n2990635242[55.0480926,30.2999017] n3071474383[55.0476602,30.2999358]
+    geometry : n2995470762[54.9609192,30.3377852] n2995470763[54.9633072,30.3365786] n2995470764[54.9652246,30.3356485] n2995470765[54.9670849,30.3336533] n2995470766[54.9689530,30.3316164] n2995470767[54.9696620,30.3308434] n2995470768[54.9707483,30.3296585] n2995470769[54.9715730,30.3287634] n2995470770[54.9721891,30.3295379] n2995470771[54.9748820,30.3329163] n2995470772[54.9759555,30.3342206] n2995470773[54.9781372,30.3338618] n2995470774[54.9826145,30.3331131] n2995470775[54.9863720,30.3324972] n2995469971[54.9887178,30.3321282] n2995469972[54.9908666,30.3317819] n2995469973[54.9924563,30.3315170] n2995469974[54.9948621,30.3311184] n2995469975[54.9960321,30.3309276] n2995469976[54.9980607,30.3305968] n2995469983[55.0008344,30.3301358] n2995469984[55.0030674,30.3297613] n2995469985[55.0051460,30.3294123] n2995469986[55.0082767,30.3288941] n2995469987[55.0089860,30.3282104] n2995469988[55.0112325,30.3260555] n2995469989[55.0131633,30.3241883] n2995469990[55.0151633,30.3222721] n2995469991[55.0172763,30.3202077] n2990634800[55.0249768,30.3127557] n2990634801[55.0301168,30.3077964] n2990634802[55.0322601,30.3057159] n2990634803[55.0341359,30.3039015] n2990634806[55.0361635,30.3019278] n2990634808[55.0368031,30.3011185] n2990634815[55.0388298,30.3005255] n2990634829[55.0434308,30.2993323] n2990634831[55.0438995,30.2992972] n2990635233[55.0447574,30.2991008] n2990635238[55.0463886,30.2987817] n2990635241[55.0480057,30.2984627] n2990635242[55.0481093,30.2998667] n3071474383[55.0476602,30.2999358]
 w295351110
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2995465141[55.0151539,30.4453109] n2995465143[55.0153789,30.4427297] n2995465144[55.0157597,30.4387095] n2995465146[55.0161059,30.4350263] n2995465148[55.0163222,30.4326665] n2995465149[55.0166598,30.4289029] n2995465153[55.0172490,30.4225554] n2995465155[55.0175989,30.4188340] n2995465156[55.0178924,30.4155556] n2995465159[55.0185387,30.4127695] n2995465160[55.0193035,30.4092844] n2995465162[55.0201670,30.4056369] n2995465164[55.0209261,30.4022749] n2995465165[55.0215921,30.3993312] n2995465167[55.0222947,30.3963187] n2995465169[55.0228309,30.3940002] n2995465170[55.0238383,30.3895833] n2995465173[55.0260362,30.3799738] n2995465175[55.0268013,30.3765891] n2995465177[55.0276580,30.3728086] n2995465179[55.0284256,30.3693907] n2995465180[55.0291244,30.3663925] n2995465182[55.0299798,30.3626348] n2995465185[55.0310517,30.3579689] n2995465186[55.0316635,30.3552489] n2995465188[55.0326271,30.3509648] n2995465190[55.0333653,30.3477062] n2995465191[55.0340450,30.3447474] n2995465194[55.0348673,30.3411253] n2995465195[55.0353423,30.3390274] n2995465196[55.0360257,30.3360303] n2990634809[55.0368683,30.3324158] n2990634811[55.0376176,30.3291079] n2990634814[55.0384009,30.3256224] n2990634816[55.0392207,30.3220867] n2990634818[55.0397716,30.3196855] n2990634820[55.0403747,30.3169335] n2990634822[55.0411875,30.3134289] n2990634825[55.0419427,30.3101384] n2990634826[55.0425778,30.3073367] n2990634832[55.0440955,30.3070269] n2990635237[55.0458582,30.3066429] n2990635240[55.0478609,30.3062217] n2990635249[55.0484475,30.3049310] n2990635247[55.0482259,30.3017953] n3213753827[55.0477913,30.3018977]
+    geometry : n2995465141[55.0151539,30.4453109] n2995465143[55.0153789,30.4427297] n2995465144[55.0157597,30.4387095] n2995465146[55.0161059,30.4350263] n2995465148[55.0163222,30.4326665] n2995465149[55.0166598,30.4289029] n2995465153[55.0172490,30.4225554] n2995465155[55.0175989,30.4188340] n2995465156[55.0178924,30.4155556] n2995465159[55.0185387,30.4127695] n2995465160[55.0193035,30.4092844] n2995465162[55.0201670,30.4056369] n2995465164[55.0209261,30.4022749] n2995465165[55.0215921,30.3993312] n2995465167[55.0222947,30.3963187] n2995465169[55.0228309,30.3940002] n2995465170[55.0238383,30.3895833] n2995465173[55.0260362,30.3799738] n2995465175[55.0268013,30.3765891] n2995465177[55.0276580,30.3728086] n2995465179[55.0284256,30.3693907] n2995465180[55.0291244,30.3663925] n2995465182[55.0299798,30.3626348] n2995465185[55.0310517,30.3579689] n2995465186[55.0316635,30.3552489] n2995465188[55.0326271,30.3509648] n2995465190[55.0333653,30.3477062] n2995465191[55.0340450,30.3447474] n2995465194[55.0348673,30.3411253] n2995465195[55.0353423,30.3390274] n2995465196[55.0360257,30.3360303] n2990634809[55.0368683,30.3324158] n2990634811[55.0376176,30.3291079] n2990634814[55.0384009,30.3256224] n2990634816[55.0392207,30.3220867] n2990634818[55.0397716,30.3196855] n2990634820[55.0403747,30.3169335] n2990634822[55.0411875,30.3134289] n2990634825[55.0419427,30.3101384] n2990634826[55.0425778,30.3073367] n2990634832[55.0440955,30.3070269] n2990635237[55.0458582,30.3066429] n2990635240[55.0478609,30.3062217] n2990635249[55.0484475,30.3049310] n2990635247[55.0482359,30.3017486] n3213753827[55.0477913,30.3018977]
 w295351111
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n3213753823[55.0476681,30.3000797] n2990635242[55.0480926,30.2999017] n2990635248[55.0483234,30.2995874] n2990635243[55.0481580,30.2978181] n2990635239[55.0468249,30.2981181] n2990635236[55.0454268,30.2984041] n2990634830[55.0436021,30.2988004] n2990634828[55.0431803,30.2981040] n2990634824[55.0417595,30.2945996] n2990634821[55.0408183,30.2922675] n2990634817[55.0394821,30.2889318] n2990634812[55.0380651,30.2853784] n2990634807[55.0367434,30.2821324] n2990634804[55.0353826,30.2786943] n2995455515[55.0342566,30.2758635] n2995455513[55.0330781,30.2729321] n2995455511[55.0310438,30.2678513] n2995455509[55.0292853,30.2635197] n2995455506[55.0276302,30.2593850] n2995455504[55.0265957,30.2567325] n2995455502[55.0250157,30.2528385] n2995455499[55.0223665,30.2461662] n2995455497[55.0210967,30.2429831] n2995455495[55.0198802,30.2399806] n2995455491[55.0188361,30.2373554] n2995455486[55.0171116,30.2330567] n2995455483[55.0156346,30.2294471] n2995455480[55.0138756,30.2250325] n2995455476[55.0118424,30.2198778] n2995455470[55.0092652,30.2135372] n2995455466[55.0081476,30.2107939] n2995455464[55.0069053,30.2077817] n2995455461[55.0061210,30.2057815] n2995455459[55.0046859,30.2021487] n2995455457[55.0037020,30.1997018] n2995455455[55.0033030,30.1960769] n2995455452[55.0027770,30.1914282] n2995455450[55.0024437,30.1885860] n2995455447[55.0019223,30.1841389] n2995455446[55.0015572,30.1811623] n2995455444[55.0012013,30.1777034] n2995455442[55.0006005,30.1728413] n2995455440[55.0001152,30.1687302] n2995455453[55.0029625,30.1608793] n2995455458[55.0043528,30.1569681] n2995455462[55.0061364,30.1567244] n2995455467[55.0082516,30.1564394] n2995455471[55.0098361,30.1562246] n2995455475[55.0117710,30.1559603] n2995465140[55.0151412,30.1554888] n2995465151[55.0169294,30.1552330] n2995465158[55.0185303,30.1550036]
+    geometry : n3213753823[55.0476681,30.3000797] n2990635242[55.0481093,30.2998667] n2990635248[55.0483234,30.2995874] n2990635243[55.0481580,30.2978181] n2990635239[55.0468249,30.2981181] n2990635236[55.0454268,30.2984041] n2990634830[55.0436021,30.2988004] n2990634828[55.0431803,30.2981040] n2990634824[55.0417562,30.2945412] n2990634821[55.0408183,30.2922675] n2990634817[55.0394821,30.2889318] n2990634812[55.0380651,30.2853784] n2990634807[55.0367434,30.2821324] n2990634804[55.0353826,30.2786943] n2995455515[55.0342566,30.2758635] n2995455513[55.0330781,30.2729321] n2995455511[55.0310438,30.2678513] n2995455509[55.0292853,30.2635197] n2995455506[55.0276302,30.2593850] n2995455504[55.0265957,30.2567325] n2995455502[55.0250157,30.2528385] n2995455499[55.0223665,30.2461662] n2995455497[55.0210967,30.2429831] n2995455495[55.0198802,30.2399806] n2995455491[55.0188361,30.2373554] n2995455486[55.0171116,30.2330567] n2995455483[55.0156346,30.2294471] n2995455480[55.0138756,30.2250325] n2995455476[55.0118424,30.2198778] n2995455470[55.0092652,30.2135372] n2995455466[55.0081476,30.2107939] n2995455464[55.0069053,30.2077817] n2995455461[55.0061210,30.2057815] n2995455459[55.0046859,30.2021487] n2995455457[55.0037020,30.1997018] n2995455455[55.0033030,30.1960769] n2995455452[55.0027770,30.1914282] n2995455450[55.0024437,30.1885860] n2995455447[55.0019223,30.1841389] n2995455446[55.0015572,30.1811623] n2995455444[55.0012013,30.1777034] n2995455442[55.0006005,30.1728413] n2995455440[55.0001152,30.1687302] n2995455453[55.0029625,30.1608793] n2995455458[55.0043528,30.1569681] n2995455462[55.0061364,30.1567244] n2995455467[55.0082516,30.1564394] n2995455471[55.0098361,30.1562246] n2995455475[55.0117710,30.1559603] n2995465140[55.0151412,30.1554888] n2995465151[55.0169294,30.1552330] n2995465158[55.0185303,30.1550036]
 w295351113
   other tags : power=minor_line
     geometry : n2990635252[55.0491322,30.2978878] n2990635256[55.0497699,30.2977171] n2990635259[55.0504208,30.2975429] n2990635260[55.0510394,30.2973773] n2990635265[55.0531086,30.2968234]
 w295351114
   other tags : cables=3 | circuits=1 | power=line | voltage=330000
-    geometry : n3066078380[55.0454147,30.3009592] n2990635234[55.0449522,30.3009750] n2990634827[55.0429899,30.2985016] n2990634823[55.0415386,30.2948734] n2990634819[55.0400201,30.2910738] n2990634813[55.0383603,30.2868855] n2990634810[55.0369327,30.2833744] n2990634805[55.0356272,30.2801099] n2995455516[55.0344404,30.2771321] n2995455514[55.0332202,30.2740710] n2995455512[55.0322239,30.2715661] n2995455510[55.0310289,30.2685963] n2995455508[55.0290513,30.2637006] n2995455507[55.0281213,30.2613696] n2995455505[55.0270208,30.2586560] n2995455503[55.0255994,30.2551419] n2995455501[55.0242795,30.2518119] n2995455500[55.0230408,30.2486803] n2995455498[55.0217438,30.2454763] n2995455496[55.0201869,30.2415946] n2995455492[55.0190120,30.2386543] n2995455487[55.0175131,30.2349609] n2995455484[55.0162924,30.2319338] n2995455482[55.0150260,30.2287401] n2995455479[55.0138343,30.2256912] n2995455477[55.0127795,30.2231348] n2995455474[55.0114092,30.2197093] n2995455472[55.0098768,30.2159290] n2995455469[55.0086434,30.2128149] n2995455465[55.0073851,30.2097371] n2995455463[55.0063634,30.2070865] n2995455460[55.0048350,30.2032555] n2995455456[55.0034773,30.1999552] n2995455454[55.0031090,30.1965470] n2995455451[55.0026334,30.1925930] n2995455449[55.0022682,30.1895592] n2995455448[55.0019276,30.1866111] n2995455445[55.0013721,30.1817850] n2995455443[55.0009324,30.1779452] n2995455441[55.0003816,30.1733619] n2995455439[54.9998448,30.1686283] n2995455438[54.9993435,30.1641037] n2995455437[54.9987845,30.1596254] n2995455436[54.9983186,30.1555106] n2995455435[54.9978395,30.1514191] n2995455434[54.9973648,30.1473352] n2995455433[54.9968546,30.1431045] n2995455432[54.9963310,30.1387499] n2995455431[54.9959184,30.1351920] n2995455430[54.9955058,30.1313171] n2995455429[54.9951464,30.1282929] n2995455428[54.9946761,30.1243251] n2995455427[54.9943542,30.1216628] n3090121888[54.9938576,30.1177114] n3090121886[54.9933800,30.1135667] n3090121884[54.9929058,30.1094642] n2995471446[54.9925362,30.1061492] n3090121882[54.9919217,30.1011822] n2995471444[54.9915456,30.0974403] n2995471442[54.9909669,30.0928125] n2995471440[54.9905074,30.0887534] n2995471438[54.9899968,30.0836362] n2995471437[54.9895572,30.0802494] n2995485360[54.9886095,30.0723358] n2995485358[54.9881768,30.0685802] n2995485356[54.9871690,30.0649177] n2995485354[54.9861583,30.0610485] n2995485351[54.9854885,30.0584966] n2995485349[54.9845133,30.0548443] n2995485347[54.9835707,30.0512954] n2995485344[54.9828533,30.0485937] n2995485342[54.9819611,30.0453444] n2995485339[54.9810658,30.0419815] n2995485337[54.9801350,30.0384894] n2995485335[54.9791982,30.0349302] n2995455632[54.9782496,30.0313244] n2995455630[54.9774551,30.0284264] n2995455629[54.9765271,30.0249447] n2995455628[54.9755991,30.0213751] n2995455627[54.9746445,30.0178572] n2995455626[54.9737254,30.0142876] n2995455624[54.9726728,30.0104184] n2995455619[54.9717833,30.0071846] n2995455616[54.9699805,30.0003089] n2995455614[54.9691621,29.9972508] n2995455613[54.9685423,29.9948487] n2995455612[54.9673977,29.9907935] n2995455611[54.9661048,29.9858653] n2995455608[54.9651188,29.9821728] n3071482577[54.9640765,29.9785665] n3071482576[54.9631062,29.9747012] n3071482575[54.9621185,29.9710935] n3071482574[54.9610350,29.9669175] n3071482573[54.9599819,29.9632492] n3071482572[54.9589593,29.9595809] n3071482571[54.9577234,29.9547303] n3071482570[54.9561872,29.9490157] n3071482569[54.9553125,29.9458476] n3071482568[54.9543768,29.9424294] n3071482567[54.9529101,29.9366693] n3071482566[54.9519004,29.9328192] n3071482565[54.9508906,29.9292722] n3071482564[54.9500636,29.9259677] n3071482563[54.9490059,29.9219963] n3071482562[54.9478176,29.9175776] n3071482561[54.9465683,29.9129393] n3071482560[54.9456237,29.9094908] n3071482559[54.9444919,29.9052389] n3071482558[54.9436387,29.9020936] n3071482557[54.9427071,29.8985769] n3071482556[54.9418103,29.8953103] n3071482555[54.9410789,29.8926197] n3071482554[54.9402734,29.8896108] n3071482553[54.9392808,29.8858744] n3071482552[54.9384492,29.8828048] n3071482551[54.9378092,29.8804705] n3071482550[54.9367207,29.8764460] n3071482549[54.9357541,29.8728383] n3071482548[54.9336205,29.8698977] n3071482547[54.9317525,29.8673966] n3071482546[54.9293704,29.8641830] n3071482545[54.9274630,29.8616819] n3071482544[54.9257296,29.8593173] n3071482543[54.9240746,29.8569905] n3071482542[54.9222105,29.8545728] n3071482541[54.9207644,29.8525643] n3071482540[54.9188260,29.8499116] n3071482539[54.9169965,29.8474333] n3071482538[54.9152104,29.8450004] n3071482537[54.9132020,29.8423250] n3071482536[54.9113112,29.8398087] n3071482535[54.9095031,29.8373076] n3071482534[54.9078692,29.8351476] n3071482533[54.9059433,29.8325934] n3071481332[54.9045231,29.8284504] n3071481331[54.9009756,29.8181022] n3071483836[54.8998065,29.8147392] n3071483834[54.8987650,29.8117166] n3071483833[54.8977665,29.8088012] n3071479932[54.8966077,29.8055428] n3071479931[54.8952855,29.8017559] n3071479930[54.8940774,29.7982724] n3071479929[54.8927397,29.7943388] n3071479928[54.8915562,29.7910589] n3071479927[54.8903171,29.7874254] n3071479926[54.8890595,29.7836954] n3071479925[54.8880608,29.7808871] n3071479924[54.8868463,29.7773393] n3071479923[54.8854221,29.7732449] n3071479922[54.8842383,29.7699222] n3071479921[54.8829620,29.7661815] n3071479920[54.8817227,29.7626872] n3071479919[54.8805758,29.7592359] n3071479918[54.8793796,29.7557524] n3071479917[54.8781524,29.7522689] n3071479916[54.8768883,29.7486461] n3071479915[54.8757721,29.7453770] n3071479914[54.8744339,29.7414219] n3071479913[54.8730648,29.7376490] n3071479912[54.8723123,29.7353445] n3071479911[54.8714674,29.7329650] n3071479910[54.8703511,29.7297602] n3071479909[54.8689633,29.7256979]
+    geometry : n3066078380[55.0454147,30.3009592] n2990635234[55.0449662,30.3009407] n2990634827[55.0429899,30.2984330] n2990634823[55.0415587,30.2948033] n2990634819[55.0400485,30.2910243] n2990634813[55.0383603,30.2868855] n2990634810[55.0369327,30.2833744] n2990634805[55.0356272,30.2801099] n2995455516[55.0344404,30.2771321] n2995455514[55.0332202,30.2740710] n2995455512[55.0322239,30.2715661] n2995455510[55.0310289,30.2685963] n2995455508[55.0290513,30.2637006] n2995455507[55.0281213,30.2613696] n2995455505[55.0270208,30.2586560] n2995455503[55.0255994,30.2551419] n2995455501[55.0242795,30.2518119] n2995455500[55.0230408,30.2486803] n2995455498[55.0217438,30.2454763] n2995455496[55.0201869,30.2415946] n2995455492[55.0190120,30.2386543] n2995455487[55.0175131,30.2349609] n2995455484[55.0162924,30.2319338] n2995455482[55.0150260,30.2287401] n2995455479[55.0138343,30.2256912] n2995455477[55.0127795,30.2231348] n2995455474[55.0114092,30.2197093] n2995455472[55.0098768,30.2159290] n2995455469[55.0086434,30.2128149] n2995455465[55.0073851,30.2097371] n2995455463[55.0063634,30.2070865] n2995455460[55.0048350,30.2032555] n2995455456[55.0034740,30.1999027] n2995455454[55.0031090,30.1965470] n2995455451[55.0026334,30.1925930] n2995455449[55.0022682,30.1895592] n2995455448[55.0019276,30.1866111] n2995455445[55.0013721,30.1817850] n2995455443[55.0009324,30.1779452] n2995455441[55.0003816,30.1733619] n2995455439[54.9998448,30.1686283] n2995455438[54.9993435,30.1641037] n2995455437[54.9987845,30.1596254] n2995455436[54.9983186,30.1555106] n2995455435[54.9978395,30.1514191] n2995455434[54.9973648,30.1473352] n2995455433[54.9968546,30.1431045] n2995455432[54.9963310,30.1387499] n2995455431[54.9959184,30.1351920] n2995455430[54.9955058,30.1313171] n2995455429[54.9951464,30.1282929] n2995455428[54.9946761,30.1243251] n2995455427[54.9943542,30.1216628] n3090121888[54.9938576,30.1177114] n3090121886[54.9933800,30.1135667] n3090121884[54.9929058,30.1094642] n2995471446[54.9925362,30.1061492] n3090121882[54.9919217,30.1011822] n2995471444[54.9915456,30.0974403] n2995471442[54.9909669,30.0928125] n2995471440[54.9905074,30.0887534] n2995471438[54.9899968,30.0836362] n2995471437[54.9895572,30.0802494] n2995485360[54.9886095,30.0723358] n2995485358[54.9881768,30.0685802] n2995485356[54.9871690,30.0649177] n2995485354[54.9861583,30.0610485] n2995485351[54.9854885,30.0584966] n2995485349[54.9845133,30.0548443] n2995485347[54.9835707,30.0512954] n2995485344[54.9828533,30.0485937] n2995485342[54.9819611,30.0453444] n2995485339[54.9810658,30.0419815] n2995485337[54.9801350,30.0384894] n2995485335[54.9791982,30.0349302] n2995455632[54.9782496,30.0313244] n2995455630[54.9774551,30.0284264] n2995455629[54.9765271,30.0249447] n2995455628[54.9755991,30.0213751] n2995455627[54.9746445,30.0178572] n2995455626[54.9737254,30.0142876] n2995455624[54.9726728,30.0104184] n2995455619[54.9717833,30.0071846] n2995455616[54.9699805,30.0003089] n2995455614[54.9691621,29.9972508] n2995455613[54.9685423,29.9948487] n2995455612[54.9673977,29.9907935] n2995455611[54.9661048,29.9858653] n2995455608[54.9651188,29.9821728] n3071482577[54.9640765,29.9785665] n3071482576[54.9631062,29.9747012] n3071482575[54.9621185,29.9710935] n3071482574[54.9610350,29.9669175] n3071482573[54.9599819,29.9632492] n3071482572[54.9589593,29.9595809] n3071482571[54.9577234,29.9547303] n3071482570[54.9561872,29.9490157] n3071482569[54.9553125,29.9458476] n3071482568[54.9543768,29.9424294] n3071482567[54.9529101,29.9366693] n3071482566[54.9519004,29.9328192] n3071482565[54.9508906,29.9292722] n3071482564[54.9500636,29.9259677] n3071482563[54.9490059,29.9219963] n3071482562[54.9478176,29.9175776] n3071482561[54.9465683,29.9129393] n3071482560[54.9456237,29.9094908] n3071482559[54.9444919,29.9052389] n3071482558[54.9436387,29.9020936] n3071482557[54.9427071,29.8985769] n3071482556[54.9418103,29.8953103] n3071482555[54.9410789,29.8926197] n3071482554[54.9402734,29.8896108] n3071482553[54.9392808,29.8858744] n3071482552[54.9384492,29.8828048] n3071482551[54.9378092,29.8804705] n3071482550[54.9367207,29.8764460] n3071482549[54.9357541,29.8728383] n3071482548[54.9336205,29.8698977] n3071482547[54.9317525,29.8673966] n3071482546[54.9293704,29.8641830] n3071482545[54.9274630,29.8616819] n3071482544[54.9257296,29.8593173] n3071482543[54.9240746,29.8569905] n3071482542[54.9222105,29.8545728] n3071482541[54.9207644,29.8525643] n3071482540[54.9188260,29.8499116] n3071482539[54.9169965,29.8474333] n3071482538[54.9152104,29.8450004] n3071482537[54.9132020,29.8423250] n3071482536[54.9113112,29.8398087] n3071482535[54.9095031,29.8373076] n3071482534[54.9078692,29.8351476] n3071482533[54.9059433,29.8325934] n3071481332[54.9045231,29.8284504] n3071481331[54.9009756,29.8181022] n3071483836[54.8998065,29.8147392] n3071483834[54.8987650,29.8117166] n3071483833[54.8977665,29.8088012] n3071479932[54.8966077,29.8055428] n3071479931[54.8952855,29.8017559] n3071479930[54.8940774,29.7982724] n3071479929[54.8927397,29.7943388] n3071479928[54.8915562,29.7910589] n3071479927[54.8903171,29.7874254] n3071479926[54.8890595,29.7836954] n3071479925[54.8880608,29.7808871] n3071479924[54.8868463,29.7773393] n3071479923[54.8854221,29.7732449] n3071479922[54.8842383,29.7699222] n3071479921[54.8829620,29.7661815] n3071479920[54.8817227,29.7626872] n3071479919[54.8805758,29.7592359] n3071479918[54.8793796,29.7557524] n3071479917[54.8781524,29.7522689] n3071479916[54.8768883,29.7486461] n3071479915[54.8757721,29.7453770] n3071479914[54.8744339,29.7414219] n3071479913[54.8730648,29.7376490] n3071479912[54.8723123,29.7353445] n3071479911[54.8714674,29.7329650] n3071479910[54.8703511,29.7297602] n3071479909[54.8689633,29.7256979]
 w295355392
   other tags : power=minor_line
     geometry : n2990662771[55.2029270,30.3076262] n2990662769[55.2026204,30.3086000] n2990662768[55.2019976,30.3105106] n2990662767[55.2017558,30.3115505] n2990662766[55.2015138,30.3126251] n2990662765[55.2012457,30.3137391] n2990662764[55.2009850,30.3149123] n2990662763[55.2007468,30.3160001] n2990662760[55.2004860,30.3170980]
@@ -11787,25 +11787,25 @@ w313393435
     geometry : n3193535080[55.3981355,30.7119943] n3193535074[55.3976285,30.7076198] n3193535070[55.3973654,30.7053418] n3193535064[55.3971184,30.7030717] n3193535061[55.3968641,30.7008300] n3193532159[55.3965805,30.6998699] n3193532157[55.3959735,30.6977943] n3193532156[55.3950837,30.6946716] n3193532155[55.3934418,30.6889261]
 w315266512
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635244[55.0481447,30.3003939] n3071474384[55.0476851,30.3003534]
+    geometry : n2990635244[55.0481547,30.3003530] n3071474384[55.0476851,30.3003534]
 w315266528
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635246[55.0481887,30.3013301] n3071474386[55.0477566,30.3013245]
+    geometry : n2990635246[55.0482021,30.3012776] n3071474386[55.0477566,30.3013245]
 w315266530
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635246[55.0481887,30.3013301] n3213753826[55.0477668,30.3014757]
+    geometry : n2990635246[55.0482021,30.3012776] n3213753826[55.0477668,30.3014757]
 w315266548
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635245[55.0481657,30.3008584] n3071474385[55.0477248,30.3009075]
+    geometry : n2990635245[55.0481791,30.3008117] n3071474385[55.0477248,30.3009075]
 w315266561
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635245[55.0481657,30.3008584] n3213753825[55.0477341,30.3010516]
+    geometry : n2990635245[55.0481791,30.3008117] n3213753825[55.0477341,30.3010516]
 w315266576
   other tags : cables=3 | circuits=1 | power=line | voltage=110000
-    geometry : n2990635244[55.0481447,30.3003939] n3213753824[55.0476966,30.3004848]
+    geometry : n2990635244[55.0481547,30.3003530] n3213753824[55.0476966,30.3004848]
 w315266682
   other tags : cables=6 | circuits=2 | power=line | voltage=110000
-    geometry : n2990529137[55.1363087,30.2388312] n2765923613[55.1346582,30.2396272] n2765923607[55.1326105,30.2406132] n2765923603[55.1313576,30.2412203] n2765923601[55.1302130,30.2414923] n2765923592[55.1277974,30.2421053] n2765923587[55.1260557,30.2425297] n2765923583[55.1236844,30.2431346] n2805320267[55.1210414,30.2437524] n2765923575[55.1190473,30.2442225] n2990529134[55.1169793,30.2447619] n2805320025[55.1147723,30.2452943] n2805320021[55.1123318,30.2458854] n2805320016[55.1105667,30.2463286] n2805320010[55.1086110,30.2468034] n2990527432[55.1061478,30.2474059] n2805317977[55.1047113,30.2477608] n2805317970[55.1026000,30.2482695] n2990607600[55.1011126,30.2486345] n2805317964[55.0995044,30.2490419] n2990607598[55.0982714,30.2512731] n2990607595[55.0969049,30.2537459] n2990607593[55.0958479,30.2556584] n2990607589[55.0943570,30.2584091] n2990607585[55.0925715,30.2616279] n2990607579[55.0908079,30.2648292] n2990607577[55.0894653,30.2672397] n2990607573[55.0878082,30.2702678] n2990607569[55.0863144,30.2729948] n2990607566[55.0851844,30.2750754] n2990607562[55.0839399,30.2773121] n2990607561[55.0830801,30.2788547] n2990607558[55.0818691,30.2810584] n2990607555[55.0806372,30.2832694] n2990607552[55.0794724,30.2854180] n2990607549[55.0780995,30.2878678] n2990607544[55.0767223,30.2903947] n2990607541[55.0758476,30.2919887] n2990607534[55.0741677,30.2950744] n2990607533[55.0731252,30.2952745] n2990605629[55.0710893,30.2956832] n2990605624[55.0689378,30.2961343] n2990605622[55.0677222,30.2963758] n2990605618[55.0657149,30.2967951] n2990635285[55.0643443,30.2970752] n2990635283[55.0623899,30.2974905] n2990635280[55.0602559,30.2979254] n2990635275[55.0582139,30.2983486] n2990635270[55.0557116,30.2988579] n2990635267[55.0536491,30.2992811] n2990635262[55.0519837,30.2995985] n2990635255[55.0497504,30.3000647] n2990635250[55.0490052,30.3002254] n2990635244[55.0481447,30.3003939]
+    geometry : n2990529137[55.1363087,30.2388312] n2765923613[55.1346582,30.2396272] n2765923607[55.1326105,30.2406132] n2765923603[55.1313576,30.2412203] n2765923601[55.1302130,30.2414923] n2765923592[55.1277974,30.2421053] n2765923587[55.1260557,30.2425297] n2765923583[55.1236844,30.2431346] n2805320267[55.1210414,30.2437524] n2765923575[55.1190473,30.2442225] n2990529134[55.1169793,30.2447619] n2805320025[55.1147723,30.2452943] n2805320021[55.1123318,30.2458854] n2805320016[55.1105667,30.2463286] n2805320010[55.1086110,30.2468034] n2990527432[55.1061478,30.2474059] n2805317977[55.1047113,30.2477608] n2805317970[55.1026000,30.2482695] n2990607600[55.1011126,30.2486345] n2805317964[55.0995044,30.2490419] n2990607598[55.0982714,30.2512731] n2990607595[55.0969049,30.2537459] n2990607593[55.0958479,30.2556584] n2990607589[55.0943570,30.2584091] n2990607585[55.0925715,30.2616279] n2990607579[55.0908079,30.2648292] n2990607577[55.0894653,30.2672397] n2990607573[55.0878082,30.2702678] n2990607569[55.0863144,30.2729948] n2990607566[55.0851844,30.2750754] n2990607562[55.0839399,30.2773121] n2990607561[55.0830801,30.2788547] n2990607558[55.0818691,30.2810584] n2990607555[55.0806372,30.2832694] n2990607552[55.0794724,30.2854180] n2990607549[55.0780995,30.2878678] n2990607544[55.0767223,30.2903947] n2990607541[55.0758476,30.2919887] n2990607534[55.0741677,30.2950744] n2990607533[55.0731252,30.2952745] n2990605629[55.0710893,30.2956832] n2990605624[55.0689378,30.2961343] n2990605622[55.0677222,30.2963758] n2990605618[55.0657149,30.2967951] n2990635285[55.0643443,30.2970752] n2990635283[55.0623899,30.2974905] n2990635280[55.0602559,30.2979254] n2990635275[55.0582139,30.2983486] n2990635270[55.0557163,30.2988249] n2990635267[55.0536491,30.2992398] n2990635262[55.0519837,30.2995985] n2990635255[55.0497504,30.3000647] n2990635250[55.0490052,30.3002254] n2990635244[55.0481547,30.3003530]
 w315266735
   other tags : cables=3 | circuits=1 | power=line
     geometry : n2990683319[55.2438430,30.3479115] n2990683323[55.2445563,30.3503644] n2990683325[55.2453011,30.3529606] n2990683327[55.2460489,30.3555403] n2990683331[55.2468690,30.3583515] n2990683332[55.2474346,30.3603303] n2990683433[55.2480505,30.3625242] n2990683435[55.2485500,30.3641282] n2995500576[55.2489770,30.3656375] n2995500577[55.2495268,30.3675538] n2995500578[55.2501815,30.3698038] n2995500579[55.2507008,30.3716302] n2995500580[55.2512591,30.3735594] n2995500581[55.2517809,30.3753430] n2995500582[55.2523587,30.3773363] n2995500583[55.2529389,30.3793125] n2995500584[55.2535078,30.3812957] n2995500585[55.2540535,30.3832151] n2995500586[55.2545743,30.3849465] n2995500587[55.2551254,30.3868719] n2995500588[55.2567940,30.3927692] n2995500589[55.2574344,30.3948889] n2995500590[55.2577885,30.3961542] n2995500591[55.2583117,30.3979587] n2995500592[55.2589495,30.4001011] n2995500593[55.2595605,30.4022200] n2995500594[55.2601379,30.4042605] n2995500595[55.2607473,30.4063664] n2995500596[55.2612299,30.4080556] n2995500597[55.2618020,30.4100519] n2995500598[55.2623804,30.4116227] n2995500599[55.2630792,30.4135562] n2995500600[55.2638204,30.4155606] n2995500601[55.2645387,30.4175636] n2995500602[55.2653029,30.4196971] n2995500603[55.2658332,30.4211672] n2995500604[55.2665702,30.4232052] n2995500605[55.2671321,30.4247268] n2995500608[55.2679380,30.4268900] n2995500612[55.2685934,30.4287753] n2995500616[55.2693053,30.4307309] n2995500620[55.2700449,30.4327611] n2995500621[55.2701235,30.4349337] n2995500622[55.2702056,30.4371319] n2995500623[55.2702898,30.4393348] n2995500625[55.2703814,30.4415447] n2995500626[55.2706867,30.4503168] n2995500627[55.2707751,30.4523275] n2995500628[55.2709210,30.4563234] n2995500629[55.2710159,30.4586289] n2995500630[55.2710674,30.4602295] n2995500631[55.2711339,30.4619581] n2995500632[55.2712036,30.4639281] n2995501633[55.2713154,30.4663919] n2995501634[55.2713834,30.4684476] n2995501635[55.2714448,30.4699913] n2995569993[55.2716068,30.4741963] n2995569994[55.2717054,30.4764045] n2995569995[55.2718085,30.4785766] n2995569996[55.2718749,30.4809618] n2995569997[55.2719551,30.4830574] n2995569998[55.2723939,30.4943109] n2995569999[55.2724819,30.4964802] n2995570000[55.2725528,30.4986220] n2995570001[55.2726360,30.5010233] n2995570002[55.2728742,30.5073750] n2995570003[55.2729617,30.5091548] n2995570004[55.2740240,30.5110604] n2995570005[55.2748059,30.5124492] n2995570006[55.2783967,30.5186260] n2995570007[55.2833450,30.5271992] n2995570008[55.2844213,30.5290235] n2995622408[55.2854432,30.5308039] n2995622409[55.2863250,30.5323172] n2995622410[55.2874252,30.5342347] n2995622411[55.2883506,30.5358453] n2995622412[55.2894779,30.5377772] n2995622413[55.2903705,30.5393351] n2995622414[55.2912358,30.5408212] n2995622415[55.2921474,30.5423935] n2995622416[55.2930372,30.5439466] n2995622417[55.2947867,30.5469283] n2995622418[55.2956819,30.5485102] n2995622419[55.2965416,30.5499531] n2995622420[55.2983429,30.5531025] n2995622421[55.2992513,30.5546714] n2995622422[55.3001161,30.5561511] n2995622423[55.3010199,30.5577142] n2995622424[55.3018985,30.5592479] n2995622425[55.3028050,30.5608306] n2995622426[55.3035916,30.5621585]

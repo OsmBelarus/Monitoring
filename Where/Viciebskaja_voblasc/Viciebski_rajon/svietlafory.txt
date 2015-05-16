@@ -62,11 +62,11 @@ n1791336669  Дымаўшчына / Dymaŭščyna / Дымовщина / Дым�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1884804,30.0842462]
 n1799214844
-  other tags : highway=bus_stop
-    geometry : [55.0886002,30.3075520]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0886073,30.3075065]
 n1799215025
-  other tags : highway=bus_stop
-    geometry : [55.0889866,30.3078951]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0889937,30.3078496]
 n1814559946  null / null / Поляи
   other tags : highway=bus_stop
     geometry : [55.1571116,30.3682094]
@@ -519,10 +519,10 @@ n3164355311
     geometry : [55.0575101,30.2937630]
 n3164355340
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.0692928,30.2911852]
+    geometry : [55.0692928,30.2911123]
 n3164355346
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.0702965,30.2912647]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0703072,30.2913631]
 n3184804333  null / null / Дреколье
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2830989,30.0808001]
