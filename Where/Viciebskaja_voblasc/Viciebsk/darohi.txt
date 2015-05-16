@@ -17534,7 +17534,7 @@ w258081723  вуліца Воінаў-Інтэрнацыяналістаў / vul
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left|left|right
     geometry : n906495593[55.1655598,30.2011379] n310308949[55.1656885,30.2008532] n310310493[55.1662182,30.1999577] n310308951[55.1662595,30.1998881] n310310498[55.1663597,30.1997542] n310308917[55.1665865,30.1994717] n310308938[55.1682354,30.1976539]
 w258081726  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left;reverse|through|through;right
+  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes
     geometry : n726810420[55.1656252,30.2104167] n726810421[55.1653729,30.2103108] n310308474[55.1651122,30.2102087] n1712331681[55.1650428,30.2101866] n310308390[55.1645627,30.2099948]
 w258082385  праспект Чарняхоўскага / praspiekt Čarniachoŭskaha / проспект Черняховского / проспект Черняховского
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | turn:lanes=through|through|right|right
@@ -24048,10 +24048,10 @@ w335070573  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / п�
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | trolley_wire=yes | turn:lanes=left;through|through|through|right
     geometry : n2827689871[55.1721424,30.2104289] n1794888000[55.1718981,30.2123497] n1141331547[55.1718843,30.2124687] n310311171[55.1718482,30.2127973]
 w335070574  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=4 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through|right
+  other tags : highway=secondary | lanes=4 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|left;through|through|right
     geometry : n337891684[55.1707277,30.2126447] n1786188073[55.1715315,30.2129681] n1318626644[55.1716272,30.2130027] n310311909[55.1718176,30.2130722]
 w335070575  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=4 | maxspeed=60 | oneway=yes | turn:lanes=left|through|through|right
+  other tags : highway=secondary | lanes=4 | maxspeed=60 | oneway=yes | turn:lanes=left|left;through|through|right
     geometry : n726712257[55.1729423,30.2132174] n310311165[55.1725504,30.2130628] n1794888012[55.1722749,30.2129628] n1141331552[55.1721732,30.2129236] n310311132[55.1719767,30.2128470]
 w335071435  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / проспект Строителей / проспект Строителей
   other names: name:de=Prospect Ctroiteley (Bauarbeiter Avenue) | name:fr=Prospect Ctroyteley (Avenue des constructeurs)
