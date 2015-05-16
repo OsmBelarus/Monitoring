@@ -1133,7 +1133,7 @@ w30179594
   other tags : highway=service
     geometry : n1787025197[55.1616314,30.2038966] n737902669[55.1618178,30.2037354] n332545169[55.1619286,30.2036685] n332545175[55.1622654,30.2035142]
 w30191546
-  other tags : highway=service | note=Проезд сквозной, не удалять, снимок устарел | oneway=yes | service=parking_aisle | surface=asphalt
+  other tags : highway=service | note=Проезд сквозной, не удалять, снимок устарел | oneway=yes | surface=asphalt
     geometry : n310311914[55.1705992,30.2225886] n1318626632[55.1704797,30.2225439] n332645084[55.1704365,30.2225535] n2969425469[55.1704058,30.2226487] n1983429431[55.1703559,30.2228031] n332645099[55.1702698,30.2235201] n1946537700[55.1703306,30.2237147] n3495836919[55.1704142,30.2239627]
 w30191558
   other tags : highway=service
@@ -1154,7 +1154,7 @@ w30426189
   other tags : highway=service
     geometry : n332647910[55.1957627,30.2104619] n3090775301[55.1955364,30.2104269] n3090773054[55.1953706,30.2104012] n3090779791[55.1949129,30.2103303]
 w30450509
-  other tags : highway=service | oneway=yes | service=parking_aisle
+  other tags : highway=service | oneway=yes
     geometry : n336085146[55.1728307,30.2266990] n806272583[55.1728830,30.2269132] n806272582[55.1732841,30.2270689] n336085138[55.1733839,30.2269192]
 w30451558
   other tags : highway=service
@@ -5276,7 +5276,7 @@ w106947721
   other tags : highway=service | living_street=yes
     geometry : n1229699078[55.1725822,30.2242304] n1229699190[55.1735196,30.2245894]
 w106947727
-  other tags : highway=service | service=parking_aisle
+  other tags : highway=service
     geometry : n1229699160[55.1747756,30.2283798] n1229699247[55.1747517,30.2285673] n1229699060[55.1749109,30.2286694] n1848122919[55.1749587,30.2286565]
 w106989026
   other tags : highway=service | note=Уточнить по трекам или снимкам
@@ -13838,7 +13838,7 @@ w258502450
   other tags : highway=service
     geometry : n2638476628[55.1896812,30.1915774] n2638476636[55.1900215,30.1915377] n2638476639[55.1901698,30.1914469] n2638476645[55.1903475,30.1914932] n2638476643[55.1903059,30.1919041] n2638476647[55.1904227,30.1920378]
 w259241530
-  other tags : highway=service | note=Проезд сквозной, не удалять, снимок устарел | service=parking_aisle | surface=asphalt
+  other tags : highway=service | note=Проезд сквозной, не удалять, снимок устарел | surface=asphalt
     geometry : n2559066239[55.1701985,30.2237621] n332645099[55.1702698,30.2235201]
 w259341962
   other tags : highway=service
@@ -15689,7 +15689,7 @@ w311362449
   other tags : highway=service
     geometry : n3169958966[55.1830574,30.2113596] n3169958967[55.1829328,30.2114669] n3169958969[55.1828864,30.2117111] n3169958968[55.1828765,30.2117627] n3169958971[55.1828874,30.2118831] n3169958972[55.1829779,30.2120559]
 w311363147
-  other tags : highway=service | service=parking_aisle | surface=asphalt
+  other tags : highway=service | surface=asphalt
     geometry : n2559066239[55.1701985,30.2237621] n2559066241[55.1701010,30.2245057] n2969425458[55.1700313,30.2246054] n2559066243[55.1699733,30.2246658] n2559066245[55.1691024,30.2243131]
 w311439067
   other tags : highway=service
