@@ -31,9 +31,6 @@ n344300863  null / null / Лукойл №36
 n629356904  null / null / Лукoйл №26
   other tags : addr:housenumber=58 | addr:street=улица Воинов-Интернационалистов | amenity=fuel | contact:phone=+375-212-271126 | contact:website=http://lukoil.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл
     geometry : [55.1537299,30.2395785]
-n813371869  null / null / Белоруснефть №9
-  other tags : addr:housenumber=179 | addr:street=улица Гагарина | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:25-19:15, 19:45-00:00, 00:20-07:15 | operator=Белоруснефть | phone=+375-212-231000 | website=http://beloil.by/
-    geometry : [55.2318583,30.2720269]
 n867979236  Блок / null / Блок
   other tags : addr:street=улица Воинов-Интернационалистов | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | website=http://blokoil.by/
     geometry : [55.1636543,30.2045991]
@@ -94,6 +91,9 @@ n2077911509  null / null / Белоруснефть № 68
 n2077911515  null / null / Белоруснефть № 68
   other tags : amenity=fuel | fuel:lpg=yes | official_name=Белоруснефть МАЗС № 68 | opening_hours=Mo-Su 08:00-20:00 | operator=Белоруснефть | phone=+375-212-292516 | website=http://www.belorusneft.by/
     geometry : [55.2900098,30.3237413]
+w58705690  null / null / Белоруснефть №9
+  other tags : addr:housenumber=179 | addr:street=улица Гагарина | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:25-19:15, 19:45-00:00, 00:20-07:15 | operator=Белоруснефть | phone=+375-212-231000 | website=http://beloil.by/
+    geometry : n813371869[55.2318610,30.2719702] n727456181[55.2317844,30.2720590] n1793478481[55.2318385,30.2721992] n727456185[55.2318740,30.2721581] n727456179[55.2318852,30.2720373] n813371869[55.2318610,30.2719702]
 w74486814  null / null / Белоруснефть №2
   other tags : addr:street=улица Воинов-Интернационалистов | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=07:10-19:00,19:20-24:00,00:20-07:00 | operator=Белоруснефть | phone=+375-212-287281 | website=http://www.belorusneft.by/
     geometry : n880407056[55.1661312,30.1988611] n1791286510[55.1661408,30.1988886] n1543818853[55.1661476,30.1989080] n1791286512[55.1661682,30.1989668] n880407067[55.1661716,30.1989762] n880407058[55.1660812,30.1990734] n880407059[55.1660408,30.1989583] n880407056[55.1661312,30.1988611]
