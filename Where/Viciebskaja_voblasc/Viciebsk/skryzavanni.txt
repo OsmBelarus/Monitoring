@@ -138,7 +138,7 @@ n441886834
     geometry : [55.1876147,30.2082639]
 n450136720
   other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
-    geometry : [55.1796103,30.2334024]
+    geometry : [55.1796089,30.2334018]
 n453661598
   other tags : crossing=island;traffic_signals | crossing_ref=pelican | highway=crossing
     geometry : [55.1938331,30.2282863]
@@ -378,13 +378,13 @@ n1159460061
     geometry : [55.1675933,30.2114389]
 n1159460065
   other tags : crossing=controlled | crossing_ref=zebra | highway=crossing
-    geometry : [55.1629192,30.2158866]
+    geometry : [55.1629205,30.2158596]
 n1159460078
   other tags : crossing=controlled | highway=crossing
     geometry : [55.1676268,30.2111952]
 n1159460150
   other tags : crossing=controlled | crossing_ref=zebra | highway=crossing
-    geometry : [55.1626947,30.2157912]
+    geometry : [55.1626960,30.2157642]
 n1161855913
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
     geometry : [55.1799782,30.2163745]
@@ -559,6 +559,9 @@ n1220025511
 n1220025540
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1969009,30.2333599]
+n1220025559
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1958633,30.2488154]
 n1220025560
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1948074,30.2286653]
@@ -2041,9 +2044,6 @@ n2967829870
 n2969425458
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [55.1700313,30.2246054]
-n2969425527
-  other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
-    geometry : [55.1813886,30.2341161]
 n2971293298
   other tags : crossing=traffic_signals | highway=crossing | traffic_signals:request=yes
     geometry : [55.1532977,30.2147934]
@@ -2266,3 +2266,6 @@ n3513469839
 n3513469841
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1801360,30.2161719]
+n3517911839
+  other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
+    geometry : [55.1815603,30.2341846]
