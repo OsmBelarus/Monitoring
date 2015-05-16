@@ -11817,8 +11817,8 @@ n3497811674
   other tags : amenity=parking_entrance | barrier=lift_gate
     geometry : [55.1808032,30.2233461]
 n3500913135
-  other tags : advertising=billboard
-    geometry : [55.1942999,30.2321389]
+  other tags : advertising=billboard | lit=yes
+    geometry : [55.1942781,30.2319271]
 n3501571266  null / null / Ремонт обуви
   other tags : craft=shoemaker
     geometry : [55.1617006,30.2187604]
@@ -11836,10 +11836,10 @@ n3505394405  Таксафон / null / Таксофон / Таксофон
     geometry : [55.1939699,30.2325964]
 n3505394406  інфакіёск Белпошта / null / инфокиоск Белпочта / инфокиоск Белпочта
   other tags : amenity=payment_terminal | currency:BYR=yes | currency:others=no | indoor=yes | language:be=yes | language:ru=yes | operator=РУП «Белпочта» | payment:cash=no | payment:maestro=yes | payment:mastercard=yes | payment:visa_electron=yes
-    geometry : [55.1943988,30.2320152]
+    geometry : [55.1944060,30.2320125]
 n3505394407  інфакіёск Белпошта / null / инфокиоск Белпочта / инфокиоск Белпочта
   other tags : amenity=payment_terminal | currency:BYR=yes | currency:others=no | indoor=yes | language:be=yes | language:ru=yes | operator=РУП «Белпочта» | payment:cash=yes
-    geometry : [55.1944105,30.2320117]
+    geometry : [55.1943961,30.2320135]
 n3505394408
   other tags : amenity=post_box | collection_times=Mo-Sa 15:30
     geometry : [55.2015910,30.2077207]

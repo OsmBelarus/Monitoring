@@ -2117,9 +2117,6 @@ n2493665096  null / null / Для тебя
 n2493665118
   other tags : building=yes | building:levels=1 | shop=kiosk
     geometry : [55.1963455,30.2488500]
-n2493665120
-  other tags : building=yes | building:levels=1 | shop=kiosk
-    geometry : [55.1963084,30.2489415]
 n2497454794  null / null / СТО
   other tags : shop=car_repair
     geometry : [55.1729175,30.2448021]
@@ -3390,3 +3387,6 @@ n3511249649  Майстар / null / Мастер / Мастер
 n3513469594  null / null / Продукты
   other tags : opening_hours=Mo-Su 08:00-23:00 | operator=ООО «Стройснаб» | shop=convenience
     geometry : [55.1787571,30.2101919]
+n3516268993  Азбука прыгажосці / null / Азбука красоты / Азбука красоты
+  other tags : description=косметика и бытовая химия | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | shop=chemist
+    geometry : [55.1809880,30.2150621]
