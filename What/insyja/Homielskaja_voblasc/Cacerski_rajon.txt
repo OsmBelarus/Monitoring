@@ -264,6 +264,18 @@ n3514054003
 n3516772095
   other tags : man_made=tower
     geometry : [53.0742881,31.2729472]
+n3518534131
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.8966758,30.7674786]
+n3518543921
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [52.9790144,30.5970048]
+n3518543922
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [52.9791190,30.5983856]
+n3518543923
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.9799492,30.5956560]
 w25080245  Макаўе / Makaŭje / Маковье / Маковье
   other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Чечерский район | addr:region=Гомельская область | place=locality
     geometry : n272915308[52.8850900,31.2454600] n272915311[52.8820000,31.2439200] n272915313[52.8813200,31.2458900] n272915315[52.8805500,31.2486400] n272915317[52.8836400,31.2506100] n272915308[52.8850900,31.2454600]
@@ -1109,3 +1121,6 @@ w344956489
 w344956492
   other tags : landuse=orchard
     geometry : n3516772225[53.0785404,31.2716973] n3516772226[53.0752404,31.2699807] n3516772232[53.0746405,31.2731675] n3516772230[53.0743638,31.2746370] n3516772229[53.0760226,31.2756643] n3516772228[53.0759517,31.2764581] n3516772227[53.0775128,31.2772781] n3516772225[53.0785404,31.2716973]
+w345160698
+  other tags : landuse=orchard
+    geometry : n3518541573[52.9033846,30.7703700] n3518541571[52.9006036,30.7663167] n3518541570[52.9000117,30.7674329] n3518541572[52.9006587,30.7683759] n3518541569[52.8997636,30.7700638] n3518541567[52.8996247,30.7698614] n3518541564[52.8983154,30.7723303] n3518541566[52.8993029,30.7737695] n3518541565[52.8984585,30.7753619] n3518541568[52.8997440,30.7772354] n3518541573[52.9033846,30.7703700]
