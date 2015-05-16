@@ -413,6 +413,10 @@ n2627046978  null / null / Автошкола
 n2723888925  null / null / ЦДОДиМ «Маяк»
   other tags : addr:city=Минск | addr:housenumber=2а | addr:street=Полевой переулок | amenity=school | operator=Администрация Ленинского района г. Минска | website=http://LenAdmin.Gov.by/tsentr-dopolnitelnogo-obrazovaniya-detei-i-molodezhi-%C2%ABmayak%C2%BB
     geometry : [53.8762624,27.5660276]
+n2723888926  Мінская школа кінамастацтва / null / Минская школа киноискусства / Минская школа киноискусства
+  other names: name:de=Minsk Filmschule | name:en=Minsk Cinema School | name:fr=Minsk école de cinéma | name:pl=Mińsk szkoła filmowa | name:uk=Мінська школа кіномистецтва
+  other tags : amenity=school | operator=Частное предприятие «Центр Шпилевского» | phone=+375 29 3405643, +375 33 3710092, +375 25 5201926, +375 29 1045020 | source=http://CinemaSchool.by | website=http://CinemaSchool.by
+    geometry : [53.8761689,27.5656751]
 n2882505655  null / null / «Acting Camp» — городской лагерь актёрского мастерства
   other tags : addr:housenumber=3 | addr:postcode=220028 | addr:street=Солнечная улица | amenity=school | operator=Минская школа кино | phone=+375(29)3141005, +375(29)3405643, +375(33)3710092, +375(25)9532845, +375(25)5201926 | source=http://Camp.CinemaSchool.by | website=http://Camp.CinemaSchool.by/ | wikipedia=ru:Улица Маяковского (Минск)
     geometry : [53.8638742,27.5620021]
@@ -485,6 +489,9 @@ n3450203871  null / null / Гимназия №6
 n3460438621  null / null / СШ №37
   other tags : amenity=school
     geometry : [53.9295966,27.5450451]
+n3508968771  null / null / Лагерь «Acting Camp»
+  other tags : addr:city=Минск | addr:housenumber=10 | addr:street=улица Кедышко | amenity=school | opening_hours=пн-пт: 9:30-17:00 | phone=+375(29)3405643, +375(33)3710092, +375(25)5201926 | source=Camp.CinemaSchool.by | website=Camp.CinemaSchool.by
+    geometry : [53.9296427,27.6175507]
 n3509282795  null / null / СШ №16
   other tags : amenity=school
     geometry : [53.9114519,27.5124411]
