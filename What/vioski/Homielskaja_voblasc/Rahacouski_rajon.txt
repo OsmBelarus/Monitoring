@@ -5,7 +5,7 @@ n243035126  Міжыдзерава / Mižydzierava / Мижидерево / Ми
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Лукаў;м;Міждзераў;Мяжыдзерава | place=hamlet | wikipedia=ru:Мижидерево
     geometry : [53.2404384,30.0345805]
 n243035130  Асінаўка / Asinaŭka / Осиновка / Осиновка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Старосельский сельский Совет | place=hamlet | wikipedia=ru:Осиновка (Старосельский сельсовет, Рогачёвский район)
     geometry : [53.2209500,30.1385000]
 n243035133  Сялец / Sialiec / Селец / Селец
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Селец (Рогачёвский район)
@@ -24,7 +24,7 @@ n243035154  Кокатава / Kokatava / Кокотово / Кокотово
     geometry : [53.1935700,30.0603100]
 n243035158  Малінаўка / Malinaŭka / Малиновка / Малиновка
   other names: name:uk=Малинівка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Старосельский сельский Совет | place=hamlet | wikipedia=ru:Малиновка (Старосельский сельсовет)
     geometry : [53.2119400,30.0737000]
 n243035162  Гайдукоўка / Hajdukoŭka / Гайдуковка / Гайдуковка
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Гайдуковка (Рогачёвский район)
@@ -75,11 +75,11 @@ n243035338  Станькаў / Stańkaŭ / Станьков / Станьков
 n243035343  Вікоў / Vikoŭ / Виков / Виков
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Виков
     geometry : [53.0637900,30.1173000]
-n243035345  Ходасавічы / Chodasavičy / Ходосевичи / Ходосевичи
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ходосовичи (Рогачёвский район)
+n243035345  Ходасавічы / Chodasavičy / Ходосовичи / Ходосовичи
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:ru=Ходосевичи | place=hamlet | wikipedia=ru:Ходосовичи (Рогачёвский район)
     geometry : [53.0202800,30.1160200]
 n243035352  Лучын / Lučyn / Лучин / Лучин
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Лучин (Гомельская область)
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Лучин (Гомельская область)
     geometry : [53.0106600,30.0156800]
 n243035356  Каласы / Kalasy / Колосы / Колосы
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Колосы (Рогачёвский район)
@@ -141,8 +141,8 @@ n243038387  Ліскі / Liski / Лиски / Лиски
 n243038390  Антушы / Antušy / Антуши / Антуши
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Антуши (Рогачёвский район)
     geometry : [53.0034404,29.7971924]
-n243038393  Пласкінскі / Plaskinski / Плоскинский / Плоскинский
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Пласкіня | place=hamlet
+n243038393  Пласкіня / Plaskinski / Пласкиня / Пласкиня
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name=Плоскинский | alt_name:be=Пласкінскі | place=hamlet | wikipedia=ru:Плоскиня (Рогачёвский район, посёлок)
     geometry : [53.0674000,29.7382700]
 n243038395  Побалава / Pobalava / Поболово / Поболово
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Поболово (Рогачёвский район)
@@ -154,7 +154,7 @@ n243038401  Вялікія Філіпкавічы / Vialikija Filipkavičy / В�
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Бальшыя Філіпкавічы;Філіпкавічы | place=hamlet | wikipedia=ru:Великие Филипковичи
     geometry : [53.1248598,29.7070844]
 n243038403  Пласкіня / Plaskinia / Плоскиня / Плоскиня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Плоскиня (Рогачёвский район, деревня)
     geometry : [53.0793300,29.7313200]
 n243038406  Бірчанская Слабада / Birčanskaja Slabada / Бирчанская Слобода / Бирчанская Слобода
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Бирчанская Слобода
@@ -169,7 +169,7 @@ n243039413  Надзейкавічы / Nadziejkavičy / Надейковичи /
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Надейковичи (Рогачёвский район)
     geometry : [53.1210400,29.7406800]
 n243039438  Ямнае / Jamnaje / Ямное / Ямное
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Дворецкий сельский Совет | place=hamlet
     geometry : [53.0931500,29.7961200]
 n243041344  Рэкта / Rekta / Ректа / Ректа
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ректа (Рогачёвский район)
@@ -205,10 +205,10 @@ n243041496  Новыя Канапліцы / Novyja Kanaplicy / Новые Кон
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Новые Коноплицы
     geometry : [53.1835200,29.9624600]
 n243041497  Слабада / Slabada / Слобода / Слобода
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Старосельский сельский Совет | place=hamlet | wikipedia=ru:Слобода (Старосельский сельсовет)
     geometry : [53.2431894,29.9690910]
 n243041498  Заазер’е / Zaazierje / Заозерье / Заозерье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Зазер’е | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Озеранский сельский Совет | alt_name:be=Зазер’е | place=hamlet | wikipedia=ru:Заозерье (Озеранский сельсовет)
     geometry : [53.2551100,29.8535400]
 n243041499  Азяраны / Aziarany / Озераны / Озераны
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Озераны (Рогачёвский район)
@@ -229,10 +229,10 @@ n243041504  Броннае / Bronnaje / Бронное / Бронное
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Бронное (Рогачёвский район)
     geometry : [53.1115634,29.8982851]
 n243041505  Кашара / Kašara / Кошара / Кошара
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Кошара (Рогачёвский район)
     geometry : [53.0900600,29.8286500]
 n243041506  Раманаўка / Ramanaŭka / Романовка / Романовка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Хапаны | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Хапаны | place=hamlet | wikipedia=ru:Романовка (Рогачёвский район)
     geometry : [53.1016500,29.9378300]
 n243041507  null / null / Дубровщина / Дубровщина
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Дубровщина (Рогачёвский район)
@@ -258,8 +258,8 @@ n243041513  Заполле / Zapollie / Заполье / Заполье
 n243041514  Хамічы / Chamičy / Хомичи / Хомичи
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Хомичи (Рогачёвский район)
     geometry : [53.1377800,29.9583400]
-n243041515  Касцяшоў / Kasciašoŭ / Костешов / Костешов
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+n243041515  Касцяшоў / Kasciašoŭ / Костешев / Костешев
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:ru=Костешов | place=hamlet | wikipedia=ru:Костешев (Рогачёвский район)
     geometry : [53.1360600,29.9747400]
 n243041516  Лук’янаўка / Lukjanaŭka / Лукьяновка / Лукьяновка
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Лукьяновка (Рогачёвский район)
@@ -302,7 +302,7 @@ n243041531  Шырокі Рог / Šyroki Roh / Широкий Рог / Широ
     geometry : [53.0304900,29.8908000]
 n243041532  Шырокае / Šyrokaje / Широкое / Широкое
   other names: name:uk=Широке
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Заболотский сельский Совет | place=hamlet | wikipedia=ru:Широкое (Заболотский сельсовет)
     geometry : [53.0282600,29.9040100]
 n243041533  Ключы / Kliučy / Ключи / Ключи
   other names: name:uk=Ключі
@@ -312,7 +312,7 @@ n243041535  Мінькаў / Mińkaŭ / Миньков / Миньков
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Миньков (Рогачёвский район)
     geometry : [53.0109067,29.9066226]
 n243041646  Забалацце / Zabalaccie / Заболотье / Заболотье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Заболотье (Рогачёвский район)
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Заболотье (Рогачёвский район)
     geometry : [53.0451600,29.9178300]
 n243041661  Стрэнькі / Streńki / Стреньки / Стреньки
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Стреньки (Рогачёвский район)
@@ -324,10 +324,10 @@ n243041689  Ухватаўка / Uchvataŭka / Ухватовка / Ухвато
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ухватовка (Рогачёвский район)
     geometry : [52.9821165,29.8519322]
 n243041840  Пахар / Pachar / Пахарь / Пахарь
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Журавичский сельский Совет | place=hamlet | wikipedia=ru:Пахарь (Журавичский сельсовет)
     geometry : [53.2851759,30.4974500]
 n243041842  Заазер’е / Zaazierje / Заозерье / Заозерье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Зазер’е | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Журавичский сельский Совет | alt_name:be=Зазер’е | place=hamlet | wikipedia=ru:Заозерье (Журавичский сельсовет)
     geometry : [53.2916700,30.5022500]
 n243041851  Гута / Huta / Гута / Гута
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Гута (Рогачёвский район)
@@ -339,61 +339,61 @@ n243042302  Паддуб’е / Paddubje / Поддубье / Поддубье
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Поддубье (Рогачёвский район)
     geometry : [53.2555171,30.5258335]
 n243042303  Крыстаполле / Krystapollie / Кристополье / Кристополье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Крыстаполе | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Крыстаполе | place=hamlet | wikipedia=ru:Кристополье (Рогачёвский район)
     geometry : [53.2497900,30.6175200]
 n243042304  Журавічы / Žuravičy / Журавичи / Журавичи
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Журавичи (Рогачёвский район)
     geometry : [53.2491900,30.5459400]
 n243042310  Завідаўка / Zavidaŭka / Завидовка / Завидовка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Завидовка (Рогачёвский район)
     geometry : [53.2122165,30.5455226]
 n243042311  Хвойнік / Chvojnik / Хвойник / Хвойник
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Хвойник (Рогачёвский район)
     geometry : [53.1863600,30.6342600]
 n243042312  Задвор’е / Zadvorje / Задворье / Задворье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Задворье (Гомельская область)
     geometry : [53.2144064,30.6299238]
 n243042313  Асінаўка / Asinaŭka / Осиновка / Осиновка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Болотнянский сельский Совет | place=hamlet | wikipedia=ru:Осиновка (Болотнянский сельсовет, Рогачёвский район)
     geometry : [53.2061000,30.6515100]
 n243042314  Лясное / Liasnoje / Лесное / Лесное
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
     geometry : [53.1879900,30.6234500]
 n243042315  Ленінскі / Lieninski / Ленинский / Ленинский
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ленинский (Рогачёвский район)
     geometry : [53.2035022,30.6601175]
 n243042316  Ёўня / Joŭnia / Ёвня / Ёвня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ёвня (Рогачёвский район)
     geometry : [53.2014230,30.5991637]
 n243042317  Жавіннік / Žavinnik / Жевинник / Жевинник
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Жевинник (Рогачёвский район)
     geometry : [53.1819800,30.5615600]
 n243042318  Рубанае / Rubanaje / Рубаное / Рубаное
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Рубаное (Рогачёвский район)
     geometry : [53.1770064,30.5990815]
 n243042320  Загрэб’е / Zahrebje / Загребье / Загребье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Загребье (Рогачёвский район)
     geometry : [53.2077469,30.6285642]
 n243042321  Новая Алешня / Novaja Aliešnia / Новая Олешня / Новая Олешня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Новая Олешня
     geometry : [53.2202600,30.6700500]
 n243042322  Цагельня / Cahieĺnia / Цагельня / Цагельня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Болотнянский сельский Совет | place=hamlet
     geometry : [53.2418072,30.6257027]
 n243042323  Гуцішча / Hucišča / Гутище / Гутище
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Гутище (Рогачёвский район)
     geometry : [53.1982900,30.5589024]
 n243042324  Стараселле / Starasiellie / Староселье / Староселье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Староселье (Рогачёвский район)
     geometry : [53.2057998,30.5703799]
 n243042325  Новыя Журавічы / Novyja Žuravičy / Новые Журавичи / Новые Журавичи
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Новые Журавичи
     geometry : [53.2323600,30.5870500]
 n243042326  Балотня / Balotnia / Болотня / Болотня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Болотня (Рогачёвский район)
     geometry : [53.2108747,30.6087425]
 n243042328  Старая Алешня / Staraja Aliešnia / Старая Олешня / Старая Олешня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Старая Олешня
     geometry : [53.2285318,30.6672842]
 n243042337  Новы Крыўск / Novy Kryŭsk / Новый Кривск / Новый Кривск
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Новый Кривск
@@ -425,37 +425,37 @@ n243043244  Буда / Buda / Буда / Буда
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Буда (Рогачёвский район)
     geometry : [53.0062480,30.2903387]
 n243043245  Дубрава / Dubrava / Дубрава / Дубрава
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Дуброва | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Дуброва | place=hamlet | wikipedia=ru:Дубрава (Рогачёвский район)
     geometry : [53.0461900,30.2609000]
 n243043246  Турск / Tursk / Турск / Турск
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Турск (Рогачёвский район)
     geometry : [53.0426800,30.2118000]
 n243043247  Турскавы / Turskavy / Турсковый / Турсковый
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Турсковый (Рогачёвский район)
     geometry : [53.0499543,30.2276724]
 n243043251  Гарадзец / Haradziec / Городец / Городец
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Городец (Рогачёвский район)
     geometry : [52.9730425,30.3459640]
 n243043252  Доўбцы / Doŭbcy / Долбцы / Долбцы
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Цыганы | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Цыганы | place=hamlet | wikipedia=ru:Долбцы (Рогачёвский район)
     geometry : [53.0652500,30.3324800]
 n243043253  Княжынка / Kniažynka / Княжинка / Княжинка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Княжинка (Рогачёвский район)
     geometry : [53.0268800,30.3383200]
 n243043255  Грабаў / Hrabaŭ / Грабов / Грабов
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Грабава | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Грабава | place=hamlet | wikipedia=ru:Грабов (Рогачёвский район)
     geometry : [53.0689842,30.2358568]
 n243043256  Масткі / Mastki / Мостки / Мостки
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Мостки (Гомельская область)
     geometry : [53.0426800,30.2939400]
 n243043257  Брод / Brod / Брод / Брод
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Брод (Рогачёвский район)
     geometry : [53.0563040,30.2542252]
 n243043258  Камень / Kamień / Камень / Камень
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Камень (Рогачёвский район)
     geometry : [53.0524600,30.2875000]
 n243043259  Казацкі / Kazacki / Казацкий / Казацкий
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Казацкий (Рогачёвский район)
     geometry : [53.0583000,30.3089600]
 n243043260  Яленава / Jalienava / Еленово / Еленово
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Еленово (Рогачёвский район)
@@ -476,10 +476,10 @@ n243043266  Мадора / Madora / Мадора / Мадора
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Мадора (Рогачёвский район)
     geometry : [53.1424100,30.1865700]
 n243043267  Гадзілавічы / Hadzilavičy / Гадиловичи / Гадиловичи
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Гадиловичи
     geometry : [53.0772700,30.2685400]
 n243043268  Алейнікаў / Aliejnikaŭ / Олейников / Олейников
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Олейников (Рогачёвский район)
     geometry : [53.0547800,30.3193500]
 n243043269  Партызаны / Partyzany / Партизаны / Партизаны
   other names: name:uk=Партизани
@@ -501,8 +501,8 @@ n243044318  Рошчына / Roščyna / Рощино / Рощино
   other names: name:uk=Рощине
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Рощино (Рогачёвский район)
     geometry : [53.0986400,30.3909300]
-n243044319  Ракуціна / Rakucina / Ракутино / Ракутино
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Ракутино (Рогачёвский район)
+n243044319  Ракуціна / Rakucina / Рекутино / Рекутино
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name=Ракутино | place=hamlet | wikipedia=ru:Ракутино (Рогачёвский район)
     geometry : [53.1216400,30.3461300]
 n243044320  Доўск / Doŭsk / Довск / Довск
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Довск
@@ -532,11 +532,11 @@ n243044328  Малашкавічы / Malaškavičy / Малашковичи / М
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Малашковичи (Гомельская область)
     geometry : [53.1135700,30.4312700]
 n243044329  Ямнае / Jamnaje / Ямное / Ямное
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Довский сельский Совет | place=hamlet | wikipedia=ru:Ямное (Довский сельсовет)
     geometry : [53.1359800,30.4777100]
 n243044331  Пахар / Pachar / Пахарь / Пахарь
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
-    geometry : [53.0698000,30.3535100]
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Гадиловичский сельский Совет | place=hamlet
+    geometry : [53.0696065,30.3543843]
 n243044332  Бярозавы Гай / Biarozavy Haj / Берёзовый Гай / Берёзовый Гай
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Варашылаў | place=hamlet | wikipedia=ru:Берёзовый Гай (Гомельская область)
     geometry : [53.0240500,30.5080000]
@@ -563,7 +563,7 @@ n243044341  Сычман / Syčman / Сычман / Сычман
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Сычман (Рогачёвский район)
     geometry : [53.1789800,30.5091200]
 n243044342  Слабада / Slabada / Слобода / Слобода
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Довский сельский Совет | place=hamlet | wikipedia=ru:Слобода (Довский сельсовет)
     geometry : [53.1765700,30.3725600]
 n243044343  Дружба / Družba / Дружба / Дружба
   other names: name:uk=Дружба
@@ -571,7 +571,7 @@ n243044343  Дружба / Družba / Дружба / Дружба
     geometry : [53.2113300,30.3732500]
 n243044344  Малінаўка / Malinaŭka / Малиновка / Малиновка
   other names: name:uk=Малинівка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Довский сельский Совет | place=hamlet | wikipedia=ru:Малиновка (Довский сельсовет)
     geometry : [53.2038700,30.4730700]
 n243044345  Борхаў / Borchaŭ / Борхов / Борхов
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Борхов (Рогачёвский район)
@@ -596,7 +596,7 @@ n243044351  Вялікія Стралкі / Vialikija Stralki / Великие �
     geometry : [52.9817395,30.3833798]
 n243044352  Шырокае / Šyrokaje / Широкое / Широкое
   other names: name:uk=Широке
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Столпнянский сельский Совет | place=hamlet
     geometry : [52.9061200,30.4437200]
 n243044353  Мірная / Mirnaja / Мирная / Мирная
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Мірнае | place=hamlet | wikipedia=ru:Мирная (Рогачёвский район)
@@ -621,16 +621,16 @@ n243044367  Перакоп / Pierakop / Перекоп / Перекоп
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Перекоп (Рогачёвский район)
     geometry : [53.0350400,30.4461200]
 n243044368  Куставіца / Kustavica / Кустовица / Кустовица
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Ударнік | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Ударнік | place=hamlet | wikipedia=ru:Кустовица (Рогачёвский район)
     geometry : [53.0514300,30.4062100]
 n243044369  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Курганский сельский Совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | addr:subdistrict=Курганский сельский Совет | place=hamlet | wikipedia=ru:Каменка (Курганский сельсовет)
     geometry : [53.0162400,30.4424300]
 n243044370  Рыскоў / Ryskoŭ / Рысков / Рысков
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Рыскова | place=hamlet | wikipedia=ru:Рысков (Рогачёвский район)
     geometry : [53.0524466,30.4853160]
 n243044371  Красніца / Krasnica / Красница / Красница
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Красница (Рогачёвский район)
     geometry : [53.0474000,30.3692200]
 n243044372  Замокраўе / Zamokraŭje / Замокровье / Замокровье
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet | wikipedia=ru:Замокровье (Рогачёвский район)
@@ -642,7 +642,7 @@ n243044380  Стоўпня / Stoŭpnia / Столпня / Столпня
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village | wikipedia=ru:Столпня
     geometry : [52.9169113,30.4280420]
 n1546522004  Восаў / Vosaŭ / Осов / Осов
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Восава;Осаў | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Восава;Осаў | place=hamlet | wikipedia=ru:Осов (Рогачёвский район)
     geometry : [53.1981715,30.6057976]
 n3039018325  null / null / Приднепровский
   other tags : place=village | wikipedia=ru:Приднепровский (Рогачёвский район)
@@ -891,12 +891,12 @@ w25089416  Кісцяні / Kisciani / Кистени / Кистени
 w25089417  Янкаў Лог / Jankaŭ Loh / Янков Лог / Янков Лог
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
     geometry : n273062573[53.1610400,30.2614100] n2847828479[53.1614295,30.2592536] n273062575[53.1609094,30.2585824] n273062577[53.1587502,30.2591826] n273062580[53.1545200,30.2598700] n273062582[53.1502829,30.2614222] n273062584[53.1496948,30.2624413] n273062586[53.1499971,30.2643083] n273062588[53.1511700,30.2660500] n273062590[53.1553700,30.2644200] n273062573[53.1610400,30.2614100]
-w25089420  Ракуціна / Rakucina / Ракутино / Ракутино
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+w25089420  Ракуціна / Rakucina / Рекутино / Рекутино
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name=Ракутино | place=hamlet
     geometry : n273062593[53.1235300,30.3433800] n273062595[53.1222400,30.3416600] n273062597[53.1184700,30.3483600] n273062599[53.1203500,30.3521400] n273062601[53.1235300,30.3449300] n273062593[53.1235300,30.3433800]
 w25089422  Свержань / Svieržań / Свержень / Свержень
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
-    geometry : n273062602[53.1370900,30.3130800] n273062603[53.1352900,30.3132500] n273062604[53.1352000,30.3059600] n273062605[53.1343400,30.3057000] n273062606[53.1333100,30.3082800] n273062607[53.1335700,30.3125700] n273062608[53.1321100,30.3166900] n273062609[53.1315100,30.3232100] n273062610[53.1305700,30.3233800] n273062624[53.1312500,30.3287000] n273062626[53.1312500,30.3323100] n273062628[53.1323700,30.3325700] n273062630[53.1338300,30.3330800] n273062632[53.1344300,30.3277600] n273062634[53.1354600,30.3277600] n273062635[53.1375200,30.3223500] n273062636[53.1388900,30.3226100] n273062637[53.1389800,30.3220900] n273062638[53.1394900,30.3207200] n273062644[53.1389800,30.3200300] n273062646[53.1373500,30.3193500] n273062602[53.1370900,30.3130800]
+    geometry : n273062602[53.1370900,30.3130800] n273062603[53.1352900,30.3132500] n273062604[53.1352000,30.3059600] n273062605[53.1343400,30.3057000] n273062606[53.1333100,30.3082800] n273062607[53.1335700,30.3125700] n273062608[53.1321100,30.3166900] n273062609[53.1315100,30.3232100] n273062610[53.1305700,30.3233800] n273062624[53.1312500,30.3287000] n273062626[53.1312500,30.3323100] n273062628[53.1318409,30.3348403] n273062630[53.1338300,30.3330800] n273062632[53.1344300,30.3277600] n273062634[53.1354600,30.3277600] n273062635[53.1375200,30.3223500] n273062636[53.1388900,30.3226100] n273062637[53.1389800,30.3220900] n273062638[53.1394900,30.3207200] n273062644[53.1389800,30.3200300] n273062646[53.1373500,30.3193500] n273062602[53.1370900,30.3130800]
 w25089425  Вішчын / Viščyn / Вищин / Вищин
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
     geometry : n273062650[53.1450700,30.2687900] n273062652[53.1442200,30.2645000] n273062654[53.1402700,30.2675100] n273062656[53.1384600,30.2692200] n273062658[53.1383800,30.2621800] n273062660[53.1376100,30.2622700] n273062662[53.1374300,30.2648500] n273062664[53.1352000,30.2646700] n273062679[53.1346900,30.2663000] n273062681[53.1316000,30.2667300] n273062682[53.1272200,30.2676800] n273062683[53.1272200,30.2698200] n273062685[53.1274800,30.2723100] n273062687[53.1330600,30.2724000] n1203718445[53.1334358,30.2733111] n1203718610[53.1343858,30.2730611] n1203718204[53.1349858,30.2737411] n1203718284[53.1356758,30.2741711] n1203718329[53.1365258,30.2742611] n1203718488[53.1372158,30.2745211] n273062650[53.1450700,30.2687900]
@@ -1034,7 +1034,7 @@ w25096987  Ходасавічы / Chodasavičy / Ходосевичи / Ходо
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | landuse=residential | place=hamlet
     geometry : n273141272[53.0280900,30.1075200] n273141273[53.0268800,30.1043400] n273141275[53.0243100,30.1075200] n273141276[53.0226800,30.1101800] n273141279[53.0221600,30.1137800] n273141280[53.0208800,30.1137000] n273141282[53.0218200,30.1113800] n273141283[53.0207000,30.1104400] n273141286[53.0195900,30.1130100] n273141287[53.0176200,30.1091500] n273141290[53.0162400,30.1106100] n273141292[53.0162400,30.1119000] n273141293[53.0141800,30.1141300] n273141294[53.0125500,30.1178200] n273141297[53.0135000,30.1182500] n273141298[53.0155600,30.1156700] n273141300[53.0161600,30.1211700] n273141302[53.0137500,30.1276000] n273141304[53.0152100,30.1289800] n273141305[53.0178700,30.1277700] n273141307[53.0195900,30.1230500] n273141309[53.0193300,30.1215900] n273141310[53.0215600,30.1154100] n273141312[53.0216802,30.1149743] n273141313[53.0226908,30.1155430] n273141315[53.0222500,30.1179000] n273141317[53.0212200,30.1178200] n273141319[53.0189900,30.1275200] n273141320[53.0213100,30.1284600] n273141322[53.0243100,30.1164400] n273141324[53.0280900,30.1145600] n273141325[53.0285200,30.1107800] n273141328[53.0278300,30.1096600] n273141272[53.0280900,30.1075200]
 w25096990  Лучын / Lučyn / Лучин / Лучин
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n273141330[53.0007100,30.0060700] n273141333[52.9994447,30.0103570] n273141334[53.0023400,30.0124200] n2593803165[53.0020819,30.0141679] n273141336[53.0036200,30.0148200] n273141337[53.0022008,30.0178169] n273141340[53.0008579,30.0166153] n577354446[52.9972420,30.0142120] n273141341[52.9962529,30.0172624] n273141345[52.9992016,30.0226093] n273141347[53.0021514,30.0249842] n273141349[53.0057130,30.0236534] n273141351[53.0075722,30.0212502] n273141352[53.0112905,30.0248550] n2802102984[53.0131298,30.0264409] n2802102992[53.0140699,30.0252211] n2802102994[53.0145699,30.0243310] n2802102995[53.0148299,30.0237785] n2802102998[53.0155944,30.0221317] n2802102999[53.0158968,30.0214436] n2802106102[53.0164248,30.0205144] n2802106105[53.0171482,30.0201435] n273141366[53.0180574,30.0197428] n273141376[53.0201000,30.0185100] n273141384[53.0209337,30.0145293] n3240983847[53.0195418,30.0139473] n273141386[53.0181343,30.0132811] n273141388[53.0185094,30.0108682] n2621033587[53.0195411,30.0112117] n2621033607[53.0204201,30.0079092] n2621033562[53.0177751,30.0063271] n273141389[53.0174410,30.0100163] n273141390[53.0167639,30.0098032] n273141393[53.0156655,30.0093994] n273141395[53.0150518,30.0091666] n273141396[53.0142700,30.0088428] n273141398[53.0139200,30.0087300] n273141401[53.0063700,30.0053800] n273141403[53.0055751,30.0049904] n273141330[53.0007100,30.0060700]
 w25096991  Альсагорка / Aĺsahorka / Альсагорка / Альсагорка
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
@@ -1090,8 +1090,8 @@ w25103050  Навасёлкі / Navasiolki / Новосёлки / Новосёл
 w25103053  Ціхінічы / Cichiničy / Тихиничи / Тихиничи
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n273234423[53.1335143,29.8549780] n3249136793[53.1333082,29.8560304] n273234427[53.1351350,29.8572446] n2616995349[53.1404303,29.8584029] n2616995353[53.1432441,29.8592454] n273234433[53.1486668,29.8575750] n2991217965[53.1486398,29.8587692] n273234445[53.1462537,29.8632735] n273234450[53.1456362,29.8663647] n273234461[53.1467914,29.8704736] n2991217966[53.1498572,29.8720351] n2616995372[53.1499111,29.8744921] n2616995379[53.1512120,29.8743113] n273234469[53.1513515,29.8722464] n2616995387[53.1517204,29.8720494] n273234479[53.1522117,29.8712986] n273234483[53.1529907,29.8676486] n273234504[53.1571552,29.8684074] n2991217971[53.1584018,29.8657891] n273234518[53.1649381,29.8653550] n2991217974[53.1646750,29.8615524] n2991217976[53.1657135,29.8615524] n273234522[53.1683144,29.8638690] n273234528[53.1694269,29.8606563] n273234531[53.1664868,29.8568039] n273234541[53.1651600,29.8568100] n273234543[53.1523700,29.8550000] n273234547[53.1467686,29.8545840] n3249136836[53.1423098,29.8539263] n3249136830[53.1378601,29.8533468] n3249136824[53.1353087,29.8535964] n3249136823[53.1351750,29.8549962] n273234423[53.1335143,29.8549780]
-w25103055  Касцяшоў / Kasciašoŭ / Костешов / Костешов
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+w25103055  Касцяшоў / Kasciašoŭ / Костешев / Костешев
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:ru=Костешов | place=hamlet | wikipedia=ru:Костешев (Рогачёвский район)
     geometry : n273234553[53.1389800,29.9721600] n273234557[53.1382900,29.9704500] n273234561[53.1329700,29.9748200] n273234565[53.1333100,29.9763700] n273234578[53.1335700,29.9780000] n273234581[53.1346900,29.9774800] n273234584[53.1377738,29.9750737] n3474932093[53.1384926,29.9741313] n273234588[53.1391471,29.9733730] n273234553[53.1389800,29.9721600]
 w25103056  Хамічы / Chamičy / Хомичи / Хомичи
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | landuse=residential | place=hamlet
@@ -1240,8 +1240,8 @@ w25104053  Антушы / Antušy / Антуши / Антуши
 w25104055  Побалава / Pobalava / Поболово / Поболово
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | landuse=residential | place=village
     geometry : n273250986[53.0217397,29.7720566] n273250988[53.0208800,29.7694300] n273250989[53.0163300,29.7726900] n273250990[53.0154067,29.7726914] n273250993[53.0127716,29.7740360] n273250994[53.0119215,29.7744242] n2785743635[53.0111872,29.7744973] n2616160996[53.0108720,29.7748241] n273250996[53.0099540,29.7759347] n273250997[53.0098900,29.7781000] n273250998[53.0063700,29.7804200] n273251000[53.0062000,29.7838500] n273251001[53.0068000,29.7868500] n273251002[53.0073200,29.7872800] n273251004[53.0078994,29.7887697] n273251010[53.0110257,29.7853972] n2572575564[53.0118721,29.7911570] n2785743642[53.0131839,29.7903074] n2785743648[53.0135378,29.7925854] n2616161042[53.0153346,29.7915251] n2616161040[53.0150220,29.7885668] n273251012[53.0168682,29.7874578] n273251013[53.0166252,29.7850792] n2616161058[53.0176085,29.7846107] n2616161067[53.0184201,29.7842908] n2616161070[53.0198991,29.7835613] n273251014[53.0227132,29.7823863] n273250986[53.0217397,29.7720566]
-w25104056  Пласкінскі / Plaskinski / Плоскинский / Плоскинский
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Пласкіня | landuse=residential | place=hamlet
+w25104056  Пласкіня / Plaskinski / Пласкиня / Пласкиня
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name=Плоскинский | alt_name:be=Пласкінскі | landuse=residential | place=hamlet
     geometry : n273251017[53.0684594,29.7379144] n3331465509[53.0677125,29.7383207] n273251019[53.0675131,29.7370865] n273251020[53.0661571,29.7378137] n3331465503[53.0662989,29.7390630] n3331465501[53.0654194,29.7395492] n273251021[53.0658230,29.7416133] n273251023[53.0686932,29.7393271] n273251017[53.0684594,29.7379144]
 w25104058  Яскіня / Jaskinia / Яскиня / Яскиня
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | landuse=residential | place=hamlet
@@ -1283,13 +1283,13 @@ w326099943  Шчыбрын / null / Щибрин
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
     geometry : n3043449517[53.1216746,30.0742014] n3327170893[53.1214242,30.0756452] n3327170894[53.1234458,30.0777051] n3327170895[53.1237549,30.0768039] n3327170896[53.1250425,30.0782201] n3327170897[53.1237163,30.0798509] n3327170898[53.1237420,30.0816104] n3327170899[53.1242056,30.0824044] n3327170900[53.1268966,30.0857303] n3327170901[53.1296390,30.0873182] n3327170902[53.1308106,30.0866530] n3327170903[53.1311196,30.0863311] n3327170904[53.1314415,30.0868676] n3327170905[53.1314672,30.0874255] n3327170906[53.1319178,30.0873396] n3327170907[53.1323169,30.0885413] n3327170908[53.1331795,30.0896785] n3204916709[53.1341035,30.0878944] n3204916703[53.1335667,30.0850571] n3204916704[53.1335090,30.0844679] n3276342131[53.1335912,30.0844416] n3204916705[53.1336973,30.0838699] n3204916707[53.1338342,30.0836873] n3204916708[53.1341035,30.0839384] n678550498[53.1346530,30.0829878] n3204916711[53.1351122,30.0818234] n3327170909[53.1343123,30.0805161] n3327170910[53.1319049,30.0799367] n3327170911[53.1312484,30.0819538] n3327170912[53.1291755,30.0796149] n3327170913[53.1285576,30.0811598] n3043449517[53.1216746,30.0742014]
 w326102741  Забалацце / null / Заболотье
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n3327189692[53.0589113,29.9160766] n3327197893[53.0543717,29.9190592] n3327197894[53.0535205,29.9153471] n3327197895[53.0460650,29.9219775] n3327197896[53.0456522,29.9237155] n3327197897[53.0479226,29.9303889] n3327197898[53.0477678,29.9335002] n3327197899[53.0460521,29.9347662] n3327197900[53.0453942,29.9346804] n3327197901[53.0443235,29.9325132] n3327197902[53.0436011,29.9292731] n3327197903[53.0434592,29.9275565] n3327197904[53.0438720,29.9264407] n3327197905[53.0433044,29.9255824] n3327197906[53.0415112,29.9269557] n3327197907[53.0405049,29.9262905] n3327197908[53.0350601,29.9292087] n3283834595[53.0343268,29.9257050] n3327197909[53.0336290,29.9205077] n3327197910[53.0339569,29.9189090] n3327197911[53.0386083,29.9172568] n3327197912[53.0380148,29.9140167] n3327197913[53.0432399,29.9095106] n3327197914[53.0452394,29.9140167] n3327197915[53.0474359,29.9119024] n3327197916[53.0484256,29.9146819] n3327197917[53.0525144,29.9107766] n3327197918[53.0509022,29.9050045] n3278278522[53.0515135,29.9040708] n3327197919[53.0528498,29.9039530] n3327197920[53.0558677,29.9158620] n3327197921[53.0574153,29.9143600] n3327197922[53.0576991,29.9143171] n3327197923[53.0586792,29.9146390] n3327189692[53.0589113,29.9160766]
 w326226652  Заполле / null / Заполье
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n3244336820[53.1004923,29.9542272] n3244336822[53.1004923,29.9546347] n3244336791[53.1002035,29.9546333] n3244336789[53.1002013,29.9559627] n3244336777[53.0999498,29.9559665] n3244336775[53.0999403,29.9572262] n3244336766[53.0997912,29.9572242] n3244336763[53.0997888,29.9589236] n3244331856[53.0992348,29.9589236] n3244331858[53.0992359,29.9614758] n3328466343[53.0992995,29.9636400] n677645919[53.1007105,29.9634592] n3047106222[53.1024671,29.9627340] n3311324364[53.1023707,29.9625507] n3244437782[53.1022926,29.9623153] n3244336918[53.1022588,29.9620365] n3047106218[53.1022416,29.9614013] n3311324363[53.1023012,29.9611854] n3244336929[53.1024282,29.9610121] n3311324365[53.1025769,29.9609183] n3047106175[53.1027438,29.9608591] n3311324366[53.1030022,29.9608949] n3244336937[53.1031650,29.9609737] n3047106152[53.1033907,29.9611061] n3047106173[53.1035390,29.9613029] n3047106178[53.1036261,29.9614749] n3244437796[53.1036394,29.9616893] n3304183585[53.1038834,29.9617004] n3047106190[53.1039573,29.9615731] n3047106221[53.1044533,29.9617233] n3311324369[53.1046601,29.9615457] n3311324370[53.1047667,29.9613122] n3311324371[53.1048828,29.9610245] n3047106184[53.1049507,29.9608005] n3311324372[53.1052383,29.9607368] n3047106147[53.1056504,29.9607899] n3328466344[53.1060888,29.9601853] n3328466345[53.1082400,29.9602068] n3328466346[53.1087552,29.9607432] n3328466347[53.1103524,29.9605501] n3328466348[53.1102365,29.9649919] n3311324966[53.1159702,29.9640778] n3311325027[53.1170154,29.9639301] n3328466349[53.1235916,29.9627817] n3328466350[53.1235529,29.9599278] n3328466351[53.1267462,29.9593699] n3330007747[53.1273551,29.9566400] n3328466352[53.1275316,29.9552715] n3328466353[53.1258192,29.9529541] n3328466354[53.1256646,29.9519241] n3328466355[53.1241215,29.9518669] n2912690972[53.1235440,29.9523773] n3328466356[53.1222910,29.9529970] n3328466357[53.1222781,29.9535978] n3328466358[53.1178225,29.9534262] n3328466359[53.1178869,29.9517525] n3328466360[53.1155945,29.9515379] n3328466361[53.1154399,29.9483836] n3328466362[53.1114859,29.9487484] n3328466363[53.1113442,29.9508942] n3328466364[53.1106329,29.9510202] n3448396200[53.1107228,29.9562607] n3328466365[53.1081970,29.9567519] n3328466366[53.1037442,29.9580610] n3244336838[53.1012734,29.9586353] n3244336839[53.1012938,29.9567868] n3244336868[53.1015092,29.9567828] n3244336881[53.1015552,29.9562682] n3244336900[53.1017710,29.9562642] n3244336903[53.1017754,29.9551459] n3244336877[53.1015501,29.9551447] n3244336879[53.1015576,29.9542233] n3244336820[53.1004923,29.9542272]
 w327531963  Гадзілавічы / null / Гадиловичи / Гадиловичи
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n2715649485[53.0871445,30.2778502] n3343218420[53.0845748,30.2692893] n3343218421[53.0845490,30.2632811] n3343218422[53.0846006,30.2604058] n3343218423[53.0843686,30.2579167] n3343218424[53.0839948,30.2566293] n3339720358[53.0837076,30.2567945] n3339720357[53.0833700,30.2571514] n3339720355[53.0829788,30.2563484] n595227982[53.0825127,30.2558123] n3339720352[53.0819927,30.2559915] n595227985[53.0806892,30.2574184] n3339720320[53.0807541,30.2597863] n3339719877[53.0787965,30.2623397] n3339719828[53.0782040,30.2612659] n3339719576[53.0775326,30.2621024] n3339719529[53.0769213,30.2610161] n3339719517[53.0767375,30.2612846] n3339719365[53.0759274,30.2604043] n3339719316[53.0745772,30.2579008] n2429471526[53.0744613,30.2579693] n2429471523[53.0739457,30.2581550] n3339719192[53.0741264,30.2591077] n3339719300[53.0741960,30.2595939] n3339719301[53.0742014,30.2600356] n3343218425[53.0739521,30.2603255] n3343218426[53.0740218,30.2606333] n3343218427[53.0737458,30.2609278] n3343218428[53.0732523,30.2611707] n3343218429[53.0682423,30.2659419] n3343218430[53.0685775,30.2708986] n3343218447[53.0694928,30.2755847] n3343218431[53.0702149,30.2798894] n3343218446[53.0699415,30.2804826] n3343218440[53.0713886,30.2846252] n3343218432[53.0722776,30.2840522] n3343218433[53.0784653,30.2777651] n3343218438[53.0814557,30.2871850] n3343218439[53.0834081,30.2848535] n3343218437[53.0828556,30.2834503] n2715649485[53.0871445,30.2778502]
 w328509523  Хатоўня / null / Хатовня / Хатовня
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
@@ -1310,7 +1310,7 @@ w340805609  Званец / null / Звонец / Звонец
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n2122838763[53.2241581,30.4352297] n2122838774[53.2241956,30.4358141] n2122838776[53.2242394,30.4361585] n2122838784[53.2245580,30.4362838] n2122838782[53.2245393,30.4365969] n2386805149[53.2246718,30.4366768] n3498695393[53.2259380,30.4362400] n462249964[53.2272047,30.4358116] n2122838816[53.2271596,30.4361712] n2122838818[53.2272065,30.4364530] n2122838812[53.2269004,30.4365991] n2122838806[53.2265442,30.4367452] n2122838800[53.2260680,30.4371911] n3480557492[53.2262400,30.4380823] n3480557593[53.2271970,30.4377068] n3480557594[53.2273254,30.4389192] n3480557595[53.2323670,30.4379643] n3480557596[53.2326238,30.4366554] n3480557597[53.2337285,30.4363772] n3480557598[53.2352568,30.4360331] n3480557599[53.2355714,30.4374386] n3480557600[53.2354430,30.4406036] n3480557601[53.2347302,30.4405821] n3480557602[53.2345183,30.4449380] n3480557603[53.2362264,30.4450561] n3480557604[53.2368493,30.4428888] n3480557605[53.2364383,30.4392625] n3480557606[53.2370933,30.4388226] n3480557607[53.2385252,30.4401530] n3480557608[53.2394846,30.4392259] n3480557609[53.2393150,30.4375781] n3474721122[53.2390509,30.4336622] n3474721114[53.2389655,30.4333766] n3474721111[53.2389460,30.4331884] n3474721116[53.2389849,30.4329418] n3474721117[53.2389927,30.4326498] n3474721123[53.2390546,30.4323992] n3474721129[53.2391178,30.4322065] n3474721147[53.2392304,30.4320642] n3474721154[53.2393100,30.4319311] n3474721166[53.2394268,30.4318554] n3474721187[53.2396739,30.4317498] n3474721196[53.2397838,30.4317108] n3474721207[53.2399349,30.4316743] n3474721211[53.2400880,30.4316503] n3474721216[53.2402912,30.4315750] n3496937120[53.2403708,30.4315762] n3474721220[53.2404220,30.4316049] n3474721222[53.2404911,30.4317778] n3474721224[53.2405208,30.4319605] n3474721225[53.2405890,30.4320786] n3496937132[53.2406616,30.4321664] n3474721230[53.2407793,30.4321630] n3474721239[53.2408997,30.4321306] n3474721245[53.2410240,30.4321306] n3474721249[53.2411405,30.4322084] n3474721251[53.2412027,30.4323837] n3474721253[53.2412376,30.4325849] n3474721254[53.2412493,30.4327860] n3480557610[53.2463453,30.4308940] n3480557611[53.2471799,30.4358507] n3480557612[53.2458317,30.4360975] n3480557613[53.2462490,30.4411722] n2386805249[53.2484404,30.4404544] n2386805250[53.2484634,30.4403610] n2386805248[53.2481411,30.4361346] n3480557614[53.2477256,30.4357112] n3480557615[53.2473211,30.4357863] n3480557616[53.2463582,30.4298104] n2386805199[53.2464049,30.4297925] n683384396[53.2463208,30.4293166] n1822074144[53.2460325,30.4289759] n683384391[53.2450373,30.4276591] n2122838890[53.2419196,30.4291462] n2122838888[53.2417066,30.4294359] n3504355175[53.2416142,30.4294679] n2122838884[53.2413318,30.4295201] n3504355174[53.2411363,30.4294836] n2122838879[53.2409901,30.4294058] n3474721232[53.2408321,30.4292170] n2122838872[53.2407433,30.4289663] n3474721118[53.2390141,30.4290601] n3474721079[53.2372701,30.4280023] n3474721083[53.2374138,30.4263992] n3474721089[53.2378702,30.4203733] n3480557617[53.2379537,30.4168285] n3488371260[53.2380633,30.4166775] n3480557618[53.2385132,30.4168969] n2593795088[53.2388306,30.4154170] n3474721109[53.2389059,30.4151463] n3474721119[53.2390146,30.4151463] n3474721131[53.2391234,30.4150230] n3474721142[53.2391933,30.4147180] n683384380[53.2391663,30.4141234] n3440714790[53.2386092,30.4139102] n3496940314[53.2385380,30.4138287] n3440714789[53.2384672,30.4136761] n2386805173[53.2378154,30.4131156] n3268394981[53.2378376,30.4128199] n2593795091[53.2390237,30.4125012] n3496936936[53.2390750,30.4127388] n2386805179[53.2391673,30.4129044] n3486011271[53.2397762,30.4128613] n3486011273[53.2401684,30.4123282] n3486011274[53.2402510,30.4119425] n3486011272[53.2400444,30.4115802] n683384367[53.2405593,30.4102533] n3486011275[53.2408568,30.4093138] n683384363[53.2408736,30.4089578] n3480557619[53.2385894,30.4088892] n3480557620[53.2383582,30.4072691] n3480557621[53.2371318,30.4030419] n3268394940[53.2352777,30.4021826] n3268394928[53.2346436,30.4007808] n3268394920[53.2343997,30.3998680] n3268394915[53.2340485,30.3994769] n3268394904[53.2333558,30.3988901] n3480557622[53.2326238,30.4006709] n3480557623[53.2333174,30.4015828] n3480557624[53.2340752,30.4005958] n3480557625[53.2345632,30.4025591] n3480557626[53.2338568,30.4033745] n3480557627[53.2346168,30.4099985] n3486011135[53.2340123,30.4116054] n3486011036[53.2332266,30.4134069] n3480557628[53.2318147,30.4163993] n3480557629[53.2287448,30.4186524] n3480557630[53.2285136,30.4191137] n3480557631[53.2312559,30.4224397] n3480557632[53.2300772,30.4242822] n3480557633[53.2288668,30.4252721] n3480557634[53.2270890,30.4279118] n3480557635[53.2251545,30.4285873] n3486010301[53.2248283,30.4291198] n3480557636[53.2243773,30.4297675] n3480557637[53.2239534,30.4293705] n3480557638[53.2221998,30.4321815] n3480557639[53.2217501,30.4317308] n3480557640[53.2204461,30.4322244] n3480557647[53.2189044,30.4343272] n3480557646[53.2188080,30.4350568] n3480557645[53.2189781,30.4354802] n3480557644[53.2191718,30.4358872] n3480557643[53.2197842,30.4356576] n3480557642[53.2202216,30.4350001] n3480557641[53.2207299,30.4345108] n3488642219[53.2213193,30.4339268] n3488642223[53.2215728,30.4336444] n2122838727[53.2222292,30.4329639] n2122838731[53.2226211,30.4337164] n2122838751[53.2236405,30.4336790] n2122838763[53.2241581,30.4352297]
 w344219782  Балотня / null / Болотня / Болотня
-  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | place=village
     geometry : n3509681927[53.2194136,30.6036815] n3308509166[53.2178891,30.6037933] n3308509161[53.2174296,30.6041022] n3308509156[53.2170000,30.6046004] n3308509153[53.2168151,30.6048993] n3308509149[53.2166897,30.6049890] n3308509144[53.2163079,30.6048794] n3308509141[53.2160931,30.6046602] n3308509139[53.2157350,30.6037734] n3308509138[53.2156753,30.6029164] n3308509135[53.2155263,30.6019897] n3308509133[53.2155023,30.6013121] n3308509137[53.2156694,30.6007840] n3509681928[53.2111772,30.5910643] n3509681929[53.2081444,30.5930385] n3509681930[53.2083116,30.5961284] n3509681931[53.2069107,30.5963429] n3509681932[53.2073991,30.6012997] n3509681933[53.2059854,30.6058058] n3509681934[53.2036720,30.6081661] n3509681935[53.2060111,30.6147322] n3509681936[53.2066666,30.6161698] n3509681937[53.2080674,30.6161698] n3509681938[53.2097252,30.6212982] n3509681939[53.2105090,30.6235727] n3308509092[53.2113551,30.6227740] n3308509094[53.2113446,30.6226522] n3504628911[53.2114587,30.6224523] n3308509100[53.2118631,30.6222029] n3504628976[53.2119513,30.6221238] n3308509104[53.2121589,30.6217624] n3504628996[53.2122183,30.6216950] n3308509106[53.2123489,30.6216676] n3504629028[53.2125876,30.6215084] n3308509110[53.2128766,30.6211677] n3308509112[53.2129906,30.6210552] n3514076685[53.2130832,30.6207624] n3308509115[53.2131314,30.6204642] n3308509117[53.2132515,30.6199306] n3308509120[53.2133675,30.6193789] n3504629125[53.2135427,30.6191600] n3514076686[53.2137737,30.6187303] n3509681940[53.2145436,30.6174378] n3308509126[53.2138913,30.6162594] n3308509130[53.2148937,30.6147648] n3509681941[53.2156276,30.6161374] n3509681942[53.2183085,30.6104835] n3509681943[53.2175120,30.6088742] n2583214828[53.2198342,30.6049432] n3509681927[53.2194136,30.6036815]
 r4845559  Курганне / Kurhannie / Курганье / Курганье
   other tags : addr:country=BY | addr:district=Рогачёвский район | addr:region=Гомельская область | alt_name:be=Дзедлава;Дзедлаў | place=village | type=multipolygon
