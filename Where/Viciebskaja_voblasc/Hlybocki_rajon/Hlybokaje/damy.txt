@@ -827,10 +827,10 @@ w156933180  null / null / 202а
   other tags : addr:housenumber=202а | building=residential | building:levels=1
     geometry : n1691724381[55.1626633,27.6777499] n1691724379[55.1626485,27.6779298] n1691724372[55.1625568,27.6779067] n1691724374[55.1625716,27.6777268] n1691724381[55.1626633,27.6777499]
 w156933186
-  other tags : addr:city=Глубокое | addr:housenumber=203а | addr:street=Советская | building=house
+  other tags : addr:housenumber=203а | addr:street=Советская улица | building=house
     geometry : n1691724508[55.1631103,27.6726327] n1691724466[55.1630092,27.6727442] n1691724445[55.1629539,27.6725905] n1691724482[55.1630549,27.6724790] n1691724508[55.1631103,27.6726327]
 w156933189
-  other tags : addr:city=Глубокое | addr:housenumber=201в | addr:street=Советская | building=house
+  other tags : addr:housenumber=201в | addr:street=Советская улица | building=house
     geometry : n1691724582[55.1634041,27.6727980] n1691724568[55.1633264,27.6728692] n1691724562[55.1632870,27.6727372] n1691724574[55.1633646,27.6726661] n1691724582[55.1634041,27.6727980]
 w156933193  null / null / 200а
   other tags : addr:housenumber=200а | addr:street=Советская улица | building=residential | building:levels=1
@@ -842,7 +842,7 @@ w156933206
   other tags : addr:housenumber=30 | addr:street=пер. Совхозный | building=house | building:levels=1
     geometry : n1691724446[55.1629027,27.6827428] n1691724444[55.1628987,27.6828751] n1691724419[55.1628031,27.6828662] n1691724421[55.1628071,27.6827339] n1691724446[55.1629027,27.6827428]
 w156933208
-  other tags : addr:city=Глубокое | addr:housenumber=208 | addr:street=Советская | building=house
+  other tags : addr:housenumber=208 | addr:street=Советская улица | building=house
     geometry : n1691724417[55.1628558,27.6756978] n1691724422[55.1628716,27.6757953] n1691724388[55.1627162,27.6758724] n1691724386[55.1627004,27.6757748] n1691724417[55.1628558,27.6756978]
 w156933218
   other tags : addr:housenumber=5 | addr:street=улица Михайловка | building=house | building:levels=1
@@ -854,13 +854,13 @@ w156933225
   other tags : addr:city=Глубокое | addr:housenumber=1 | addr:street=пер. Северный | building=house | building:levels=1
     geometry : n1691724945[55.1669863,27.6760539] n1691724946[55.1670121,27.6761977] n1691724941[55.1669642,27.6762240] n1691724940[55.1669558,27.6761772] n1691724936[55.1668943,27.6762109] n1691724933[55.1668770,27.6761140] n1691724945[55.1669863,27.6760539]
 w156933228
-  other tags : addr:city=Глубокое | addr:housenumber=203б | addr:street=Советская | building=house
+  other tags : addr:housenumber=203б | addr:street=Советская улица | building=house
     geometry : n1691724452[55.1629750,27.6722297] n1691724423[55.1628767,27.6723315] n1691724410[55.1628158,27.6721512] n1691724426[55.1628874,27.6720772] n1691724429[55.1629087,27.6721404] n1691724437[55.1629355,27.6721127] n1691724452[55.1629750,27.6722297]
 w156933229
-  other tags : addr:housenumber=185 | addr:street=Советская | building=house | building:levels=1
+  other tags : addr:housenumber=185 | addr:street=Советская улица | building=house | building:levels=1
     geometry : n1691724359[55.1624727,27.6755612] n1691724365[55.1625097,27.6756749] n1691724360[55.1624748,27.6757097] n1691724357[55.1624636,27.6756751] n1691724352[55.1624161,27.6757225] n1691724345[55.1623903,27.6756433] n1691724359[55.1624727,27.6755612]
 w156933231
-  other tags : addr:city=Глубокое | addr:housenumber=205а | addr:street=Советская | building=house | building:levels=1
+  other tags : addr:housenumber=205а | addr:street=Советская улица | building=house | building:levels=1
     geometry : n1691724608[55.1635420,27.6732252] n1691724613[55.1635864,27.6733699] n1691724602[55.1635071,27.6734445] n1691724596[55.1634765,27.6733449] n1691724606[55.1635157,27.6733080] n1691724601[55.1635019,27.6732630] n1691724608[55.1635420,27.6732252]
 w156933232  null / null / 200
   other tags : addr:housenumber=200 | building=residential | building:levels=1
@@ -878,16 +878,16 @@ w156933236
   other tags : addr:housenumber=22 | addr:street=пер. Совхозный | building=house | building:levels=1
     geometry : n1691724464[55.1629565,27.6809980] n1691724460[55.1629482,27.6811692] n1691724440[55.1628915,27.6811607] n1691724442[55.1628947,27.6810962] n1691724431[55.1628659,27.6810919] n1691724432[55.1628711,27.6809852] n1691724464[55.1629565,27.6809980]
 w156933243
-  other tags : addr:city=Глубокое | addr:housenumber=216а | addr:street=Советская | building=house
+  other tags : addr:housenumber=216а | addr:street=Советская улица | building=house
     geometry : n1691724649[55.1640582,27.6752390] n1691724651[55.1641000,27.6753887] n1691724648[55.1640488,27.6754325] n1691724647[55.1640269,27.6753537] n1691724645[55.1640062,27.6753714] n1691724643[55.1639864,27.6753004] n1691724649[55.1640582,27.6752390]
 w156933247
-  other tags : addr:city=Глубокое | addr:housenumber=214б | addr:street=Советская | building=house
+  other tags : addr:housenumber=214б | addr:street=Советская улица | building=house
     geometry : n1691724661[55.1641988,27.6760980] n1691724664[55.1642074,27.6762389] n1691724656[55.1641252,27.6762543] n1691724655[55.1641216,27.6761955] n1691724658[55.1641457,27.6761910] n1691724657[55.1641407,27.6761089] n1691724661[55.1641988,27.6760980]
 w156933262
   other tags : addr:city=Глубокое | addr:housenumber=1а | addr:street=пер. Северный | building=house
     geometry : n1691724917[55.1667622,27.6753797] n1691724921[55.1667873,27.6755819] n1691724916[55.1667620,27.6755916] n1691724915[55.1667593,27.6755694] n1691724912[55.1667256,27.6755822] n1691724909[55.1667032,27.6754021] n1691724917[55.1667622,27.6753797]
 w156933266
-  other tags : addr:city=Глубокое | addr:housenumber=212б | addr:street=Советская | building=house
+  other tags : addr:housenumber=212б | addr:street=Советская улица | building=house
     geometry : n1691724564[55.1633024,27.6763888] n1691724567[55.1633259,27.6765599] n1691724555[55.1632595,27.6765878] n1691724551[55.1632453,27.6764842] n1691724547[55.1632302,27.6764905] n1691724543[55.1632210,27.6764231] n1691724564[55.1633024,27.6763888]
 w156933268
   other tags : addr:city=Глубокое | addr:housenumber=3в | addr:street=пер. Северный | building=house
@@ -896,7 +896,7 @@ w156933276  null / null / 204
   other tags : addr:housenumber=204 | addr:street=Советская улица | building=residential | building:levels=1
     geometry : n1691724316[55.1623150,27.6764725] n1691724346[55.1623924,27.6766535] n1691724331[55.1623452,27.6767154] n1691724325[55.1623309,27.6766821] n1691724315[55.1623109,27.6767082] n1691724301[55.1622781,27.6766315] n1691724311[55.1622975,27.6766061] n1691724297[55.1622672,27.6765352] n1691724316[55.1623150,27.6764725]
 w156933282
-  other tags : addr:city=Глубокое | addr:housenumber=214б | addr:street=Советская | building=house
+  other tags : addr:housenumber=214б | addr:street=Советская улица | building=house
     geometry : n1691724644[55.1640010,27.6761448] n1691724646[55.1640159,27.6762983] n1691724642[55.1639453,27.6763192] n1691724641[55.1639414,27.6762787] n1691724636[55.1639214,27.6762846] n1691724635[55.1639152,27.6762208] n1691724640[55.1639395,27.6762136] n1691724639[55.1639348,27.6761645] n1691724644[55.1640010,27.6761448]
 w156933285
   other tags : addr:housenumber=3 | addr:street=улица Михайловка | building=house | building:levels=1
@@ -1391,10 +1391,10 @@ w339874140
   other tags : building=house
     geometry : n3470834336[55.1636128,27.6735324] n3470834335[55.1634975,27.6736441] n3470834337[55.1636219,27.6740374] n3470834338[55.1637372,27.6739257] n3470834336[55.1636128,27.6735324]
 w339874267
-  other tags : addr:city=Глубокое | addr:housenumber=203б | addr:street=Советская | building=house
+  other tags : addr:housenumber=203б | addr:street=Советская улица | building=house
     geometry : n3470844771[55.1630239,27.6718456] n3470844769[55.1629520,27.6719088] n3470844770[55.1630154,27.6721297] n3470844772[55.1630873,27.6720665] n3470844771[55.1630239,27.6718456]
 w339874268
-  other tags : addr:city=Глубокое | addr:housenumber=207а | addr:street=Советская | building=house
+  other tags : addr:housenumber=207а | addr:street=Советская улица | building=house
     geometry : n3470844767[55.1627126,27.6717132] n3470844768[55.1627790,27.6719107] n3470844766[55.1626854,27.6720071] n3470844765[55.1626190,27.6718095] n3470844767[55.1627126,27.6717132]
 w339876751
   other tags : addr:housenumber=46 | addr:street=Молодёжная улица | building=house
