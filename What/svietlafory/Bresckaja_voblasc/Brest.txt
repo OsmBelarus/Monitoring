@@ -669,9 +669,6 @@ n2421651062  null / null / Жукова
 n2421651068  null / null / Жукова
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=no
     geometry : [52.0589058,23.7280043]
-n2539451690  null / null / Крепость
-  other tags : highway=bus_stop
-    geometry : [52.0865376,23.6689697]
 n2574276491  null / null / Бернады
   other tags : highway=bus_stop
     geometry : [52.0257491,23.7034135]
@@ -742,3 +739,6 @@ n3308305725
 n3389342989
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [52.0724999,23.6750807]
+n3524078729  null / null / Крепость
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.0864275,23.6692537]
