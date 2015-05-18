@@ -11914,14 +11914,14 @@ w210667099
   other tags : highway=tertiary | maxspeed=60 | ref=Н6052 | source=yahoo | surface=asphalt
     geometry : n320690674[53.6590269,23.9623703] n2495997363[53.6588439,23.9622717] n2495997362[53.6587219,23.9622074] n320690675[53.6566609,23.9609049] n320690676[53.6564408,23.9608252] n510138705[53.6562657,23.9608104] n510138717[53.6560830,23.9608214] n320690678[53.6559156,23.9609030]
 w210980923  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=secondary | lanes=2 | oneway=yes | source=Белкартография | surface=asphalt
+  other tags : bicycle=designated | highway=secondary | lanes=2 | oneway=yes | source=Белкартография | surface=asphalt
     geometry : n320672591[53.6196390,23.7975635] n3154774592[53.6219005,23.7992827] n2210014079[53.6231223,23.8002288]
 w210980924
   other tags : highway=secondary_link | surface=asphalt
     geometry : n320672591[53.6196390,23.7975635] n3140646829[53.6195471,23.7972601]
 w210981155  вуліца Францішка Багушэвіча / vulica Franciška Bahuševiča / улица Франтишка Богушевича / улица Франтишка Богушевича
-  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
-    geometry : n2210016133[53.6159927,23.8081134] n3140646324[53.6168784,23.8053637] n320672591[53.6196390,23.7975635]
+  other tags : bicycle=designated | highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
+    geometry : n2210016133[53.6159927,23.8081134] n3140646324[53.6168784,23.8053637] n3524142481[53.6189903,23.7994231] n320672591[53.6196390,23.7975635]
 w210981356  вуліца Напалеона Орды / vulica Napalieona Ordy / улица Наполеона Орды / улица Наполеона Орды
   other tags : highway=tertiary | surface=asphalt
     geometry : n1777126423[53.6203576,23.8096768] n3378465555[53.6204845,23.8097747] n1770708773[53.6214976,23.8104681] n3378465556[53.6221056,23.8108895] n3378465562[53.6243887,23.8124725] n3378465563[53.6244041,23.8124831] n1743494872[53.6245226,23.8125682]
@@ -16594,7 +16594,7 @@ w308791058
   other tags : highway=secondary_link | surface=asphalt
     geometry : n3140646830[53.6196508,23.7972990] n320672591[53.6196390,23.7975635]
 w308791066  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=secondary | lanes=2 | oneway=yes | surface=asphalt
+  other tags : bicycle=designated | highway=secondary | lanes=2 | oneway=yes | surface=asphalt
     geometry : n2717577380[53.6231848,23.7999898] n3140646830[53.6196508,23.7972990]
 w308791067  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
   other tags : highway=secondary | lanes=2 | oneway=yes | surface=asphalt
@@ -17368,7 +17368,7 @@ w334731992
   other tags : highway=unclassified | maxspeed=40 | source=yahoo | surface=unpaved
     geometry : n3140646829[53.6195471,23.7972601] n320744484[53.6194965,23.7972491] n3140646328[53.6189651,23.7973535] n320744487[53.6178944,23.7974661] n320744490[53.6176959,23.7974459] n320744493[53.6175231,23.7974223] n534936404[53.6173611,23.7973256] n534936405[53.6157893,23.7959543] n320744496[53.6154369,23.7956475] n320744499[53.6153135,23.7955956] n320744501[53.6151870,23.7955806] n320744504[53.6130611,23.7959763] n534936343[53.6129323,23.7959479] n320744506[53.6127714,23.7958909] n320742577[53.6120838,23.7956226]
 w334731994  вуліца Францішка Багушэвіча / vulica Franciška Bahuševiča / улица Франтишка Богушевича / улица Франтишка Богушевича
-  other tags : highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
+  other tags : bicycle=designated | highway=secondary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n3140646829[53.6195471,23.7972601] n3140646323[53.6167561,23.8052747] n3140646321[53.6158685,23.8079840] n2210016133[53.6159927,23.8081134]
 w334731995  Гродзенская вуліца / Hrodzienskaja vulica / Гродненская улица / Гродненская улица
   other tags : highway=residential | lanes=3 | maxspeed=40 | source=yahoo | surface=asphalt
