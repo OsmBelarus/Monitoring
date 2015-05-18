@@ -41,11 +41,11 @@ n2494769728
   other tags : highway=bus_stop
     geometry : [55.1041646,30.5602176]
 n2523250956
-  other tags : highway=bus_stop
-    geometry : [55.0324950,30.5740953]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0324776,30.5740589]
 n2523250959
-  other tags : highway=bus_stop
-    geometry : [55.0327867,30.5742270]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.0327809,30.5742048]
 n2645064791  null / null / Смородино
   other tags : highway=bus_stop
     geometry : [55.0747362,30.6655748]
@@ -100,3 +100,12 @@ n3164353822
 n3425183668
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0566031,30.5792952]
+n3523213017
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.0125036,30.5684997]
+n3523213032
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0134433,30.5691756]
+n3523213262
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.0244151,30.5764167]
