@@ -8804,12 +8804,12 @@ n3188976348  null / null / BIGZ
 n3188983001  null / null / Мачулищи
   other tags : shop=supermarket
     geometry : [53.9237046,27.4408379]
-n3190097697  Панскі  пачастунак / null / Кулинария
-  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-22:00, сб: 10:00-21:00, 10:00-19:00 | shop=convenience
-    geometry : [53.8502574,27.4732825]
+n3190097697  Панскі пачастунак / null / Кулинария
+  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00 | operator=Паристорг | shop=convenience
+    geometry : [53.8502819,27.4731758]
 n3190097698  null / null / Продукты
-  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=10:00-22:00 | shop=convenience
-    geometry : [53.8527561,27.4747322]
+  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=09:00-22:00 | shop=convenience
+    geometry : [53.8526914,27.4746579]
 n3190097703  Прадуктовы магазін "Паляна" / null / Поляна (продукты)
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=9:00-23:00 | shop=convenience
     geometry : [53.8517966,27.4769468]
@@ -9348,8 +9348,8 @@ n3233064585  Магазін "Пранічок" №3 / null / Парничок �
   other tags : shop=yes
     geometry : [53.8477353,27.4862331]
 n3233070812  null / null / Мила
-  other tags : note=магазин | opening_hours=9:00-20:00 | shop=yes
-    geometry : [53.8502233,27.4734861]
+  other tags : opening_hours=09:00-20:00 | shop=chemist | wheelchair=yes
+    geometry : [53.8502334,27.4734348]
 n3233072866  null / null / Мила
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=cosmetics
     geometry : [53.8506047,27.4764562]
@@ -9371,12 +9371,12 @@ n3233086579  null / null / Белсаюздрук
 n3233093145  null / null / Магатойс
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | shop=toys
     geometry : [53.8510514,27.4766196]
-n3233094150  null / null / OZ.by
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=books
-    geometry : [53.8511339,27.4743340]
+n3233094150  null / null / OZ
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-17:00 | phone=+375 29 6952525 | shop=books
+    geometry : [53.8512539,27.4744593]
 n3233095531  null / null / Baden
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=пн-пт: 10:00-20:00, сб: 10:00-19:00, вс: 10:00-18:00 | shop=shoes
-    geometry : [53.8501820,27.4737922]
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00 | shop=shoes
+    geometry : [53.8502252,27.4735027]
 n3240836598  null / null / Second Hand
   other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | opening_hours=10:00-20:00 | operator=ООО «Бренд-импорт» | shop=clothes
     geometry : [53.8497861,27.4763952]
@@ -9417,8 +9417,8 @@ n3240836635  null / null / Аматиста
   other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=alcohol
     geometry : [53.8525341,27.4748857]
 n3240836637  null / null / Белита-Витекс / Белита-Витекс
-  other tags : addr:city=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | shop=cosmetics
-    geometry : [53.8523459,27.4748160]
+  other tags : addr:city=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=Mo-Su 09:00-21:00 | shop=chemist
+    geometry : [53.8524374,27.4749488]
 n3240836647  null / null / Магазин велосипедов «ВелоГрад»
   other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | shop=sports
     geometry : [53.8495942,27.4781324]
@@ -10918,20 +10918,20 @@ n3400605760  null / null / Амелис
   other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | phone=+375(29)2565634, +375(44)4783094 | shop=hairdresser
     geometry : [53.8520357,27.4811986]
 n3400719592  null / null / Ювелир-карат
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=jewelry
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | shop=jewelry
     geometry : [53.8501704,27.4739228]
 n3400746293  null / null / Двери для дома и офиса
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=interior_decoration
-    geometry : [53.8509551,27.4742500]
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | shop=interior_decoration
+    geometry : [53.8505379,27.4741437]
 n3400746294  null / null / Фрут Стар
   other tags : shop=greengrocer
     geometry : [53.8514741,27.4744432]
 n3400746295  null / null / Насенне
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=yes
-    geometry : [53.8516355,27.4745075]
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | operator=МинскСортСемОвощ | shop=garden_centre
+    geometry : [53.8516083,27.4745938]
 n3400746296  null / null / Немецкий мультимаркет света
-  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | operator=Regenbogen | shop=electronics
-    geometry : [53.8527177,27.4749179]
+  other tags : addr:housenumber=122 | addr:postcode=220025 | addr:street=проспект Дзержинского | opening_hours=Mo-Sa 10:00-21:00; Su 10:00-19:00 | operator=Regenbogen | shop=electronics
+    geometry : [53.8526678,27.4750215]
 n3410414916  null / null / Denim Club
   other tags : shop=clothes
     geometry : [53.9263465,27.5184249]
@@ -10947,9 +10947,9 @@ n3431372464  null / null / Лента
 n3431372465  null / null / Лента
   other tags : phone=+375172881383 | shop=window_blind | website=http://shop.lentabel.by
     geometry : [53.9086405,27.5829833]
-n3441666281
-  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | shop=clothes
-    geometry : [53.8526047,27.4749541]
+n3441666281  null / null / Пункт самовывоза Wildberries
+  other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | opening_hours=Mo-Su 10:00-20:00 | shop=clothes
+    geometry : [53.8526388,27.4750068]
 n3445464812  null / null / Изюминка
   other tags : shop=yes
     geometry : [53.8996128,27.4355911]
@@ -11115,3 +11115,6 @@ n3517898452  null / null / Минсктранс
 n3517902407  null / null / Визовый центр
   other tags : opening_hours=09:00-17:00 | shop=travel_agency
     geometry : [53.8719954,27.5024088]
+n3524112887  null / null / Салон кухонь №1
+  other tags : opening_hours=Mo-Su 10:00-20:00 | shop=kitchen
+    geometry : [53.8516381,27.4746036]
