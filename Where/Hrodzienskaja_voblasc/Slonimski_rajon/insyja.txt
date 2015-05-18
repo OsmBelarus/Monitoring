@@ -37,9 +37,6 @@ n1324149591
 n1324149619
   other tags : railway=level_crossing
     geometry : [53.0884728,25.0165133]
-n1378539526  null / null / Слонимская телемачта
-  other tags : height=350 | man_made=tower | tower:type=communication
-    geometry : [53.0641522,25.4739855]
 n2788679952  Вінакурня / null / Винодельня
   other tags : tourism=attraction
     geometry : [53.0339610,25.3604370]
@@ -169,6 +166,27 @@ n3129815329
 n3429790933
   other tags : addr:street=д.Петралевичи ул. Первомайская
     geometry : [53.1087165,25.3597352]
+n3522815791
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.2561960,25.2810320]
+n3522815895
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.1920622,25.3003650]
+n3522816426
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.0150675,25.1288548]
+n3522816610
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.0150540,25.1288550]
+n3522816893
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [53.1388370,25.2699320]
+n3522817393  null / null / Слонимская телемачта
+  other tags : communication:mobile_phone=yes | height=350 | man_made=tower | operator=VELCOM;LIFE;MTS | operator:MNC=02;01;04 | tower:type=communication
+    geometry : [53.0641485,25.4740600]
+n3522817911
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.9202140,25.1645230]
 w25141338
   other tags : admin_level=8 | boundary=administrative
     geometry : n273977995[52.8917000,25.3078700] n273977997[52.8910100,25.3083000] n273977998[52.8897300,25.3102700] n273978000[52.8899000,25.3131000] n273978001[52.8917900,25.3109600] n273977995[52.8917000,25.3078700]
