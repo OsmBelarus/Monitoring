@@ -824,7 +824,7 @@ w156929477  null / null / 40
   other tags : addr:housenumber=42 | addr:street=улица Михайловка | building=residential | building:levels=1
     geometry : n1691694270[55.1613243,27.6886582] n1691694266[55.1613194,27.6887208] n1691694236[55.1612722,27.6887094] n1691694242[55.1612772,27.6886447] n1691694229[55.1612560,27.6886396] n1691694233[55.1612604,27.6885843] n1691694261[55.1613185,27.6885982] n1691694259[55.1613140,27.6886557] n1691694270[55.1613243,27.6886582]
 w156933180  null / null / 202а
-  other tags : addr:housenumber=202а | building=residential | building:levels=1
+  other tags : addr:housenumber=202а | addr:street=Советская улица | building=residential | building:levels=1
     geometry : n1691724381[55.1626633,27.6777499] n1691724379[55.1626485,27.6779298] n1691724372[55.1625568,27.6779067] n1691724374[55.1625716,27.6777268] n1691724381[55.1626633,27.6777499]
 w156933186
   other tags : addr:housenumber=203а | addr:street=Советская улица | building=house
@@ -836,7 +836,7 @@ w156933193  null / null / 200а
   other tags : addr:housenumber=200а | addr:street=Советская улица | building=residential | building:levels=1
     geometry : n1691724389[55.1627213,27.6769074] n1691724384[55.1626933,27.6771497] n1691724376[55.1626186,27.6771233] n1691724378[55.1626465,27.6768810] n1691724389[55.1627213,27.6769074]
 w156933202  null / null / 202
-  other tags : addr:housenumber=202 | building=residential | building:levels=1
+  other tags : addr:housenumber=202 | addr:street=Советская улица | building=residential | building:levels=1
     geometry : n1691724361[55.1624791,27.6768418] n1691724353[55.1624382,27.6772692] n1691724342[55.1623747,27.6772546] n1691724351[55.1624157,27.6768264] n1691724361[55.1624791,27.6768418]
 w156933206
   other tags : addr:housenumber=30 | addr:street=Совхозный переулок | building=house | building:levels=1
@@ -863,13 +863,13 @@ w156933231
   other tags : addr:housenumber=205а | addr:street=Советская улица | building=house | building:levels=1
     geometry : n1691724608[55.1635420,27.6732252] n1691724613[55.1635864,27.6733699] n1691724602[55.1635071,27.6734445] n1691724596[55.1634765,27.6733449] n1691724606[55.1635157,27.6733080] n1691724601[55.1635019,27.6732630] n1691724608[55.1635420,27.6732252]
 w156933232  null / null / 200
-  other tags : addr:housenumber=200 | building=residential | building:levels=1
+  other tags : addr:housenumber=200 | addr:street=Советская улица | building=residential | building:levels=1
     geometry : n1691724326[55.1623343,27.6777779] n1691724321[55.1623209,27.6779200] n1691724298[55.1622737,27.6779063] n1691724309[55.1622909,27.6777251] n1691724324[55.1623285,27.6777360] n1691724323[55.1623248,27.6777752] n1691724326[55.1623343,27.6777779]
 w156933233
   other tags : addr:housenumber=2 | addr:street=улица Михайловка | building=house | building:levels=1
     geometry : n1691724317[55.1622735,27.6785296] n1691724290[55.1621923,27.6785013] n1691724287[55.1621716,27.6786826] n1691724299[55.1622316,27.6787035] n1691724304[55.1622442,27.6785932] n1691724314[55.1622654,27.6786006] n1691724317[55.1622735,27.6785296]
 w156933234  null / null / 28
-  other tags : addr:housenumber=28 | building=residential | building:levels=1
+  other tags : addr:housenumber=28 | addr:street=Совхозный переулок | building=residential | building:levels=1
     geometry : n1691724451[55.1629083,27.6823741] n1691724449[55.1629062,27.6824781] n1691724424[55.1628161,27.6824724] n1691724425[55.1628195,27.6823126] n1691724435[55.1628649,27.6823155] n1691724434[55.1628637,27.6823712] n1691724451[55.1629083,27.6823741]
 w156933235
   other tags : addr:housenumber=24 | addr:street=Совхозный переулок | building=house | building:levels=1
@@ -973,7 +973,7 @@ w175027097
 w175033229
   other tags : addr:housenumber=30 | addr:street=улица Шмырёва | building=house | building:levels=1
     geometry : n1856863432[55.1571646,27.6867973] n1856863431[55.1571472,27.6869611] n1856863429[55.1570894,27.6869418] n1856863430[55.1571078,27.6867797] n1856863432[55.1571646,27.6867973]
-w175033234  null / null / 38
+w175033234
   other tags : addr:housenumber=38 | addr:street=улица Шмырёва | building=residential | building:levels=1
     geometry : n1856863479[55.1587744,27.6873795] n1856863476[55.1587491,27.6875530] n1856863467[55.1586706,27.6875179] n1856863469[55.1586959,27.6873444] n1856863479[55.1587744,27.6873795]
 w175036870
@@ -1139,7 +1139,7 @@ w314253339
   other tags : addr:housenumber=17 | addr:street=улица Адамовича | building=house | building:levels=1
     geometry : n3203007161[55.1557647,27.6934514] n3203007163[55.1558055,27.6935815] n3203007162[55.1557804,27.6936056] n3203007164[55.1558071,27.6936908] n3203006960[55.1557222,27.6937724] n3203006959[55.1556547,27.6935571] n3203007161[55.1557647,27.6934514]
 w314253505
-  other tags : addr:housenumber=34 | building=residential | building:levels=1
+  other tags : addr:housenumber=34 | addr:street=улица Шмырёва | building=residential | building:levels=1
     geometry : n3203007480[55.1583050,27.6872221] n3203007478[55.1582209,27.6871822] n3203007477[55.1581757,27.6874736] n3203007479[55.1582598,27.6875136] n3203007480[55.1583050,27.6872221]
 w314253506
   other tags : addr:housenumber=3 | addr:street=Гвардейская улица | building=house | building:levels=1
@@ -1154,7 +1154,7 @@ w314253513
   other tags : addr:housenumber=48 | building=residential | building:levels=1
     geometry : n3203007552[55.1597228,27.6888643] n3203007540[55.1596160,27.6888245] n3203007537[55.1595983,27.6889706] n3203007549[55.1597051,27.6890104] n3203007552[55.1597228,27.6888643]
 w314253515
-  other tags : addr:housenumber=36 | building=residential | building:levels=1
+  other tags : addr:housenumber=36 | addr:street=улица Шмырёва | building=residential | building:levels=1
     geometry : n3203007486[55.1585425,27.6873294] n3203007482[55.1584000,27.6872616] n3203007481[55.1583785,27.6874001] n3203007484[55.1584378,27.6874283] n3203007483[55.1584157,27.6875710] n3203007485[55.1584988,27.6876106] n3203007486[55.1585425,27.6873294]
 w314253516
   other tags : addr:housenumber=5а | addr:street=Гвардейская улица | building=house | building:levels=1
@@ -1226,7 +1226,7 @@ w314551298
   other tags : addr:housenumber=2 | addr:street=Гвардейская улица | building=house | building:levels=1
     geometry : n3205968580[55.1588508,27.6880602] n3205968578[55.1587428,27.6879877] n3205968577[55.1587060,27.6881557] n3205968579[55.1588140,27.6882283] n3205968580[55.1588508,27.6880602]
 w314551561
-  other tags : addr:housenumber=4 | building=residential | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Гвардейская улица | building=residential | building:levels=1
     geometry : n3205969166[55.1587874,27.6883940] n3205969164[55.1586749,27.6883162] n3205969163[55.1586223,27.6885489] n3205969165[55.1587349,27.6886267] n3205969166[55.1587874,27.6883940]
 w314552264
   other tags : addr:housenumber=6а | addr:street=Гвардейская улица | building=house | building:levels=1
@@ -1247,7 +1247,7 @@ w314560866
   other tags : addr:housenumber=20 | addr:street=улица Михайловка | building=residential | building:levels=1
     geometry : n3206043292[55.1616895,27.6844371] n3206043290[55.1615904,27.6844243] n3206043289[55.1615865,27.6845162] n3206043291[55.1616856,27.6845290] n3206043292[55.1616895,27.6844371]
 w314565402
-  other tags : addr:housenumber=11 | building=residential | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=Совхозный переулок | building=residential | building:levels=1
     geometry : n3206090440[55.1632481,27.6808743] n3206090438[55.1632420,27.6810528] n3206090433[55.1631305,27.6810411] n3206090434[55.1631366,27.6808626] n3206090440[55.1632481,27.6808743]
 w314565727
   other tags : addr:housenumber=21 | addr:street=Совхозный переулок | building=house | building:levels=1
@@ -1283,16 +1283,16 @@ w314673247
   other tags : addr:housenumber=6а | addr:street=улица Королёва | building=house | building:levels=1
     geometry : n3207215923[55.1337616,27.6996927] n3207215922[55.1337397,27.6998108] n3207215918[55.1335997,27.6997312] n3207215919[55.1336287,27.6995749] n3207215921[55.1337232,27.6996286] n3207215920[55.1337161,27.6996668] n3207215923[55.1337616,27.6996927]
 w314701239
-  other tags : addr:city=Глубокое | addr:housenumber=22 | addr:street=Северная | building=house
+  other tags : addr:housenumber=22 | addr:street=Северная улица | building=house
     geometry : n3207472065[55.1687285,27.6829805] n3207472061[55.1685717,27.6831146] n3207472062[55.1686114,27.6832569] n3207472063[55.1686604,27.6832149] n3207472064[55.1686830,27.6832957] n3207472067[55.1687717,27.6832197] n3207472066[55.1687559,27.6831631] n3207472068[55.1687749,27.6831468] n3207472065[55.1687285,27.6829805]
-w314701245  null / null / 20
-  other tags : addr:housenumber=20 | building=residential
+w314701245
+  other tags : addr:housenumber=20 | addr:street=Северная улица | building=residential
     geometry : n3207471877[55.1685228,27.6821852] n3207471878[55.1685727,27.6824067] n3207471876[55.1684873,27.6824657] n3207471875[55.1684374,27.6822443] n3207471877[55.1685228,27.6821852]
 w314707207
-  other tags : addr:housenumber=26 | building=residential | building:levels=1
+  other tags : addr:housenumber=26 | addr:street=улица Адамовича | building=residential | building:levels=1
     geometry : n3207541257[55.1574287,27.6938060] n3207541255[55.1573100,27.6937277] n3207541254[55.1572569,27.6939742] n3207541256[55.1573755,27.6940526] n3207541257[55.1574287,27.6938060]
 w314707208
-  other tags : addr:housenumber=28 | building=residential | building:levels=1
+  other tags : addr:housenumber=28 | addr:street=улица Адамовича | building=residential | building:levels=1
     geometry : n3207541961[55.1576090,27.6939117] n3207541259[55.1575120,27.6938490] n3207541258[55.1574624,27.6940837] n3207541260[55.1575594,27.6941464] n3207541961[55.1576090,27.6939117]
 w317896236
   other tags : addr:housenumber=17 | addr:street=Зелёная улица | building=house | building:levels=1
