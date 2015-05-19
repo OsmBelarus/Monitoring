@@ -59,7 +59,7 @@ w151469480
   other tags : addr:housenumber=57 | addr:street=улица Машерова | building=house | building:levels=1
     geometry : n1642896181[55.1467374,27.6689915] n1642896173[55.1466586,27.6689910] n1642896172[55.1466584,27.6690945] n1642896175[55.1466813,27.6690946] n1642896174[55.1466812,27.6691493] n1642896179[55.1467371,27.6691496] n1642896181[55.1467374,27.6689915]
 w151469483
-  other tags : addr:housenumber=13 | addr:street=Машерова | building=house | building:levels=1
+  other tags : addr:housenumber=13 | addr:street=улица Машерова | building=house | building:levels=1
     geometry : n1642894102[55.1423177,27.6685043] n1642894063[55.1422364,27.6684909] n1642894059[55.1422325,27.6685634] n1642894075[55.1422586,27.6685677] n1642894072[55.1422547,27.6686395] n1642894097[55.1423099,27.6686486] n1642894102[55.1423177,27.6685043]
 w151469511
   other tags : addr:housenumber=4 | addr:street=Луговая улица | building=house | building:levels=1
@@ -71,7 +71,7 @@ w151469553
   other tags : addr:housenumber=59 | addr:street=улица Машерова | building=house | building:levels=1
     geometry : n1642896214[55.1469811,27.6689791] n1642896210[55.1469384,27.6689770] n1642896208[55.1469379,27.6690065] n1642896197[55.1468815,27.6690038] n1642896196[55.1468800,27.6690941] n1642896206[55.1468992,27.6690951] n1642896204[55.1468980,27.6691748] n1642896212[55.1469779,27.6691787] n1642896214[55.1469811,27.6689791]
 w151469555
-  other tags : addr:housenumber=15 | addr:street=Машерова | building=house | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=улица Машерова | building=house | building:levels=1
     geometry : n1642894231[55.1427823,27.6685286] n1642894220[55.1426997,27.6685168] n1642894219[55.1426912,27.6686990] n1642894227[55.1427689,27.6687101] n1642894229[55.1427711,27.6686637] n1642894233[55.1427876,27.6686661] n1642894234[55.1427903,27.6686089] n1642894230[55.1427786,27.6686072] n1642894231[55.1427823,27.6685286]
 w151469557
   other tags : addr:housenumber=6 | addr:street=Луговая улица | building=house | building:levels=1
@@ -362,10 +362,10 @@ w152304892
   other tags : addr:housenumber=2 | addr:street=пл. 17 Сентября | building=house | building:levels=1
     geometry : n1651331647[55.1399738,27.6960930] n1651331697[55.1400528,27.6962265] n1651331674[55.1400220,27.6962823] n1651331666[55.1400015,27.6962477] n1651331645[55.1399708,27.6963032] n1651331654[55.1399852,27.6963275] n1651331634[55.1399595,27.6963741] n1651331599[55.1398866,27.6962508] n1651331647[55.1399738,27.6960930]
 w152313319
-  other tags : addr:housenumber=17а | addr:street=Коммунистическая | building=house | building:levels=1
+  other tags : addr:housenumber=17а | addr:street=Коммунистическая улица | building=house | building:levels=1
     geometry : n1651403459[55.1440130,27.6988904] n1651403369[55.1437681,27.6985098] n1651403388[55.1438376,27.6983729] n1651403488[55.1440825,27.6987535] n1651403459[55.1440130,27.6988904]
 w152313320
-  other tags : addr:housenumber=14 | addr:street=Мира | building=house | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=улица Мира | building=house | building:levels=1
     geometry : n1651404231[55.1456765,27.6983673] n1651404252[55.1459387,27.6988018] n1651404248[55.1458533,27.6989596] n1651404208[55.1455911,27.6985252] n1651404231[55.1456765,27.6983673]
 w152318993
   other tags : addr:housenumber=87 | addr:street=улица Горького | building=house | building:levels=1
@@ -398,7 +398,7 @@ w152319055
   other tags : addr:housenumber=95 | addr:street=улица Горького | building=house | building:levels=1
     geometry : n1651465275[55.1413362,27.7097452] n1651465299[55.1413633,27.7099116] n1651465226[55.1412369,27.7099744] n1651465207[55.1412098,27.7098081] n1651465275[55.1413362,27.7097452]
 w152319057
-  other tags : addr:city=Глубокое | addr:housenumber=109 | addr:street=М. Горького | building=house | building:levels=1
+  other tags : addr:housenumber=109 | addr:street=улица Горького | building=house | building:levels=1
     geometry : n1651465536[55.1429718,27.7103874] n1651465531[55.1428982,27.7104449] n1651465529[55.1428707,27.7103371] n1651465533[55.1429442,27.7102796] n1651465536[55.1429718,27.7103874]
 w152319061
   other tags : addr:housenumber=99 | addr:street=улица Горького | building=house | building:levels=1
@@ -413,7 +413,7 @@ w152319089
   other tags : addr:housenumber=15 | addr:street=Социалистическая улица | building=house
     geometry : n1651464364[55.1403903,27.7097299] n1651464380[55.1404279,27.7099315] n1651464286[55.1403003,27.7100043] n1651464262[55.1402700,27.7098414] n1651464330[55.1403354,27.7098041] n1651464311[55.1403282,27.7097654] n1651464364[55.1403903,27.7097299]
 w152319096
-  other tags : addr:city=Глубокое | addr:housenumber=103а | addr:street=улица Горького | building=house | building:levels=1
+  other tags : addr:housenumber=103а | addr:street=улица Горького | building=house | building:levels=1
     geometry : n1651465528[55.1428185,27.7098211] n1651465523[55.1427283,27.7099000] n1651465522[55.1427020,27.7098080] n1651465526[55.1427416,27.7097734] n1651465525[55.1427308,27.7097355] n1651465527[55.1427813,27.7096912] n1651465528[55.1428185,27.7098211]
 w152319101
   other tags : addr:housenumber=22 | addr:street=улица Горького | building=house | building:levels=1
@@ -644,7 +644,7 @@ w156915125
   other tags : addr:housenumber=27 | addr:street=улица Королёва | building=house | building:levels=1
     geometry : n1691588508[55.1337442,27.7029608] n1691588507[55.1337395,27.7030907] n1691588495[55.1336920,27.7030855] n1691588496[55.1336932,27.7030532] n1691588477[55.1336347,27.7030468] n1691588479[55.1336382,27.7029493] n1691588508[55.1337442,27.7029608]
 w156915179
-  other tags : addr:housenumber=35 | addr:street=Суворова | building=house
+  other tags : addr:housenumber=35 | addr:street=улица Суворова | building=house
     geometry : n1691588335[55.1329820,27.7031085] n1691588334[55.1329753,27.7032801] n1691588312[55.1328778,27.7032684] n1691588314[55.1328824,27.7031524] n1691588329[55.1329416,27.7031595] n1691588331[55.1329438,27.7031039] n1691588335[55.1329820,27.7031085]
 w156915188
   other tags : addr:housenumber=33 | addr:street=улица Королёва | building=house | building:levels=1
