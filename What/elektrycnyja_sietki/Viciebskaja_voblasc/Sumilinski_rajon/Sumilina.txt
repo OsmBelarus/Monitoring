@@ -2,13 +2,13 @@ n2790843116
   other tags : power=tower
     geometry : [55.2833592,29.6054538]
 n2790843187
-  other tags : power=tower
+  other tags : material=metal | power=tower | structure=lattice
     geometry : [55.2873684,29.6060429]
 n2790843223
-  other tags : power=tower
+  other tags : material=metal | power=tower | structure=lattice
     geometry : [55.2876677,29.6060775]
 n2790843226
-  other tags : power=tower
+  other tags : material=metal | power=tower | structure=lattice
     geometry : [55.2877434,29.6065626]
 n2790843291
   other tags : power=tower
@@ -22,3 +22,45 @@ n3406712327
 n3406712328
   other tags : power=pole
     geometry : [55.3000597,29.6255342]
+n3529357603
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2868903,29.6011961]
+n3529357611
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2874073,29.5959668]
+n3529357612
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2874872,29.6063409]
+n3529357617
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2878057,29.5949597]
+n3529357618
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2878829,29.5984998]
+n3529357619
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2878932,29.5939877]
+n3529357620
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2880503,29.6064659]
+n3529357621
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2881311,29.6012869]
+n3529357622
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2881830,29.6062479]
+n3529357632
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2885425,29.6062028]
+n3529357636
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2886624,29.6053234]
+n3529357643
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2890203,29.5918724]
+w346118850
+  other tags : power=line
+    geometry : n3527337398[???] n3527095682[55.3724688,29.5358472] n3527337395[???] n3527337393[???] n3527337390[???] n3527337387[???] n3527337384[???] n3527337381[???] n3527337378[???] n3527337373[???] n3527337365[???] n3527337361[???] n3527337324[???] n3527337317[???] n3527337303[???] n3527337296[???] n3527337285[???] n3527337241[???] n3527337199[???] n3527337019[???] n3527337007[???] n3527336993[???] n3527336980[???] n3527336942[???] n3527336885[???] n3527336833[???] n3527336768[???] n3527336529[???] n3527336339[???] n3527336295[???] n3527336282[???] n3527336279[???] n3527336276[???] n3527336273[???] n3527336270[???] n3527336266[???] n3527336263[???] n3527336260[???] n3527336256[???] n3527336253[???] n3527336251[???] n3527336247[???] n3527336245[???] n3527336243[???] n3527336241[???] n3529357619[55.2878932,29.5939877] n3529357611[55.2874073,29.5959668] n3529357603[55.2868903,29.6011961] n2790843187[55.2873684,29.6060429]
+w346118851
+  other tags : power=line
+    geometry : n3527337399[???] n3527095797[55.3727094,29.5358975] n3527337396[???] n3527337392[???] n3527337391[???] n3527337388[???] n3527337385[???] n3527337382[???] n3527337379[???] n3527337375[???] n3527337364[???] n3527337360[???] n3527337323[???] n3527337316[???] n3527337302[???] n3527337297[???] n3527337282[???] n3527337239[???] n3527337197[???] n3527337018[???] n3527337005[???] n3527336992[???] n3527336978[???] n3527336939[???] n3527336890[???] n3527336838[???] n3527336764[???] n3527336482[???] n3527336314[???] n3527336293[???] n3527336281[???] n3527336278[???] n3527336274[???] n3527336272[???] n3527336268[???] n3527336265[???] n3527336262[???] n3527336259[???] n3527336255[???] n3527336252[???] n3527336248[???] n3527336246[???] n3527336244[???] n2790843291[55.2904949,29.5882078] n3527336242[???] n3529357643[55.2890203,29.5918724] n3529357617[55.2878057,29.5949597] n3529357618[55.2878829,29.5984998] n3529357621[55.2881311,29.6012869] n2790843223[55.2876677,29.6060775]
