@@ -6,7 +6,7 @@ n306068237  null / null / Хлебозавод № 4 / Хлебозавод № 
     geometry : [52.4815200,31.0203900]
 n452506669  null / null / Галактика
   other tags : amenity=restaurant | cuisine=regional
-    geometry : [52.4612686,30.9657517]
+    geometry : [52.4623382,30.9655252]
 n452534420  null / null / Red Pub
   other tags : addr:street=проспект Ленина | amenity=cafe | cuisine=regional
     geometry : [52.4254295,31.0077833]
@@ -267,3 +267,6 @@ n3245787532  null / null / Мега Бургер
 n3524866770  null / null / Coffee&Toast
   other tags : addr:city=Гомель | addr:housenumber=1а-3 | addr:street=Рогачёвская улица | amenity=cafe | cuisine=coffee_shop | internet_access=wlan | opening_hours=7:00-23:00
     geometry : [52.4389024,31.0037113]
+n3527733378
+  other tags : addr:street=улица Федюнинского | amenity=cafe | cuisine=regional | smoking=no
+    geometry : [52.4792794,30.9888579]

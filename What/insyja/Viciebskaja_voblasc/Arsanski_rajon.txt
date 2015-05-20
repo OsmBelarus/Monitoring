@@ -667,6 +667,21 @@ n3497724046
 n3523179007
   other tags : location=underground | military=bunker
     geometry : [54.5870970,30.3553140]
+n3527387778
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.5994402,30.0615986]
+n3527388130
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [54.5901986,30.1429915]
+n3527388180
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.6256740,30.1758910]
+n3527388686
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [54.5941556,30.0311585]
+n3527388687
+  other tags : communication:mobile_phone=yes | height=50 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [54.5942983,30.0289776]
 w23103378
   other tags : aeroway=runway
     geometry : n249427779[54.4466694,30.3167877] n252927676[54.4464386,30.3160475] n252927704[54.4453718,30.3128395] n252927706[54.4416784,30.3018532] n252927718[54.4365869,30.2864036] n252927786[54.4344154,30.2796376] n252927672[54.4332568,30.2763188] n249427780[54.4329924,30.2756749]

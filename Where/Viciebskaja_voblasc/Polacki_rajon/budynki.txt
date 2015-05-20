@@ -206,7 +206,7 @@ w211912274
   other tags : addr:housenumber=17 | addr:street=улица Рудова | building=yes | building:levels=1
     geometry : n2218437299[55.4419456,28.5773534] n2218437301[55.4420777,28.5773223] n2218437302[55.4420930,28.5775249] n2218437300[55.4419609,28.5775559] n2218437299[55.4419456,28.5773534]
 w211912276
-  other tags : addr:housenumber=7 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2218437152[55.4369648,28.5955407] n2218437154[55.4370588,28.5954690] n2218437155[55.4370983,28.5956297] n2218437153[55.4370043,28.5957015] n2218437152[55.4369648,28.5955407]
 w211912278
   other tags : addr:housenumber=10 | addr:street=улица Рудова | building=yes | building:levels=1
@@ -251,7 +251,7 @@ w211912294
   other tags : addr:housenumber=15 | addr:street=улица Рудова | building=yes | building:levels=1
     geometry : n2218437322[55.4428572,28.5757147] n2218437327[55.4429893,28.5756837] n2218437328[55.4430047,28.5758862] n2218437324[55.4428725,28.5759173] n2218437322[55.4428572,28.5757147]
 w211912295
-  other tags : addr:housenumber=1Б | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=1Б | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2218437220[55.4389719,28.5945724] n2218437222[55.4390386,28.5947075] n2218437219[55.4389602,28.5948279] n2218437216[55.4388934,28.5946929] n2218437220[55.4389719,28.5945724]
 w211912296
   other tags : addr:housenumber=7 | addr:street=улица Рудова | building=yes | building:levels=1
@@ -266,7 +266,7 @@ w211912299
   other tags : building=yes | building:levels=1
     geometry : n2218437206[55.4387371,28.5975933] n2218437208[55.4387838,28.5974537] n2218437214[55.4388940,28.5975683] n2218437212[55.4388473,28.5977079] n2218437206[55.4387371,28.5975933]
 w211912300
-  other tags : addr:housenumber=1А | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=1А | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2218437211[55.4387952,28.5941970] n2218437215[55.4388605,28.5943361] n2218437210[55.4387812,28.5944515] n2218437207[55.4387160,28.5943123] n2218437211[55.4387952,28.5941970]
 w211912302
   other tags : building=yes | building:levels=1
@@ -427,9 +427,6 @@ w216486363
 w216486365
   other tags : building=yes | building:levels=1
     geometry : n2258248381[55.4218579,28.4801292] n2258248384[55.4219335,28.4803257] n2258248379[55.4218270,28.4804530] n2258248378[55.4217513,28.4802565] n2258248381[55.4218579,28.4801292]
-w216486366
-  other tags : addr:housenumber=89 | addr:street=улица Ленина | building=yes | building:levels=1
-    geometry : n2258248339[55.4181923,28.4976548] n2258248344[55.4183405,28.4975801] n2258248347[55.4184275,28.4981166] n2258248343[55.4182793,28.4981912] n2258248339[55.4181923,28.4976548]
 w216486367
   other tags : building=yes | building:levels=1
     geometry : n2258248400[55.4223710,28.5026995] n2258248409[55.4224935,28.5026246] n2258248435[55.4227723,28.5040408] n2258248422[55.4226498,28.5041157] n2258248400[55.4223710,28.5026995]
@@ -2291,31 +2288,31 @@ w258593022
   other tags : addr:housenumber=58 | addr:street=Светлая улица | building=yes
     geometry : n2639296264[55.4579725,28.7771139] n2639296267[55.4579952,28.7770385] n2639296268[55.4580113,28.7770536] n2639296273[55.4580608,28.7768893] n2639296281[55.4581460,28.7769691] n2639296276[55.4580955,28.7771367] n2639296272[55.4580435,28.7770880] n2639296269[55.4580218,28.7771600] n2639296264[55.4579725,28.7771139]
 w259160438
-  other tags : addr:housenumber=10 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645203252[55.4371054,28.5971283] n2645203250[55.4370669,28.5969603] n2645203253[55.4371635,28.5968915] n2645203254[55.4372018,28.5970597] n2645203252[55.4371054,28.5971283]
 w259160439
-  other tags : addr:housenumber=8 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645203239[55.4368444,28.5961895] n2645203238[55.4368058,28.5960215] n2645203241[55.4369025,28.5959527] n2645203243[55.4369408,28.5961209] n2645203239[55.4368444,28.5961895]
 w259160440
-  other tags : addr:housenumber=9 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645203245[55.4369678,28.5966424] n2645203242[55.4369292,28.5964744] n2645203246[55.4370259,28.5964056] n2645203247[55.4370642,28.5965739] n2645203245[55.4369678,28.5966424]
 w259160505
-  other tags : addr:housenumber=1 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207662[55.4381987,28.5946271] n2645207664[55.4382936,28.5945592] n2645207665[55.4383309,28.5947214] n2645207663[55.4382360,28.5947894] n2645207662[55.4381987,28.5946271]
 w259160506
-  other tags : addr:housenumber=2 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207657[55.4379810,28.5947404] n2645207659[55.4380759,28.5946725] n2645207660[55.4381133,28.5948348] n2645207658[55.4380184,28.5949027] n2645207657[55.4379810,28.5947404]
 w259160507
-  other tags : addr:housenumber=3 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207652[55.4377867,28.5948946] n2645207654[55.4378816,28.5948267] n2645207655[55.4379190,28.5949890] n2645207653[55.4378240,28.5950570] n2645207652[55.4377867,28.5948946]
 w259160508
-  other tags : addr:housenumber=4 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207647[55.4375954,28.5950270] n2645207649[55.4376903,28.5949592] n2645207650[55.4377277,28.5951214] n2645207648[55.4376328,28.5951894] n2645207647[55.4375954,28.5950270]
 w259160509
-  other tags : addr:housenumber=5 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207642[55.4374057,28.5952087] n2645207644[55.4375006,28.5951408] n2645207646[55.4375380,28.5953031] n2645207643[55.4374430,28.5953710] n2645207642[55.4374057,28.5952087]
 w259160510
-  other tags : addr:housenumber=6 | addr:street=Машелево улица | building=yes | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n2645207634[55.4372361,28.5953519] n2645207637[55.4373301,28.5952802] n2645207641[55.4373696,28.5954409] n2645207635[55.4372756,28.5955127] n2645207634[55.4372361,28.5953519]
 w259160511
   other tags : building=yes | building:levels=1
@@ -2975,7 +2972,7 @@ w285585966
   other tags : building=yes | building:levels=1
     geometry : n2892452038[55.3249138,28.8336822] n2892452037[55.3249263,28.8339062] n2892452036[55.3248259,28.8339234] n2892452039[55.3248134,28.8336995] n2892452038[55.3249138,28.8336822]
 w286367846
-  other tags : addr:housenumber=1 | addr:street=3 переулок Заречный | building=yes
+  other tags : addr:housenumber=1 | addr:street=3-й Заречный переулок | building=yes
     geometry : n2900278020[55.4656037,28.7844746] n2900278037[55.4657083,28.7843446] n2900278046[55.4657895,28.7845479] n2900278033[55.4656849,28.7846780] n2900278020[55.4656037,28.7844746]
 w286367848
   other tags : addr:housenumber=1 | addr:street=Заречная улица | building=yes

@@ -253,9 +253,9 @@ n275076541
 n275077560
   other tags : traffic_calming=bump
     geometry : [53.9254503,27.4751261]
-n275077578
+n275077614
   other tags : traffic_calming=bump
-    geometry : [53.9185488,27.4794151]
+    geometry : [53.9184130,27.4794200]
 n275077703
   other tags : traffic_calming=bump
     geometry : [53.8900381,27.4813184]
@@ -1117,6 +1117,9 @@ n1209295814
 n1226830516
   other tags : traffic_calming=bump
     geometry : [53.8375290,27.6407164]
+n1227912407
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.9202780,27.4801616]
 n1256912853
   other tags : traffic_calming=bump
     geometry : [53.9102534,27.4988984]
@@ -1729,6 +1732,15 @@ n3474603310
 n3505826005
   other tags : highway=crossing | traffic_calming=bump
     geometry : [53.9113151,27.4556926]
+n3512071402
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.9163584,27.4796684]
+n3512071405
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.9170476,27.4795832]
 n3521171396
   other tags : traffic_calming=bump
     geometry : [53.9020766,27.5046288]
+n3527747692
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [53.9215184,27.4813248]
