@@ -97,9 +97,9 @@ n2096057667
 n2101317268  null / null / А-100 АЗС №25
   other tags : amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=ОДО "Астотрейдинг"
     geometry : [53.8229465,27.5316232]
-n2132764518  null / null / АЗС Беларусьнефть №19
+n2132764518  null / null / АЗС Беларуснефть №19
   other tags : amenity=fuel | brand=Беларуснефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белнефтехим
-    geometry : [53.9035604,27.4063048]
+    geometry : [53.9034864,27.4061830]
 n2168732526  null / null / А-100
   other tags : amenity=fuel | brand=А-100 | fuel:adblue=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100 | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes
     geometry : [53.8393094,27.4637016]
@@ -151,9 +151,6 @@ w192132125
 w192146957  null / null / Белоруснефть АЗС № 77
   other tags : amenity=fuel | brand=Белоруснефть | fuel:adblue=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:viacard=yes | payment:visa=yes
     geometry : n2027077294[53.8368494,27.5146983] n2027077295[53.8353401,27.5143135] n2027077288[53.8353798,27.5138952] n2027077291[53.8359512,27.5129512] n2027077296[53.8367624,27.5123585] n2027077293[53.8370322,27.5128224] n2027077294[53.8368494,27.5146983]
-w203293736
-  other tags : amenity=fuel
-    geometry : n2132995256[53.9038263,27.4060392] n2132995268[53.9037785,27.4067077] n2132995260[53.9026158,27.4066603] n2132995246[53.9026190,27.4062967] n2132995255[53.9030867,27.4058568] n2132995256[53.9038263,27.4060392]
 w239037611
   other tags : amenity=fuel | building=yes | fuel:biodiesel=* | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=* | opening_hours=24/7 | operator=Белоруснефть | shop=yes
     geometry : n2468502070[54.0141261,27.5467745] n2468502075[54.0142729,27.5469361] n2468502074[54.0142037,27.5471183] n2468502068[54.0140568,27.5469566] n2468502070[54.0141261,27.5467745]
