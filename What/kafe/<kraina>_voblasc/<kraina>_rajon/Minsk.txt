@@ -2367,8 +2367,9 @@ n3147870207  null / null / Зебра
 n3147897483
   other tags : amenity=fast_food
     geometry : [53.9299738,27.6113846]
-n3147901292  null / null / Панда
-  other tags : amenity=restaurant
+n3147901292  null / null / Панда / Панда
+  other names: name:en=Panda
+  other tags : addr:city=Минск | addr:housenumber=10 | addr:postcode=220012 | addr:street=улица Толбухина | amenity=restaurant | capacity=280 | cuisine=chinese | note:ru=Ресторан китайской кухни "Панда" | opening_hours=11:00 - 02:00 | phone=+375 17 285 6118 | smoking=isolated | website=http://chinapanda.by/
     geometry : [53.9288607,27.6124985]
 n3147919780  null / null / Дом Фишера
   other tags : amenity=cafe
