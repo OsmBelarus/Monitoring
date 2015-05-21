@@ -255,8 +255,8 @@ n2710924298  null / null / PARADIS
 n2710924299  null / null / Белорусский ???
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [52.4309760,30.9912959]
-n2878891209
-  other tags : amenity=cafe
+n2878891209  null / null / Сити
+  other tags : addr:housenumber=46 | addr:street=проспект Октября | amenity=cafe
     geometry : [52.4055203,30.9420306]
 n3188079990  null / null / Летнее кафе
   other tags : amenity=cafe
@@ -270,3 +270,6 @@ n3524866770  null / null / Coffee&Toast
 n3527733378
   other tags : addr:street=улица Федюнинского | amenity=cafe | cuisine=regional | smoking=no
     geometry : [52.4792794,30.9888579]
+n3529812309
+  other tags : amenity=cafe
+    geometry : [52.4060007,30.9439236]
