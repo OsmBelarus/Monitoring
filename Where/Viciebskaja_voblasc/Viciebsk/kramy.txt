@@ -233,7 +233,7 @@ n985994190  Аўтазапчасткі / null / Автозапчасти / Ав�
     geometry : [55.1779057,30.2463543]
 n1004231590  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
-    geometry : [55.1715037,30.1651031]
+    geometry : [55.1714891,30.1650712]
 n1019509765  Віцязь / null / Витязь / Витязь
   other tags : shop=car_parts
     geometry : [55.1589450,30.2357318]
@@ -1433,9 +1433,9 @@ n1677898509  null / null / Шиномонтаж
 n1678098821  null / null / Пинский трикотаж
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00 | shop=clothes
     geometry : [55.1608111,30.2098348]
-n1686040732  null / null / Продукты
-  other tags : shop=convenience
-    geometry : [55.1731585,30.1544190]
+n1686040732  Прадукты / null / Продукты / Продукты
+  other tags : official_name=Магазин № 1 | opening_hours=Mo-Sa 08:00-21:00; Su 09:00-19:00 | operator=КУТЗП «Витебский горплодоовощторг» | shop=convenience
+    geometry : [55.1731337,30.1544110]
 n1697808267  null / null / Эконом
   other tags : note=на ремотне | shop=convenience
     geometry : [55.1991152,30.1811986]
@@ -1845,7 +1845,7 @@ n2381554364
   other tags : shop=convenience
     geometry : [55.1863759,30.1683559]
 n2382466963  null / null / Автозапчасти
-  other tags : service=parts | shop=car_parts
+  other tags : shop=car_parts
     geometry : [55.1734635,30.1510506]
 n2382466964  null / null / Лотос
   other tags : shop=dry_cleaning
@@ -2721,8 +2721,8 @@ n2903266597  null / null / Лиман
   other tags : description=пивной магазин | opening_hours=Mo-Su 09:00-22:00 | operator=ООО «Пивной стандарт» | phone=+375292630777 | shop=alcohol
     geometry : [55.1700258,30.2030008]
 n2906731064  null / null / Барракуда
-  other tags : shop=fishing
-    geometry : [55.1621058,30.2157817]
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | operator=ОДО «ФишКопТрейд» | shop=fishing
+    geometry : [55.1621148,30.2158042]
 n2912979107  null / null / Всё для рыбалки
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-15:00 | shop=fishing
     geometry : [55.1688128,30.2123492]
@@ -3347,9 +3347,6 @@ n3487315714  Царскае золата / null / Царское золото / 
 n3487315716  null / null / касса Дом кино
   other tags : shop=ticket
     geometry : [55.1967286,30.2065709]
-n3489326733  null / null / Гипермаркет Green
-  other tags : opening_hours=Mo-Su 09:00-23:00 | phone=+375-212-612050 | shop=supermarket | website=http://www.green-market.by/
-    geometry : [55.1629610,30.2088876]
 n3493482619  null / null / Амалия
   other tags : craft=dressmaker | description=ремонт и пошив одежды | opening_hours=Tu-Fr 09:00-18:00; Sa 09:00-16:00 | operator=ЧУП «Наталья-плюс» | shop=tailor
     geometry : [55.1687129,30.2712595]
