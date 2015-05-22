@@ -1727,7 +1727,7 @@ w96615142
   other tags : addr:housenumber=82 | addr:street=Шкловская улица | building=yes | building:levels=1
     geometry : n1119076330[54.4892429,30.3749378] n1119076415[54.4893453,30.3748362] n1119076454[54.4893839,30.3749515] n1119076333[54.4892815,30.3750531] n1119076330[54.4892429,30.3749378]
 w96615143
-  other tags : addr:housenumber=21 | addr:street=ПЕР.2-Й ОВРАЖНЫЙ | building=yes | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119075968[54.4872974,30.3717299] n1119076128[54.4872634,30.3716151] n1119076537[54.4873453,30.3715431] n1119076433[54.4873793,30.3716579] n1119075968[54.4872974,30.3717299]
 w96615144
   other tags : addr:housenumber=20 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
@@ -1748,7 +1748,7 @@ w96615149
   other tags : addr:housenumber=1 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076465[54.4881488,30.3722459] n1119076257[54.4882382,30.3721624] n1119076011[54.4882689,30.3722598] n1119076076[54.4881795,30.3723433] n1119076465[54.4881488,30.3722459]
 w96615151
-  other tags : addr:housenumber=25 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076316[54.4871149,30.3709152] n1119076351[54.4872162,30.3708465] n1119076212[54.4872424,30.3709614] n1119076272[54.4871412,30.3710301] n1119076316[54.4871149,30.3709152]
 w96615153
   other tags : addr:housenumber=90 | addr:street=Шкловская улица | building=yes | building:levels=1
@@ -1775,7 +1775,7 @@ w96615164
   other tags : addr:housenumber=22 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119075944[54.4868350,30.3688712] n1119076075[54.4869113,30.3687951] n1119076520[54.4869437,30.3688915] n1119076414[54.4868674,30.3689675] n1119075944[54.4868350,30.3688712]
 w96615165
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076282[54.4873800,30.3725644] n1119076596[54.4874828,30.3724623] n1119076483[54.4875228,30.3725817] n1119076315[54.4874201,30.3726839] n1119076282[54.4873800,30.3725644]
 w96615168
   other tags : addr:housenumber=6 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
@@ -1832,7 +1832,7 @@ w96615193
   other tags : addr:housenumber=16 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076244[54.4873212,30.3705806] n1119076337[54.4872891,30.3704683] n1119076371[54.4873784,30.3703930] n1119076254[54.4874104,30.3705052] n1119076244[54.4873212,30.3705806]
 w96615195
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119075947[54.4873302,30.3722208] n1119075986[54.4874213,30.3721421] n1119076521[54.4874539,30.3722538] n1119076562[54.4873626,30.3723325] n1119075947[54.4873302,30.3722208]
 w96615196
   other tags : addr:housenumber=17 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
@@ -1841,7 +1841,7 @@ w96615198
   other tags : building=yes | building:levels=1
     geometry : n1119076509[54.4880352,30.3690988] n1119076542[54.4881108,30.3690246] n1119076435[54.4881731,30.3692127] n1119076266[54.4880975,30.3692870] n1119076509[54.4880352,30.3690988]
 w96615200
-  other tags : addr:housenumber=27 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=27 | addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076335[54.4870461,30.3705313] n1119076417[54.4871341,30.3704827] n1119076240[54.4871591,30.3706169] n1119075989[54.4870711,30.3706655] n1119076335[54.4870461,30.3705313]
 w96615201
   other tags : addr:housenumber=2А | addr:street=1-й Овражный переулок | building=yes | building:levels=1
@@ -1877,10 +1877,10 @@ w96615212
   other tags : addr:housenumber=80 | addr:street=Шкловская улица | building=yes | building:levels=1
     geometry : n1119076560[54.4893776,30.3755807] n1119076366[54.4894733,30.3755059] n1119076130[54.4895287,30.3757160] n1119076595[54.4894330,30.3757908] n1119076560[54.4893776,30.3755807]
 w96615213
-  other tags : addr:housenumber=23 | addr:street=ПЕР.2-Й ОВРАЖНЫЙ | building=yes | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076500[54.4871785,30.3712459] n1119076302[54.4872984,30.3711454] n1119076094[54.4873345,30.3712730] n1119076528[54.4872146,30.3713735] n1119076500[54.4871785,30.3712459]
 w96615215
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=2-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076350[54.4873324,30.3720281] n1119076017[54.4872989,30.3719105] n1119076495[54.4873684,30.3718520] n1119076381[54.4874019,30.3719696] n1119076350[54.4873324,30.3720281]
 w96615216
   other tags : addr:housenumber=19 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
@@ -1895,7 +1895,7 @@ w96615220
   other tags : addr:housenumber=98А | addr:street=Шкловская улица | building=yes | building:levels=1
     geometry : n1119076493[54.4881390,30.3712592] n1119076574[54.4882147,30.3711957] n1119076413[54.4882438,30.3712983] n1119076293[54.4881681,30.3713619] n1119076493[54.4881390,30.3712592]
 w96615222
-  other tags : addr:housenumber=2 | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=1-й Овражный переулок | building=yes | building:levels=1
     geometry : n1119076191[54.4879487,30.3724664] n1119076535[54.4880209,30.3723991] n2852860815[54.4880511,30.3724953] n1119076575[54.4880697,30.3724780] n2852860816[54.4880888,30.3725358] n1119076471[54.4879978,30.3726207] n1119076191[54.4879487,30.3724664]
 w96615224
   other tags : addr:housenumber=112 | addr:street=Шкловская улица | building=yes | building:levels=1
@@ -2096,7 +2096,7 @@ w96618205
   other tags : building=yes | building:levels=1
     geometry : n1119111105[54.4892502,30.3813011] n1119111427[54.4893569,30.3812064] n1119112458[54.4894045,30.3813653] n1119112159[54.4892978,30.3814600] n1119111105[54.4892502,30.3813011]
 w96618206
-  other tags : addr:housenumber=13 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=13 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119112213[54.4916488,30.3907097] n1119111315[54.4917000,30.3907776] n1119112502[54.4916390,30.3909139] n1119112077[54.4915878,30.3908460] n1119112213[54.4916488,30.3907097]
 w96618207
   other tags : building=yes | building:levels=1
@@ -2177,7 +2177,7 @@ w96618238
   other tags : addr:housenumber=2 | addr:street=8-й Лесной переулок | building=yes | building:levels=1
     geometry : n1119111921[54.4939277,30.3804689] n1119112178[54.4940772,30.3804808] n1119111660[54.4940731,30.3806345] n1119111266[54.4939236,30.3806225] n1119111921[54.4939277,30.3804689]
 w96618239
-  other tags : addr:housenumber=1/4 | addr:street=ПЕР.9-Й ЛЕСНОЙ | building=yes | building:levels=1
+  other tags : addr:housenumber=1/4 | addr:street=9-й Лесной переулок | building=yes | building:levels=1
     geometry : n1119111856[54.4930262,30.3801404] n2869944668[54.4930581,30.3801461] n2869944669[54.4930598,30.3801180] n1119112141[54.4930888,30.3801233] n2869944670[54.4930797,30.3802709] n2869944667[54.4930554,30.3802664] n1119112231[54.4930516,30.3803285] n1119111870[54.4930151,30.3803218] n1119111856[54.4930262,30.3801404]
 w96618240
   other tags : addr:housenumber=45 | addr:street=улица Самусика | building=yes | building:levels=1
@@ -2213,7 +2213,7 @@ w96618250
   other tags : addr:housenumber=6 | addr:street=1-й Шкловский проезд | building=yes | building:levels=1
     geometry : n1119111150[54.4923473,30.3910917] n1119111971[54.4924237,30.3911269] n1119111580[54.4924561,30.3909181] n1119112562[54.4923797,30.3908829] n1119111150[54.4923473,30.3910917]
 w96618251
-  other tags : addr:housenumber=15 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119111031[54.4911168,30.3901732] n1119112132[54.4912153,30.3902655] n1119111595[54.4911772,30.3903861] n1119111194[54.4910787,30.3902939] n1119111031[54.4911168,30.3901732]
 w96618252
   other tags : addr:housenumber=6 | addr:street=9-й Лесной переулок | building=yes | building:levels=1
@@ -2354,7 +2354,7 @@ w96621576
   other tags : building=yes | building:levels=1
     geometry : n1119159951[54.4936293,30.3918377] n1119159416[54.4938137,30.3918736] n1119158963[54.4938017,30.3920564] n1119160024[54.4936173,30.3920205] n1119159951[54.4936293,30.3918377]
 w96621577
-  other tags : addr:housenumber=17 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159268[54.4906876,30.3898585] n1119158817[54.4907266,30.3897683] n1119159858[54.4908283,30.3898986] n1119159389[54.4907893,30.3899889] n1119159268[54.4906876,30.3898585]
 w96621578
   other tags : addr:housenumber=3 | addr:street=1-й Шкловский проезд | building=yes | building:levels=1
@@ -2381,7 +2381,7 @@ w96621593
   other tags : addr:housenumber=65 | addr:street=Перекопская улица | building=yes | building:levels=1
     geometry : n1119159971[54.4907842,30.4027116] n1119159424[54.4908327,30.4025081] n1119159088[54.4909047,30.4025590] n1119159187[54.4908562,30.4027624] n1119159971[54.4907842,30.4027116]
 w96621595
-  other tags : addr:housenumber=2В | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=2В | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159682[54.4933598,30.3932320] n1119159908[54.4934541,30.3933108] n1119159419[54.4934172,30.3934416] n1119159067[54.4933229,30.3933628] n1119159682[54.4933598,30.3932320]
 w96621596
   other tags : addr:housenumber=6 | addr:street=2-й Транспортный переулок | building=yes | building:levels=1
@@ -2432,7 +2432,7 @@ w96621622
   other tags : addr:housenumber=3 | addr:street=1-й Транспортный переулок | building=yes | building:levels=1
     geometry : n1119158995[54.4948266,30.3867053] n1119159217[54.4949572,30.3866884] n1119159334[54.4949631,30.3868229] n1119159007[54.4948325,30.3868399] n1119158995[54.4948266,30.3867053]
 w96621623
-  other tags : addr:housenumber=2А | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=2А | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159817[54.4935620,30.3933680] n1119159225[54.4936244,30.3934117] n1119158938[54.4935819,30.3935921] n1119159903[54.4935194,30.3935484] n1119159817[54.4935620,30.3933680]
 w96621624
   other tags : addr:housenumber=71 | addr:street=Перекопская улица | building=yes | building:levels=1
@@ -2459,7 +2459,7 @@ w96621637
   other tags : addr:housenumber=61 | addr:street=Перекопская улица | building=yes | building:levels=1
     geometry : n1119159896[54.4915029,30.4031901] n1119159950[54.4915356,30.4030552] n1119159664[54.4916192,30.4031154] n1119159761[54.4915864,30.4032503] n1119159896[54.4915029,30.4031901]
 w96621639
-  other tags : addr:housenumber=3 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159423[54.4928820,30.3922203] n1119159690[54.4929577,30.3922382] n1119159182[54.4929438,30.3924125] n1119158909[54.4928681,30.3923946] n1119159423[54.4928820,30.3922203]
 w96621640
   other tags : addr:housenumber=8 | addr:street=2-й Транспортный переулок | building=yes | building:levels=1
@@ -2477,7 +2477,7 @@ w96621649
   other tags : addr:housenumber=1 | addr:street=1-й Транспортный переулок | building=yes | building:levels=1
     geometry : n1119159707[54.4946902,30.3868657] n1119159099[54.4946787,30.3866965] n1119158863[54.4947367,30.3866848] n1119159797[54.4947482,30.3868541] n1119159707[54.4946902,30.3868657]
 w96621651
-  other tags : addr:housenumber=2Е | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=2Е | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159272[54.4936568,30.3927841] n1119159933[54.4937302,30.3928288] n1119159621[54.4936915,30.3930163] n1119159119[54.4936182,30.3929716] n1119159272[54.4936568,30.3927841]
 w96621654
   other tags : building=yes | building:levels=1
@@ -2510,7 +2510,7 @@ w96621672
   other tags : building=yes | building:levels=1
     geometry : n1119159859[54.4888925,30.3979722] n1119159275[54.4890545,30.3976507] n1119158871[54.4891810,30.3978452] n1119159926[54.4891136,30.3979731] n1119159458[54.4890579,30.3978866] n1119159108[54.4890140,30.3979703] n1119159226[54.4890749,30.3980645] n1119158940[54.4890237,30.3981626] n1119159859[54.4888925,30.3979722]
 w96621674
-  other tags : addr:housenumber=4 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=4 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n1119159766[54.4931617,30.3929977] n1119159176[54.4932669,30.3930898] n1119158822[54.4932238,30.3932354] n1119159872[54.4931186,30.3931434] n1119159766[54.4931617,30.3929977]
 w96621676
   other tags : addr:housenumber=10 | addr:street=1-й Транспортный переулок | building=yes | building:levels=1
@@ -37070,7 +37070,7 @@ w244942971
   other tags : addr:housenumber=18А | addr:street=улица Гоголя | building=yes | building:levels=1
     geometry : n2522127449[54.5091955,30.3852697] n2522127452[54.5092687,30.3852848] n2522127450[54.5092577,30.3854418] n2522127447[54.5091845,30.3854266] n2522127449[54.5091955,30.3852697]
 w244942974
-  other tags : addr:housenumber=2 | addr:street=Шкловской проезд | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=Шкловский проезд | building=yes | building:levels=1
     geometry : n2522127408[54.4931838,30.3934198] n2522127409[54.4932284,30.3932850] n2522127413[54.4932971,30.3933525] n2522127411[54.4932525,30.3934872] n2522127408[54.4931838,30.3934198]
 w244942976
   other tags : addr:housenumber=6А | addr:street=Червенский проезд | building=yes | building:levels=1
@@ -37814,7 +37814,7 @@ w274921657
   other tags : addr:housenumber=53 | addr:street=улица Самусика | building=yes | building:levels=1
     geometry : n2795935372[54.4929459,30.3785840] n2795935374[54.4930523,30.3785874] n2795935373[54.4930512,30.3786938] n2795935371[54.4929448,30.3786904] n2795935372[54.4929459,30.3785840]
 w276701781
-  other tags : addr:housenumber=21 | addr:street=ПРОЕЗД 3-Й ШКЛОВСКИЙ | building=yes | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=3-й Шкловский проезд | building=yes | building:levels=1
     geometry : n2812944634[54.4901970,30.3893097] n2812944636[54.4902931,30.3894106] n2812944635[54.4902624,30.3894972] n2812944633[54.4901663,30.3893962] n2812944634[54.4901970,30.3893097]
 w276701782
   other tags : addr:housenumber=3 | addr:street=1-й Щетинковский проезд | building=yes | building:levels=1
