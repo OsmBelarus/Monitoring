@@ -5985,11 +5985,11 @@ n2407438731  Ламбард / null / Ломбард / Ломбард
 n2407635230  null / null / Малибу
   other tags : addr:housenumber=74 | addr:street=Каменногорская улица | shop=hairdresser
     geometry : [53.9257537,27.4230929]
-n2408981925  null / null / Магазинов отделочных материалов «Палас»
-  other tags : addr:housenumber=28 | addr:postcode=220070 | addr:street=улица Олега Кошевого | phone=(+375 17)230 26 44 | shop=doityourself
+n2408981925  null / null / Палас
+  other tags : addr:housenumber=28 | addr:postcode=220070 | addr:street=улица Олега Кошевого | description=Магазинов отделочных материалов | phone=(+375 17)230 26 44 | shop=doityourself
     geometry : [53.8848931,27.6038161]
-n2408983668  null / null / "Люстэрка" парикмахерская № 73 ОАО "Восход"
-  other tags : addr:housenumber=24 | addr:postcode=220070 | addr:street=улица Олега Кошевого | opening_hours=07:30-21:00 | phone=+375 (17) 230-33-15 | shop=hairdresser
+n2408983668  null / null / Люстэрка
+  other tags : addr:housenumber=24 | addr:postcode=220070 | addr:street=улица Олега Кошевого | description=Парикмахерская №73 | opening_hours=07:30-21:00 | operator=ОАО Восход | phone=+375 (17) 230-33-15 | shop=hairdresser
     geometry : [53.8853871,27.6049303]
 n2408987274  null / null / Мир Сумок
   other tags : addr:housenumber=18 | addr:postcode=220070 | addr:street=улица Олега Кошевого | phone=8 (017) 266 13 85 | shop=clothes
@@ -6018,8 +6018,8 @@ n2408995574
 n2408995716
   other tags : shop=hardware
     geometry : [53.8865812,27.6090669]
-n2408997996  null / null / Магазин №3 ООО Торговый дом «На Немиге»
-  other tags : addr:housenumber=14 | addr:postcode=220070 | addr:street=улица Олега Кошевого | opening_hours=10-00-20-00-Mo-Fr; 10-00-18-00-Sa-Su; без перерыва на обед | shop=hardware
+n2408997996  null / null / Магазин №3
+  other tags : addr:housenumber=14 | addr:postcode=220070 | addr:street=улица Олега Кошевого | opening_hours=Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00 | operator=ООО Торговый дом «На Немиге» | shop=hardware
     geometry : [53.8872261,27.6095619]
 n2408999658
   other tags : shop=beverages
@@ -8043,8 +8043,8 @@ n3048990733  null / null / Автозапчасти
 n3050792734  null / null / Продукты
   other tags : opening_hours=Mo-Su 08:00-21:00 | shop=convenience
     geometry : [53.9019450,27.4853360]
-n3051765838  null / null / МЕГАТОП
-  other tags : addr:housenumber=30 | addr:postcode=220070 | addr:street=Долгобродская улица | opening_hours=Mo – Sa 10:00-20:00; Su 10:00-18:00 | phone=+375 17 299 06 07 | shop=shoes
+n3051765838  null / null / Мегатоп
+  other tags : addr:housenumber=30 | addr:postcode=220070 | addr:street=Долгобродская улица | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375 17 299 06 07 | shop=shoes
     geometry : [53.8878199,27.6166725]
 n3056778924
   other tags : shop=hairdresser
