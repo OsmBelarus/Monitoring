@@ -6405,7 +6405,7 @@ n2561659570  null / null / Магазин горящих туров
 n2561667672  null / null / iRobot
   other tags : email=irobot@sml.by | opening_hours=Mo-Fr 8:30-17:00 | phone=375172543334 | shop=electronics | website=http://www.irobot.by/
     geometry : [53.9172395,27.4489309]
-n2561725301  null / null / WOODMASTER
+n2561725301  null / null / Woodmaster
   other tags : email=info@woodmaster.by | phone=375296218703 | shop=furniture | website=http://woodmaster.by/
     geometry : [53.9183746,27.4489410]
 n2562667680  null / null / SMTurbo
@@ -7781,9 +7781,6 @@ n2731092691  null / null / Парикмахерская
 n2732935467  null / null / Продукты
   other tags : shop=convenience
     geometry : [53.8957857,27.6517417]
-n2744088248  null / null / Bon Market
-  other tags : addr:housenumber=37 | addr:street=улица Кунцевщина | shop=convenience
-    geometry : [53.9154608,27.4353861]
 n2744391223
   other tags : shop=hairdresser
     geometry : [53.8954886,27.6533899]
@@ -7799,7 +7796,7 @@ n2757927759  null / null / Велопланета
 n2758408342  Hondaclub.by / null / Hondaclub.by / Hondaclub.by
   other tags : shop=car_repair
     geometry : [53.9151605,27.6860611]
-n2767118308  null / null / "Мила"
+n2767118308  null / null / Мила
   other tags : shop=chemist
     geometry : [53.9158730,27.4402752]
 n2767799248  null / null / Парикмахерская
@@ -7849,7 +7846,7 @@ n2821162308
     geometry : [53.9158630,27.4278556]
 n2821162309  null / null / Оптика
   other tags : shop=optician
-    geometry : [53.9129446,27.4347071]
+    geometry : [53.9129758,27.4346949]
 n2824721846  null / null / Мардин
   other tags : shop=hairdresser
     geometry : [53.9211989,27.4472161]
@@ -8789,15 +8786,18 @@ n3187187730
 n3188666668  null / null / Продуктовый
   other tags : shop=convenience
     geometry : [53.9386155,27.6408905]
-n3188975685  null / null / минимаркет "На денек"
-  other tags : addr:city=Минск | addr:housenumber=90 | addr:street=улица Матусевича | shop=supermarket
+n3188975685  null / null / На денек
+  other tags : addr:city=Минск | addr:housenumber=90 | addr:street=улица Матусевича | shop=convenience
     geometry : [53.9164482,27.4380092]
-n3188975686  null / null / Салон красоты "Комильфо"
-  other tags : addr:city=Минск | phone=+375 17 254-33-54 +375 29 667-27-27 | shop=beauty
+n3188975686  null / null / Комильфо
+  other tags : addr:city=Минск | phone=+375 17 254-33-54; +375 29 667-27-27 | shop=beauty
     geometry : [53.9166172,27.4377805]
 n3188976348  null / null / BIGZ
   other tags : shop=supermarket
     geometry : [53.9264027,27.4406347]
+n3188979068  null / null / Милагро
+  other tags : shop=hairdresser
+    geometry : [53.9184342,27.4391045]
 n3188983001  null / null / Мачулищи
   other tags : shop=supermarket
     geometry : [53.9237046,27.4408379]
@@ -8814,11 +8814,11 @@ n3193011975  null / null / Шиномонтаж
   other tags : addr:city=Минск | addr:street=Железнодорожная улица | shop=car_repair
     geometry : [53.8733303,27.5039337]
 n3194269488  null / null / Сладости, орехи и сухофрукты
-  other tags : shop=supermarket
+  other tags : shop=convenience
     geometry : [53.9129649,27.4349381]
 n3194270375  null / null / Живое пиво на розлив
-  other tags : shop=supermarket
-    geometry : [53.9129453,27.4347892]
+  other tags : shop=beverages
+    geometry : [53.9129699,27.4347953]
 n3194273078  null / null / Тропинка
   other tags : opening_hours=08:00-23:00 | shop=supermarket
     geometry : [53.9057009,27.4364543]
@@ -9011,9 +9011,6 @@ n3206003037  null / null / Вива Идеал
 n3206003038  null / null / Сиола
   other tags : shop=furniture
     geometry : [53.9174279,27.4506724]
-n3206003041  null / null / Ремонт одежды "Мэнчел"
-  other tags : shop=clothes
-    geometry : [53.9158849,27.4433545]
 n3206003043  null / null / AMI мебель
   other tags : shop=furniture
     geometry : [53.9153320,27.4437654]
@@ -9031,7 +9028,7 @@ n3206003052  null / null / Шиномонтаж Р22
     geometry : [53.9137616,27.4330232]
 n3206003054  null / null / Black Cat
   other tags : shop=hairdresser
-    geometry : [53.9136668,27.4353192]
+    geometry : [53.9136770,27.4351923]
 n3206003056  null / null / Монро
   other tags : shop=hairdresser
     geometry : [53.9123301,27.4330260]
@@ -9212,18 +9209,15 @@ n3208654166  null / null / Сивельга
 n3208655027  null / null / Тениси
   other tags : addr:city=Минск | addr:housenumber=55Г | addr:street=улица Калиновского | shop=bookmaker
     geometry : [53.9470502,27.6280263]
-n3208657397  null / null / Цветочный магазин
+n3208657397
   other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=florist
-    geometry : [53.9153615,27.4353186]
+    geometry : [53.9153573,27.4353273]
 n3208663014  null / null / Мясная Кулинария Советский Век
   other tags : addr:city=Минск | addr:housenumber=55Г | addr:street=улица Калиновского | shop=yes
     geometry : [53.9468900,27.6281428]
 n3208663015  null / null / Магазин овощей и фруктов
   other tags : addr:city=Минск | addr:housenumber=55Г | addr:street=улица Калиновского | shop=greengrocer
     geometry : [53.9469047,27.6280824]
-n3208664968  null / null / Магазин разливного пива
-  other tags : shop=supermarket
-    geometry : [53.9129524,27.4348660]
 n3211912919  null / null / Alpine Pro
   other tags : brand=Alpine Pro | contact:phone=+375(44) 548-91-37 | level=2 | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | shop=sports
     geometry : [53.8753462,27.4981597]
@@ -10316,23 +10310,23 @@ n3279313791  null / null / оптика
   other tags : shop=optician
     geometry : [53.8757603,27.6313943]
 n3280259261  null / null / Евроопт
-  other tags : addr:city=Минск | addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=9-22 | operator=Евроторг | shop=supermarket
+  other tags : addr:city=Минск | addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=Mo-Su 09:00-22:00 | operator=Евроторг | shop=supermarket
     geometry : [53.9116372,27.4349498]
 n3280267064  null / null / Bon Market
-  other tags : shop=supermarket
-    geometry : [53.9154254,27.4353056]
+  other tags : addr:housenumber=37 | addr:street=улица Кунцевщина | shop=convenience
+    geometry : [53.9154339,27.4353373]
 n3280267830  null / null / 1000 мелочей
   other tags : shop=kiosk
     geometry : [53.9164298,27.4395850]
 n3280584989  null / null / Магазин Разливного пива
-  other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=supermarket
+  other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=beverages
     geometry : [53.9153931,27.4353283]
 n3280592770  null / null / Подкова
   other tags : addr:city=Минск | addr:housenumber=27 | addr:street=улица Кунцевщина | shop=supermarket
     geometry : [53.9130014,27.4351098]
-n3280592831  null / null / Волковыйские продукты
+n3280592831  null / null / Волковысские продукты
   other tags : addr:city=Минск | addr:housenumber=37 | addr:street=улица Кунцевщина | shop=supermarket
-    geometry : [53.9147107,27.4353895]
+    geometry : [53.9147264,27.4353341]
 n3281662870  null / null / Салон цветов и подарков "Флория"
   other tags : shop=florist
     geometry : [53.9115001,27.5397733]
@@ -10974,6 +10968,9 @@ n3448142333  null / null / Соседи
 n3453719502  null / null / СТО Метион
   other tags : opening_hours=Mo-Fr 09:00-18:00 | phone=+375291140979 | shop=car_repair | website=http://metion.by
     geometry : [53.9283708,27.6635734]
+n3453862145  null / null / ZAEM.BY / ZAEM.BY
+  other tags : addr:housenumber=21 | addr:postcode=220017 | addr:street=улица Кунцевщина | opening_hours=Mo-Su 10:00-18:00 | phone=+375298573355 | shop=pawnbroker
+    geometry : [53.9120095,27.4348735]
 n3456932436  null / null / Happy Mom
   other tags : addr:housenumber=6 | addr:street=Каменногорская улица | note=Детские товары | shop=baby_goods | website=http://happymom.by/
     geometry : [53.9104316,27.4190304]
