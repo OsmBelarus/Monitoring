@@ -100,9 +100,6 @@ n275906127
 n275906140
   other tags : shop=tyres
     geometry : [53.9132270,27.5935300]
-n275936871  Кляштарны / null / Монастырский / Монастырский
-  other tags : addr:housenumber=6 | addr:street=улица Кирилла и Мефодия | opening_hours=08:00-23:00 | operator=САУНА ОТЕЛЯ | shop=beauty
-    geometry : [53.9049393,27.5574822]
 n277104623
   other tags : shop=convenience
     geometry : [53.9414976,27.6472117]
@@ -11133,3 +11130,9 @@ n3534166716  null / null / Продукты
 n3535946561  null / null / Велобайк
   other tags : Shop=Веломагазин | addr:city=Минск | addr:housenumber=26 | addr:street=Игуменский тракт | opening_hours=10:00 - 20:00 | shop=bicycle | shop_1=вело | shop_2=веломинск
     geometry : [53.8438804,27.5696347]
+n3536745632  Кляштарны / null / Монастырский / Монастырский
+  other tags : addr:housenumber=6 | addr:street=улица Кирилла и Мефодия | opening_hours=08:00-23:00 | shop=beauty
+    geometry : [53.9049848,27.5575410]
+n3536745633  null / null / ООО "Верона стиль"
+  other tags : opening_hours=Mo-Fr 9:00-20:00; Sa 9:00-17:00; Su 10:00-17:00 | shop=hairdresser
+    geometry : [53.9046133,27.5579443]
