@@ -23,8 +23,8 @@ n2343800955  null / null / Мазеки
   other tags : highway=bus_stop
     geometry : [55.2737395,29.6993928]
 n2358205260  null / null / Сахоненки
-  other tags : highway=bus_stop
-    geometry : [55.3139722,29.5219898]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3139863,29.5219700]
 n2358205278  null / null / Ловжа
   other tags : highway=bus_stop
     geometry : [55.3146195,29.4862048]
@@ -41,16 +41,16 @@ n2377139377  null / null / Пуща / Пуща
   other tags : highway=bus_stop
     geometry : [55.3432222,29.3488587]
 n2461817511  null / null / 50 км
-  other tags : highway=bus_stop
-    geometry : [55.3108157,29.5584841]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3108157,29.5585321]
 n2461817514  null / null / 50 км
-  other tags : highway=bus_stop
-    geometry : [55.3112093,29.5580637]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3112054,29.5581048]
 n2461817541  null / null / Губица / Губица
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.3127593,29.5477006]
 n2461817545  null / null / Губица / Губица
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.3132424,29.5453790]
 n2468138227  null / null / Хотилово
   other tags : highway=bus_stop
@@ -74,7 +74,7 @@ n2782048203  null / null / Язвино
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2632089,29.7592196]
 n2851318072  null / null / Сахоненки
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.3136718,29.5224470]
 n3406848801
   other tags : highway=bus_stop
