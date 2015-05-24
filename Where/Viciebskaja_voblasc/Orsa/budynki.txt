@@ -12083,7 +12083,7 @@ w101351860
   other tags : addr:housenumber=5 | addr:street=4-й переулок Марата | building=yes | building:levels=1
     geometry : n1170273989[54.5156706,30.4417226] n1170277844[54.5157142,30.4415769] n1170282751[54.5157945,30.4416482] n1170278789[54.5157509,30.4417939] n1170273989[54.5156706,30.4417226]
 w101351861
-  other tags : addr:housenumber=26 | addr:street=Краснофлотский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=26 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1170274696[54.5118563,30.4383589] n1170287219[54.5119651,30.4383926] n1170283676[54.5119455,30.4385804] n1170278973[54.5118367,30.4385467] n1170274696[54.5118563,30.4383589]
 w101351862
   other tags : addr:housenumber=3 | addr:street=Загородный переулок | building=yes | building:levels=1
@@ -12482,7 +12482,7 @@ w101352050
   other tags : addr:housenumber=13 | addr:street=улица Розы Люксембург | building=yes | building:levels=1
     geometry : n1170276314[54.5164175,30.4193697] n1170281790[54.5164294,30.4191949] n1170285001[54.5165016,30.4192096] n1170281012[54.5164896,30.4193843] n1170276314[54.5164175,30.4193697]
 w101352051
-  other tags : addr:housenumber=24 | addr:street=Краснофлотский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=24 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1170285731[54.5117279,30.4380704] n1170278370[54.5117931,30.4380883] n1170274336[54.5117635,30.4384090] n1170290059[54.5116982,30.4383910] n1170285731[54.5117279,30.4380704]
 w101352052
   other tags : addr:housenumber=2/14 | addr:street=Новодубровенская улица | building=yes | building:levels=1
@@ -18209,7 +18209,7 @@ w101367549
   other tags : addr:housenumber=52 | addr:street=4-й переулок Белинского | building=yes | building:levels=1
     geometry : n1170514176[54.5266651,30.4463560] n1170477752[54.5267348,30.4464007] n1170488771[54.5266961,30.4465795] n1170498401[54.5266264,30.4465347] n1170514176[54.5266651,30.4463560]
 w101367550
-  other tags : addr:housenumber=21 | building=yes | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=Ерошевичская улица | building=yes | building:levels=1
     geometry : n1170497551[54.5419265,30.4217384] n1170506903[54.5419945,30.4218154] n1170515753[54.5419378,30.4219641] n1170479612[54.5418699,30.4218870] n1170497551[54.5419265,30.4217384]
 w101367551
   other tags : addr:housenumber=14 | addr:street=1-й переулок Маяковского | building=yes | building:levels=1
@@ -27091,8 +27091,8 @@ w141181291
 w141181292
   other tags : addr:housenumber=1Б | addr:street=улица 60 лет БССР | building=yes | building:levels=1
     geometry : n2346695190[54.4879829,30.4144802] n1545561525[54.4880279,30.4143278] n2346695204[54.4880815,30.4143747] n2346695195[54.4880648,30.4144314] n1545561527[54.4881363,30.4144941] n1545561524[54.4881081,30.4145898] n2346695190[54.4879829,30.4144802]
-w141181294  Магазін / null / Магазин каскад / Магазин каскад
-  other tags : addr:housenumber=каскад | building=yes | building:levels=1
+w141181294
+  other tags : building=yes | building:levels=1
     geometry : n1545561518[54.4871364,30.4250271] n1545561521[54.4873012,30.4251692] n1545561522[54.4873500,30.4250016] n1545561519[54.4871851,30.4248595] n1545561518[54.4871364,30.4250271]
 w144189535
   other tags : addr:housenumber=35 | addr:street=Чугуночная улица | building=yes | building:levels=1
@@ -29366,7 +29366,7 @@ w151569446
   other tags : addr:housenumber=22 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1643954816[54.5114877,30.4384040] n1643954818[54.5115113,30.4382511] n1643954821[54.5115755,30.4382806] n1643954820[54.5115520,30.4384334] n1643954816[54.5114877,30.4384040]
 w151569450
-  other tags : addr:housenumber=27 | addr:street=Краснофлотский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=27 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1643954819[54.5117266,30.4394194] n1643954822[54.5118062,30.4394219] n1643954824[54.5118045,30.4395857] n1643954823[54.5117248,30.4395833] n1643954819[54.5117266,30.4394194]
 w151569451
   other tags : addr:housenumber=29 | addr:street=улица Покровского | building=yes | building:levels=1
@@ -29384,7 +29384,7 @@ w151569455
   other tags : addr:housenumber=33 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1643954842[54.5123123,30.4391822] n1643954844[54.5123899,30.4391042] n1643954859[54.5124420,30.4392578] n1643954851[54.5123643,30.4393358] n1643954842[54.5123123,30.4391822]
 w151569456
-  other tags : addr:housenumber=37 | addr:street=Краснофлотский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=37 | addr:street=улица Покровского | building=yes | building:levels=1
     geometry : n1643954857[54.5124428,30.4395654] n1643954863[54.5125174,30.4394950] n1643954868[54.5125585,30.4396243] n1643954866[54.5124839,30.4396946] n1643954857[54.5124428,30.4395654]
 w151569457
   other tags : addr:housenumber=41 | addr:street=улица Покровского | building=yes | building:levels=1
@@ -34457,10 +34457,10 @@ w161021075
   other tags : addr:housenumber=1 | addr:street=улица Соляникова | building=yes | building:levels=1
     geometry : n1730264764[54.4902559,30.4395564] n1730264782[54.4903677,30.4394396] n1730264784[54.4906772,30.4403177] n1730264766[54.4905653,30.4404345] n1730264764[54.4902559,30.4395564]
 w161021076
-  other tags : addr:housenumber=5 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n1730264720[54.4890066,30.4400893] n2870364019[54.4891500,30.4399448] n2870364020[54.4891551,30.4399598] n1730264727[54.4893861,30.4397271] n2870364026[54.4894487,30.4399113] n2870364025[54.4893936,30.4399670] n1730264729[54.4893999,30.4399856] n2870364024[54.4892672,30.4401192] n2870364023[54.4892598,30.4400974] n2870364021[54.4892059,30.4401517] n2870364022[54.4892124,30.4401707] n1730264721[54.4890797,30.4403044] n1730264720[54.4890066,30.4400893]
 w161021077
-  other tags : addr:housenumber=1 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n1730264733[54.4890158,30.4386218] n1730264737[54.4894333,30.4382001] n1730264739[54.4894908,30.4383688] n1730264735[54.4890733,30.4387905] n1730264733[54.4890158,30.4386218]
 w163919304
   other tags : addr:housenumber=41 | addr:street=улица Молокова | building=yes | building:levels=1
@@ -34958,7 +34958,7 @@ w186483026
   other tags : addr:housenumber=2 | addr:street=улица Соляникова | building=yes | building:levels=1
     geometry : n1971946695[54.4900620,30.4395374] n1971946709[54.4901207,30.4397030] n1971946686[54.4897572,30.4400850] n1971946689[54.4899488,30.4406253] n1971946685[54.4898350,30.4407448] n1971946684[54.4895848,30.4400389] n1971946695[54.4900620,30.4395374]
 w186483157
-  other tags : addr:housenumber=9 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n1971949132[54.4891282,30.4413767] n1971949136[54.4895019,30.4409846] n1971949138[54.4895900,30.4412334] n1971949134[54.4892163,30.4416255] n1971949132[54.4891282,30.4413767]
 w200560290
   other tags : addr:housenumber=34 | addr:street=улица Энгельса | building=yes | building:levels=1
@@ -35108,10 +35108,10 @@ w217332506
   other tags : addr:housenumber=4 | addr:street=улица Сержантова | building=yes | building:levels=1
     geometry : n2266048270[54.4934694,30.4209652] n2266048272[54.4934204,30.4207910] n2266048273[54.4933254,30.4208702] n2266048271[54.4933744,30.4210444] n2266048270[54.4934694,30.4209652]
 w217333024
-  other tags : addr:housenumber=7 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n2266054148[54.4889634,30.4408029] n2266054163[54.4890545,30.4407100] n2266054156[54.4890045,30.4405649] n2266054154[54.4890207,30.4405484] n2266054173[54.4889862,30.4404481] n2266054165[54.4889674,30.4404673] n2266054152[54.4889233,30.4403390] n2266054150[54.4888441,30.4404198] n2266054161[54.4888365,30.4404275] n2266054175[54.4888655,30.4405117] n2266054167[54.4888395,30.4405382] n2266054160[54.4889030,30.4407229] n2266054158[54.4889273,30.4406982] n2266054148[54.4889634,30.4408029]
 w217333220
-  other tags : addr:housenumber=11 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n2266056157[54.4889581,30.4417502] n2266056152[54.4889905,30.4418415] n2266056163[54.4889582,30.4418754] n2266056162[54.4890242,30.4420618] n2266056156[54.4890488,30.4420359] n2266056155[54.4890842,30.4421358] n2266056160[54.4891682,30.4420475] n2266056158[54.4891233,30.4419207] n2266056159[54.4891509,30.4418916] n2266056153[54.4891081,30.4417710] n2266056161[54.4890812,30.4417994] n2266056154[54.4890351,30.4416693] n2266056157[54.4889581,30.4417502]
 w217333388
   other tags : addr:housenumber=112 | addr:street=Могилёвская улица | building=yes | building:levels=1
@@ -37763,7 +37763,7 @@ w270808512
   other tags : addr:housenumber=21 | addr:street=Красный переулок | building=yes | building:levels=1
     geometry : n2757927149[54.5149504,30.4148830] n2757927148[54.5149485,30.4147405] n2757927150[54.5150498,30.4147366] n2757927151[54.5150516,30.4148791] n2757927149[54.5149504,30.4148830]
 w270871755
-  other tags : addr:housenumber=14 | addr:street=ПРОЕЗД ГАРАНИНА | building=yes | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=проезд Алексея Гаранина | building=yes | building:levels=1
     geometry : n2758361832[54.4891054,30.4427527] n2758361837[54.4893102,30.4424593] n2758361840[54.4894304,30.4427080] n2758361835[54.4892256,30.4430014] n2758361832[54.4891054,30.4427527]
 w271121231
   other tags : addr:housenumber=12 | addr:street=улица Целибьева | building=yes | building:levels=1
