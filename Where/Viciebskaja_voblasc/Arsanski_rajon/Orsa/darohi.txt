@@ -194,7 +194,7 @@ w30087374  5-ы Будаўнічы завулак / 5-y Budaŭničy zavulak / 5-
   other tags : highway=residential
     geometry : n331393290[54.5091693,30.3645542] n331393289[54.5096136,30.3679484]
 w30087375  вуліца Юрыя Бабкова / vulica Juryja Babkova / улица Юрия Бобкова / улица Юрия Бобкова
-  other tags : highway=tertiary | maxspeed=50 | oneway=no
+  other tags : highway=tertiary | maxspeed=50 | oneway=no | surface=asphalt
     geometry : n331393477[54.4942983,30.4008417] n331394738[54.4933448,30.4030942] n331394755[54.4927955,30.4043244] n331455906[54.4924128,30.4052437] n1876264382[54.4920670,30.4062735] n331394757[54.4917478,30.4073545]
 w30087376  2-і Будаўнічы завулак / 2-i Budaŭničy zavulak / 2-й Строительный переулок / 2-й Строительный переулок
   other tags : highway=residential
@@ -1485,11 +1485,8 @@ w61563883  вуліца Шолахава / vulica Šolachava / улица Шол
 w61563886  Камсамольская вуліца / Kamsamoĺskaja vulica / Комсомольская улица / Комсомольская улица
   other tags : highway=primary | maxspeed=50 | ref=Р15 | surface=asphalt
     geometry : n331480108[54.5076521,30.4275611] n1382922920[54.5080207,30.4268728] n2930411421[54.5084334,30.4260368] n331471556[54.5085359,30.4258293]
-w61563893  вуліца Юрыя Бабкова / vulica Juryja Babkova / улица Юрия Бобкова / улица Юрия Бобкова
-  other tags : access=no | bicycle=yes | bridge=construction | foot=yes | highway=unclassified | layer=1 | maxspeed=50 | motor_vehicle=yes | oneway=no | surface=asphalt
-    geometry : n331394757[54.4917478,30.4073545] n767919704[54.4908707,30.4103851]
 w61563894  вуліца Юрыя Бабкова / vulica Juryja Babkova / улица Юрия Бобкова / улица Юрия Бобкова
-  other tags : highway=tertiary
+  other tags : highway=tertiary | surface=asphalt
     geometry : n767919704[54.4908707,30.4103851] n331455912[54.4902586,30.4124209] n3425715659[54.4899222,30.4135065] n3425715658[54.4897984,30.4142943]
 w62116439  вуліца Розы Люксембург / vulica Rozy Liuksiemburh / улица Розы Люксембург / улица Розы Люксембург
   other tags : highway=residential
@@ -3323,6 +3320,9 @@ w347630312
 w347630313
   other tags : highway=unclassified | surface=asphalt
     geometry : n1871054318[54.5386644,30.4193762] n3538676093[54.5377120,30.4182799] n3538676094[54.5381202,30.4170572]
+w347743131  вуліца Юрыя Бабкова / vulica Juryja Babkova / улица Юрия Бобкова / улица Юрия Бобкова
+  other tags : bridge=yes | highway=tertiary | layer=1 | maxspeed=50 | oneway=no | surface=asphalt
+    geometry : n331394757[54.4917478,30.4073545] n767919704[54.4908707,30.4103851]
 r3982198
   other tags : area=yes | highway=footway | type=multipolygon
     geometry : <outer> w299545022: n3035446840[54.5207864,30.3756151] n3035446503[54.5206473,30.3750643] n3035446490[54.5205367,30.3746266] n3035446493[54.5205899,30.3745868] n3035446518[54.5207011,30.3750271] n3035446848[54.5208402,30.3755780] : w299545022
