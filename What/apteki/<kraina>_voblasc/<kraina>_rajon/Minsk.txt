@@ -80,8 +80,8 @@ n281722582  Белмедінфарм №30 / Bielmiedinfarm №30 / Белмед
   other tags : amenity=pharmacy
     geometry : [53.9440452,27.7075037]
 n281722624  Белмедінфарм ТАА Аптэка №4 / Bielmiedinfarm TAA Apteka №4 / Белмединфарм ООО Аптека №4 / Белмединфарм ООО Аптека №4
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Уручская улица | amenity=pharmacy | contact:phone=+37517 2868113 | opening_hours=Mo-Fr 08:00-21:00, Sa 10:00-18:00
-    geometry : [53.9496731,27.6945609]
+  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=Уручская улица | amenity=pharmacy | contact:phone=+37517 2868113 | opening_hours=Mo-Fr 08:00-21:00; Fr[3] 09:00-18:00 | operator:be=ТАА "Белмедінфам" | operator:ru=ООО "Белмединфарм" | pharmacy:categry=5 | ref=4
+    geometry : [53.9495827,27.6944845]
 n281727408
   other tags : amenity=pharmacy
     geometry : [53.9272949,27.6063397]
