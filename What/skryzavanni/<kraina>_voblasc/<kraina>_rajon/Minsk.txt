@@ -854,7 +854,7 @@ n388277864
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8796250,27.6065135]
 n388277874
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=no
     geometry : [53.8811360,27.6007699]
 n388277896
   other tags : highway=crossing
@@ -956,10 +956,10 @@ n393128437
   other tags : crossing=zebra | highway=crossing
     geometry : [53.8586218,27.5906698]
 n394814629
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
     geometry : [53.8810608,27.6003139]
 n394814630
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8809560,27.6002287]
 n408739591
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
@@ -4948,6 +4948,9 @@ n1388303703
 n1389313645
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.8831069,27.6022698]
+n1389313657
+  other tags : crossing=unmarked | highway=crossing | tactile_paving=no
+    geometry : [53.8846978,27.6014311]
 n1389369136
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9025311,27.4896050]
