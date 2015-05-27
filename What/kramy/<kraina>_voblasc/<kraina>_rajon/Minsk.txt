@@ -6466,7 +6466,7 @@ n2573735953  null / null / Соседи
   other tags : addr:housenumber=78 | addr:postcode=220112 | addr:street=улица Прушинских | opening_hours=8:00-23:00 | shop=convenience | website=http://www.sosedi.by/
     geometry : [53.8389604,27.5652553]
 n2574013812  null / null / Мила
-  other tags : addr:housename=Мила | addr:housenumber=17 | addr:street=улица Воронянского | shop=yes | website=http://milashop.by/
+  other tags : addr:housename=Мила | addr:housenumber=17 | addr:street=улица Воронянского | shop=chemist | website=http://milashop.by/
     geometry : [53.8782620,27.5470856]
 n2574021803  null / null / Мясной
   other tags : shop=butcher
@@ -9527,6 +9527,9 @@ n3260085718  null / null / Секонд-хенд
 n3260096453  null / null / Zooмаркет
   other tags : addr:housenumber=2 | addr:street=улица Гамарника | shop=pet
     geometry : [53.9566406,27.6200192]
+n3260333086  null / null / Узоры
+  other tags : shop=yes
+    geometry : [53.8782761,27.5439219]
 n3261340351  null / null / Электросила
   other tags : addr:city=Минск | addr:housenumber=37 | addr:street=Логойский тракт | shop=electronics
     geometry : [53.9555151,27.6199437]
@@ -11145,3 +11148,9 @@ n3538143929  null / null / СТО
 n3541774396  Цырульня / null / Парикмахерская / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.9497458,27.6945874]
+n3543178652  null / null / Атлант-М Британия
+  other tags : addr:housenumber=125 | addr:street=Аэродромная улица | brand=Land Rover | shop=car | website=http://www.landrover-atlantm.by/
+    geometry : [53.8731679,27.5592487]
+n3543178653  null / null / Атлант-М Британия
+  other tags : addr:housenumber=125 | addr:street=Аэродромная улица | brand=Jaguar | shop=car | website=http://jaguar-atlantm.by/
+    geometry : [53.8731926,27.5592244]
