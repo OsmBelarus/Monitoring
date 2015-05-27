@@ -112,7 +112,7 @@ n277153832  null / null / Активная зона
 n277157888  Свет торбаў / null / Мир сумок
   other tags : shop=boutique
     geometry : [53.9200793,27.5745606]
-n277172330  null / null / Оптика "Fielman"
+n277172330  null / null / Fielman
   other tags : shop=optician
     geometry : [53.8911261,27.5588527]
 n277341185  null / null / Рублевский
@@ -6614,7 +6614,7 @@ n2593619424  null / null / Plaisir (Плейзир)
     geometry : [53.9381731,27.4860234]
 n2593623232  null / null / Соседи
   other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=7:00-23:00 | shop=supermarket | website=http://www.sosedi.by/
-    geometry : [53.8899072,27.5558910]
+    geometry : [53.8899749,27.5556996]
 n2593626355  null / null / Электросила
   other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=Mo-Th, Su 10:00-22:00, Fr-Sa 10:00-23:00 | phone=+375 (17) 328-48-01 | shop=electronics | website=http://www.sila.by/
     geometry : [53.8898882,27.5555959]
@@ -6622,7 +6622,7 @@ n2593630751  null / null / Цифровик
   other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=10:00-22:00 | phone=+375 (44) 553-30-73 | shop=computer | website=http://cifrovik.by/
     geometry : [53.8900463,27.5557086]
 n2593631784  null / null / Мила
-  other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=Mo-Th, Su 10:00-22:00, Fr-Sa 10:00-23:00 | shop=cosmetics | website=http://milashop.by/
+  other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=Mo-Th, Su 10:00-22:00, Fr-Sa 10:00-23:00 | shop=chemist | website=http://milashop.by/
     geometry : [53.8899230,27.5554565]
 n2593644220  null / null / Евросеть
   other tags : addr:housenumber=6 | addr:street=Бобруйская улица | shop=mobile_phone | website=http://euroset.by/
@@ -8116,8 +8116,9 @@ n3087381672  null / null / Златка
 n3088026455  null / null / Ритуальные принадлежности
   other tags : shop=yes
     geometry : [53.8434070,27.6319248]
-n3088943736  null / null / Parus Jeans - Парус Джинс
-  other tags : email=info@parusjeans.com | phone=+375 (33) 637 88 52 | shop=clothes | website=http://www.parusjeans.com
+n3088943736  null / null / Парус Джинс / Парус Джинс
+  other names: name:en=Parus Jeans
+  other tags : email=info@parusjeans.com | phone=+375 33 637 88 52 | shop=clothes | website=http://www.parusjeans.com
     geometry : [53.8901988,27.5543684]
 n3088943737  null / null / Парус Джинс / Парус Джинс
   other names: name:en=Parus Jeans
@@ -8491,7 +8492,7 @@ n3143679936  null / null / Аркада
 n3143680309  null / null / Milavitsa
   other tags : shop=yes
     geometry : [53.9012668,27.5576624]
-n3143681208  null / null / "Натали"
+n3143681208  null / null / Натали
   other tags : shop=hairdresser
     geometry : [53.8924037,27.5576809]
 n3143681245  null / null / Adidas
@@ -8504,8 +8505,8 @@ n3143682269  null / null / Баста
   other tags : shop=shoes
     geometry : [53.8929411,27.5516606]
 n3143682496  null / null / Ксерокопия
-  other tags : shop=yes
-    geometry : [53.8929156,27.5586012]
+  other tags : shop=copyshop
+    geometry : [53.8928920,27.5586221]
 n3143682779  null / null / Alladen
   other tags : shop=shoes
     geometry : [53.8915467,27.5526650]
@@ -10062,7 +10063,7 @@ n3270506502  null / null / Времена года-92
   other tags : addr:housenumber=26 | addr:street=улица Свердлова | opening_hours=Mo-Sa 08:00-20:00; Su 10:00-18:00 | shop=beauty
     geometry : [53.8923771,27.5555337]
 n3270506503  null / null / ВУ-А-ЛЯ
-  other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=пн. — чт.: 10:00 — 22:00 пт. — сб.: 10:00 — 23:00 вс.: 10:00 — 22:00 | operator=СТУДИЯ КРАСОТЫ | shop=beauty
+  other tags : addr:housenumber=6 | addr:street=Бобруйская улица | opening_hours=Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-22:00 | shop=beauty
     geometry : [53.8900983,27.5546511]
 n3270506504  null / null / Улыбка
   other tags : addr:housenumber=1 | addr:street=улица Кирова | opening_hours=Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00 | operator=САЛОН-ПАРИКМАХЕРСКАЯ | shop=beauty
@@ -10684,9 +10685,6 @@ n3286451454
 n3286473862
   other tags : shop=yes
     geometry : [53.8720808,27.6290049]
-n3286592321  null / null / Соседи
-  other tags : shop=department_store
-    geometry : [53.8900987,27.5553634]
 n3286610142  null / null / Бордо
   other tags : shop=wine
     geometry : [53.8995536,27.5860022]
