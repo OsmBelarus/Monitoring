@@ -3852,6 +3852,7 @@ w37772027
   other tags : highway=service | living_street=yes
     geometry : n443089950[53.9303640,27.4967117] n443089952[53.9304241,27.4969371]
 w37807209  вуліца Розы Люксембург / vulica Rozy Liuksiemburh / улица Розы Люксембург / улица Розы Люксембург
+  other names: name:wikipedia:be=Роза_Люксембург | name:wikipedia:ru=Люксембург,_Роза
   other tags : highway=service
     geometry : n275073594[53.8929400,27.5269100] n275073595[53.8933200,27.5283300] n275073596[53.8934500,27.5288400]
 w37807675
@@ -20387,7 +20388,8 @@ w87298156
   other tags : highway=service
     geometry : n1015031669[53.9284591,27.4757239] n1860167942[53.9280519,27.4754222] n1015031607[53.9275607,27.4750582]
 w87336431  вуліца Альшэўскага / vulica Aĺšeŭskaha / улица Ольшевского / улица Ольшевского
-  other tags : highway=service | note:be=вуліца Альшэўскага Мікалая Міхайлавіча | note:ru=улица Ольшевского Николая Михайловича | oneway=no
+  other names: name:wikipedia:ru=Ольшевский,_Николай_Михайлович
+  other tags : highway=service | note:be=вуліца Альшэўскага Мікалая Міхайлавіча | oneway=no
     geometry : n1015577810[53.9242711,27.4760703] n1227912469[53.9243322,27.4759135] n1015577818[53.9246171,27.4750996]
 w87336433
   other tags : highway=service
