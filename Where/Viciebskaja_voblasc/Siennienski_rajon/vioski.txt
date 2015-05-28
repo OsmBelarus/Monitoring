@@ -68,7 +68,7 @@ n243030057  Мар’янава / Marjanava / Марьяново / Марьян�
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.7919900,29.4824100]
 n243030060  Заазер’е / Zaazierje / Заозерье / Заозерье
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богдановский сельский Совет | place=hamlet
     geometry : [54.8032400,29.5704800]
 n243030063  Смалоўка / Smaloŭka / Смоловка / Смоловка
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -102,8 +102,9 @@ n243030092  Гарнакі / Harnaki / Гарнаки / Гарнаки
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8187700,29.6236000]
 n243030098  Пожанькі / Požańki / Поженьки / Поженьки
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
-    geometry : [54.8404900,29.5497000]
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богдановский сельский Совет | place=hamlet
+    geometry : [54.8412653,29.5491515]
 n243030101  Гарадзец / Haradziec / Городец / Городец
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8520700,29.5729600]
@@ -114,7 +115,8 @@ n243030107  Поўзікі / Poŭziki / Повзики / Повзики
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8374000,29.5912500]
 n243030110  Пожанькі / Požańki / Поженьки / Поженьки
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богдановский сельский Совет | note=а может и не это посёлок | place=hamlet
     geometry : [54.8341400,29.5274700]
 n243030113  Лук’янава / Lukjanava / Лукьяново / Лукьяново
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -189,7 +191,7 @@ n243032936  Алёхнава / Aliochnava / Алёхново / Алёхново
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.7528500,29.8767200]
 n243032940  Дубаўцы / Dubaŭcy / Дубовцы / Дубовцы
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Немойтовский сельский Совет | place=hamlet
     geometry : [54.7369246,29.8217398]
 n243032944  Каменка / Kamienka / Каменка / Каменка
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -363,7 +365,7 @@ n243034397  Ліпна / Lipna / Липно / Липно
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9441700,29.8566300]
 n243034401  Застадолле / Zastadollie / Застодолье / Застодолье
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Мошканский сельский Совет | place=hamlet
     geometry : [54.9445709,29.9453498]
 n243034405  Горныя Ходцы / Hornyja Chodcy / Горные Ходцы / Горные Ходцы
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -390,7 +392,7 @@ n243036437  Ярошкі / Jaroški / Ярошки / Ярошки
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9425695,30.0403069]
 n243036440  Аляксандрава / Aliaksandrava / Александрово / Александрово
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богушевский сельский Совет | place=hamlet
     geometry : [54.9347479,30.1001478]
 n243036443  Шыркі / Šyrki / Ширки / Ширки
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -408,7 +410,7 @@ n243036470  Стрыгі / Stryhi / Стриги / Стриги
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet | wikipedia=ru:Стриги
     geometry : [54.8853736,30.0279521]
 n243036473  Заазер’е / Zaazierje / Заозерье / Заозерье
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богушевский сельский Совет | place=hamlet
     geometry : [54.9009722,30.1165531]
 n243036476  Канстантова / Kanstantova / Константово / Константово
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
@@ -420,7 +422,7 @@ n243036481  Замошша / Zamošša / Замошье / Замошье
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9103986,30.0586120]
 n243036483  Дубаўцы / Dubaŭcy / Дубовцы / Дубовцы
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Мошканский сельский Совет | place=hamlet
     geometry : [54.8927925,30.0288606]
 n243036487  Кадукова / Kadukova / Кодуково / Кодуково
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | alt_name:ru=Кадуково | place=hamlet
@@ -441,7 +443,7 @@ n243036502  Платоны / Platony / Платоны / Платоны
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.9039702,30.1558557]
 n243036504  Луг / Luh / Луг / Луг
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богушевский сельский Совет | place=hamlet
     geometry : [54.8570765,30.1570843]
 n243036507  Янова / Janova / Яново / Яново
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=village
@@ -932,7 +934,7 @@ n243043742  Фурманы / Furmany / Фурманы / Фурманы
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
     geometry : [54.8624161,30.2685662]
 n243043743  Града / Hrada / Гряда / Гряда
-  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | addr:subdistrict=Богушевский сельский Совет | place=hamlet
     geometry : [54.8622000,30.2901700]
 n243043744  Лукты / Lukty / Лукты / Лукты
   other tags : addr:country=BY | addr:district=Сенненский район | addr:region=Витебская область | place=hamlet
