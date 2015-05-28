@@ -1724,7 +1724,7 @@ n2214405208  null / null / Старое русло
   other tags : amenity=restaurant
     geometry : [53.8959440,27.5674840]
 n2241600572  null / null / Чебуречная
-  other tags : amenity=fast_food
+  other tags : addr:city=Минск | addr:housenumber=8а | addr:street=улица Кедышко | amenity=fast_food | takeaway=yes
     geometry : [53.9294165,27.6168528]
 n2281899799  Піўняры / null / Пивняры / Пивняры
   other tags : addr:housenumber=77 | addr:street=улица Лобанка | amenity=pub | website=http://www.pivnyary.relax.by/
