@@ -14,11 +14,11 @@ n1868857547  null / null / Боровка
   other tags : highway=bus_stop
     geometry : [54.9582179,28.7907878]
 n1868857549
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0099748,28.8912773]
 n1868857550
-  other tags : highway=bus_stop
-    geometry : [55.0100497,28.8903541]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0100497,28.8903074]
 n1868857552
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0123263,28.9929837]
