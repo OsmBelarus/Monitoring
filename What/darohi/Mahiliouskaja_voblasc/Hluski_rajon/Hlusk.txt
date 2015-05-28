@@ -7,8 +7,8 @@ w37376778  вуліца Кірава / vulica Kirava / улица Кирова /
 w37376780  Савецкая вуліца / Savieckaja vulica / Советская улица / Советская улица
   other tags : highway=tertiary
     geometry : n275275642[52.8967678,28.6885696] n436323393[52.8969338,28.6878508] n436323384[52.8969908,28.6860072]
-w37376911
-  other tags : highway=residential
+w37376911  null / null / улица  Урицкого
+  other tags : highway=residential | surface=asphalt
     geometry : n436328099[52.9034854,28.6866027] n2164907744[52.9036314,28.6832310]
 w37377977  Камсамольская вуліца / Kamsamoĺskaja vulica / Комсомольская улица / Комсомольская улица
   other tags : highway=residential | surface=asphalt
@@ -215,8 +215,8 @@ w219752591
 w219752592  Савецкі завулак / Saviecki zavulak / Советский переулок / Советский переулок
   other tags : highway=residential
     geometry : n2288894543[52.8933526,28.6966948] n2288894542[52.8924765,28.6959804] n3331510701[52.8923282,28.6958426] n3331510700[52.8917430,28.6953194]
-w219752593
-  other tags : highway=residential
+w219752593  null / null / улица  Урицкого
+  other tags : highway=residential | surface=asphalt
     geometry : n2288894584[52.9034426,28.6881101] n436328099[52.9034854,28.6866027]
 w219752594  Заходняя вуліца / Zachodniaja vulica / Западная улица / Западная улица
   other names: name:uk=Західна вулиця
