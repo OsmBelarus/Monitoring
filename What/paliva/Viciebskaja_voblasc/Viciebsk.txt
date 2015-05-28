@@ -22,9 +22,6 @@ n334322226  null / null / Белоруснефть № 8
 n336085211  Лукоiл №38 / null / Лукойл №38 / Лукойл №38
   other tags : amenity=fuel | fuel:diesel=yes | fuel:lpg=no | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-212-486026 | website=http://lukoil.by/
     geometry : [55.2127116,30.2282474]
-n341748314  null / null / Лукойл №39
-  other tags : addr:housenumber=171Г | addr:street=Ленинградская улица | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-357526 | website=http://lukoil.by/
-    geometry : [55.2087862,30.1493214]
 n344300863  null / null / Лукойл №36
   other tags : addr:housenumber=13А | addr:street=проспект Генерала Людникова | amenity=fuel | contact:phone=+375-0212-249651 | contact:website=http://lukoil.by/ | fuel:lpg=yes | opening_hours=24/7 | operator=Лукойл
     geometry : [55.1976177,30.2245983]
@@ -51,7 +48,7 @@ n917238948  null / null / Лукoйл №26
     geometry : [55.1532301,30.2393703]
 n917238951  null / null / Лукойл №39
   other tags : addr:housenumber=171Г | addr:street=Ленинградская улица | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-357526 | website=http://lukoil.by/
-    geometry : [55.2086502,30.1500957]
+    geometry : [55.2086540,30.1500485]
 n917238956  Лукойл №41 / null / Лукoйл №41 / Лукoйл №41
   other tags : addr:housenumber=57Б | addr:street=улица Максима Горького | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-341887 | website=http://lukoil.by/
     geometry : [55.1727781,30.1603911]
@@ -115,6 +112,9 @@ w90844100  Беларуснафта №3 / null / Белоруснефть №3 
 w90844102  Беларуснафта №3 / null / Белоруснефть №3 / Белоруснефть №3
   other tags : addr:housenumber=180А | addr:street=Ленинградская улица | amenity=fuel | building=yes | building:levels=1 | fuel:lpg=yes | opening_hours=08:10-20:00 | operator=Белоруснефть | phone=+375-212-355540 | website=http://beloil.by/
     geometry : n1054723494[55.2252479,30.1146678] n1054723521[55.2253478,30.1146506] n1705778960[55.2253537,30.1147563] n1054723576[55.2252538,30.1147735] n1054723494[55.2252479,30.1146678]
+w90844790  null / null / Лукойл №39
+  other tags : addr:housenumber=171Г | addr:street=Ленинградская улица | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-357526 | website=http://lukoil.by/
+    geometry : n1054736296[55.2088601,30.1494255] n1791584672[55.2088355,30.1493932] n3548728990[55.2088173,30.1493693] n1791584669[55.2087891,30.1493321] n341748314[55.2087637,30.1492988] n1054736311[55.2088146,30.1491799] n1054736293[55.2089110,30.1493066] n1054736296[55.2088601,30.1494255]
 w293416460
   other tags : amenity=fuel | building=yes | building:levels=1 | fuel:octane_80=no | fuel:octane_91=no | fuel:octane_95=no
     geometry : n2970139748[55.1900324,30.2671306] n2970139747[55.1900145,30.2672101] n2970139745[55.1898849,30.2671202] n2970139746[55.1899029,30.2670407] n2970139748[55.1900324,30.2671306]

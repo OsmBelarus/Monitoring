@@ -386,7 +386,7 @@ n2965207265  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : amenity=atm | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк» | website=http://belarusbank.by/
     geometry : [55.2034502,30.2690839]
 n2965911251  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
     geometry : [55.1992404,30.1942960]
 n2969422397  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
   other tags : amenity=atm | contact:website=http://www.vtb-bank.by/ | opening_hours=24/7 | operator=ЗАО «Банк ВТБ»
@@ -427,3 +427,6 @@ n3199553600
 n3476745771  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1719250,30.2363516]
+n3548728963  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:others=no | language:ru=yes | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+    geometry : [55.1963747,30.1953755]

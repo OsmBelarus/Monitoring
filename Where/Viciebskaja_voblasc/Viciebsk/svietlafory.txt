@@ -404,10 +404,10 @@ n674059966  Чыгуначны вакзал / null / Ж/д вокзал / Ж/д 
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1946479,30.1869775]
 n674059976  МБУ-5 / null / МСУ-5
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2167449,30.1292522]
 n674059977  МБУ-5 / null / МСУ-5
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2163459,30.1307473]
 n674059980  Віцебсклес / null / Витебсклес
   other tags : highway=bus_stop

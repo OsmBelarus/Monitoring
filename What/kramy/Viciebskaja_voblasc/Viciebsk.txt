@@ -675,6 +675,9 @@ n1255486901  Рарытэт / null / Раритет
 n1255604849  МТС / null / Салон связи МТС
   other tags : brand=МТС | email=info@mts.by | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | operator=СООО «Мобильные ТелеСистемы» | shop=mobile_phone | website=http://www.mts.by/
     geometry : [55.1950637,30.1885156]
+n1255604895  null / null / Спецодежда
+  other tags : contact:phone=+375(29) 599-77-11, +375(33) 665-77-11 | opening_hours=Mo-Fr 09:00-17:00 | shop=clothes
+    geometry : [55.1970684,30.1957016]
 n1272484994  Веста №128 / null / Веста №128
   other tags : opening_hours=Mo-Sa 08:00-21:00; Su 08:00-20:00 | shop=supermarket
     geometry : [55.1850342,30.1902154]
@@ -3405,3 +3408,6 @@ n3544623218  null / null / Бисквит
 n3547588304  null / null / OranJet
   other tags : shop=travel_agency
     geometry : [55.1709294,30.2265425]
+n3548728990
+  other tags : shop=convenience
+    geometry : [55.2088173,30.1493693]
