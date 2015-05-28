@@ -2937,7 +2937,7 @@ n767085327  null / null / Первомайская / Первомайская
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8997000,27.5712400]
 n767085331  вуліца Мендзялеева / null / Менделеева / улица Менделеева
-  other tags : generated=yes | highway=bus_stop
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.9024000,27.6187900]
 n767085332  ст. м. Пятроўшчына / null / ст. м. Петровщина
   other tags : generated=yes | highway=bus_stop
@@ -5531,3 +5531,6 @@ n3501623926
 n3517019535  null / null / Поворот на Малиновку
   other tags : bench=yes | highway=bus_stop
     geometry : [53.8420561,27.4681660]
+n3544495365  вуліца Мендзялеева / null / Менделеева / улица Менделеева
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [53.9027967,27.6172002]
