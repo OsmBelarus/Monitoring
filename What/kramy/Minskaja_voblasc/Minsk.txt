@@ -10275,31 +10275,31 @@ n3279299766  null / null / подземный город
   other tags : shop=mall
     geometry : [53.8761011,27.6293386]
 n3279301543  null / null / колготки
-  other tags : shop=mall
+  other tags : layer=-1 | shop=mall
     geometry : [53.8772330,27.6287614]
 n3279303673  null / null / итальянское нижнее белье
-  other tags : shop=mall
+  other tags : layer=-1 | shop=mall
     geometry : [53.8772802,27.6287059]
 n3279306906  null / null / парикмахерская
   other tags : shop=hairdresser
     geometry : [53.8759392,27.6315729]
 n3279307216  null / null / связной
-  other tags : shop=mobile_phone
+  other tags : layer=-1 | shop=mobile_phone
     geometry : [53.8770915,27.6289883]
-n3279307862  null / null / LTB,магазин одежды
-  other tags : shop=clothes
+n3279307862  null / null / LTB
+  other tags : layer=-1 | shop=clothes
     geometry : [53.8772766,27.6289339]
 n3279309555  null / null / мясная лавка
   other tags : shop=butcher
     geometry : [53.8747173,27.6317935]
-n3279310357  null / null / бутик духов (подземный город)
-  other tags : shop=boutique
+n3279310357  null / null / бутик духо
+  other tags : layer=-1 | shop=boutique
     geometry : [53.8772307,27.6286536]
 n3279311563  null / null / сумки
-  other tags : shop=bag
+  other tags : layer=-1 | shop=bag
     geometry : [53.8772162,27.6288706]
-n3279311996  null / null / пальто, куртки (подземный город)
-  other tags : shop=clothes
+n3279311996  null / null / пальто, куртки
+  other tags : layer=-1 | shop=clothes
     geometry : [53.8771579,27.6288735]
 n3279313766  null / null / солярий
   other tags : shop=beauty
