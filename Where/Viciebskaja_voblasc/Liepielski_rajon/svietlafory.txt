@@ -26,17 +26,17 @@ n1868857553
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0123386,28.9941998]
 n2274164663
-  other tags : highway=bus_stop
-    geometry : [55.0127652,29.0673765]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0127693,29.0673116]
 n2274164709
-  other tags : highway=bus_stop
-    geometry : [55.0133335,29.0617192]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0133294,29.0616687]
 n2274164764
-  other tags : highway=bus_stop
-    geometry : [55.0150432,29.0493561]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0150544,29.0493025]
 n2274164780
-  other tags : highway=bus_stop
-    geometry : [55.0154900,29.0488551]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0154844,29.0488161]
 n2563180492
   other tags : highway=bus_stop
     geometry : [54.7703303,28.3715041]
@@ -56,11 +56,11 @@ n2616521544
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0026819,28.9655544]
 n2616521694
-  other tags : highway=bus_stop
-    geometry : [55.0169631,29.0319368]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0169592,29.0318829]
 n2616521695
-  other tags : highway=bus_stop
-    geometry : [55.0171951,29.0311702]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0171758,29.0311163]
 n2835781698
   other tags : highway=bus_stop
     geometry : [54.9893733,28.8813330]
@@ -103,3 +103,9 @@ n3544961136
 n3544961152
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.0065223,28.9446421]
+n3545011712
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.0081876,28.9138287]
+n3545011715
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0083972,28.9130622]
