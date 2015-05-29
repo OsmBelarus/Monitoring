@@ -2019,14 +2019,11 @@ n376017314  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : shop=convenience
     geometry : [53.8663201,27.6568323]
-n376017340  Рамонт абутку / null / Ремонт обуви
-  other tags : shop=shoes
-    geometry : [53.8658236,27.6585115]
 n376017379  null / null / ГАЗ. Детали машин
-  other tags : shop=car_repair
+  other tags : shop=car_parts
     geometry : [53.8654635,27.6597465]
 n376017423  null / null / МАЗ. Автозапчасти
-  other tags : shop=car_repair
+  other tags : shop=car_parts
     geometry : [53.8649303,27.6616980]
 n376017432  Цырульня / null / Парикмахерская
   other tags : shop=hairdresser
@@ -2370,9 +2367,6 @@ n604715752
 n604715760  null / null / Блинная
   other tags : shop=bakery
     geometry : [53.8686969,27.6519159]
-n604715765  Рамонт абутку / null / Ремонт обуви
-  other tags : shop=shoes
-    geometry : [53.8687775,27.6516130]
 n604715824  Кветкі-Садавіна / null / null
   other tags : fixme:komzpa=добавить русское имя | shop=garden_centre
     geometry : [53.8646319,27.6682202]
@@ -4686,9 +4680,6 @@ n1585250029  null / null / Кот и Пес
 n1585746270  null / null / Автосалон AV (Audi/Porshe)
   other tags : brand=Audi, Porsche | entrance=yes | shop=car
     geometry : [53.8443236,27.5360670]
-n1587568835
-  other tags : shop=florist
-    geometry : [53.8684050,27.6497611]
 n1588738406  null / null / Дизайн-студия
   other tags : shop=curtain
     geometry : [53.9178796,27.5854171]
