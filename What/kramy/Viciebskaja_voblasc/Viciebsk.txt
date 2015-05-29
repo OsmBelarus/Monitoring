@@ -102,8 +102,8 @@ n698482096  Фарсаж / null / Форсаж / Форсаж
   other tags : shop=car_repair
     geometry : [55.1948617,30.2152780]
 n726634412  null / null / Гранит плюс
-  other tags : craft=stonemason | description=Памятники, ограды, венки, гробы, кресты | phone=+375-29-599-37-28; +275-29-661-27-70 | shop=funeral_directors
-    geometry : [55.1652856,30.2093070]
+  other tags : craft=stonemason | description=Памятники, ограды, венки, гробы, кресты | opening_hours=Mo-Sa 08:00-20:00; Su 08:00-17:00 | phone=+375-29-599-37-28; +275-29-661-27-70 | shop=funeral_directors
+    geometry : [55.1653005,30.2093546]
 n726644996  Мінімаркет / null / Минимаркет
   other tags : shop=convenience
     geometry : [55.1521208,30.1271398]
@@ -312,9 +312,9 @@ n1105532603  Планар сэрвіс / null / Планар Сервис
 n1106646692  Ніка-9 / null / Ника-9 / Ника-9
   other tags : contact:email=roznica@nica.by | contact:website=http://www.nika.by/?q=19 | opening_hours=Mo-Su 08:00-23:00 | operator=ОАО «Ника» | shop=convenience
     geometry : [55.1935041,30.2239816]
-n1106651785  Штопар / null / Штопор
-  other tags : description=винный магазин «Штопор» | shop=alcohol
-    geometry : [55.1954856,30.2307919]
+n1106651785  Штопар / null / Штопор / Штопор
+  other tags : description=винный магазин «Штопор» | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «ОЛ НИИ ПКД» | shop=alcohol
+    geometry : [55.1954581,30.2307418]
 n1107002090  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.1765407,30.1827095]
@@ -492,8 +492,8 @@ n1145306919  Світанак / null / Свитанок / Свитанок
 n1145401557  Руно / null / Руно
   other tags : shop=fabric
     geometry : [55.1950274,30.2291567]
-n1145401565  Шпалеры / null / Обои
-  other tags : shop=doityourself
+n1145401565  Еўрашпалеры / null / Еврообои / Еврообои
+  other tags : contact:phone=+375(212) 55-38-37 | contact:website=http://bel.evrooboi.by/ | opening_hours=Mo-Su 10:00-19:00 | operator=ООО «НТТС-Белевролюкс» | shop=doityourself
     geometry : [55.1957073,30.2311960]
 n1146760377  Магілёўмэбля / null / Могилевмебель
   other tags : shop=furniture
@@ -3095,7 +3095,7 @@ n3103594748
 n3105694870  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : shop=convenience
-    geometry : [55.1961636,30.2264167]
+    geometry : [55.1961735,30.2263854]
 n3107069930  null / null / Санвади
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=furniture
     geometry : [55.1815355,30.2022455]

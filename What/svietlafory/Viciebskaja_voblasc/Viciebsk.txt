@@ -242,8 +242,8 @@ n481003242  null / null / Журжево
 n481381446  Плошча Свабоды / Plošča Svabody / Площадь Свободы
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1927217,30.2082188]
-n481384892  25-я школа / null / 25-я школа
-  other tags : fixme=уточнить название | highway=bus_stop
+n481384892  25-я школа / null / 25-я школа / 25-я школа
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1763974,30.2151635]
 n482021657  Веста / Vesta / Веста / Веста
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
@@ -743,8 +743,8 @@ n2323945273  Поўдзень-5 / Poŭdzień-5 / Юг-5
 n2331788410  null / null / Тулово-1
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1939615,30.2846643]
-n2351614835  25-я школа / null / 25-я школа
-  other tags : highway=bus_stop
+n2351614835
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1735762,30.2140621]
 n2352602719  Завод «ВіЗАС» / null / Завод «ВиЗАС»
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
