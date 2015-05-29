@@ -7245,6 +7245,9 @@ n2622216726  null / null / SWISS
 n2622216727  null / null / Номер 1
   other tags : opening_hours=9:00-20:00 | shop=hairdresser
     geometry : [53.9215780,27.5651630]
+n2622267291
+  other tags : shop=pet
+    geometry : [53.8389992,27.5684616]
 n2622384144
   other tags : shop=convenience
     geometry : [53.8439034,27.4816056]
@@ -9276,6 +9279,9 @@ n3213415134  null / null / Axis
 n3213421964
   other tags : note=указать тип магазина | shop=yes
     geometry : [53.8953285,27.5482881]
+n3216256198  null / null / Техно Плюс
+  other tags : shop=electronics
+    geometry : [53.8404819,27.5692901]
 n3218550861  null / null / Capolavori
   other tags : phone=8 017 327-59-50 | shop=furniture | website=http://capolavori.by | wheelchair=no
     geometry : [53.8950499,27.5543269]
@@ -9440,7 +9446,7 @@ n3257138744
     geometry : [53.8401067,27.5694523]
 n3257140067  null / null / Буслик
   other tags : shop=baby_goods
-    geometry : [53.8397500,27.5684304]
+    geometry : [53.8397548,27.5684505]
 n3257142900  null / null / Орифлейм
   other tags : shop=cosmetics
     geometry : [53.8375516,27.5695129]
@@ -11164,3 +11170,9 @@ n3553592367  null / null / Максавтокат
 n3553614688  null / null / Renault Trucks
   other tags : addr:city=Минск | addr:housenumber=9 | addr:street=Липковская улица | operator=ИООО"РСМТРАКС" | shop=car_repair | website=http://www.rcmtrucks.by/
     geometry : [53.9193331,27.7016896]
+n3554457062  null / null / Гиппо
+  other tags : addr:housenumber=30 | addr:street=Игуменский тракт | shop=supermarket
+    geometry : [53.8403163,27.5725798]
+n3554457063  null / null / Евроопт
+  other tags : shop=supermarket
+    geometry : [53.8401981,27.5690504]
