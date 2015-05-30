@@ -17,7 +17,7 @@ w283740745
   other tags : addr:housenumber=23 | addr:street=Советская улица | building=residential
     geometry : n2875742063[55.0969400,27.7125313] n2875742052[55.0968481,27.7125169] n2875742049[55.0968398,27.7126786] n2875742060[55.0969317,27.7126930] n2875742063[55.0969400,27.7125313]
 w283740746  null / null / 6
-  other tags : addr:city=Шуневичи | addr:housename=6 | addr:housenumber=6 | addr:street=Центральная улица | building=house
+  other tags : addr:housename=6 | addr:housenumber=6 | addr:street=Центральная улица | building=house
     geometry : n2875742082[55.0973777,27.7000328] n2875742074[55.0972601,27.7000054] n2875742073[55.0972420,27.7002416] n2875742080[55.0973597,27.7002691] n2875742082[55.0973777,27.7000328]
 w283740749
   other tags : addr:housenumber=15 | addr:street=Советская улица | building=residential
@@ -26,13 +26,13 @@ w283740751
   other tags : addr:housenumber=13 | addr:street=Молодёжная улица | building=residential
     geometry : n2875742251[55.0985653,27.7060165] n2875742237[55.0984468,27.7060400] n2875742242[55.0984593,27.7062322] n2875742252[55.0985778,27.7062087] n2875742251[55.0985653,27.7060165]
 w283740753
-  other tags : addr:city=Шуневичи | addr:housenumber=1А | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=1А | addr:street=Советская улица | building=house
     geometry : n2875742058[55.0969156,27.7011585] n2875742044[55.0967619,27.7011573] n2875742043[55.0967614,27.7013466] n2875742057[55.0969152,27.7013478] n2875742058[55.0969156,27.7011585]
 w283740754
   other tags : addr:housenumber=8 | addr:street=Центральная улица | building=residential
     geometry : n2875741894[55.0964135,27.6995367] n2875741876[55.0963239,27.6995160] n2875741873[55.0963066,27.6997440] n2875741889[55.0963963,27.6997647] n2875741894[55.0964135,27.6995367]
 w283740756
-  other tags : addr:city=Шуневичи | addr:housenumber=11 | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=11 | addr:street=Советская улица | building=house
     geometry : n2875742014[55.0965179,27.7065248] n2875741896[55.0964216,27.7065178] n2875741895[55.0964139,27.7068419] n2875742013[55.0965103,27.7068489] n2875742014[55.0965179,27.7065248]
 w283740758
   other tags : addr:housenumber=28 | addr:street=Советская улица | building=residential
@@ -68,7 +68,7 @@ w283740777
   other tags : addr:housenumber=8 | addr:street=Советская улица | building=residential
     geometry : n2875741856[55.0961643,27.7073501] n2875741829[55.0959639,27.7073202] n2875741825[55.0959579,27.7074420] n2875741853[55.0961583,27.7074719] n2875741856[55.0961643,27.7073501]
 w283740778
-  other tags : addr:city=Шуневичи | addr:housenumber=1Б | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=1Б | addr:street=Советская улица | building=house
     geometry : n2875742046[55.0968006,27.7015713] n2875742036[55.0966794,27.7015669] n2875742035[55.0966762,27.7018415] n2875742045[55.0967973,27.7018459] n2875742046[55.0968006,27.7015713]
 w283740780
   other tags : addr:housenumber=29 | addr:street=Советская улица | building=residential
@@ -95,7 +95,7 @@ w283740798
   other tags : addr:housenumber=20 | addr:street=Советская улица | building=residential
     geometry : n2875741827[55.0959594,27.7122301] n2875741820[55.0958193,27.7122257] n2875741819[55.0958178,27.7123796] n2875741824[55.0959578,27.7123840] n2875741827[55.0959594,27.7122301]
 w283740799
-  other tags : addr:city=Шуневичи | addr:housenumber=2А | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=2А | addr:street=Советская улица | building=house
     geometry : n2875741891[55.0964087,27.7021952] n2875741872[55.0962391,27.7021922] n2875741869[55.0962375,27.7024599] n2875741890[55.0964071,27.7024629] n2875741891[55.0964087,27.7021952]
 w283740804  null / null / 19А
   other tags : addr:housenumber=19 | addr:street=Молодёжная улица | building=residential
@@ -116,7 +116,7 @@ w283779671
   other tags : addr:housenumber=5 | addr:street=Полевая улица | building=residential
     geometry : n2876068600[55.0939446,27.7054803] n2876068585[55.0938097,27.7054873] n2876068586[55.0938123,27.7056429] n2876068601[55.0939472,27.7056359] n2876068600[55.0939446,27.7054803]
 w283779679
-  other tags : addr:city=Шуневичи | addr:housenumber=8 | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=8 | addr:street=Полевая улица | building=house
     geometry : n2876068575[55.0935151,27.7086376] n2876068571[55.0933801,27.7086119] n2876068569[55.0933692,27.7087871] n2876068574[55.0935042,27.7088128] n2876068575[55.0935151,27.7086376]
 w283779688
   other tags : addr:housenumber=27 | addr:street=Советская улица | building=residential
@@ -158,7 +158,7 @@ w283779715
   other tags : addr:housenumber=3 | addr:street=Полевая улица | building=residential
     geometry : n2876068606[55.0939837,27.7040261] n2876068588[55.0938323,27.7040345] n2876068590[55.0938358,27.7042275] n2876068607[55.0939872,27.7042191] n2876068606[55.0939837,27.7040261]
 w283779718
-  other tags : addr:city=Шуневичи | addr:housenumber=3А | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=3А | addr:street=Полевая улица | building=house
     geometry : n2876068602[55.0939510,27.7045885] n2876068589[55.0938357,27.7045947] n2876068591[55.0938388,27.7047674] n2876068603[55.0939541,27.7047612] n2876068602[55.0939510,27.7045885]
 w283781269
   other tags : addr:housenumber=8 | addr:street=Городская улица | building=house | building:levels=1
@@ -242,7 +242,7 @@ w295047377
   other tags : addr:housenumber=16 | addr:street=Советская улица | building=residential
     geometry : n2987191503[55.0960896,27.7102937] n2987191501[55.0959696,27.7102788] n2987191500[55.0959618,27.7104706] n2987191502[55.0960818,27.7104855] n2987191503[55.0960896,27.7102937]
 w295047445
-  other tags : addr:city=Шуневичи | addr:housenumber=18 | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=18 | addr:street=Советская улица | building=house
     geometry : n2987193310[55.0957292,27.7112830] n2987193308[55.0956246,27.7112838] n2987193309[55.0956252,27.7115141] n2987193311[55.0957298,27.7115133] n2987193310[55.0957292,27.7112830]
 w295047781
   other tags : addr:housenumber=14 | addr:street=Советская улица | building=residential
@@ -263,7 +263,7 @@ w295055426
   other tags : addr:housenumber=11 | addr:street=Полевая улица | building=residential
     geometry : n2987287699[55.0938874,27.7074563] n2987287693[55.0937711,27.7074554] n2987287692[55.0937708,27.7075879] n2987287698[55.0938870,27.7075888] n2987287699[55.0938874,27.7074563]
 w295055428
-  other tags : addr:city=Шуневичи | addr:housenumber=21 | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=21 | addr:street=Полевая улица | building=house
     geometry : n2987287694[55.0938392,27.7100324] n2987287688[55.0937083,27.7100324] n2987287689[55.0937083,27.7101980] n2987287695[55.0938392,27.7101980] n2987287694[55.0938392,27.7100324]
 w295055429
   other tags : addr:housenumber=6 | addr:street=Полевая улица | building=residential
@@ -275,10 +275,10 @@ w295055760
   other tags : addr:housenumber=9 | addr:street=Полевая улица | building=residential
     geometry : n2987296637[55.0939353,27.7064239] n2987296633[55.0938000,27.7064291] n2987296634[55.0938019,27.7065802] n2987296638[55.0939372,27.7065750] n2987296637[55.0939353,27.7064239]
 w295057648  null / null / 7
-  other tags : addr:city=Шуневичи | addr:housename=7 | addr:housenumber=7 | addr:street=Центральная улица | building=house
+  other tags : addr:housename=7 | addr:housenumber=7 | addr:street=Центральная улица | building=house
     geometry : n2987312521[55.0973335,27.7006195] n2987312519[55.0972255,27.7005961] n2987312518[55.0972096,27.7008202] n2987312520[55.0973176,27.7008436] n2987312521[55.0973335,27.7006195]
 w295057940  null / null / 5
-  other tags : addr:city=Шуневичи | addr:housename=5 | addr:housenumber=5 | addr:street=Центральная улица | building=house
+  other tags : addr:housename=5 | addr:housenumber=5 | addr:street=Центральная улица | building=house
     geometry : n2987312556[55.0979255,27.7008932] n2987312555[55.0979000,27.7011610] n2987312551[55.0977872,27.7011283] n2987312552[55.0978000,27.7009944] n2987312553[55.0978434,27.7010070] n2987312554[55.0978562,27.7008731] n2987312556[55.0979255,27.7008932]
 w295058961
   other tags : addr:housenumber=1 | addr:street=Центральная улица | building=residential
