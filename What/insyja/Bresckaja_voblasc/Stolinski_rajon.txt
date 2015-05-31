@@ -228,6 +228,15 @@ n3520837263
 n3520840929
   other tags : communication:mobile_phone=yes | height=72 | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
     geometry : [51.8833140,26.7903647]
+n3557632094
+  other tags : communication:mobile_phone=yes | description=Done | height=72 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [51.9142904,26.6585593]
+n3557632095
+  other tags : communication:mobile_phone=yes | description=Done | man_made=mast | operator=LIFE;MTS;VELCOM | operator:MNC=02;01;04 | tower:type=communication
+    geometry : [51.9432075,26.9157253]
+n3557632096
+  other tags : communication:mobile_phone=yes | description=Done | height=72 | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.0269303,26.7452547]
 w24947872
   other tags : railway=rail | usage=main
     geometry : n271038390[51.7949666,26.7782695] n271038402[51.7745012,26.7662698]

@@ -143,7 +143,7 @@ n3367374117
   other tags : man_made=water_tower
     geometry : [54.9392977,28.5327780]
 n3367406089
-  other tags : man_made=tower | tower:type=communication
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM;LIFE | operator:MNC=02;01;04 | tower:type=communication
     geometry : [54.9277998,28.4160928]
 n3503782005
   other tags : man_made=tower | tower:type=communication
@@ -166,6 +166,9 @@ n3537247011
 n3549385224
   other tags : depth=0,5 | ford=yes
     geometry : [54.9347272,28.8495511]
+n3557604914
+  other tags : communication:mobile_phone=yes | description=Done | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [54.9244072,28.5350835]
 w25106739  Саснягі / Sasniahi / Сосняги / Сосняги
   other tags : abandoned:place=hamlet | addr:country=BY | addr:district=Лепельский район | addr:region=Витебская область | place=locality
     geometry : n273294022[54.9624500,29.0208200] n273294025[54.9625400,29.0198700] n273294027[54.9615100,29.0197000] n273294030[54.9615900,29.0176400] n273294031[54.9565300,29.0173800] n273294032[54.9564400,29.0219300] n273294035[54.9580800,29.0220200] n273294040[54.9597100,29.0223600] n273294041[54.9624500,29.0225300] n273294022[54.9624500,29.0208200]
