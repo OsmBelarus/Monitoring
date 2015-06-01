@@ -77,11 +77,11 @@ n2221016050
   other tags : highway=bus_stop
     geometry : [55.5046327,30.0301111]
 n2221178819
-  other tags : highway=bus_stop
-    geometry : [55.5085678,30.0749633]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.5085635,30.0749255]
 n2221179441
-  other tags : highway=bus_stop
-    geometry : [55.5085580,30.0754174]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.5085494,30.0753645]
 n2228058622
   other tags : highway=bus_stop
     geometry : [55.5189543,30.0339010]
