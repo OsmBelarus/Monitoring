@@ -2769,7 +2769,7 @@ n767085116  вуліца Фролікава / null / Фроликова / ули
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9012200,27.6137100]
 n767085119  Уральская вуліца / null / Уральская / Уральская улица
-  other tags : generated=yes | highway=bus_stop
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8986700,27.6071700]
 n767085120  null / null / Гипсовый завод
   other tags : generated=yes | highway=bus_stop
