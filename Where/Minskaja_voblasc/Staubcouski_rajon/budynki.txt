@@ -16,6 +16,18 @@ n2989209945
 n2989209946
   other tags : entrance=yes
     geometry : [53.5166088,26.9299485]
+n3563543597
+  other tags : addr:housenumber=4 | addr:street=Колхозный переулок | building=yes
+    geometry : [53.4623113,26.6720264]
+n3563543598
+  other tags : addr:housenumber=4 | addr:street=Колхозный переулок | building=yes
+    geometry : [53.4623341,26.6721961]
+n3563543599
+  other tags : addr:housenumber=4 | addr:street=Колхозный переулок | building=yes
+    geometry : [53.4624205,26.6719850]
+n3563543600
+  other tags : addr:housenumber=4 | addr:street=Колхозный переулок | building=yes
+    geometry : [53.4624433,26.6721546]
 w48183637  null / null / Административное здание
   other tags : addr:housenumber=117 | addr:street=улица Гагарина | building=yes
     geometry : n612431353[53.4887799,26.7095836] n612431352[53.4885245,26.7098230] n612431354[53.4885901,26.7100209] n612431350[53.4888455,26.7097815] n612431353[53.4887799,26.7095836]
@@ -2764,3 +2776,6 @@ w344242953
 w344242954
   other tags : building=yes
     geometry : n3509854739[53.7490850,26.4399572] n3509854740[53.7488346,26.4397762] n3509854741[53.7487931,26.4399404] n3509854742[53.7490434,26.4401214] n3509854739[53.7490850,26.4399572]
+w350607480
+  other tags : addr:housenumber=4 | addr:street=Колхозный переулок | building=yes
+    geometry : n3563543599[53.4624205,26.6719850] n3563543600[53.4624433,26.6721546] n3563543598[53.4623341,26.6721961] n3563543597[53.4623113,26.6720264] n3563543599[53.4624205,26.6719850]
