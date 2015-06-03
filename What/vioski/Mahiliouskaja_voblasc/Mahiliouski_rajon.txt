@@ -63,7 +63,7 @@ n243034771  null / null / Северный Жабин / Северный Жаб�
     geometry : [53.8007300,30.0712100]
 n243034775  Ямніца / Jamnica / Ямница / Ямница
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ямница (Могилёвская область)
-    geometry : [53.8580700,30.1146400]
+    geometry : [53.8563404,30.1183056]
 n243034779  Завярэжжа / Zaviarežža / Завережье / Завережье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Завережье (Могилёвская область)
     geometry : [53.8261400,30.0420300]
@@ -93,7 +93,7 @@ n243034814  Капейнае / Kapiejnaje / Копейное / Копейное
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Копейное (Могилёвская область)
     geometry : [53.8081200,30.1020200]
 n243034818  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Вендорожский сельский Совет | place=hamlet | wikipedia=ru:Новосёлки (Вендорожский сельсовет)
     geometry : [53.8050482,30.0612169]
 n243034822  Дзядкі / Dziadki / Дедки / Дедки
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дедки (Могилёвская область)
@@ -110,9 +110,6 @@ n243034832  Міхалёва / Michaliova / Михалёво / Михалёво
 n243034836  Южны Жабін / Južny Žabin / Южный Жабин / Южный Жабин
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Южный Жабин
     geometry : [53.7928400,30.0767900]
-n243034840  null / null / Ямница / Ямница
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
-    geometry : [53.8533293,30.1604153]
 n243034844  Пясчанка / Piasčanka / Песчанка / Песчанка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Песчанка (Могилёвский район)
     geometry : [53.9271426,30.0517910]
@@ -139,7 +136,7 @@ n243034869  Прокшанічы / Prokšaničy / Прокшеничи / Про�
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Пракшанічы;Пракшынічы | place=hamlet | wikipedia=ru:Прокшеничи
     geometry : [53.9378900,30.1305200]
 n243034875  Савасцянавічы / Savascianavičy / Севостьяновичи / Севостьяновичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Свістуны;Севасцьянавічы;Севасцянавічы | alt_name:ru=Савостяновичи | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Свістуны;Севасцьянавічы;Севасцянавічы | alt_name:ru=Савостяновичи | place=hamlet | wikipedia=ru:Севостьяновичи
     geometry : [53.9034942,30.1624989]
 n243034878  Сташына / Stašyna / Сташино / Сташино
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Сташын | place=hamlet | wikipedia=ru:Сташино
@@ -160,7 +157,7 @@ n243034925  Рэпішча / Repišča / Репище / Репище
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Кукарэкаўка | place=hamlet | wikipedia=ru:Репище (Могилёвский район)
     geometry : [53.7107000,30.0518100]
 n243034929  Гарадок / Haradok / Городок / Городок
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Заводскослободский сельский Совет | place=hamlet | wikipedia=ru:Городок (Заводскослободский сельсовет)
     geometry : [53.6903282,30.0238369]
 n243034932  Незаўка / Niezaŭka / Незовка / Незовка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Незовка
@@ -169,7 +166,8 @@ n243034935  Дасовічы / Dasovičy / Досовичи / Досовичи
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Досовичи
     geometry : [53.7204451,30.0719047]
 n243034939  Батунь / Batuń / Батунь / Батунь
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Батунь (деревня)
     geometry : [53.7692300,30.0561100]
 n243034944  Забалацце / Zabalaccie / Заболотье / Заболотье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Забалоцце | place=hamlet
@@ -193,14 +191,15 @@ n243034965  null / null / Калаша / Калаша
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Калаша (деревня)
     geometry : [53.7267500,30.0319000]
 n243034968  Палявы / Paliavy / Полевой / Полевой
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полевый | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полевый | place=hamlet | wikipedia=ru:Полевой (Могилёвская область)
     geometry : [53.7688100,30.0093300]
 n243034974  Дубраўка / Dubraŭka / Дубровка / Дубровка
   other names: name:uk=Дібрівка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дубровка (Заводскослободский сельсовет)
     geometry : [53.7053700,30.0910400]
 n243034977  Батунь / Batuń / Батунь / Батунь
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Батунь (посёлок)
     geometry : [53.7686300,30.0829700]
 n243034981  Досава Сяліба / Dosava Sialiba / Досова Селиба / Досова Селиба
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Досова Селиба
@@ -212,7 +211,7 @@ n243034989  Будоўля / Budoŭlia / Будовля / Будовля
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Будовля (Могилёвская область)
     geometry : [53.7879500,29.9905300]
 n243034993  Жабін / Žabin / Жабино / Жабино
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Жабіна | alt_name:ru=Жабин | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Жабіна | alt_name:ru=Жабин | place=hamlet | wikipedia=ru:Жабино (Могилёвский район)
     geometry : [53.7793765,30.0760480]
 n243034998  Старына / Staryna / Старина / Старина
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Старина (Могилёвский район)
@@ -230,17 +229,17 @@ n243035012  Барсукі / Barsuki / Барсуки / Барсуки
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Барсукоўка | place=hamlet | wikipedia=ru:Барсуки (Могилёвский район)
     geometry : [53.8228800,30.1262300]
 n243039581  Гарадзішча / Haradzišča / Городище / Городище
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Городище (Могилёвский район)
     geometry : [53.7345600,29.8006700]
 n243039597  Вазраждзенне / Vazraždziennie / Возрождение / Возрождение
   other names: name:uk=Відродження
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Возрожденье | place=hamlet | wikipedia=ru:Возрождение (Могилёвский район)
     geometry : [53.7581600,29.7872000]
 n243041288  Малое Запаточча / Maloje Zapatočča / Малое Запоточье / Малое Запоточье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Малое Запоточье
     geometry : [53.6992800,29.8476200]
 n243041289  Алень / Alień / Олень / Олень
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Олень (Могилёвская область)
     geometry : [53.7086400,29.8889100]
 n243041350  Журавец 2 / Žuraviec 2 / Журавец 2 / Журавец 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name=Журавец-2 | place=hamlet | wikipedia=ru:Журавец-2
@@ -268,7 +267,7 @@ n243041380  Стары Сінін / Stary Sinin / Старый Синин / Ст
     geometry : [53.8030500,29.9703600]
 n243041381  Мікалаеўка / Mikalajeŭka / Николаевка / Николаевка
   other names: name:uk=Миколаївка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нікалаеўка | alt_name:ru=Миколаевка | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нікалаеўка | alt_name:ru=Миколаевка | place=hamlet | wikipedia=ru:Николаевка (Семукачский сельсовет, Могилёвский район)
     geometry : [53.8071700,29.8280500]
 n243041382  Лавец / Laviec / Ловец / Ловец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ловец (Могилёвская область)
@@ -277,10 +276,10 @@ n243041383  Новы Сінін / Novy Sinin / Новый Синин / Новы�
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Новый Синин (Могилёвская область)
     geometry : [53.8192700,29.9586000]
 n243041384  Укружжа / Ukružža / Укружье / Укружье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Укружье
     geometry : [53.8117200,29.8987800]
 n243041385  Паўлаўск / Paŭlaŭsk / Павловск / Павловск
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Лесавое | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Лесавое | place=hamlet | wikipedia=ru:Павловск (Могилёвская область)
     geometry : [53.8159200,29.8215300]
 n243041386  null / null / Красный Лог / Красный Лог
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -289,85 +288,87 @@ n243041387  Барок / Barok / Борок / Борок
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Борок (Могилёвский район)
     geometry : [53.8377300,29.8714800]
 n243041388  Рубеж / Rubiež / Рубеж / Рубеж
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Рубеж (Могилёвский район)
     geometry : [53.8120600,29.8706300]
 n243041390  Катвіна / Katvina / Катвино / Катвино
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Кацвіна | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Кацвіна | place=hamlet | wikipedia=ru:Катвино
     geometry : [53.8519700,29.8443600]
 n243041391  Паддуб’е / Paddubje / Поддубье / Поддубье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Поддубье (Могилёвский район)
     geometry : [53.8072600,29.8871000]
 n243041392  Міхайлаўск / Michajlaŭsk / Михайловск / Михайловск
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Михайловск (Могилёвский район)
     geometry : [53.8120600,29.8071100]
 n243041393  Майшчына / Majščyna / Майщина / Майщина
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Майщина
     geometry : [53.8269100,29.8194700]
 n243041394  Александроў / Alieksandroŭ / Александров / Александров
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Александров (посёлок, Могилёвская область)
     geometry : [53.8071700,29.8517400]
 n243041395  Бярозаўка / Biarozaŭka / Берёзовка / Берёзовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Вендорожский сельский Совет | place=hamlet | wikipedia=ru:Берёзовка (Вендорожский сельсовет)
     geometry : [53.8040000,29.9174000]
 n243041396  Угалле / Uhallie / Угалье / Угалье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Вугалле;Вуголле | place=hamlet | wikipedia=ru:Угалье
     geometry : [53.8044300,29.9491600]
 n243041397  Навабеліца / Navabielica / Новобелица / Новобелица
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Новобелица (Могилёвский район)
     geometry : [53.8433900,29.8741400]
 n243041398  Вялікія Бялевічы / Vialikija Bialievičy / Большие Белевичи / Большие Белевичи
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшыя Бялевічы;Бялевічы | alt_name:ru=Великие Белевичи | place=hamlet | wikipedia=ru:Большие Белевичи
     geometry : [53.7947300,29.8242800]
 n243041399  Малыя Бялевічы / Malyja Bialievičy / Малые Белевичи / Малые Белевичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Малые Белевичи
     geometry : [53.8339500,29.8366400]
 n243041400  Коркаць / Korkać / Коркать / Коркать
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Коркать
     geometry : [53.7827100,29.8779200]
 n243041401  Перамога / Pieramoha / Перемога / Перемога
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Перемога (Могилёвская область)
     geometry : [53.7812885,29.9499438]
 n243041402  Вялікае Хонава / Vialikaje Chonava / Большое Хоново / Большое Хоново
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшое Хонава | alt_name:ru=Великое Хоново | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшое Хонава | alt_name:ru=Великое Хоново | place=hamlet | wikipedia=ru:Большое Хоново
     geometry : [53.7706900,29.9782600]
 n243041403  Коцні / Kocni / Коцни / Коцни
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Коцни
     geometry : [53.7538700,29.9774800]
 n243041406  Смалярня / Smaliarnia / Смолярня / Смолярня
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Смолярня (Могилёвский район)
     geometry : [53.7537800,29.8886500]
 n243041407  Альхоўка / Aĺchoŭka / Ольховка / Ольховка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ольховка (Могилёвский район)
     geometry : [53.7689800,29.9053900]
 n243041408  Рог / Roh / Рог / Рог
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Рог (Могилёвский район)
     geometry : [53.7640000,29.8831600]
 n243041409  Александроў / Alieksandroŭ / Александров / Александров
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Аляксандраў | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Аляксандраў | place=hamlet | wikipedia=ru:Александров (деревня, Могилёвская область)
     geometry : [53.7294100,29.8300300]
 n243041410  Пушча / Pušča / Пуща / Пуща
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Пуща (Могилёвский район)
     geometry : [53.7626300,29.8941400]
 n243041411  Астраўшчына / Astraŭščyna / Островщина / Островщина
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Островщина (Могилёвская область)
     geometry : [53.7354200,29.9238400]
 n243041412  Арлянка / Arlianka / Орлянка / Орлянка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Орлянка (Могилёвский район)
     geometry : [53.7309600,29.9289900]
 n243041413  Хімніца / Chimnica / Химница / Химница
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Химница
     geometry : [53.7618500,29.8591200]
 n243041414  Новая Ніва / Novaja Niva / Новая Нива / Новая Нива
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Новая Нива (Могилёвская область)
     geometry : [53.7709500,29.9340500]
 n243041415  Бокатаўка / Bokataŭka / Бокотовка / Бокотовка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бокотовка
     geometry : [53.7465700,29.9487300]
 n243041416  Сінюга / Siniuha / Синюга / Синюга
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Синюга
     geometry : [53.7201400,29.8398100]
 n243041417  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Заводскослободский сельский Совет | place=hamlet
     geometry : [53.7377300,29.9482200]
 n243041418  Вялікае Запаточча / Vialikaje Zapatočča / Большое Запоточье / Большое Запоточье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшое Запаточча | alt_name:ru=Великое Запоточье | place=hamlet | wikipedia=ru:Большое Запоточье
@@ -385,22 +386,22 @@ n243041752  Кадзіна / Kadzina / Кадино / Кадино
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Кадино (Могилёвский район)
     geometry : [53.8783881,30.5101002]
 n243041753  Фойна / Fojna / Фойно / Фойно
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Фойно
     geometry : [53.9606400,30.4743600]
 n243041754  Агееўка / Ahiejeŭka / Агеевка / Агеевка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Агеевка (Могилёвский район)
     geometry : [53.9592700,30.4842300]
 n243041755  Масток / Mastok / Мосток / Мосток
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Мосток (Могилёвский район)
     geometry : [53.9757768,30.4543343]
 n243041756  Палыкавічы / Palykavičy / Полыковичи / Полыковичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Полыковичи (Могилёвский район)
-    geometry : [53.9852376,30.3617196]
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Полыковичи (Могилёвский район)
+    geometry : [53.9779972,30.3655176]
 n243041757  Нікалаеўка 1 / Nikalajeŭka 1 / Николаевка 1 / Николаевка 1
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мікалаеўка 1 | alt_name:ru=Миколаевка 1 | place=hamlet | wikipedia=ru:Николаевка 1
     geometry : [53.9269900,30.4175400]
 n243041762  Шапчыцы / Šapčycy / Шапчицы / Шапчицы
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Шапчицы (Могилёвская область)
     geometry : [53.9352256,30.4878428]
 n243041763  Нікалаеўка 3 / Nikalajeŭka 3 / Николаевка 3 / Николаевка 3
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мікалаеўка 3 | alt_name:ru=Миколаевка 3 | place=hamlet | wikipedia=ru:Николаевка 3
@@ -414,13 +415,13 @@ n243041766  Канстанцінаўка / Kanstancinaŭka / Константи�
     geometry : [53.9177540,30.4856987]
 n243041767  Краснаполле 2 / Krasnapollie 2 / Краснополье 2 / Краснополье 2
   other names: name:uk=Краснопілля
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Краснополье-2 | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Краснополье-2 | place=hamlet | wikipedia=ru:Краснополье-2
     geometry : [53.9345395,30.3732898]
 n243041768  Сенькава / Sieńkava / Сеньково / Сеньково
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Сеньково (Полыковичский сельсовет)
     geometry : [53.9106800,30.3968500]
 n243041769  Сідараўка / Sidaraŭka / Сидоровка / Сидоровка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Сидоровка (Могилёвский район)
     geometry : [53.8191000,30.4812200]
 n243041770  Губанаў / Hubanaŭ / Губанов / Губанов
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Губанов (посёлок)
@@ -429,62 +430,62 @@ n243041771  null / null / Зарекатье / Зарекатье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.8021813,30.3537782]
 n243041772  Зімніца / Zimnica / Зимница / Зимница
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зимница (Могилёвский район)
     geometry : [53.8124791,30.4478687]
 n243041773  null / null / Любовка / Любовка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.8315678,30.3591905]
 n243041774  Быстрык / Bystryk / Быстрик / Быстрик
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Быстрик (Могилёвский район)
     geometry : [53.7993441,30.4924580]
 n243041775  Вялікая Бароўка / Vialikaja Baroŭka / Большая Боровка / Большая Боровка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшая Бароўка | alt_name:ru=Великая Боровка | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бальшая Бароўка | alt_name:ru=Великая Боровка | place=hamlet | wikipedia=ru:Большая Боровка (Могилёвская область)
     geometry : [53.8764788,30.4562386]
 n243041776  Палавінны Лог / Palavinny Loh / Половинный Лог / Половинный Лог
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Половинный Лог
     geometry : [53.9057900,30.4039800]
 n243041777  null / null / Замостье / Замостье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.7725800,30.4193400]
 n243041778  Нядашава 2 / Niadašava 2 / Недашево 2 / Недашево 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Недашево 2 (Могилёвский район)
     geometry : [53.7731620,30.4711894]
 n243041779  Вейна / Viejna / Вейно / Вейно
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Вейно (Могилёвская область)
     geometry : [53.8225400,30.3841500]
 n243041780  Падгор’е / Padhorje / Подгорье / Подгорье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Подгорье (Могилёвский район)
     geometry : [53.8287200,30.4467200]
 n243041781  Князеўка / Kniazieŭka / Князевка / Князевка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Князевка (Могилёвский район)
     geometry : [53.7999976,30.4278241]
 n243041783  Дары / Dary / Дары / Дары
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дары (Могилёвская область)
     geometry : [53.8442500,30.4707500]
 n243041784  Палетнікі / Palietniki / Полетники / Полетники
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Полетники
     geometry : [53.8412586,30.4043707]
 n243041809  Калясішча / Kaliasišča / Колесище / Колесище
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Колесище (Могилёвский район)
     geometry : [54.0019845,30.3992831]
 n243041813  Паўлаўка / Paŭlaŭka / Павловка / Павловка
   other names: name:uk=Павлівка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Павловка (Могилёвский район)
     geometry : [53.9882700,30.4061200]
 n243041814  Калінавая / Kalinavaja / Калиновая / Калиновая
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Калиновая (Могилёвский район)
     geometry : [54.0189468,30.3676511]
 n243041815  Кастрыцы / Kastrycy / Кострицы / Кострицы
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Кострыцы | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Кострыцы | place=hamlet | wikipedia=ru:Кострицы
     geometry : [54.0100155,30.4075203]
 n243041816  Грыбаны / Hrybany / Грибаны / Грибаны
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Грибаны (Могилёвский район)
     geometry : [54.0014209,30.5068385]
 n243041819  Макаранцы / Makarancy / Макаренцы / Макаренцы
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макарынцы | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макарынцы | place=hamlet | wikipedia=ru:Макаренцы
     geometry : [53.9753100,30.5087800]
 n243041852  Запруддзе / Zapruddzie / Запрудье / Запрудье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Запрудье (Недашевский сельсовет)
     geometry : [53.7826920,30.4158459]
 n243041853  Вільчыцы / Viĺčycy / Вильчицы / Вильчицы
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Вильчицы
@@ -503,13 +504,13 @@ n243041857  Мірны / Mirny / Мирный / Мирный
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Мирный (Могилёвская область)
     geometry : [53.7554222,30.3693451]
 n243041859  Дубінка 2 / Dubinka 2 / Дубинка 2 / Дубинка 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дубинка 2
     geometry : [53.7632300,30.4425200]
 n243041860  Дубінка 1 / Dubinka 1 / Дубинка 1 / Дубинка 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дубинка 1
     geometry : [53.7705200,30.4458600]
 n243041861  Нядашава 1 / Niadašava 1 / Недашево 1 / Недашево 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нядашаўка | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нядашаўка | place=village | wikipedia=ru:Недашево 1
     geometry : [53.7641700,30.4858600]
 n243041862  Новая Мілееўка / Novaja Miliejeŭka / Новая Милеевка / Новая Милеевка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мілееўка | place=hamlet | wikipedia=ru:Новая Милеевка
@@ -539,7 +540,7 @@ n243042450  Акулінцы / Akulincy / Акулинцы / Акулинцы
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Акулинцы
     geometry : [53.9656100,30.6396700]
 n243042451  Кругі / Kruhi / Круги / Круги
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Круги (Могилёвский район)
     geometry : [54.0087000,30.5303200]
 n243042452  Васілевічы / Vasilievičy / Василевичи / Василевичи
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Василевичи (Могилёвская область)
@@ -548,22 +549,22 @@ n243042453  Супанічы / Supaničy / Супоничи / Супоничи
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Супонічы | place=hamlet | wikipedia=ru:Супоничи
     geometry : [53.9910701,30.6601032]
 n243042454  Макаўня / Makaŭnia / Маковня / Маковня
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Маковня
     geometry : [53.9914327,30.5874637]
 n243042455  Сафійск / Safijsk / Софийск / Софийск
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Сафейск | place=hamlet | wikipedia=ru:Софийск (Могилёвская область)
     geometry : [53.9487176,30.6615221]
 n243042456  Зарудзееўка / Zarudziejeŭka / Зарудеевка / Зарудеевка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зарудеевка
     geometry : [53.9539400,30.5280000]
 n243042457  Машанакі / Mašanaki / Мошенаки / Мошенаки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Мошенаки
     geometry : [53.9611500,30.5619100]
 n243042458  Зарэсце / Zarescie / Зарестье / Зарестье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зарестье
     geometry : [54.0128800,30.6942434]
 n243042459  Мацееўшчына / Maciejeŭščyna / Матеевщина / Матеевщина
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Матеевщина
     geometry : [54.0020100,30.5732400]
 n243042460  null / null / Сосновец / Сосновец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -572,13 +573,13 @@ n243042462  Цецераўнік / Ciecieraŭnik / Тетеревник / Тет
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Тетеревник
     geometry : [54.0100188,30.6124514]
 n243042463  Русінка / Rusinka / Русинка / Русинка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Русинка
     geometry : [54.0263800,30.5497200]
-n243042464  Макрусінка / Makrusinka / Мокрусинка / Мокрусинка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макрусенка | alt_name:ru=Макрусинка | place=hamlet
-    geometry : [54.0300700,30.5830200]
+n243042464  Макрусінка / Makrusinka / Макрусинка / Макрусинка
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макрусенка | alt_name:ru=Мокрусинка | place=hamlet | wikipedia=ru:Макрусинка (Могилёвский район)
+    geometry : [54.0296517,30.5833761]
 n243042465  Мішкаўка / Miškaŭka / Мишковка / Мишковка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мішкаўцы | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мішкаўцы | place=hamlet | wikipedia=ru:Мишковка (Могилёвский район)
     geometry : [53.9762600,30.5397600]
 n243042466  Брылі / Bryli / Брыли / Брыли
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Брыли (Могилёвская область)
@@ -599,7 +600,7 @@ n243042475  Малееўка / Maliejeŭka / Малеевка / Малеевка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Малеевка (Могилёвская область)
     geometry : [53.8986700,30.5516900]
 n243042476  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Каменка (Могилёвский район)
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Кадинский сельский Совет | place=hamlet | wikipedia=ru:Каменка (Могилёвский район)
     geometry : [53.9207300,30.5589900]
 n243042479  Зылі / Zyli / Зыли / Зыли
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зыли
@@ -608,7 +609,7 @@ n243042481  Іванаў Дварэц / Ivanaŭ Dvarec / Иванов Дворе
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Иванов Дворец
     geometry : [53.9164300,30.6728800]
 n243042482  Галяні 1 / Haliani 1 / Голени 1 / Голени 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Голени 1
     geometry : [53.7938700,30.6001900]
 n243042483  Шчэжар 1 / Ščežar 1 / Щежерь 1 / Щежерь 1
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Щежерь 1
@@ -621,19 +622,19 @@ n243042485  Гародня / Harodnia / Городня / Городня
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Городня (Могилёвская область)
     geometry : [53.8450200,30.6227600]
 n243042488  Амхавая 2 / Amchavaja 2 / Амховая 2 / Амховая 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Амховая 2
     geometry : [53.7753300,30.5425100]
 n243042490  Галяні 2 / Haliani 2 / Голени 2 / Голени 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Голени 2
     geometry : [53.7931000,30.5635400]
 n243042491  Пятровічы / Piatrovičy / Петровичи / Петровичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Петровичи (Могилёвский район)
     geometry : [53.8125800,30.6080000]
 n243042493  Латрошча / Latrošča / Латроща / Латроща
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Латроща
     geometry : [53.8300000,30.5780400]
 n243042496  Амхавая 1 / Amchavaja 1 / Амховая 1 / Амховая 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Амховая 1
     geometry : [53.7925800,30.5291200]
 n243042497  Шчэжар 2 / Ščežar 2 / Щежерь 2 / Щежерь 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Щежерь 2
@@ -660,7 +661,7 @@ n243042508  Запруддзе / Zapruddzie / Запрудье / Запрудь�
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Маховский сельский Совет | place=hamlet | wikipedia=ru:Запрудье (Маховский сельсовет)
     geometry : [53.6881861,30.5728249]
 n243042511  Стужыца / Stužyca / Стужица / Стужица
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Стужица (Могилёвская область)
     geometry : [53.7552695,30.5289475]
 n243042515  Ліпец / Lipiec / Липец / Липец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Липец (Могилёвский район)
@@ -695,8 +696,8 @@ n243043404  Буйнічы / Bujničy / Буйничи / Буйничи
 n243043405  Сялец / Sialiec / Селец / Селец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Сяльцы | place=hamlet | wikipedia=ru:Селец (Могилёвский район)
     geometry : [53.8296854,30.2423648]
-n243043406  Салтанаўка / Saltanaŭka / Солтановка / Солтановка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Салтановка | place=hamlet
+n243043406  Салтанаўка / Saltanaŭka / Салтановка / Салтановка
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Солтановка | place=hamlet | wikipedia=ru:Салтановка (Могилёвская область)
     geometry : [53.8007300,30.2505100]
 n243043407  Туманаўка / Tumanaŭka / Тумановка / Тумановка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Тумановка (Могилёвская область)
@@ -705,13 +706,14 @@ n243043408  Красніца 1 / Krasnica 1 / Красница 1 / Красни�
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Красница 1 (Могилёвский район)
     geometry : [53.7966100,30.1941200]
 n243043409  Чарназёмаўка / Čarnaziomaŭka / Чернозёмовка / Чернозёмовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Чернозёмовка (деревня)
     geometry : [53.8155000,30.1986700]
 n243043410  Красніца 2 / Krasnica 2 / Красница 2 / Красница 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Красница 2 (Могилёвский район)
     geometry : [53.7906079,30.1824226]
 n243043411  Векер / Viekier / Веккер / Веккер
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Векер | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Векер | place=hamlet | wikipedia=ru:Веккер
     geometry : [53.8541200,30.2289700]
 n243043412  null / null / Течки / Течки
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -725,23 +727,20 @@ n243043414  Галынец 2 / Halyniec 2 / Голынец 2 / Голынец 2
 n243043415  Брускі / Bruski / Бруски / Бруски
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бруски (Могилёвская область)
     geometry : [53.8615698,30.2111557]
-n243043416  null / null / Тишовка / Тишовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village
-    geometry : [53.8599418,30.2231119]
 n243043417  Гарадок / Haradok / Городок / Городок
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Буйничский сельский Совет | place=hamlet | wikipedia=ru:Городок (Буйничский сельсовет)
     geometry : [53.8721816,30.2779933]
 n243043418  Прысна 1 / Prysna 1 / Присно 1 / Присно 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Присно 1
     geometry : [53.9368772,30.2220182]
 n243043419  Цішоўка / Cišoŭka / Тишовка / Тишовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Цішоўкі | place=hamlet | wikipedia=ru:Тишовка
-    geometry : [53.8910300,30.2506000]
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Цішоўкі | place=village | wikipedia=ru:Тишовка
+    geometry : [53.8869247,30.2481559]
 n243043420  Сенькава / Sieńkava / Сеньково / Сеньково
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Княжицкий сельский Совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Княжицкий сельский Совет | place=hamlet | wikipedia=ru:Сеньково (Княжицкий сельсовет)
     geometry : [53.9354000,30.1669100]
 n243043421  Прысна 2 / Prysna 2 / Присно 2 / Присно 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Присно 2
     geometry : [53.9213200,30.2045100]
 n243043422  Гарадшчына / Haradščyna / Городщина / Городщина
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Гарашчына | place=hamlet | wikipedia=ru:Городщина
@@ -753,78 +752,78 @@ n243043424  Бутрымаўка / Butrymaŭka / Бутримовка / Бутр
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бутримовка
     geometry : [53.8901700,30.2070800]
 n243043425  Зацішша / Zacišša / Затишье / Затишье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Буйничский сельский Совет | place=hamlet | wikipedia=ru:Затишье (Буйничский сельсовет)
     geometry : [53.9038157,30.2284770]
 n243043426  Новае Пашкава / Novaje Paškava / Новое Пашково / Новое Пашково
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Новапашкава;Пашкава | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Новапашкава;Пашкава | place=hamlet | wikipedia=ru:Новое Пашково
     geometry : [53.9551500,30.2488800]
 n243043429  Старое Пашкава / Staroje Paškava / Старое Пашково / Старое Пашково
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Старае Пашкава | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Старае Пашкава | place=hamlet | wikipedia=ru:Старое Пашково
     geometry : [53.9539200,30.2834145]
 n243043431  Сумарокава / Sumarokava / Сумароково / Сумароково
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Сумароково (Могилёвская область)
     geometry : [53.9657000,30.1950700]
 n243043434  Забалацце / Zabalaccie / Заболотье / Заболотье
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Забалоцце | place=hamlet | wikipedia=ru:Заболотье (Пашковский сельсовет)
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Пашковский сельский Совет | alt_name:be=Забалоцце | place=hamlet | wikipedia=ru:Заболотье (Пашковский сельсовет)
     geometry : [54.0098437,30.2147307]
 n243043435  Палыкавічы 2 / Palykavičy 2 / Полыковичи 2 / Полыковичи 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.9723100,30.3316200]
 n243043437  Сафіеўка / Safijeŭka / Софиевка / Софиевка
   other names: name:uk=Софіївка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Софиевка (Могилёвская область)
     geometry : [53.9992600,30.2959200]
 n243043439  null / null / Лужки 2-е / Лужки 2-е
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : [54.0238900,30.1996100]
 n243043441  Гараны / Harany / Горяны / Горяны
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Гаряны | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Гаряны | place=hamlet | wikipedia=ru:Горяны (Могилёвская область)
     geometry : [54.0247500,30.2116300]
 n243043442  Лужкі / Lužki / Лужки / Лужки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Лужки (Могилёвский район)
     geometry : [54.0283600,30.1886300]
 n243043444  Нізкая Вуліца / Nizkaja Vulica / Низкая Улица / Низкая Улица
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Низкая Улица (Могилёвский район)
     geometry : [53.9775340,30.1754871]
 n243043446  Засценкі / Zascienki / Застенки / Застенки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Застенки (Могилёвский район)
     geometry : [53.9766900,30.2750600]
 n243043448  Навасёлкі 1 / Navasiolki 1 / Новосёлки 1 / Новосёлки 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Новосёлки 1 (Могилёвская область)
     geometry : [53.9881000,30.2266500]
 n243043450  Навасёлкі 2 / Navasiolki 2 / Новосёлки 2 / Новосёлки 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Новосёлки 2 (Могилёвская область)
     geometry : [53.9887000,30.2499100]
 n243043452  Лахва / Lachva / Лахва / Лахва
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Лахва (Могилёвская область)
     geometry : [54.0132754,30.1699960]
 n243043453  Гаі / Hai / Гаи / Гаи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Гаи (Могилёвская область)
     geometry : [53.9676700,30.3001200]
 n243043455  Ільінка / Iĺinka / Ильинка / Ильинка
   other names: name:uk=Іллінка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ильинка (Могилёвская область)
     geometry : [53.9678500,30.2295700]
-n243043456  Рэчкі 1 / Rečki 1 / Речки 1 / Речки 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Речки 1 (Могилёвская область)
+n243043456  Рэчкі / Rečki / Речки / Речки
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | old_name=Речки 1 | place=village | wikipedia=ru:Речки 1 (Могилёвская область)
     geometry : [54.0296675,30.2323286]
 n243043458  Жукава / Žukava / Жуково / Жуково
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Жукова | building=yes | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Жукова | building=yes | place=hamlet | wikipedia=ru:Жуково (Могилёвский район)
     geometry : [53.9833800,30.2923100]
 n243043460  Хаткі / Chatki / Хатки / Хатки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Хатки (Могилёвская область)
     geometry : [54.0194700,30.2587279]
 n243043462  Купёлы / Kupioly / Купёлы / Купёлы
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Купёлле | place=hamlet | wikipedia=ru:Купёлы
     geometry : [54.0319079,30.3201648]
 n243043476  Грыбачы / Hrybačy / Грибачи / Грибачи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Грибачи (Могилёвская область)
     geometry : [54.0541098,30.2076912]
 n243043481  Валокі / Valoki / Волоки / Волоки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Волоки (Могилёвская область)
     geometry : [54.0349600,30.2679400]
 n243043482  Рэчкі 2 / Rečki 2 / Речки 2 / Речки 2
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Речки 1 (Могилёвская область)
     geometry : [54.0506700,30.2476800]
 n243045880  Іванавічы / Ivanavičy / Ивановичи / Ивановичи
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ивановичи (Могилёвская область)
@@ -860,25 +859,22 @@ n1986475386  Галынец / Halyniec / Голынец / Голынец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Голынец
     geometry : [53.8485591,30.1666443]
 n2119397130  Васход / Vaschod / Восход / Восход
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | population=1662 | wikipedia=ru:Восход (Могилёвский район)
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | population=1662 | wikipedia=ru:Восход (Могилёвский район)
     geometry : [53.7764489,30.3507126]
 n2149456000  Лыкава / Lykava / Лыково / Лыково
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Лыково (Могилёвская область)
     geometry : [53.7556228,30.3420311]
-n2507506112  null / null / Полыковичи / Полыковичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
-    geometry : [53.9654763,30.3591425]
 n2700313090  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Вейнянский сельский Совет | place=hamlet | wikipedia=ru:Новосёлки (Вейнянский сельсовет)
     geometry : [53.8101381,30.3751013]
 n2700313098  Смалякоў / Smaliakoŭ / Смоляков / Смоляков
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Смоляков (посёлок)
     geometry : [53.8059152,30.3840853]
 n2921447134  Ямішча / Jamišča / Ямище / Ямище
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Ямище (Могилёвский район)
     geometry : [53.7844935,29.9216459]
-n2921450905  Палыкавіцкія Хутары / Palykavickija Chutary / Полыковичские Хуторы / Полыковичские Хуторы
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полыковичские Хутора | place=hamlet
+n2921450905  Палыкавіцкія Хутары / Palykavickija Chutary / Полыковичские Хутора / Полыковичские Хутора
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полыковичские Хуторы | place=hamlet | wikipedia=ru:Полыковичские Хутора
     geometry : [53.9911380,30.3157136]
 n2921459755  Днепр / Dniepr / Днепр / Днепр
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Днепр (посёлок, Могилёвский район)
@@ -887,7 +883,8 @@ n2922570507  Зялёны / Zialiony / Зелёный / Зелёный
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зелёный (Могилёвский район)
     geometry : [53.8095476,30.0064923]
 n2922599277  Чарназёмаўка / Čarnaziomaŭka / Чернозёмовка / Чернозёмовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=снп
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Чернозёмовка (сельский населённый пункт)
     geometry : [53.7961497,30.2140393]
 n2922624652  Вендрыж / Viendryž / Вендриж / Вендриж
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Вендараж;Вендраж | place=hamlet | wikipedia=ru:Вендриж
@@ -896,7 +893,7 @@ n2922629056  Бартнякі / Bartniaki / Бортняки / Бортняки
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Бортнікі | place=hamlet | wikipedia=ru:Бортняки
     geometry : [53.8009898,30.1118540]
 n3207137032  Бярозаўка / Biarozaŭka / Берёзовка / Берёзовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | addr:subdistrict=Полыковичский сельский Совет | place=hamlet | wikipedia=ru:Берёзовка (Полыковичский сельсовет)
     geometry : [53.9304925,30.3867771]
 w25082900  Малое Бушкава / Maloje Buškava / Малое Бушково / Малое Бушково
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -910,8 +907,8 @@ w25082938  Іванавічы / Ivanavičy / Ивановичи / Иванови
 w25082942  Рыкі / Ryki / Рики / Рики
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Рыки | place=hamlet
     geometry : n272962411[53.9343700,30.7444700] n272962413[53.9344600,30.7468700] n272962415[53.9364300,30.7469600] n272962416[53.9364300,30.7491900] n272962417[53.9392700,30.7505600] n272962418[53.9415800,30.7518500] n272962420[53.9414100,30.7527900] n272962432[53.9403000,30.7533900] n272962436[53.9385800,30.7562300] n272962438[53.9386700,30.7582000] n272962440[53.9432100,30.7572600] n272962444[53.9445900,30.7570000] n272962446[53.9460400,30.7570800] n272962448[53.9460400,30.7551100] n272962454[53.9457900,30.7531400] n272962456[53.9462200,30.7512500] n272962458[53.9432100,30.7486700] n272962460[53.9408100,30.7476400] n272962462[53.9408900,30.7465300] n272962464[53.9382400,30.7449800] n272962411[53.9343700,30.7444700]
-w25084550  Макрусінка / Makrusinka / Мокрусинка / Мокрусинка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макрусенка | alt_name:ru=Макрусинка | place=hamlet
+w25084550  Макрусінка / Makrusinka / Макрусинка / Макрусинка
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Макрусенка | alt_name:ru=Мокрусинка | place=hamlet
     geometry : n272986018[54.0332500,30.5944400] n272986021[54.0348800,30.5906600] n272986023[54.0316200,30.5829300] n272986024[54.0306800,30.5808700] n272986027[54.0281900,30.5762400] n272986029[54.0268100,30.5777000] n272986031[54.0264987,30.5785564] n272986034[54.0274100,30.5814800] n272986018[54.0332500,30.5944400]
 w25084552  Бальшое Бушкава / Vialikaje Buškava / Большое Бушково / Большое Бушково
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Вялікае Бушкава | alt_name:ru=Великое Бушково | place=hamlet
@@ -1063,7 +1060,7 @@ w25086306  Калінавая / Kalinavaja / Калиновая / Калинов
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet
     geometry : n273013644[54.0111098,30.3790048] n273013649[54.0127121,30.3837788] n2830706050[54.0139625,30.3826484] n273013650[54.0180364,30.3801876] n273013651[54.0206697,30.3778573] n2285568732[54.0245035,30.3763725] n273013653[54.0268482,30.3765553] n273013655[54.0274406,30.3736369] n273013657[54.0272806,30.3717182] n273013659[54.0237596,30.3679156] n273013661[54.0224516,30.3662342] n273013667[54.0214712,30.3654735] n2285568659[54.0207242,30.3645002] n273013671[54.0206839,30.3595684] n2285568641[54.0199365,30.3595467] n2285568633[54.0196154,30.3602043] n273013673[54.0191715,30.3601981] n273013675[54.0187908,30.3613025] n2285568513[54.0178792,30.3609644] n273013677[54.0170908,30.3604094] n2285568429[54.0170009,30.3603948] n2285568419[54.0167361,30.3604068] n2285568416[54.0166549,30.3604093] n273013679[54.0162475,30.3602627] n2285568374[54.0155681,30.3603283] n2285568378[54.0153903,30.3604833] n2285568373[54.0151452,30.3606372] n273013681[54.0148189,30.3608762] n2285568130[54.0116629,30.3614947] n2285568111[54.0115022,30.3615257] n2285568107[54.0108691,30.3615869] n273013683[54.0089322,30.3613675] n273013685[54.0088381,30.3632788] n2285568094[54.0098518,30.3633645] n2285568163[54.0121889,30.3638636] n2285568295[54.0137020,30.3643086] n2285568325[54.0144648,30.3643427] n2285568357[54.0149365,30.3645819] n273013686[54.0152648,30.3651443] n273013687[54.0159915,30.3658460] n273013688[54.0190549,30.3686537] n2285568627[54.0193521,30.3688949] n2285568625[54.0193260,30.3691435] n2285568623[54.0191754,30.3706125] n2285568617[54.0190865,30.3728757] n2285568614[54.0190507,30.3732790] n2285568610[54.0190159,30.3737184] n2285568605[54.0189724,30.3741627] n273013689[54.0181004,30.3736491] n273013644[54.0111098,30.3790048]
 w25086311  Масток / Mastok / Мосток / Мосток
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=village
     geometry : n273013690[53.9869900,30.4480900] n273013691[53.9814900,30.4482700] n273013702[53.9782895,30.4477105] n273013704[53.9747136,30.4475009] n273013706[53.9737700,30.4464600] n273013708[53.9717900,30.4398500] n273013710[53.9713700,30.4378800] n273013712[53.9705100,30.4381400] n273013714[53.9714807,30.4444425] n273013716[53.9708950,30.4466181] n273013718[53.9712258,30.4484220] n273013720[53.9718525,30.4480784] n2244877626[53.9715382,30.4591324] n2244877625[53.9703587,30.4615184] n273013724[53.9699105,30.4665895] n273013725[53.9885715,30.4655543] n1986465881[53.9899402,30.4635170] n273013726[53.9898916,30.4623389] n273013728[53.9891381,30.4480882] n273013690[53.9869900,30.4480900]
 w25086312  Агееўка / Ahiejeŭka / Агеевка / Агеевка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -1180,7 +1177,7 @@ w25086512  Дубінка 2 / Dubinka 2 / Дубинка 2 / Дубинка 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273016137[53.7605820,30.4386316] n273016139[53.7603100,30.4417400] n273016142[53.7603900,30.4432000] n273016144[53.7605000,30.4469237] n273016149[53.7636600,30.4480100] n2993945193[53.7638943,30.4503875] n273016151[53.7654502,30.4505105] n273016156[53.7657730,30.4401215] n273016137[53.7605820,30.4386316]
 w25086521  Нядашава 1 / Niadašava 1 / Недашево 1 / Недашево 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нядашаўка | place=hamlet
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Нядашаўка | place=village
     geometry : n273016164[53.7635700,30.4772800] n273016166[53.7626300,30.4791600] n273016168[53.7615100,30.4784800] n273016170[53.7609900,30.4796800] n273016172[53.7604800,30.4793400] n273016174[53.7602158,30.4817824] n273016180[53.7607400,30.4835400] n273016182[53.7596200,30.4870600] n273016184[53.7610800,30.4880900] n273016190[53.7633909,30.4897967] n273016191[53.7657200,30.4910100] n273016201[53.7700925,30.4934166] n273016203[53.7707800,30.4877500] n273016205[53.7681200,30.4849200] n273016207[53.7686300,30.4835400] n273016164[53.7635700,30.4772800]
 w25086525  Новая Мілееўка / Novaja Miliejeŭka / Новая Милеевка / Новая Милеевка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Мілееўка | place=hamlet
@@ -1215,9 +1212,6 @@ w25088884  Грыбачы / Hrybačy / Грибачи / Грибачи
 w25088899  Валокі / Valoki / Волоки / Волоки
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273053746[54.0333400,30.2620100] n273053748[54.0319600,30.2645900] n273053750[54.0311000,30.2693900] n273053753[54.0382858,30.2771080] n273053755[54.0397700,30.2686200] n273053758[54.0396000,30.2683600] n273053746[54.0333400,30.2620100]
-w25088911  Палыкавічы / Palykavičy / Полыковичи / Полыковичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet
-    geometry : n273053821[54.0062343,30.3562043] n2278358201[54.0063625,30.3564909] n2278358199[54.0064606,30.3571850] n273053823[54.0087241,30.3595992] n273053825[54.0080845,30.3651037] n273053836[54.0022700,30.3655834] n273053838[53.9982626,30.3653982] n273053839[53.9957999,30.3655857] n273053841[53.9949538,30.3669986] n273053843[53.9935738,30.3669086] n273053844[53.9931178,30.3655644] n273053846[53.9833639,30.3652786] n2279250659[53.9822172,30.3663481] n273053848[53.9795039,30.3688786] n2279250478[53.9794915,30.3689075] n2279250463[53.9793221,30.3689997] n273053859[53.9744339,30.3727486] n273053877[53.9744784,30.3748230] n273053893[53.9738646,30.3762858] n2279255623[53.9741341,30.3771594] n273053902[53.9749750,30.3783416] n273053903[53.9751177,30.3799469] n2423746235[53.9752174,30.3802458] n273053904[53.9750439,30.3812386] n2279296960[53.9746468,30.3823614] n273053905[53.9740939,30.3838986] n273053906[53.9729607,30.3861673] n273053907[53.9722040,30.3847586] n273053908[53.9718540,30.3838053] n273053910[53.9717740,30.3823586] n273053912[53.9711984,30.3820156] n273053915[53.9708912,30.3815197] n273053917[53.9704571,30.3815730] n273053919[53.9699262,30.3815052] n2279283446[53.9694204,30.3817932] n2279283443[53.9688521,30.3817568] n273053921[53.9681384,30.3821280] n2279283151[53.9668675,30.3833956] n2279283144[53.9658519,30.3841188] n2411017957[53.9636140,30.3865580] n2279283035[53.9624838,30.3889810] n273053923[53.9607241,30.3928249] n2734440752[53.9585760,30.3966131] n2734440751[53.9559401,30.4022497] n2734440748[53.9510670,30.4098181] n2734440746[53.9490118,30.4129080] n2734440745[53.9473309,30.4145438] n2734440744[53.9461466,30.4120252] n2734440747[53.9496689,30.4095974] n2734440749[53.9530534,30.4040019] n2734440750[53.9557637,30.3983912] n2279282942[53.9580671,30.3925280] n273053925[53.9619456,30.3856781] n273053927[53.9626903,30.3845261] n273053929[53.9628926,30.3837424] n273053931[53.9634960,30.3826410] n273053933[53.9637531,30.3824419] n273053934[53.9640494,30.3823154] n273053935[53.9642696,30.3820025] n273053937[53.9652989,30.3804653] n273053938[53.9661451,30.3789779] n273053940[53.9674165,30.3768694] n273053942[53.9686496,30.3745525] n273053944[53.9691969,30.3737472] n273053946[53.9700089,30.3716131] n2279255558[53.9704204,30.3711844] n2279255565[53.9707458,30.3717446] n273053948[53.9713192,30.3713025] n2423746200[53.9719947,30.3700251] n273053950[53.9722847,30.3684633] n273053952[53.9723242,30.3663468] n1410258724[53.9732992,30.3638393] n2423746224[53.9737160,30.3637777] n2279250190[53.9746404,30.3622405] n273053953[53.9807962,30.3568048] n273053955[53.9919504,30.3426342] n273053956[53.9944040,30.3424637] n273053957[53.9950186,30.3424787] n273053959[53.9960251,30.3425154] n273053961[53.9957352,30.3484981] n273053963[53.9963026,30.3490739] n273053965[53.9962261,30.3496985] n273053967[53.9963991,30.3545455] n273053969[53.9969219,30.3545385] n273053971[53.9972251,30.3545530] n273053973[53.9973537,30.3545486] n273053975[53.9976137,30.3502586] n273053985[53.9983438,30.3484582] n273053987[54.0010305,30.3411160] n273053989[54.0029635,30.3404247] n273053990[54.0042972,30.3411853] n273053992[54.0049142,30.3477664] n273053993[54.0052800,30.3520564] n273053994[54.0053336,30.3530886] n273053995[54.0061397,30.3560421] n273053821[54.0062343,30.3562043]
 w25088916  Палыкавічы 2 / Palykavičy 2 / Полыковичи 2 / Полыковичи 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273054004[53.9689742,30.3267300] n273054006[53.9687942,30.3293581] n273054008[53.9687144,30.3311032] n273054010[53.9682790,30.3318948] n273054012[53.9682925,30.3338709] n273054014[53.9680588,30.3355661] n273054016[53.9698618,30.3383156] n273054018[53.9764221,30.3424129] n273054053[53.9776711,30.3311018] n273054055[53.9775500,30.3303300] n273054057[53.9774600,30.3285300] n273054004[53.9689742,30.3267300]
@@ -1289,9 +1283,6 @@ w25089052  Прысна 2 / Prysna 2 / Присно 2 / Присно 2
 w25089055  Прысна 1 / Prysna 1 / Присно 1 / Присно 1
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet
     geometry : n273055311[53.9363625,30.2090612] n3129826709[53.9354693,30.2087563] n3129826708[53.9348732,30.2093627] n3129826707[53.9331320,30.2103734] n273055313[53.9315870,30.2127731] n273055315[53.9309028,30.2142468] n273055320[53.9303086,30.2161467] n2083262910[53.9286318,30.2197693] n3129826705[53.9291688,30.2210570] n2083262927[53.9299266,30.2220619] n2083262948[53.9309023,30.2222562] n2083262950[53.9322181,30.2231075] n3076780160[53.9355337,30.2276128] n3076780161[53.9358786,30.2269291] n273055326[53.9382113,30.2305846] n273055328[53.9406470,30.2260381] n273055336[53.9424883,30.2289772] n273055338[53.9443345,30.2253923] n3129826713[53.9452109,30.2234019] n273055340[53.9460820,30.2215475] n3076780166[53.9440887,30.2182940] n3076780165[53.9437052,30.2188641] n3129826712[53.9419054,30.2158512] n3076780164[53.9402166,30.2136259] n3129826711[53.9398255,30.2130969] n3076780162[53.9382094,30.2125079] n273055311[53.9363625,30.2090612]
-w25089059  Цішоўка / Cišoŭka / Тишовка / Тишовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Цішоўкі | landuse=residential | place=hamlet
-    geometry : n273055342[53.8871591,30.2351378] n273055343[53.8853176,30.2297101] n273055345[53.8845362,30.2302517] n273055347[53.8831020,30.2325672] n2914611916[53.8842223,30.2344020] n2914611917[53.8846888,30.2343650] n2914617892[53.8851438,30.2392065] n2914611922[53.8858091,30.2413778] n2914611923[53.8857481,30.2438522] n2914611915[53.8841353,30.2401268] n2914611914[53.8829494,30.2382035] n2914611913[53.8805802,30.2428121] n273055359[53.8858513,30.2508083] n2914611921[53.8849674,30.2528987] n2914611919[53.8852349,30.2542170] n2914611918[53.8849975,30.2550970] n2914611925[53.8853218,30.2566653] n2914611927[53.8854883,30.2583243] n273055360[53.8860961,30.2605516] n2914611948[53.8873829,30.2625693] n273055364[53.8926172,30.2671973] n273055368[53.8931357,30.2654362] n2914611955[53.8936951,30.2643706] n3523478134[53.8940620,30.2645589] n273055370[53.8946359,30.2626396] n2914611963[53.8947636,30.2627037] n2914611964[53.8949984,30.2619456] n2914611962[53.8934795,30.2600316] n2914611958[53.8928600,30.2581410] n2914611951[53.8919332,30.2564052] n2914611954[53.8925239,30.2556229] n2914611965[53.8949010,30.2601213] n2914611966[53.8952563,30.2620282] n273055372[53.8967783,30.2644268] n3523478167[53.8969196,30.2642148] n273055374[53.8975860,30.2645881] n273055398[53.8996525,30.2608888] n273055400[53.8998702,30.2591143] n3523478146[53.8961801,30.2507142] n2914611956[53.8937415,30.2458765] n273055406[53.8929804,30.2442197] n273055408[53.8924544,30.2438065] n2914611950[53.8913750,30.2449727] n273055409[53.8908068,30.2442471] n2914611949[53.8896394,30.2462168] n273055411[53.8887799,30.2436796] n273055415[53.8876369,30.2417502] n273055342[53.8871591,30.2351378]
 w25089084  Галынец 2 / Halyniec 2 / Голынец 2 / Голынец 2
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273055751[53.8696600,30.1744700] n3040380687[53.8699931,30.1751264] n1270779278[53.8711119,30.1798757] n273055755[53.8767800,30.1896600] n273055757[53.8818277,30.1968788] n273055759[53.8829828,30.1936503] n273055761[53.8759200,30.1816800] n273055763[53.8715799,30.1727269] n273055751[53.8696600,30.1744700]
@@ -1301,9 +1292,6 @@ w25089094  Гарадок / Haradok / Городок / Городок
 w25089103  Галынец 1 / Halyniec 1 / Голынец 1 / Голынец 1
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273056033[53.8643300,30.1669100] n273056034[53.8618500,30.1710300] n273056036[53.8609000,30.1709500] n273056038[53.8606538,30.1737623] n273056039[53.8586382,30.1735207] n273056040[53.8581833,30.1750378] n273056042[53.8600487,30.1777197] n273056047[53.8609336,30.1793913] n273056048[53.8630588,30.1779266] n3040380731[53.8711999,30.1932638] n273056055[53.8704697,30.1950797] n273056056[53.8729598,30.1996330] n273056060[53.8755425,30.1948888] n3040388055[53.8766300,30.1978875] n3040388060[53.8776315,30.1969804] n273056062[53.8780686,30.1981493] n273056065[53.8795922,30.1965764] n273056067[53.8784100,30.1938600] n273056069[53.8778100,30.1930900] n273056071[53.8771621,30.1928263] n273056073[53.8765548,30.1917816] n273056075[53.8763500,30.1904300] n273056077[53.8694000,30.1804700] n273056087[53.8677700,30.1742900] n273056089[53.8669100,30.1725800] n273056095[53.8659700,30.1695700] n273056033[53.8643300,30.1669100]
-w25089108  null / null / Тишовка / Тишовка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=village
-    geometry : n273056165[53.8563743,30.2160746] n273056167[53.8554387,30.2180081] n273056171[53.8589300,30.2234800] n273056173[53.8615000,30.2273400] n273056175[53.8632452,30.2297801] n273056177[53.8639714,30.2224531] n2914606032[53.8634490,30.2213749] n2914606031[53.8621912,30.2236038] n273056165[53.8563743,30.2160746]
 w25089109  Брускі / Bruski / Бруски / Бруски
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273056181[53.8609812,30.2054876] n273056183[53.8595523,30.2078159] n273056185[53.8582265,30.2057175] n273056187[53.8563252,30.2090504] n273056189[53.8596562,30.2144983] n273056191[53.8613255,30.2164290] n3040387833[53.8634035,30.2178713] n3040387840[53.8641418,30.2169403] n273056193[53.8659822,30.2197275] n273056197[53.8678291,30.2153782] n3040387851[53.8660663,30.2131203] n273056181[53.8609812,30.2054876]
@@ -1325,8 +1313,8 @@ w25089132  Красніца 1 / Krasnica 1 / Красница 1 / Красниц
 w25089133  Туманаўка / Tumanaŭka / Тумановка / Тумановка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273056488[53.8318334,30.2078340] n273056490[53.8314600,30.2112900] n273056493[53.8332710,30.2144071] n273056500[53.8344600,30.2131800] n273056502[53.8421900,30.2057100] n273056505[53.8415100,30.2036500] n273056507[53.8404800,30.2044200] n273056509[53.8395300,30.2023600] n273056511[53.8345954,30.2088360] n273056514[53.8330279,30.2063839] n273056488[53.8318334,30.2078340]
-w25089139  Салтанаўка / Saltanaŭka / Солтановка / Солтановка
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Салтановка | landuse=residential | place=hamlet
+w25089139  Салтанаўка / Saltanaŭka / Салтановка / Салтановка
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Солтановка | landuse=residential | place=hamlet
     geometry : n273056519[53.7951666,30.2523055] n273056520[53.7948713,30.2548356] n3076686932[53.7970520,30.2568628] n273056525[53.7977752,30.2611419] n273056527[53.7988317,30.2613435] n273056534[53.8016836,30.2628188] n273056536[53.8034508,30.2627240] n273056539[53.8037643,30.2582478] n3076693824[53.8037989,30.2576829] n273056543[53.8027067,30.2576045] n3076693751[53.8029963,30.2554962] n3076693822[53.8036529,30.2536308] n3076693834[53.8053382,30.2536555] n273056574[53.8056145,30.2506325] n273056576[53.8034955,30.2498025] n273056579[53.8047276,30.2448931] n273056581[53.8056660,30.2408455] n273056583[53.8044074,30.2398777] n273056586[53.8038200,30.2414100] n273056590[53.8032200,30.2436500] n3076693823[53.8037551,30.2447607] n3076693787[53.8034195,30.2462802] n3076693554[53.8014788,30.2513206] n3076693544[53.8005741,30.2497887] n3076693580[53.8019457,30.2471944] n3076693572[53.8018874,30.2468856] n3076693566[53.8018144,30.2463914] n3076693602[53.8023178,30.2459467] n273056593[53.8021582,30.2443848] n273056595[53.8019590,30.2445149] n273056598[53.8017466,30.2435819] n273056603[53.8009401,30.2439494] n3076693548[53.8011505,30.2447731] n273056605[53.7993013,30.2466684] n273056607[53.7995300,30.2483700] n2993485754[53.7992596,30.2490316] n273056609[53.7992728,30.2503690] n273056610[53.7994400,30.2507700] n273056612[53.8000926,30.2526009] n273056615[53.7991312,30.2527817] n273056616[53.7983300,30.2534300] n273056619[53.7976631,30.2549835] n3048114814[53.7964619,30.2538725] n273056626[53.7957212,30.2527036] n273056519[53.7951666,30.2523055]
 w25089140  Сялец / Sialiec / Селец / Селец
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Сяльцы | place=hamlet
@@ -1449,9 +1437,6 @@ w25096690  Карчомка / Karčomka / Корчёмка / Корчёмка
 w25096691  Масальшчына / Masaĺščyna / Масальщина / Масальщина
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273136174[53.8596100,29.9981700] n273136176[53.8584100,30.0026300] n273136177[53.8638200,30.0059800] n273136178[53.8646800,30.0014300] n273136180[53.8634800,30.0010000] n273136184[53.8616700,29.9999700] n273136174[53.8596100,29.9981700]
-w25096693  Ямніца / Jamnica / Ямница / Ямница
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
-    geometry : n273136186[53.8645816,30.1064581] n273136187[53.8597000,30.1119000] n273136189[53.8590200,30.1106900] n273136190[53.8581500,30.1119800] n273136195[53.8570400,30.1114700] n273136196[53.8564400,30.1125800] n273136198[53.8579000,30.1161000] n273136199[53.8567000,30.1173000] n273136202[53.8564400,30.1159300] n273136203[53.8524266,30.1182475] n273136205[53.8527014,30.1211503] n273136206[53.8571200,30.1199600] n273136208[53.8569600,30.1179900] n273136209[53.8583300,30.1171300] n273136210[53.8589300,30.1177300] n273136217[53.8653600,30.1104400] n273136186[53.8645816,30.1064581]
 w25096694  Гуслянка / Huslianka / Гуслянка / Гуслянка
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273136219[53.8029700,30.1555800] n273136220[53.8020200,30.1570400] n273136222[53.8029700,30.1595300] n273136223[53.8025776,30.1608510] n273136225[53.8043161,30.1639055] n273136233[53.8081199,30.1706000] n273136234[53.8086126,30.1689987] n273136236[53.8090490,30.1675131] n273136237[53.8079400,30.1654500] n273136239[53.8067400,30.1641700] n273136242[53.8050629,30.1612870] n273136243[53.8057100,30.1595300] n273136245[53.8046800,30.1580700] n273136254[53.8035600,30.1567800] n273136219[53.8029700,30.1555800]
@@ -1747,18 +1732,12 @@ w112458479  Чаромушкі / Čaromuški / Черёмушки / Черёму
 w181036968  Падбярэззе / Padbiarezzie / Подберезье / Подберезье
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n273136997[53.7817303,30.0765471] n273136998[53.7803521,30.0816930] n273136999[53.7821900,30.0824600] n273137001[53.7829700,30.0827100] n273137002[53.7832200,30.0823700] n273137003[53.7852000,30.0825400] n1202233690[53.7863500,30.0798544] n273137005[53.7857100,30.0786800] n273136997[53.7817303,30.0765471]
-w188027228  null / null / Ямница / Ямница
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
-    geometry : n273136268[53.8528715,30.1648547] n273136269[53.8530727,30.1652940] n273136271[53.8534300,30.1649400] n273136272[53.8542712,30.1632134] n273136284[53.8559773,30.1615655] n273136286[53.8563500,30.1616800] n273136287[53.8568700,30.1630500] n273136292[53.8580700,30.1619300] n273136293[53.8585113,30.1603853] n273136294[53.8580587,30.1564916] n273136296[53.8579155,30.1547696] n273136297[53.8576957,30.1534393] n273136299[53.8574658,30.1516909] n273136305[53.8530770,30.1547988] n2153136065[53.8523996,30.1597635] n273136310[53.8522592,30.1602501] n273136312[53.8523856,30.1629484] n273136268[53.8528715,30.1648547]
 w188604819  Вясёлы / Viasioly / Весёлый / Весёлый
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n1992261475[53.8013310,30.0376610] n1992261483[53.8006671,30.0477698] n1992261495[53.8018899,30.0480001] n1992261504[53.8025538,30.0378912] n1992261475[53.8013310,30.0376610]
 w201645864  Васход / Vaschod / Восход / Восход
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | population=1662
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=village | population=1662
     geometry : n2116778273[53.7801950,30.3571645] n2116778240[53.7795191,30.3478376] n2116778223[53.7774844,30.3438165] n2116778138[53.7765663,30.3437194] n2116778047[53.7756535,30.3438143] n2116777982[53.7755678,30.3464721] n2127764631[53.7731022,30.3460465] n2116777969[53.7720536,30.3585120] n2116777991[53.7735010,30.3586344] n2116777999[53.7739127,30.3573682] n2116778008[53.7748131,30.3568604] n2116778019[53.7748784,30.3544008] n2116778084[53.7757777,30.3544160] n2116778165[53.7765390,30.3543651] n2116778118[53.7760535,30.3575020] n2116778273[53.7801950,30.3571645]
-w238069011  null / null / Полыковичи / Полыковичи
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet
-    geometry : n2459334063[53.9687117,30.3549162] n2903781649[53.9684928,30.3543654] n2903781647[53.9681238,30.3545042] n2903781640[53.9671731,30.3530270] n2903781639[53.9669611,30.3528998] n2459334058[53.9662241,30.3519447] n2903781632[53.9649775,30.3538297] n2903781630[53.9644450,30.3549586] n2459334055[53.9634427,30.3571889] n2903781622[53.9631282,30.3585109] n2903781627[53.9631970,30.3608882] n2903781623[53.9630413,30.3614972] n2903781615[53.9609467,30.3614695] n2459334054[53.9609388,30.3623882] n2459334056[53.9630613,30.3629293] n2459334057[53.9658735,30.3681634] n2459334061[53.9677323,30.3646362] n2903781643[53.9677757,30.3639974] n3015731451[53.9682155,30.3621857] n2459334062[53.9682629,30.3614589] n3484013257[53.9682004,30.3609376] n3484013254[53.9680440,30.3604319] n3484013248[53.9676862,30.3594029] n2459334059[53.9670341,30.3573759] n2459334060[53.9670481,30.3569800] n2903781642[53.9674509,30.3561024] n2903781644[53.9676741,30.3562146] n2903781648[53.9682409,30.3558447] n2459334063[53.9687117,30.3549162]
 w238070529  Вейна / Viejna / Вейно / Вейно
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=village
     geometry : n2922614377[53.8175700,30.3779265] n2459348952[53.8209558,30.3816113] n2459348956[53.8224883,30.3853518] n2459348962[53.8239098,30.3885115] n2459348960[53.8236678,30.3892631] n2459348964[53.8242828,30.3904586] n2459348970[53.8260168,30.3908856] n2459348974[53.8289515,30.3924837] n2459348980[53.8295229,30.3944181] n2459348978[53.8300511,30.3958083] n2459348985[53.8314773,30.3973237] n2925596521[53.8319171,30.3975498] n2925596526[53.8336776,30.3979158] n2459348990[53.8342371,30.3977048] n2459348992[53.8346233,30.3968702] n2922313293[53.8330423,30.3925763] n2922313292[53.8319594,30.3934859] n2922313289[53.8308210,30.3911648] n2922313290[53.8316725,30.3904120] n2917237339[53.8322839,30.3884489] n3346441909[53.8320194,30.3871233] n2459348982[53.8313835,30.3848333] n3346465393[53.8319790,30.3842787] n3346465395[53.8321378,30.3839677] n2459348988[53.8322476,30.3829652] n2459348986[53.8310297,30.3815086] n2459348977[53.8298739,30.3808727] n2922313288[53.8302204,30.3789343] n2922313287[53.8276462,30.3795124] n2459348972[53.8268285,30.3777298] n2922313286[53.8258320,30.3788067] n2459348968[53.8255908,30.3783473] n2459348966[53.8242815,30.3793818] n2459348954[53.8217019,30.3717562] n2459348950[53.8198064,30.3736862] n2459348947[53.8194635,30.3744036] n2922614377[53.8175700,30.3779265]
@@ -1768,8 +1747,8 @@ w264344039  Смалякоў / Smaliakoŭ / Смоляков / Смоляков
 w288591319  Ямішча / Jamišča / Ямище / Ямище
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
     geometry : n2921447105[53.7849516,29.9210755] n2921447101[53.7840334,29.9211240] n2921447102[53.7840623,29.9226974] n2921447106[53.7849806,29.9226489] n2921447105[53.7849516,29.9210755]
-w288591813  Палыкавіцкія Хутары / Palykavickija Chutary / Полыковичские Хуторы / Полыковичские Хуторы
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полыковичские Хутора | place=hamlet
+w288591813  Палыкавіцкія Хутары / Palykavickija Chutary / Полыковичские Хутора / Полыковичские Хутора
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:ru=Полыковичские Хуторы | place=hamlet
     geometry : n2921450900[53.9921440,30.3129193] n2921450902[53.9928592,30.3146487] n2921450903[53.9929302,30.3154934] n2921450901[53.9923922,30.3155738] n2921450897[53.9919430,30.3162877] n2921450886[53.9904533,30.3173636] n2921450890[53.9906366,30.3182484] n2921450866[53.9889104,30.3180976] n2921450863[53.9886444,30.3171323] n2921450889[53.9905716,30.3151255] n2921450884[53.9903888,30.3146489] n2921450900[53.9921440,30.3129193]
 w288706078  Зялёны / Zialiony / Зелёный / Зелёный
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet
@@ -1796,14 +1775,14 @@ r4777591  Купёлы / Kupioly / Купёлы / Купёлы
     geometry : <outer> w25088891: n273053634[54.0381138,30.3003606] n273053635[54.0379538,30.3043106] n273053637[54.0424939,30.3043106] n273053638[54.0462739,30.3037906] n273053640[54.0462739,30.3012206] n273053651[54.0425839,30.3015606] n273053657[54.0422338,30.3003606] n273053634[54.0381138,30.3003606] : w25088891
     geometry : <outer> w25088894: n273053677[54.0324800,30.3071600] n273053679[54.0278400,30.3083600] n273053682[54.0275520,30.3200850] n3439760778[54.0228475,30.3201866] n3439760776[54.0220094,30.3168356] n1905136857[54.0191357,30.3178611] n3439760775[54.0189979,30.3225920] n3439760777[54.0224090,30.3230233] n273053684[54.0224792,30.3268700] n273053687[54.0269182,30.3276292] n3439760781[54.0300098,30.3255780] n3439760784[54.0324456,30.3262581] n3439760785[54.0334881,30.3281990] n273053689[54.0370432,30.3280586] n3439760788[54.0370052,30.3267558] n3439760791[54.0379599,30.3266065] n3439760790[54.0378333,30.3247983] n3439760792[54.0390705,30.3248149] n2433295246[54.0390785,30.3239017] n3439760787[54.0358264,30.3235209] n3439760786[54.0351152,30.3208335] n3439760789[54.0376579,30.3180300] n273053699[54.0370949,30.3098512] n273053677[54.0324800,30.3071600] : w25088894
     geometry : <label> n243043462[54.0319079,30.3201648] : n243043462  Купёлы / Kupioly / Купёлы / Купёлы
-r4777593  Рэчкі 1 / Rečki 1 / Речки 1 / Речки 1
-  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet | type=multipolygon
+r4777593  Рэчкі / Rečki / Речки / Речки
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | old_name=Речки 1 | place=village | type=multipolygon
     geometry : <outer> w25088902: n3092204566[54.0272437,30.2377127] n273053814[54.0302313,30.2398534] n273053818[54.0321109,30.2328983] n3076713824[54.0347427,30.2351587] n273053820[54.0351527,30.2348343] n273053762[54.0365234,30.2360246] n273053785[54.0372873,30.2331540] n273053788[54.0360177,30.2285789] n273053790[54.0332409,30.2265864] n273053802[54.0302591,30.2250523] n3076713821[54.0296003,30.2293525] n3092204566[54.0272437,30.2377127] : w25088902
     geometry : <outer> w25088889: n273053611[54.0393400,30.2205600] n273053613[54.0418300,30.2228700] n273053631[54.0431200,30.2203000] n273053632[54.0409800,30.2173800] n273053611[54.0393400,30.2205600] : w25088889
     geometry : <outer> w25088898: n273053713[54.0385441,30.2155885] n273053715[54.0354800,30.2129200] n273053724[54.0345657,30.2121714] n273053727[54.0329898,30.2130763] n273053729[54.0329927,30.2146738] n273053736[54.0371100,30.2181500] n273053738[54.0382720,30.2183359] n273053740[54.0385700,30.2166900] n273053713[54.0385441,30.2155885] : w25088898
     geometry : <outer> w304646061: n3076713817[54.0292791,30.2290305] n3076713820[54.0293557,30.2269650] n3076713818[54.0292538,30.2267616] n3076713816[54.0277320,30.2259057] n3076713814[54.0272292,30.2238932] n273053804[54.0261862,30.2233345] n273053806[54.0247255,30.2302001] n273053808[54.0231148,30.2360039] n3076713810[54.0235574,30.2364374] n1801930544[54.0265919,30.2386705] n3076713817[54.0292791,30.2290305] : w304646061
     geometry : <outer> w304646062: n3076713811[54.0268256,30.2391756] n1801930545[54.0256389,30.2423737] n273053810[54.0266567,30.2430415] n3076713815[54.0273515,30.2394613] n3076713811[54.0268256,30.2391756] : w304646062
-    geometry : <label> n243043456[54.0296675,30.2323286] : n243043456  Рэчкі 1 / Rečki 1 / Речки 1 / Речки 1
+    geometry : <label> n243043456[54.0296675,30.2323286] : n243043456  Рэчкі / Rečki / Речки / Речки
 r4777621  Днепр / Dniepr / Днепр / Днепр
   other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=hamlet | type=multipolygon
     geometry : <outer> w288592771: n2921459730[53.9645023,30.3263056] n2921459725[53.9636946,30.3262912] n2921459724[53.9636897,30.3270819] n2921459729[53.9644975,30.3270963] n2921459730[53.9645023,30.3263056] : w288592771
@@ -1814,3 +1793,18 @@ r5155632  Буйнічы / Bujničy / Буйничи / Буйничи
     geometry : <outer> w25089112: n273056202[53.8413108,30.2547423] n273056204[53.8380271,30.2612058] n273056222[53.8376134,30.2678750] n273056224[53.8458528,30.2709184] n273056226[53.8491119,30.2717399] n273056228[53.8498800,30.2718133] n273056230[53.8517872,30.2722329] n273056232[53.8540251,30.2724790] n273056234[53.8570621,30.2740191] n273056244[53.8584217,30.2711441] n273056246[53.8594151,30.2698774] n273056248[53.8604521,30.2694100] n273056250[53.8608964,30.2670725] n273056252[53.8596346,30.2664125] n1938248531[53.8603679,30.2629420] n273056274[53.8615982,30.2580078] n273056277[53.8567891,30.2555725] n273056279[53.8494015,30.2525103] n273056290[53.8492495,30.2534208] n273056292[53.8439708,30.2509197] n273056202[53.8413108,30.2547423] : w25089112
     geometry : <outer> w288712842: n2922644451[53.8698312,30.2460797] n2922644453[53.8724157,30.2484152] n2922644454[53.8727759,30.2475888] n2922644456[53.8755226,30.2502716] n2922644455[53.8745270,30.2533975] n2922644452[53.8702267,30.2494572] n2922644450[53.8691250,30.2525352] n2922644448[53.8677480,30.2513854] n2922644447[53.8660671,30.2545473] n2922644446[53.8646476,30.2528226] n2922644445[53.8637224,30.2547030] n2922644444[53.8633602,30.2589262] n2922644439[53.8596258,30.2568290] n2922644440[53.8604780,30.2508614] n2922644441[53.8607467,30.2498352] n2922644442[53.8624063,30.2439715] n2922644443[53.8626605,30.2430733] n2922644449[53.8690026,30.2483071] n2922644451[53.8698312,30.2460797] : w288712842
     geometry : <label> n243043404[53.8543800,30.2663900] : n243043404  Буйнічы / Bujničy / Буйничи / Буйничи
+r5233042  Палыкавічы / Palykavičy / Полыковичи / Полыковичи
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | landuse=residential | place=village | type=multipolygon
+    geometry : <outer> w25088911: n273053821[54.0062343,30.3562043] n2278358201[54.0063625,30.3564909] n2278358199[54.0064606,30.3571850] n273053823[54.0087241,30.3595992] n273053825[54.0080845,30.3651037] n273053836[54.0022700,30.3655834] n273053838[53.9982626,30.3653982] n273053839[53.9957999,30.3655857] n273053841[53.9949538,30.3669986] n273053843[53.9935738,30.3669086] n273053844[53.9931178,30.3655644] n273053846[53.9833639,30.3652786] n2279250659[53.9822172,30.3663481] n273053848[53.9795039,30.3688786] n2279250478[53.9794915,30.3689075] n2279250463[53.9793221,30.3689997] n273053859[53.9744339,30.3727486] n273053877[53.9744784,30.3748230] n273053893[53.9738646,30.3762858] n2279255623[53.9741341,30.3771594] n273053902[53.9749750,30.3783416] n273053903[53.9751177,30.3799469] n2423746235[53.9752174,30.3802458] n273053904[53.9750439,30.3812386] n2279296960[53.9746468,30.3823614] n273053905[53.9740939,30.3838986] n273053906[53.9729607,30.3861673] n273053907[53.9722040,30.3847586] n273053908[53.9718540,30.3838053] n273053910[53.9717740,30.3823586] n273053912[53.9711984,30.3820156] n273053915[53.9708912,30.3815197] n273053917[53.9704571,30.3815730] n273053919[53.9699262,30.3815052] n2279283446[53.9694204,30.3817932] n2279283443[53.9688521,30.3817568] n273053921[53.9681384,30.3821280] n2279283151[53.9668675,30.3833956] n2279283144[53.9658519,30.3841188] n2411017957[53.9636140,30.3865580] n2279283035[53.9624838,30.3889810] n273053923[53.9607241,30.3928249] n2734440752[53.9585760,30.3966131] n2734440751[53.9559401,30.4022497] n2734440748[53.9510670,30.4098181] n2734440746[53.9490118,30.4129080] n2734440745[53.9473309,30.4145438] n2734440744[53.9461466,30.4120252] n2734440747[53.9496689,30.4095974] n2734440749[53.9530534,30.4040019] n2734440750[53.9557637,30.3983912] n2279282942[53.9580671,30.3925280] n273053925[53.9619456,30.3856781] n273053927[53.9626903,30.3845261] n273053929[53.9628926,30.3837424] n273053931[53.9634960,30.3826410] n273053933[53.9637531,30.3824419] n273053934[53.9640494,30.3823154] n273053935[53.9642696,30.3820025] n273053937[53.9652989,30.3804653] n273053938[53.9661451,30.3789779] n273053940[53.9674165,30.3768694] n273053942[53.9686496,30.3745525] n273053944[53.9691969,30.3737472] n273053946[53.9700089,30.3716131] n2279255558[53.9704204,30.3711844] n2279255565[53.9707458,30.3717446] n273053948[53.9713192,30.3713025] n2423746200[53.9719947,30.3700251] n273053950[53.9722847,30.3684633] n273053952[53.9723242,30.3663468] n1410258724[53.9732992,30.3638393] n2423746224[53.9737160,30.3637777] n2279250190[53.9746404,30.3622405] n273053953[53.9807962,30.3568048] n273053955[53.9919504,30.3426342] n273053956[53.9944040,30.3424637] n273053957[53.9950186,30.3424787] n273053959[53.9960251,30.3425154] n273053961[53.9957352,30.3484981] n273053963[53.9963026,30.3490739] n273053965[53.9962261,30.3496985] n273053967[53.9963991,30.3545455] n273053969[53.9969219,30.3545385] n273053971[53.9972251,30.3545530] n273053973[53.9973537,30.3545486] n273053975[53.9976137,30.3502586] n273053985[53.9983438,30.3484582] n273053987[54.0010305,30.3411160] n273053989[54.0029635,30.3404247] n273053990[54.0042972,30.3411853] n273053992[54.0049142,30.3477664] n273053993[54.0052800,30.3520564] n273053994[54.0053336,30.3530886] n273053995[54.0061397,30.3560421] n273053821[54.0062343,30.3562043] : w25088911
+    geometry : <outer> w238069011: n2459334063[53.9687117,30.3549162] n2903781649[53.9684928,30.3543654] n2903781647[53.9681238,30.3545042] n2903781640[53.9671731,30.3530270] n2903781639[53.9669611,30.3528998] n2459334058[53.9662241,30.3519447] n2903781632[53.9649775,30.3538297] n2903781630[53.9644450,30.3549586] n2459334055[53.9634427,30.3571889] n2903781622[53.9631282,30.3585109] n2903781627[53.9631970,30.3608882] n2903781623[53.9630413,30.3614972] n2903781615[53.9609467,30.3614695] n2459334054[53.9609388,30.3623882] n2459334056[53.9630613,30.3629293] n2459334057[53.9658735,30.3681634] n2459334061[53.9677323,30.3646362] n2903781643[53.9677757,30.3639974] n3015731451[53.9682155,30.3621857] n2459334062[53.9682629,30.3614589] n3484013257[53.9682004,30.3609376] n3484013254[53.9680440,30.3604319] n3484013248[53.9676862,30.3594029] n2459334059[53.9670341,30.3573759] n2459334060[53.9670481,30.3569800] n2903781642[53.9674509,30.3561024] n2903781644[53.9676741,30.3562146] n2903781648[53.9682409,30.3558447] n2459334063[53.9687117,30.3549162] : w238069011
+    geometry : <label> n243041756[53.9779972,30.3655176] : n243041756  Палыкавічы / Palykavičy / Полыковичи / Полыковичи
+r5233089  Ямніца / Jamnica / Ямница / Ямница
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | place=hamlet | type=multipolygon
+    geometry : <outer> w25096693: n273136186[53.8645816,30.1064581] n273136187[53.8597000,30.1119000] n273136189[53.8590200,30.1106900] n273136190[53.8581500,30.1119800] n273136195[53.8570400,30.1114700] n273136196[53.8564400,30.1125800] n273136198[53.8579000,30.1161000] n273136199[53.8567000,30.1173000] n273136202[53.8564400,30.1159300] n273136203[53.8524266,30.1182475] n273136205[53.8527014,30.1211503] n273136206[53.8571200,30.1199600] n273136208[53.8569600,30.1179900] n273136209[53.8583300,30.1171300] n273136210[53.8589300,30.1177300] n273136217[53.8653600,30.1104400] n273136186[53.8645816,30.1064581] : w25096693
+    geometry : <outer> w188027228: n273136268[53.8528715,30.1648547] n273136269[53.8530727,30.1652940] n273136271[53.8534300,30.1649400] n273136272[53.8542712,30.1632134] n273136284[53.8559773,30.1615655] n273136286[53.8563500,30.1616800] n273136287[53.8568700,30.1630500] n273136292[53.8580700,30.1619300] n273136293[53.8585113,30.1603853] n273136294[53.8580587,30.1564916] n273136296[53.8579155,30.1547696] n273136297[53.8576957,30.1534393] n273136299[53.8574658,30.1516909] n273136305[53.8530770,30.1547988] n2153136065[53.8523996,30.1597635] n273136310[53.8522592,30.1602501] n273136312[53.8523856,30.1629484] n273136268[53.8528715,30.1648547] : w188027228
+    geometry : <label> n243034775[53.8563404,30.1183056] : n243034775  Ямніца / Jamnica / Ямница / Ямница
+r5233128  Цішоўка / Cišoŭka / Тишовка / Тишовка
+  other tags : addr:country=BY | addr:district=Могилёвский район | addr:region=Могилёвская область | alt_name:be=Цішоўкі | place=village | type=multipolygon
+    geometry : <outer> w25089059: n273055342[53.8871591,30.2351378] n273055343[53.8853176,30.2297101] n273055345[53.8845362,30.2302517] n273055347[53.8831020,30.2325672] n2914611916[53.8842223,30.2344020] n2914611917[53.8846888,30.2343650] n2914617892[53.8851438,30.2392065] n2914611922[53.8858091,30.2413778] n2914611923[53.8857481,30.2438522] n2914611915[53.8841353,30.2401268] n2914611914[53.8829494,30.2382035] n2914611913[53.8805802,30.2428121] n273055359[53.8858513,30.2508083] n2914611921[53.8849674,30.2528987] n2914611919[53.8852349,30.2542170] n2914611918[53.8849975,30.2550970] n2914611925[53.8853218,30.2566653] n2914611927[53.8854883,30.2583243] n273055360[53.8860961,30.2605516] n2914611948[53.8873829,30.2625693] n273055364[53.8926172,30.2671973] n273055368[53.8931357,30.2654362] n2914611955[53.8936951,30.2643706] n3523478134[53.8940620,30.2645589] n273055370[53.8946359,30.2626396] n2914611963[53.8947636,30.2627037] n2914611964[53.8949984,30.2619456] n2914611962[53.8934795,30.2600316] n2914611958[53.8928600,30.2581410] n2914611951[53.8919332,30.2564052] n2914611954[53.8925239,30.2556229] n2914611965[53.8949010,30.2601213] n2914611966[53.8952563,30.2620282] n273055372[53.8967783,30.2644268] n3523478167[53.8969196,30.2642148] n273055374[53.8975860,30.2645881] n273055398[53.8996525,30.2608888] n273055400[53.8998702,30.2591143] n3523478146[53.8961801,30.2507142] n2914611956[53.8937415,30.2458765] n273055406[53.8929804,30.2442197] n273055408[53.8924544,30.2438065] n2914611950[53.8913750,30.2449727] n273055409[53.8908068,30.2442471] n2914611949[53.8896394,30.2462168] n273055411[53.8887799,30.2436796] n273055415[53.8876369,30.2417502] n273055342[53.8871591,30.2351378] : w25089059
+    geometry : <outer> w25089108: n273056165[53.8563743,30.2160746] n273056167[53.8554387,30.2180081] n273056171[53.8589300,30.2234800] n273056173[53.8615000,30.2273400] n273056175[53.8632452,30.2297801] n273056177[53.8639714,30.2224531] n2914606032[53.8634490,30.2213749] n2914606031[53.8621912,30.2236038] n273056165[53.8563743,30.2160746] : w25089108
+    geometry : <label> n243043419[53.8869247,30.2481559] : n243043419  Цішоўка / Cišoŭka / Тишовка / Тишовка
