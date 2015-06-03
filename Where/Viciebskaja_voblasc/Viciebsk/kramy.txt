@@ -3400,7 +3400,7 @@ n3534195266  null / null / Ремонт компьютеров
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00 | phone=+375-29-5676647, +375-29-820-66-46, +375-212-550899 | shop=computer
     geometry : [55.1763013,30.2470154]
 n3544623218  null / null / Бисквит
-  other tags : shop=confectionery
+  other tags : opening_hours=Mo-Su 09:00-20:00 | shop=confectionery
     geometry : [55.1811530,30.2137123]
 n3547588304  null / null / OranJet
   other tags : shop=travel_agency
@@ -3411,3 +3411,6 @@ n3548728990
 n3553504293  null / null / Контур
   other tags : shop=travel_agency
     geometry : [55.1762547,30.2002003]
+n3566972608  null / null / Optima
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-18:00 | operator=ООО «Промтраст энд ко» | shop=cosmetics
+    geometry : [55.1937716,30.2312381]

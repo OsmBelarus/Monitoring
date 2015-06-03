@@ -10720,8 +10720,8 @@ n3158018925
   other tags : railway=crossing
     geometry : [55.2211619,30.2531950]
 n3158161290
-  other tags : amenity=waste_basket
-    geometry : [55.1821309,30.2316759]
+  other tags : amenity=waste_disposal
+    geometry : [55.1821280,30.2316455]
 n3166118864
   other tags : tourism=viewpoint
     geometry : [55.1944991,30.2011970]
@@ -14187,8 +14187,8 @@ w109932365  Віцебскі абласны клінічны спецыяліз�
   other names: name:en=The Vitebsk Regional Clinical specialized center
   other tags : amenity=hospital | email=boln_priemn@vitebsk.by | healthcare:speciality=surgery | official_name=УЗ «Витебский областной клинический специализированный центр» | phone=+375(212) 37-31-66, +375(212) 37-82-47, +375(212) 37-83-37 | source=Some traces, KSsat, hospital plan | website=http://www.vvokb.vitebsk.by/
     geometry : n1806945880[55.1925091,30.1744015] n1806945882[55.1925496,30.1754185] n2587250573[55.1925503,30.1754416] n1806945886[55.1925515,30.1754792] n1812125893[55.1926431,30.1765007] n1812125894[55.1926748,30.1764995] n1812125895[55.1926756,30.1765634] n2517568732[55.1926804,30.1766900] n1257246666[55.1926835,30.1767740] n1806945833[55.1923370,30.1767787] n1806945558[55.1921317,30.1768020] n2505283821[55.1921278,30.1769942] n2517568720[55.1917375,30.1768332] n1257246677[55.1915517,30.1767627] n1806945026[55.1914797,30.1767237] n2517568717[55.1913000,30.1765738] n1806944762[55.1910593,30.1763729] n1257246695[55.1912335,30.1742150] n1806944990[55.1914386,30.1742594] n1806945074[55.1915456,30.1743901] n1806945540[55.1919274,30.1744359] n1806945880[55.1925091,30.1744015]
-w110532842  null / null / ТП-256
-  other tags : building:levels=1 | power=substation
+w110532842  ТП-256 / null / ТП-256 / ТП-256
+  other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
     geometry : n1262064371[55.1826833,30.2320803] n1262064448[55.1826688,30.2322009] n1262064423[55.1827202,30.2322198] n1262064413[55.1827347,30.2320992] n1262064371[55.1826833,30.2320803]
 w110532847  ТП-252 / null / ТП-252 / ТП-252
   other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
@@ -14878,8 +14878,8 @@ w134107267  null / null / ТП-603
 w134727268  ТП / null / ТП
   other tags : building=industrial | building:levels=1 | power=substation
     geometry : n1480898803[55.1621468,30.2112413] n1480898800[55.1620794,30.2113270] n1480898801[55.1621060,30.2113913] n1480898804[55.1621734,30.2113056] n1480898803[55.1621468,30.2112413]
-w134768085  null / null / ТП-137
-  other tags : building=industrial | building:levels=1 | power=substation
+w134768085  ТП-137 / null / ТП-137 / ТП-137
+  other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
     geometry : n1481224126[55.1931439,30.2323369] n1481224132[55.1931519,30.2324340] n1481224122[55.1931118,30.2324441] n1481224119[55.1931038,30.2323470] n1481224126[55.1931439,30.2323369]
 w134993033  null / null / ТП-669
   other tags : building=industrial | building:levels=1 | power=substation
