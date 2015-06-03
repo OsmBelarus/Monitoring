@@ -4332,7 +4332,7 @@ n2362456586
 n2362495790  null / null / памятник витебскому трамваю
   other tags : historic=memorial
     geometry : [55.1918459,30.2213440]
-n2362586565  null / null / травмпункт
+n2362586565  null / null / Травмопункт
   other tags : amenity=doctors | emergency=yes | healthcare:speciality=trauma | opening_hours=24/7
     geometry : [55.1938398,30.2424148]
 n2362586572
@@ -12116,6 +12116,9 @@ n3556424611
 n3561846211
   other tags : amenity=post_box | collection_times=Mo-Fr 14:06; Sa 11:55
     geometry : [55.1907679,30.2496018]
+n3566527693  null / null / Травмопункт детский
+  other tags : amenity=doctors | emergency=yes | healthcare:speciality=trauma | opening_hours=24/7
+    geometry : [55.1847989,30.2091951]
 w8384407
   other tags : note=аэродром разобран
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
