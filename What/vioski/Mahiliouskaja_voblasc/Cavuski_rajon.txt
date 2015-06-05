@@ -8,7 +8,7 @@ n243042472  Слабада / Slabada / Слобода / Слобода
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Слобода (Чаусский район)
     geometry : [53.8708724,30.6022596]
 n243042474  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Горбовичский сельский Совет | place=hamlet | wikipedia=ru:Новосёлки (Горбовичский сельсовет)
     geometry : [53.9046800,30.6505700]
 n243042477  Малыя Амхінічы / Malyja Amchiničy / Малые Амхиничи / Малые Амхиничи
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Малые Амхиничи
@@ -29,10 +29,10 @@ n243042492  Хацетава / Chacietava / Хотетово / Хотетово
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Хотетово (Могилёвская область)
     geometry : [53.7781600,30.6940800]
 n243042494  Вялікія Амхінічы / Vialikija Amchiničy / Большие Амхиничи / Большие Амхиничи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Бальшыя Амхінічы | alt_name:ru=Великие Амхиничи | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Бальшыя Амхінічы | alt_name:ru=Великие Амхиничи | place=hamlet | wikipedia=ru:Большие Амхиничи
     geometry : [53.8533076,30.6618823]
 n243042495  Антонаўка / Antonaŭka / Антоновка / Антоновка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Горбовичский сельский Совет | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Горбовичский сельский Совет | place=hamlet | wikipedia=ru:Антоновка (Горбовичский сельсовет)
     geometry : [53.8144700,30.6391500]
 n243042499  Малы Гразівец / Maly Hraziviec / Малый Грязивец / Малый Грязивец
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Гразівец | place=hamlet | wikipedia=ru:Малый Грязивец
@@ -87,7 +87,8 @@ n243044704  Пырцы / Pyrcy / Пырцы / Пырцы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Пырцы
     geometry : [53.8966900,31.0807500]
 n243044705  Сялец / Sialiec / Селец / Селец
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Селец (посёлок, Чаусский район)
     geometry : [53.9264332,31.0768589]
 n243044707  Вярбоўка / Viarboŭka / Вербовка / Вербовка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Вербаўка | place=hamlet | wikipedia=ru:Вербовка (Могилёвская область)
@@ -96,7 +97,7 @@ n243044708  Кроткі / Krotki / Кротки / Кротки
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Кротки
     geometry : [53.8979800,31.2258100]
 n243044733  Петухоўка / Pietuchoŭka / Петуховка / Петуховка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Осиновский сельский Совет | place=hamlet
     geometry : [53.7352400,31.0961200]
 n243044735  Рымінка / Ryminka / Риминка / Риминка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Малая Рымінка;Пералясянка | place=hamlet | wikipedia=ru:Риминка
@@ -114,10 +115,10 @@ n243044766  Галачоўка / Halačoŭka / Голочёвка / Голочё
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Голочевка (Чаусский район)
     geometry : [53.7470900,31.0688200]
 n243044770  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Осиновский сельский Совет | place=hamlet
     geometry : [53.8151500,31.1377400]
 n243044772  Старасёлы / Starasioly / Старосёлы / Старосёлы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Радомльский сельский Совет | place=hamlet
     geometry : [53.8160100,31.0817800]
 n243044774  Прылессе / Pryliessie / Прилесье / Прилесье
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Прилесье (Могилёвская область)
@@ -130,7 +131,7 @@ n243044778  Зялёны Прудок / Zialiony Prudok / Зелёный Пру�
     geometry : [53.7770278,31.0830209]
 n243044780  Новааляксандраўка / Novaaliaksandraŭka / Ново-Александровка / Ново-Александровка
   other names: name:uk=Новоолександрівка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Новоалександровка | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Новоалександровка | place=hamlet | wikipedia=ru:Ново-Александровка (Могилёвская область)
     geometry : [53.7865263,31.1220608]
 n243044787  Прылёпаўка / Pryliopaŭka / Прилёповка / Прилёповка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Прилёповка (Чаусский район)
@@ -166,16 +167,16 @@ n243045701  Грабалава / Hrabalava / Граболово / Граболо
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Граболово
     geometry : [53.8783300,31.2758500]
 n243045876  Гатная Слабодка / Hatnaja Slabodka / Гатная Слободка / Гатная Слободка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Гатная Слабада | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Гатная Слабада | place=hamlet | wikipedia=ru:Гатная Слободка
     geometry : [53.9006400,30.8468600]
 n243045878  Цемравічы / Ciemravičy / Темровичи / Темровичи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Темровичи
     geometry : [53.8997800,30.8683200]
 n243045879  Бракава Слабада / Brakava Slabada / Бракова Слобода / Бракова Слобода
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бракова Слобода
     geometry : [53.9354000,30.8636900]
 n243045881  Бардзілы / Bardzily / Бардилы / Бардилы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бардилы
     geometry : [53.9435600,30.8523600]
 n243045882  Прыданцы / Prydancy / Приданцы / Приданцы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Приданцы
@@ -184,16 +185,16 @@ n243045883  Дуброўка / Dubroŭka / Дубровка / Дубровка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Дубраўка | place=hamlet | wikipedia=ru:Дубровка (Чаусский район)
     geometry : [53.9243555,30.7631038]
 n243045885  Хонькавічы / Chońkavičy / Хоньковичи / Хоньковичи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Хоньковичи
     geometry : [53.9837320,30.8461294]
 n243045887  Хількавічы / Chiĺkavičy / Хильковичи / Хильковичи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Хильковичи (Чаусский район)
     geometry : [53.9739518,30.8107771]
 n243045888  Забока / Zaboka / Забока / Забока
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Забока
     geometry : [53.8812400,30.8647200]
 n243045891  Варварына / Varvaryna / Варварино / Варварино
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Варварино (Могилёвская область)
     geometry : [53.9489722,30.8453263]
 n243045892  Машок / Mašok / Мошок / Мошок
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Мошок (Чаусский район)
@@ -244,7 +245,7 @@ n243045908  Вусце / Vuscie / Устье / Устье
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Устье (Чаусский район)
     geometry : [53.7190200,30.8077200]
 n243045909  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Войниловский сельский Совет | place=hamlet | wikipedia=ru:Новосёлки (Войниловский сельсовет)
     geometry : [53.7364500,30.7912500]
 n243045910  Галавенчыцы / Halavienčycy / Головенчицы / Головенчицы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Головенчицы (Могилёвская область)
@@ -266,7 +267,7 @@ n243045915  Астравы / Astravy / Островы / Островы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Островы (Чаусский район)
     geometry : [53.6997100,30.7115100]
 n243045916  Новавасільеўск / Novavasiĺjeŭsk / Ново-Васильевск / Ново-Васильевск
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Нововасильевск | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Нововасильевск | place=hamlet | wikipedia=ru:Ново-Васильевск
     geometry : [53.7725800,30.7173500]
 n243045917  Гарбавічы / Harbavičy / Горбовичи / Горбовичи
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Горбовичи (Могилёвская область)
@@ -279,7 +280,7 @@ n243045919  Залессе / Zaliessie / Залесье / Залесье
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Залесье (Чаусский район)
     geometry : [53.7588500,30.8629100]
 n243045920  Лужок / Lužok / Лужок / Лужок
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Лужок (Могилёвская область)
     geometry : [53.7469200,30.7121100]
 n243045921  Любавіна / Liubavina / Любавино / Любавино
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Войниловский сельский Совет | place=hamlet | wikipedia=ru:Любавино
@@ -316,22 +317,22 @@ n243045939  Чарэнкі / Čarenki / Черенки / Черенки
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Чаранкі | place=hamlet | wikipedia=ru:Черенки (Могилёвская область)
     geometry : [53.6197200,30.7589700]
 n243045990  Глініцкі / Hlinicki / Глиницкий / Глиницкий
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Глиницкий (Могилёвская область)
     geometry : [53.9743700,30.7792300]
 n243045991  Сласцёны / Slasciony / Сластёны / Сластёны
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Сластёны (Чаусский район)
     geometry : [53.9841874,30.8008950]
 n243045996  Папоўцы / Papoŭcy / Поповцы / Поповцы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Поповцы (Чаусский район)
     geometry : [53.9575500,30.8676300]
 n243045997  Селішча / Sielišča / Селище / Селище
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Селище (Чаусский район)
     geometry : [53.9988300,30.7993100]
 n243045999  Кіркоры / Kirkory / Киркоры / Киркоры
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Киркоры
     geometry : [53.9987500,30.7694400]
 n243046003  Старасёлы / Starasioly / Старосёлы / Старосёлы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Каменский сельский Совет | place=village
     geometry : [53.9503647,30.8736952]
 n243046428  Галачэва / Halačeva / Голочево / Голочево
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Галачова;Галачэў | place=hamlet | wikipedia=ru:Голочево (Чаусский район)
@@ -359,7 +360,7 @@ n243046435  Забалацце / Zabalaccie / Заболотье / Заболо�
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.8352400,30.9302900]
 n243046437  Цімохаўка / Cimochaŭka / Тимоховка / Тимоховка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Тимоховка (Чаусский район)
     geometry : [53.8621100,30.9139000]
 n243046438  Дубаснік / Dubasnik / Дубасник / Дубасник
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Дубасник
@@ -369,16 +370,16 @@ n243046439  null / null / Красная Заря / Красная Заря
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
     geometry : [53.8503791,30.9982499]
 n243046440  Рошча / Rošča / Роща / Роща
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Роща (Могилёвская область)
     geometry : [53.8671700,30.9876300]
 n243046441  Гіраўцы / Hiraŭcy / Гиревцы / Гиревцы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Гиревцы
     geometry : [53.9263100,31.0093400]
 n243046442  Бардзінічы / Bardziničy / Бординичи / Бординичи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Бординичи
     geometry : [53.8615559,30.9707124]
 n243046443  Надзежда / Nadziežda / Надежда / Надежда
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Надзея | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Надзея | place=hamlet | wikipedia=ru:Надежда (Могилёвская область)
     geometry : [53.8652800,30.9326900]
 n243046446  Зарэчча / Zarečča / Заречье / Заречье
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Заречье (Чаусский район)
@@ -409,7 +410,7 @@ n243046455  Антонаўка / Antonaŭka / Антоновка / Антоно�
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village | wikipedia=ru:Антоновка (Антоновский сельсовет, Могилёвская область)
     geometry : [53.7472179,30.8929197]
 n243046457  Новаягораўка / Novajahoraŭka / Ново-Егоровка / Ново-Егоровка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Новоегоровка | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:ru=Новоегоровка | place=hamlet | wikipedia=ru:Ново-Егоровка
     geometry : [53.7266600,30.9853100]
 n243046458  Лапені / Lapieni / Лапени / Лапени
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Лапени
@@ -418,20 +419,21 @@ n243046459  Загоранка / Zahoranka / Загоренка / Загорен
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Загоренка (Чаусский район)
     geometry : [53.7546500,30.9663400]
 n243046460  Макрадка / Makradka / Мокрядка / Мокрядка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Мокрядка
     geometry : [53.9552300,30.9163900]
 n243046461  Пілешчына / Pilieščyna / Пилещино / Пилещино
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Пілешчана | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Пілешчана | place=hamlet | wikipedia=ru:Пилещино
     geometry : [53.9597800,30.9114900]
 n243046462  Александроўка / Alieksandroŭka / Александровка / Александровка
   other names: name:uk=Олександрівка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Аляксандраўка | place=hamlet | wikipedia=ru:Александровка (Чаусский район)
     geometry : [53.9551500,31.0320900]
 n243046465  Радучы / Radučy / Радучи / Радучи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Радучи (посёлок)
     geometry : [53.9713007,31.0124650]
 n243046470  Каралёўка / Karalioŭka / Королёвка / Королёвка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Королёвка (Могилёвская область)
     geometry : [53.9769400,30.9355300]
 n243046476  Радамля / Radamlia / Радомля / Радомля
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Радомль;Радомля | place=village | wikipedia=ru:Радомля (Могилёвская область)
@@ -443,44 +445,45 @@ n243046478  Калясянка / Kaliasianka / Колесянка / Колеся
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Калесенка | place=hamlet | wikipedia=ru:Колесянка
     geometry : [53.9486200,31.0560300]
 n243046479  Будзіна / Budzina / Будино / Будино
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=посёлок
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Будино (посёлок, Могилёвская область)
     geometry : [53.9820638,31.0562234]
 n243046482  Слабодка / Slabodka / Слободка / Слободка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Слабодаўка | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Слабодаўка | place=hamlet | wikipedia=ru:Слободка (Чаусский район)
     geometry : [53.8869900,31.0096000]
 n243046488  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | addr:subdistrict=Каменский сельский Совет | place=village | wikipedia=ru:Каменка (Каменский сельсовет, Чаусский район)
     geometry : [53.8788411,30.9143335]
 n243046489  Рагозінка / Rahozinka / Рагозинка / Рагозинка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Рагозіна;Разінка | alt_name:ru=Рогозинка | place=hamlet | wikipedia=ru:Рагозинка (Могилёвская область)
     geometry : [53.9457000,30.9308900]
 n243046490  Аўхімкі / Aŭchimki / Авхимки / Авхимки
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Аўхімы | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Аўхімы | place=hamlet | wikipedia=ru:Авхимки
     geometry : [53.9063900,30.9200800]
 n243046491  Гарадзец / Haradziec / Городец / Городец
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Горадзец | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Горадзец | place=hamlet | wikipedia=ru:Городец (Чаусский район)
     geometry : [53.9088506,30.9812541]
 n243046492  Чарнаўцы / Čarnaŭcy / Чернавцы / Чернавцы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Чарноўцы | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Чарноўцы | place=hamlet | wikipedia=ru:Чернавцы
     geometry : [53.9297400,30.9566400]
 n243046493  Зашляшша / Zašliašša / Зашляшье / Зашляшье
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Зашляшье
     geometry : [53.9186700,30.9014500]
 n243046494  Зара Аўхімкаўская / Zara Aŭchimkaŭskaja / Заря Авхимковская / Заря Авхимковская
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Зара | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Зара | place=hamlet | wikipedia=ru:Заря Авхимковская
     geometry : [53.8854670,30.8904386]
 n243046495  Сушчы / Suščy / Сущи / Сущи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Сущи
     geometry : [53.8893421,30.9808721]
 n243046496  Глінішча / Hlinišča / Глинище / Глинище
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Глинище (Могилёвская область)
     geometry : [53.8956660,30.9616457]
 n243046497  Русінаўка / Rusinaŭka / Русиновка / Русиновка
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Русиновка (Могилёвская область)
     geometry : [53.8598700,31.0338000]
 n243046498  Паўлаўка / Paŭlaŭka / Павловка / Павловка
   other names: name:uk=Павлівка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Павловка (Чаусский район)
     geometry : [53.9405500,30.8908100]
 n243046499  Жаліўе / Žaliŭje / Желивье / Желивье
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Желивье
@@ -510,7 +513,7 @@ n243046687  Цёплае / Cioplaje / Тёплое / Тёплое
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Тёплое (Могилёвская область)
     geometry : [53.6295000,30.9114900]
 n243046688  Дужаўка / Dužaŭka / Дужевка / Дужевка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Дужаўшчына | place=hamlet | wikipedia=ru:Дужевка (Чаусский район)
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Дужаўшчына | place=village | wikipedia=ru:Дужевка (Чаусский район)
     geometry : [53.6558500,30.9290000]
 n2098648231  Забава / Zabava / Забава / Забава
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Забава (Могилёвская область)
@@ -525,13 +528,16 @@ n2921317450  Прыазёрная / Pryaziornaja / Приозёрная / При
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Приозерная (Могилёвская область)
     geometry : [53.8434421,30.7012322]
 n2921401159  Будзіна / Budzina / Будино / Будино
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Будино (деревня, Могилёвская область)
     geometry : [53.9936166,31.0594878]
 n2921403521  Радучы / Radučy / Радучи / Радучи
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Радучи (деревня)
     geometry : [53.9630090,31.0222869]
 n2921409657  Сялец / Sialiec / Селец / Селец
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other names: name:prefix=деревня
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet | wikipedia=ru:Селец (деревня, Чаусский район)
     geometry : [53.9323400,31.0825442]
 w25079658  Грабалава / Hrabalava / Граболово / Граболово
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
@@ -699,7 +705,7 @@ w25081687  Гіраўцы / Hiraŭcy / Гиревцы / Гиревцы
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
     geometry : n272941337[53.9296500,31.0029900] n272941339[53.9268200,31.0030800] n272941341[53.9269100,31.0043600] n272941343[53.9253600,31.0042800] n272941345[53.9253600,31.0054800] n272941347[53.9229600,31.0059900] n272941349[53.9229600,31.0084800] n272941351[53.9221000,31.0084800] n272941353[53.9221000,31.0111400] n272941355[53.9242500,31.0113200] n272941357[53.9247600,31.0188700] n272941359[53.9279400,31.0184400] n272941361[53.9307700,31.0184400] n272941363[53.9308500,31.0176700] n272941365[53.9304300,31.0064200] n272941337[53.9296500,31.0029900]
 w25081691  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village
     geometry : n272941375[53.8729200,30.9049700] n272941377[53.8736900,30.9073700] n272941379[53.8729298,30.9081590] n272941381[53.8736791,30.9111356] n272941392[53.8761418,30.9125762] n272941400[53.8773273,30.9144367] n272941402[53.8743817,30.9185599] n272941410[53.8750595,30.9278288] n272941414[53.8842571,30.9213516] n272941420[53.8850200,30.9163000] n272941422[53.8845900,30.9144100] n272941424[53.8840800,30.9133000] n272941426[53.8829600,30.9148400] n272941428[53.8823600,30.9136400] n272941429[53.8827000,30.9126100] n272941430[53.8821900,30.9118400] n272941431[53.8865700,30.9044600] n272941436[53.8857100,30.9024000] n272941438[53.8851900,30.9016200] n272941440[53.8808100,30.9085800] n1202098326[53.8792329,30.9108651] n2307999563[53.8789927,30.9093354] n1202098386[53.8791950,30.9083824] n272941455[53.8796548,30.9064702] n2307806633[53.8799219,30.9056744] n272941457[53.8801396,30.9047286] n272941459[53.8803000,30.9036800] n2307806637[53.8799826,30.9028447] n272941468[53.8786700,30.8993900] n272941469[53.8762700,30.9018000] n272941470[53.8760236,30.9018906] n272941471[53.8754916,30.9020320] n272941473[53.8750600,30.9033400] n272941375[53.8729200,30.9049700]
 w25081692  Рошча / Rošča / Роща / Роща
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
@@ -789,10 +795,10 @@ w25081765  Вужжар / Vužžar / Ужжарь / Ужжарь
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Вужар | place=hamlet
     geometry : n272943118[53.6643500,30.9454800] n272943121[53.6650400,30.9469400] n272943123[53.6652100,30.9487400] n272943125[53.6688100,30.9461700] n272943126[53.6695000,30.9459100] n272943129[53.6707900,30.9431700] n272943131[53.6724200,30.9399000] n272943133[53.6723300,30.9381000] n272943135[53.6743100,30.9366400] n272943137[53.6735300,30.9351800] n272943139[53.6723300,30.9365600] n272943140[53.6710400,30.9364700] n272943145[53.6662925,30.9428648] n272943118[53.6643500,30.9454800]
 w25081771  Дужаўка / Dužaŭka / Дужевка / Дужевка
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Дужаўшчына | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | alt_name:be=Дужаўшчына | place=village
     geometry : n272943235[53.6487111,30.9296147] n272943237[53.6478413,30.9342627] n272943238[53.6477249,30.9385699] n272943239[53.6516902,30.9380887] n272943240[53.6542602,30.9389376] n272943241[53.6589400,30.9393900] n2268142631[53.6596213,30.9381838] n272943242[53.6594600,30.9370700] n272943243[53.6600600,30.9376700] n272943244[53.6606600,30.9357800] n272943245[53.6571400,30.9335500] n272943246[53.6574000,30.9310600] n272943257[53.6599700,30.9303800] n272943258[53.6610000,30.9302900] n272943259[53.6610900,30.9283200] n272943260[53.6624600,30.9275400] n272943265[53.6615200,30.9247100] n272943267[53.6605700,30.9254800] n272943269[53.6595400,30.9223900] n272943271[53.6580000,30.9238500] n272943273[53.6578300,30.9233400] n272943275[53.6561100,30.9254000] n2271540054[53.6551161,30.9234211] n272943277[53.6549900,30.9231700] n272943279[53.6552500,30.9205900] n272943281[53.6541400,30.9203300] n272943283[53.6528500,30.9202500] n272943284[53.6507551,30.9208687] n272943235[53.6487111,30.9296147]
 w25082893  Старасёлы / Starasioly / Старосёлы / Старосёлы
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village
     geometry : n272961480[53.9496500,30.8715800] n272961482[53.9493100,30.8754500] n272961484[53.9506800,30.8761300] n272961486[53.9513700,30.8724400] n272961488[53.9523100,30.8707200] n272961490[53.9517100,30.8696900] n272961492[53.9511100,30.8701200] n272961494[53.9511900,30.8709000] n272961496[53.9508500,30.8723600] n272961480[53.9496500,30.8715800]
 w25082894  Хонькавічы / Chońkavičy / Хоньковичи / Хоньковичи
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
@@ -807,7 +813,7 @@ w25082903  Глініцкі / Hlinicki / Глиницкий / Глиницкий
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
     geometry : n272961682[53.9739400,30.7764800] n272961684[53.9732500,30.7783700] n272961686[53.9724000,30.7779400] n272961688[53.9723100,30.7797400] n272961690[53.9768600,30.7831800] n272961692[53.9777200,30.7794900] n272961682[53.9739400,30.7764800]
 w25082904  Сласцёны / Slasciony / Сластёны / Сластёны
-  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=village
     geometry : n272961697[53.9840858,30.7957408] n272961701[53.9833240,30.7990556] n272961703[53.9814900,30.8009400] n272961705[53.9808100,30.8034300] n272961707[53.9827800,30.8053200] n272961717[53.9851800,30.8055800] n272961719[53.9860400,30.8048100] n272961721[53.9857000,30.8020600] n272961723[53.9857000,30.7971700] n272961697[53.9840858,30.7957408]
 w25082907  Хількавічы / Chiĺkavičy / Хильковичи / Хильковичи
   other tags : addr:country=BY | addr:district=Чаусский район | addr:region=Могилёвская область | place=hamlet
