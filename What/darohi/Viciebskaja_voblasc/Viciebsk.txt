@@ -8310,8 +8310,8 @@ w89834797  праспект Перамогі / praspiekt Pieramohi / просп�
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n935321597[55.1584091,30.2181510] n935321581[55.1588362,30.2189431] n935321575[55.1591070,30.2193759] n935321593[55.1594800,30.2198558] n935321587[55.1598917,30.2203346] n1432170440[55.1602677,30.2207037]
 w89834799  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes
-    geometry : n730756224[55.1585866,30.2178674] n310312142[55.1583432,30.2173123]
+  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left|left|through|right
+    geometry : n730756224[55.1585866,30.2178674] n310312142[55.1583432,30.2173123] n2739451833[55.1573839,30.2149678] n1114772213[55.1572960,30.2147292]
 w89916203
   other tags : highway=unclassified | surface=unpaved
     geometry : n429625967[55.2264389,30.2040286] n429625993[55.2270111,30.2038795] n429625966[55.2277353,30.2035673] n429625996[55.2280018,30.2034181] n429625965[55.2282270,30.2032997] n429625964[55.2285405,30.2030549] n429625963[55.2290231,30.2026165] n429625962[55.2292337,30.2020392] n429625960[55.2293789,30.2014618] n429625959[55.2296510,30.2005553] n520640611[55.2301731,30.1990696] n429625958[55.2307865,30.1969094] n429625954[55.2310411,30.1960390]
@@ -11451,8 +11451,8 @@ w130128376  вуліца Воінаў-Інтэрнацыяналістаў / vul
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | surface=asphalt
     geometry : n1434243545[55.1633921,30.2103527] n330033841[55.1631010,30.2128512] n336362341[55.1629537,30.2139097] n456920980[55.1628288,30.2148531] n1159460150[55.1626960,30.2157642] n310308430[55.1624127,30.2175971]
 w130128378  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes
-    geometry : n310312069[55.1598425,30.2116310] n341308325[55.1599248,30.2115339] n711772199[55.1604965,30.2108661]
+  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left;through|through
+    geometry : n310312069[55.1598425,30.2116310] n341308325[55.1599248,30.2115339] n711772199[55.1604965,30.2108661] n1846459504[55.1612377,30.2099742] n310308413[55.1613724,30.2098581]
 w130141203  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other names: name:de=uliza Woynow-Internazionalistow (Krieger-Internationalisten Straße) | name:fr=oulitsa Voynov-Internationalistov (rue des Guerriers internationalistes)
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
@@ -17516,7 +17516,7 @@ w257982070
   other tags : highway=footway
     geometry : n737871986[55.1589595,30.2105935] n2634198258[55.1590766,30.2104676] n2634198262[55.1591425,30.2105186] n1818510376[55.1593139,30.2102967]
 w258081718  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
-  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
+  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left;through|through|through|right
     geometry : n336362383[55.1631913,30.2140103] n1957282918[55.1631971,30.2139641] n310312129[55.1633823,30.2124991]
 w258081723  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left|left|right
@@ -25029,12 +25029,6 @@ w339370032  праспект Перамогі / praspiekt Pieramohi / просп
   other names: name:de=prospect Pobiedy (Sieges Avenue) | name:fr=prospect Pobiedy (avenue de la Victoire)
   other tags : highway=tertiary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left|through|through|right
     geometry : n1289835420[55.1563152,30.2130247] n2739451800[55.1569122,30.2145826] n418707607[55.1569961,30.2148041]
-w339370037  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left|left;through|through|right
-    geometry : n310312142[55.1583432,30.2173123] n2739451833[55.1573839,30.2149678] n1114772213[55.1572960,30.2147292]
-w339370042  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left;through|through
-    geometry : n711772199[55.1604965,30.2108661] n1846459504[55.1612377,30.2099742] n310308413[55.1613724,30.2098581]
 w339370044  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left;through|through|right
     geometry : n310312155[55.1585131,30.2130591] n1964030930[55.1583073,30.2133122] n310311915[55.1575159,30.2142091] n2739451837[55.1573944,30.2143415] n310312060[55.1572169,30.2145421]
@@ -25050,7 +25044,7 @@ w339370061  вуліца Чкалава / vulica Čkalava / улица Чкал�
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | turn:lanes=left;through|through|right
     geometry : n418708287[55.1560587,30.2155114] n418708337[55.1562380,30.2154684] n853437973[55.1564572,30.2153797] n418708503[55.1566757,30.2152795] n853438018[55.1568963,30.2151373] n853437949[55.1570761,30.2150002]
 w339370067  вуліца Чкалава / vulica Čkalava / улица Чкалова / улица Чкалова
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes
+  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | oneway=yes | turn:lanes=left|through|through;right
     geometry : n310308413[55.1613724,30.2098581] n1436749282[55.1615338,30.2097519] n333275450[55.1617920,30.2096160] n310308408[55.1620703,30.2095150] n333276047[55.1623498,30.2094544] n3454953992[55.1625678,30.2094476] n310308451[55.1627029,30.2094740] n314688359[55.1628207,30.2095091] n336352081[55.1633097,30.2097192]
 w339372331  праспект Фрунзэ / praspiekt Frunze / проспект Фрунзе / проспект Фрунзе
   other names: name:de=Prospect Frunse (Frunse Avenue) | name:fr=Prospect Frounze (Avenue de Frounze)
@@ -25085,7 +25079,7 @@ w339418421  вуліца Пятруся Броўкі / vulica Piatrusia Broŭki 
     geometry : n464099651[55.1598052,30.2352150] n310291511[55.1592755,30.2347791] n1974692299[55.1589413,30.2344489] n1792725810[55.1581502,30.2335526] n332308158[55.1579927,30.2333886]
 w339418914  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other names: name:de=uliza Woynow-Internazionalistow (Krieger-Internationalisten Straße) | name:fr=oulitsa Voynov-Internationalistov (rue des Guerriers internationalistes)
-  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
+  other tags : highway=primary | lanes=3 | maxspeed=60 | maxspeed:practical=70 | oneway=yes | turn:lanes=left;through|through|through|right
     geometry : n2924969366[55.1638768,30.2057498] n310309314[55.1638100,30.2062200] n3493730757[55.1637077,30.2071907] n310308371[55.1636646,30.2075998] n1434243546[55.1635189,30.2090842]
 w339421576  вуліца Зяньковай / vulica Ziańkovaj / улица Зеньковой / улица Зеньковой
   other tags : highway=tertiary | lanes=2 | maxspeed=60
