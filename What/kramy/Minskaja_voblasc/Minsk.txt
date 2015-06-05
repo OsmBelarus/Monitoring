@@ -6142,7 +6142,7 @@ n2507700126  null / null / ТехноБай
   other tags : addr:housenumber=29 | addr:postcode=220002 | addr:street=проспект Машерова | opening_hours=Mo-Fr 09:00-18:00 | phone=+375 17 290 74 18 | shop=computer | website=http://www.technoby.com/
     geometry : [53.9167397,27.5563322]
 n2508527532  null / null / Дом фарфора
-  other tags : opening_hours=Mo-Fr 10:00-20:00; Sa,Su 11:00-18:00 | phone=+375 (17) 290 62 00; +375 (44) 540 62 00 | shop=салон_посуды_и предметов интерьера | website=http://www.domfarfora.by/
+  other tags : opening_hours=Mo-Fr 10:00-20:00; Sa,Su 11:00-18:00 | phone=+375 (17) 290 62 00; +375 (44) 540 62 00 | shop=interior_decoration | website=http://www.domfarfora.by/
     geometry : [53.9096726,27.5733490]
 n2508875849  null / null / 585 Ювелирная сеть
   other tags : addr:housenumber=4 | addr:street=улица Веры Хоружей | shop=jewelry
@@ -11185,3 +11185,6 @@ n3570227301  null / null / Евроопт
 n3571662005  null / null / Шиномонтаж Radius
   other tags : shop=car_repair
     geometry : [53.8864245,27.6586761]
+n3571742893  null / null / Fotomix
+  other tags : contact:email=fotomix@shop.by | contact:icq=498485755 | contact:phone=+375(29) 760-22-22, +375(29) 630-22-22, +375(25) 760-00-00 | contact:skype=fotomix.by | contact:website=http://fotomix.by/ | opening_hours=Mo-Su 10:00-20:00 | operator=ИП Чугунов А. А. | shop=photo
+    geometry : [53.9099921,27.5737154]
