@@ -3772,7 +3772,7 @@ n767183443  null / null / 10-я больница
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8381948,27.6528683]
 n767183444  Навінкі / null / Новинки / Новинки
-  other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
+  other tags : bench=yes | bus=yes | covered=yes | generated=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [53.9578400,27.5358877]
 n767183445  Школа / null / Школа №73 / Школа
   other tags : generated=yes | highway=bus_stop
