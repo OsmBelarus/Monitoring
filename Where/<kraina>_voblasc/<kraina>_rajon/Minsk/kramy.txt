@@ -1477,7 +1477,7 @@ n305684498  null / null / Гиппо / Гиппо
   other tags : addr:housenumber=2 | addr:street=проспект Рокоссовского | opening_hours=09:00-23:00 | phone=+375 17 214 21 31 | shop=mall | website=http://gippo.by/ru/shops/1.html
     geometry : [53.8751422,27.5954611]
 n305684595  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.9082211,27.6114174]
 n305684608  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : shop=car
@@ -11255,3 +11255,9 @@ n3575095154
 n3575095215
   other tags : shop=garden_centre
     geometry : [53.9689651,27.5502607]
+n3575465853  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9063603,27.6333694]
+n3575465854  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9076752,27.6116712]

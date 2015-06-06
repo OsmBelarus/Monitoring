@@ -100,9 +100,6 @@ n2101317268  null / null / А-100 АЗС №25
 n2132764518  null / null / АЗС Беларуснефть №19
   other tags : amenity=fuel | brand=Беларуснефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белнефтехим
     geometry : [53.9034864,27.4061830]
-n2168732526  null / null / А-100
-  other tags : amenity=fuel | brand=А-100 | fuel:adblue=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100 | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes
-    geometry : [53.8393094,27.4637016]
 n2324623014  null / null / АГЗС №2
   other tags : amenity=fuel | brand=Мингаз | fuel:lpg=yes | opening_hours=Mo-Su 07:00-23:00 | operator=Мингаз
     geometry : [53.8493126,27.4210870]
@@ -145,6 +142,9 @@ w192132125
 w192146957  null / null / Белоруснефть АЗС № 77
   other tags : amenity=fuel | brand=Белоруснефть | fuel:adblue=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:viacard=yes | payment:visa=yes
     geometry : n2027077294[53.8368494,27.5146983] n2027077295[53.8353401,27.5143135] n2027077288[53.8353798,27.5138952] n2027077291[53.8359512,27.5129512] n2027077296[53.8367624,27.5123585] n2027077293[53.8370322,27.5128224] n2027077294[53.8368494,27.5146983]
+w206825241  А-100 № 24 / A-100 № 24 / А-100 № 24 / А-100 № 24
+  other tags : addr:street=а/д Р1 «Брест-Минск», 9-ый км | amenity=fuel | brand=А-100 | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 509-30-70 | contact:website=http://azs.a-100.by/ | fuel:adblue=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 24 | opening_hours=24/7 | operator=Группа компаний «А-100» | payment:E100=yes | payment:cash=yes | payment:mastercard=yes | payment:visa=yes | ref=24
+    geometry : n3575465855[53.8394758,27.4634953] n2168730820[53.8394889,27.4636899] n3449103767[53.8395332,27.4636813] n2168730828[53.8395543,27.4636772] n2168732526[53.8396063,27.4636672] n3575465856[53.8395932,27.4634726] n3575465855[53.8394758,27.4634953]
 w222374711  А-100 № 18 / A-100 № 18 / А-100 № 18 / А-100 № 18
   other tags : amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 299-62-28 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 18 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=18
     geometry : n2313466299[53.8322451,27.7362085] n2313466283[53.8322154,27.7361672] n3444730228[53.8321195,27.7363654] n2313466274[53.8321041,27.7363973] n2313466296[53.8321993,27.7365297] n3444730229[53.8322160,27.7364952] n3575094392[53.8323107,27.7362996] n2622079961[53.8322840,27.7362626] n3575094377[53.8322598,27.7362290] n2313466299[53.8322451,27.7362085]
@@ -157,9 +157,6 @@ w243021181  null / null / МАЗС №58 Оргнефтехим
 w260185423
   other tags : amenity=fuel
     geometry : n2656691825[53.8451209,27.4153997] n2927544018[53.8453588,27.4154419] n2733659847[53.8453900,27.4150904] n2656691819[53.8458713,27.4141557] n2656691822[53.8455108,27.4133683] n2656691821[53.8454363,27.4133823] n2656691820[53.8452231,27.4139681] n2974512593[53.8451242,27.4148575] n2656691825[53.8451209,27.4153997]
-w269373651
-  other tags : amenity=fuel
-    geometry : n2746017206[53.8397605,27.4627246] n2871168368[53.8398984,27.4631128] n2746017211[53.8399288,27.4639405] n2746017210[53.8396998,27.4646327] n2746017216[53.8394973,27.4646401] n2746017215[53.8385334,27.4641040] n2746017214[53.8387003,27.4630869] n2871175856[53.8396350,27.4629323] n2871175858[53.8396249,27.4627464] n2746017206[53.8397605,27.4627246]
 w302114152  null / null / АЗС
   other tags : amenity=fuel | barrier=fence | building=yes | fence_type=chain_link | operator=Белоруснефть
     geometry : n3063531359[53.9793378,27.5364653] n3063531381[53.9794514,27.5372806] n3063531383[53.9798362,27.5371197] n3063531382[53.9797164,27.5363150] n3063531359[53.9793378,27.5364653]

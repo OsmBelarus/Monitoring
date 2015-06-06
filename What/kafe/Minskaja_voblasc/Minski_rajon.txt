@@ -171,9 +171,9 @@ n3243169115  Кафэ Куб / null / Кафе Куб / Кафе Куб
   other names: name:en=Cube Cafe
   other tags : addr:city=Минск | addr:housenumber=1Б | addr:postcode=223053 | addr:street=Радужная Улица | amenity=cafe | contact:phone=+375 29 175-08-09;+375 29 629-12-41 | cuisine=belarusian;italian;homemade | internet_access=wlan | opening_hours=12:00-02:00 | smoking=isolated
     geometry : [53.9651417,27.6688340]
-n3449103768
-  other tags : amenity=fast_food
-    geometry : [53.8395479,27.4637073]
+n3449103768  null / null / QuickCafe
+  other tags : amenity=fast_food | internet_access=wlan | internet_access:fee=no | opening_hours=24/7 | operator=Группа компаний «А-100»
+    geometry : [53.8395048,27.4636631]
 n3450290413
   other tags : amenity=fast_food
     geometry : [53.8364487,27.5132474]
