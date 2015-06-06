@@ -1275,7 +1275,7 @@ n305682107  СТА "М-Сэрвiс" / null / СТО "М-Сервис" / СТО "
   other tags : service=tyres | shop=car_repair
     geometry : [53.9361651,27.5765354]
 n305682144
-  other tags : service=tyres | shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.9398231,27.5723394]
 n305682153  СТА / null / Сто / Сто
   other tags : shop=car_repair
@@ -1284,7 +1284,7 @@ n305682157  Шынамантаж / null / Шиномонтаж / Шиномон�
   other tags : service=tyres | shop=car
     geometry : [53.9470700,27.5714800]
 n305682161  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : service=tyres | shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.9397048,27.5727697]
 n305682166  СТА / null / Сто / Сто
   other tags : shop=car_repair
@@ -1358,9 +1358,6 @@ n305683180  Тэхагляд / null / Техосмотр / Техосмотр
 n305683183  Тэхагляд / null / Техосмотр / Техосмотр
   other tags : shop=car
     geometry : [53.8753700,27.5889900]
-n305683185  Тэхагляд / null / Техосмотр / Техосмотр
-  other tags : shop=car
-    geometry : [53.8778100,27.5884300]
 n305683233  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : shop=car
     geometry : [53.8904178,27.5822166]
@@ -3085,9 +3082,6 @@ n1024918492  null / null / Свой
 n1029488013  null / null / Центр распечатки "Попади в цвет"
   other tags : shop=copyshop
     geometry : [53.9236574,27.6096209]
-n1038283511
-  other tags : bicycle=yes | foot=yes | horse=yes | motorcar=yes | motorcycle=yes | shop=supermarket
-    geometry : [53.8791821,27.5904770]
 n1040957017
   other tags : shop=clothes
     geometry : [53.8974269,27.5798416]
@@ -5573,9 +5567,6 @@ n2003252757
 n2003377253  null / null / Second Hand
   other tags : shop=clothes
     geometry : [53.8372187,27.5667459]
-n2004077354  null / null / Подкачка колес
-  other tags : shop=tyres
-    geometry : [53.9049882,27.4087612]
 n2024650138
   other tags : shop=chemist
     geometry : [53.9168135,27.5661518]
@@ -5612,9 +5603,9 @@ n2094555212  null / null / Евроопт
 n2094816688
   other tags : shop=convenience
     geometry : [53.9404914,27.6743498]
-n2098797969
-  other tags : shop=convenience
-    geometry : [53.8524410,27.6757920]
+n2098797969  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8523850,27.6758357]
 n2098863450  null / null / Volkswagen
   other tags : shop=car_repair
     geometry : [53.8504306,27.6613931]
@@ -5726,9 +5717,9 @@ n2162389889  null / null / ИнтегралТоргСервис
 n2165056607  null / null / ЧТУП "ВиколаАвто"
   other tags : addr:housenumber=1 | addr:street=Бетонный проезд | shop=car_repair
     geometry : [53.8977652,27.5100871]
-n2165121990
-  other tags : shop=convenience
-    geometry : [53.9009990,27.6613081]
+n2165121990  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9010263,27.6613779]
 n2177765342
   other tags : shop=convenience
     geometry : [53.9586349,27.7390700]
@@ -5739,8 +5730,8 @@ n2186767392  null / null / МиЛеди
   other tags : shop=hairdresser
     geometry : [53.8865543,27.4176531]
 n2193006038  null / null / Подкачка колес
-  other tags : shop=car_repair
-    geometry : [53.9164851,27.4131612]
+  other tags : service:car:pump=yes | shop=car_repair
+    geometry : [53.9169427,27.4133921]
 n2193329385  null / null / Салон Mazda
   other tags : shop=car
     geometry : [53.9082567,27.4545231]
@@ -5840,9 +5831,9 @@ n2332474083
 n2334640819  null / null / Радзивиловский
   other tags : addr:housenumber=36 | addr:street=Нёманская улица | opening_hours=09:00-23:00 | shop=supermarket
     geometry : [53.9127247,27.4273223]
-n2334747168  null / null / Магазин
-  other tags : shop=convenience
-    geometry : [53.9167152,27.4136304]
+n2334747168  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9167139,27.4135986]
 n2334747169  null / null / Cеконд-хэнд
   other tags : addr:street=Каменногорская улица | shop=second_hand
     geometry : [53.9155590,27.4165499]
@@ -6807,9 +6798,6 @@ n2612929730  null / null / 5 Элемент
 n2612929731  null / null / Mile
   other tags : addr:housenumber=188 | addr:street=Долгиновский тракт | shop=doityourself
     geometry : [53.9690855,27.5453651]
-n2612929732  null / null / ALL HOUSE
-  other tags : addr:housenumber=188 | addr:street=Долгиновский тракт | shop=Строительный_гипермаркет
-    geometry : [53.9690988,27.5465253]
 n2612929733  null / null / Родная сторона
   other tags : addr:housenumber=188 | addr:street=Долгиновский тракт | shop=supermarket
     geometry : [53.9690288,27.5436101]
@@ -11144,9 +11132,9 @@ n3529170370  null / null / СТО
   other names: name:en=vehicle service station
   other tags : shop=car_repair
     geometry : [53.9082765,27.4661628]
-n3529941501  null / null / Магазин
-  other tags : shop=convenience
-    geometry : [53.9050058,27.4091039]
+n3529941501  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9049571,27.4090707]
 n3533913564
   other tags : shop=hairdresser
     geometry : [53.8523562,27.4747361]
@@ -11163,7 +11151,7 @@ n3536745633  null / null / ООО "Верона стиль"
   other tags : opening_hours=Mo-Fr 9:00-20:00; Sa 9:00-17:00; Su 10:00-17:00 | shop=hairdresser
     geometry : [53.9046133,27.5579443]
 n3538143924  null / null / Шиномонтаж
-  other tags : shop=car_repair
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8798764,27.5966089]
 n3538143929  null / null / СТО
   other tags : shop=car_repair
@@ -11243,3 +11231,27 @@ n3573708193  null / null / А-store
 n3574657205  null / null / А-store
   other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
     geometry : [53.8907439,27.6461828]
+n3575094384  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8379298,27.5143389]
+n3575094385  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8789335,27.5869356]
+n3575094386  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9363929,27.5799403]
+n3575094387  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9690547,27.5502976]
+n3575094389  null / null / Минимаркет / Минимаркет
+  other tags : opening_hours=Mo-Su 08:00-23:00 | operator=СООО «Юнайтед Компани» | shop=convenience
+    geometry : [53.8784289,27.5884647]
+n3575095103
+  other tags : shop=ticket
+    geometry : [53.8524080,27.6758702]
+n3575095154
+  other tags : shop=ticket
+    geometry : [53.9050132,27.4091526]
+n3575095215
+  other tags : shop=garden_centre
+    geometry : [53.9689651,27.5502607]

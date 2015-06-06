@@ -775,9 +775,9 @@ n2591547852  null / null / СТО Восторг
 n2621296722  null / null / СТО "ШАТЕ-М"
   other tags : shop=car_repair
     geometry : [53.8021788,27.7924106]
-n2622079961
-  other tags : shop=convenience
-    geometry : [53.8322580,27.7363454]
+n2622079961  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8322840,27.7362626]
 n2622227495
   other tags : shop=convenience
     geometry : [53.7897283,27.5256170]
@@ -1000,3 +1000,6 @@ n3484498717
 n3504666603  null / null / Магазин
   other tags : shop=convenience
     geometry : [53.8931549,27.2012043]
+n3575094390
+  other tags : shop=garden_centre
+    geometry : [53.8321987,27.7362672]

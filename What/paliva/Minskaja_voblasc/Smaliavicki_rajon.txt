@@ -13,12 +13,12 @@ n306065987  null / null / Беларуснефть
 n771169684  Белнафтахім / null / Белнефтехим / Белнефтехим
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | opening_hours=24/7
     geometry : [54.0502736,28.0818686]
-n1321735095  null / null / А-100
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
-    geometry : [53.9528561,27.9871809]
-n2272074943  null / null / А-100
-  other tags : amenity=fuel | fuel:lpg=yes
+n2272074943  null / null / А-100 № 22
+  other tags : addr:street=Трасса М1/Е30 388-й км | amenity=fuel | contact:email=a-100@a-100.by | contact:phone=+375(29) 603 64 00 | contact:website=http://azs.a-100.by/ | fuel:lpg=yes | operator=Группа компаний «А-100»
     geometry : [53.9530386,27.9869864]
 n3305610925  null / null / Белоруснефть №6
   other tags : addr:street=391 км дороги М1/E30 | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-1776-21569 | ref=6 | website=http://www.belorusneft.by/
     geometry : [53.9643569,28.0255442]
+w168438762  А-100 № 22 / A-100 № 22 / А-100 № 22 / А-100 № 22
+  other tags : addr:street=Трасса М1/Е30 388-й км | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(29) 603 64 00 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 22 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=22
+    geometry : n1321735095[53.9527145,27.9872114] n3575094382[53.9527237,27.9872349] n1797040490[53.9527346,27.9872630] n2132174267[53.9527535,27.9873116] n1797040496[53.9527746,27.9873659] n1797040500[53.9527794,27.9873781] n1797040486[53.9527208,27.9874440] n1797040480[53.9526559,27.9872773] n1321735095[53.9527145,27.9872114]

@@ -37,9 +37,6 @@ n281441339  null / null / АЗС №42
 n281442297
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes
     geometry : [53.8709997,27.4191175]
-n281567751  null / null / A-100 / A-100
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes | operator=А-100
-    geometry : [53.8379648,27.5140859]
 n281876096
   other tags : amenity=fuel
     geometry : [53.8931183,27.4877187]
@@ -67,9 +64,6 @@ n305681240  null / null / Оргнефтехим / Оргнефтехим
 n305682003  null / null / Оргнефтехим / Оргнефтехим
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes
     geometry : [53.8349421,27.5782588]
-n305683638
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=А-100
-    geometry : [53.9364300,27.5798500]
 n305686307  null / null / Оргнефтехим / Оргнефтехим
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [53.8526001,27.6444474]
@@ -128,9 +122,6 @@ n1423357496  Бутан / null / Бутан / Бутан
 n1423359507  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [53.9611146,27.6258300]
-n1512853000  null / null / АЗС А-100 № 15
-  other tags : amenity=fuel | brand=A-100 | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=A-100
-    geometry : [53.8522530,27.6756401]
 n1514047388  null / null / Белоруснефть
   other tags : amenity=fuel | fuel:biodiesel=no | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белоруснефть
     geometry : [53.8339243,27.6030797]
@@ -173,12 +164,6 @@ n1787896410
 n1841744123
   other tags : amenity=fuel
     geometry : [53.9497695,27.4470964]
-n1868672128  null / null / A-100 (№19)
-  other tags : amenity=fuel | operator=A-100 | shop=yes
-    geometry : [53.9048394,27.4090712]
-n2006200574  null / null / А-100
-  other tags : amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100
-    geometry : [53.9690210,27.5503474]
 n2014684747  null / null / 39
   other tags : amenity=fuel | brand=Orgneftehim | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes
     geometry : [53.8430868,27.5591504]
@@ -197,12 +182,6 @@ n2102205186
 n2120851571  АГЗС / null / АГЗС / АГЗС
   other tags : amenity=fuel | fuel:lpg=yes | operator=Мингаз
     geometry : [53.9161639,27.4571629]
-n2165121998
-  other tags : amenity=fuel | operator=A-100
-    geometry : [53.9011088,27.6612595]
-n2193006036  null / null / АЗС A-100 №23
-  other tags : addr:housenumber=39 | addr:street=Казимировская улица | amenity=fuel | operator=A-100
-    geometry : [53.9169931,27.4137297]
 n2214405220
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белнефтехим | shop=yes
     geometry : [53.8901666,27.5765856]
@@ -258,7 +237,7 @@ w25319207
   other tags : addr:housenumber=7 | addr:postcode=220070 | addr:street=Радиальная улица | amenity=fuel | brand=Лукойл | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375(17)217-48-38 | ref:bag=2 | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4364
     geometry : n275840791[53.8762275,27.6518577] n275840794[53.8762505,27.6519877] n275840797[53.8762195,27.6520087] n275840800[53.8762235,27.6520297] n275840804[53.8761205,27.6520827] n275840807[53.8761055,27.6519967] n275840810[53.8759755,27.6520557] n275840813[53.8759075,27.6520087] n3330166008[53.8758638,27.6517724] n275840818[53.8758470,27.6516817] n275840821[53.8759115,27.6516327] n3330166009[53.8759348,27.6517403] n275840825[53.8759835,27.6519647] n275840828[53.8760825,27.6519107] n275840832[53.8760785,27.6518427] n275840835[53.8761585,27.6518047] n275840838[53.8761705,27.6518517] n275840842[53.8761975,27.6518787] n275840791[53.8762275,27.6518577]
 w25319742
-  other tags : addr:housenumber=12 | addr:postcode=220070 | addr:street=улица Ваупшасова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть | shop=kiosk
+  other tags : addr:housenumber=12 | addr:postcode=220070 | addr:street=улица Ваупшасова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть | shop=kiosk
     geometry : n275849368[53.8954201,27.6477779] n275849370[53.8954700,27.6479325] n275849372[53.8953232,27.6480644] n275849377[53.8952771,27.6479098] n3535829424[53.8953154,27.6478752] n3535829423[53.8953795,27.6478159] n275849368[53.8954201,27.6477779]
 w25320193  А-100 № 11 / A-100 № 11 / А-100 № 11 / А-100 № 11
   other tags : addr:housenumber=7Б | addr:street=улица Машиностроителей | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 340-29-55 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 11 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=11
@@ -275,15 +254,12 @@ w25324047
 w25324556
   other tags : amenity=fuel | building=yes | building:levels=1
     geometry : n275906701[53.9048866,27.5929965] n275906704[53.9048298,27.5932003] n275906707[53.9046848,27.5930921] n275906710[53.9047413,27.5928785] n275906701[53.9048866,27.5929965]
-w25324944
-  other tags : addr:housenumber=20А | addr:street=Тростенецкая улица | amenity=fuel | building=yes
-    geometry : n275910555[53.8784382,27.5886061] n275910556[53.8783361,27.5884361] n275910557[53.8783893,27.5883459] n275910558[53.8784926,27.5885113] n275910555[53.8784382,27.5886061]
+w25324944  UC № 11 / null / UC № 11 / UC № 11
+  other tags : addr:housenumber=20А | addr:street=Тростенецкая улица | amenity=fuel | building=yes | contact:email=office@united-company.by | contact:phone=+375(17) 396-12-64 | contact:website=http://www.united-company.by/azc | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | official_name=Unated Company АЗК № 11 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n275910555[53.8784143,27.5886413] n275910556[53.8783250,27.5884528] n275910557[53.8783847,27.5883714] n3575095106[53.8784169,27.5884394] n3575094389[53.8784289,27.5884647] n3575095109[53.8784445,27.5884976] n275910558[53.8784740,27.5885598] n275910555[53.8784143,27.5886413]
 w25324946
   other tags : addr:housenumber=20 | addr:street=Тростенецкая улица | amenity=fuel | building=yes
     geometry : n275910563[53.8780822,27.5871016] n275910564[53.8780296,27.5873053] n275910565[53.8779495,27.5872457] n275910566[53.8780021,27.5870421] n275910563[53.8780822,27.5871016]
-w25324960
-  other tags : addr:housenumber=16 | addr:street=Тростенецкая улица | amenity=fuel | building=yes
-    geometry : n275910636[53.8789478,27.5867415] n275910637[53.8789208,27.5868645] n275910638[53.8789858,27.5869075] n275910639[53.8789478,27.5870415] n1588747270[53.8788332,27.5869606] n275910640[53.8787338,27.5868905] n275910641[53.8787988,27.5866385] n1588747280[53.8788950,27.5867050] n275910636[53.8789478,27.5867415]
 w25326429  Белнафтахім / null / Белнефтехим
   other tags : addr:housenumber=112 | addr:postcode=220040 | addr:street=улица Некрасова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белнефтехим | shop=yes
     geometry : n275925334[53.9402775,27.5715731] n275925333[53.9402775,27.5717501] n275925338[53.9397895,27.5717501] n275925339[53.9397895,27.5715631] n275925341[53.9399875,27.5715631] n275925342[53.9399875,27.5712291] n275925343[53.9400635,27.5712291] n275925344[53.9400635,27.5715731] n275925334[53.9402775,27.5715731]
@@ -336,21 +312,33 @@ w89348374
 w134022937
   other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : n1474342603[53.9076423,27.6116146] n1474342602[53.9076174,27.6116961] n1474342605[53.9077060,27.6117741] n1474342617[53.9077309,27.6116927] n1474342603[53.9076423,27.6116146]
+w140177982  А-100 № 20 / null / А-100 № 20 / А-100 № 20
+  other tags : addr:housenumber=190 | addr:street=Долгиновский тракт | amenity=fuel | brand=А-100 | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 335-34-46, +375(17) 335-34-47 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 20 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=20
+    geometry : n1535793130[53.9690512,27.5501729] n3575094383[53.9690197,27.5501755] n1535793106[53.9689354,27.5501823] n1535793108[53.9689412,27.5503895] n2006200574[53.9690570,27.5503802] n1535793138[53.9690563,27.5503557] n3575094387[53.9690547,27.5502976] n1535793135[53.9690533,27.5502464] n1535793130[53.9690512,27.5501729]
 w147553416
   other tags : amenity=fuel | building=yes | fuel:octane_80=yes
     geometry : n1607602000[53.8838966,27.5407667] n1607602003[53.8839268,27.5408489] n1607601998[53.8838043,27.5409781] n1607601997[53.8837742,27.5408959] n1607602000[53.8838966,27.5407667]
+w149553219  А-100 № 15 / A-100 № 15 / А-100 № 15 / А-100 № 15
+  other tags : addr:housenumber=2Б | addr:street=Промышленная улица | amenity=fuel | brand=A-100 | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 345-51-40 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 15 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=15
+    geometry : n2098775908[53.8524237,27.6757109] n1625199988[53.8524009,27.6757831] n2098797969[53.8523850,27.6758357] n3575094378[53.8523726,27.6758764] n1512853000[53.8523563,27.6759303] n1625199990[53.8524580,27.6760232] n2098797971[53.8524704,27.6759820] n1625199992[53.8524866,27.6759283] n1625199995[53.8525312,27.6759729] n1625199997[53.8525517,27.6759012] n1625199996[53.8525506,27.6758431] n1625199994[53.8525277,27.6758102] n2098775908[53.8524237,27.6757109]
 w151199796  null / null / АЗС №55
   other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:diesel_euro5=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть-Оргнефтехим | shop=kiosk
     geometry : n1640240555[53.8568811,27.6848015] n1640240536[53.8568109,27.6846944] n1640240537[53.8570607,27.6842236] n1640240561[53.8571309,27.6843307] n1640240555[53.8568811,27.6848015]
-w176557149
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=A-100
-    geometry : n1870564176[53.9011787,27.6608404] n1870564171[53.9007366,27.6611937] n2165121984[53.9007360,27.6613307] n1870564173[53.9010535,27.6616292] n2165122005[53.9013850,27.6614977] n1870564179[53.9014050,27.6613837] n1870564176[53.9011787,27.6608404]
+w189804663  А-100 № 19 / null / А-100 № 19 / А-100 № 19
+  other tags : addr:housenumber=23 | addr:street=улица Брикета | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 19 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=19
+    geometry : n2004077419[53.9050961,27.4089959] n2004077420[53.9050967,27.4089797] n3575095155[53.9051250,27.4089831] n2004077430[53.9051513,27.4089862] n2004077429[53.9051483,27.4090600] n2004077435[53.9051750,27.4090632] n2004077434[53.9051713,27.4091533] n2004077428[53.9051445,27.4091502] n2004077427[53.9051415,27.4092255] n3529941502[53.9051164,27.4092226] n2004077416[53.9050869,27.4092191] n2004077417[53.9050875,27.4092057] n1846572910[53.9049736,27.4091916] n3575094380[53.9049642,27.4091559] n2004077412[53.9049553,27.4091222] n3529941501[53.9049571,27.4090707] n2004077413[53.9049585,27.4090289] n1868672128[53.9049826,27.4089819] n2004077419[53.9050961,27.4089959]
 w199189077
   other tags : amenity=fuel
     geometry : n2092147239[53.9610422,27.5367395] n2092147246[53.9610735,27.5375877] n2092147243[53.9608464,27.5383227] n3033444589[53.9604066,27.5384759] n3033444588[53.9599515,27.5373690] n2092147250[53.9598297,27.5372897] n2092147253[53.9598102,27.5369502] n2092147239[53.9610422,27.5367395]
 w201305915  null / null / Газпромнефть
   other tags : amenity=fuel | building=roof | layer=1 | shop=kiosk
     geometry : n2112648021[53.8703175,27.6461016] n2112648025[53.8703924,27.6461868] n2743131304[53.8704387,27.6460696] n2743131307[53.8705007,27.6461400] n2743131310[53.8705384,27.6460446] n2743131312[53.8704759,27.6459735] n2112648016[53.8705128,27.6458800] n2112648023[53.8704384,27.6457955] n2112648021[53.8703175,27.6461016]
+w203719502  А-100 № 16 / A-100 № 16 / А-100 № 16 / А-100 № 16
+  other tags : addr:housenumber=133 | addr:street=улица Казинца | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 207-57-49 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 16 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=16
+    geometry : n276735101[53.8379977,27.5143636] n2137164271[53.8379747,27.5144004] n2137164279[53.8379462,27.5144138] n2137164267[53.8379240,27.5144057] n2137164270[53.8379035,27.5143897] n2137164269[53.8378856,27.5143553] n276735102[53.8378803,27.5143208] n3575094384[53.8379298,27.5143389] n276735101[53.8379977,27.5143636]
+w209071242  А-100 № 23 / A-100 № 23 / А-100 № 23 / А-100 № 23
+  other tags : addr:housenumber=39 | addr:street=Казимировская улица | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 313-27-48, +375(17) 313-28-51 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | layer=1 | official_name=АЗС А-100 № 23 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=23
+    geometry : n2193006056[53.9166913,27.4135399] n2334747168[53.9167139,27.4135986] n2193006069[53.9167373,27.4136596] n3575095168[53.9167154,27.4136825] n2193006036[53.9167353,27.4137486] n3575095167[53.9167136,27.4137351] n2193006049[53.9164478,27.4136064] n2193006050[53.9164735,27.4134371] n3575094381[53.9166587,27.4135245] n2193006056[53.9166913,27.4135399]
 w262264214
   other tags : amenity=fuel
     geometry : n2679287236[53.8489078,27.4360274] n2679290009[53.8488250,27.4360281] n2679287235[53.8488258,27.4363867] n2679290007[53.8488617,27.4363823] n2679290006[53.8488701,27.4364914] n2679287234[53.8489908,27.4367208] n2679290010[53.8490572,27.4367495] n2679287238[53.8495083,27.4367040] n2679290008[53.8495705,27.4365983] n2679290005[53.8496123,27.4363709] n2679287233[53.8496958,27.4363424] n2679287237[53.8496863,27.4361838] n2679290024[53.8496568,27.4361865] n2679290025[53.8496505,27.4360288] n2679290021[53.8495807,27.4360424] n2679290020[53.8494905,27.4357402] n2679287232[53.8494793,27.4356369] n2679290022[53.8494995,27.4355674] n2679290014[53.8494447,27.4355414] n2679290015[53.8493191,27.4355531] n2679290016[53.8492499,27.4356184] n2679287231[53.8492995,27.4356703] n2679290019[53.8493293,27.4357791] n2679290018[53.8493238,27.4358941] n2679287230[53.8492988,27.4359610] n2679290017[53.8492538,27.4359907] n2679290013[53.8491711,27.4359197] n2679290011[53.8490044,27.4359302] n2679287236[53.8489078,27.4360274]
@@ -372,3 +360,12 @@ w340468157  null / null / АЗС А-100 №35
 w351656798  А-100 № 13 / A-100 № 13 / А-100 № 13 / А-100 № 13
   other tags : addr:housenumber=13А | addr:street=Радиальная улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 273-95-82 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 13 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=13
     geometry : n3574657223[53.8907194,27.6459912] n3574657225[53.8907366,27.6460544] n3574657226[53.8907630,27.6461512] n3574657227[53.8907668,27.6461649] n3574657205[53.8907439,27.6461828] n3574657204[53.8907251,27.6461976] n305686848[53.8907016,27.6462160] n3574657221[53.8906933,27.6462225] n3574657219[53.8906460,27.6460489] n3574657223[53.8907194,27.6459912]
+w351690421  А-100 № 14 / A-100 № 14 / А-100 № 14 / А-100 № 14
+  other tags : addr:housenumber=16 | addr:street=Тростенецкая улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 246-93-67 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 14 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=14
+    geometry : n275910637[53.8789472,27.5868803] n275910638[53.8790109,27.5869255] n275910639[53.8789773,27.5870616] n3575095120[53.8789136,27.5870163] n3575094385[53.8789335,27.5869356] n275910637[53.8789472,27.5868803]
+w351690422  А-100 № 17 / A-100 № 17 / А-100 № 17 / А-100 № 17
+  other tags : addr:housenumber=41 | addr:street=улица Некрасова | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 17 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=17
+    geometry : n305683638[53.9364425,27.5798583] n3575095186[53.9364016,27.5799514] n3575094386[53.9363929,27.5799403] n3575095185[53.9363779,27.5799213] n3575095188[53.9364188,27.5798282] n305683638[53.9364425,27.5798583]
+w351690423  А-100 № 21 / null / А-100 № 21 / А-100 № 21
+  other tags : addr:housenumber=40 | addr:street=улица Ваупшасова | amenity=fuel | brand=А-100 | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 328-04-17 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 21 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=21
+    geometry : n2165121993[53.9010422,27.6614244] n2165121996[53.9010542,27.6614622] n3575095148[53.9010257,27.6614960] n2165121991[53.9010010,27.6614606] n3575094388[53.9009871,27.6615060] n2165121989[53.9009745,27.6615471] n2165121986[53.9008788,27.6614507] n2165121987[53.9009028,27.6613658] n2165121985[53.9008814,27.6613116] n2165121998[53.9009734,27.6612237] n3575094379[53.9009919,27.6612777] n2165121992[53.9010114,27.6613343] n2165121990[53.9010263,27.6613779] n2165121993[53.9010422,27.6614244]
