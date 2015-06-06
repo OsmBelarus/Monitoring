@@ -557,7 +557,7 @@ n305673867
   other tags : shop=car_repair
     geometry : [53.8711200,27.4121800]
 n305673900  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.9358700,27.4367700]
 n305673902  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
@@ -1724,7 +1724,7 @@ n305686286  СТА / null / Сто / Сто
   other tags : shop=car_repair
     geometry : [53.8641200,27.6575700]
 n305686295  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8524000,27.6453800]
 n305686300
   other tags : shop=car_repair
@@ -1733,10 +1733,10 @@ n305686323  Шынамантаж / null / Шиномонтаж / Шиномон�
   other tags : shop=car
     geometry : [53.8536700,27.6474800]
 n305686325  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8519300,27.6463200]
 n305686327  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8509000,27.6470100]
 n305686330
   other tags : shop=car_repair
@@ -1754,7 +1754,7 @@ n305686340
   other tags : shop=car_repair
     geometry : [53.8498300,27.6492900]
 n305686342  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8506900,27.6492900]
 n305686346
   other tags : shop=car_repair
@@ -4012,8 +4012,8 @@ n1381657896  null / null / ОДО Трэзель
 n1383263422
   other tags : shop=books
     geometry : [53.8966080,27.4896377]
-n1383263438  null / null / A-100 / A-100
-  other tags : shop=convenience
+n1383263438  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
     geometry : [53.8946640,27.4992668]
 n1384541014  null / null / Апельсин
   other tags : shop=hairdresser
@@ -5073,7 +5073,7 @@ n1704164823  null / null / Аквамарин
   other tags : addr:housenumber=60 | addr:street=Нёманская улица | shop=hairdresser | website=http://www.aquamarine.by/
     geometry : [53.9229454,27.4303699]
 n1706040030  null / null / Автопромсервис
-  other tags : brand=Renault | service=dealer | shop=car
+  other tags : brand=Renault | service=dealer | shop=car_repair
     geometry : [53.8507895,27.6488246]
 n1709545398  Прыгажосць / null / Прыгажосць
   other tags : shop=hairdresser
@@ -7222,7 +7222,7 @@ n2622216713  null / null / Юнона
   other tags : shop=Wedding_dresses
     geometry : [53.8803993,27.5493830]
 n2622216718  null / null / Винный
-  other tags : shop=yes
+  other tags : shop=alcohol
     geometry : [53.8716623,27.5539053]
 n2622216719  null / null / Минимаркет
   other tags : shop=kiosk
@@ -7612,6 +7612,9 @@ n2629176580  null / null / Туристическая компания "Врем
 n2629180950  null / null / Бронзовое солнце: солярий, студия загара
   other tags : opening_hours=Mo-Fr 9:00-21:00; Sa 9:00-19:00; Su off | phone=+375 17 216-27-88 | shop=beauty
     geometry : [53.8867480,27.5364551]
+n2629181165  null / null / памятники
+  other tags : shop=funeral_directors
+    geometry : [53.8943978,27.4974803]
 n2629247949  null / null / Златка
   other tags : addr:housenumber=12 | addr:postcode=220007 | addr:street=Московская улица | opening_hours=Mo-Su 9:00-23:00 | phone=+375 (17) 200-54-88 | shop=convenience
     geometry : [53.8892324,27.5389959]
@@ -11186,5 +11189,17 @@ n3571742893  null / null / Fotomix
   other tags : contact:email=fotomix@shop.by | contact:icq=498485755 | contact:phone=+375(29) 760-22-22, +375(29) 630-22-22, +375(25) 760-00-00 | contact:skype=fotomix.by | contact:website=http://fotomix.by/ | opening_hours=Mo-Su 10:00-20:00 | operator=ИП Чугунов А. А. | shop=camera
     geometry : [53.9099921,27.5737154]
 n3573399211  null / null / А-store
-  other tags : opening_hours=24/7 | shop=convenience
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
     geometry : [53.8807906,27.5973619]
+n3573525697  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8518916,27.6473469]
+n3573525698  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.8718833,27.5518703]
+n3573525699  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9363779,27.4294333]
+n3573525700  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9384814,27.5461713]

@@ -28,9 +28,6 @@ n277051301  null / null / Минскоблнефтепродукт
 n278522500  null / null / Лукойл
   other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Лукойл
     geometry : [53.8382133,27.5320734]
-n279599464  null / null / A-100 / A-100
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=А-100 | shop=convenience
-    geometry : [53.8718615,27.5518732]
 n280261767  null / null / Белоруснефть
   other tags : amenity=fuel
     geometry : [53.9262567,27.4477127]
@@ -52,9 +49,9 @@ n287872352
 n292560409
   other tags : amenity=fuel
     geometry : [53.8149232,27.6893283]
-n305673912  null / null / A-100 / A-100
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_91=yes
-    geometry : [53.9362762,27.4289327]
+n305673912  А-100 № 5 / A-100 № 5 / А-100 № 5 / А-100 № 5
+  other tags : amenity=fuel | contact:email=a-100@a-100.by | contact:phone=+375(17) 509-56-01 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС А-100 № 5 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=5
+    geometry : [53.9363029,27.4292735]
 n305674022  null / null / Белоруснефть
   other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | ref=48
     geometry : [53.9004418,27.4227848]
@@ -74,13 +71,13 @@ n305683638
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=А-100
     geometry : [53.9364300,27.5798500]
 n305686307  null / null / Оргнефтехим / Оргнефтехим
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_91=yes | fuel:octane_95=yes
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes
     geometry : [53.8526001,27.6444474]
 n306065870  Беларуснефть №46 / null / Белоруснефть №46 / Белоруснефть №46
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-17-2791741 | website=http://beloil.by/
     geometry : [53.8946805,28.0299633]
-n306066617  null / null / null / A-100
-  other tags : amenity=fuel | fuel:biodiesel=no | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=A-100 | shop=yes
+n306066617  А-100 № 1 / A-100 № 1 / А-100 № 1 / А-100 № 1
+  other tags : amenity=fuel | contact:email=a-100@a-100.by | contact:phone=+ 375(17) 233-66-57 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 1 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=1
     geometry : [53.9384414,27.5461050]
 n391717439
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_95=yes | operator=Газпромнефть
@@ -272,9 +269,9 @@ w25319742
 w25319776
   other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=А-100
     geometry : n275849744[53.8910191,27.6461216] n275849745[53.8908782,27.6462379] n275849746[53.8908155,27.6460192] n275849747[53.8909564,27.6459028] n275849744[53.8910191,27.6461216]
-w25320193  null / null / A-100
-  other tags : amenity=fuel | building=yes
-    geometry : n275852984[53.8519139,27.6473048] n275852985[53.8518440,27.6474905] n275852986[53.8517961,27.6474387] n275852987[53.8518660,27.6472530] n275852984[53.8519139,27.6473048]
+w25320193  А-100 № 11 / A-100 № 11 / А-100 № 11 / А-100 № 11
+  other tags : addr:housenumber=7Б | addr:street=улица Машиностроителей | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 340-29-55 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 11 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=11
+    geometry : n275852984[53.8519168,27.6472799] n3573525697[53.8518916,27.6473469] n275852985[53.8518469,27.6474656] n275852986[53.8517990,27.6474138] n275852987[53.8518689,27.6472281] n275852984[53.8519168,27.6472799]
 w25320555  Беларуснафта-Аргнафтахім / null / Белоруснефть-Оргнефтехим / Белоруснефть-Оргнефтехим
   other tags : addr:housenumber=47 | addr:street=улица Аннаева | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7
     geometry : n275858019[53.9065470,27.6329272] n275858021[53.9063247,27.6332598] n275858023[53.9063338,27.6332773] n275858026[53.9062980,27.6333309] n275858028[53.9063290,27.6333905] n275858056[53.9063630,27.6333396] n275858059[53.9063768,27.6333662] n275858061[53.9066009,27.6330309] n275858019[53.9065470,27.6329272]
@@ -308,6 +305,9 @@ w25387073
 w25387724
   other tags : addr:housenumber=37А | addr:postcode=220007 | addr:street=улица Левкова | amenity=fuel | brand=Белнефтехим | building=yes | fuel:diesel=no | fuel:octane_92=yes | fuel:octane_95=yes | shop=kiosk
     geometry : n276701202[53.8743104,27.5557842] n276701203[53.8742997,27.5561616] n276701204[53.8742216,27.5561553] n276701205[53.8742323,27.5557779] n276701202[53.8743104,27.5557842]
+w25387726  А-100 № 10 / A-100 № 10 / А-100 № 10 / А-100 № 10
+  other tags : addr:housenumber=12 | addr:street=Аэродромная улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 222-79-66 | contact:website=http://azs.a-100.by/ | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС А-100 № 10 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=10 | shop=convenience
+    geometry : n276701210[53.8718541,27.5519717] n276701211[53.8718035,27.5518683] n279599464[53.8718230,27.5518408] n3440442325[53.8718030,27.5517999] n276701212[53.8718302,27.5517617] n3573525698[53.8718833,27.5518703] n276701213[53.8719008,27.5519060] n276701210[53.8718541,27.5519717]
 w25387749  null / null / Газпромнефть
   other tags : addr:housenumber=4Б | addr:street=Аэродромная улица | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть
     geometry : n276701322[53.8720877,27.5470172] n1625134835[53.8720558,27.5470119] n276701323[53.8717707,27.5469632] n276701324[53.8717707,27.5470342] n276701325[53.8718017,27.5470402] n276701326[53.8717977,27.5471842] n276701327[53.8716797,27.5471622] n276701328[53.8716827,27.5469542] n276701329[53.8717177,27.5469542] n276701330[53.8717287,27.5467502] n276701331[53.8718247,27.5467652] n276701332[53.8718247,27.5468092] n1625134837[53.8720640,27.5468570] n276701333[53.8720917,27.5468622] n276701334[53.8721177,27.5469042] n276701335[53.8721137,27.5469802] n276701322[53.8720877,27.5470172]
@@ -318,9 +318,9 @@ w25388050  null / null / Белоруснефть
 w25389675  null / null / АЗС №43 Белоруснефть
   other tags : addr:housenumber=8 | addr:street=Суражская улица | amenity=fuel | building=yes
     geometry : n2411509105[53.8845737,27.5332650] n2411509104[53.8845518,27.5331180] n2591821300[53.8845471,27.5330753] n2591821302[53.8846112,27.5330472] n276718291[53.8846446,27.5332624] n276718296[53.8845796,27.5332906] n2411509105[53.8845737,27.5332650]
-w25392629  null / null / А-100 АЗС №6
-  other tags : addr:city=Минск | addr:housenumber=81 | addr:street=Харьковская улица | amenity=fuel | brand=А-100 | building=yes | fuel:diesel=yes | fuel:diesel_arctic=yes | fuel:diesel_euro5=yes | fuel:lpg=yes | fuel:octane_80=no | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=А-100 | phone=+375 17 213 02 18
-    geometry : n276745684[53.8945598,27.4988186] n276745685[53.8948365,27.4990213] n276745696[53.8947185,27.4991023] n276745716[53.8944253,27.4989109] n276745684[53.8945598,27.4988186]
+w25392629  А-100 № 6 / null / А-100 № 6 / А-100 № 6
+  other tags : addr:city=Минск | addr:housenumber=81 | addr:street=Харьковская улица | amenity=fuel | brand=А-100 | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 213-02-18 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:diesel_arctic=yes | fuel:diesel_euro5=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 6 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=6
+    geometry : n276745684[53.8945598,27.4988186] n276745685[53.8948365,27.4990213] n276745696[53.8947185,27.4991023] n3573525719[53.8947079,27.4990954] n3573525716[53.8945305,27.4989796] n276745716[53.8944253,27.4989109] n276745684[53.8945598,27.4988186]
 w25393970
   other tags : amenity=fuel | building=yes | layer=1
     geometry : n276758871[53.9079583,27.4615217] n276758873[53.9079583,27.4618327] n276758875[53.9078403,27.4618327] n276758877[53.9078403,27.4615217] n276758878[53.9078525,27.4614773] n276758880[53.9078750,27.4614494] n276758881[53.9078989,27.4614403] n276758883[53.9079261,27.4614470] n276758885[53.9079473,27.4614747] n276758871[53.9079583,27.4615217]

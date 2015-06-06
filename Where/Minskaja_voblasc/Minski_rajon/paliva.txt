@@ -1,5 +1,5 @@
-n247278444  А-100 АЗС №2 / null / А-100 АЗС №2 / А-100 АЗС №2
-  other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:electricity=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | phone=+375-17-2664606 | website=http://azs.a-100.by/
+n247278444  А-100 № 2 / null / А-100 № 2 / А-100 № 2
+  other tags : addr:housenumber=7 | addr:place=Боровая | amenity=fuel | brand=А-100 | contact:phone=+ 375(17) 266-46-06 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:electricity=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 2 | opening_hours=24/7 | operator=Группа компаний «А-100»
     geometry : [53.9643005,27.6433932]
 n255481016  null / null / Газпромнефть
   other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | operator=Газпромнефть | shop=kiosk
@@ -80,7 +80,7 @@ n1779266829  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [53.9702934,27.6002741]
 n1779294746  Газ / null / Газ / Газ
-  other tags : addr:housenumber=7 | addr:street=Боровая улица | amenity=fuel | fuel:lpg=yes | phone=+375-17-2664606 | website=http://azs.a-100.by/
+  other tags : addr:housenumber=7 | addr:place=Боровая | amenity=fuel | fuel:lpg=yes | phone=+375-17-2664606 | website=http://azs.a-100.by/
     geometry : [53.9641952,27.6430593]
 n1780098826  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes | operator=Белорусьнефть
@@ -113,7 +113,7 @@ n2462938146  Беларуснафта №19 / Belorusneft №19 / Белорус
   other tags : addr:street=21км дороги М6 Минск-Гродно | amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-17-5420748 | website=http://www.belorusneft.by/
     geometry : [53.9137700,27.2544113]
 n2579746811  А-100 самаабслугоўваньне / null / А-100 самообслуживания / А-100 самообслуживания
-  other tags : amenity=fuel | brand=А-100 | operator=А-100 | website=http://azs.a-100.by/
+  other tags : addr:housenumber=1 | addr:street=а/д М3, 7-й км | amenity=fuel | brand=А-100 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС А-100 № 8 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=8 | self_service=yes
     geometry : [53.9661888,27.6427935]
 n2862595522  null / null / МАЗС №: 59
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Белоруснефть
@@ -160,9 +160,6 @@ w260185423
 w269373651
   other tags : amenity=fuel
     geometry : n2746017206[53.8397605,27.4627246] n2871168368[53.8398984,27.4631128] n2746017211[53.8399288,27.4639405] n2746017210[53.8396998,27.4646327] n2746017216[53.8394973,27.4646401] n2746017215[53.8385334,27.4641040] n2746017214[53.8387003,27.4630869] n2871175856[53.8396350,27.4629323] n2871175858[53.8396249,27.4627464] n2746017206[53.8397605,27.4627246]
-w286078977
-  other tags : amenity=fuel
-    geometry : n2897182501[53.9665952,27.6431633] n2897182100[53.9656832,27.6431329] n2897182508[53.9656926,27.6423191] n2897182098[53.9666045,27.6423495] n2897182501[53.9665952,27.6431633]
 w302114152  null / null / АЗС
   other tags : amenity=fuel | barrier=fence | building=yes | fence_type=chain_link | operator=Белоруснефть
     geometry : n3063531359[53.9793378,27.5364653] n3063531381[53.9794514,27.5372806] n3063531383[53.9798362,27.5371197] n3063531382[53.9797164,27.5363150] n3063531359[53.9793378,27.5364653]
