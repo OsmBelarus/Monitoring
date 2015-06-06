@@ -260,9 +260,6 @@ w25319207
 w25319742
   other tags : addr:housenumber=12 | addr:postcode=220070 | addr:street=улица Ваупшасова | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть | shop=kiosk
     geometry : n275849368[53.8954201,27.6477779] n275849370[53.8954700,27.6479325] n275849372[53.8953232,27.6480644] n275849377[53.8952771,27.6479098] n3535829424[53.8953154,27.6478752] n3535829423[53.8953795,27.6478159] n275849368[53.8954201,27.6477779]
-w25319776
-  other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=А-100
-    geometry : n275849744[53.8910191,27.6461216] n275849745[53.8908782,27.6462379] n275849746[53.8908155,27.6460192] n275849747[53.8909564,27.6459028] n275849744[53.8910191,27.6461216]
 w25320193  А-100 № 11 / A-100 № 11 / А-100 № 11 / А-100 № 11
   other tags : addr:housenumber=7Б | addr:street=улица Машиностроителей | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 340-29-55 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 11 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=11
     geometry : n275852984[53.8519168,27.6472799] n3573525697[53.8518916,27.6473469] n275852985[53.8518469,27.6474656] n275852986[53.8517990,27.6474138] n275852987[53.8518689,27.6472281] n275852984[53.8519168,27.6472799]
@@ -372,3 +369,6 @@ w337959700
 w340468157  null / null / АЗС А-100 №35
   other tags : amenity=fuel | brand=А-100 | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=А-100
     geometry : n3476985322[53.8331837,27.6141013] n3529759303[53.8332165,27.6170400] n3476985327[53.8330596,27.6168182] n3476985325[53.8322508,27.6166000] n3476985324[53.8322495,27.6147531] n3476985326[53.8327459,27.6147453] n3529759297[53.8327579,27.6145765] n3529759294[53.8328178,27.6144229] n3529739140[53.8329075,27.6143005] n3476985322[53.8331837,27.6141013]
+w351656798  А-100 № 13 / A-100 № 13 / А-100 № 13 / А-100 № 13
+  other tags : addr:housenumber=13А | addr:street=Радиальная улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 273-95-82 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 13 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=13
+    geometry : n3574657223[53.8907194,27.6459912] n3574657225[53.8907366,27.6460544] n3574657226[53.8907630,27.6461512] n3574657227[53.8907668,27.6461649] n3574657205[53.8907439,27.6461828] n3574657204[53.8907251,27.6461976] n305686848[53.8907016,27.6462160] n3574657221[53.8906933,27.6462225] n3574657219[53.8906460,27.6460489] n3574657223[53.8907194,27.6459912]

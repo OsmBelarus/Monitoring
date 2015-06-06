@@ -1210,8 +1210,8 @@ n305686767  Беларусбанк / Bielarusbank / Беларусбанк / Б�
   other tags : amenity=atm
     geometry : [53.9517500,27.6353800]
 n305686855  Прыёрбанк / Priorbank / null / Приорбанк
-  other tags : amenity=atm | description=#010; ЦБУ 100 "Приорбанк" ОАО; BYR, USD; круглосуточно | operator=Приорбанк
-    geometry : [53.8915908,27.6470637]
+  other tags : amenity=atm | contact:website=http://www.priorbank.by/ | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк
+    geometry : [53.8916053,27.6470932]
 n305686864  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
     geometry : [53.8414166,27.7004579]
