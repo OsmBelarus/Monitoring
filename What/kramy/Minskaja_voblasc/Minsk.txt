@@ -4000,8 +4000,8 @@ n1377775188  Аўтазапчасткі / null / Автозапчасти / Ав
 n1379433476  null / null / ПИВО
   other tags : shop=supermarket
     geometry : [53.8784404,27.4833512]
-n1379483771  null / null / ВелоСити, Велосипеды и велозапчасти
-  other tags : addr:street=Тимошенко,8 | shop=bicycle
+n1379483771  null / null / ВелоСити / ВелоСити
+  other tags : contact:phone=+375(29) 102 40 09, +375(29) 865 74 20 | contact:website=http://www.vel.by/ | description=велосипеды и запчасти к ним | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | operator=ИП Хомич С. А. | service:bicycle:retail=yes | shop=bicycle
     geometry : [53.9059865,27.4594197]
 n1380260649
   other tags : shop=hairdresser
@@ -4331,8 +4331,8 @@ n1467619887  null / null / Постторг
 n1467619918
   other tags : shop=convenience
     geometry : [53.8946749,27.6534179]
-n1473289041  null / null / Мини Маркет, продукты
-  other tags : addr:street=улица Притыцкого | shop=convenience
+n1473289041  null / null / Мини-Маркет / Мини-Маркет
+  other tags : shop=convenience
     geometry : [53.9053793,27.4598180]
 n1474077857  null / null / Пивной разлив / Пивной разлив
   other tags : shop=alcohol
@@ -5799,7 +5799,7 @@ n2330641446  СТА / null / СТО / СТО
   other tags : shop=car_repair
     geometry : [53.9479522,27.5702619]
 n2331545611  null / null / Автозапчасти
-  other tags : shop=car
+  other tags : shop=car_parts
     geometry : [53.9119432,27.4577110]
 n2331582973
   other tags : shop=hairdresser
@@ -6354,9 +6354,15 @@ n2553891209  null / null / Гаспадар
 n2553900842  null / null / Престиж
   other tags : addr:postcode=220045 | shop=hairdresser
     geometry : [53.8451089,27.4834746]
+n2554548211  null / null / Памятники
+  other tags : operator=ЧП "ЭлитГранит" | shop=funeral_directors
+    geometry : [53.9115761,27.4527722]
 n2554548215  null / null / Чистка подушек
   other tags : shop=dry_cleaning
     geometry : [53.9113181,27.4527617]
+n2554571055  null / null / Мебель для офиса и дома
+  other tags : addr:door=269-270 | opening_hours=Mo-Fr 09:00-18:00 | operator=ЧП "АС_Гранд-Тех" | phone=+375(17) 2584416 | shop=furniture
+    geometry : [53.9113897,27.4533032]
 n2555703340  null / null / Китайские продукты
   other tags : shop=yes
     geometry : [53.8930485,27.5649689]
@@ -6722,7 +6728,7 @@ n2602966271  null / null / Fashion Lady
     geometry : [53.9053407,27.4535498]
 n2602970265  null / null / Apparel
   other tags : addr:housenumber=8 | addr:street=улица Бурдейного | shop=clothes
-    geometry : [53.9052612,27.4536596]
+    geometry : [53.9052731,27.4536446]
 n2605780329  null / null / Хозяйственный магазин "Находка"
   other tags : shop=yes
     geometry : [53.8974732,27.4521443]
@@ -6772,13 +6778,13 @@ n2608449265  ЕўраШпалеры / null / ЕвроОбои / ЕвроОбои
   other tags : addr:housename=ЕвроОбои | shop=yes
     geometry : [53.9472605,27.6916906]
 n2611959706  null / null / Связной
-  other tags : shop=mobile_phone
+  other tags : office=telecommunication | shop=mobile_phone
     geometry : [53.9051847,27.4546314]
 n2612029634  null / null / SecondHand
-  other tags : shop=clothes
-    geometry : [53.9050459,27.4536637]
+  other tags : second_hand=only | shop=clothes
+    geometry : [53.9050582,27.4536220]
 n2612030537  null / null / Зоотовары
-  other tags : shop=yes
+  other tags : shop=pet
     geometry : [53.9054919,27.4534732]
 n2612044080  null / null / Кветкi
   other tags : opening_hours=24/7 | shop=florist
@@ -6885,9 +6891,36 @@ n2613408876  null / null / СМОК Трэвел
 n2613432443  null / null / Магнит
   other tags : addr:housenumber=79 | addr:street=улица Карла Либкнехта | shop=hairdresser
     geometry : [53.8940217,27.5199325]
+n2614505257  null / null / Альта-Тур
+  other tags : office=travel_agent | shop=travel_agency
+    geometry : [53.9061767,27.4600195]
+n2614505259  null / null / Маэстро
+  other tags : shop=hairdresser
+    geometry : [53.9056198,27.4612116]
+n2614505260  null / null / Туртесс Травел
+  other tags : office=travel_agent | shop=travel_agency
+    geometry : [53.9058095,27.4597256]
+n2614505261  null / null / Пафия
+  other tags : shop=hairdresser
+    geometry : [53.9058474,27.4588995]
+n2614505269  null / null / Velcom
+  other tags : office=telecommunication | shop=mobile_phone
+    geometry : [53.9088179,27.4705189]
 n2614691253
   other tags : shop=convenience
     geometry : [53.8980158,27.5435583]
+n2614739020  null / null / Ремонт Авто
+  other tags : shop=car_repair
+    geometry : [53.9079559,27.4647535]
+n2614739021  null / null / Цветы
+  other tags : shop=florist
+    geometry : [53.9069352,27.4523992]
+n2614739027  null / null / Зоомагазин
+  other tags : shop=pet
+    geometry : [53.9045871,27.4578065]
+n2614739031  null / null / Шиномонтаж
+  other tags : service=tyres | shop=car_repair
+    geometry : [53.9078390,27.4585522]
 n2616007472  null / null / Кега
   other tags : addr:housenumber=1А | addr:street=улица Мележа | shop=alcohol
     geometry : [53.9387383,27.6007203]
@@ -8164,11 +8197,14 @@ n3098783298  null / null / Валга, Приемный пункт химчис�
   other tags : addr:city=Минск | addr:housenumber=30К1 | addr:street=улица Якубовского | shop=dry_cleaning
     geometry : [53.8982784,27.4521409]
 n3098801224  null / null / Bungalow tea&coffee
-  other tags : addr:city=минск | addr:housenumber=6 | addr:street=улица Бурдейного | shop=yes
+  other tags : shop=tea
     geometry : [53.9050318,27.4551460]
-n3098803529  null / null / Смаката, Магазин орехов и сухофруктов
-  other tags : addr:housenumber=6 | addr:street=улица Бурдейного | shop=yes
+n3098803529  Смаката / null / Смаката
+  other tags : description=Магазин орехов и сухофруктов | organic=only | shop=kiosk
     geometry : [53.9049602,27.4553141]
+n3098804662  null / null / Центр печати «КопиРум»
+  other tags : shop=copyshop
+    geometry : [53.9049987,27.4548331]
 n3098820442  null / null / Телефраст
   other tags : addr:city=Минск | addr:housenumber=62 к2 | addr:street=улица Притыцкого | shop=hifi
     geometry : [53.9082464,27.4592803]
@@ -8222,8 +8258,11 @@ n3100847005  null / null / Амика-Сервис
   other tags : shop=dry_cleaning
     geometry : [53.9088182,27.4741227]
 n3100851070  null / null / НормаСтиль
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.9087708,27.4741066]
+n3100851548  null / null / Ателье «Люта» / Ателье «Люта»
+  other tags : description=ремонт и пошив одежды | shop=tailor
+    geometry : [53.9089903,27.4733780]
 n3100853098  null / null / Максибыт ЧП
   other tags : shop=optician
     geometry : [53.9087898,27.4734629]
@@ -8754,9 +8793,6 @@ n3184985753  null / null / Интернет магазин "SOCKET"
 n3184988546  null / null / Маэстро-Аудио
   other tags : addr:housenumber=40 | addr:street=улица Куйбышева | shop=music
     geometry : [53.9214189,27.5785023]
-n3185015937  null / null / Second Hand
-  other tags : addr:housenumber=8 | addr:street=улица Бурдейного | shop=clothes
-    geometry : [53.9050251,27.4535887]
 n3185020251  null / null / Second Hand
   other tags : addr:housenumber=10 | addr:street=улица Ольшевского | shop=clothes
     geometry : [53.9145295,27.5058341]
@@ -9294,9 +9330,6 @@ n3221656945  null / null / Живинка
 n3223114368
   other tags : shop=kiosk
     geometry : [53.9081255,27.4558093]
-n3223206861  null / null / Шиномонтаж
-  other tags : shop=car_repair
-    geometry : [53.9097422,27.4616971]
 n3225238886  null / null / Букеты из конфет
   other tags : shop=florist
     geometry : [53.8368762,27.7015540]
@@ -9826,67 +9859,67 @@ n3268921183  BUNGALOW, гарбата, кава / null / BUNGALOW, чай, ко�
   other tags : shop=yes
     geometry : [53.9474517,27.6779639]
 n3269241013  null / null / Kari kids
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085916,27.4701537]
 n3269241029  null / null / Top Secret
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085916,27.4699123]
 n3269241568  null / null / Sela
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085158,27.4703039]
 n3269243537  null / null / Vino & Vino
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085031,27.4701644]
 n3269244014  null / null / Рафинад
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085632,27.4696655]
 n3269244288  null / null / Золотая линия
-  other tags : shop=yes
+  other tags : shop=jewelry
     geometry : [53.9085158,27.4693812]
 n3269245121  null / null / НаСвязи
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9085505,27.4694832]
 n3269246049  null / null / FootTerra
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9084684,27.4703093]
 n3269246737  null / null / Caprisa
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9089171,27.4701752]
 n3269246877  null / null / Царское золото
-  other tags : shop=yes
+  other tags : shop=jewelry
     geometry : [53.9087306,27.4701805]
 n3269247341  null / null / Босой
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9090561,27.4701162]
 n3269247792  null / null / Columbia
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.9086453,27.4703951]
 n3269249062  null / null / LC Waikiki
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9084715,27.4694563]
 n3269250361  null / null / Bogacho
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9084557,27.4702181]
 n3269250377  null / null / Serge
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.9086643,27.4702878]
 n3269250852  null / null / S.Oliver
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9087338,27.4704487]
 n3269253949  null / null / Laufer
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9092506,27.4696761]
 n3269254049  null / null / Basta
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9090715,27.4698022]
 n3269254212  null / null / Basconi
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9091595,27.4697355]
 n3269254965  null / null / Ziko
-  other tags : shop=yes
+  other tags : shop=jewelry
     geometry : [53.9090466,27.4696345]
 n3269283162  null / null / Bork
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9087264,27.4696924]
 n3269311987  null / null / О'Кей
   other tags : shop=yes
@@ -11057,8 +11090,8 @@ n3500672273  null / null / ВитаКорм
   other tags : addr:city=Минск | addr:housenumber=32А | addr:postcode=220123 | addr:street=улица Веры Хоружей | opening_hours=9:00-18:00 | phone=+375-29-582-07-67 | shop=pet | website=http://vitakorm.by/
     geometry : [53.9237339,27.5622913]
 n3502887877
-  other tags : shop=convenience
-    geometry : [53.9073908,27.4546807]
+  other tags : opening_hours=24/7 | shop=convenience
+    geometry : [53.9073547,27.4546303]
 n3502916131
   other tags : shop=convenience
     geometry : [53.8943609,27.6423566]
@@ -11110,6 +11143,10 @@ n3525848993  null / null / 500 Ампер
 n3525858117  null / null / 500 Ампер
   other tags : addr:city=Минск | addr:housenumber=31 | addr:street=Сухаревская улица | opening_hours=9.30–21.30 | shop=car_parts
     geometry : [53.8870405,27.4228397]
+n3529170370  null / null / СТО
+  other names: name:en=vehicle service station
+  other tags : shop=car_repair
+    geometry : [53.9082765,27.4661628]
 n3529941501  null / null / Магазин
   other tags : shop=convenience
     geometry : [53.9050058,27.4091039]
@@ -11203,3 +11240,6 @@ n3573525699  null / null / А-store
 n3573525700  null / null / А-store
   other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
     geometry : [53.9384814,27.5461713]
+n3573708193  null / null / А-store
+  other tags : opening_hours=24/7 | operator=Группа компаний «А-100» | shop=convenience
+    geometry : [53.9078403,27.4616133]

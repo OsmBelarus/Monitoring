@@ -227,9 +227,6 @@ n2839790086
 n3198392040  Беларуснафта №59 / null / Белоруснефть №59 / Белоруснефть №59
   other tags : amenity=fuel | brand=Белоруснефть | contact:phone=+375-17-2692798 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | ref=59
     geometry : [53.9563237,27.7238171]
-n3223177348
-  other tags : amenity=fuel
-    geometry : [53.9078885,27.4616190]
 n3457852792  null / null / АЗС №6 Белоруснефть
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=00:00-24:00 | operator=Белоруснефть | shop=yes
     geometry : [53.9611986,27.6252775]
@@ -239,9 +236,6 @@ n3457868612  null / null / АЗС №57 Белоруснефть
 n3484282425  Лукойл / null / Лукойл / Лукойл
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=no
     geometry : [53.9134560,27.6832619]
-n3503046196
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | payment:mastercard=yes | payment:visa=yes
-    geometry : [53.9072923,27.4547134]
 n3503073895
   other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | payment:mastercard=yes | payment:visa=yes | phone=+375(17)230-19-42 | ref=3 | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4365
     geometry : [53.8942470,27.6422608]
@@ -306,7 +300,7 @@ w25387724
   other tags : addr:housenumber=37А | addr:postcode=220007 | addr:street=улица Левкова | amenity=fuel | brand=Белнефтехим | building=yes | fuel:diesel=no | fuel:octane_92=yes | fuel:octane_95=yes | shop=kiosk
     geometry : n276701202[53.8743104,27.5557842] n276701203[53.8742997,27.5561616] n276701204[53.8742216,27.5561553] n276701205[53.8742323,27.5557779] n276701202[53.8743104,27.5557842]
 w25387726  А-100 № 10 / A-100 № 10 / А-100 № 10 / А-100 № 10
-  other tags : addr:housenumber=12 | addr:street=Аэродромная улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 222-79-66 | contact:website=http://azs.a-100.by/ | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС А-100 № 10 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=10 | shop=convenience
+  other tags : addr:housenumber=12 | addr:street=Аэродромная улица | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 222-79-66 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=АЗС А-100 № 10 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=10
     geometry : n276701210[53.8718541,27.5519717] n276701211[53.8718035,27.5518683] n279599464[53.8718230,27.5518408] n3440442325[53.8718030,27.5517999] n276701212[53.8718302,27.5517617] n3573525698[53.8718833,27.5518703] n276701213[53.8719008,27.5519060] n276701210[53.8718541,27.5519717]
 w25387749  null / null / Газпромнефть
   other tags : addr:housenumber=4Б | addr:street=Аэродромная улица | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть
@@ -321,9 +315,12 @@ w25389675  null / null / АЗС №43 Белоруснефть
 w25392629  А-100 № 6 / null / А-100 № 6 / А-100 № 6
   other tags : addr:city=Минск | addr:housenumber=81 | addr:street=Харьковская улица | amenity=fuel | brand=А-100 | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 213-02-18 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:diesel_arctic=yes | fuel:diesel_euro5=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 6 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=6
     geometry : n276745684[53.8945598,27.4988186] n276745685[53.8948365,27.4990213] n276745696[53.8947185,27.4991023] n3573525719[53.8947079,27.4990954] n3573525716[53.8945305,27.4989796] n276745716[53.8944253,27.4989109] n276745684[53.8945598,27.4988186]
-w25393970
-  other tags : amenity=fuel | building=yes | layer=1
-    geometry : n276758871[53.9079583,27.4615217] n276758873[53.9079583,27.4618327] n276758875[53.9078403,27.4618327] n276758877[53.9078403,27.4615217] n276758878[53.9078525,27.4614773] n276758880[53.9078750,27.4614494] n276758881[53.9078989,27.4614403] n276758883[53.9079261,27.4614470] n276758885[53.9079473,27.4614747] n276758871[53.9079583,27.4615217]
+w25393970  А-100 № 12 / null / А-100 № 12 / А-100 № 12
+  other tags : addr:housenumber=62В | addr:street=улица Притыцкого | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 363-40-67 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 12 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=12
+    geometry : n276758871[53.9079583,27.4615217] n3573708219[53.9079583,27.4616883] n276758873[53.9079583,27.4618327] n276758875[53.9078403,27.4618327] n3573708218[53.9078403,27.4616804] n3573708193[53.9078403,27.4616133] n276758877[53.9078403,27.4615217] n276758878[53.9078525,27.4614773] n276758880[53.9078750,27.4614494] n276758881[53.9078989,27.4614403] n276758883[53.9079261,27.4614470] n276758885[53.9079473,27.4614747] n276758871[53.9079583,27.4615217]
+w25393973  Лукойл № 1 / null / Лукойл № 1 / Лукойл № 1
+  other tags : addr:housenumber=2 | addr:street=улица Лещинского | amenity=fuel | building=yes | building:levels=1 | contact:email=lukoil@lukoil.by | contact:phone=+375(17) 258-20-59 | contact:website=http://www.lukoil.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=Лукойл АЗС № 1 | opening_hours=24/7 | operator=ИООО «Лукойл Белоруссия» | payment:mastercard=yes | payment:visa=yes
+    geometry : n276758907[53.9073546,27.4547732] n3502887877[53.9073547,27.4546303] n276758918[53.9073548,27.4545740] n2528563273[53.9073562,27.4544476] n276758902[53.9074940,27.4544506] n276758904[53.9074906,27.4549066] n3503046196[53.9073532,27.4549036] n276758907[53.9073546,27.4547732]
 w37667806
   other tags : amenity=fuel | landuse=yes
     geometry : n441587849[53.8850588,27.4779386] n441587850[53.8848210,27.4779598] n441587851[53.8848435,27.4787241] n277843537[53.8848979,27.4787258] n441587853[53.8849637,27.4787029] n441587863[53.8850563,27.4785797] n441587864[53.8850838,27.4785670] n441587849[53.8850588,27.4779386]
