@@ -4445,9 +4445,6 @@ n1502808272  null / null / Ремонт BMW
 n1502809204  null / null / Заправка и ремонт кондиционеров
   other tags : addr:street=Партизанский проспект | shop=car_repair
     geometry : [53.8827676,27.5905320]
-n1502809645  null / null / Столовая велозавода
-  other tags : addr:street=Партизанский проспект | shop=bicycle
-    geometry : [53.8810411,27.5933644]
 n1502831973  null / null / СТО Hyundai (Хёндэ АвтоГрад, ООО)
   other tags : shop=car_repair
     geometry : [53.9340268,27.4591814]
@@ -11188,3 +11185,6 @@ n3571662005  null / null / Шиномонтаж Radius
 n3571742893  null / null / Fotomix
   other tags : contact:email=fotomix@shop.by | contact:icq=498485755 | contact:phone=+375(29) 760-22-22, +375(29) 630-22-22, +375(25) 760-00-00 | contact:skype=fotomix.by | contact:website=http://fotomix.by/ | opening_hours=Mo-Su 10:00-20:00 | operator=ИП Чугунов А. А. | shop=camera
     geometry : [53.9099921,27.5737154]
+n3573399211  null / null / А-store
+  other tags : opening_hours=24/7 | shop=convenience
+    geometry : [53.8807906,27.5973619]
