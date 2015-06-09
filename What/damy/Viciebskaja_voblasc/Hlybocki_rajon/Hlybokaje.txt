@@ -629,7 +629,7 @@ w156915023
   other tags : addr:housenumber=68 | addr:street=Минская улица | building=house | building:levels=1
     geometry : n1691588638[55.1344850,27.7029277] n1691588630[55.1344607,27.7030526] n1691588613[55.1343902,27.7030106] n1691588619[55.1344145,27.7028857] n1691588638[55.1344850,27.7029277]
 w156915055
-  other tags : addr:housenumber=111 | addr:street=Кирова | building=house | building:levels=1
+  other tags : addr:housenumber=111 | addr:street=улица Кирова | building=house | building:levels=1
     geometry : n1691587989[55.1263401,27.6981754] n1691587988[55.1263372,27.6983068] n1691587974[55.1262670,27.6983021] n1691587984[55.1262699,27.6981706] n1691587989[55.1263401,27.6981754]
 w156915066
   other tags : addr:housenumber=8 | addr:street=улица Суворова | building=house
@@ -1364,7 +1364,7 @@ w334668997
   other tags : addr:housenumber=6 | addr:street=Молодёжный переулок | building=house | building:levels=1
     geometry : n3417295809[55.1505888,27.7037334] n3417295807[55.1504335,27.7040223] n3417295808[55.1505075,27.7041441] n3417295810[55.1506628,27.7038552] n3417295809[55.1505888,27.7037334]
 w334834748
-  other tags : addr:housenumber=111а | addr:street=Кирова | building=house | building:levels=1
+  other tags : addr:housenumber=111а | addr:street=улица Кирова | building=house | building:levels=1
     geometry : n3419499621[55.1262958,27.6978709] n3419499620[55.1262929,27.6980023] n3419499618[55.1262227,27.6979976] n3419499619[55.1262256,27.6978661] n3419499621[55.1262958,27.6978709]
 w334837163
   other tags : addr:housenumber=1а | addr:street=улица Космонавтов | building=house | building:levels=1
@@ -1436,8 +1436,8 @@ w339889654
   other tags : addr:housenumber=14 | addr:street=Ясная улица | building=house
     geometry : n3521084193[55.1345134,27.6753833] n1857008286[55.1345050,27.6754785] n1857008280[55.1344183,27.6754551] n1857008282[55.1344360,27.6752536] n1857008284[55.1344595,27.6752599] n1857008285[55.1344647,27.6752007] n1857008291[55.1345294,27.6752181] n1857008295[55.1345994,27.6752369] n1857008293[55.1345848,27.6754025] n3521084193[55.1345134,27.6753833]
 w351598312
-  other tags : addr:city=Глубокое | addr:housenumber=41 | addr:street=Богдановича | building=house
+  other tags : addr:housenumber=41 | addr:street=улица Богдановича | building=house
     geometry : n3574083662[55.1602302,27.6830496] n3574083663[55.1602696,27.6832517] n3574083661[55.1601673,27.6833128] n3574083660[55.1601279,27.6831108] n3574083662[55.1602302,27.6830496]
 w351598313
-  other tags : addr:city=Глубокое | addr:housenumber=43 | addr:street=Богдановича | building=house
+  other tags : addr:housenumber=43 | addr:street=улица Богдановича | building=house
     geometry : n3574083668[55.1605340,27.6828057] n3574083664[55.1603547,27.6829125] n3574083665[55.1603812,27.6830490] n3574083666[55.1604782,27.6829913] n3574083667[55.1604896,27.6830498] n3574083669[55.1605509,27.6830133] n3574083670[55.1605549,27.6830340] n3574083671[55.1605759,27.6830215] n3574083668[55.1605340,27.6828057]
