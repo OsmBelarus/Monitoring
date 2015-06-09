@@ -610,8 +610,11 @@ n3461615766  null / null / ОДО "Стройпроект"
     geometry : [54.3116121,26.8265586]
 n3484294358  null / null / null / ЭнерджиБай
   other names: name:en=EnergyBy
-  other tags : office=company
+  other tags : addr:city=Молодечно | addr:housenumber=40А | addr:postcode=222306 | addr:street=Виленская улица | office=company | phone=+375176777851
     geometry : [54.3149197,26.8531880]
+n3580766901
+  other tags : access=private | amenity=parking
+    geometry : [54.3148112,26.8531886]
 w44025329
   other tags : gauge=1520 | railway=rail | usage=main
     geometry : n271038968[54.3161500,26.8369400] n1810475609[54.3161546,26.8368189] n1810564916[54.3161745,26.8344298] n1405063020[54.3163697,26.8305048]
