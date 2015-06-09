@@ -626,7 +626,7 @@ w222374712
   other tags : amenity=parking
     geometry : n2313466301[53.8320195,27.7359310] n2313466254[53.8320700,27.7360005] n2313466256[53.8318642,27.7364296] n2313466271[53.8318137,27.7363601] n2313466301[53.8320195,27.7359310]
 w223014229
-  other tags : access=private | amenity=parking | parking=surface
+  other tags : access=permissive | amenity=parking | capacity=3 | fee=no | park_ride=no | parking=surface | smoothness=bad | surface=grass
     geometry : n2319615517[54.1535865,27.3631631] n2319615519[54.1536352,27.3632353] n2319615520[54.1536778,27.3631619] n2319615518[54.1536365,27.3630911] n2319615517[54.1535865,27.3631631]
 w224025870
   other tags : amenity=parking | parking=surface
