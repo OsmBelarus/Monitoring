@@ -5661,7 +5661,7 @@ n2118172137  null / null / Роял маркет
   other tags : opening_hours=Mo-Su 09:00-23:00 | shop=convenience
     geometry : [53.9035261,27.5059596]
 n2120517843  Універсам на АЗС / null / Универсам на АЗС / Универсам на АЗС
-  other tags : shop=supermarket
+  other tags : shop=supermarket | wheelchair=yes
     geometry : [53.9165859,27.4570471]
 n2123174513  null / null / Братья Грилль
   other tags : shop=convenience
@@ -11087,7 +11087,7 @@ n3503986479  null / null / Сити
   other tags : shop=furniture
     geometry : [53.8743031,27.5660641]
 n3505907056  null / Hermes / Гермес
-  other tags : shop=convenience
+  other tags : shop=convenience | wheelchair=yes
     geometry : [53.9176915,27.4575205]
 n3505934758
   other tags : shop=greengrocer
