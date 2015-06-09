@@ -1295,8 +1295,8 @@ n3206003021  null / null / Зеленая аптека / Зеленая апте
 n3206003050  null / null / Зелёная аптека / Зелёная аптека
   other tags : amenity=pharmacy
     geometry : [53.9111172,27.4379751]
-n3206003051  null / null / Белфармацевтия №68 / Белфармацевтия №68
-  other tags : amenity=pharmacy
+n3206003051  null / null / Белфармация №68 / Белфармация №68
+  other tags : amenity=pharmacy | drive_through=no | opening_hours=Mo-Fr 08:00-19:30
     geometry : [53.9112068,27.4378795]
 n3206003058  null / null / Искамед №31 / Искамед №31
   other tags : amenity=pharmacy
@@ -1425,3 +1425,6 @@ n3524112885  null / null / Аптека №48
 n3579292619
   other tags : amenity=pharmacy
     geometry : [53.9241576,27.4291217]
+n3581370297
+  other tags : amenity=pharmacy | drive_through=no
+    geometry : [53.9155215,27.4264891]
