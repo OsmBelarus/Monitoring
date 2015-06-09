@@ -71,7 +71,7 @@ n1115072245  ІП Белгазпраект / null / ИП БелГазПроек�
   other tags : addr:housenumber=5 км | addr:street=Бешенковичское шоссе | amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | phone=+375-212-269420
     geometry : [55.1590811,30.1644106]
 n1251041811  Беларуснафта № 7 / null / Белоруснефть № 7 / Белоруснефть № 7
-  other tags : addr:street=Билево | amenity=fuel | contact:phone=+375(212) 43-92-76 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | opening_hours=Mo-Su 08:10-20:00 | operator=ПО «Белоруснефть»
+  other tags : addr:street=Билево | amenity=fuel | contact:phone=+375(212) 43-92-76 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | opening_hours=Mo-Su 08:00-20:00 | operator=ПО «Белоруснефть»
     geometry : [55.1690564,30.3041344]
 n1396780928  ІП Белгазпраект / null / ИП БелГазПроект
   other tags : amenity=fuel | fuel:lpg=yes
@@ -113,7 +113,7 @@ w90844790  null / null / Лукойл №39
   other tags : addr:housenumber=171Г | addr:street=Ленинградская улица | amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Лукойл | phone=+375-212-357526 | website=http://lukoil.by/
     geometry : n1054736296[55.2088601,30.1494255] n1791584672[55.2088355,30.1493932] n3548728990[55.2088173,30.1493693] n1791584669[55.2087891,30.1493321] n341748314[55.2087637,30.1492988] n1054736311[55.2088146,30.1491799] n1054736293[55.2089110,30.1493066] n1054736296[55.2088601,30.1494255]
 w109229425  Беларуснафта № 7 / null / Белоруснефть № 7 / Белоруснефть № 7
-  other tags : addr:street=Билево | amenity=fuel | building=yes | building:levels=2 | contact:phone=+375(212) 43-92-76 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | opening_hours=Mo-Su 00:20-08:00,08:10-20:00,20:30-24:00 | operator=ПО «Белоруснефть»
+  other tags : addr:street=Билево | amenity=fuel | building=yes | building:levels=2 | contact:phone=+375(212) 43-92-76 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | opening_hours=24/7 | operator=ПО «Белоруснефть»
     geometry : n1251041822[55.1691291,30.3049176] n1251041818[55.1690946,30.3052148] n1251041824[55.1689429,30.3051608] n3577427596[55.1689654,30.3049673] n1159627939[55.1689774,30.3048636] n3577427598[55.1690002,30.3048717] n3109621967[55.1690235,30.3048800] n3109621971[55.1690983,30.3049066] n1251041822[55.1691291,30.3049176]
 w293416460
   other tags : amenity=fuel | building=yes | building:levels=1 | fuel:octane_80=no | fuel:octane_91=no | fuel:octane_95=no
