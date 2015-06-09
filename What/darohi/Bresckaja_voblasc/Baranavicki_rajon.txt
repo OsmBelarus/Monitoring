@@ -2,7 +2,7 @@ n275429875
   other tags : highway=speed_camera | maxspeed=80
     geometry : [53.1317187,25.9156187]
 n275435308
-  other tags : highway=speed_camera
+  other tags : highway=speed_camera | maxspeed=120
     geometry : [53.0196744,25.7866324]
 n338629400
   other tags : highway=speed_camera | maxspeed=80
@@ -11,7 +11,7 @@ n1381440897
   other tags : highway=stop | traffic_calming=yes
     geometry : [53.0236466,25.7807210]
 n1823208331
-  other tags : highway=speed_camera
+  other tags : highway=speed_camera | maxspeed=120
     geometry : [53.0196134,25.7868233]
 n2325714898
   other tags : highway=speed_camera
@@ -32,10 +32,10 @@ n2414323412
   other tags : highway=rest_area
     geometry : [53.2118868,26.1228780]
 n3581024009
-  other tags : highway=speed_camera
+  other tags : highway=speed_camera | maxspeed=120
     geometry : [53.0318954,25.8073682]
 n3581024010
-  other tags : highway=speed_camera
+  other tags : highway=speed_camera | maxspeed=120
     geometry : [53.0319876,25.8072352]
 n3581024012
   other tags : highway=speed_camera | maxspeed=120
