@@ -4994,7 +4994,7 @@ n1416048627
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8907195,27.4558326]
 n1416048676
-  other tags : crossing=traffic_signals | highway=crossing
+  other tags : bicycle=yes | crossing=traffic_signals | highway=crossing | traffic_signals:sound=yes
     geometry : [53.8932621,27.4624754]
 n1416048679
   other tags : crossing=traffic_signals | highway=crossing
