@@ -7,12 +7,6 @@ n247693282
 n247697236  null / null / Белоруснефть
   other tags : amenity=fuel
     geometry : [53.9224262,27.5143590]
-n247777322
-  other tags : amenity=fuel | opening_hours=24/7 | operator=United Company
-    geometry : [53.9383259,27.4787785]
-n255020759  null / null / United Company / United Company
-  other tags : amenity=fuel | brand=United Company | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes
-    geometry : [53.8443938,27.4704074]
 n255020776  Лукоiл / null / Лукойл / Лукойл
   other tags : amenity=fuel | brand=Lukoil | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Lukoil | ref=64
     geometry : [53.8406706,27.4681995]
@@ -82,9 +76,6 @@ n419118266
 n441586307  null / null / Лукойл Беларусь
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [53.9441358,27.6690342]
-n441587846  null / null / United Company / United Company
-  other tags : amenity=fuel | fuel:lpg=yes
-    geometry : [53.8697160,27.4929080]
 n503274373  null / null / Газпромнефть №48
   other tags : addr:city=Минск | addr:housenumber=84 | addr:street=улица Лейтенанта Кижеватова | amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=ИООО "Газпромнефть-Белнефтепродукт"
     geometry : [53.8412932,27.5318235]
@@ -97,10 +88,6 @@ n561012757  null / null / АГНКС Минск-3 / АГНКС Минск-3
 n623090321  Беларуснафта / null / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:e85=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=15
     geometry : [53.8757922,27.5064184]
-n650636068  null / null / Юнайтед компани
-  other names: name:en=United Company
-  other tags : addr:housenumber=5 | addr:street=Будславская улица | amenity=fuel | operator=СООО «Юнайтед-Компани»
-    geometry : [53.9601771,27.5383024]
 n882386025  Белнафтахім / null / Белнефтехим / Белнефтехим
   other tags : amenity=fuel | brand=БеларусНефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Беларуснефть | ref=54
     geometry : [53.8421877,27.4793546]
@@ -134,9 +121,6 @@ n1665579487
 n1779294743  null / null / Бутан
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [53.9602004,27.6298580]
-n1779294772
-  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | opening_hours=24/7 | operator=United Company
-    geometry : [53.9599036,27.6293575]
 n1779330009  АГЗС / null / АГЗС / АГЗС
   other tags : amenity=fuel | brand=Белоруснефть | fuel:lpg=yes
     geometry : [53.9388484,27.6726692]
@@ -215,6 +199,10 @@ n3484282425  Лукойл / null / Лукойл / Лукойл
 n3503073895
   other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | payment:mastercard=yes | payment:visa=yes | phone=+375(17)230-19-42 | ref=3 | website=http://lukoil.by/rus/driver/azs/~group_id__n80=1~page__n80=1~csort__n80=sort~csortorder__n80=1~id__n80=4365
     geometry : [53.8942470,27.6422608]
+n3577384765  Беларуснафта № 12 / null / Белоруснефть № 12 / Белоруснефть № 12
+  other names: name:en=Belorusneft № 12
+  other tags : addr:housenumber=172 | addr:postcode=220053 | addr:street=Долгиновский тракт | amenity=fuel | contact:phone=+375(17) 335-3-225 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | official_name=Белоруснефть МАЗС № 12 | opening_hours=Mo-Su 07:00-19:00 | operator=ПО «Белоруснефть»
+    geometry : [53.9602819,27.5369872]
 w25313862  null / null / АЗС
   other tags : amenity=fuel | building=yes | operator=Беларуснефть
     geometry : n275740728[53.8151222,27.6894376] n275740729[53.8150502,27.6896636] n275740730[53.8149742,27.6895776] n275740731[53.8150502,27.6893576] n275740728[53.8151222,27.6894376]
@@ -272,16 +260,19 @@ w25387726  А-100 № 10 / A-100 № 10 / А-100 № 10 / А-100 № 10
 w25387749  null / null / Газпромнефть
   other tags : addr:housenumber=4Б | addr:street=Аэродромная улица | amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Газпромнефть
     geometry : n276701322[53.8720877,27.5470172] n1625134835[53.8720558,27.5470119] n276701323[53.8717707,27.5469632] n276701324[53.8717707,27.5470342] n276701325[53.8718017,27.5470402] n276701326[53.8717977,27.5471842] n276701327[53.8716797,27.5471622] n276701328[53.8716827,27.5469542] n276701329[53.8717177,27.5469542] n276701330[53.8717287,27.5467502] n276701331[53.8718247,27.5467652] n276701332[53.8718247,27.5468092] n1625134837[53.8720640,27.5468570] n276701333[53.8720917,27.5468622] n276701334[53.8721177,27.5469042] n276701335[53.8721137,27.5469802] n276701322[53.8720877,27.5470172]
-w25388050  null / null / Белоруснефть
-  other names: name:en=Belorusneft
-  other tags : addr:housenumber=172 | addr:postcode=220053 | addr:street=Долгиновский тракт | amenity=fuel | building=yes | operator=ПО «Белоруснефть»
-    geometry : n276704002[53.9606227,27.5377242] n276704004[53.9606356,27.5378709] n1751690417[53.9605969,27.5378808] n1751690421[53.9606132,27.5380654] n276704006[53.9604773,27.5381000] n1751690408[53.9604621,27.5379274] n1751690406[53.9604337,27.5379347] n276704009[53.9604197,27.5377760] n2090331148[53.9605082,27.5377489] n2090331149[53.9605872,27.5377319] n276704002[53.9606227,27.5377242]
+w25388050  Беларуснафта № 12 / null / Белоруснефть № 12 / Белоруснефть № 12
+  other names: name:en=Belorusneft № 12
+  other tags : addr:housenumber=172 | addr:postcode=220053 | addr:street=Долгиновский тракт | amenity=fuel | building=yes | building:levels=1 | contact:phone=+375(17) 335-3-225 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=Белоруснефть МАЗС № 12 | opening_hours=24/7 | operator=ПО «Белоруснефть»
+    geometry : n3577385372[53.9604687,27.5380009] n1751690408[53.9604627,27.5379275] n1751690406[53.9604332,27.5379345] n276704009[53.9604199,27.5377724] n2090331148[53.9605105,27.5377509] n3577385378[53.9605263,27.5377472] n3577385383[53.9605588,27.5377395] n2090331149[53.9605894,27.5377322] n276704002[53.9606231,27.5377242] n276704004[53.9606352,27.5378714] n1751690417[53.9605975,27.5378803] n3577385387[53.9606047,27.5379687] n3577385372[53.9604687,27.5380009]
 w25389675  null / null / АЗС №43 Белоруснефть
   other tags : addr:housenumber=8 | addr:street=Суражская улица | amenity=fuel | building=yes
     geometry : n2411509105[53.8845737,27.5332650] n2411509104[53.8845518,27.5331180] n2591821300[53.8845471,27.5330753] n2591821302[53.8846112,27.5330472] n276718291[53.8846446,27.5332624] n276718296[53.8845796,27.5332906] n2411509105[53.8845737,27.5332650]
 w25392629  А-100 № 6 / null / А-100 № 6 / А-100 № 6
   other tags : addr:city=Минск | addr:housenumber=81 | addr:street=Харьковская улица | amenity=fuel | brand=А-100 | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 213-02-18 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:diesel_arctic=yes | fuel:diesel_euro5=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 6 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=6
     geometry : n276745684[53.8945598,27.4988186] n276745685[53.8948365,27.4990213] n276745696[53.8947185,27.4991023] n3573525719[53.8947079,27.4990954] n3573525716[53.8945305,27.4989796] n276745716[53.8944253,27.4989109] n276745684[53.8945598,27.4988186]
+w25393259  UC № 8 / UC № 8 / UC № 8 / UC № 8
+  other tags : addr:housenumber=102 | addr:street=проспект Победителей | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 254-42-44 | contact:website=http://www.united-company.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | internet_access=wlan | official_name=United Company АЗК № 8 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n276750634[53.9384192,27.4789119] n276750627[53.9384895,27.4788379] n276750628[53.9384528,27.4791347] n305675699[53.9382448,27.4793629] n276750629[53.9382204,27.4793896] n247777322[53.9381485,27.4792018] n276750631[53.9382464,27.4790920] n1336520143[53.9382867,27.4790500] n1336520140[53.9383539,27.4789799] n276750634[53.9384192,27.4789119]
 w25393970  А-100 № 12 / null / А-100 № 12 / А-100 № 12
   other tags : addr:housenumber=62В | addr:street=улица Притыцкого | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 363-40-67 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 12 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=12
     geometry : n276758871[53.9079583,27.4615217] n3573708219[53.9079583,27.4616883] n276758873[53.9079583,27.4618327] n276758875[53.9078403,27.4618327] n3573708218[53.9078403,27.4616804] n3573708193[53.9078403,27.4616133] n276758877[53.9078403,27.4615217] n276758878[53.9078525,27.4614773] n276758880[53.9078750,27.4614494] n276758881[53.9078989,27.4614403] n276758883[53.9079261,27.4614470] n276758885[53.9079473,27.4614747] n276758871[53.9079583,27.4615217]
@@ -294,9 +285,13 @@ w37667806
 w43562244  А-100 № 7 / A-100 № 7 / А-100 № 7 / А-100 № 7
   other tags : addr:housenumber=8А | addr:street=Партизанский проспект | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:phone=+375(17) 291-12-16 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=АЗС А-100 № 7 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=7
     geometry : n550061271[53.8810772,27.5974044] n1588747419[53.8809400,27.5974949] n259283578[53.8808452,27.5975610] n550061254[53.8807542,27.5974741] n550061255[53.8808400,27.5974147] n3573399211[53.8807906,27.5973619] n3573399210[53.8807645,27.5973396] n550061257[53.8807495,27.5973268] n550061258[53.8807117,27.5973528] n550061244[53.8806891,27.5973265] n550061260[53.8807553,27.5971242] n550061261[53.8808603,27.5972182] n3573399212[53.8808487,27.5972659] n550061262[53.8808192,27.5972845] n550061264[53.8809077,27.5973682] n550061265[53.8809839,27.5973117] n550061271[53.8810772,27.5974044]
-w52106208
-  other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=United Company | shop=yes
-    geometry : n664021257[53.8523739,27.6955262] n664021258[53.8524175,27.6954753] n2881782148[53.8524656,27.6953815] n2881782144[53.8525007,27.6952891] n664021259[53.8525276,27.6951960] n664021260[53.8524846,27.6951281] n664021261[53.8524777,27.6951349] n982826853[53.8524630,27.6951145] n982826854[53.8523052,27.6954246] n664021257[53.8523739,27.6955262]
+w51025629  UC № 9 / UC № 9 / UC № 9 / UC № 9
+  other names: name:en=United Company
+  other tags : addr:housenumber=5 | addr:street=Будславская улица | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 335-31-09 | contact:website=http://www.united-company.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | official_name=United Company АЗК № 9 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n650636071[53.9601496,27.5383860] n650636074[53.9601357,27.5385016] n650636076[53.9602583,27.5384695] n650636068[53.9602755,27.5383254] n660454723[53.9602895,27.5383105] n650636081[53.9603076,27.5382914] n650636084[53.9602484,27.5381306] n3577385360[53.9602319,27.5381459] n650636087[53.9602096,27.5381667] n650636089[53.9601946,27.5381257] n2090376201[53.9601793,27.5381401] n650636095[53.9601735,27.5381884] n3577384767[53.9601565,27.5383291] n650636071[53.9601496,27.5383860]
+w52106208  UC № 7 / UC № 7 / UC № 7 / UC № 7
+  other tags : addr:housenumber=178А | addr:street=Партизанский проспект | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 344-55-72 | contact:website=http://www.united-company.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | official_name=United Company АЗК № 7 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n664021257[53.8523869,27.6955133] n664021258[53.8524175,27.6954753] n2881782148[53.8524656,27.6953815] n2881782144[53.8525007,27.6952891] n664021259[53.8525276,27.6951960] n664021260[53.8524846,27.6951281] n664021261[53.8524777,27.6951349] n982826853[53.8524630,27.6951145] n982826854[53.8523171,27.6954100] n2881782146[53.8523714,27.6954895] n664021257[53.8523869,27.6955133]
 w58682451
   other tags : amenity=fuel | building=yes | building:levels=1 | fuel:diesel=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | shop=yes
     geometry : n727202177[53.8929011,27.6120850] n727202169[53.8929301,27.6120502] n727202138[53.8929636,27.6120100] n727202111[53.8930096,27.6121205] n727202182[53.8929389,27.6122051] n727202173[53.8928930,27.6120947] n727202177[53.8929011,27.6120850]
@@ -318,12 +313,12 @@ w149553219  А-100 № 15 / A-100 № 15 / А-100 № 15 / А-100 № 15
 w151199796  null / null / АЗС №55
   other tags : amenity=fuel | building=yes | fuel:diesel=yes | fuel:diesel_euro5=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть-Оргнефтехим | shop=kiosk
     geometry : n1640240555[53.8568811,27.6848015] n1640240536[53.8568109,27.6846944] n1640240537[53.8570607,27.6842236] n1640240561[53.8571309,27.6843307] n1640240555[53.8568811,27.6848015]
+w158947559  UC № 2 / UC № 2 / UC № 2 / UC № 2
+  other tags : addr:housenumber=132 | addr:street=проспект Дзержинского | amenity=fuel | brand=United Company | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 206-19-45 | contact:website=http://www.united-company.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | internet_access=wlan | official_name=United Company АЗК № 2 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n1710624523[53.8445512,27.4704997] n3577384776[53.8445664,27.4704926] n2578075720[53.8445882,27.4705712] n2578075717[53.8445993,27.4706111] n2578075718[53.8445159,27.4706820] n2578075721[53.8445013,27.4706400] n2578075719[53.8444845,27.4705897] n255020759[53.8442097,27.4702701] n1710624524[53.8442162,27.4701170] n276756887[53.8443985,27.4703261] n3577384762[53.8444210,27.4703510] n2578082722[53.8444671,27.4704020] n276756885[53.8444971,27.4704352] n1710624523[53.8445512,27.4704997]
 w189804663  А-100 № 19 / null / А-100 № 19 / А-100 № 19
   other tags : addr:housenumber=23 | addr:street=улица Брикета | amenity=fuel | building=yes | building:levels=1 | contact:email=a-100@a-100.by | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | official_name=А-100 АЗС № 19 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=19
     geometry : n2004077419[53.9050961,27.4089959] n2004077420[53.9050967,27.4089797] n3575095155[53.9051250,27.4089831] n2004077430[53.9051513,27.4089862] n2004077429[53.9051483,27.4090600] n2004077435[53.9051750,27.4090632] n2004077434[53.9051713,27.4091533] n2004077428[53.9051445,27.4091502] n2004077427[53.9051415,27.4092255] n3529941502[53.9051164,27.4092226] n2004077416[53.9050869,27.4092191] n2004077417[53.9050875,27.4092057] n1846572910[53.9049736,27.4091916] n3575094380[53.9049642,27.4091559] n2004077412[53.9049553,27.4091222] n3529941501[53.9049571,27.4090707] n2004077413[53.9049585,27.4090289] n1868672128[53.9049826,27.4089819] n2004077419[53.9050961,27.4089959]
-w199189077
-  other tags : amenity=fuel
-    geometry : n2092147239[53.9610422,27.5367395] n2092147246[53.9610735,27.5375877] n2092147243[53.9608464,27.5383227] n3033444589[53.9604066,27.5384759] n3033444588[53.9599515,27.5373690] n2092147250[53.9598297,27.5372897] n2092147253[53.9598102,27.5369502] n2092147239[53.9610422,27.5367395]
 w201305915  null / null / Газпромнефть
   other tags : amenity=fuel | building=roof | layer=1 | shop=kiosk
     geometry : n2112648021[53.8703175,27.6461016] n2112648025[53.8703924,27.6461868] n2743131304[53.8704387,27.6460696] n2743131307[53.8705007,27.6461400] n2743131310[53.8705384,27.6460446] n2743131312[53.8704759,27.6459735] n2112648016[53.8705128,27.6458800] n2112648023[53.8704384,27.6457955] n2112648021[53.8703175,27.6461016]
@@ -333,15 +328,15 @@ w203719502  А-100 № 16 / A-100 № 16 / А-100 № 16 / А-100 № 16
 w209071242  А-100 № 23 / A-100 № 23 / А-100 № 23 / А-100 № 23
   other tags : addr:housenumber=39 | addr:street=Казимировская улица | amenity=fuel | building=yes | contact:email=a-100@a-100.by | contact:phone=+375(17) 313-27-48, +375(17) 313-28-51 | contact:website=http://azs.a-100.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | internet_access:fee=no | layer=1 | official_name=АЗС А-100 № 23 | opening_hours=24/7 | operator=Группа компаний «А-100» | ref=23
     geometry : n2193006056[53.9166913,27.4135399] n2334747168[53.9167139,27.4135986] n2193006069[53.9167373,27.4136596] n3575095168[53.9167154,27.4136825] n2193006036[53.9167353,27.4137486] n3575095167[53.9167136,27.4137351] n2193006049[53.9164478,27.4136064] n2193006050[53.9164735,27.4134371] n3575094381[53.9166587,27.4135245] n2193006056[53.9166913,27.4135399]
+w254543377  UC № 1 / UC № 1 / UC № 1 / UC № 1
+  other tags : addr:housenumber=65 | addr:street=проспект Дзержинского | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 271-86-12 | contact:website=http://www.united-company.by/ | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | official_name=United Company АЗК № 1 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n441587846[53.8699257,27.4928502] n276747163[53.8698215,27.4927596] n3577384766[53.8697724,27.4927170] n276747166[53.8697320,27.4926818] n2603449250[53.8697184,27.4926700] n2603449262[53.8697529,27.4925612] n2603449246[53.8697875,27.4925296] n2603449264[53.8698233,27.4925385] n2603449253[53.8698482,27.4925748] n2603449244[53.8698779,27.4926835] n2603449248[53.8699235,27.4926369] n2603449251[53.8699696,27.4928174] n3577384764[53.8699533,27.4928296] n441587846[53.8699257,27.4928502]
+w257061129  UC № 3 / UC № 3 / UC № 3 / UC № 3
+  other tags : addr:housenumber=46 | addr:street=Логойский тракт | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 280-16-84 | contact:website=http://www.united-company.by/ | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | internet_access=wlan | official_name=United Company АЗК № 3 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
+    geometry : n275862492[53.9597257,27.6294792] n3577384763[53.9597487,27.6295017] n1779294759[53.9597838,27.6295360] n275862470[53.9598137,27.6295652] n275862474[53.9599547,27.6297102] n275862476[53.9598777,27.6298021] n275862480[53.9595277,27.6294412] n275862485[53.9596417,27.6293402] n1779294772[53.9596637,27.6294205] n275862492[53.9597257,27.6294792]
 w262264214
   other tags : amenity=fuel
     geometry : n2679287236[53.8489078,27.4360274] n2679290009[53.8488250,27.4360281] n2679287235[53.8488258,27.4363867] n2679290007[53.8488617,27.4363823] n2679290006[53.8488701,27.4364914] n2679287234[53.8489908,27.4367208] n2679290010[53.8490572,27.4367495] n2679287238[53.8495083,27.4367040] n2679290008[53.8495705,27.4365983] n2679290005[53.8496123,27.4363709] n2679287233[53.8496958,27.4363424] n2679287237[53.8496863,27.4361838] n2679290024[53.8496568,27.4361865] n2679290025[53.8496505,27.4360288] n2679290021[53.8495807,27.4360424] n2679290020[53.8494905,27.4357402] n2679287232[53.8494793,27.4356369] n2679290022[53.8494995,27.4355674] n2679290014[53.8494447,27.4355414] n2679290015[53.8493191,27.4355531] n2679290016[53.8492499,27.4356184] n2679287231[53.8492995,27.4356703] n2679290019[53.8493293,27.4357791] n2679290018[53.8493238,27.4358941] n2679287230[53.8492988,27.4359610] n2679290017[53.8492538,27.4359907] n2679290013[53.8491711,27.4359197] n2679290011[53.8490044,27.4359302] n2679287236[53.8489078,27.4360274]
-w262453858
-  other tags : amenity=fuel
-    geometry : n2681171428[53.9386740,27.4777937] n2681171431[53.9384245,27.4796016] n2681171432[53.9380487,27.4795050] n2681171430[53.9380798,27.4788846] n2681171429[53.9383599,27.4773230] n2681171428[53.9386740,27.4777937]
-w263855671
-  other tags : amenity=fuel
-    geometry : n2695139852[53.9593748,27.6292336] n2695162344[53.9593513,27.6293686] n2695162342[53.9593676,27.6294998] n2695139861[53.9594238,27.6295905] n2695139846[53.9599302,27.6301191] n2695139855[53.9601573,27.6301710] n2696071050[53.9602743,27.6297582] n2695139857[53.9604207,27.6296213] n2695139854[53.9599999,27.6283764] n2696071053[53.9599006,27.6284709] n2696071052[53.9598115,27.6284461] n2696071051[53.9597284,27.6284655] n2696071049[53.9596329,27.6285373] n2695139851[53.9595450,27.6286660] n2695139852[53.9593748,27.6292336]
 w269020721
   other tags : amenity=fuel
     geometry : n2743006253[53.8703267,27.6451555] n2743006256[53.8706497,27.6455599] n2743006263[53.8706888,27.6457053] n2743006267[53.8706825,27.6460379] n2743006259[53.8703725,27.6468694] n2743006280[53.8703017,27.6468410] n2743006247[53.8702036,27.6464846] n2743006273[53.8702082,27.6454817] n2743006253[53.8703267,27.6451555]

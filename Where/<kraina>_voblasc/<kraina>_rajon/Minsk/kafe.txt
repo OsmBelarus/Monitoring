@@ -1154,8 +1154,8 @@ n1313533334  Харчэўня / null / null
   other tags : amenity=restaurant | fixme:komzpa=добавить русское имя | microbrewery=yes | opening_hours=Mo-Su 12:00-23:00
     geometry : [53.8681258,27.5997498]
 n1336520143  null / null / Salad Drive
-  other tags : amenity=cafe | cuisine=ice_cream | internet_access=wlan | takeaway=yes | terrace=yes
-    geometry : [53.9382527,27.4791111]
+  other tags : amenity=cafe | cuisine=ice_cream | internet_access=wlan | operator=СООО «Юнайтед Компани» | takeaway=yes | terrace=yes
+    geometry : [53.9382867,27.4790500]
 n1352208247  Кафэтэрый / null / Кафетерий / Кафетерий
   other tags : addr:city=Минск | amenity=cafe
     geometry : [53.9482842,27.6936167]
@@ -2792,6 +2792,15 @@ n3575465851  null / null / QuickCafe
 n3575465852  null / null / QuickCafe
   other tags : amenity=cafe | internet_access=wlan | internet_access:fee=no | opening_hours=24/7 | operator=Группа компаний «А-100»
     geometry : [53.9076990,27.6117099]
+n3577384762  null / null / Salad drive
+  other tags : amenity=cafe | operator=СООО «Юнайтед Компани»
+    geometry : [53.8444210,27.4703510]
+n3577384763  null / null / Salad drive
+  other tags : amenity=cafe | operator=СООО «Юнайтед Компани»
+    geometry : [53.9597487,27.6295017]
+n3577385378
+  other tags : amenity=cafe
+    geometry : [53.9605263,27.5377472]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
