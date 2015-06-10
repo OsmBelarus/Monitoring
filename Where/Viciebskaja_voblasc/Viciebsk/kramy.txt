@@ -1524,7 +1524,7 @@ n1801640209  Шынамантаж / null / Шиномонтаж / Шиномон
   other tags : service=tyres | shop=car_repair
     geometry : [55.1966551,30.1942618]
 n1807186104  null / null / Витпол
-  other tags : opening_hours=Mo-Fr 09:00-17:00 | phone=+375-33-6768711 ;  +375-29-5165860 | shop=travel_agency
+  other tags : opening_hours=Mo-Fr 09:00-17:00 | phone=+375-33-6768711 ; +375-29-5165860 | shop=travel_agency
     geometry : [55.1882834,30.2101924]
 n1807186113  null / null / КВЦ
   other tags : opening_hours=Mo-Fr 08:00-17:00 | shop=stationery
@@ -1805,9 +1805,6 @@ n2361060211  null / null / Двинский бровар
 n2365236329  null / null / Белтехосмотр / Белтехосмотр
   other tags : alt_name=Диагностическая станция | contact:phone=+375212229634 | contact:website=http://gto.by/ | operator=ОАО «Витязь» | service=checking | shop=car_repair
     geometry : [55.1626427,30.2392857]
-n2365245210  null / null / Белтехосмотр
-  other tags : operator=РУП Витебскэнерго филиал Витебские электрические сети | phone=+375-212-478221 | shop=car_repair | website=http://gto.by/
-    geometry : [55.1900966,30.2172952]
 n2365485577  null / null / Остров чистоты
   other tags : shop=chemist
     geometry : [55.1927134,30.2516094]
@@ -3432,3 +3429,6 @@ n3577427598
 n3582914997  null / null / Чин Чин
   other tags : opening_hours=Mo-Su 08:00-22:00 | operator=ОАО «Витебские продукты» | shop=alcohol
     geometry : [55.1855434,30.2205987]
+n3583062031  null / null / Витебскторгстрой
+  other tags : opening_hours=Mo-Fr 09:00-18:00 | shop=doityourself
+    geometry : [55.1870994,30.2175889]
