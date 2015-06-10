@@ -20005,8 +20005,9 @@ w352513635  null / null / деревня Баньковщина
 w352520017  null / null / Star Market
   other tags : building=commercial | building:levels=1 | smoking=no
     geometry : n3582901219[53.9395393,27.3270248] n3582901220[53.9394361,27.3270084] n3582901221[53.9394039,27.3272494] n3582901222[53.9395103,27.3272713] n3582901219[53.9395393,27.3270248]
-w352549667  null / null / Packaged Transformer Substation
-  other tags : building=service
+w352549667  null / null / ТП 1880 Заславского РЭС / ТП 1880 Заславского РЭС
+  other names: name:en=Transformer Substation 1880
+  other tags : building=service | building:levels=1
     geometry : n3583152333[53.9283327,27.3226989] n3583152334[53.9282442,27.3227808] n3583152335[53.9282861,27.3229064] n3583152336[53.9283761,27.3228300] n3583152333[53.9283327,27.3226989]
 w352549774
   other tags : building=terrace
