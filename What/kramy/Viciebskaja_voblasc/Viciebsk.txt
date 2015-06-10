@@ -2987,8 +2987,8 @@ n3022024994  null / null / 12 месяцев
 n3030242501  null / null / Бочка
   other tags : amenity=bar | description=пивной бар 2-й категории | opening_hours=Mo-Su 10:00-23:00 | operator=ООО «Беермикс» | shop=alcohol
     geometry : [55.1954448,30.2286429]
-n3030247659  null / null / МиниМагМини
-  other tags : shop=convenience
+n3030247659  null / null / МиниМаг
+  other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ЧТУП «Санько-маркет» | shop=convenience
     geometry : [55.1827916,30.2280253]
 n3032129638  null / null / Эгоарт
   other tags : shop=jewelry
@@ -3429,3 +3429,6 @@ n3577427596
 n3577427598
   other tags : shop=tyres
     geometry : [55.1690002,30.3048717]
+n3582914997  null / null / Чин Чин
+  other tags : opening_hours=Mo-Su 08:00-22:00 | operator=ОАО «Витебские продукты» | shop=alcohol
+    geometry : [55.1855434,30.2205987]
