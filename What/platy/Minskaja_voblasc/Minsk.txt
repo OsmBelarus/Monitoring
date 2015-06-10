@@ -124,6 +124,9 @@ n655158257
 n663205316
   other tags : access=private | barrier=gate
     geometry : [53.9249022,27.5644856]
+n666818570
+  other tags : barrier=gate
+    geometry : [53.8552925,27.4357471]
 n669398808
   other tags : barrier=gate | motorcar=yes
     geometry : [53.9020862,27.5509070]
@@ -250,6 +253,9 @@ n977289665
 n987492313
   other tags : barrier=gate
     geometry : [53.9474670,27.5904768]
+n1026302640
+  other tags : barrier=gate
+    geometry : [53.8583019,27.4373305]
 n1039072457
   other tags : barrier=gate | bicycle=yes | foot=yes
     geometry : [53.9262815,27.5785862]
@@ -1810,6 +1816,9 @@ n2897093486
 n2897107394
   other tags : barrier=gate
     geometry : [53.8640385,27.5637246]
+n2899082104
+  other tags : barrier=gate
+    geometry : [53.8583114,27.4414600]
 n2899309616
   other tags : barrier=gate
     geometry : [53.9475660,27.5929850]
@@ -2635,6 +2644,93 @@ n3581471418
 n3581857697
   other tags : barrier=gate
     geometry : [53.8800345,27.5121591]
+n3583259343
+  other tags : barrier=gate
+    geometry : [53.8597273,27.4426633]
+n3583259345
+  other tags : barrier=gate
+    geometry : [53.8591947,27.4426734]
+n3583259347
+  other tags : barrier=gate
+    geometry : [53.8599015,27.4422492]
+n3583259360
+  other tags : barrier=gate
+    geometry : [53.8605650,27.4407214]
+n3583259801
+  other tags : barrier=gate
+    geometry : [53.8624483,27.4377935]
+n3583259803
+  other tags : barrier=gate
+    geometry : [53.8626022,27.4365508]
+n3583259805
+  other tags : barrier=gate
+    geometry : [53.8633654,27.4368558]
+n3583259806
+  other tags : barrier=gate
+    geometry : [53.8633221,27.4383439]
+n3583259808
+  other tags : barrier=gate
+    geometry : [53.8617035,27.4378555]
+n3583259853
+  other tags : barrier=gate
+    geometry : [53.8627633,27.4347721]
+n3583259854
+  other tags : barrier=gate
+    geometry : [53.8631858,27.4349158]
+n3583259857
+  other tags : barrier=gate
+    geometry : [53.8641453,27.4339924]
+n3583259858
+  other tags : barrier=gate
+    geometry : [53.8640115,27.4347722]
+n3583259866
+  other tags : barrier=gate
+    geometry : [53.8633087,27.4320479]
+n3583259870
+  other tags : barrier=gate
+    geometry : [53.8631650,27.4331270]
+n3583259876
+  other tags : barrier=gate
+    geometry : [53.8638191,27.4334203]
+n3583259877
+  other tags : barrier=gate
+    geometry : [53.8639947,27.4334844]
+n3583259886
+  other tags : barrier=gate
+    geometry : [53.8594695,27.4350384]
+n3583260013
+  other tags : barrier=gate
+    geometry : [53.8537484,27.4366409]
+n3583260018
+  other tags : barrier=gate
+    geometry : [53.8540026,27.4371048]
+n3583260031
+  other tags : barrier=gate
+    geometry : [53.8553014,27.4374255]
+n3583260040
+  other tags : barrier=gate
+    geometry : [53.8553465,27.4374281]
+n3583260044
+  other tags : barrier=gate
+    geometry : [53.8567664,27.4355011]
+n3583260066
+  other tags : barrier=gate
+    geometry : [53.8573488,27.4382947]
+n3583260073
+  other tags : barrier=gate
+    geometry : [53.8575576,27.4374085]
+n3583260079
+  other tags : barrier=gate
+    geometry : [53.8573422,27.4389699]
+n3583260080
+  other tags : barrier=gate
+    geometry : [53.8573755,27.4389997]
+n3583260086
+  other tags : barrier=gate
+    geometry : [53.8580731,27.4388405]
+n3583260087
+  other tags : barrier=gate
+    geometry : [53.8582310,27.4385889]
 w23297666
   other tags : barrier=fence
     geometry : n252178583[53.9265885,27.5969956] n252178570[53.9260376,27.5964463] n1638705046[53.9260608,27.5963694] n252178571[53.9262257,27.5958687]
@@ -6909,3 +7005,6 @@ w352516014
 w352516028
   other tags : barrier=fence
     geometry : n3582874135[53.8841118,27.5963686] n3582874136[53.8838062,27.5960979] n3582874137[53.8836476,27.5966482] n3582874138[53.8839584,27.5968995] n3582874135[53.8841118,27.5963686]
+w352562720
+  other tags : barrier=fence
+    geometry : n418757246[53.8553230,27.4366197] n3583260040[53.8553465,27.4374281] n3583260041[53.8553489,27.4374831] n3583260049[53.8560011,27.4374914]
