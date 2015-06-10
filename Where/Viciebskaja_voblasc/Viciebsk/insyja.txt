@@ -1003,7 +1003,7 @@ n1276823279
   other tags : amenity=parking
     geometry : [55.2162414,30.1759325]
 n1278223449  Помнікі / null / Памятники
-  other tags : office=company | opening_hours=Mo-Su 09:00-20:00
+  other tags : craft=stonemason | office=company | opening_hours=Mo-Su 09:00-20:00
     geometry : [55.1871017,30.2106375]
 n1278223468
   other tags : amenity=waste_disposal
@@ -12143,6 +12143,12 @@ n3582915021
 n3583062032  null / null / Ремонт обуви / Ремонт обуви
   other tags : craft=shoemaker | opening_hours=Mo-Fr 10:00-18:00 | operator=ЧУП «Княгиня Ольга»
     geometry : [55.1871029,30.2175763]
+n3583152400
+  other tags : entrance=main
+    geometry : [55.1894732,30.2091709]
+n3583152401
+  other tags : entrance=service
+    geometry : [55.1897749,30.2088970]
 w8384407
   other tags : note=аэродром разобран
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]
