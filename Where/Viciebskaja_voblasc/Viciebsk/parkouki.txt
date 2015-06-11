@@ -1886,16 +1886,16 @@ w241541056
   other tags : amenity=parking | capacity=10
     geometry : n2491505224[55.1532320,30.2276810] n2491505225[55.1531853,30.2278107] n2491505226[55.1529584,30.2275508] n2491505227[55.1530068,30.2274238] n2491505224[55.1532320,30.2276810]
 w241541320
-  other tags : amenity=parking
+  other tags : access=private | amenity=parking | parking=surface | parking:primary_usage=residents
     geometry : n2491506831[55.2007431,30.2390276] n2491506832[55.2009245,30.2393626] n3454395065[55.2008808,30.2394353] n3454395057[55.2006994,30.2391002] n2491506831[55.2007431,30.2390276]
 w241585483
-  other tags : amenity=parking | capacity=5
+  other tags : access=private | amenity=parking | capacity=5 | parking=surface | parking:primary_usage=residents
     geometry : n2491950753[55.2013525,30.2391859] n2491950754[55.2012915,30.2392966] n1144577591[55.2012419,30.2392097] n2491950756[55.2013039,30.2391009] n2491950753[55.2013525,30.2391859]
 w241585495
-  other tags : amenity=parking | capacity=10
+  other tags : access=private | amenity=parking | capacity=10 | parking=surface | parking:primary_usage=residents
     geometry : n2491951181[55.2008661,30.2382600] n3454395061[55.2008113,30.2383523] n3454395068[55.2009562,30.2386164] n2491951184[55.2010110,30.2385241] n2491951181[55.2008661,30.2382600]
 w241585507
-  other tags : amenity=parking | capacity=15
+  other tags : access=private | amenity=parking | capacity=15 | parking=surface | parking:primary_usage=residents
     geometry : n2491951363[55.2013638,30.2398079] n2491951365[55.2013187,30.2397229] n2491951367[55.2011370,30.2400235] n2491951369[55.2011867,30.2401144] n2491951363[55.2013638,30.2398079]
 w241765237
   other tags : access=private | amenity=parking
