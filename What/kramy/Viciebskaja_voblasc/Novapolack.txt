@@ -1,7 +1,7 @@
 n306067127  СТА ВАЗ / null / СТО ВАЗ
   other tags : shop=car_repair
     geometry : [55.5247019,28.6525805]
-n306067136  Крама «Ялінка» / null / Магазин Ёлочка / Магазин Ёлочка
+n306067136  Ялінка / null / Ёлочка / Ёлочка
   other tags : shop=convenience
     geometry : [55.5378324,28.6322806]
 n306067139  Паўлінка / null / Павлинка / Павлинка
@@ -343,8 +343,8 @@ n2554662439  null / null / Распечатка
 n2575444152  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [55.5186391,28.6859761]
-n2575526723  null / null / ООО "Белагромеханизм"
-  other tags : email=bam123@list.ru | opening_hours=24/7 | shop=car_parts | site=www.belpodshipnik.by
+n2575526723  null / null / Белагромеханизм / Белагромеханизм
+  other tags : contact:email=bam123@list.ru | contact:website=www.belpodshipnik.by | operator=ООО «Белагромеханизм» | shop=car_parts
     geometry : [55.5238900,28.6729300]
 n2609466741  null / null / Акцент
   other tags : shop=clothes
@@ -386,7 +386,7 @@ n3083221665  null / null / Королевство сна
   other tags : shop=bed
     geometry : [55.5135642,28.6833399]
 n3102213329  null / null / Центр МТС
-  other tags : addr:city=Новополоцк | addr:housenumber=148 | addr:street=Молодёжная улица | note=GPS: N 55 31.47 E 28 40.443 | opening_hours=Mo-Su 09:00-21:00 | phone=+375 17 2379898 (контактный центр, круглосуточно) | shop=mobile_phone
+  other tags : addr:city=Новополоцк | addr:housenumber=148 | addr:street=Молодёжная улица | description=GPS: N 55 31.47 E 28 40.443 | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | phone=+375 17 2379898 (контактный центр, круглосуточно) | shop=mobile_phone
     geometry : [55.5248713,28.6738384]
 n3145895005  null / null / Любава Люкс
   other tags : shop=clothes
