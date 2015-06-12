@@ -5,7 +5,7 @@ n452540889
   other tags : amenity=toilets | description=Туалет на углу паркинга | fee=yes
     geometry : [52.4240582,30.9982454]
 n452540892
-  other tags : amenity=toilets | fee=yes | wheelchair=no
+  other tags : access=public | amenity=toilets | fee=yes | toilets:disposal=flush | unisex=yes | wheelchair=no
     geometry : [52.4237242,31.0155999]
 n452540893
   other tags : amenity=toilets | fee=yes
