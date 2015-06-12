@@ -544,6 +544,9 @@ w25428453
 w25428455
   other tags : addr:housenumber=18 | addr:postcode=220049 | addr:street=улица Кнорина | building=residential | building:type=house | roof:shape=hipped
     geometry : n277127301[53.9358171,27.6143372] n277127303[53.9355412,27.6141280] n277127304[53.9355924,27.6139329] n277127321[53.9358684,27.6141420] n3576321070[53.9361476,27.6143514] n3576321071[53.9360969,27.6145469] n277127301[53.9358171,27.6143372]
+w25428459
+  other tags : addr:housenumber=10 | addr:postcode=220049 | addr:street=улица Кнорина | building=apartments | building:type=house | roof:shape=hipped
+    geometry : n277127343[53.9330865,27.6123629] n277127345[53.9327942,27.6121438] n277127346[53.9328450,27.6119483] n277127348[53.9331373,27.6121674] n277127343[53.9330865,27.6123629]
 w25428460  null / null / Магазин Беласоюздрук
   other tags : addr:housenumber=23 | addr:postcode=220049 | addr:street=Волгоградская улица | building=apartments | building:type=house
     geometry : n277127352[53.9343030,27.6193500] n277127354[53.9340660,27.6197470] n277127356[53.9339750,27.6195960] n277127358[53.9342110,27.6191990] n277127352[53.9343030,27.6193500]
@@ -725,7 +728,7 @@ w25429642
   other tags : addr:housenumber=8 | addr:postcode=220049 | addr:street=улица Кнорина | building=apartments | building:type=house
     geometry : n277140114[53.9326550,27.6121020] n277140115[53.9320560,27.6116460] n277140116[53.9321090,27.6114480] n277140117[53.9327120,27.6119040] n277140114[53.9326550,27.6121020]
 w25429644
-  other tags : addr:housenumber=11 | addr:postcode=220049 | addr:street=улица Кнорина | building=house | building:levels=5 | building:type=house | roof:shape=hipped
+  other tags : addr:housenumber=11 | addr:postcode=220049 | addr:street=улица Кнорина | building=apartments | building:levels=5 | roof:shape=hipped
     geometry : n277140118[53.9342293,27.6123341] n277140120[53.9333516,27.6116887] n277140121[53.9334015,27.6114930] n277140124[53.9342792,27.6121383] n277140118[53.9342293,27.6123341]
 w25429649
   other tags : addr:housenumber=6 | addr:postcode=220049 | addr:street=улица Кнорина | building=apartments | building:type=house | roof:shape=hipped
