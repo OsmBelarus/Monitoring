@@ -468,16 +468,13 @@ n674060105  Янушкоўскага / Januškoŭskaha / Янушковског�
     geometry : [55.2105549,30.2244801]
 n674060106  null / null / ПМК-25 / ПМК-25
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.2148636,30.2432991]
+    geometry : [55.2148143,30.2433738]
 n674060108  null / null / ПМК-25 / ПМК-25
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2147115,30.2432089]
-n674060113  8-я Саўгасная вул. / 8-ja Saŭhasnaja vul. / 8-я Совхозная улица / 8-я Совхозная улица
-  other tags : highway=bus_stop
-    geometry : [55.2139757,30.2719826]
-n674060114  8-я Саўгасная вул. / 8-ja Saŭhasnaja vul. / 8-я Совхозная улица / 8-я Совхозная улица
-  other tags : highway=bus_stop
-    geometry : [55.2139934,30.2715750]
+n674060109  Хладакамбінат / null / Хладокомбинат / Хладокомбинат
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2144212,30.2551375]
 n800107470
   other tags : highway=bus_stop
     geometry : [55.3010966,30.3050754]
@@ -591,7 +588,7 @@ n1786458607
     geometry : [55.2143138,30.2466995]
 n1786458626
   other tags : highway=bus_stop
-    geometry : [55.2155503,30.2476763]
+    geometry : [55.2155106,30.2475595]
 n1803850664  null / null / СШ 45
   other tags : highway=bus_stop
     geometry : [55.1592880,30.2120447]
@@ -692,8 +689,11 @@ n2078743124  null / null / База «Хозторг»
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.2010693,30.2584997]
 n2082779526  null / null / Журжево
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2237048,30.2498673]
+n2082794356  null / null / Журжево
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2233079,30.2486782]
 n2123379765  Паліклініка № 1 / null / Поликлиника № 1 / Поликлиника № 1
   other names: name:uk=Поліклініка № 1
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
@@ -705,10 +705,10 @@ n2127622806  Індустрыяльна-педагагічны каледж / nu
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1837490,30.2474093]
 n2141443267  null / null / Магазин № 35
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2257036,30.2541359]
 n2141443268  null / null / Магазин № 35
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2257348,30.2550889]
 n2143487068  null / null / Посёлок Лужесно
   other tags : highway=bus_stop | public_transport=platform
@@ -884,9 +884,9 @@ n2516123670  null / null / 1-я Полярная
 n2517148869  null / null / Проспект Победы
   other tags : highway=bus_stop
     geometry : [55.1696980,30.2247905]
-n2519144841
-  other tags : highway=bus_stop
-    geometry : [55.2141861,30.2693714]
+n2519144841  Вуліца 8-я Саўгасная / null / Улица 8-я Совхозная / Улица 8-я Совхозная
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2141829,30.2693213]
 n2519479788  null / null / Дачная
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2272523,30.1627696]
@@ -1157,3 +1157,12 @@ n3535531972
 n3535531973
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1858596,30.2315541]
+n3588104199  Вуліца 3-я Саўгасная / null / Улица 3-я Совхозная / Улица 3-я Совхозная
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2138990,30.2612110]
+n3588104200  Вуліца 3-я Саўгасная / null / Улица 3-я Совхозная / Улица 3-я Совхозная
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2139730,30.2619743]
+n3588104201  Хладакамбінат / null / Хладокомбинат / Хладокомбинат
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2144808,30.2539495]
