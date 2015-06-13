@@ -1325,9 +1325,6 @@ n3208646751  Аптэка / Apteka / Аптека / Аптека
 n3220263139  Аптэка / Apteka / Аптека / Аптека
   other tags : addr:city=Минск | addr:housenumber=69 | addr:street=улица Селицкого | amenity=pharmacy
     geometry : [53.8375157,27.7030621]
-n3221656946
-  other tags : amenity=pharmacy
-    geometry : [53.8550002,27.5146805]
 n3233060662  ТАА «Доктар Час» / TAA «Doktar Čas» / ООО «Доктор Время» / ООО «Доктор Время»
   other tags : addr:city=Минск | addr:housenumber=33 | addr:street=улица Наполеона Орды | amenity=pharmacy
     geometry : [53.8443176,27.4825011]
@@ -1428,3 +1425,6 @@ n3579292619
 n3581370297
   other tags : amenity=pharmacy | drive_through=no
     geometry : [53.9155215,27.4264891]
+n3587642576
+  other tags : amenity=pharmacy | opening_hours=Mo-Fr 08:00-20:00; Sa,Su 10:00-17:00 | operator=ОДО Фармин
+    geometry : [53.8545116,27.5142817]
