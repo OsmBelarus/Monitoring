@@ -16,9 +16,6 @@ n306062191  null / null / ???? / ????
 n306062199  null / null / Храм В Честь Воздвижения Креста Господня 1898Г. / Храм В Честь Воздвижения Креста Господня 1898Г.
   other tags : amenity=place_of_worship
     geometry : [52.5407400,23.5409600]
-n306062200  null / null / Храм Во Имя Святителя Николая Чудотворца / Храм Во Имя Святителя Николая Чудотворца
-  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [52.4699917,23.5104554]
 n306062201  null / null / Храм В Честь Святой Троицы / Храм В Честь Святой Троицы
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [52.4790984,23.5203081]
@@ -40,3 +37,6 @@ w120291921  null / null / Св. Николая Чудотворца
 w353080136  null / null / Грушка
   other tags : amenity=place_of_worship | building=chapel | denomination=orthodox | religion=christian
     geometry : n3588661055[52.4937557,23.4906317] n3588661056[52.4937564,23.4908120] n3588661058[52.4938169,23.4908114] n3588661057[52.4938162,23.4906310] n3588661055[52.4937557,23.4906317]
+w353187697  null / null / Свято-Николаевская церковь
+  other tags : amenity=place_of_worship | building=church | denomination=orthodox | religion=christian
+    geometry : n3589534401[52.4703127,23.5107677] n3589534402[52.4703128,23.5107497] n3589534398[52.4701014,23.5107462] n3589534397[52.4701005,23.5108861] n3589534399[52.4703090,23.5108896] n3589534400[52.4703091,23.5108725] n3589534403[52.4703273,23.5108631] n3589534405[52.4703352,23.5108215] n3589534404[52.4703297,23.5107785] n3589534401[52.4703127,23.5107677]
