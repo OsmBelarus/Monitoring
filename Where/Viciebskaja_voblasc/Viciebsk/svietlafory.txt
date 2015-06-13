@@ -347,10 +347,10 @@ n674027554  Фабрыка «Сцяг індустрыялізацыі» / null 
   other tags : highway=bus_stop
     geometry : [55.2072720,30.2186406]
 n674027558  Асіпенкі / Asipienki / Осипенко / Осипенко
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2147292,30.2326589]
 n674027559  Асіпенкі / Asipienki / Осипенко / Осипенко
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2138986,30.2314669]
 n674035829  вул. Церашковай / vul. Cieraškovaj / Улица Терешковой / Улица Терешковой
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
