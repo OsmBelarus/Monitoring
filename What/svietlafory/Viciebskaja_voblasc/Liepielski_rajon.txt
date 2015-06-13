@@ -44,8 +44,8 @@ n2563180501
   other tags : highway=bus_stop | public_transport=platform
     geometry : [54.7715569,28.3032211]
 n2563215784
-  other tags : highway=bus_stop
-    geometry : [54.9515822,28.4888086]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [54.9515365,28.4890009]
 n2563476094
   other tags : highway=bus_stop
     geometry : [54.7658360,28.4812618]
@@ -121,3 +121,9 @@ n3589498073
 n3589498074
   other tags : highway=bus_stop
     geometry : [54.8625195,28.6976372]
+n3590323112
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [54.9457202,28.4705251]
+n3590323113
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [54.9458849,28.4713974]
