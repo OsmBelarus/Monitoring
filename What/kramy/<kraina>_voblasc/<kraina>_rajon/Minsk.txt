@@ -3763,9 +3763,6 @@ n1278066805
 n1278066810
   other tags : addr:city=Минск | addr:housenumber=9 к1 | addr:postcode=220007 | addr:street=улица Жуковского | shop=books
     geometry : [53.8821022,27.5517310]
-n1278072021  "Ў" / null / null
-  other tags : fixme:komzpa=добавить русское имя | shop=books
-    geometry : [53.9103305,27.5752964]
 n1285394345  null / null / Антикваръ
   other names: name:en=Antiquarian
   other tags : shop=jewelry
@@ -4979,9 +4976,9 @@ n1655822180  null / null / Виталюр
 n1657548817  Крама Ў / null / null
   other tags : fixme:komzpa=добавить русское имя | shop=gift
     geometry : [53.9106367,27.5755889]
-n1657550396  Кнігарня ЛогвінаЎ / null / null
-  other tags : fixme:komzpa=добавить русское имя | shop=books
-    geometry : [53.9104692,27.5754495]
+n1657550396  Кнігарня ЛогвінаЎ / null / Книжный магазин Логвинов / Книжный магазин Логвинов
+  other tags : shop=books
+    geometry : [53.9104828,27.5753840]
 n1663010465  Прылессе / null / Полесье
   other tags : shop=convenience
     geometry : [53.9168020,27.5946700]
