@@ -290,6 +290,12 @@ n3324642897
 n3508236423
   other tags : communication:mobile_phone=yes | man_made=mast | operator=MTS | operator:MNC=02 | tower:type=communication
     geometry : [53.6756353,25.9527615]
+n3591269357
+  other tags : communication:mobile_phone=yes | man_made=water_tower | operator=MTS;VELCOM | operator:MNC=01;02 | tower:type=communication
+    geometry : [53.4411261,25.9130040]
+n3591269364
+  other tags : communication:mobile_phone=yes | height=70 | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [53.6451960,26.1109050]
 w25137164
   other tags : landuse=farmyard
     geometry : n273909465[53.6913096,26.0708669] n273909467[53.6916504,26.0738318] n273909468[53.6931739,26.0733325] n273909469[53.6928332,26.0703676] n273909465[53.6913096,26.0708669]
