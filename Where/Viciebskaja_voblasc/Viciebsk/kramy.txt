@@ -602,9 +602,6 @@ n1191936893  Оптыка / null / Оптика / Оптика
 n1193017739  Кенгуру / null / Кенгуру
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-16:00 | shop=baby_goods
     geometry : [55.1688476,30.2410173]
-n1201839948  Вицебскаблсаюздрук / null / Витебскоблсоюзпечать / Витебскоблсоюзпечать
-  other tags : building=yes | building:levels=1 | contact:email=vitebsk_sp@mail.ru | contact:phone=+375212362995 | contact:website=http://vitoblsouzpechat.by/ | shop=newsagent
-    geometry : [55.1825692,30.2059909]
 n1201840070  SPA Калінка / null / SPA Калинка
   other tags : opening_hours=Mo-Sa 10:00-20:00 | shop=beauty
     geometry : [55.1868659,30.2019446]
@@ -819,14 +816,14 @@ n1306422289
     geometry : [55.1656451,30.2054799]
 n1307539177  КІМ / null / КИМ / КИМ
   other tags : shop=clothes
-    geometry : [55.1833962,30.2060416]
+    geometry : [55.1834184,30.2060416]
 n1307539182  Марка / null / Марко / Марко
   other names: name:uk=Марко
   other tags : phone=+375-212-376380 | shop=shoes
     geometry : [55.1952475,30.2040068]
 n1307539194  null / null / Белвест
   other tags : shop=shoes
-    geometry : [55.1829486,30.2057925]
+    geometry : [55.1829708,30.2057925]
 n1310141424  WEST / null / WEST
   other tags : addr:housenumber=4 | shop=hifi | website=http://www.west.vitebsk.by/
     geometry : [55.1893994,30.2007737]
@@ -1136,7 +1133,7 @@ n1405018696  Прамтавары №9 / null / Промтовары №9
 n1405018702  Фіянсі / null / Свадебный салон "Фианси"
   other tags : description=Свадебный салон | opening_hours=Mo-Fr 10:00-19:00; Sa 11:00-17:00 | shop=boutique
     geometry : [55.1879931,30.2049660]
-n1405018706
+n1405018706  null / null / Домовой / Домовой
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=hardware
     geometry : [55.1859108,30.2042095]
 n1405018711
@@ -2275,7 +2272,7 @@ n2574784094  null / null / Свой мастер. Ковка.
     geometry : [55.1932326,30.2331157]
 n2576703543  null / null / Marko
   other tags : shop=shoes
-    geometry : [55.1832288,30.2059484]
+    geometry : [55.1832510,30.2059484]
 n2585562848
   other tags : shop=convenience
     geometry : [55.1704502,30.2117811]
@@ -3438,3 +3435,9 @@ n3590042184  Білетныя касы / null / Билетные кассы / Б
 n3590042185  Білетныя касы / null / Билетные кассы / Билетные кассы
   other tags : shop=ticket
     geometry : [55.1964724,30.1878912]
+n3594888421  null / null / Вега
+  other tags : opening_hours=Mo-Sa 09:00-13:00,14:00-19:00; Su 09:00-13:00,14:00-15:00 | operator=ООО «Вегаприм» | shop=pawnbroker
+    geometry : [55.1825269,30.2061731]
+n3594888422  null / null / Все звёзды
+  other tags : opening_hours=Mo-Sa 09:00-20:00; Su 09:00-15:00 | shop=hairdresser
+    geometry : [55.1825367,30.2061176]
