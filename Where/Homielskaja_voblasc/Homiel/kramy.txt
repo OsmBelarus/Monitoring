@@ -866,7 +866,7 @@ n1359827786
 n1359827787
   other tags : shop=jewelry
     geometry : [52.5341367,30.9156889]
-n1361125996
+n1361125996  null / null / Провинция
   other tags : shop=convenience
     geometry : [52.4050887,30.9200897]
 n1362730353
@@ -1325,7 +1325,7 @@ n3103402203  null / null / Женское белье ФОН
 n3170198999  null / null / Автосалон Škoda
   other names: name:en=Škoda
   other tags : shop=car
-    geometry : [52.4051102,30.9213302]
+    geometry : [52.4051996,30.9207012]
 n3188075651  null / null / Шиномонтаж
   other tags : shop=car_repair
     geometry : [52.3688670,31.0303841]
@@ -1389,3 +1389,21 @@ n3530520361
 n3544312501  null / null / Мандарин-Плаза
   other tags : shop=mall
     geometry : [52.4166334,30.9612197]
+n3594056872  null / null / Два гуся
+  other tags : shop=convenience
+    geometry : [52.4003272,30.9141814]
+n3594057144  null / null / Евроопт
+  other tags : operator=Евроторг | shop=convenience
+    geometry : [52.3987846,30.9105465]
+n3594058668  null / null / Косметичка
+  other tags : shop=cosmetics
+    geometry : [52.3997204,30.9128555]
+n3594058669  null / null / За пивком
+  other tags : shop=convenience
+    geometry : [52.3996742,30.9126055]
+n3594058670  null / null / Зоомагазин
+  other tags : shop=convenience
+    geometry : [52.3995079,30.9120549]
+n3594062897  null / null / Твой велик
+  other tags : shop=bicycle
+    geometry : [52.4052819,30.9210608]
