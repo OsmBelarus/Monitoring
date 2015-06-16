@@ -98,7 +98,7 @@ n757416356
   other tags : amenity=toilets | fee=no
     geometry : [53.9383066,27.4792120]
 n767279026
-  other tags : amenity=toilets | fee=yes | layer=-1
+  other tags : access=public | amenity=toilets | fee=yes | layer=-1 | toilets:disposal=flush
     geometry : [53.9060559,27.4545865]
 n940887795
   other tags : amenity=toilets | fee=no
@@ -304,6 +304,18 @@ n3590411001
 n3591801852
   other tags : amenity=toilets
     geometry : [53.9189217,27.6164124]
+n3596976191
+  other tags : access=customers | amenity=toilets | fee=no | toilets:disposal=flush
+    geometry : [53.9111394,27.4380804]
+n3596976192
+  other tags : access=public | amenity=toilets | fee=no | toilets:disposal=flush
+    geometry : [53.9281008,27.4331243]
+n3596983193
+  other tags : access=public | amenity=toilets | fee=no | toilets:disposal=flush
+    geometry : [53.9259904,27.4437688]
+n3596983194
+  other tags : access=customers | amenity=toilets | fee=no | toilets:disposal=flush
+    geometry : [53.8987502,27.4415403]
 w25388189
   other tags : amenity=toilets | building=yes
     geometry : n276705869[53.9283938,27.5407228] n276705870[53.9284217,27.5408048] n276705871[53.9283602,27.5408652] n276705872[53.9283323,27.5407832] n276705869[53.9283938,27.5407228]
