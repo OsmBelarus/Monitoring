@@ -510,7 +510,7 @@ n1258006361  null / null / ZIKO
     geometry : [53.6777969,23.8323200]
 n1258009618  null / null / Золотая мечта
   other tags : shop=jewelry
-    geometry : [53.6777461,23.8328296]
+    geometry : [53.6777600,23.8327244]
 n1258179318
   other tags : shop=hifi
     geometry : [53.6917700,23.8253511]
@@ -1286,6 +1286,10 @@ n3261955403  null / null / "Ноутбуки"
 n3261955404  null / null / Фотоцентр "Сфера"
   other tags : shop=photo
     geometry : [53.6714827,23.8105058]
+n3476026013  null / null / ЧУП "ДипБит"
+  other names: name:en=DeepBit
+  other tags : addr:city=Гродно | addr:housename=ЧУП "ДипБит" | addr:housenumber=11 | addr:postcode=230025 | addr:street=улица Карла Маркса | building=office | shop=yes
+    geometry : [53.6776923,23.8330723]
 n3477185770  null / null / Твой Велик
   other tags : shop=bicycle
     geometry : [53.6764999,23.8416872]

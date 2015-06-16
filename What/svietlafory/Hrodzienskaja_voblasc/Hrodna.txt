@@ -1120,10 +1120,10 @@ n2304012840  null / null / база "Галантерея"
 n2304012841  null / null / база "Галантерея"
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.6906097,23.8689652]
-n2342024542  Магазин Родны кут / Dzieviatoŭka–7 / Магазин Родны кут / Магазин Родны кут
+n2342024542  Магазін "Родны кут" / null / Магазин "Родны кут" / Магазин "Родны кут"
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.7135752,23.8669230]
-n2342024681
+n2342024681  Дзевятоўка–7 / Dzieviatoŭka–7 / Девятовка–7 / Девятовка–7
   other tags : highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.7132665,23.8719015]
 n2343656190  Дзевятоўка–4 / Dzieviatoŭka–4 / Девятовка–4 / Девятовка–4
@@ -1156,7 +1156,7 @@ n2630823976  вуліца Кабяка – 2 / null / улица Кабяка �
 n2631283640  вуліца Кабяка – 2 / null / улица Кабяка – 2 / улица Кабяка – 2
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6469405,23.8652956]
-n2660413107  Магазин Родны кут / Магазин Родны кут / Магазин Родны кут / Магазин Родны кут
+n2660413107  Дзевятоўка–7 / Dzieviatoŭka–7 / Девятовка–7 / Девятовка–7
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.7133669,23.8682051]
 n2690057477  Сабор / null / Собор / Собор
@@ -1192,3 +1192,6 @@ n3401471833
 n3505724729  null / null / Б. Ольшанская
   other tags : bench=yes | bus=yes | covered=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6224009,23.8171774]
+n3596106953  Дзевятоўка–7 / Dzieviatoŭka–7 / Девятовка–7 [без посадки и высадки] / Девятовка–7 [без посадки и высадки]
+  other tags : highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.7139517,23.8741672]
