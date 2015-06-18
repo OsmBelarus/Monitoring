@@ -1191,6 +1191,9 @@ n3502635213
 n3525076045  Масква-Мінск / null / Москва-Минск / Москва-Минск
   other tags : amenity=bank | description:be=Каса №40 | description:ru=Касса №40 | opening_hours=Mo-Su 09:00-12:30,13:00-16:30,17:00-18:00,18:10-20:00 | operator:be=ААТ "Банк Масква-Мінск" | operator:ru=ОАО "Банк Москва-Минск" | ref=40
     geometry : [53.9438893,27.6862562]
+n3600892020  null / null / Беларусбанк
+  other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:30-17:00 | ref=№514/400
+    geometry : [53.9209920,27.5279992]
 w25317741  ЦБП "Беларусбанк" / null / ЦБУ "Беларусбанк" / ЦБУ "Беларусбанк"
   other tags : addr:housenumber=9 | addr:street=улица Руссиянова | amenity=bank | building=public | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-17:00; We[4] 11:00-20:00 | operator=Беларусбанк | phone=+375 17 285 94 49
     geometry : n275818051[53.9383179,27.6839695] n275818054[53.9385625,27.6839366] n275818061[53.9385714,27.6841264] n275818066[53.9383268,27.6841593] n275818051[53.9383179,27.6839695]
