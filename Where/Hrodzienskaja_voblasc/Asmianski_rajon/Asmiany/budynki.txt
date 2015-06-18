@@ -2028,7 +2028,7 @@ w200135702  Музей Ф. Багушэвіча / Francišak Bahuševič Museum 
   other tags : addr:housenumber=126 | addr:street=Советская улица | building=yes | building:levels=2 | roof:levels=1 | roof:shape=hipped | tourism=museum
     geometry : n2101224792[54.4244501,25.9338005] n2101224794[54.4242249,25.9339704] n2101224793[54.4242767,25.9341813] n2101224791[54.4245027,25.9340103] n2101224792[54.4244501,25.9338005]
 w200135855
-  other tags : addr:housenumber=13 | addr:street=Кооперативная улица | building=yes | building:colour=yellow | building:levels=1 | roof:levels=1 | roof:shape=gabled
+  other tags : addr:housenumber=13 | addr:street=Кооперативная улица | building=yes | building:colour=yellow | building:levels=1 | building:material=wood | roof:levels=1 | roof:material=eternit | roof:shape=gabled
     geometry : n2101228530[54.4271535,25.9180519] n2101228532[54.4271590,25.9181682] n2101228533[54.4270442,25.9181844] n2101228531[54.4270387,25.9180682] n2101228530[54.4271535,25.9180519]
 w203350278
   other tags : addr:housenumber=66 | addr:street=Красноармейская улица | building=yes | building:levels=1 | roof:levels=1 | roof:shape=hipped
@@ -2046,10 +2046,10 @@ w222924470
   other tags : addr:housenumber=11 | addr:street=Кооперативная улица | building=yes | building:levels=1 | roof:levels=1 | roof:shape=gabled
     geometry : n2318682481[54.4270059,25.9189888] n2318682482[54.4270255,25.9191407] n2318682478[54.4268476,25.9192085] n2318682477[54.4268280,25.9190566] n2318682481[54.4270059,25.9189888]
 w222924471
-  other tags : addr:street=Кооперативная улица | building=yes | building:levels=1 | roof:levels=1 | roof:shape=gabled
+  other tags : addr:street=Кооперативная улица | building=yes | building:levels=1 | building:material=wood | roof:levels=1 | roof:material=eternit | roof:shape=gabled
     geometry : n2318682469[54.4265187,25.9186025] n2318682470[54.4265258,25.9187086] n2318682468[54.4264713,25.9187193] n2318682467[54.4264642,25.9186132] n2318682469[54.4265187,25.9186025]
 w222924472
-  other tags : addr:housenumber=80 | addr:street=Красноармейская улица | building=yes | building:levels=2 | roof:levels=1 | roof:shape=gabled
+  other tags : addr:housenumber=80 | addr:street=Красноармейская улица | building=yes | building:levels=2 | roof:colour=red | roof:levels=1 | roof:shape=gabled
     geometry : n2318682487[54.4278550,25.9176919] n2318682488[54.4278628,25.9178578] n2318682490[54.4279841,25.9178410] n2318682489[54.4279763,25.9176752] n2318682487[54.4278550,25.9176919]
 w222924473
   other tags : addr:housenumber=15 | addr:street=Кооперативная улица | building=yes | building:levels=1 | roof:levels=1 | roof:shape=gabled
@@ -2067,16 +2067,16 @@ w222924477
   other tags : building=yes | roof:shape=hipped
     geometry : n2318682462[54.4261664,25.9168294] n2318682458[54.4260535,25.9168254] n2318682457[54.4260519,25.9169596] n2318682461[54.4261648,25.9169636] n2318682462[54.4261664,25.9168294]
 w223009591
-  other tags : building=yes | building:levels=1 | roof:levels=1 | roof:shape=gabled
+  other tags : building=yes | building:levels=1 | building:material=wood | roof:levels=1 | roof:material=eternit | roof:shape=gabled
     geometry : n2319576680[54.4273006,25.9183577] n2319576681[54.4273090,25.9184398] n2319576666[54.4271889,25.9184764] n2319576665[54.4271805,25.9183943] n2319576680[54.4273006,25.9183577]
 w223009593
   other tags : building=yes | building:levels=1
     geometry : n2319576660[54.4271394,25.9178204] n2319576661[54.4271526,25.9179376] n2319576670[54.4272074,25.9179193] n2319576669[54.4271943,25.9178022] n2319576660[54.4271394,25.9178204]
 w223009594
-  other tags : building=yes | building:levels=1 | roof:levels=1 | roof:shape=gabled
+  other tags : building=yes | building:levels=1 | roof:levels=1 | roof:material=eternit | roof:shape=gabled
     geometry : n2319576674[54.4271826,25.9181280] n2319576676[54.4271795,25.9180416] n2319576667[54.4272404,25.9180350] n2319576663[54.4272437,25.9181214] n2319576674[54.4271826,25.9181280]
 w223009595
-  other tags : addr:housenumber=72 | addr:street=Красноармейская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=72 | addr:street=Красноармейская улица | building=yes | building:levels=1 | roof:colour=red
     geometry : n2319576672[54.4272017,25.9175354] n2319576673[54.4272085,25.9176522] n2319576662[54.4271676,25.9176592] n2319576664[54.4271749,25.9177866] n2319576679[54.4272794,25.9177687] n2319576678[54.4272653,25.9175245] n2319576672[54.4272017,25.9175354]
 w223059122
   other tags : building=yes | roof:shape=gabled
