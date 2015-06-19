@@ -44,7 +44,7 @@ n1334908339
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.2052128,30.2762986]
 n1501304348
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2058450,30.2874033]
 n1588881006  null / null / Орлово-2
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -170,7 +170,7 @@ n2286020723  null / null / Белвитунифарм / Белвитунифар
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.3583169,30.0717639]
 n2331779257  null / null / Тулово
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2058344,30.2896525]
 n2331782473  null / null / Центральная
   other tags : highway=bus_stop
