@@ -153,7 +153,7 @@ n1100240011  ATM Беларусбанк / ATM Bielarusbank / ATM Беларус�
     geometry : [55.1712947,30.2228487]
 n1100240026  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | operator=БПС-Сбербанк
-    geometry : [55.1702278,30.2222562]
+    geometry : [55.1702333,30.2222078]
 n1106746197  ATM / null / null
   other tags : amenity=atm
     geometry : [55.1825065,30.2311070]
@@ -210,7 +210,7 @@ n1398217272  ATM Белінвестбанк / ATM Bielinviestbank / ATM Бели
     geometry : [55.1963732,30.2065103]
 n1401564165
   other tags : amenity=atm | operator=Беларусбанк
-    geometry : [55.1700698,30.2234230]
+    geometry : [55.1700753,30.2233746]
 n1463940033  ATM Беларусбанк / null / АТМ Беларусбанк / АТМ Беларусбанк
   other tags : amenity=atm | cash_in=no | cash_out=yes | contact:phone=+375212244870 | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:others=no | language:ru=yes | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1889260,30.2451649]
@@ -386,8 +386,8 @@ n2965911251  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
   other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
     geometry : [55.1992404,30.1942960]
 n2969422397  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
-  other tags : amenity=atm | contact:website=http://www.vtb-bank.by/ | opening_hours=24/7 | operator=ЗАО «Банк ВТБ»
-    geometry : [55.1699873,30.2236520]
+  other tags : amenity=atm | contact:website=http://www.vtb-bank.by/ | opening_hours=24/7 | operator=Банк ВТБ | owner=ЗАО «Банк ВТБ»
+    geometry : [55.1699928,30.2236036]
 n2969538207  ATM Белінвестбанк / Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1581460,30.2144618]
@@ -420,7 +420,7 @@ n3158161289  null / null / Инфокиоск / Инфокиоск
     geometry : [55.1808482,30.2304046]
 n3199553600
   other tags : amenity=atm | opening_hours=24/7
-    geometry : [55.1699799,30.2237127]
+    geometry : [55.1699854,30.2236643]
 n3476745771  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
   other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1719250,30.2363516]
