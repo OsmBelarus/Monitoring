@@ -1386,7 +1386,7 @@ n305683641
   other tags : shop=car_repair
     geometry : [53.9468357,27.5828864]
 n305683685  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : shop=car
+  other tags : service=tyres | shop=car_repair
     geometry : [53.8791808,27.5949245]
 n305683762
   other tags : shop=car_repair
@@ -11135,7 +11135,7 @@ n3536745632  Кляштарны / null / Монастырский / Монаст
 n3536745633  null / null / ООО "Верона стиль"
   other tags : opening_hours=Mo-Fr 9:00-20:00; Sa 9:00-17:00; Su 10:00-17:00 | shop=hairdresser
     geometry : [53.9046133,27.5579443]
-n3538143924  null / null / Шиномонтаж
+n3538143924  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [53.8798764,27.5966089]
 n3538143929  null / null / СТО
@@ -11334,3 +11334,6 @@ n3603237428
 n3603912313  null / null / СТО
   other tags : addr:housenumber=8 | addr:street=улица Володько | operator=АвтоМаксиКом | shop=car_repair
     geometry : [53.8798548,27.5622127]
+n3603947318
+  other tags : shop=convenience
+    geometry : [53.8780888,27.5964494]
