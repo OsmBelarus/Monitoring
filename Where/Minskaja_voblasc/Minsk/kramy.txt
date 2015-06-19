@@ -7492,6 +7492,9 @@ n2627191322  null / null / СТО
 n2627388215
   other tags : addr:housenumber=33 | addr:postcode=220114 | addr:street=улица Филимонова | shop=yes
     geometry : [53.9211199,27.6369141]
+n2627501345  null / null / Стройматериалы
+  other tags : shop=doityourself
+    geometry : [53.8375955,27.6286207]
 n2627520514  null / null / Зоомагазин
   other tags : shop=pet
     geometry : [53.8353542,27.6275987]
@@ -11328,3 +11331,9 @@ n3601986087  null / null / СТО
 n3602290511  null / null / Свитанак
   other tags : shop=clothes
     geometry : [53.8941257,27.4235293]
+n3603237427
+  other tags : shop=convenience
+    geometry : [53.8375120,27.6313856]
+n3603237428
+  other tags : shop=convenience
+    geometry : [53.8379920,27.6313571]
