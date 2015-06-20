@@ -14,7 +14,7 @@ n331012804  У Кліма / null / У Клима
   other tags : amenity=cafe | cuisine=regional | opening_hours=Mo-Su 10:00-24:00
     geometry : [55.1930233,30.2152699]
 n338978799  Арэна-сушы / null / Арена суши / Арена суши
-  other tags : amenity=restaurant | contact:phone=+375(212) 37-37-90 | contact:website=http://www.arena-pizza.by/ | cuisine=japanese | email=arena-pizza@mail.ru | opening_hours=Mo-Su 12:00-23:00 | smoking=no
+  other tags : amenity=restaurant | contact:email=arena-pizza@mail.ru | contact:phone=+375(212) 37-37-90 | contact:website=http://www.arena-pizza.by/ | cuisine=sushi | opening_hours=Mo-Su 12:00-23:00 | smoking=no
     geometry : [55.1979030,30.2080626]
 n339065575  Залаты дракон / null / Золотой дракон
   other tags : addr:street=улица Крылова | amenity=restaurant | contact:phone=+375-212-236300 | cuisine=chinese | opening_hours=Mo-Su 12:00-00:00
@@ -64,8 +64,8 @@ n806433470  Віцебская карчма / null / Витебский трак
 n806433640  null / null / Эйлат
   other tags : amenity=cafe
     geometry : [55.1963120,30.2048766]
-n807645348  null / null / Кофе Ман
-  other tags : amenity=cafe | opening_hours=11:00-24:00
+n807645348  null / null / Кофеман
+  other tags : amenity=cafe | cuisine=coffee | opening_hours=Mo-Su 11:00-24:00
     geometry : [55.1979955,30.2067452]
 n861267354  Кавярня «ОК» / null / Кафе "ОК"
   other tags : amenity=cafe | internet_access=wlan | opening_hours=10:00-00:00
@@ -160,6 +160,9 @@ n1255604843  Сталовая / null / Столовая / Столовая
 n1260788757  Гулівер / null / Гулливер
   other tags : amenity=fast_food | internet_access=no | internet_access:fee=no | opening_hours=Mo-Su 11:00-24:00 | phone=+375-212-359955 | smoking=no
     geometry : [55.1941209,30.2019795]
+n1276842674  Аўрора Кафэ-марозіва / null / Аврора - мороженое
+  other tags : amenity=cafe | cuisine=ice_cream
+    geometry : [55.1980551,30.2072769]
 n1276842680  null / null / Бар "Двинский бровар"
   other tags : amenity=pub
     geometry : [55.1989873,30.2073652]
