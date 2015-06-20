@@ -969,9 +969,6 @@ n1262424913
 n1262424931
   other tags : amenity=waste_disposal
     geometry : [55.1927186,30.2410741]
-n1262509697
-  other tags : amenity=drinking_water | man_made=standpipe
-    geometry : [55.1926627,30.2393338]
 n1263077866  Бухгалтэрыя / null / Бухгалтерия
   other tags : contact:phone=+375 (212) 241990 | opening_hours=Mo-Su 08:00-13:00,14:00-17:00
     geometry : [55.1931604,30.2419665]
@@ -1982,7 +1979,7 @@ n1590396230  null / null / автошкола «Новый Вираж»
   other tags : amenity=driving_school | contact:website=http://newvirag.by/ | ref=222
     geometry : [55.1707139,30.2154738]
 n1590396231  null / null / Бильярдный бар
-  other tags : amenity=bar
+  other tags : amenity=bar | sport=billiards
     geometry : [55.1709591,30.2418563]
 n1606141904  Следчы камітэт / null / Следственный комитет / Следственный комитет
   other tags : amenity=police | phone=+375-212-487010, +375-212-486637 | website=http://sk.gov.by/ru/contacts-usk-vitebsk-ru/ | wheelchair=yes
