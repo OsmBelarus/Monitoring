@@ -555,7 +555,7 @@ n1181064293  Аманд / null / Аманд
     geometry : [55.1654384,30.2416485]
 n1185760994  Веста № 64 / null / Веста № 64
   other tags : email=pokypatel_vesta@tut.by | opening_hours=Mo-Sa 07:30-21:00; Su 07:30-20:00 | phone=+375 (212) 36-99-80 | shop=convenience | website=http://vesta-retail.by/
-    geometry : [55.1948742,30.1885062]
+    geometry : [55.1948742,30.1884766]
 n1185777570  Веста № 123 / null / Веста № 123 / Веста № 123
   other tags : contact:website=http://vesta-retail.by/ | shop=convenience
     geometry : [55.1757654,30.2138369]
@@ -668,7 +668,7 @@ n1255486901  Рарытэт / null / Раритет
     geometry : [55.1941643,30.1935031]
 n1255604849  МТС / null / Салон связи МТС
   other tags : brand=МТС | email=info@mts.by | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | operator=СООО «Мобильные ТелеСистемы» | shop=mobile_phone | website=http://www.mts.by/
-    geometry : [55.1950637,30.1885156]
+    geometry : [55.1950637,30.1884860]
 n1255604895  null / null / Спецодежда
   other tags : contact:phone=+375(29) 599-77-11, +375(33) 665-77-11 | opening_hours=Mo-Fr 09:00-17:00 | shop=clothes
     geometry : [55.1970684,30.1957016]
@@ -729,9 +729,9 @@ n1282976954  null / null / Лотос
 n1283177572  null / null / Него
   other tags : shop=convenience
     geometry : [55.1933246,30.2031978]
-n1283182988  Крама Adidas / null / Магазин "Adidas"
-  other tags : shop=clothes
-    geometry : [55.1946355,30.1902296]
+n1283182988  Adidas / null / Adidas / Adidas
+  other tags : shop=sports
+    geometry : [55.1946355,30.1902000]
 n1284369473
   other tags : shop=kiosk
     geometry : [55.1673595,30.2408622]
@@ -2752,7 +2752,7 @@ n2921997370  null / null / Шанс
     geometry : [55.2042120,30.1660861]
 n2926327515  null / null / Салон связи life:)
   other tags : brand=life:) | email=info@life.com.by | office=telecommunication | opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00 | operator=ЗАО «БеСТ» | phone=+375 (25) 603-57-07 | shop=mobile_phone | website=http://www.life.com.by/
-    geometry : [55.1952934,30.1886175]
+    geometry : [55.1952934,30.1885879]
 n2934883173  null / null / Продукты
   other tags : opening_hours=Mo-Su 07:00-23:00 | operator=ЧП «Виленалюкс» | shop=convenience
     geometry : [55.1938772,30.2338821]
@@ -3450,3 +3450,9 @@ n3598594856
 n3598594857
   other tags : opening_hours=Mo-Fr 08:30-19:30; Sa,Su 10:00-18:00 | shop=stationery
     geometry : [55.1667157,30.2607454]
+n3605196181  null / null / Диваны тут
+  other tags : opening_hours=Tu-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-17:00 | shop=furniture
+    geometry : [55.1961595,30.1899004]
+n3605196182  null / null / Мила / Мила
+  other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ООО «Парфюм Трейд» | shop=cosmetics
+    geometry : [55.1956775,30.1887518]

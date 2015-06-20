@@ -304,9 +304,9 @@ n2358049418  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
 n2360392579  ATM Прыёрбанк / ATM Pryjorbank / ATM Приорбанк / ATM Приорбанк
   other tags : amenity=atm | contact:website=http://www.priorbank.by/ | opening_hours=24/7 | operator=Приорбанк | owner=ОАО «Приорбанк»
     geometry : [55.1845487,30.2336411]
-n2378164774
-  other tags : amenity=atm
-    geometry : [55.1960762,30.1895484]
+n2378164774  ATM Белгазпрамбанк / null / ATM Белгазпромбанк / ATM Белгазпромбанк
+  other tags : amenity=atm | contact:email=bank@bgpb.by | contact:website=http://belgazprombank.by/ | operator=Белгазпромбанк | owner=ОАО «Белгазпромбанк»
+    geometry : [55.1960826,30.1895381]
 n2400761049  ATM Белаграпрамбанк / null / ATM Белагропромбанк / ATM Белагропромбанк
   other tags : amenity=atm | contact:email=info@belapb.by | contact:website=http://www.belapb.by/ | opening_hours=24/7 | operator=ОАО «Белагропромбанк»
     geometry : [55.1961945,30.1878789]
@@ -427,3 +427,6 @@ n3476745771  ATM Беларусбанк / null / ATM Беларусбанк / AT
 n3548728963  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:others=no | language:ru=yes | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1963747,30.1953755]
+n3605196179  ATM Альфа-Банк / null / ATM Альфа-Банк / ATM Альфа-Банк
+  other tags : amenity=atm | contact:website=https://www.alfabank.by/ | opening_hours=24/7 | operator=Альфа-Банк | owner=ЗАО «Альфа-Банк»
+    geometry : [55.1957723,30.1887932]
