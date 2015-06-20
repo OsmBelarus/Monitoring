@@ -5282,12 +5282,9 @@ n2395014060  null / null / Колледж стройматериалов
 n2395014061  null / null / Станция метро Михалово
   other tags : highway=bus_stop
     geometry : [53.8769254,27.4957756]
-n2402132238  null / null / Каменногорская, 100
-  other tags : highway=bus_stop | public_transport=stop_position | shelter=yes
-    geometry : [53.9326780,27.4278253]
 n2402132239  null / null / Каменногорская, 100
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [53.9323505,27.4269784]
+  other tags : covered=yes | highway=bus_stop | shelter=yes
+    geometry : [53.9323120,27.4268453]
 n2402132240  null / null / Каменная Горка-4
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9302319,27.4254716]
