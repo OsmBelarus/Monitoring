@@ -494,11 +494,11 @@ n976710902  Праразная / Praraznaja / Прорезная
   other tags : highway=bus_stop
     geometry : [55.2136856,30.1971244]
 n1072544183  Камбінат Віцьба / null / комбинат Витьба
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1700262,30.2576831]
 n1072544187  Камбінат Віцьба / null / комбинат Витьба
-  other tags : highway=bus_stop
-    geometry : [55.1698384,30.2566406]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1698384,30.2565985]
 n1107002047  вул. Ак. Паўлава / vul. Akademika Paŭlava / ул. Ак. Павлова
   other tags : highway=bus_stop
     geometry : [55.1790464,30.1895652]
@@ -579,7 +579,7 @@ n1504762794  Спецаўтабаза / null / Спецавтобаза
     geometry : [55.1594678,30.2635781]
 n1522164275  null / null / Улица Короткевича
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.1736210,30.2582816]
+    geometry : [55.1736231,30.2582413]
 n1752556304  null / null / Тулово-1
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1933564,30.2834285]

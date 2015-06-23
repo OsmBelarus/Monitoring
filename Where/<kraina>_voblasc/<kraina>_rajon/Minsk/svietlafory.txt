@@ -3476,7 +3476,7 @@ n767088702  Зацень / null / Зацень / Зацень
     geometry : [53.9587400,27.5075700]
 n767088711  null / null / Переулок Ермака
   other tags : bus=yes | generated=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [53.9678096,27.5138887]
+    geometry : [53.9678424,27.5139213]
 n767088715  Магазін / null / Миколаевская / Магазин
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9628906,27.5083254]
@@ -5528,3 +5528,6 @@ n3572391493  Навінкі / null / Новинки / Новинки
 n3578092709  Нацыянальны аэрапорт Мінск / null / Национальный аэропорт Минск / Национальный аэропорт Минск
   other tags : highway=bus_stop | note=Аўтобусы: 300Э, 173Э; Маршруткі: 1400-ТК | ref=41501
     geometry : [53.8899968,28.0321837]
+n3609615007
+  other tags : bench=yes | covered=no | highway=bus_stop | shelter=no
+    geometry : [53.9316902,27.6728021]

@@ -21,7 +21,7 @@ n306313563  null / null / Цветы
     geometry : [55.1896854,30.2087232]
 n306314504  null / null / Новый дом плюс
   other tags : contact:email=newhouseplus@mail.ru | contact:phone=+375 (25) 601 86 90, +375 (33) 336 03 03, +375 (212) 58 64 64 | contact:website=http://www.newdom.by/ | description=магазин-склад стройматериалов | opening_hours=Mo-Fr 08:30-19:00; Sa 09:00-16:00 | ref=215 | shop=doityourself
-    geometry : [55.1666086,30.2419455]
+    geometry : [55.1666086,30.2419088]
 n324658252  null / null / Илва
   other tags : shop=travel_agency
     geometry : [55.1979169,30.2075519]
@@ -241,8 +241,8 @@ n1043416183  null / null / Витебскрыба / Витебскрыба
   other tags : shop=seafood
     geometry : [55.1616164,30.2196333]
 n1043426186  Шынамантаж / null / Шиномонтаж / Шиномонтаж
-  other tags : service=tyres | shop=car_repair
-    geometry : [55.1675033,30.2431793]
+  other tags : fixme=рехим работы | service=tyres | shop=car_repair
+    geometry : [55.1675092,30.2431430]
 n1054210290  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.1636263,30.2027214]
@@ -369,7 +369,7 @@ n1115036718  Кветкі / null / Цветы / Цветы
     geometry : [55.1774246,30.2299431]
 n1116135267  Аўтазапчасткі / null / СВ Моторс / СВ Моторс
   other tags : email=svmotors@bk.ru | opening_hours=Mo-Su 08:00-20:00 | phone=+375-212-223016, +375-212-21-15-69, +375-29-7194194, +375-44-7194194, +375-25-9029789 | shop=car_parts | website=http://www.svmotors.by/
-    geometry : [55.1674796,30.2423523]
+    geometry : [55.1674855,30.2423160]
 n1119210456  Шынамантаж / null / Tyre Plus / Tyre Plus
   other tags : brand=Michelin | contact:email=info@kis.by | contact:phone=+375 (212) 35-59-73, +375 (212) 35-55-41 | contact:website=http://www.comandir.by/ | opening_hours=Mo-Su 09:00-21:00 | operator=ЗАО «КиС» | service=tyres | shop=car_repair
     geometry : [55.1780245,30.2463971]
@@ -453,7 +453,7 @@ n1144563582  null / null / Hors Motors
   other tags : official_name=Магазин № 23 | opening_hours=Tu-Su 10:00-19:00 | phone=+375(33) 66-06-999, +375(44) 534-58-84, +375(212) 52-68-04 | shop=motorcycle | website=http://www.hors-motors.by/
     geometry : [55.2064195,30.2181779]
 n1144588707  Магія / null / Магия
-  other tags : shop=hairdresser
+  other tags : opening_hours=Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-15:00 | shop=hairdresser
     geometry : [55.2006341,30.2576467]
 n1144596511  null / null / Орхидея
   other tags : shop=hairdresser
@@ -552,7 +552,7 @@ n1170882563  Пінскі трыкатаж / null / Пинский трикот�
     geometry : [55.1935327,30.2272905]
 n1181064293  Аманд / null / Аманд
   other tags : description=Стройматериалы оптом | email=7154090@mail.ru | opening_hours=Mo-Fr 08:00-17:00 | phone=+375 (33) 6-545-545, +375 (29) 379-97-92, +375 (212) 25-87-88 | ref=2 | shop=doityourself | website=http://www.amand.by/
-    geometry : [55.1654384,30.2416485]
+    geometry : [55.1654384,30.2416118]
 n1185760994  Веста № 64 / null / Веста № 64
   other tags : email=pokypatel_vesta@tut.by | opening_hours=Mo-Sa 07:30-21:00; Su 07:30-20:00 | phone=+375 (212) 36-99-80 | shop=convenience | website=http://vesta-retail.by/
     geometry : [55.1948742,30.1884766]
@@ -880,7 +880,7 @@ n1321588534  Белдрэў / null / Белдрев
     geometry : [55.1799054,30.2455394]
 n1321607511
   other tags : opening_hours=Mo-Sa 08:00-20:00 | shop=hairdresser
-    geometry : [55.1669133,30.2421736]
+    geometry : [55.1669192,30.2421373]
 n1321724931  Ганна № 8 / null / Ганна № 8
   other tags : shop=convenience
     geometry : [55.1798519,30.1894284]
@@ -1285,13 +1285,13 @@ n1560870537  null / null / Ход-Транс
     geometry : [55.2046286,30.1662704]
 n1561489130  null / null / Амико
   other tags : description=официальный дилер Volkswagen | opening_hours=Mo-Fr 09:00-20:00; Sa,Su 09:00-18:00 | operator=ООО «Амико» | phone=+375 (29) 895-48-85, +375 (29) 378-55-15, +375 (212) 27 03 36 | shop=car | website=http://amiko.by/
-    geometry : [55.1650092,30.2417149]
+    geometry : [55.1650092,30.2416786]
 n1561489131  null / null / Амико
   other tags : opening_hours=Mo-Su 08:00-20:00 | operator=ООО «Амико» | shop=car_repair
-    geometry : [55.1646752,30.2417138]
+    geometry : [55.1646752,30.2416775]
 n1561489136  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
-    geometry : [55.1648126,30.2419338]
+    geometry : [55.1648126,30.2418975]
 n1561491128  null / null / Мила
   other tags : shop=chemist
     geometry : [55.1615292,30.2200680]
@@ -1423,7 +1423,7 @@ n1672917909  Шынамантаж / null / Шиномонтаж
     geometry : [55.1875195,30.2204944]
 n1675595573  Чараўніца прыёмны салон / null / Чаровница приёмный салон
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | shop=clothes
-    geometry : [55.1671806,30.2422220]
+    geometry : [55.1671865,30.2421857]
 n1677898509  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.1691136,30.1284635]
@@ -1487,6 +1487,9 @@ n1732971905  null / null / Парикмахерская №11
 n1733719284  null / null / Вояж
   other tags : shop=convenience
     geometry : [55.1961781,30.1866836]
+n1736061359  null / null / HiGSM
+  other tags : shop=doityourself | website=higsm.ru
+    geometry : [55.1917187,30.2325370]
 n1749412580  null / null / Новый
   other tags : opening_hours=Mo-Su 08:00-21:00 | operator=ЧУП «Витебская универсальная база» | shop=convenience
     geometry : [55.1955771,30.2215405]
@@ -1844,9 +1847,6 @@ n2382466964  null / null / Лотос
 n2382617702  null / null / Фламинго
   other tags : opening_hours=09:00-22:00 | shop=convenience
     geometry : [55.1623955,30.2303914]
-n2383701825
-  other tags : shop=kiosk
-    geometry : [55.1687932,30.2562078]
 n2384694736  null / null / Рыба
   other tags : official_name=фирменный магазин ОДО «Витебскрыба» | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00 | shop=seafood
     geometry : [55.2252756,30.2477221]
@@ -1982,9 +1982,6 @@ n2429247224
 n2431626927  null / null / Шиномонтаж
   other tags : contact:email=info@kis.by | contact:phone=+375(212) 355-973, +375(212) 355-541 | contact:website=http://www.navigator.by/ | opening_hours=Mo-Fr 08:00-19:00; Sa 10:00-17:00 | operator=ЗАО «КиС» | service=tyres | shop=car_repair
     geometry : [55.2228110,30.0954934]
-n2434370817  null / null / Витебскоблсоюзпечать
-  other tags : shop=newsagent
-    geometry : [55.1698943,30.2566725]
 n2437869713  null / null / Виадуг
   other tags : opening_hours=Mo-Sa 09:00-18:00 | phone=+375298131604 | shop=car_repair | website=http://vitebsk.biz/autoservice/viadug/
     geometry : [55.2142492,30.2366820]
@@ -2050,10 +2047,10 @@ n2478644626  null / null / Марко
     geometry : [55.1911052,30.2049794]
 n2479738140  null / null / Катюша
   other tags : contact:website=http://voenservice.by/ | opening_hours=Mo-Fr 10:00-15:00,16:00-19:00 | operator=РУП «Военсервис» | shop=convenience
-    geometry : [55.1915875,30.2322402]
+    geometry : [55.1915895,30.2321972]
 n2479738142
   other tags : shop=hairdresser
-    geometry : [55.1917113,30.2325213]
+    geometry : [55.1917133,30.2324783]
 n2480869568  null / null / Пивной "Филипок"
   other tags : opening_hours=Mo-Fr 14:00-23:00; Sa,Su 11:00-23:00 | operator=ООО «Арена-пицца» | shop=alcohol
     geometry : [55.1768333,30.2417033]
@@ -2358,7 +2355,7 @@ n2647392530
   other tags : shop=kiosk
     geometry : [55.2004457,30.2541592]
 n2659165990  null / null / ЦСК
-  other tags : shop=furniture
+  other tags : phone=+375-29-7151151, +375-29-1850250, +375-212-287848 | shop=furniture
     geometry : [55.1767145,30.1907382]
 n2682959914  null / null / ООО "Лар-М"
   other tags : contact:email=lar-m@tut.by | contact:phone=+375 (29) 715-52-61 | contact:website=http://www.lar-m.by/ | description=производство корпусной мебели, дизайн интерьера, ландшафтный дизайн | ref=21В | shop=furniture
@@ -3405,9 +3402,9 @@ n3566972608  null / null / Optima
 n3571425493  null / null / Бисквит
   other tags : opening_hours=Mo-Su 09:00-20:00 | shop=confectionery
     geometry : [55.1920816,30.2331553]
-n3572441993  Аўтазапчасткі / null / Автозапчасти
-  other tags : shop=car_parts
-    geometry : [55.1675576,30.2427972]
+n3572441993  Е95 / E95 / Е95 / Е95
+  other tags : description=шины и аккумуляторы | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-15:00 | operator=ООО «АвтоРитэйлор» | shop=tyres
+    geometry : [55.1675635,30.2427609]
 n3573694193  null / null / АмиМебель
   other tags : shop=furniture
     geometry : [55.1850528,30.1889890]
@@ -3453,3 +3450,9 @@ n3605196181  null / null / Диваны тут
 n3605196182  null / null / Мила / Мила
   other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ООО «Парфюм Трейд» | shop=cosmetics
     geometry : [55.1956775,30.1887518]
+n3607955021  Керхер / null / Karcher / Керхер
+  other tags : brand=Karcher | description=пылесосы, минимойки, пароочистители | opening_hours=Mo-Sa 09:00-20:00; Su 10:00-17:00 | owner=СООО «Чистый свет Технологии» | shop=vacuum_cleaner
+    geometry : [55.1733151,30.2443606]
+n3607955022  null / null / Лотос
+  other tags : opening_hours=Mo-Fr 07:30-20:00 | operator=ОАО «Объединение Лотос» | shop=dry_cleaning
+    geometry : [55.1673998,30.2438987]
