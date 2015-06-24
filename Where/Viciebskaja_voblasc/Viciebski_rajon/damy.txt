@@ -152,13 +152,13 @@ w151464214
   other tags : addr:housenumber=1А | addr:street=Октябрьская улица | building=house | building:levels=1
     geometry : n1642830222[55.1313810,30.1664603] n1642830212[55.1312177,30.1663645] n1642830210[55.1311931,30.1664932] n1642830218[55.1313563,30.1665890] n1642830222[55.1313810,30.1664603]
 w169021859
-  other tags : addr:housenumber=2 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=2 | addr:street=Школьная улица | building=house
     geometry : n1801965977[55.0840881,30.1628946] n1801965979[55.0841423,30.1631018] n1801965973[55.0840290,30.1631924] n1801965971[55.0839748,30.1629852] n1801965977[55.0840881,30.1628946]
 w169021861
-  other tags : addr:housenumber=1 | addr:street=Улица Санаторная | building=apartments | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Санаторная улица | building=apartments | building:levels=1
     geometry : n1801965913[55.0828760,30.1675746] n1801965946[55.0829092,30.1674146] n1801965963[55.0831414,30.1675617] n1801965962[55.0831082,30.1677217] n1801965913[55.0828760,30.1675746]
 w169021862
-  other tags : addr:housenumber=3 | addr:street=Улица Санаторная | building=apartments | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=Санаторная улица | building=apartments | building:levels=2
     geometry : n1801965964[55.0838367,30.1666016] n1801965966[55.0839427,30.1665399] n1801965975[55.0840617,30.1671638] n1801965969[55.0839557,30.1672256] n1801965964[55.0838367,30.1666016]
 w170143030
   other tags : addr:housenumber=11 | addr:street=Садовая улица | building=house | building:levels=1
@@ -254,7 +254,7 @@ w189720738
   other tags : addr:housenumber=4 | addr:street=Садовая улица | building=house
     geometry : n2003070056[55.0836084,30.1717580] n2003070048[55.0835976,30.1719198] n2003070007[55.0834951,30.1718990] n2003070012[55.0835059,30.1717371] n2003070056[55.0836084,30.1717580]
 w189720739
-  other tags : addr:housenumber=8 | addr:street=Улица Санаторная | building=house
+  other tags : addr:housenumber=8 | addr:street=Санаторная улица | building=house
     geometry : n2003070370[55.0850206,30.1768492] n2003070373[55.0850206,30.1769640] n2003070346[55.0849313,30.1769640] n2003070342[55.0849313,30.1768492] n2003070370[55.0850206,30.1768492]
 w189720740
   other tags : addr:housenumber=16 | addr:street=Цветочная улица | building=house
@@ -263,16 +263,16 @@ w189720741
   other tags : addr:housenumber=19 | addr:street=Цветочная улица | building=house
     geometry : n2003069755[55.0818533,30.1697810] n2003069752[55.0818185,30.1699583] n2003069744[55.0817595,30.1699229] n2003069748[55.0817943,30.1697457] n2003069755[55.0818533,30.1697810]
 w189720742
-  other tags : addr:housenumber=12 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=12 | addr:street=Школьная улица | building=house
     geometry : n2003069924[55.0831017,30.1596667] n2003069932[55.0831279,30.1597629] n2003069918[55.0830778,30.1598045] n2003069913[55.0830516,30.1597083] n2003069924[55.0831017,30.1596667]
 w189720743
   other tags : addr:housenumber=22 | addr:street=Цветочная улица | building=house
     geometry : n2003069741[55.0817516,30.1692734] n2003069737[55.0817120,30.1694370] n2003069731[55.0816500,30.1693911] n2003069734[55.0816896,30.1692276] n2003069741[55.0817516,30.1692734]
 w189720745
-  other tags : addr:housenumber=1 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=1 | addr:street=Школьная улица | building=house
     geometry : n2003070123[55.0839955,30.1606577] n2003070106[55.0839008,30.1607538] n2003070093[55.0838579,30.1606247] n2003070115[55.0839526,30.1605287] n2003070123[55.0839955,30.1606577]
 w189720746
-  other tags : addr:housenumber=4 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=4 | addr:street=Школьная улица | building=house
     geometry : n2003070004[55.0834911,30.1619164] n2003069969[55.0833302,30.1620758] n2003069954[55.0832492,30.1618259] n2003069991[55.0834101,30.1616666] n2003070004[55.0834911,30.1619164]
 w189720748
   other tags : addr:housenumber=10 | addr:street=Цветочная улица | building=house
@@ -284,7 +284,7 @@ w189720752
   other tags : addr:housenumber=11 | addr:street=Цветочная улица | building=house
     geometry : n2003069966[55.0832995,30.1705420] n2003069964[55.0832875,30.1707142] n2003069942[55.0832088,30.1706976] n2003069945[55.0832208,30.1705253] n2003069966[55.0832995,30.1705420]
 w189720755
-  other tags : addr:housenumber=5 | addr:street=улица Центральная | building=house
+  other tags : addr:housenumber=5 | addr:street=Центральная улица | building=house
     geometry : n2003070447[55.0852667,30.1624878] n2003070419[55.0851537,30.1626106] n2003070404[55.0851066,30.1624781] n2003070444[55.0852195,30.1623553] n2003070447[55.0852667,30.1624878]
 w189720756
   other tags : addr:housenumber=4 | addr:street=Цветочная улица | building=house
@@ -296,10 +296,10 @@ w189720758
   other tags : addr:housenumber=17 | addr:street=Цветочная улица | building=house
     geometry : n2003069808[55.0823185,30.1701196] n2003069800[55.0822702,30.1703366] n2003069789[55.0821792,30.1702748] n2003069797[55.0822275,30.1700578] n2003069808[55.0823185,30.1701196]
 w189720759
-  other tags : addr:housenumber=4 | addr:street=улица Центральная | building=house
+  other tags : addr:housenumber=4 | addr:street=Центральная улица | building=house
     geometry : n2003070307[55.0848079,30.1631991] n2003070322[55.0848418,30.1633074] n2003070278[55.0847340,30.1634104] n2003070269[55.0847001,30.1633022] n2003070307[55.0848079,30.1631991]
 w189720760
-  other tags : addr:housenumber=5 | addr:street=Улица Санаторная | building=house
+  other tags : addr:housenumber=5 | addr:street=Санаторная улица | building=house
     geometry : n2003070395[55.0850560,30.1762868] n2003070384[55.0850484,30.1764640] n2003070362[55.0849591,30.1764522] n2003070364[55.0849667,30.1762750] n2003070395[55.0850560,30.1762868]
 w189720761
   other tags : addr:housenumber=14 | addr:street=Цветочная улица | building=house
@@ -323,16 +323,16 @@ w189720769
   other tags : addr:housenumber=21 | addr:street=Цветочная улица | building=house
     geometry : n2003069728[55.0813916,30.1695066] n2003069725[55.0813586,30.1696604] n2003069714[55.0812442,30.1695854] n2003069720[55.0812772,30.1694316] n2003069728[55.0813916,30.1695066]
 w189720770
-  other tags : addr:housenumber=10 | addr:street=Улица Санаторная | building=house
+  other tags : addr:housenumber=10 | addr:street=Санаторная улица | building=house
     geometry : n2003070376[55.0850324,30.1771996] n2003070378[55.0850343,30.1773933] n2003070351[55.0849332,30.1773963] n2003070348[55.0849313,30.1772025] n2003070376[55.0850324,30.1771996]
 w189720771
   other tags : addr:housenumber=18 | addr:street=Цветочная улица | building=house
     geometry : n2003069795[55.0822211,30.1695691] n2003069792[55.0821871,30.1697224] n2003069783[55.0821133,30.1696725] n2003069786[55.0821472,30.1695191] n2003069795[55.0822211,30.1695691]
 w189720772
-  other tags : addr:housenumber=6 | addr:street=улица Центральная | building=house
+  other tags : addr:housenumber=6 | addr:street=Центральная улица | building=house
     geometry : n2003070466[55.0856978,30.1617887] n2003070468[55.0857474,30.1619138] n2003070458[55.0856159,30.1620728] n2003070455[55.0855663,30.1619477] n2003070466[55.0856978,30.1617887]
 w189720773
-  other tags : addr:housenumber=16 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=16 | addr:street=Школьная улица | building=house
     geometry : n2003069873[55.0828752,30.1600165] n2003069856[55.0828109,30.1600706] n2003069848[55.0827838,30.1599722] n2003069864[55.0828481,30.1599181] n2003069873[55.0828752,30.1600165]
 w189720776
   other tags : addr:housenumber=7 | addr:street=Сиреневая улица | building=house
@@ -344,10 +344,10 @@ w189720779
   other tags : addr:housenumber=3 | addr:street=Садовая улица | building=house
     geometry : n2003070112[55.0839516,30.1718371] n2003070109[55.0839442,30.1719922] n2003070096[55.0838584,30.1719797] n2003070105[55.0838658,30.1718246] n2003070112[55.0839516,30.1718371]
 w189720780
-  other tags : addr:housenumber=6 | addr:street=Улица Санаторная | building=house
+  other tags : addr:housenumber=6 | addr:street=Санаторная улица | building=house
     geometry : n2003070367[55.0850206,30.1765606] n2003070366[55.0850189,30.1767108] n2003070353[55.0849363,30.1767078] n2003070356[55.0849381,30.1765577] n2003070367[55.0850206,30.1765606]
 w189720784
-  other tags : addr:housenumber=10 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=10 | addr:street=Школьная улица | building=house
     geometry : n2003069995[55.0834387,30.1608504] n2003069977[55.0833464,30.1609282] n2003069962[55.0832797,30.1606867] n2003069987[55.0833719,30.1606089] n2003069995[55.0834387,30.1608504]
 w189720786
   other tags : addr:housenumber=8 | addr:street=Цветочная улица | building=house
@@ -362,7 +362,7 @@ w189720790
   other tags : addr:housenumber=15 | addr:street=Цветочная улица | building=house
     geometry : n2003069823[55.0825781,30.1702992] n2003069820[55.0825488,30.1704445] n2003069816[55.0824578,30.1703886] n2003069817[55.0824870,30.1702433] n2003069823[55.0825781,30.1702992]
 w189720791
-  other tags : addr:housenumber=7 | addr:street=улица Центральная | building=house
+  other tags : addr:housenumber=7 | addr:street=Центральная улица | building=house
     geometry : n2003070482[55.0860601,30.1613618] n2003070484[55.0861029,30.1614716] n2003070480[55.0860237,30.1615658] n2003070476[55.0859809,30.1614560] n2003070482[55.0860601,30.1613618]
 w189720795
   other tags : addr:housenumber=5 | addr:street=Цветочная улица | building=house
@@ -371,154 +371,154 @@ w189720796
   other tags : addr:housenumber=5 | addr:street=Садовая улица | building=house
     geometry : n2003069979[55.0833486,30.1716913] n2003069975[55.0833459,30.1717382] n2003069985[55.0833714,30.1717426] n2003069983[55.0833629,30.1718921] n2003069952[55.0832420,30.1718709] n2003069956[55.0832533,30.1716747] n2003069979[55.0833486,30.1716913]
 w189720797
-  other tags : addr:housenumber=3 | addr:street=улица Центральная | building=house
+  other tags : addr:housenumber=3 | addr:street=Центральная улица | building=house
     geometry : n2003070332[55.0848739,30.1635271] n2003070318[55.0848364,30.1635664] n2003070324[55.0848477,30.1635992] n2003070296[55.0848032,30.1636459] n2003070293[55.0847906,30.1636094] n2003070289[55.0847556,30.1636462] n2003070272[55.0847181,30.1635369] n2003070316[55.0848351,30.1634141] n2003070332[55.0848739,30.1635271]
 w189720799
   other tags : addr:housenumber=3 | addr:street=Сиреневая улица | building=house
     geometry : n2003070161[55.0842200,30.1739464] n2003070159[55.0842197,30.1739781] n2003070175[55.0842385,30.1739787] n2003070172[55.0842376,30.1740524] n2003070157[55.0842188,30.1740517] n2003070155[55.0842181,30.1741130] n2003070140[55.0841013,30.1741088] n2003070143[55.0841033,30.1739422] n2003070161[55.0842200,30.1739464]
 w189875412
-  other tags : addr:housenumber=4 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=4 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803294[55.0863071,30.1678057] n2004803289[55.0862279,30.1677173] n2004803292[55.0862682,30.1676069] n2004803296[55.0863474,30.1676953] n2004803294[55.0863071,30.1678057]
 w189875413
-  other tags : addr:housenumber=30 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=30 | addr:street=Кольцевая улица | building=house
     geometry : n2004803365[55.0872160,30.1786548] n2004803362[55.0871910,30.1784945] n2004803368[55.0872558,30.1784637] n2004803371[55.0872808,30.1786240] n2004803365[55.0872160,30.1786548]
 w189875414
-  other tags : addr:housenumber=10 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=10 | addr:street=Озёрная улица | building=house
     geometry : n2004803370[55.0872691,30.1651123] n2004803363[55.0871928,30.1650331] n2004803366[55.0872430,30.1648856] n2004803375[55.0873192,30.1649647] n2004803370[55.0872691,30.1651123]
 w189875415
-  other tags : addr:housenumber=1 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=1 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803234[55.0856577,30.1667525] n2004803232[55.0856279,30.1668843] n2004803230[55.0855470,30.1668283] n2004803231[55.0855768,30.1666965] n2004803234[55.0856577,30.1667525]
 w189875417
-  other tags : addr:housenumber=6 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=6 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803332[55.0868117,30.1680027] n2004803330[55.0867868,30.1680996] n2004803324[55.0867284,30.1680538] n2004803326[55.0867533,30.1679569] n2004803332[55.0868117,30.1680027]
 w189875418
-  other tags : addr:housenumber=44 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=44 | addr:street=Кольцевая улица | building=house
     geometry : n2004803283[55.0861445,30.1777558] n2004803272[55.0860607,30.1777997] n2004803269[55.0860304,30.1776230] n2004803278[55.0861142,30.1775791] n2004803283[55.0861445,30.1777558]
 w189875420
-  other tags : addr:housenumber=8 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=8 | addr:street=Озёрная улица | building=house
     geometry : n2004803360[55.0871594,30.1648333] n2004803354[55.0870959,30.1650358] n2004803346[55.0870220,30.1649650] n2004803351[55.0870856,30.1647625] n2004803360[55.0871594,30.1648333]
 w189875421
-  other tags : addr:housenumber=22 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=22 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803271[55.0860601,30.1651850] n2004803263[55.0859930,30.1653316] n2004803256[55.0859424,30.1652609] n2004803265[55.0860095,30.1651144] n2004803271[55.0860601,30.1651850]
 w189875424
-  other tags : addr:housenumber=15 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=15 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803345[55.0870198,30.1668450] n2004803342[55.0869729,30.1669743] n2004803337[55.0869014,30.1668952] n2004803339[55.0869483,30.1667659] n2004803345[55.0870198,30.1668450]
 w189875426
-  other tags : addr:housenumber=36 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=36 | addr:street=Кольцевая улица | building=house
     geometry : n2004803321[55.0866897,30.1788904] n2004803314[55.0865898,30.1789340] n2004803311[55.0865645,30.1787573] n2004803319[55.0866644,30.1787137] n2004803321[55.0866897,30.1788904]
 w189875427
-  other tags : addr:housenumber=18 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=18 | addr:street=Озёрная улица | building=house
     geometry : n2004803456[55.0883441,30.1657012] n2004803454[55.0883077,30.1658642] n2004803448[55.0882083,30.1657964] n2004803452[55.0882446,30.1656335] n2004803456[55.0883441,30.1657012]
 w189875429
-  other tags : addr:housenumber=42 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=42 | addr:street=Кольцевая улица | building=house
     geometry : n2004803287[55.0862001,30.1781769] n2004803281[55.0861270,30.1782104] n2004803276[55.0861000,30.1780308] n2004803284[55.0861732,30.1779972] n2004803287[55.0862001,30.1781769]
 w189875430
-  other tags : addr:housenumber=12 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=12 | addr:street=Озёрная улица | building=house
     geometry : n2004803396[55.0876051,30.1654121] n2004803390[55.0875408,30.1653538] n2004803395[55.0875872,30.1651972] n2004803399[55.0876516,30.1652555] n2004803396[55.0876051,30.1654121]
 w189875431
-  other tags : addr:housenumber=6 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=6 | addr:street=Озёрная улица | building=house
     geometry : n2004803338[55.0869200,30.1646325] n2004803335[55.0868660,30.1647803] n2004803329[55.0867868,30.1646920] n2004803333[55.0868408,30.1645441] n2004803338[55.0869200,30.1646325]
 w189875436
-  other tags : addr:housenumber=10 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=10 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803408[55.0877168,30.1669277] n2004803403[55.0876734,30.1670447] n2004803397[55.0876110,30.1669741] n2004803400[55.0876544,30.1668571] n2004803408[55.0877168,30.1669277]
 w189875437
-  other tags : addr:housenumber=38 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=38 | addr:street=Кольцевая улица | building=house
     geometry : n2004803306[55.0864956,30.1789868] n2004803301[55.0864251,30.1790215] n2004803299[55.0863989,30.1788591] n2004803303[55.0864693,30.1788243] n2004803306[55.0864956,30.1789868]
 w189875438
-  other tags : addr:housenumber=11 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=11 | addr:street=Озёрная улица | building=house
     geometry : n2004803464[55.0886053,30.1656482] n2004803459[55.0884974,30.1655687] n2004803461[55.0885305,30.1654318] n2004803465[55.0886383,30.1655113] n2004803464[55.0886053,30.1656482]
 w189875440
-  other tags : addr:housenumber=3 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=3 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803277[55.0861094,30.1674533] n2004803273[55.0860654,30.1675815] n2004803261[55.0859811,30.1674931] n2004803268[55.0860251,30.1673649] n2004803277[55.0861094,30.1674533]
 w189875441
-  other tags : addr:housenumber=20 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=20 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803298[55.0863891,30.1655187] n2004803295[55.0863470,30.1656283] n2004803290[55.0862492,30.1655135] n2004803293[55.0862914,30.1654039] n2004803298[55.0863891,30.1655187]
 w189875442
-  other tags : addr:housenumber=10 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=10 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803433[55.0880346,30.1687685] n2004803428[55.0879860,30.1689099] n2004803423[55.0879264,30.1688475] n2004803427[55.0879750,30.1687060] n2004803433[55.0880346,30.1687685]
 w189875443
-  other tags : addr:housenumber=47 | addr:street=Улица Кольцевая | building=apartments
+  other tags : addr:housenumber=47 | addr:street=Кольцевая улица | building=apartments
     geometry : n2004803421[55.0879031,30.1761144] n2004803409[55.0877242,30.1764784] n2004803398[55.0876456,30.1763606] n2004803416[55.0878245,30.1759965] n2004803421[55.0879031,30.1761144]
 w189875444
-  other tags : addr:housenumber=34 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=34 | addr:street=Кольцевая улица | building=house
     geometry : n2004803336[55.0868835,30.1788050] n2004803331[55.0868088,30.1788415] n2004803328[55.0867852,30.1786943] n2004803334[55.0868599,30.1786577] n2004803336[55.0868835,30.1788050]
 w189875445
-  other tags : addr:housenumber=50 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=50 | addr:street=Кольцевая улица | building=house
     geometry : n2004803253[55.0859204,30.1763572] n2004803257[55.0859581,30.1765752] n2004803250[55.0858856,30.1766135] n2004803248[55.0858479,30.1763954] n2004803253[55.0859204,30.1763572]
 w189875446
-  other tags : addr:housenumber=16 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=16 | addr:street=Озёрная улица | building=house
     geometry : n2004803441[55.0880761,30.1657513] n2004803435[55.0880422,30.1658817] n2004803426[55.0879680,30.1658228] n2004803429[55.0880020,30.1656924] n2004803441[55.0880761,30.1657513]
 w189875447
-  other tags : addr:housenumber=2 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=2 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803247[55.0858448,30.1673061] n2004803240[55.0857673,30.1672177] n2004803245[55.0858213,30.1670730] n2004803251[55.0858988,30.1671614] n2004803247[55.0858448,30.1673061]
 w189875448
-  other tags : addr:housenumber=4 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=4 | addr:street=Озёрная улица | building=house
     geometry : n2004803322[55.0867093,30.1643616] n2004803318[55.0866578,30.1645126] n2004803313[55.0865786,30.1644301] n2004803316[55.0866301,30.1642791] n2004803322[55.0867093,30.1643616]
 w189875449
-  other tags : addr:housenumber=9 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=9 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803393[55.0875683,30.1686648] n2004803389[55.0875383,30.1687962] n2004803385[55.0874787,30.1687546] n2004803388[55.0875088,30.1686232] n2004803393[55.0875683,30.1686648]
 w189875450
-  other tags : addr:housenumber=6 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=6 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803450[55.0882156,30.1674224] n2004803446[55.0881783,30.1675335] n2004803442[55.0880806,30.1674334] n2004803444[55.0881179,30.1673223] n2004803450[55.0882156,30.1674224]
 w189875451
-  other tags : addr:housenumber=14 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=14 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803364[55.0872098,30.1665205] n2004803357[55.0871390,30.1664498] n2004803361[55.0871906,30.1662922] n2004803369[55.0872614,30.1663629] n2004803364[55.0872098,30.1665205]
 w189875452
-  other tags : addr:housenumber=46 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=46 | addr:street=Кольцевая улица | building=house
     geometry : n2004803275[55.0860855,30.1773730] n2004803264[55.0859992,30.1774176] n2004803258[55.0859638,30.1772086] n2004803270[55.0860501,30.1771640] n2004803275[55.0860855,30.1773730]
 w189875453
-  other tags : addr:housenumber=21 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=21 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803288[55.0862054,30.1661989] n2004803280[55.0861229,30.1661135] n2004803285[55.0861831,30.1659357] n2004803291[55.0862656,30.1660210] n2004803288[55.0862054,30.1661989]
 w189875454
-  other tags : addr:housenumber=9 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=9 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803417[55.0878253,30.1676744] n2004803414[55.0877764,30.1678150] n2004803411[55.0877216,30.1677567] n2004803413[55.0877705,30.1676161] n2004803417[55.0878253,30.1676744]
 w189875455
-  other tags : addr:housenumber=12 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=12 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803391[55.0875445,30.1667202] n2004803387[55.0875029,30.1668340] n2004803382[55.0874171,30.1667383] n2004803384[55.0874587,30.1666244] n2004803391[55.0875445,30.1667202]
 w189875456
-  other tags : addr:housenumber=8 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=8 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803424[55.0879510,30.1672722] n2004803422[55.0879208,30.1673528] n2004803419[55.0878669,30.1672909] n2004803420[55.0878971,30.1672104] n2004803424[55.0879510,30.1672722]
 w189875459
-  other tags : addr:housenumber=9 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=9 | addr:street=Озёрная улица | building=house
     geometry : n2004803445[55.0881503,30.1653184] n2004803437[55.0880576,30.1652448] n2004803443[55.0880978,30.1650902] n2004803447[55.0881905,30.1651638] n2004803445[55.0881503,30.1653184]
 w189875462
-  other tags : addr:housenumber=48 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=48 | addr:street=Кольцевая улица | building=house
     geometry : n2004803266[55.0860164,30.1769784] n2004803254[55.0859378,30.1770174] n2004803252[55.0859024,30.1767995] n2004803260[55.0859810,30.1767606] n2004803266[55.0860164,30.1769784]
 w189875463
-  other tags : addr:housenumber=2 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=2 | addr:street=Озёрная улица | building=house
     geometry : n2004803305[55.0864835,30.1641437] n2004803302[55.0864397,30.1642647] n2004803297[55.0863571,30.1641734] n2004803300[55.0864009,30.1640524] n2004803305[55.0864835,30.1641437]
 w189875464
-  other tags : addr:housenumber=7 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=7 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803439[55.0880660,30.1679076] n2004803430[55.0880088,30.1680700] n2004803425[55.0879563,30.1680135] n2004803431[55.0880135,30.1678511] n2004803439[55.0880660,30.1679076]
 w189875466
-  other tags : addr:housenumber=8 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=8 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803377[55.0873586,30.1685191] n2004803374[55.0873148,30.1686723] n2004803367[55.0872480,30.1686140] n2004803372[55.0872919,30.1684608] n2004803377[55.0873586,30.1685191]
 w189875470
-  other tags : addr:housenumber=20 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=20 | addr:street=Озёрная улица | building=house
     geometry : n2004803463[55.0885884,30.1660781] n2004803462[55.0885478,30.1662268] n2004803458[55.0884737,30.1661649] n2004803460[55.0885143,30.1660163] n2004803463[55.0885884,30.1660781]
 w189875471
-  other tags : addr:housenumber=14 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=14 | addr:street=Озёрная улица | building=house
     geometry : n2004803418[55.0878486,30.1654097] n2004803415[55.0878071,30.1655858] n2004803410[55.0877212,30.1655240] n2004803412[55.0877627,30.1653479] n2004803418[55.0878486,30.1654097]
 w189875472
-  other tags : addr:housenumber=18 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=18 | addr:street=Коммунистическая улица | building=house
     geometry : n2004803327[55.0867835,30.1658691] n2004803325[55.0867293,30.1660133] n2004803320[55.0866703,30.1659456] n2004803323[55.0867245,30.1658014] n2004803327[55.0867835,30.1658691]
 w189875473
-  other tags : addr:housenumber=7 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=7 | addr:street=Железнодорожная улица | building=house
     geometry : n2004803359[55.0871513,30.1682484] n2004803358[55.0871390,30.1683215] n2004803355[55.0871008,30.1683019] n2004803352[55.0870903,30.1683648] n2004803341[55.0869663,30.1683011] n2004803344[55.0869892,30.1681651] n2004803359[55.0871513,30.1682484]
 w189875474
-  other tags : addr:housenumber=22 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=22 | addr:street=Озёрная улица | building=house
     geometry : n2004803480[55.0888125,30.1664226] n2004803467[55.0887317,30.1663490] n2004803469[55.0887660,30.1662339] n2004803475[55.0888011,30.1662659] n2004803478[55.0888112,30.1662318] n2004803486[55.0888570,30.1662735] n2004803480[55.0888125,30.1664226]
 w189875475
-  other tags : addr:housenumber=32 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=32 | addr:street=Кольцевая улица | building=house
     geometry : n2004803343[55.0869812,30.1787667] n2004803340[55.0869543,30.1786077] n2004803349[55.0870734,30.1785460] n2004803350[55.0870785,30.1785762] n2004803353[55.0870920,30.1785692] n2004803356[55.0871069,30.1786569] n2004803347[55.0870489,30.1786870] n2004803348[55.0870558,30.1787281] n2004803343[55.0869812,30.1787667]
 w189875477
-  other tags : addr:housenumber=26 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=26 | addr:street=Кольцевая улица | building=house
     geometry : n2004803406[55.0876943,30.1784278] n2004803394[55.0875864,30.1784856] n2004803392[55.0875544,30.1783030] n2004803401[55.0876623,30.1782452] n2004803402[55.0876717,30.1782986] n2004803405[55.0876938,30.1782868] n2004803407[55.0877091,30.1783745] n2004803404[55.0876870,30.1783863] n2004803406[55.0876943,30.1784278]
 w189875478
-  other tags : addr:housenumber=28 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=28 | addr:street=Кольцевая улица | building=house
     geometry : n2004803386[55.0874865,30.1785216] n2004803379[55.0873743,30.1785739] n2004803378[55.0873654,30.1785157] n2004803376[55.0873271,30.1785336] n2004803373[55.0873118,30.1784330] n2004803381[55.0873959,30.1783938] n2004803380[55.0873867,30.1783339] n2004803383[55.0874532,30.1783030] n2004803386[55.0874865,30.1785216]
 w189875479
-  other tags : addr:housenumber=37 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=37 | addr:street=Кольцевая улица | building=house
     geometry : n2004803317[55.0866501,30.1784213] n2004803312[55.0865692,30.1784678] n2004803310[55.0865600,30.1784188] n2004803307[55.0865121,30.1784464] n2004803304[55.0864770,30.1782606] n2004803309[55.0865271,30.1782317] n2004803308[55.0865192,30.1781898] n2004803315[55.0865979,30.1781445] n2004803317[55.0866501,30.1784213]
 w190876240
   other tags : building=residential
@@ -779,7 +779,7 @@ w210937450
   other tags : building=residential
     geometry : n2209653155[55.1341788,30.1654184] n2209653151[55.1341665,30.1653915] n2209653148[55.1341093,30.1654712] n418700216[55.1341216,30.1654981] n2209653155[55.1341788,30.1654184]
 w211095370
-  other tags : addr:housenumber=74 | addr:street=Улица Кольцевая | building=apartments
+  other tags : addr:housenumber=74 | addr:street=Кольцевая улица | building=apartments
     geometry : n2211033990[55.0875729,30.1759166] n2211033989[55.0875245,30.1760166] n2211033987[55.0874983,30.1759779] n2211033983[55.0874715,30.1760334] n2211033988[55.0874995,30.1760748] n2211033979[55.0874092,30.1762617] n2211033977[55.0873826,30.1762223] n2211033974[55.0873553,30.1762786] n2211033978[55.0873827,30.1763189] n2211033975[55.0873595,30.1763668] n2211033976[55.0873715,30.1763844] n2211033972[55.0873475,30.1764339] n2211033971[55.0873365,30.1764177] n2211033968[55.0873134,30.1764656] n2211033964[55.0872847,30.1764232] n2211033962[55.0872589,30.1764765] n2211033966[55.0872892,30.1765212] n2211033957[55.0871966,30.1767129] n2211033955[55.0871656,30.1766671] n2211033954[55.0871330,30.1767345] n2211033956[55.0871641,30.1767803] n2211033952[55.0871247,30.1768616] n2211033947[55.0870373,30.1767326] n2211033949[55.0870766,30.1766512] n2211033951[55.0871036,30.1766910] n2211033953[55.0871360,30.1766240] n2211033950[55.0871069,30.1765812] n2211033958[55.0871999,30.1763887] n2211033961[55.0872331,30.1764377] n2211033963[55.0872619,30.1763782] n2211033960[55.0872320,30.1763341] n2211033967[55.0872980,30.1761977] n2211033970[55.0873271,30.1762407] n2211033973[55.0873553,30.1761824] n2211033969[55.0873239,30.1761360] n2211033980[55.0874152,30.1759471] n2211033982[55.0874449,30.1759910] n2211033984[55.0874744,30.1759301] n2211033981[55.0874448,30.1758865] n2211033986[55.0874896,30.1757938] n2211033990[55.0875729,30.1759166]
 w217939180
   other tags : addr:housenumber=22 | addr:street=Липовая улица | building=house | building:levels=2
@@ -854,19 +854,19 @@ w266397466
   other tags : addr:housenumber=67 | addr:street=Школьная улица | building=house
     geometry : n2719589040[55.1809953,30.1199273] n2719589045[55.1810209,30.1200685] n2719589048[55.1809751,30.1200941] n2719589051[55.1809495,30.1199528] n2719589040[55.1809953,30.1199273]
 w277735506
-  other tags : addr:housenumber=27 | addr:street=Улица Кольцевая | building=house | building:levels=1
+  other tags : addr:housenumber=27 | addr:street=Кольцевая улица | building=house | building:levels=1
     geometry : n2821970865[55.0875600,30.1777655] n2821970866[55.0875862,30.1779224] n2821970862[55.0875056,30.1779635] n2821970861[55.0874793,30.1778065] n2821970865[55.0875600,30.1777655]
 w277735509
-  other tags : addr:housenumber=33 | addr:street=Улица Кольцевая | building=house | building:levels=1
+  other tags : addr:housenumber=33 | addr:street=Кольцевая улица | building=house | building:levels=1
     geometry : n2821970851[55.0869741,30.1780402] n2821970852[55.0870003,30.1782266] n2821970850[55.0869130,30.1782641] n2821970849[55.0868868,30.1780777] n2821970851[55.0869741,30.1780402]
 w277735518
-  other tags : addr:housenumber=29 | addr:street=Улица Кольцевая | building=house | building:levels=1
+  other tags : addr:housenumber=29 | addr:street=Кольцевая улица | building=house | building:levels=1
     geometry : n2821970859[55.0873635,30.1778832] n2821970860[55.0873990,30.1780860] n2821970858[55.0873212,30.1781276] n2821970857[55.0872857,30.1779248] n2821970859[55.0873635,30.1778832]
 w277735520
-  other tags : addr:housenumber=31 | addr:street=Улица Кольцевая | building=house | building:levels=1
+  other tags : addr:housenumber=31 | addr:street=Кольцевая улица | building=house | building:levels=1
     geometry : n2821970855[55.0871613,30.1779486] n2821970856[55.0871856,30.1781154] n2821970854[55.0870906,30.1781577] n2821970853[55.0870663,30.1779909] n2821970855[55.0871613,30.1779486]
 w277735529
-  other tags : addr:housenumber=35 | addr:street=Улица Кольцевая | building=house | building:levels=1
+  other tags : addr:housenumber=35 | addr:street=Кольцевая улица | building=house | building:levels=1
     geometry : n2821970847[55.0867607,30.1781514] n2821970848[55.0867851,30.1783214] n2821970846[55.0867133,30.1783528] n2821970845[55.0866889,30.1781827] n2821970847[55.0867607,30.1781514]
 w278724797
   other tags : building=house | building:levels=1
@@ -914,7 +914,7 @@ w289432626
   other tags : addr:housenumber=18 | addr:street=Советская улица | building=house
     geometry : n2929848654[55.1269623,30.4664874] n2929848650[55.1268960,30.4665549] n2929848648[55.1268488,30.4664134] n2929848651[55.1269151,30.4663459] n2929848654[55.1269623,30.4664874]
 w291369194
-  other tags : addr:housenumber=9 | addr:street=Улица Санаторная | building=apartments | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Санаторная улица | building=apartments | building:levels=1
     geometry : n2948355535[55.0850461,30.1687988] n2948355332[55.0850292,30.1689507] n2948355322[55.0848776,30.1688991] n2948355324[55.0848945,30.1687472] n2948355535[55.0850461,30.1687988]
 w291717731
   other tags : addr:housenumber=13 | addr:street=Стадионная улица | building=house
@@ -1061,7 +1061,7 @@ w303296209
   other tags : addr:housenumber=9 | addr:street=Луговая улица | building=house
     geometry : n3076479217[55.1269092,30.0148399] n3076479218[55.1268836,30.0149742] n3076479219[55.1268178,30.0149359] n3076479220[55.1268434,30.0148016] n3076479217[55.1269092,30.0148399]
 w307105428
-  other tags : addr:housenumber=3 | addr:street=улица Приозерная | building=house
+  other tags : addr:housenumber=3 | addr:street=Приозёрная улица | building=house
     geometry : n3121701088[55.0921548,30.1453702] n3121701089[55.0921755,30.1457149] n3121701090[55.0920511,30.1457377] n3121701091[55.0920304,30.1453931] n3121701088[55.0921548,30.1453702]
 w309525741
   other tags : addr:housenumber=11 | addr:street=Садовая улица | building=house | building:levels=1
@@ -1151,7 +1151,7 @@ w345259924
   other tags : addr:housenumber=24 | addr:street=Цветочная улица | building=house
     geometry : n3519406400[55.0815539,30.1691660] n3519406401[55.0815228,30.1693115] n3519406402[55.0814295,30.1692506] n3519406403[55.0814607,30.1691051] n3519406400[55.0815539,30.1691660]
 w345265192
-  other tags : addr:housenumber=40 | addr:street=Улица Кольцевая | building=house
+  other tags : addr:housenumber=40 | addr:street=Кольцевая улица | building=house
     geometry : n3519478517[55.0862324,30.1784232] n3519478518[55.0862517,30.1785272] n3519478519[55.0862018,30.1785554] n3519478520[55.0861826,30.1784514] n3519478517[55.0862324,30.1784232]
 w345292338
   other tags : addr:street=Сиреневая улица | building=house
@@ -1163,54 +1163,54 @@ w349995024
   other tags : addr:housenumber=10 | addr:street=Зелёная улица | building=house
     geometry : n3557621526[55.1189465,30.0856405] n3557621527[55.1187462,30.0858563] n3557621528[55.1188390,30.0861197] n3557621529[55.1190393,30.0859039] n3557621526[55.1189465,30.0856405]
 w350603464
-  other tags : addr:housenumber=5 | addr:street=улица Железнодорожная | building=house
+  other tags : addr:housenumber=5 | addr:street=Железнодорожная улица | building=house
     geometry : n3563501393[55.0865213,30.1679678] n3563501394[55.0864912,30.1680521] n3563501395[55.0864315,30.1679870] n3563501396[55.0864616,30.1679027] n3563501393[55.0865213,30.1679678]
 w350604828
-  other tags : addr:housenumber=17 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=17 | addr:street=Коммунистическая улица | building=house
     geometry : n3563515014[55.0867928,30.1666603] n3563515015[55.0867349,30.1668291] n3563515016[55.0866243,30.1667131] n3563515017[55.0866822,30.1665444] n3563515014[55.0867928,30.1666603]
 w350604921
-  other tags : addr:housenumber=19 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=19 | addr:street=Коммунистическая улица | building=house
     geometry : n3563516077[55.0864986,30.1663151] n3563516078[55.0864352,30.1664885] n3563516079[55.0863493,30.1663928] n3563516080[55.0864127,30.1662193] n3563516077[55.0864986,30.1663151]
 w350605167
-  other tags : addr:housenumber=16 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=16 | addr:street=Коммунистическая улица | building=house
     geometry : n3563518407[55.0870695,30.1662096] n3563518408[55.0870328,30.1662961] n3563518409[55.0869740,30.1662200] n3563518410[55.0870107,30.1661336] n3563518407[55.0870695,30.1662096]
 w350606813
-  other tags : addr:housenumber=13 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=13 | addr:street=Коммунистическая улица | building=house
     geometry : n3563533110[55.0873352,30.1671487] n3563533111[55.0873010,30.1672720] n3563533112[55.0871915,30.1671794] n3563533113[55.0872256,30.1670561] n3563533110[55.0873352,30.1671487]
 w350606850
-  other tags : addr:housenumber=11 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=11 | addr:street=Коммунистическая улица | building=house
     geometry : n3563534724[55.0874712,30.1672865] n3563534725[55.0875834,30.1673889] n3563534726[55.0875331,30.1675573] n3563534727[55.0874208,30.1674549] n3563534724[55.0874712,30.1672865]
 w350607180
-  other tags : addr:housenumber=5 | addr:street=улица Коммунистическая | building=house
+  other tags : addr:housenumber=5 | addr:street=Коммунистическая улица | building=house
     geometry : n3563537198[55.0883617,30.1682239] n3563537199[55.0883140,30.1683814] n3563537200[55.0882064,30.1682818] n3563537201[55.0882541,30.1681243] n3563537198[55.0883617,30.1682239]
 w350610225
-  other tags : addr:housenumber=24 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=24 | addr:street=Озёрная улица | building=house
     geometry : n3563563593[55.0893405,30.1664962] n3563563594[55.0892994,30.1666593] n3563563595[55.0891926,30.1665771] n3563563596[55.0892337,30.1664141] n3563563593[55.0893405,30.1664962]
 w350610338
-  other tags : addr:housenumber=26 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=26 | addr:street=Озёрная улица | building=house
     geometry : n3563564694[55.0897160,30.1667043] n3563564695[55.0896790,30.1668669] n3563564696[55.0894674,30.1667200] n3563564697[55.0895044,30.1665574] n3563564694[55.0897160,30.1667043]
 w350610361
-  other tags : addr:housenumber=28 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=28 | addr:street=Озёрная улица | building=house
     geometry : n3563565326[55.0900255,30.1669153] n3563565327[55.0899922,30.1670940] n3563565328[55.0898610,30.1670193] n3563565329[55.0898943,30.1668406] n3563565326[55.0900255,30.1669153]
 w350610423
-  other tags : addr:housenumber=13 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=13 | addr:street=Озёрная улица | building=house
     geometry : n3563566307[55.0891343,30.1657620] n3563566308[55.0890767,30.1659645] n3563566309[55.0889270,30.1658343] n3563566310[55.0889846,30.1656318] n3563566307[55.0891343,30.1657620]
 w350610467
-  other tags : addr:housenumber=15 | addr:street=улица Озёрная | building=house
+  other tags : addr:housenumber=15 | addr:street=Озёрная улица | building=house
     geometry : n3563567146[55.0901775,30.1663702] n3563567147[55.0901498,30.1665694] n3563567148[55.0900637,30.1665328] n3563567149[55.0900914,30.1663336] n3563567146[55.0901775,30.1663702]
 w350613126
-  other tags : addr:housenumber=3 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=3 | addr:street=Школьная улица | building=house
     geometry : n3563594380[55.0837298,30.1596775] n3563594381[55.0837650,30.1597976] n3563594382[55.0835999,30.1599454] n3563594383[55.0835647,30.1598253] n3563594380[55.0837298,30.1596775]
 w350613139
-  other tags : addr:housenumber=5 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=5 | addr:street=Школьная улица | building=house
     geometry : n3563595993[55.0835026,30.1592332] n3563595994[55.0835554,30.1594208] n3563595995[55.0834663,30.1594973] n3563595996[55.0834135,30.1593097] n3563595993[55.0835026,30.1592332]
 w350613180
-  other tags : addr:housenumber=7 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=7 | addr:street=Школьная улица | building=house
     geometry : n3563596257[55.0833916,30.1587320] n3563596258[55.0834337,30.1588612] n3563596259[55.0833238,30.1589705] n3563596260[55.0832817,30.1588414] n3563596257[55.0833916,30.1587320]
 w350613242
-  other tags : addr:housenumber=9 | addr:street=улица Школьная | building=house
+  other tags : addr:housenumber=9 | addr:street=Школьная улица | building=house
     geometry : n3563597094[55.0834213,30.1583778] n3563597095[55.0834522,30.1584718] n3563597096[55.0833807,30.1585435] n3563597097[55.0833499,30.1584495] n3563597094[55.0834213,30.1583778]
 r5229909
-  other tags : addr:housenumber=23 | addr:street=улица Коммунистическая | building=house | type=multipolygon
+  other tags : addr:housenumber=23 | addr:street=Коммунистическая улица | building=house | type=multipolygon
     geometry : <outer> w350603527: n3563502351[55.0860014,30.1657922] n3563502352[55.0859523,30.1659368] n3563502353[55.0858961,30.1658785] n3563502354[55.0859451,30.1657339] n3563502351[55.0860014,30.1657922] : w350603527
     geometry : <outer> w189875460: n2004803249[55.0858583,30.1658338] n2004803244[55.0858213,30.1659416] n2004803239[55.0857623,30.1658798] n2004803243[55.0857993,30.1657720] n2004803249[55.0858583,30.1658338] : w189875460
