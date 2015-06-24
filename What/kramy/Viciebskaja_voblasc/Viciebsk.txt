@@ -522,7 +522,7 @@ n1158124962  Арэна-дэсерціна / null / Арена-десертин�
     geometry : [55.1990778,30.2076893]
 n1159484266  Свет касметыкі / null / Мир косметики
   other tags : contact:phone=+375(212) 55-30-77 | contact:website=http://belita.by/ | shop=cosmetics
-    geometry : [55.1941365,30.2293378]
+    geometry : [55.1941313,30.2292783]
 n1159484277  Дэльфа / null / Дельфа
   other tags : opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00 | shop=fabric
     geometry : [55.1934400,30.2262223]
@@ -710,13 +710,13 @@ n1277967176  Гаспадынька / null / Хозяюшка
     geometry : [55.1938046,30.2328839]
 n1277968210  Кісея / null / Кисея
   other tags : shop=doityourself
-    geometry : [55.2040340,30.2138354]
+    geometry : [55.2040287,30.2138310]
 n1277968215  Міла / null / Мила
   other tags : shop=chemist
     geometry : [55.2038945,30.2143145]
 n1277968217  Біяліта / null / Биолита
   other tags : shop=boutique
-    geometry : [55.2039354,30.2141813]
+    geometry : [55.2039341,30.2141801]
 n1282536426
   other tags : shop=kiosk
     geometry : [55.1775375,30.2352488]
@@ -1813,10 +1813,10 @@ n2371874005
     geometry : [55.2022610,30.2103701]
 n2371874057  null / null / Автокастинг
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00 | phone=+375295268268 | shop=car_parts | website=http://autokasting.by/
-    geometry : [55.2029275,30.2117095]
+    geometry : [55.2029203,30.2116798]
 n2371874059  null / null / Витебские продукты № 9
-  other tags : opening_hours=Mo-Su 08:00-21:00 | phone=+375212370569 | shop=convenience | website=http://vitprod.by/oao-vitebskie-produkty-produkty.html
-    geometry : [55.2023539,30.2109692]
+  other tags : contact:phone=+375(212) 53-83-70 | contact:website=http://vitprod.by/ | opening_hours=Mo-Su 08:00-21:00 | operator=ОАО «Витебские продукты» | shop=convenience
+    geometry : [55.2023644,30.2109435]
 n2375620549  null / null / ритуальные услуги
   other tags : shop=funeral_directors
     geometry : [55.1934898,30.2397259]
@@ -3116,7 +3116,7 @@ n3133367434  null / null / Кулинария
     geometry : [55.1944991,30.2331585]
 n3139952302  null / null / Красный пищевик
   other tags : shop=confectionery
-    geometry : [55.2036375,30.2126625]
+    geometry : [55.2036338,30.2126261]
 n3139952303  null / null / Мегатоп / Мегатоп
   other tags : addr:city=Витебск | addr:housenumber=5 | addr:street=Смоленская площадь | shop=shoes
     geometry : [55.2052659,30.2097035]
@@ -3456,3 +3456,15 @@ n3607955021  Керхер / null / Karcher / Керхер
 n3607955022  null / null / Лотос
   other tags : opening_hours=Mo-Fr 07:30-20:00 | operator=ОАО «Объединение Лотос» | shop=dry_cleaning
     geometry : [55.1673998,30.2438987]
+n3613260548  null / null / Активация
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-16:00 | operator=ООО «Спортив» | shop=bicycle
+    geometry : [55.2032922,30.2121792]
+n3613260549  null / null / Вясёлка
+  other tags : opening_hours=Mo-Su 08:00-22:00 | operator=ЧТУП «БелМясПол» | shop=convenience
+    geometry : [55.2035578,30.2125885]
+n3613260552  null / null / Мегатойс
+  other tags : description=развивающие товары для детей | shop=toys
+    geometry : [55.2032813,30.2121647]
+n3613263011
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-16:00 | shop=outdoor
+    geometry : [55.2032942,30.2122086]

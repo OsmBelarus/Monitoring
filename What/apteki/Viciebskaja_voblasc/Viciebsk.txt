@@ -86,8 +86,8 @@ n1128298837  Аптэка №2 / Apteka №2 / Аптека №2 / Аптека 
 n1139229916  Аптэка №128 / Apteka №128 / Аптека №128 / Аптека №128
   other tags : addr:housenumber=46 | addr:street=проспект Фрунзе | amenity=pharmacy | contact:phone=+375-212-243221 | contact:website=http://www.pharmacia.by/ | operator=РУП "Фармация"
     geometry : [55.1943897,30.2320874]
-n1139868636  null / null / ADEL / ADEL
-  other tags : amenity=pharmacy
+n1139868636  null / ADEL № 2 / ADEL № 2 / ADEL № 2
+  other tags : amenity=pharmacy | description=5-й категории | official_name=Аптека № 2 | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 09:00-17:00 | operator=ТУП «Тэрралек» | pharmacy:category=5 | ref=2
     geometry : [55.1941952,30.2291974]
 n1139884158
   other tags : amenity=pharmacy
@@ -159,7 +159,7 @@ n1269046018
     geometry : [55.1766364,30.2431107]
 n1277968212
   other tags : amenity=pharmacy
-    geometry : [55.2040015,30.2139614]
+    geometry : [55.2039941,30.2139588]
 n1304240328  Планета здароўя / Planieta zdaroŭja / Планета Здоровья / Планета Здоровья
   other names: name:uk=Планета Здоровья
   other tags : amenity=pharmacy
@@ -293,7 +293,7 @@ n2352714070
     geometry : [55.2004929,30.1817425]
 n2371874058  Аптэка №4 / Apteka №4 / Аптека №4 / Аптека №4
   other tags : amenity=pharmacy | operator=ИП "Итера-Мед" ООО
-    geometry : [55.2030254,30.2118385]
+    geometry : [55.2030195,30.2118100]
 n2412447101  null / null / Аптека № 51 / Аптека № 51
   other tags : amenity=pharmacy | opening_hours=Tu-Sa 10:00-14:00, 14:30-18:00 | operator=РУП "Фармация"
     geometry : [55.2232644,30.1178838]
