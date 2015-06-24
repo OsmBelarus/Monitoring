@@ -35,10 +35,10 @@ w25270556
   other tags : highway=primary_link | oneway=yes | ref=Р23 | surface=asphalt
     geometry : n275330703[53.0523267,27.5537365] n1801435861[53.0521266,27.5533968] n1759488076[53.0519956,27.5530062]
 w25270558  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : bridge=yes | highway=primary | layer=1 | maxspeed=60 | ref=Р43
+  other tags : bridge=yes | highway=primary | layer=1 | maxspeed=60 | ref=Р43 | surface=asphalt
     geometry : n275329598[53.0492349,27.6247858] n1826865978[53.0490129,27.6237569]
 w25270559  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : highway=primary
+  other tags : highway=primary | surface=asphalt
     geometry : n470088366[53.0286657,27.5546222] n470019333[53.0277781,27.5533372] n275329696[53.0276856,27.5532018]
 w25270561  Сацыялістычная вуліца / Sacyjalistyčnaja vulica / Социалистическая улица / Социалистическая улица
   other tags : highway=secondary
@@ -566,7 +566,7 @@ w39238971  вуліца Вялікая Горка / vulica Vialikaja Horka / у�
   other tags : highway=residential | maxspeed=60 | surface=asphalt
     geometry : n470088365[53.0268541,27.5555863] n633631445[53.0269889,27.5561446] n275330493[53.0273668,27.5579157] n470019536[53.0275328,27.5580636]
 w39238972  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
-  other tags : bridge=yes | highway=primary | layer=1
+  other tags : bridge=yes | highway=primary | layer=1 | surface=asphalt
     geometry : n470088367[53.0291184,27.5552541] n470019560[53.0289395,27.5550171] n470088366[53.0286657,27.5546222]
 w39238973  вуліца Леніна / vulica Lienina / улица Ленина / улица Ленина
   other tags : highway=primary | lanes=2 | maxspeed=40 | ref=Р43 | surface=asphalt
