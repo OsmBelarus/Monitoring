@@ -1021,6 +1021,18 @@ n3557604807
 n3557604809
   other tags : communication:mobile_phone=yes | description=Done | man_made=mast | operator=LIFE | operator:MNC=04 | tower:type=communication
     geometry : [52.5043745,30.2591658]
+n3613978512
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.2206470,30.3198952]
+n3613978514
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [52.2354868,30.1195671]
+n3613978515
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM;LIFE | operator:MNC=01;04 | tower:type=communication
+    geometry : [52.2362157,30.1193130]
+n3613978517
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.2879980,30.2666900]
 w24945313
   other tags : railway=rail | service=spur | usage=industrial
     geometry : n2745359139[52.3434734,30.3210444] n2745377838[52.3434053,30.3205816] n2745377836[52.3433515,30.3201763] n2745377835[52.3433063,30.3197992] n2745377834[52.3422298,30.3057385] n2745385649[52.3419921,30.3026865] n2745377833[52.3416746,30.2985432]
