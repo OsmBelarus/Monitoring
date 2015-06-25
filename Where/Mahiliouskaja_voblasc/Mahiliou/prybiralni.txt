@@ -1,6 +1,12 @@
 n286637110
   other tags : amenity=toilets
     geometry : [53.8941842,30.3284404]
+n1009029700  null / null / (in cafe / в кафе )
+  other tags : access=public | amenity=toilets | unisex=yes
+    geometry : [53.9092302,30.3387204]
+n1488292262
+  other tags : amenity=toilets | fee=yes | unisex=yes
+    geometry : [53.9085385,30.3454880]
 n2309340465
   other tags : amenity=toilets | fee=yes
     geometry : [53.9071015,30.3385807]
@@ -10,6 +16,9 @@ n2331806463
 n3263213968
   other tags : amenity=toilets
     geometry : [53.8945157,30.3446474]
+n3614687652  null / null / next to the building (с торцевой части вход )
+  other tags : amenity=toilets | unisex=yes
+    geometry : [53.9070468,30.3386760]
 w86760903
   other tags : amenity=toilets | building=yes | fee=no | wheelchair=no
     geometry : n1008842566[53.8800172,30.2636864] n1009148830[53.8800966,30.2636882] n1008862411[53.8800981,30.2634823] n1008836605[53.8800188,30.2634806] n1008842566[53.8800172,30.2636864]
