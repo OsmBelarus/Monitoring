@@ -5053,6 +5053,9 @@ n767184471  null / null / Академика Фёдорова
 n768177132  null / null / Парк Дружбы народов
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9266414,27.5710650]
+n805267231  null / null / Каменногорская 100
+  other tags : covered=yes | highway=bus_stop | shelter=yes
+    geometry : [53.9322797,27.4271457]
 n805558871  null / null / Лидская
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9226579,27.4289421]
@@ -5215,7 +5218,7 @@ n1947354652  null / null / Каменная Горка-5
     geometry : [53.9180227,27.4166300]
 n1947354657  null / null / Лабунщина
   other tags : highway=bus_stop | shelter=yes
-    geometry : [53.9242315,27.4204267]
+    geometry : [53.9240350,27.4202469]
 n2010580146  null / null / Аэродромная
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8729513,27.5488967]
@@ -5282,15 +5285,9 @@ n2395014060  null / null / Колледж стройматериалов
 n2395014061  null / null / Станция метро Михалово
   other tags : highway=bus_stop
     geometry : [53.8769254,27.4957756]
-n2402132239  null / null / Каменногорская, 100
-  other tags : covered=yes | highway=bus_stop | shelter=yes
-    geometry : [53.9323120,27.4268453]
 n2402132240  null / null / Каменная Горка-4
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9302319,27.4254716]
-n2402166905  null / null / Каменная Горка-4
-  other tags : highway=bus_stop | shelter=yes
-    geometry : [53.9292478,27.4241627]
 n2403218040  null / null / Казимировская
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.9170668,27.4276230]
@@ -5311,7 +5308,7 @@ n2479316782  null / null / Тиражная
     geometry : [53.9387597,27.5949462]
 n2483174800  null / null / Лабунщина
   other tags : highway=bus_stop | shelter=yes
-    geometry : [53.9233853,27.4196110]
+    geometry : [53.9231849,27.4196465]
 n2528253648  null / null / Станция метро Автозаводская
   other tags : highway=bus_stop
     geometry : [53.8681153,27.6458043]
@@ -5534,3 +5531,6 @@ n3609615007
 n3612270750  null / null / Люцинская
   other tags : highway=bus_stop | operator=Минсктранс | shelter=yes
     geometry : [53.9346271,27.4342707]
+n3614216559  null / null / Каменная горка-4
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [53.9293365,27.4244757]
