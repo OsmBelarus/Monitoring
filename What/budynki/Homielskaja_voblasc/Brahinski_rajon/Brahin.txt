@@ -632,8 +632,8 @@ w267406709
   other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=126 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n2728644953[51.7939397,30.2718849] n2728644949[51.7939194,30.2720563] n2728644943[51.7938411,30.2720321] n2728644945[51.7938614,30.2718607] n2728644953[51.7939397,30.2718849]
 w267406711
-  other tags : building=yes | building:levels=1
-    geometry : n2728644746[51.7927790,30.2615427] n2728644744[51.7927806,30.2617171] n2728644740[51.7927127,30.2617187] n2728644738[51.7927111,30.2615443] n2728644746[51.7927790,30.2615427]
+  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=8 | building=yes | building:levels=1
+    geometry : n2728644746[51.7927463,30.2616504] n2728644744[51.7927479,30.2618248] n2728644740[51.7926800,30.2618264] n2728644738[51.7926784,30.2616520] n2728644746[51.7927463,30.2616504]
 w267406712
   other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=162 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n2728645290[51.7977712,30.2730686] n2728645288[51.7977599,30.2731893] n2728645280[51.7976622,30.2731655] n2728645282[51.7976735,30.2730448] n2728645290[51.7977712,30.2730686]
@@ -641,7 +641,7 @@ w267406713
   other tags : addr:housenumber=2 | addr:street=улица Чалидзе | building=yes | building:levels=1
     geometry : n2728643220[51.7771812,30.2666192] n2728643206[51.7771340,30.2667358] n2728643185[51.7770397,30.2666362] n2728643194[51.7770869,30.2665196] n2728643220[51.7771812,30.2666192]
 w267406715
-  other tags : addr:street=Октябрьская улица | building=yes | building:levels=1
+  other tags : addr:country=BY | addr:housenumber=23 | addr:street=Октябрьская улица | building=yes | building:levels=1
     geometry : n2728643103[51.7762373,30.2666315] n2728643106[51.7762775,30.2667540] n2728643100[51.7761915,30.2668278] n2728643097[51.7761512,30.2667053] n2728643103[51.7762373,30.2666315]
 w267406716
   other tags : addr:housenumber=5 | addr:street=Зелёная улица | building=yes | building:levels=1
