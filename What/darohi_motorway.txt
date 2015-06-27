@@ -8,7 +8,7 @@ w25266723
   other tags : highway=motorway | int_ref=E 271 | lanes=2 | maxspeed=120 | oneway=yes | ref=М5
     geometry : n275306391[53.5502374,28.1612007] n660138153[53.5507274,28.1604217] n275306508[53.5554300,28.1547000] n1410775158[53.5593158,28.1497079] n2980424146[53.5721420,28.1335691] n2980424148[53.5723440,28.1333150] n275306504[53.5731582,28.1322225] n2980424152[53.5747133,28.1302543] n275306505[53.5763700,28.1279200] n275306506[53.5795500,28.1225100] n275306373[53.5856756,28.1115067] n2980424185[53.5865524,28.1099127]
 w25267684
-  other tags : highway=motorway | lanes=2 | maxspeed=90 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=90 | oneway=yes | ref=М2 | toll=yes
     geometry : n275311911[54.0122479,27.8962858] n3197822573[54.0120562,27.8967361] n1399115567[54.0118504,27.8971309] n275311912[54.0112934,27.8980374] n1766138901[54.0107312,27.8989142]
 w25269146
   other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt
@@ -44,28 +44,28 @@ w37872976
   other tags : bridge=yes | highway=motorway | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n438067768[53.7269889,27.5171115] n444423667[53.7273494,27.5183311]
 w39230406
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n469976454[53.9930181,27.9190394] n420507739[53.9936999,27.9183798]
 w39230407
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n420507739[53.9936999,27.9183798] n2183407531[53.9980735,27.9142631]
 w39244239
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470215490[53.9775779,27.9387229] n470215489[53.9778162,27.9383672]
 w39244240
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470215489[53.9778162,27.9383672] n3192714396[53.9783931,27.9375061] n420507736[53.9813306,27.9331214] n1798773769[53.9825227,27.9312897] n420507737[53.9828840,27.9307834] n1798773791[53.9836921,27.9295507] n275312250[53.9844106,27.9285363] n420507738[53.9854933,27.9270779] n275311902[53.9864982,27.9257906] n474794496[53.9866993,27.9255395]
 w39244241
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470215487[53.9777077,27.9380985] n470215488[53.9774696,27.9384548]
 w39244244
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470215488[53.9774696,27.9384548] n470225320[53.9699751,27.9496729]
 w39245344
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470225321[53.9702444,27.9497335] n470215490[53.9775779,27.9387229]
 w39245348
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n470225320[53.9699751,27.9496729] n275312076[53.9698797,27.9498037] n1418543712[53.9693577,27.9505691] n3198374923[53.9616223,27.9622056]
 w39598682
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
@@ -77,16 +77,16 @@ w39598696
   other tags : bridge=yes | highway=motorway | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n474697098[53.8043988,27.7934205] n474697033[53.8048230,27.7946925]
 w39608432
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n474794495[53.9870906,27.9246509] n474794494[53.9866746,27.9251724]
 w39608433
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n474794494[53.9866746,27.9251724] n275311918[53.9864202,27.9254742] n275312253[53.9853886,27.9267924] n1798773793[53.9843075,27.9282730] n1798773789[53.9836142,27.9292344] n275312255[53.9829500,27.9302500] n1798773767[53.9824122,27.9310207] n3192714395[53.9782720,27.9372496] n470215487[53.9777077,27.9380985]
 w39608434
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n474794496[53.9866993,27.9255395] n474794497[53.9871337,27.9249935]
 w39608435
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n474794497[53.9871337,27.9249935] n275311903[53.9875207,27.9245647] n474794501[53.9898462,27.9220668] n469931354[53.9903945,27.9214968] n469931326[53.9914545,27.9204685] n469976454[53.9930181,27.9190394]
 w49493500
   other tags : highway=motorway | maxspeed=90 | oneway=yes | ref=М4
@@ -101,10 +101,10 @@ w50940439
   other tags : bridge=yes | highway=motorway | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n649575217[53.7580111,27.6622067] n649575406[53.7574783,27.6607797]
 w53842423
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n679759054[53.8954418,28.0269434] n361439704[53.8965236,28.0251021] n361439705[53.8983140,28.0223297] n338489000[53.9087640,28.0068136] n275312536[53.9132131,28.0002904] n275312538[53.9161100,27.9962659] n275312541[53.9192191,27.9926079] n446061182[53.9219806,27.9901485] n275312544[53.9232634,27.9892171] n275312449[53.9249507,27.9880847] n2132186946[53.9260725,27.9874576] n275312450[53.9270148,27.9869517] n275312451[53.9285837,27.9862270] n1798772676[53.9310194,27.9853193] n2921691872[53.9425310,27.9810479] n1485603217[53.9434326,27.9806952]
 w53842424
-  other tags : highway=motorway | lanes=2 | maxspeed=60 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=60 | oneway=yes | ref=М2 | toll=yes
     geometry : n498836647[53.8951712,28.0263919] n498836732[53.8945169,28.0273661] n2916314449[53.8937105,28.0287111]
 w57899392
   other tags : highway=motorway | lanes=1 | oneway=yes
@@ -149,10 +149,10 @@ w67724174
   other tags : highway=motorway | int_ref=E 271 | lanes=2 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt
     geometry : n275320418[53.7952624,27.8135812] n1864050995[53.7983572,27.8071204] n1885587312[53.7986598,27.8064915] n981690515[53.7986764,27.8064569] n2886017523[53.7994426,27.8049045] n1885587372[53.8000345,27.8036788] n3198364236[53.8015517,27.8005102] n275320420[53.8019549,27.7996652] n981690534[53.8032020,27.7970934] n275320421[53.8043400,27.7948100] n275320422[53.8049754,27.7934869] n275320423[53.8071013,27.7889299]
 w70076906
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n469976449[53.9937431,27.9179542] n469929001[53.9930526,27.9186083]
 w70076908
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n469929001[53.9930526,27.9186083] n2183360117[53.9917559,27.9198440] n469930547[53.9897383,27.9217329] n275311916[53.9895600,27.9219300] n275311917[53.9881000,27.9234700] n474794495[53.9870906,27.9246509]
 w70428518
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
@@ -434,7 +434,7 @@ w130096180
   other tags : highway=motorway | int_ref=E 30;E 85 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n275452058[52.2362005,24.4372349] n2832482484[52.2427923,24.4550376] n2832483820[52.2443876,24.4593727] n2832483829[52.2477295,24.4684285] n2832483836[52.2516513,24.4790674] n3283567967[52.2537087,24.4846278] n2832483838[52.2539093,24.4851529] n2832483839[52.2548369,24.4876376] n2832483841[52.2562613,24.4914415] n2832483843[52.2581256,24.4963874] n1754609979[52.2618434,24.5062591] n2832483846[52.2632217,24.5099509] n275452060[52.2645648,24.5135254] n2832483864[52.2654932,24.5160125] n2338278265[52.2663704,24.5185040] n2338278276[52.2677950,24.5226831] n275451961[52.2698478,24.5287098] n2338278296[52.2702871,24.5300055] n2338278301[52.2707506,24.5312786] n275451962[52.2717125,24.5337517] n2338278314[52.2742227,24.5394444] n2338278323[52.2748689,24.5408987] n2338278329[52.2758224,24.5430111] n2338278356[52.2797625,24.5518295]
 w130190774
-  other tags : highway=motorway | lanes=2 | maxspeed=90 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=90 | oneway=yes | ref=М2 | toll=yes
     geometry : n1434874652[54.0096043,27.9010200] n275311909[54.0113720,27.8983754] n1399115568[54.0119556,27.8973576] n3197822572[54.0121959,27.8968568] n420209851[54.0124140,27.8963472]
 w130778341
   other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt | width=7
@@ -554,58 +554,58 @@ w135257833
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n275312446[53.9527041,27.9852917] n1797040524[53.9529126,27.9858139] n1797040560[53.9538579,27.9883126] n275312447[53.9545035,27.9902469] n2222484612[53.9548615,27.9913448] n2222484616[53.9552040,27.9924903] n275312448[53.9556600,27.9939400] n2422481572[53.9559638,27.9950008]
 w135257834
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n446061181[53.9512477,27.9753598] n1798772959[53.9503140,27.9761652] n275312328[53.9494664,27.9767969]
 w135257835
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312311[53.9530905,27.9740562] n1485603228[53.9537072,27.9733904]
 w135257836
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312329[53.9534959,27.9731528] n1798773027[53.9524323,27.9742623] n1798773019[53.9518487,27.9748154] n446061181[53.9512477,27.9753598]
 w135257837
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312312[53.9498487,27.9769124] n1798772961[53.9503208,27.9765177] n275312453[53.9507867,27.9761537]
 w135257838
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603219[53.9465852,27.9790965] n275312302[53.9485667,27.9778561]
 w135257839
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603223[53.9485700,27.9774477] n275312458[53.9479551,27.9778443]
 w135257840
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312452[53.9438505,27.9805308] n1797040433[53.9452746,27.9798275] n1485603219[53.9465852,27.9790965]
 w135257841
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603218[53.9464500,27.9788236] n2921691869[53.9459046,27.9791331] n275312459[53.9455036,27.9793359]
 w135257842
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603217[53.9434326,27.9806952] n275312452[53.9438505,27.9805308]
 w135257843
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312459[53.9455036,27.9793359] n3191160470[53.9452198,27.9794827] n2921691870[53.9445688,27.9798195] n275312460[53.9435657,27.9802666]
 w135257844
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603225[53.9488665,27.9776539] n275312312[53.9498487,27.9769124]
 w135257845
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312328[53.9494664,27.9767969] n1485603223[53.9485700,27.9774477]
 w135257846
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312457[53.9537854,27.9728656] n275312329[53.9534959,27.9731528]
 w135257847
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312453[53.9507867,27.9761537] n1798773021[53.9519556,27.9751452] n275312311[53.9530905,27.9740562]
 w135257848
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312458[53.9479551,27.9778443] n1485603218[53.9464500,27.9788236]
 w135257849
-  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=3 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312302[53.9485667,27.9778561] n1485603225[53.9488665,27.9776539]
 w135257850
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n1485603228[53.9537072,27.9733904] n3198384703[53.9554084,27.9714444] n275312454[53.9565281,27.9700515] n3198384706[53.9571560,27.9692150] n3198384705[53.9578555,27.9682321] n420507735[53.9587594,27.9668899] n1797040703[53.9590959,27.9664050] n3198374922[53.9614985,27.9628395]
 w135257851
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n275312460[53.9435657,27.9802666] n2921691871[53.9425896,27.9806775] n275312461[53.9284500,27.9859600] n275312462[53.9266367,27.9867849] n275312465[53.9249300,27.9877600] n275312550[53.9226910,27.9892917] n275312552[53.9200557,27.9914294] n2132186945[53.9185190,27.9930028] n275312553[53.9168932,27.9948326] n275312555[53.9146300,27.9976300] n498836647[53.8951712,28.0263919]
 w135546549
   other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М4
@@ -707,7 +707,7 @@ w165030336
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n1766136260[54.6074595,30.3728953] n1527856319[54.6073574,30.3726146] n2452663892[54.6054191,30.3669211] n1798522039[54.6042296,30.3634270] n275154090[54.6039836,30.3627046] n1890449037[54.6038281,30.3622577] n1796814258[54.6031860,30.3604125] n1796814249[54.6028080,30.3594132] n1890449018[54.6025229,30.3587028] n275154101[54.6025106,30.3586722] n1766136258[54.6018755,30.3573655]
 w165030615
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | surface=asphalt
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | surface=asphalt | toll=yes
     geometry : n1766138901[54.0107312,27.8989142] n1203032804[54.0089751,27.9015318] n275311913[54.0069596,27.9044791] n2183360118[54.0056127,27.9062188] n275311914[54.0045690,27.9075088] n2183360119[54.0033059,27.9089181] n275311915[54.0022403,27.9100057] n2183407532[53.9982490,27.9137395]
 w166003445
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
@@ -1148,16 +1148,16 @@ w207720545
   other tags : bridge=viaduct | highway=motorway | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n2179741665[53.6607260,27.1358934] n2179741663[53.6608010,27.1362927]
 w208046134
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n2183407532[53.9982490,27.9137395] n2183407533[53.9979832,27.9139881]
 w208046135
-  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=yes | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n2183407531[53.9980735,27.9142631] n2183407530[53.9983377,27.9140144]
 w208046136
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n2183407533[53.9979832,27.9139881] n469976449[53.9937431,27.9179542]
 w208046137
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n2183407530[53.9983377,27.9140144] n1798773818[53.9987831,27.9135951] n275311905[53.9999195,27.9125307] n275311906[54.0023452,27.9102694] n2183360120[54.0034245,27.9091574] n275311907[54.0047730,27.9076543] n275311908[54.0070748,27.9047206] n1798774198[54.0090534,27.9018259] n1434874652[54.0096043,27.9010200]
 w208048317
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
@@ -1625,19 +1625,19 @@ w308116877
   other tags : highway=motorway | int_ref=E 30 | lanes=2 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
     geometry : n3134016674[54.4258551,29.5453709] n2087731915[54.4248929,29.5410240] n2087731913[54.4245327,29.5394391] n2087731910[54.4241810,29.5377933] n2087731906[54.4238683,29.5364013] n2087731901[54.4234900,29.5347040] n2087731886[54.4231792,29.5333311] n275192060[54.4229145,29.5322605] n2087731871[54.4223921,29.5302129] n275192061[54.4217844,29.5281352] n2087731863[54.4210441,29.5257910] n2087731860[54.4204748,29.5241886] n275192067[54.4199020,29.5226485] n275192068[54.4191980,29.5208993] n2087731850[54.4181444,29.5183800] n2087731822[54.4167616,29.5152349] n2088257159[54.4140539,29.5089607] n2088257155[54.4133257,29.5073642] n275192069[54.4125730,29.5055044] n2087731811[54.4113105,29.5021774] n275192070[54.4102691,29.4993460] n2087731797[54.4095701,29.4972206] n275192071[54.4090387,29.4954793] n2087731789[54.4084639,29.4934221] n2087731786[54.4080774,29.4919211] n275192072[54.4077252,29.4905071] n2087731783[54.4073549,29.4889482] n2087731779[54.4070027,29.4873088] n790266091[54.4063624,29.4841406] n2087731765[54.4035441,29.4702183] n2087731763[54.4031373,29.4682426] n2087731760[54.4027582,29.4664525] n2087731758[54.4023944,29.4646130] n2087731756[54.4021031,29.4630622] n3383250366[54.4015475,29.4600012] n2087731748[54.4011460,29.4575910] n2087731743[54.4009533,29.4563631] n275192074[54.4007700,29.4551309] n2554129019[54.4003806,29.4523269] n2087731740[54.4002014,29.4510121] n275192075[54.3999631,29.4490342] n2087731730[54.3988375,29.4394630] n2087731725[54.3982571,29.4345554] n2087731723[54.3978530,29.4313538] n2087731720[54.3976380,29.4296773] n275196299[54.3974300,29.4280800] n2087731717[54.3970962,29.4257815] n275196300[54.3965721,29.4226085] n2087731713[54.3961663,29.4201849] n275196301[54.3953465,29.4156509] n2114088989[54.3948829,29.4133820] n2114088965[54.3943395,29.4107772] n2087731698[54.3932209,29.4055557] n2344520477[54.3887396,29.3850732] n275196302[54.3865887,29.3751125] n2344520465[54.3860998,29.3728750] n275196333[54.3856425,29.3707157] n2344520459[54.3853391,29.3691691] n2344520456[54.3850142,29.3675177] n275196334[54.3845544,29.3649303] n2344520452[54.3842483,29.3630785] n2344520449[54.3839690,29.3613673] n2344520444[54.3837206,29.3596163] n275196335[54.3830365,29.3545802] n2344520431[54.3823195,29.3490887] n1354570240[54.3815909,29.3436116] n3383250362[54.3811569,29.3402504]
 w313803058
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n3198374924[53.9613695,27.9625859] n275312256[53.9602100,27.9643300] n275312455[53.9596100,27.9652700] n1826945546[53.9578254,27.9678441] n1826945544[53.9569190,27.9691246] n275312456[53.9560000,27.9703300] n275312457[53.9537854,27.9728656]
 w313803059
-  other tags : bridge=viaduct | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=viaduct | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n3198374923[53.9616223,27.9622056] n3198374924[53.9613695,27.9625859]
 w313803536
-  other tags : bridge=viaduct | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : bridge=viaduct | highway=motorway | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n3198374922[53.9614985,27.9628395] n3198374921[53.9617503,27.9624658]
 w313803537
-  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2
+  other tags : highway=motorway | lanes=2 | maxspeed=120 | oneway=yes | ref=М2 | toll=yes
     geometry : n3198374921[53.9617503,27.9624658] n275312248[53.9639207,27.9592447] n470225360[53.9697859,27.9504073] n470225321[53.9702444,27.9497335]
 w319082069
-  other tags : highway=motorway | maxspeed=60 | oneway=yes | ref=М2
+  other tags : highway=motorway | maxspeed=60 | oneway=yes | ref=М2 | toll=yes
     geometry : n2916314447[53.8940005,28.0294446] n275312534[53.8949427,28.0278226] n498836733[53.8950226,28.0276882] n679759054[53.8954418,28.0269434]
 w327685729
   other tags : bridge=yes | highway=motorway | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М1 | surface=asphalt | toll=yes
