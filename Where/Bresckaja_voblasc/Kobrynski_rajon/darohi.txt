@@ -596,13 +596,13 @@ w115379107
   other tags : highway=trunk | int_ref=E 30;E 85 | lanes=2 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n1303849726[52.2083274,24.4217101] n275453809[52.2118123,24.4226769]
 w115379109
-  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1
+  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n275452033[52.2123870,24.4226279] n275453780[52.2118402,24.4224618]
 w115379111
   other tags : highway=unclassified
     geometry : n1303849804[52.2183876,24.4713580] n2832449809[52.2170718,24.4704677] n2832449801[52.2158450,24.4696377] n1303849625[52.2151307,24.4693448]
 w115379113
-  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1
+  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n275453809[52.2118123,24.4226769] n275452036[52.2123319,24.4228293]
 w115379114
   other tags : highway=trunk | int_ref=E 30;E 85 | lanes=2 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
@@ -617,7 +617,7 @@ w115379121
   other tags : highway=unclassified
     geometry : n1303849635[52.2175609,24.4746217] n2832449805[52.2161573,24.4737098] n2832448990[52.2150016,24.4729590] n1303849765[52.2135945,24.4720753]
 w115379125
-  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1
+  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n1303834232[52.2074188,24.4214440] n1303849726[52.2083274,24.4217101]
 w115379127
   other tags : highway=trunk_link | oneway=yes
@@ -626,7 +626,7 @@ w115379132
   other tags : highway=primary
     geometry : n1303849643[52.2215905,24.4246537] n1303849874[52.2216986,24.4247443] n1303849781[52.2218594,24.4248234] n3160922504[52.2220532,24.4248119] n1303849691[52.2223526,24.4246177]
 w115379133
-  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1
+  other tags : bridge=yes | highway=trunk | int_ref=E 30;E 85 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n1303849910[52.2083744,24.4214912] n1303849681[52.2074550,24.4212198]
 w115379136
   other tags : highway=primary | surface=asphalt
