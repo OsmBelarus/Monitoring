@@ -6874,8 +6874,8 @@ w204622659
 w204622660
   other tags : addr:housenumber=73А | addr:street=улица Сумченко | building=yes
     geometry : n2146165441[53.3205406,28.6421860] n2146165437[53.3202302,28.6431854] n2146165435[53.3201044,28.6430760] n2146165440[53.3204149,28.6420766] n2146165441[53.3205406,28.6421860]
-w204622661
-  other tags : addr:housenumber=57 | addr:street=улица Сумченко | building=yes
+w204622661  null / null / Многоквартирный жилой дом
+  other tags : addr:housenumber=57 | addr:street=улица Сумченко | building=yes | building:levels=5
     geometry : n2146165410[53.3196667,28.6430401] n2146165405[53.3196175,28.6431999] n2146165385[53.3188803,28.6425643] n2146165387[53.3189295,28.6424045] n2146165410[53.3196667,28.6430401]
 w204622662
   other tags : addr:housenumber=57А | addr:street=улица Сумченко | building=yes
