@@ -4130,15 +4130,18 @@ n1421774449
 n1421774450
   other tags : shop=butcher
     geometry : [53.9097494,27.4946603]
-n1421776203  null / null / Алкогольный магазин
-  other tags : shop=supermarket
+n1421776202
+  other tags : shop=furniture
+    geometry : [53.9095624,27.4898118]
+n1421776203  null / null / Фиеста
+  other tags : shop=alcohol
     geometry : [53.9096667,27.4911100]
-n1421782410
-  other tags : shop=kiosk
+n1421782410  null / null / Вероника
+  other tags : shop=clothes
     geometry : [53.9096035,27.4903697]
 n1421782412
   other tags : shop=kiosk
-    geometry : [53.9098152,27.4935079]
+    geometry : [53.9096873,27.4939559]
 n1421782413
   other tags : shop=kiosk
     geometry : [53.9091721,27.4948947]
@@ -4817,9 +4820,6 @@ n1620675263
 n1620675264
   other tags : shop=chemist
     geometry : [53.9109514,27.5002489]
-n1620675265
-  other tags : shop=shoe_repair
-    geometry : [53.9109552,27.5003320]
 n1620675376  null / null / Овощи и фрукты
   other tags : shop=greengrocer
     geometry : [53.9098472,27.4938914]
@@ -5801,8 +5801,8 @@ n2332455968
 n2332455969
   other tags : shop=copyshop
     geometry : [53.9119612,27.5950856]
-n2332474077
-  other tags : shop=variety_store
+n2332474077  null / null / Новый
+  other tags : shop=convenience
     geometry : [53.9081530,27.5142127]
 n2332474078
   other tags : shop=convenience
@@ -5901,7 +5901,7 @@ n2379978656  null / null / Мила
 n2379978657  null / null / Лит-Ра
   other tags : drink=beer | shop=beverages
     geometry : [53.8610777,27.4444754]
-n2382958762  null / null / Мясной магазин
+n2382958762
   other tags : shop=butcher
     geometry : [53.9100734,27.4946183]
 n2392698759  null / null / Швейный мир
@@ -6439,8 +6439,8 @@ n2574072162  null / null / Остров вкуса
   other tags : shop=convenience
     geometry : [53.9194445,27.4985382]
 n2574327241  null / null / Мэрилин
-  other tags : shop=hairdresser
-    geometry : [53.9096784,27.4908477]
+  other tags : opening_hours=Mo-Fr 08:00-20:00 Sa 08:00-18:00 Su 09:00-18:00 | shop=hairdresser
+    geometry : [53.9096395,27.4908400]
 n2574327242  null / null / Вечерняя звезда
   other tags : addr:housenumber=22 к1 | addr:street=улица Одинцова | opening_hours=Mo-Su 08:00-21:00 | shop=hairdresser
     geometry : [53.9006486,27.4447402]
@@ -6702,9 +6702,6 @@ n2602970265  null / null / Apparel
 n2605780329  null / null / Хозяйственный магазин "Находка"
   other tags : shop=yes
     geometry : [53.8974732,27.4521443]
-n2605794211  null / null / Блинная "Масленица"
-  other tags : shop=kiosk
-    geometry : [53.9098251,27.4947594]
 n2605795431  null / null / Мясной магазин
   other tags : shop=yes
     geometry : [53.9039885,27.4548711]
@@ -7600,6 +7597,9 @@ n2628868142  null / null / Музыкальный рай
 n2629118239  null / null / Second Hand
   other tags : shop=second_hand
     geometry : [53.8988382,27.4977106]
+n2629129660  null / null / Second Hand
+  other tags : shop=clothes
+    geometry : [53.9064588,27.4894196]
 n2629131444  null / null / Luisa Spagnoli
   other tags : addr:city=Минск | addr:housenumber=20 | addr:postcode=220039 | addr:street=улица Чкалова | opening_hours=Mo-Su 10:00-20:00 | phone=+375 44 777-70-08 +375 44 778-77-78 +375 33 370-78-88 +375 33 630-08-88 | shop=clothes | website=http://luisaspagnoli.relax.by
     geometry : [53.8775358,27.5340047]
@@ -8901,9 +8901,9 @@ n3205794958  null / null / Мила
 n3205794959  null / null / Продукты
   other tags : shop=yes
     geometry : [53.9486747,27.6111721]
-n3205811605  null / null / Магазин «Книги»
+n3205811605
   other tags : shop=books
-    geometry : [53.9096385,27.4907316]
+    geometry : [53.9096718,27.4913863]
 n3205811609  null / null / Рамер
   other tags : shop=frame
     geometry : [53.9109778,27.5044980]
@@ -8913,9 +8913,9 @@ n3205811613  null / null / Салон красоты "Мастера ножни�
 n3205811615  null / null / Продуктовый магазин
   other tags : shop=yes
     geometry : [53.9099537,27.5213570]
-n3205811619  null / null / Продуктовый магазин
-  other tags : shop=yes
-    geometry : [53.9082737,27.5129579]
+n3205811619  null / null / Продукты
+  other tags : opening_hours=8:00-22:00 | shop=convenience
+    geometry : [53.9083035,27.5129624]
 n3205811623  null / null / Электросчетчики "Алинея"
   other tags : shop=yes
     geometry : [53.8987084,27.5014143]
@@ -8961,8 +8961,8 @@ n3206002993  null / null / Солярий "ДримБэй
 n3206002997  null / null / Мебельный магазин "Декор"
   other tags : shop=furniture
     geometry : [53.9164068,27.4958905]
-n3206003002  null / null / Магазин мебели "ЭлитСтудия"
-  other tags : shop=yes
+n3206003002  null / null / ЭлитСтудия
+  other tags : shop=furniture
     geometry : [53.9110544,27.5011369]
 n3206003005  null / null / ЭкономМагазин
   other tags : shop=yes
@@ -10113,7 +10113,7 @@ n3270535880  null / null / Ленуська
   other tags : addr:housenumber=6 к1 | addr:street=улица Болеслава Берута | opening_hours=Mo-Sa 08:00-20:00; Su 10:00-18:00 | shop=beauty
     geometry : [53.9076019,27.5005593]
 n3270536261  null / null / RED ROSE (РЕД РОУЗ)
-  other tags : addr:housenumber=10 | addr:street=улица Притыцкого | opening_hours=пн. — пт.: 09:00 — 21:00 сб.: 09:00 — 18:00 вс.: выходной | operator=САЛОН КРАСОТЫ | shop=beauty
+  other tags : addr:housenumber=10 | addr:street=улица Притыцкого | opening_hours=Mo-Fr 09:00-21:00 Sa 09:00-18:00 | operator=САЛОН КРАСОТЫ | shop=beauty
     geometry : [53.9109514,27.5002489]
 n3270537524  null / null / МЭРИЛИН
   other tags : addr:housenumber=28 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 08:00 — 21:00 сб.: 08:00 — 18:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
@@ -10121,9 +10121,6 @@ n3270537524  null / null / МЭРИЛИН
 n3270538688  null / null / ЦЕНТР КРАСОТЫ
   other tags : addr:housenumber=39 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 09:00 — 20:00 сб.: 09:00 — 18:00 вс.: выходной | shop=beauty
     geometry : [53.9090645,27.4949269]
-n3270540325  null / null / Мэрилин
-  other tags : addr:housenumber=38 | addr:street=улица Притыцкого | opening_hours=пн-пт: 08:00-20:00, сб: 08:00-18:00, вс: 09:00-18:00 | operator=Парикмахерская | shop=beauty
-    geometry : [53.9096004,27.4895584]
 n3270541801  null / null / ЦЫРУЛЬНЯ
   other tags : addr:housenumber=40 | addr:street=улица Притыцкого | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
     geometry : [53.9096021,27.4872241]
@@ -11367,3 +11364,9 @@ n3612403897  null / null / цифровые фотоаппараты, экшен
 n3619120006  null / null / Белсоюзпечать
   other tags : shop=kiosk | shop_1=newsagent
     geometry : [53.9376304,27.4414932]
+n3620732776
+  other tags : opening_hours=Mo-Sa 07:00-20:00 | shop=hairdresser
+    geometry : [53.9081202,27.5147971]
+n3620732778
+  other tags : shop=ticket
+    geometry : [53.9096800,27.4937356]
