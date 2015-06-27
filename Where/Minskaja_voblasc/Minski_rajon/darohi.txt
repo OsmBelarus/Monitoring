@@ -263,7 +263,7 @@ w24609978
   other tags : highway=track
     geometry : n267406737[53.8451197,27.8633299] n1418475138[53.8438579,27.8643743] n267527403[53.8435412,27.8646651] n267527404[53.8430854,27.8649912] n267527405[53.8428981,27.8650599] n267527406[53.8428322,27.8649483] n267527408[53.8426661,27.8633684] n267527412[53.8424940,27.8622771] n267527413[53.8422689,27.8610173] n267527414[53.8419412,27.8593495] n267527415[53.8417518,27.8580601] n267527416[53.8415895,27.8568451] n267527417[53.8414548,27.8558996] n267527419[53.8413278,27.8550842] n267527420[53.8411189,27.8541701] n267527421[53.8407460,27.8528590] n267527422[53.8389008,27.8458138] n2330966616[53.8390715,27.8455317] n267527423[53.8373577,27.8431902] n267527424[53.8365119,27.8422203] n267527426[53.8350937,27.8405466]
 w25223873
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275081221[53.9100730,27.3909733] n275081268[53.9095285,27.3869277] n1399029647[53.9076179,27.3720418] n275081623[53.9075317,27.3710193] n1828786647[53.9074597,27.3698040] n2406239031[53.9074517,27.3695746] n1629883323[53.9074288,27.3689663] n1399029642[53.9074184,27.3680511] n275081632[53.9074576,27.3670335] n1399029646[53.9075475,27.3657965] n275081634[53.9077078,27.3646252] n275081636[53.9079411,27.3633396] n3161371441[53.9083851,27.3613567] n275081706[53.9091043,27.3586086] n275081709[53.9102548,27.3539659] n275081765[53.9114316,27.3493651] n2909144036[53.9123211,27.3457935] n275081825[53.9137611,27.3401238] n275081835[53.9145743,27.3368686] n275039326[53.9149211,27.3355100] n275039327[53.9156426,27.3327333] n275039328[53.9160911,27.3306867] n281948882[53.9163316,27.3294398]
 w25223907
   other tags : highway=trunk_link | oneway=yes
@@ -1557,10 +1557,10 @@ w25448632
   other tags : bridge=yes | highway=trunk | layer=1 | maxspeed=100 | oneway=yes | ref=Р28
     geometry : n277331059[53.9456704,27.3550415] n277331058[53.9457350,27.3543613]
 w25449939
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n277345683[53.9101534,27.3915733] n275081221[53.9100730,27.3909733]
 w25449941
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275081222[53.9099191,27.3910178] n277345684[53.9100038,27.3916380]
 w25464907
   other tags : highway=residential
@@ -1797,40 +1797,40 @@ w25847838
   other tags : highway=primary_link | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n281935545[53.7871119,27.5267902] n281935592[53.7869385,27.5264464] n281935631[53.7867778,27.5261018] n281935594[53.7866903,27.5258388] n281935632[53.7866421,27.5254879] n281935596[53.7866324,27.5251551] n1221339190[53.7866586,27.5248969] n281935633[53.7867158,27.5246256] n1221339191[53.7867835,27.5244122] n281935598[53.7868521,27.5242726] n281935634[53.7869486,27.5241057] n1205515475[53.7870744,27.5239596] n281935600[53.7872149,27.5238434] n1221339192[53.7874022,27.5237603] n281935635[53.7876203,27.5237511] n1221339193[53.7877945,27.5238237] n281935602[53.7879497,27.5239264] n1221339194[53.7880656,27.5240653] n281935636[53.7881902,27.5242282] n281935604[53.7883300,27.5245360] n281935637[53.7884299,27.5249247] n281935606[53.7884893,27.5253142]
 w25848625
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281944053[53.9177876,27.2940095] n281944048[53.9178283,27.2945462]
 w25848626
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281944048[53.9178283,27.2945462] n281943626[53.9181398,27.2978718] n2912020143[53.9183812,27.3005342] n3172103593[53.9184874,27.3020321] n275039303[53.9185566,27.3030088] n2912020153[53.9186453,27.3050735] n275039304[53.9186823,27.3072778] n275039307[53.9186573,27.3092202] n2912020152[53.9185771,27.3112458] n275039309[53.9184370,27.3133015] n2912020149[53.9183157,27.3147279] n275039310[53.9181779,27.3160883] n275039311[53.9177519,27.3192884] n281950159[53.9174388,27.3213341]
 w25848629
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281944054[53.9179254,27.2939015] n275039336[53.9176400,27.2909000] n281943543[53.9176275,27.2907464] n275039337[53.9172443,27.2866057] n2124820130[53.9170430,27.2846044] n2124820128[53.9167965,27.2825253] n2124820125[53.9165298,27.2805713] n275039338[53.9162266,27.2785945] n3057009969[53.9160738,27.2777354] n2124820114[53.9158189,27.2762826] n3057009968[53.9156096,27.2750945] n2124820107[53.9153212,27.2734573] n2124820100[53.9148266,27.2705830] n275039339[53.9134164,27.2625334] n275347286[53.9132580,27.2616512] n656448484[53.9125057,27.2570430]
 w25848630
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281944055[53.9179773,27.2944776] n281944054[53.9179254,27.2939015]
 w25849173
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281948881[53.9163507,27.3286711] n281948880[53.9162292,27.3293757]
 w25849174
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281948880[53.9162292,27.3293757] n275039313[53.9160072,27.3305229] n275039314[53.9156948,27.3318886] n281948808[53.9155262,27.3326324] n275039324[53.9148000,27.3355100] n275081828[53.9136531,27.3401181] n275081772[53.9124900,27.3447300] n2909144035[53.9122385,27.3457244] n275081766[53.9113406,27.3492119] n275081767[53.9111808,27.3498570] n275081710[53.9101565,27.3538972] n275081707[53.9090283,27.3583511] n275081708[53.9087551,27.3595144] n3161371436[53.9082861,27.3612773] n275081639[53.9078538,27.3631436] n275081641[53.9075941,27.3645528] n1399029644[53.9074334,27.3657437] n1634291765[53.9073331,27.3670089] n2406239028[53.9072936,27.3676547] n275081651[53.9072898,27.3681010] n1629883320[53.9072893,27.3688095] n1399029627[53.9072972,27.3692580] n2406239029[53.9073059,27.3695727] n3161371438[53.9073476,27.3704534] n2462988114[53.9074015,27.3711588] n275081424[53.9074531,27.3719187] n275081269[53.9092459,27.3856904] n275081217[53.9098379,27.3903722] n275081222[53.9099191,27.3910178]
 w25849175
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281948882[53.9163316,27.3294398] n281948883[53.9164657,27.3287277]
 w25849176
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281948883[53.9164657,27.3287277] n281948570[53.9170298,27.3251325] n281950157[53.9174705,27.3220763]
 w25849292
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281950157[53.9174705,27.3220763] n281950155[53.9175819,27.3212794]
 w25849294
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281950155[53.9175819,27.3212794] n275039330[53.9180098,27.3183306] n2912020147[53.9182092,27.3168731] n275039331[53.9183526,27.3157138] n2912020154[53.9185111,27.3140892] n275039332[53.9187155,27.3112743] n2912020144[53.9188001,27.3094691] n2912020151[53.9188358,27.3075927] n275039333[53.9187960,27.3055290] n2912020141[53.9187335,27.3038714] n729669676[53.9186867,27.3028081] n2561090090[53.9186295,27.3020015] n729669672[53.9185581,27.3009960] n281943620[53.9182495,27.2975406] n275039335[53.9181500,27.2963100] n281944055[53.9179773,27.2944776]
 w25849295
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281950159[53.9174388,27.3213341] n281950152[53.9173299,27.3221096]
 w25849296
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n281950152[53.9173299,27.3221096] n281948850[53.9169126,27.3250672] n281948743[53.9164565,27.3280522] n281948881[53.9163507,27.3286711]
 w25849530  Савецкая вуліца / Savieckaja vul. / Советская улица / Советская улица
   other tags : highway=residential
@@ -8013,16 +8013,16 @@ w38235600
   other tags : bicycle=yes | foot=yes | highway=path | motorcar=no
     geometry : n450642744[53.9610897,27.6343322] n450642652[53.9612826,27.6344759]
 w38243211
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n450840387[53.9572578,27.1105901] n450840383[53.9569339,27.1113333]
 w38243212
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n450840383[53.9569339,27.1113333] n275357500[53.9565283,27.1121032] n3146286950[53.9562880,27.1125106] n450840424[53.9560252,27.1128971] n445650795[53.9555677,27.1135279] n275357249[53.9551604,27.1140668] n2469260930[53.9550519,27.1141968] n2469260929[53.9547523,27.1145308] n445650794[53.9543863,27.1148688] n275346966[53.9535109,27.1156107] n275346972[53.9501795,27.1181339] n2469260916[53.9487226,27.1192505] n275346973[53.9476227,27.1202472] n3146286945[53.9466337,27.1212197] n3146286946[53.9454756,27.1225356] n275346974[53.9446541,27.1236378]
 w38243213
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n450840385[53.9570480,27.1114691] n450840389[53.9573686,27.1107559]
 w38243214
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n450840389[53.9573686,27.1107559] n275357304[53.9580939,27.1089748] n3146286948[53.9586360,27.1074664] n2124793812[53.9591329,27.1059105] n2124793814[53.9604661,27.1017069] n3146286951[53.9619476,27.0970222] n2124793816[53.9628085,27.0943995] n275357308[53.9633097,27.0929865]
 w38243217
   other tags : highway=secondary | surface=asphalt
@@ -9385,16 +9385,16 @@ w51425016
   other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=no | ref=Р65 | surface=asphalt
     geometry : n1423655382[53.9088177,27.2592723] n2263050469[53.9081032,27.2596535] n988779263[53.9073117,27.2599437] n2263050457[53.9065829,27.2602332] n275347483[53.9057016,27.2604896] n3602750766[53.9046736,27.2607767] n275347484[53.9042498,27.2608247] n275347485[53.9031027,27.2608221] n988779290[53.9022554,27.2606659] n3602750764[53.9017122,27.2604921] n275347486[53.9010668,27.2601740] n3602750763[53.8977531,27.2582726] n275347206[53.8935541,27.2557649] n1062759932[53.8923242,27.2550445] n3504667525[53.8890056,27.2531007] n1063887769[53.8883189,27.2527088] n2268416999[53.8880230,27.2525210] n988779246[53.8871464,27.2519663]
 w51425017
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347287[53.9124051,27.2562382] n275347290[53.9123010,27.2551618] n2124820073[53.9122268,27.2539839] n1423656213[53.9121898,27.2529480] n2124820071[53.9121914,27.2519093] n275347292[53.9122402,27.2504957] n1062461490[53.9122967,27.2496054] n275347309[53.9123471,27.2488807] n2124820081[53.9124928,27.2478263] n275347316[53.9126844,27.2466815] n3161326293[53.9129277,27.2455123] n1426561356[53.9131953,27.2443442]
 w51425018
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347509[53.9123980,27.2570871] n275347510[53.9131498,27.2617123] n275039290[53.9133025,27.2625912] n2124820098[53.9146892,27.2706472] n653929168[53.9152048,27.2735339] n2124820110[53.9157064,27.2763560] n275039291[53.9160955,27.2786236] n2124820124[53.9164053,27.2805799] n2124820127[53.9166771,27.2825944] n2124820129[53.9169261,27.2846131] n275039292[53.9171265,27.2866400] n281943521[53.9175005,27.2908073] n275039294[53.9175851,27.2918696] n281944053[53.9177876,27.2940095]
 w51425019
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n656448484[53.9125057,27.2570430] n275347287[53.9124051,27.2562382]
 w51425020
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347508[53.9122980,27.2562768] n275347509[53.9123980,27.2570871]
 w51431393
   other tags : highway=track
@@ -16605,16 +16605,16 @@ w129222718
   other tags : highway=track
     geometry : n1426157060[54.0415063,27.5233626] n313444590[54.0413521,27.5233451] n313444591[54.0402683,27.5231917] n1426157043[54.0399734,27.5236513] n1426157028[54.0396504,27.5240025] n313444592[54.0394775,27.5243429] n313444593[54.0391364,27.5245960]
 w129266108
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1426561356[53.9131953,27.2443442] n275347326[53.9133328,27.2437756]
 w129266109
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347502[53.9144166,27.2379768] n2124820091[53.9142078,27.2391995] n1754774652[53.9138887,27.2408423] n1754774650[53.9137151,27.2416966] n275347503[53.9132521,27.2437163]
 w129266110
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1426561354[53.9145346,27.2380426] n2426337897[53.9148761,27.2356233] n653944503[53.9150740,27.2339038] n275347335[53.9153754,27.2309820] n2124820111[53.9157096,27.2271858] n275347336[53.9160744,27.2234257] n3161326291[53.9165258,27.2191824] n275347095[53.9176047,27.2106070] n1754817359[53.9186445,27.2026672]
 w129266111
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1426561355[53.9131110,27.2442895] n3161326298[53.9128208,27.2455292] n275347504[53.9125956,27.2466633] n2124820080[53.9124195,27.2476616] n2124820079[53.9122650,27.2487087] n275347505[53.9121626,27.2497208] n275347507[53.9121067,27.2504925] n2124820067[53.9120696,27.2520260] n1423656210[53.9120716,27.2531934] n2124820069[53.9121155,27.2543154] n1423656211[53.9121884,27.2553509] n275347508[53.9122980,27.2562768]
 w129324797  null / null / Берёзовая улица
   other tags : highway=residential
@@ -20778,16 +20778,16 @@ w163799776
   other tags : highway=trunk_link
     geometry : n1754774658[53.9144011,27.2402120] n1062461416[53.9145758,27.2403370]
 w163805529
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347337[53.9204234,27.1885367] n715795087[53.9212527,27.1820984] n275346950[53.9218653,27.1772265] n2244146009[53.9220392,27.1760021] n275346952[53.9221861,27.1751086] n1754774705[53.9223876,27.1740551] n1754774709[53.9226632,27.1728803]
 w163805530
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1754817359[53.9186445,27.2026672] n3161326301[53.9187379,27.2018969]
 w163805531
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275346988[53.9203098,27.1884389] n1062248575[53.9193539,27.1958555] n3161326306[53.9186054,27.2018475]
 w163805532
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347492[53.9185081,27.2026203] n1754774683[53.9176432,27.2092416] n3161326288[53.9164143,27.2190465] n275347500[53.9159568,27.2233923] n2124820109[53.9155905,27.2271395] n275347501[53.9152436,27.2309209] n2124820102[53.9149619,27.2338097] n653944506[53.9147644,27.2356016]
 w163806839
   other tags : highway=unclassified
@@ -26294,25 +26294,25 @@ w232961428
   other tags : highway=unclassified | surface=asphalt
     geometry : n1067930609[53.9247445,27.1637936] n2412839169[53.9248242,27.1634813] n1062248334[53.9249401,27.1631427] n2242781199[53.9253926,27.1623864] n1062248579[53.9259364,27.1615423] n2242781204[53.9262635,27.1608661] n2242781207[53.9264813,27.1602555] n1062248409[53.9269552,27.1587653] n1062248535[53.9282048,27.1550477] n2412839179[53.9286313,27.1537709]
 w232961429
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n2412839172[53.9253491,27.1647049] n2412839174[53.9255069,27.1642299]
 w232961430
-  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=yes | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n2412839173[53.9254124,27.1641183] n2412839171[53.9252505,27.1646048]
 w232961431
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n2412839174[53.9255069,27.1642299] n275346954[53.9285586,27.1552603] n2242781248[53.9290592,27.1538077] n3161347899[53.9296018,27.1522321] n275346955[53.9302076,27.1505509] n3161347900[53.9307668,27.1492342] n275346956[53.9316000,27.1473660] n275346957[53.9323063,27.1459375] n275346958[53.9401200,27.1316000] n1363437882[53.9411986,27.1296846] n275346959[53.9416138,27.1289542] n3146301574[53.9425188,27.1272365] n275346962[53.9433000,27.1259300] n1487719068[53.9443226,27.1242868]
 w232961432
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n2412839171[53.9252505,27.1646048] n1067931920[53.9246508,27.1663700] n2412839166[53.9244425,27.1670068]
 w232961434
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=70 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=70 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n2412839166[53.9244425,27.1670068] n2412839162[53.9235703,27.1694988] n275346979[53.9233056,27.1702750] n3161339966[53.9229327,27.1714616] n1754774707[53.9225516,27.1727767]
 w232961435
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1754774709[53.9226632,27.1728803] n3161338949[53.9230243,27.1715630] n715794882[53.9233595,27.1705478] n2412839163[53.9236762,27.1696318] n275346953[53.9246297,27.1668134]
 w232961436
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1754774707[53.9225516,27.1727767] n275346980[53.9222617,27.1739773] n2244146011[53.9220853,27.1748858] n2244146007[53.9219139,27.1759227] n275346987[53.9217444,27.1770838] n1754774702[53.9211227,27.1817724] n275346988[53.9203098,27.1884389]
 w232966641
   other tags : highway=motorway_link | oneway=yes
@@ -28177,7 +28177,7 @@ w286140886  null / null / 13 улица
   other tags : highway=residential | surface=unpaved
     geometry : n313657553[54.0224511,27.6262353] n2897821120[54.0218377,27.6264691] n313658394[54.0211245,27.6268080] n313658363[54.0192463,27.6277059] n313658050[54.0177029,27.6283867] n313658023[54.0169386,27.6286767]
 w287295775
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n653944506[53.9147644,27.2356016] n2909144038[53.9145090,27.2373547] n275347502[53.9144166,27.2379768]
 w287618500
   other tags : highway=unclassified
@@ -29389,16 +29389,16 @@ w309281254
   other tags : highway=footway
     geometry : n3146210330[53.9545399,27.7809629] n3146210334[53.9544777,27.7810238] n3146210335[53.9543988,27.7810604] n3146210336[53.9542863,27.7810726] n3146210337[53.9541452,27.7810442] n330387395[53.9540884,27.7811454]
 w309290445
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1487719068[53.9443226,27.1242868] n275346963[53.9447125,27.1237483]
 w309290450
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275346963[53.9447125,27.1237483] n3146286944[53.9455530,27.1226644] n2234620258[53.9467104,27.1213560] n3146286947[53.9475879,27.1204550] n275346964[53.9486777,27.1194817] n653944501[53.9502436,27.1182586] n275346965[53.9535584,27.1157612] n450840403[53.9547233,27.1147481] n275346740[53.9552673,27.1141802] n3146286941[53.9559720,27.1132209] n2469260945[53.9564101,27.1125833] n275357300[53.9567674,27.1120289] n450840385[53.9570480,27.1114691]
 w309290454
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n1487719067[53.9442512,27.1241774] n2234620244[53.9435007,27.1253129] n275346975[53.9429092,27.1262593] n3146301572[53.9424139,27.1270970] n2110434540[53.9403259,27.1309194] n275346976[53.9322253,27.1457564] n2242781270[53.9314822,27.1472609] n3161347901[53.9306583,27.1490821] n275346977[53.9301244,27.1504071] n3161347898[53.9295027,27.1520253] n2242781246[53.9289504,27.1536901] n1062248453[53.9287817,27.1541274] n275346978[53.9266055,27.1606587] n2412839173[53.9254124,27.1641183]
 w309290457
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275346974[53.9446541,27.1236378] n1487719067[53.9442512,27.1241774]
 w309515433
   other tags : highway=track
@@ -29515,22 +29515,22 @@ w310632403
   other tags : highway=track
     geometry : n3160826057[53.8138214,27.7995429] n269720496[53.8136323,27.7998232] n269720497[53.8133641,27.7998522] n1652782613[53.8131987,27.7996980] n269720500[53.8130242,27.7994198] n269720501[53.8126137,27.7985358] n2855177022[53.8125636,27.7984519] n2855177006[53.8124503,27.7982624] n269720502[53.8122894,27.7980809] n2855177011[53.8121062,27.7980218] n269720503[53.8118476,27.7980247] n269720504[53.8113974,27.7982182] n269720505[53.8110934,27.7984242] n269720506[53.8107386,27.7990765] n2855177007[53.8106697,27.7992880] n2855177015[53.8106596,27.7994392] n2855174000[53.8106754,27.7995708] n269720507[53.8106515,27.7997584] n2855173999[53.8106214,27.7998954] n2329546767[53.8105639,27.7999864] n2855177002[53.8104831,27.8000356] n2855177019[53.8104115,27.8000305] n269720508[53.8103405,27.8000384]
 w310675470
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n3161326306[53.9186054,27.2018475] n275347492[53.9185081,27.2026203]
 w310675471
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n3161326301[53.9187379,27.2018969] n1062209565[53.9198819,27.1928722] n275347337[53.9204234,27.1885367]
 w310675472
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=90 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347326[53.9133328,27.2437756] n2909144037[53.9136709,27.2423693] n2124820087[53.9138464,27.2416282] n1754774654[53.9140886,27.2405355] n1754774655[53.9142653,27.2396136] n2124820093[53.9143259,27.2392502] n1426561354[53.9145346,27.2380426]
 w310675473
-  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : bridge=viaduct | highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275347503[53.9132521,27.2437163] n1426561355[53.9131110,27.2442895]
 w310675474
   other tags : highway=footway
     geometry : n2426337896[53.9140556,27.2392234] n3161326302[53.9140897,27.2391402] n2124820091[53.9142078,27.2391995] n2124820093[53.9143259,27.2392502] n3161326280[53.9144184,27.2392864] n3161326304[53.9145421,27.2385654] n2124820097[53.9146770,27.2381634]
 w310676919
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | layer=1 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275346953[53.9246297,27.1668134] n2412839172[53.9253491,27.1647049]
 w310676920
   other tags : highway=footway
@@ -31565,7 +31565,7 @@ w352211427
   other tags : highway=track
     geometry : n1856853639[53.8873984,27.1969847] n3579686759[53.8870464,27.1962202] n3579686757[53.8867804,27.1957921] n3579686754[53.8864125,27.1955452]
 w352212027
-  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 28 | lanes=2 | maxspeed=120 | oneway=yes | ref=М6 | surface=asphalt | toll=yes
     geometry : n275357480[53.9632324,27.0928703] n2124793815[53.9626840,27.0942922] n3146286942[53.9618488,27.0968428] n2124793813[53.9603432,27.1015431] n2124793811[53.9598507,27.1031148] n3146286949[53.9590188,27.1057611] n3146286943[53.9584971,27.1073838] n275357204[53.9579800,27.1088500] n450840387[53.9572578,27.1105901]
 w352501788
   other tags : bicycle=yes | foot=yes | highway=residential | horse=yes | motor_vehicle=yes | smoothness=bad | surface=gravel | tracktype=grade2
