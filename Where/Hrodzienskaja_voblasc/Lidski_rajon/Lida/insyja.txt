@@ -142,6 +142,9 @@ n1121990825
 n1122130118
   other tags : access=permissive | barrier=lift_gate | bicycle=no | foot=no
     geometry : [53.8667452,25.2852110]
+n1125274734
+  other tags : barrier=bollard | bicycle=yes | foot=yes | material=metal | maxwidth=1
+    geometry : [53.8927021,25.2574582]
 n1126336233
   other tags : crossing:bell=yes | crossing:light=yes | railway=level_crossing
     geometry : [53.8911389,25.2803114]
@@ -272,9 +275,6 @@ n1894547361
 n1894547621
   other tags : amenity=drinking_water
     geometry : [53.8773000,25.3097000]
-n2025110785
-  other tags : barrier=bollard | bicycle=yes | foot=yes | material=metal | maxwidth=1
-    geometry : [53.8926364,25.2570993]
 n2134297761
   other tags : railway=switch
     geometry : [53.9494728,25.2640757]
@@ -359,9 +359,6 @@ n2607725245  null / null / Боулинг
 n2612072603
   other tags : man_made=gasometer
     geometry : [53.8741044,25.3295055]
-n2628200633
-  other tags : barrier=kissing_gate | bicycle=yes | foot=yes | maxwidth=1
-    geometry : [53.8927013,25.2574525]
 n2655948752  null / null / Редакция газеты "Принеманские вести"
   other names: name:en=Newspaper "Prinemanskie vesti"
   other tags : addr:housenumber=45 | addr:postcode=231300 | addr:street=проспект Победы | office=newspaper | phone=+375154525329 | website=http://pvlida.by/
