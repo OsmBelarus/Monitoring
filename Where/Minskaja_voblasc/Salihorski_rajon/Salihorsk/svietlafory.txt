@@ -216,7 +216,7 @@ n1243916703  null / null / универсам / Универсам
     geometry : [52.7756426,27.5397686]
 n1243916704  Маладзёжная вуліца / Maladziožnaja vul. / Молодёжная улица / Молодёжная улица
   other tags : highway=bus_stop | shelter=yes
-    geometry : [52.7869891,27.5020864]
+    geometry : [52.7869686,27.5020852]
 n1243916705  null / null / проспект Мира
   other tags : highway=bus_stop | shelter=no
     geometry : [52.7889145,27.5219405]
@@ -257,3 +257,6 @@ n3055263338
 n3055263339
   other tags : highway=bus_stop | shelter=no
     geometry : [52.8035754,27.5680842]
+n3622214094
+  other tags : highway=bus_stop
+    geometry : [52.7815715,27.5005966]
