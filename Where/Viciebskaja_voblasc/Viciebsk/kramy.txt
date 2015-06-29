@@ -397,8 +397,8 @@ n1139229912  Кветкі / null / Цветы / Цветы
 n1139866811  Цэнтр абутку Марка / null / Центр обуви Марко
   other tags : opening_hours=Mo-Sa 10:00-19:00; Sa 10:00-18:00 | shop=shoes
     geometry : [55.1952934,30.2287617]
-n1139866812  null / null / АМИ мебель / АМИ мебель
-  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | shop=furniture | website=http://www.laguna.by/
+n1139866812  null / null / AMI мебель / AMI мебель
+  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1936099,30.2295051]
 n1139875734  null / null / Лиман
   other tags : contact:phone=+375-29-2630777 | shop=alcohol
@@ -705,8 +705,8 @@ n1277965643  ShagoVita / null / ShagoVita
 n1277965647
   other tags : shop=convenience
     geometry : [55.2034278,30.2067977]
-n1277967176  Гаспадынька / null / Хозяюшка
-  other tags : shop=chemist
+n1277967176  Гаспадынька / null / Хозяюшка / Хозяюшка
+  other tags : opening_hours=Mo-Su 08:00-20:00 | shop=chemist
     geometry : [55.1938046,30.2328839]
 n1277968210  Кісея / null / Кисея
   other tags : shop=doityourself
@@ -883,7 +883,7 @@ n1321607511
     geometry : [55.1669192,30.2421373]
 n1321724931  Ганна № 8 / null / Ганна № 8
   other tags : shop=convenience
-    geometry : [55.1798519,30.1894284]
+    geometry : [55.1798544,30.1893749]
 n1325004543  Спёка / null / Жара
   other tags : contact:phone=+375 (212) 246462 | opening_hours=Mo-Sa 09:00-21:00; Su 09:00-16:00 | shop=hairdresser
     geometry : [55.1939587,30.2273782]
@@ -905,9 +905,9 @@ n1326430265  Лявоніха / null / Лявониха
 n1326430267  Сэканд-хэнд / null / Секонд-Хенд
   other tags : shop=second_hand
     geometry : [55.2181285,30.2375636]
-n1334690100  Пінгвін-1 / null / Пингвин-1
-  other tags : shop=convenience
-    geometry : [55.1781860,30.1762763]
+n1334690100  Пінгвін / null / Пингвин / Пингвин
+  other tags : opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-18:00 | shop=convenience
+    geometry : [55.1781917,30.1762298]
 n1336829668  Дзмітра-Утульнасць-Мэбля / null / Дмитро-УЮТ-Мебель
   other tags : opening_hours=Mo-Fr 09:00-19:00; Sa-Su 10:00-15:00 | shop=furniture
     geometry : [55.1792878,30.2468537]
@@ -1209,11 +1209,11 @@ n1440338493  Формула здароўя / null / Формула Здоров�
   other tags : shop=convenience
     geometry : [55.1825377,30.2005143]
 n1440836620  Раніца / null / Раница / Раница
-  other tags : shop=books
+  other tags : official_name=Книжный магазин № 11 | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00 | operator=Витебсккнига | shop=books
     geometry : [55.1735842,30.1510834]
 n1440836621  Гаспадарчы гандаль / null / Хозторг / Хозторг
-  other tags : shop=doityourself
-    geometry : [55.1739690,30.1511924]
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-15:00 | shop=doityourself
+    geometry : [55.1739739,30.1511549]
 n1463940094  null / null / Ломбард
   other tags : shop=pawnbroker
     geometry : [55.1884764,30.2452040]
@@ -1432,7 +1432,7 @@ n1678098821  null / null / Пинский трикотаж
     geometry : [55.1608111,30.2098348]
 n1686040732  Прадукты / null / Продукты / Продукты
   other tags : official_name=Магазин № 1 | opening_hours=Mo-Sa 08:00-21:00; Su 09:00-19:00 | operator=КУТЗП «Витебский горплодоовощторг» | shop=convenience
-    geometry : [55.1731337,30.1544110]
+    geometry : [55.1731384,30.1543702]
 n1697808267  null / null / Эконом
   other tags : note=на ремотне | shop=convenience
     geometry : [55.1991152,30.1811986]
@@ -1505,8 +1505,8 @@ n1770401688  null / null / Автозапчасти
 n1786419018  Аўтазапчасткі / null / Автозапчасти / Автозапчасти
   other tags : opening_hours=Mo-Sa 09:00-19:00 | shop=car_parts
     geometry : [55.1673577,30.2100551]
-n1787178644  null / null / Парикмахерская
-  other tags : opening_hours=Mo-Fr 07:00-21:00; Sa 07:00-17:00; Su 07:00-14:00 | shop=hairdresser
+n1787178644  Імідж прыгажосці / null / Имидж красоты / Имидж красоты
+  other tags : opening_hours=Mo-Fr 07:00-21:00; Sa 07:00-17:00; Su 07:00-14:00 | operator=ООО «Имидж красоты» | shop=hairdresser
     geometry : [55.1961741,30.1864161]
 n1794936887  Нега / null / Него
   other tags : opening_hours=Mo-Su 08:00-21:00 | shop=convenience
@@ -1842,8 +1842,8 @@ n2382466963  null / null / Автозапчасти
   other tags : shop=car_parts
     geometry : [55.1734635,30.1510506]
 n2382466964  null / null / Лотос
-  other tags : shop=dry_cleaning
-    geometry : [55.1738540,30.1511600]
+  other tags : opening_hours=Tu-Sa 11:00-19:00 | operator=ОАО «Объединение «Лотос» | shop=dry_cleaning
+    geometry : [55.1738589,30.1511226]
 n2382617702  null / null / Фламинго
   other tags : opening_hours=09:00-22:00 | shop=convenience
     geometry : [55.1623955,30.2303914]
@@ -1974,8 +1974,8 @@ n2422428288  null / null / Автокраски
   other tags : shop=car_parts
     geometry : [55.1931170,30.2510054]
 n2427192758  null / null / Лёгкий сон
-  other tags : description=сухая чистка подушек | shop=dry_cleaning | website=http://flylady.by/#!/
-    geometry : [55.1830000,30.1899013]
+  other tags : contact:email=mikhail@yablakau.com | contact:phone=+375(33) 3-243-243 | contact:website=http://flylady.by/#!/ | description=сухая чистка подушек | level=2 | opening_hours=Tu-Sa 09:00-17:00 | operator=ЧСУП «Инлинг груп» | shop=dry_cleaning
+    geometry : [55.1830000,30.1898739]
 n2429247224
   other tags : shop=convenience
     geometry : [55.1806746,30.2163235]
@@ -2249,9 +2249,9 @@ n2558086247
 n2558208486  null / null / Семейная оптика
   other tags : contact:phone=+375(212) 236-444, +375(29) 706-04-38 | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-15:00 | shop=optician
     geometry : [55.1808890,30.2161651]
-n2558462396  null / null / горячий хлеб
-  other tags : shop=kiosk
-    geometry : [55.1801955,30.1873359]
+n2558462396  null / null / Горячий хлеб
+  other tags : opening_hours=Mo-Fr 10:00-12:30,13:00-17:30 | operator=ОАО «Витебскхлебпром» | shop=bakery
+    geometry : [55.1802543,30.1873104]
 n2559568832  null / null / Гайка техно
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa,Su 09:00-18:00 | operator=ЧТУП «Гайка Техно» | shop=car_parts
     geometry : [55.1970517,30.1531787]
@@ -2722,7 +2722,7 @@ n2913249144  Прадукты / null / Продукты
     geometry : [55.1698573,30.2044758]
 n2915101602  null / null / Светлана
   other tags : shop=hairdresser
-    geometry : [55.1799806,30.1894061]
+    geometry : [55.1799831,30.1893526]
 n2918606059
   other tags : shop=bakery
     geometry : [55.1861969,30.2043783]
@@ -3003,7 +3003,7 @@ n3033159043  null / null / СТО
   other tags : shop=car_repair
     geometry : [55.1856285,30.1865278]
 n3033159044  null / null / Светлана
-  other tags : opening_hours=Mo-Su 09:00-22:00 | operator=ЧТПУП «РозМарина и К» | shop=convenience
+  other tags : opening_hours=Mo-Su 10:00-23:00 | operator=ЧТПУП «РозМарина и К» | shop=convenience
     geometry : [55.1822932,30.1928971]
 n3037562536  null / null / Viesmann
   other tags : shop=doityourself
@@ -3226,6 +3226,9 @@ n3338487048  null / null / Мила
 n3348701630  null / null / Gefest
   other tags : brand=Gefest | email=gefestion-2008@tut.by | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00 | operator=ЧТУП "ГЕФЕСТИОН" | phone=+375(33) 6465060, +375(44) 506-09-20, +375(212) 475493 | shop=kitchen | website=http://gefestion.by/
     geometry : [55.1863729,30.2275732]
+n3361077753  null / null / Ломбард
+  other tags : contact:phone=+375(29) 246-36-96, +375(212) 60-27-28, +375(212) 33-56-57 | contact:website=http://vlombard.by/ | designation=Выдача займов под залог | operator=ООО «УайтСофт» | shop=pawnbroker
+    geometry : [55.1828197,30.1893091]
 n3361146022  null / null / Ломбард
   other tags : contact:phone=+375(29) 246-36-96 | contact:website=http://vlombard.by/ | description=Выдача займов под залог | operator=ООО «УайтСофт» | shop=pawnbroker
     geometry : [55.1690400,30.1286575]
@@ -3272,7 +3275,7 @@ n3411340218  null / null / Добрыня
 n3411340220
   other tags : opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=bicycle
     geometry : [55.1799723,30.2200900]
-n3428267725  null / null / АМИ мебель / АМИ мебель
+n3428267725  null / null / AMI мебель / AMI мебель
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1769046,30.1786065]
 n3429949923  null / null / Автосервис
@@ -3422,7 +3425,7 @@ n3583062031  null / null / Витебскторгстрой
     geometry : [55.1870994,30.2175889]
 n3590042184  Білетныя касы / null / Билетные кассы / Билетные кассы
   other tags : shop=ticket
-    geometry : [55.1958530,30.1860564]
+    geometry : [55.1958346,30.1860995]
 n3590042185  Білетныя касы / null / Билетные кассы / Билетные кассы
   other tags : shop=ticket
     geometry : [55.1964724,30.1878912]
@@ -3468,3 +3471,24 @@ n3613260552  null / null / Мегатойс
 n3613263011
   other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-16:00 | shop=outdoor
     geometry : [55.2032942,30.2122086]
+n3622972211  null / null / Базакан
+  other tags : contact:phone=+375(44) 593-11-11, +375(29) 593-11-11 | description=для тяжёлой отечественной техники | ref=1 | shop=car_parts
+    geometry : [55.1732665,30.1572814]
+n3622972214  null / null / Золушка
+  other tags : opening_hours=Mo-Sa 09:00-19:00; Su 09:00-15:00 | operator=ЧПТУП «Белсмартлоджик» | shop=tailor
+    geometry : [55.1749421,30.1504964]
+n3622972215  null / null / Красотка
+  other tags : opening_hours=Mo-Sa 09:00-20:00; Su 09:00-15:00 | shop=hairdresser
+    geometry : [55.1748401,30.1504854]
+n3622972216  null / null / Мрамор и Гранит
+  other tags : contact:email=stone@impex-invest.com | contact:phone=+375(33) 699-22-77, +375(29) 399-22-76, +375(212) 610777 | contact:website=http://impex-invest.com/ | description=эксклюзивные предметы интерьера | opening_hours=Tu-Sa 11:00-19:00; Su 11:00-17:00 | shop=interior_decoration
+    geometry : [55.1780907,30.2322804]
+n3622972221  null / null / Ритуальные услуги
+  other tags : description=полный спекр услуг | opening_hours=Mo-Sa 09:00-20:00; Su 15:00-20:00 | operator=ЧУП «Вавила» | shop=funeral_directors
+    geometry : [55.1750098,30.1502400]
+n3622972223  null / null / на Московском
+  other tags : opening_hours=Mo-Sa 09:00-20:00; Su 09:00-17:00 | operator=ЧП «Овин» | shop=hairdresser
+    geometry : [55.1781597,30.2317608]
+n3622972271
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-15:00 | shop=florist
+    geometry : [55.1739879,30.1512064]

@@ -254,8 +254,8 @@ n1712348875  null / null / Арена Суши
 n1729238459  null / null / Арена-пицца
   other tags : amenity=cafe | cuisine=pizza
     geometry : [55.1704016,30.2038968]
-n1733719281
-  other tags : amenity=cafe
+n1733719281  Хвілінка / null / Минутка / Минутка
+  other tags : amenity=cafe | level=2 | opening_hours=Mo-Su 08:00-21:00 | operator=ООО «Денторг компани»
     geometry : [55.1959214,30.1861875]
 n1733719289  null / null / Магнолия
   other tags : amenity=cafe
@@ -367,7 +367,7 @@ n2969422406  null / null / Моменто Pizza
     geometry : [55.1740572,30.2279858]
 n3033159037  null / null / Золотое руно
   other tags : amenity=cafe | opening_hours=Mo-Su 10:00-23:00
-    geometry : [55.1827688,30.1893451]
+    geometry : [55.1827688,30.1893177]
 n3097156925  null / null / Веста № 69
   other tags : amenity=pub | opening_hours=Mo-Sa 10:00-21:00
     geometry : [55.1930179,30.1915529]
@@ -380,9 +380,9 @@ n3097159554  null / null / Пельменная
 n3097243848  null / null / Кафетерий
   other tags : amenity=fast_food | description=спиртное в продаже | opening_hours=Mo-Sa 08:00-21:00; Su 08:00-19:00 | operator=ОАО «Веста»
     geometry : [55.1720026,30.2417048]
-n3097245823  null / null / рюмочная
-  other tags : amenity=pub
-    geometry : [55.1653263,30.2210278]
+n3097245823  null / null / Кафетерий
+  other tags : amenity=cafe | opening_hours=Mo-Su 13:00-21:00; Sa 10:00-21:00 | operator=ОАО «Веста»
+    geometry : [55.1652784,30.2209270]
 n3097247723
   other tags : amenity=pub
     geometry : [55.1744562,30.1505132]

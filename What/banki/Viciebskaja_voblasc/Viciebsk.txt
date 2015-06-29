@@ -137,8 +137,8 @@ n1697811624  null / null / Белинвестбанк Прк 18 / Белинве
 n1697813213  null / null / Белинвестбанк Прк 35 / Белинвестбанк Прк 35
   other tags : amenity=bank | atm=yes
     geometry : [55.1950394,30.1858219]
-n1733719285
-  other tags : amenity=bank | operator=Беларусбанк
+n1733719285  Беларусбанк / null / Беларусбанк / Беларусбанк
+  other tags : amenity=bank | contact:website=http://belarusbank.by/ | opening_hours=Mo-Fr 09:00-14:00,15:00-19:00; Sa 09:00-12:00,12:45-15:00 | operator=ОАО «АСБ Беларусбанк»
     geometry : [55.1959846,30.1862885]
 n1763616291  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | level=2
@@ -221,6 +221,9 @@ n3513469091  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3605196180  null / null / Альфа-Банк
   other tags : amenity=bank | atm=yes | contact:phone=+375(29) 733-33-32, +375(44) 733-33-32, +375(25) 733-33-32 | contact:website=https://www.alfabank.by/ | opening_hours=Mo-Fr 10:00-18:00 | owner=ЗАО «Альфа-Банк»
     geometry : [55.1957853,30.1887989]
+n3622972212  null / null / Беларусбанк
+  other tags : amenity=bank | atm=yes | branch=200/95 | contact:website=http://belarusbank.by/ | opening_hours=Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-12:00,12:45-15:00
+    geometry : [55.1830658,30.1898627]
 w27898590  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=4 | addr:street=улица Пушкина | amenity=bank | atm=no | building=yes | building:levels=2
     geometry : n306306277[55.1940193,30.2036017] n306306273[55.1939031,30.2035058] n2923535241[55.1939302,30.2034050] n306306275[55.1939564,30.2033076] n306306285[55.1940726,30.2034036] n306306277[55.1940193,30.2036017]
@@ -279,3 +282,6 @@ w278275842  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other names: name:en=Belvnesheconombank (Bank BelVEB)
   other tags : addr:housenumber=11 | addr:postcode=210602 | addr:street=улица Ленина | amenity=bank | building=yes | building:levels=3 | email=vitebsk@bveb.minsk.by | official_name=Витебское региональное отделение «Банк «БелВЭБ» | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00 | phone=+375212493000, +375212493060, +375212493030 | source=http://www.bveb.by/about/press-centre/news/741.html | website=http://www.bveb.by/
     geometry : n2826711024[55.1884877,30.2057253] n2565961571[55.1884572,30.2057201] n2826711017[55.1880831,30.2056560] n2905115329[55.1880759,30.2057836] n2826711016[55.1880970,30.2057872] n2826711015[55.1881173,30.2060513] n2826711014[55.1881631,30.2060561] n2905115331[55.1881798,30.2062526] n2852290868[55.1883009,30.2062196] n2826711019[55.1882937,30.2060761] n2826711020[55.1883894,30.2060822] n2826711021[55.1884036,30.2058397] n2826711022[55.1884483,30.2058474] n2565961544[55.1884806,30.2058529] n2826711024[55.1884877,30.2057253]
+w356898649  null / null / Белгазпромбанк
+  other tags : amenity=bank | building=yes | building:levels=3 | fixme=примерное положение и форма
+    geometry : n3622972238[55.1724659,30.2023922] n3622972242[55.1725813,30.2024390] n3622972244[55.1726431,30.2025750] n3622972241[55.1725592,30.2026818] n3622972243[55.1726119,30.2028258] n3622972239[55.1725395,30.2029436] n3622972237[55.1724005,30.2028873] n3622972238[55.1724659,30.2023922]
