@@ -1886,7 +1886,7 @@ w25435512
   other tags : addr:housenumber=14 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
     geometry : n277188262[53.8769300,27.5320220] n277188263[53.8765560,27.5315280] n277188264[53.8766360,27.5313560] n277188265[53.8770100,27.5318560] n277188262[53.8769300,27.5320220]
 w25435513
-  other tags : addr:housenumber=7 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
+  other tags : addr:housenumber=7 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | roof:shape=hipped
     geometry : n277188266[53.8764426,27.5322350] n277188267[53.8760491,27.5317182] n277188268[53.8761235,27.5315503] n277188269[53.8765193,27.5320670] n277188266[53.8764426,27.5322350]
 w25435514
   other tags : addr:city=Минск | addr:housenumber=10 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | building:levels=5
@@ -1910,13 +1910,13 @@ w25435524
   other tags : addr:housenumber=22 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
     geometry : n277188326[53.8770773,27.5341024] n277188327[53.8764601,27.5341880] n277188210[53.8764545,27.5340722] n277188329[53.8764497,27.5339727] n277188332[53.8770670,27.5338871] n277188326[53.8770773,27.5341024]
 w25435525
-  other tags : addr:housenumber=3 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
+  other tags : addr:housenumber=3 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | roof:shape=hipped
     geometry : n277188333[53.8773104,27.5333279] n277188334[53.8765694,27.5323812] n277188335[53.8766428,27.5322159] n277188336[53.8773838,27.5331626] n277188333[53.8773104,27.5333279]
 w25435526
   other tags : addr:housenumber=15 к2 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
     geometry : n277188337[53.8765284,27.5373187] n277188338[53.8758803,27.5374046] n277188339[53.8758705,27.5371919] n277188340[53.8765186,27.5371059] n277188337[53.8765284,27.5373187]
 w25435527
-  other tags : addr:housenumber=9 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
+  other tags : addr:housenumber=9 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | roof:shape=flat
     geometry : n277188341[53.8760478,27.5317170] n277188342[53.8757240,27.5312936] n277188343[53.8757997,27.5311270] n277188268[53.8761235,27.5315503] n277188341[53.8760478,27.5317170]
 w25435528
   other tags : addr:housenumber=24 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
@@ -1952,7 +1952,7 @@ w25435542
   other tags : addr:housenumber=29 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
     geometry : n277188429[53.8744304,27.5359653] n277188431[53.8744561,27.5364563] n277188433[53.8743299,27.5364753] n277188435[53.8743042,27.5359842] n277188429[53.8744304,27.5359653]
 w25435543
-  other tags : addr:city=Минск | addr:housenumber=34 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
+  other tags : addr:city=Минск | addr:housenumber=34 | addr:postcode=220039 | addr:street=улица Чкалова | building=house | roof:shape=hipped
     geometry : n277188438[53.8738452,27.5340589] n277188441[53.8738686,27.5345875] n277188443[53.8737481,27.5346028] n277188445[53.8737247,27.5340742] n277188438[53.8738452,27.5340589]
 w25435544
   other tags : addr:housenumber=25 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
@@ -1985,7 +1985,7 @@ w25435555
   other tags : addr:housenumber=9 | addr:postcode=220039 | addr:street=улица Короткевича | building=house
     geometry : n277188584[53.8736033,27.5299766] n277188586[53.8735948,27.5299965] n277188588[53.8736833,27.5301059] n277188591[53.8736931,27.5300833] n277188593[53.8737651,27.5301723] n277188595[53.8736827,27.5303642] n277188597[53.8734401,27.5300644] n277188599[53.8735213,27.5298753] n277188584[53.8736033,27.5299766]
 w25435556
-  other tags : addr:housenumber=6 | addr:postcode=220039 | addr:street=улица Короткевича | building=house
+  other tags : addr:housenumber=6 | addr:postcode=220039 | addr:street=улица Короткевича | building=house | roof:shape=hipped
     geometry : n277188603[53.8738496,27.5338026] n277188605[53.8735006,27.5334049] n277188607[53.8735709,27.5332274] n277188609[53.8739199,27.5336251] n277188603[53.8738496,27.5338026]
 w25435557
   other tags : addr:housenumber=33 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
@@ -2006,7 +2006,7 @@ w25435566
   other tags : addr:housenumber=17 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
     geometry : n277188639[53.8755832,27.5313214] n277188640[53.8751280,27.5307123] n277188655[53.8752085,27.5305392] n277188657[53.8756637,27.5311483] n277188639[53.8755832,27.5313214]
 w25435567
-  other tags : addr:housenumber=11 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
+  other tags : addr:housenumber=11 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | roof:shape=hipped
     geometry : n277188659[53.8757743,27.5316044] n277188660[53.8754083,27.5324045] n277188661[53.8753092,27.5322741] n277188662[53.8756752,27.5314740] n277188659[53.8757743,27.5316044]
 w25435568
   other tags : addr:housenumber=27 | addr:postcode=220039 | addr:street=улица Чкалова | building=house
@@ -2019,15 +2019,15 @@ w25435570
     geometry : n277188671[53.8749497,27.5344212] n277188672[53.8743397,27.5345055] n277188673[53.8743295,27.5342924] n277188674[53.8749395,27.5342081] n277188671[53.8749497,27.5344212]
 w25435571
   other tags : addr:housenumber=10 | addr:postcode=220039 | addr:street=улица Короткевича | building=house
-    geometry : n277188675[53.8742651,27.5321723] n277188676[53.8739191,27.5330530] n277188677[53.8738127,27.5329328] n277188678[53.8741587,27.5320521] n277188675[53.8742651,27.5321723]
+    geometry : n277188675[53.8742630,27.5321730] n277188676[53.8739191,27.5330530] n3623111054[53.8738663,27.5329937] n3623111055[53.8738574,27.5330164] n277188677[53.8738064,27.5329591] n277188678[53.8741474,27.5320864] n3623111057[53.8742004,27.5321459] n3623111056[53.8742121,27.5321158] n277188675[53.8742630,27.5321730]
 w25435572
-  other tags : addr:housenumber=4 | addr:postcode=220039 | addr:street=улица Короткевича | building=house
+  other tags : addr:housenumber=4 | addr:postcode=220039 | addr:street=улица Короткевича | building=house | roof:shape=gabled
     geometry : n277188679[53.8734626,27.5330291] n277188680[53.8731235,27.5338980] n277188681[53.8730119,27.5337727] n277188682[53.8733510,27.5329038] n277188679[53.8734626,27.5330291]
 w25435573
   other tags : addr:housenumber=19 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
     geometry : n277188685[53.8750234,27.5305845] n277188687[53.8745097,27.5299037] n277188689[53.8745880,27.5297335] n277188691[53.8751017,27.5304143] n277188685[53.8750234,27.5305845]
 w25435575
-  other tags : addr:housenumber=13 | addr:postcode=220039 | addr:street=Брилевская улица | building=house
+  other tags : addr:housenumber=13 | addr:postcode=220039 | addr:street=Брилевская улица | building=house | roof:shape=hipped
     geometry : n277188694[53.8750505,27.5323831] n277188696[53.8750163,27.5324591] n277188698[53.8752452,27.5327555] n277188704[53.8753326,27.5325614] n277188712[53.8754286,27.5326858] n277188720[53.8752640,27.5330515] n277188726[53.8748376,27.5324992] n277188728[53.8749491,27.5322516] n277188694[53.8750505,27.5323831]
 w25435603
   other tags : addr:housenumber=80 к1 | addr:postcode=220024 | addr:street=улица Лейтенанта Кижеватова | building=residential | building:type=house
