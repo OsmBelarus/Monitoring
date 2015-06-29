@@ -2940,9 +2940,9 @@ n964927036  null / null / Класические вина
 n964932405  null / null / Гиппо / Гиппо
   other tags : addr:housenumber=31 | addr:street=Сухаревская улица | opening_hours=Mo-Su 9:00-23:00 | shop=supermarket
     geometry : [53.8871123,27.4229764]
-n969277393  null / null / Гурман
+n969277393  null / null / Мясная кулинария
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=convenience
-    geometry : [53.9072264,27.4806829]
+    geometry : [53.9072088,27.4806634]
 n969277435  null / null / Электрика-Светильники
   other tags : addr:housenumber=39 | addr:street=улица Притыцкого | shop=radiotechnics
     geometry : [53.9077444,27.4772967]
@@ -3457,9 +3457,6 @@ n1189827795  null / null / Ланкор
 n1191110548  null / null / СТО "IQ service"
   other tags : opening_hours=Mo-Su 8:00-21:00 | phone=+375 17 2136575 | shop=car_repair
     geometry : [53.8975289,27.5273499]
-n1193778132
-  other tags : shop=shoes
-    geometry : [53.9051480,27.4807558]
 n1193864157  Заходнi / null / Заходний
   other tags : shop=wine
     geometry : [53.9071579,27.4527879]
@@ -3903,7 +3900,7 @@ n1345639415  Буслік / null / Буслик / Буслик
     geometry : [53.9066401,27.4922442]
 n1345641520  null / null / Парикмахерская №1б
   other tags : shop=hairdresser
-    geometry : [53.9071616,27.4806883]
+    geometry : [53.9071084,27.4806789]
 n1347651507  null / null / Belwest
   other tags : shop=clothes
     geometry : [53.8636221,27.6111013]
@@ -10781,7 +10778,7 @@ n3351872183  null / null / Цветы
     geometry : [53.8830568,27.5674133]
 n3361877147  null / null / Пивная бочка
   other tags : opening_hours=10:00 - 22:00 | shop=alcohol
-    geometry : [53.9067148,27.4807259]
+    geometry : [53.9066908,27.4807293]
 n3370875276  Ларэат / null / Лореат / Лореат
   other tags : opening_hours=10:00-22:00 | shop=convenience
     geometry : [53.9473892,27.7121543]
@@ -11379,3 +11376,6 @@ n3622586994
 n3622586995
   other tags : shop=ticket
     geometry : [53.8914449,27.5486222]
+n3622856922
+  other tags : shop=pet
+    geometry : [53.9067852,27.4807152]
