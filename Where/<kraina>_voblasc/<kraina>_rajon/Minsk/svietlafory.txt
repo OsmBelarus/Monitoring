@@ -4055,7 +4055,7 @@ n767183566  Станцыя метро Аўтазаводская / null / Ста
     geometry : [53.8686400,27.6461800]
 n767183568  вуліца Крупскай / null / Крупской / улица Крупской
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.8560967,27.6321080]
+    geometry : [53.8561025,27.6320055]
 n767183570  null / null / Есенина
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8485362,27.4694488]
@@ -4711,8 +4711,8 @@ n767183899  null / null / Продуктовый рынок
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9398930,27.4423027]
 n767183901  null / null / Посёлок Молодежный
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.8577500,27.6396300]
+  other tags : bench=yes | covered=yes | generated=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8574551,27.6391473]
 n767183904  Каліноўскага / null / Калиновского / Калиновского
   other tags : highway=bus_stop | public_transport=platform | ref=61207 | shelter=yes
     geometry : [53.9427384,27.6420278]
