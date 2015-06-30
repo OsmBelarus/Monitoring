@@ -8767,10 +8767,10 @@ n2979199610
     geometry : [55.1634158,30.1910803]
 n2979199984
   other tags : addr:housenumber=20 | addr:street=1-й переулок Крупской
-    geometry : [55.1611065,30.1885556]
+    geometry : [55.1610821,30.1885371]
 n2979199985
   other tags : addr:housenumber=22 | addr:street=1-й переулок Крупской
-    geometry : [55.1609090,30.1887599]
+    geometry : [55.1608900,30.1886512]
 n2979201429
   other tags : addr:housenumber=15 | addr:street=1-й переулок Крупской
     geometry : [55.1611029,30.1879661]
@@ -12450,6 +12450,12 @@ n3622978274
 n3622978280
   other tags : amenity=bicycle_parking | bicycle_parking=wall_loops | capacity=8
     geometry : [55.1952418,30.1859299]
+n3625400159  null / null / Шмырёву М. Ф.
+  other tags : historic=memorial | memorial=bust
+    geometry : [55.1599431,30.1925678]
+n3625400178
+  other tags : amenity=drinking_water | man_made=standpipe
+    geometry : [55.1504826,30.1885334]
 w8384407
   other tags : note=аэродром разобран
     geometry : n303741595[55.2518402,30.2284337] n1884191521[55.2533085,30.2358280] n1884191526[55.2573903,30.2563861] n26163789[55.2591447,30.2652224]

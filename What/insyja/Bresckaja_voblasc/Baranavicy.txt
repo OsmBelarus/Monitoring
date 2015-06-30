@@ -911,11 +911,14 @@ n3282677436  null / null / Магазин Купалинка
   other tags : 
     geometry : [53.1538255,26.0144075]
 n3372183201  null / null / К-150
-  other tags : addr:city=Барановичи | addr:housenumber=20 | addr:street=улица Димитрова | fire_hydrant:count=1 | fire_hydrant:diameter=150 | fire_hydrant:position=parking_lot | fire_hydrant:pressure=5 | fire_hydrant:type=underground | fire_operator=ПАСЧ №1 | note=Исправен | operator=ПАСЧ №1 | ref=1-00001
+  other tags : emergency=fire_hydrant | fire_hydrant:count=1 | fire_hydrant:diameter=150 | fire_hydrant:position=parking_lot | fire_hydrant:pressure=5 | fire_hydrant:type=underground | fire_operator=ПАСЧ №1 | note=Исправен | operator=ПАСЧ №1 | ref=1-00001
     geometry : [53.1338286,26.0196218]
 n3389365974  null / null / магазин "Копеечка"/ аптека
   other tags : 
     geometry : [53.1532384,26.0059997]
+n3625811142
+  other tags : addr:city=Барановичи | addr:housenumber=20 | addr:street=улица Димитрова
+    geometry : [53.1338402,26.0196706]
 w24946729
   other tags : railway=rail | source=landsat | usage=main
     geometry : n271036363[53.1218690,25.9428947] n271036518[53.1148879,25.9406977]

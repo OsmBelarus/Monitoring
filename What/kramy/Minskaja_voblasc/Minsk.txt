@@ -10965,16 +10965,13 @@ n3456932436  null / null / Happy Mom
     geometry : [53.9104316,27.4190304]
 n3456932437  null / null / i'Beer
   other tags : drink=beer | note=Магазин разливного пива | shop=beverages
-    geometry : [53.9096478,27.4204687]
+    geometry : [53.9096604,27.4206761]
 n3456932438  null / null / Авто 360
   other tags : shop=car_parts
-    geometry : [53.9096419,27.4207044]
+    geometry : [53.9096383,27.4207780]
 n3456932440  null / null / Евроопт
-  other tags : shop=supermarket
+  other tags : opening_hours=9:00 - 21:00 | shop=supermarket
     geometry : [53.9097549,27.4213346]
-n3456932441  null / null / Кухни ЗОВ
-  other tags : shop=kitchen
-    geometry : [53.9097987,27.4202145]
 n3456932443  null / null / Цветы
   other tags : addr:housenumber=6 | addr:street=Каменногорская улица | operator=Агрокомбинат «Ждановичи» | shop=florist
     geometry : [53.9103361,27.4191809]
@@ -10983,7 +10980,7 @@ n3456932552  null / null / 4kids
     geometry : [53.9096458,27.4208934]
 n3456932553  null / null / 7 красавиц
   other tags : shop=beauty
-    geometry : [53.9094808,27.4210715]
+    geometry : [53.9095451,27.4210730]
 n3459148096
   other tags : shop=optician
     geometry : [53.9272381,27.6063177]
@@ -11388,3 +11385,12 @@ n3623835814
 n3623835815  null / null / Авто1
   other tags : addr:housenumber=33 | addr:postcode=220007 | addr:street=Могилёвская улица | opening_hours=8:00-20:00 | operator=Автоспейс | phone=+375 (17) 205-47-23 | shop=car_parts | website=http://www.autospace.by/
     geometry : [53.8876609,27.5550956]
+n3624458717  null / null / Ремонт Обуви
+  other tags : shop=shoes
+    geometry : [53.9074303,27.4786669]
+n3625507898  null / null / Марко
+  other tags : addr:housenumber=10 | addr:street=Максима Танка | opening_hours=Mo-Sa 10:00-20:00, Su 10:00-17:00 | phone=+375172031690 | shop=shoes | website=http://marko.by
+    geometry : [53.9072890,27.5376170]
+n3625520601  null / null / Корона-бистро
+  other tags : addr:city=Минск | addr:housenumber=8А | addr:street=улица Барамзиной | opening_hours=9:00-23:00 | shop=supermarket | website=http://korona.by | wheelchair=limited
+    geometry : [53.8760079,27.9061436]
