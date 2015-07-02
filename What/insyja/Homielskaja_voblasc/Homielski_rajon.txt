@@ -1007,6 +1007,24 @@ n3626908880
 n3627173027
   other tags : man_made=water_well
     geometry : [52.3970760,30.7596221]
+n3628005503
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.2750284,30.8851653]
+n3628005504
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.3372672,30.9122902]
+n3628005505
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.3534119,30.9722941]
+n3628005506
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [52.3684891,30.8473449]
+n3628005507
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS | operator:MNC=02 | tower:type=communication
+    geometry : [52.3702130,30.8450364]
+n3628005508
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
+    geometry : [52.3836110,30.8298773]
 w8384184
   other tags : aeroway=runway
     geometry : n26151318[52.5230089,31.0349926] n26151319[52.5312783,30.9993402]

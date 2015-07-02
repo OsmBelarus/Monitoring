@@ -2579,6 +2579,15 @@ n3613555841  null / null / Автомойка
 n3613575890  null / null / АЗС ТАТНЕФТЬ
   other tags : 
     geometry : [52.4281138,30.9000139]
+n3628005509
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=LIFE | operator:MNC=04 | tower:type=communication
+    geometry : [52.3948530,30.8976371]
+n3628005510
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM;LIFE | operator:MNC=01;04 | tower:type=communication
+    geometry : [52.3978317,30.9083501]
+n3628005511
+  other tags : communication:mobile_phone=yes | man_made=mast | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [52.4025377,30.9145749]
 w24945722
   other tags : gauge=1520 | railway=rail
     geometry : n271092651[52.4586900,30.9449700] n271092649[52.4580800,30.9446200] n271092665[52.4567100,30.9443700] n271092659[52.4562000,30.9442000] n271092698[52.4555100,30.9435100]
