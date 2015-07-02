@@ -3280,12 +3280,12 @@ n767088427  null / null / Жиновича
 n767088433  вуліца Мазурава / null / Мазурова / улица Мазурова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8953207,27.4228024]
-n767088435  null / null / Сухорево-4 микрорайон
-  other tags : generated=yes | highway=bus_stop
+n767088435  null / null / Мкр-н "Сухарево-4"
+  other tags : bench=yes | covered=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.8908210,27.4210635]
-n767088440  null / null / Сухарево-4
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.8916333,27.4216341]
+n767088440  null / null / Мкр-н "Сухарево-4"
+  other tags : bench=yes | covered=yes | generated=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8915503,27.4218106]
 n767088442  null / null / Фабрика Коммунарка
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8865216,27.5808314]
