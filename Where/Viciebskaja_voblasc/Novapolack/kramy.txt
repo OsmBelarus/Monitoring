@@ -101,7 +101,7 @@ n1463830417  Прыём карыстаных АКБ, продаж новых А�
   other tags : addr:street=Калинина, 19 | shop=car
     geometry : [55.5249312,28.6524116]
 n1597360124
-  other tags : shop=bakery
+  other tags : shop=doityourself
     geometry : [55.5317331,28.6596983]
 n1597360134  Мэблевая крама / null / Мебельный
   other tags : shop=furniture
@@ -421,3 +421,11 @@ n3546125018
 n3610604090  null / null / Магазин Очков
   other tags : shop=optician
     geometry : [55.5298434,28.6645359]
+n3627663143  null / null / Атлант
+  other names: name:en=Atlant
+  other tags : addr:city=Новополоцк | addr:housenumber=3 | addr:postcode=211440 | addr:street=улица Калинина | opening_hours=ПН-ПТ 10.00-19.00 / СБ 10.00-19.00 / ВС 10.00-15.00 | operator=Делтех, ЧП | phone=+375 214 591210 | shop=electronics | website=http://happ.by
+    geometry : [55.5322953,28.6606524]
+n3627682661  null / null / GEFEST / Гефест
+  other names: name:en=Gefest
+  other tags : addr:city=Новополоцк | addr:housenumber=169 | addr:postcode=211501 | addr:street=Молодёжная улица | opening_hours=ПН-ПТ 10:00-19:00, СБ 10:00-17:00, ВС 10:00-15:00 | operator=Делтех, ЧП | phone=+375 214 552848 | shop=electronics | website=http://happ.by
+    geometry : [55.5175287,28.6875546]

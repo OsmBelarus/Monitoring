@@ -3,7 +3,7 @@ n306064833  Беларусбанк, №214/3 / Bielarusbank, №214/3 / Бела
     geometry : [55.5350056,28.6443483]
 n506306669  Беларусбанк, №214/10 / Bielarusbank, №214/10 / Беларусбанк, №214/10 / Беларусбанк, №214/10
   other tags : addr:housenumber=169 | addr:street=Молодёжная улица | amenity=bank | atm=yes | operator=Беларусбанк | website=http://belarusbank.by/
-    geometry : [55.5174958,28.6878960]
+    geometry : [55.5174922,28.6878255]
 n506322034  Белінвестбанк, №629 / Bielinviestbank, №629 / Белинвестбанк, №629 / Белинвестбанк, №629
   other tags : addr:housenumber=167 | addr:street=Молодёжная улица | amenity=bank | atm=yes | operator=Белинвестбанк
     geometry : [55.5180508,28.6867246]
@@ -41,8 +41,8 @@ n1497151297  Белаграпрамбанк / Bielahraprambank / Белагро�
   other tags : amenity=bank
     geometry : [55.5329999,28.6431596]
 n1531938029  Хоўм Крэдыт Банк, ЦБП №206 / Choŭm Kredyt Bank, CBP №206 / Хоум Кредит Банк, ЦБУ №206 / Хоум Кредит Банк, ЦБУ №206
-  other tags : addr:housenumber=169 | addr:street=Молодёжная улица | amenity=bank | atm=yes
-    geometry : [55.5175313,28.6876623]
+  other tags : addr:city=Новополоцк | addr:housenumber=169 | addr:postcode=211501 | addr:street=Молодёжная улица | amenity=bank | atm=yes | drive_through=no | opening_hours=Пн-Пт 9:00-19:00, Сб 10:00-17:00 | operator=ОАО ХКБанк | phone=+375 17 229 89 89 | website=http://homecredit.by/
+    geometry : [55.5174709,28.6876136]
 n1676764524  Банкамат БПС-Банк / Bankamat BPS-Bank / Банкомат БПС Банк / Банкомат БПС Банк
   other tags : amenity=bank
     geometry : [55.5283478,28.6713963]
@@ -61,8 +61,8 @@ n2053291724  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n2420486601  Дэльта Банк / Deĺta Bank / Дельта Банк / Дельта Банк
   other tags : amenity=bank | atm=yes
     geometry : [55.5363563,28.6431302]
-n2467525462
-  other tags : amenity=bank
+n2467525462  null / null / БелВЭБ
+  other tags : addr:city=Новополоцк | addr:housenumber=169А | addr:postcode=211501 | addr:street=Молодёжная улица | amenity=bank | atm=yes | drive_through=no | opening_hours=пн.-пт.: 10.00 – 18.00 обед: 13.00 – 14.00 вых.: сб., вс. | operator=Банк БелВЭБ | phone=+375 214 55-08-25 | website=http://www.bveb.by/
     geometry : [55.5182077,28.6876466]
 w38076019  Беларусбанк, №214 / Bielarusbank, №214 / Беларусбанк, №214 / Беларусбанк, №214
   other tags : addr:housenumber=4 | addr:street=улица Дружбы | amenity=bank | atm=yes | building=yes | website=http://belarusbank.by/
