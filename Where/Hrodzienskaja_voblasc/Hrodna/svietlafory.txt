@@ -97,7 +97,7 @@ n431335367  Чыгуначны вакзал / null / Железнодорожн�
 n431335369  вуліца Ажэшкі / null / улица Ожешко / улица Ожешко
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6861085,23.8454913]
-n431340008  Тэатр лялек / null / Кукольный театр / Кукольный театр
+n431340008  Тэатр лялек / null / Театр кукол / Театр кукол
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6856794,23.8353961]
 n431341287  Дзіцячая бальніца / null / Детская больница / Детская больница
@@ -112,8 +112,8 @@ n445394314  Маладзёжная вуліца / Maladziožnaja vulica / Мол
 n445394323  Дом сувязі / null / Дом связи / Дом связи
   other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [53.6769241,23.8379979]
-n445397980  Цэнтр занятасці / null / Центр занятости / Центр занятости
-  other tags : bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
+n445397980  Парк Жылібера / Park Žylibiera / Парк Жилибера / Парк Жилибера
+  other tags : bus=yes | highway=bus_stop | old_name=Центр занятости | old_name:be=Цэнтр занятасці | old_name:ru=Центр занятости | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [53.6876046,23.8352095]
 n456382905  БМТ-30 / null / Смт-30 / СМТ-30
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
