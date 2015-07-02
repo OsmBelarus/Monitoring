@@ -1756,10 +1756,10 @@ n2352433113
     geometry : [55.1836241,30.2503405]
 n2352807270  null / null / замена масла
   other tags : service=oil | shop=car_repair
-    geometry : [55.1817200,30.2485467]
+    geometry : [55.1817200,30.2484983]
 n2352807376
   other tags : shop=car_parts
-    geometry : [55.1819401,30.2486542]
+    geometry : [55.1819444,30.2486238]
 n2352891421  null / null / МяскоВит № 10
   other tags : opening_hours=Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 09:00-20:00 | shop=convenience | website=http://vmk.by/
     geometry : [55.1934224,30.1944920]
@@ -3279,7 +3279,7 @@ n3428267725  null / null / AMI мебель / AMI мебель
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1769046,30.1786065]
 n3429949923  null / null / Автосервис
-  other tags : shop=car_repair
+  other tags : note=ещё не открылся | shop=car_repair
     geometry : [55.1832536,30.2483724]
 n3434854120
   other tags : opening_hours=08:00-21:00 | shop=chemist
@@ -3495,3 +3495,12 @@ n3622972271
 n3627266003  null / null / Продукты
   other tags : opening_hours=Mo-Fr 09:00-18:00 | operator=ОАО «Витебскторгстрой» | shop=convenience
     geometry : [55.1870787,30.2175857]
+n3627743957  null / null / ЕвроШинСервис / ЕвроШинСервис
+  other tags : contact:phone=+375(29) 626-15-17 | opening_hours=Mo-Su 09:00-20:00 | operator=КолесоПлюс | shop=tyres
+    geometry : [55.1804512,30.2516613]
+n3627743958  null / null / ЕвроШинСервис / ЕвроШинСервис
+  other tags : contact:phone=+375(29) 626-15-17 | opening_hours=Mo-Su 09:00-20:00 | operator=КолесоПлюс | service=tyres | shop=car_repair
+    geometry : [55.1805113,30.2515306]
+n3627744266
+  other tags : shop=convenience
+    geometry : [55.1821989,30.2479642]

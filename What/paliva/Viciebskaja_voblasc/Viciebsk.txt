@@ -76,9 +76,6 @@ n1251041811  Беларуснафта № 7 / null / Белоруснефть �
 n1396780928  ІП Белгазпраект / null / ИП БелГазПроект
   other tags : amenity=fuel | fuel:lpg=yes
     geometry : [55.1551524,30.2448845]
-n1803875354  Блок / null / Блок
-  other tags : amenity=fuel | brand=Блок | fuel:diesel=yes | fuel:lpg=no | fuel:octane_92=yes | fuel:octane_95=yes | phone=+375-212-488970 | website=http://blokoil.by/
-    geometry : [55.1821512,30.2479573]
 n2077911509  null / null / Белоруснефть № 68
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | official_name=Белоруснефть МАЗС № 68 | opening_hours=08:10-20:00,20:30-00:00, 00:20-08:00 | operator=Белоруснефть | phone=+375-212-292516 | website=http://www.belorusneft.by/
     geometry : [55.2904602,30.3243341]
@@ -115,6 +112,9 @@ w90844790  null / null / Лукойл №39
 w109229425  Беларуснафта № 7 / null / Белоруснефть № 7 / Белоруснефть № 7
   other tags : addr:street=Билево | amenity=fuel | building=yes | building:levels=2 | contact:phone=+375(212) 43-92-76 | contact:website=http://www.belorusneft.by/ | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | internet_access=wlan | opening_hours=24/7 | operator=ПО «Белоруснефть»
     geometry : n1251041822[55.1691291,30.3049176] n1251041818[55.1690946,30.3052148] n1251041824[55.1689429,30.3051608] n3577427596[55.1689654,30.3049673] n1159627939[55.1689774,30.3048636] n3577427598[55.1690002,30.3048717] n3109621967[55.1690235,30.3048800] n3109621971[55.1690983,30.3049066] n1251041822[55.1691291,30.3049176]
+w188890560  Блок / null / Блок
+  other tags : addr:housenumber=9А | addr:street=улица Терешковой | amenity=fuel | brand=Блок | building=yes | building:levels=1 | fuel:diesel=yes | fuel:lpg=no | fuel:octane_92=yes | fuel:octane_95=yes | phone=+375-212-488970 | website=http://blokoil.by/
+    geometry : n1995229536[55.1820825,30.2478728] n1803875354[55.1822045,30.2479168] n1995229544[55.1822027,30.2479323] n3627744266[55.1821989,30.2479642] n1995229542[55.1821909,30.2480320] n1995229534[55.1820689,30.2479880] n1995229536[55.1820825,30.2478728]
 w293416460
   other tags : amenity=fuel | building=yes | building:levels=1 | fuel:octane_80=no | fuel:octane_91=no | fuel:octane_95=no
     geometry : n2970139748[55.1900324,30.2671306] n2970139747[55.1900145,30.2672101] n2970139745[55.1898849,30.2671202] n2970139746[55.1899029,30.2670407] n2970139748[55.1900324,30.2671306]
