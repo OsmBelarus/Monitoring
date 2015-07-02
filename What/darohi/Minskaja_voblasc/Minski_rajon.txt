@@ -27412,7 +27412,7 @@ w260430386
     geometry : n2659190745[53.8210546,27.8538841] n2659190751[53.8216246,27.8562789] n2659190761[53.8220016,27.8578628] n2659190763[53.8222588,27.8588888] n2659190766[53.8225135,27.8598136] n2659190771[53.8227950,27.8607112] n2659190773[53.8228737,27.8610058] n2659190783[53.8230765,27.8616579] n317188623[53.8240664,27.8651925]
 w260544032  null / null / улица Нёманская
   other names: name:en=Nemanskaya street
-  other tags : bicycle=yes | foot=yes | highway=residential | horse=yes | motor_vehicle=yes | smoothness=bad | surface=gravel | tracktype=grade2
+  other tags : bicycle=yes | foot=yes | highway=residential | horse=yes | motor_vehicle=yes | oneway=no | smoothness=bad | surface=gravel | tracktype=grade2
     geometry : n2660456205[53.9307508,27.3195436] n2660456199[53.9279833,27.3198453]
 w260544033
   other tags : highway=track
@@ -27422,7 +27422,7 @@ w260544036
     geometry : n1851010823[53.9290150,27.3165624] n2660456192[53.9284535,27.3169488] n2660456191[53.9277249,27.3170563]
 w260544037  null / null / улица Березинская
   other names: name:en=Berezinskaya street
-  other tags : highway=residential
+  other tags : highway=residential | oneway=no
     geometry : n3593914588[53.9307013,27.3211824] n2660456198[53.9291999,27.3214212]
 w260544450
   other tags : highway=residential | maxspeed=60 | oneway=no | surface=asphalt
