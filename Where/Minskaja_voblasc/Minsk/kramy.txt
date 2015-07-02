@@ -5841,9 +5841,6 @@ n2340707642  Велакухня «Гараж 38» / null / Велокухня «
   other names: name:en=Bike Kitchen «Garage 38»
   other tags : contact:email=bk-info@bike.org.by | contact:website=http://bikekitchen.by | fee=no | note=http://vk.com/public57155686 | ref=38 | service:bicycle:diy=yes | service:bicycle:pump=yes | service:bicycle:repair=yes | shop=bicycle
     geometry : [53.9112413,27.5802728]
-n2349441040  null / null / Тропинка
-  other tags : shop=convenience
-    geometry : [53.9057734,27.4364054]
 n2353158825  null / null / Мясная держава
   other tags : shop=butcher
     geometry : [53.8475021,27.6041529]
@@ -7151,7 +7148,7 @@ n2621336327  null / null / Экспедиция
     geometry : [53.8745749,27.5951533]
 n2621342135  null / null / so-va.by, Магазин сувениров и подарков
   other tags : shop=yes
-    geometry : [53.9059890,27.4367095]
+    geometry : [53.9059740,27.4367525]
 n2621343665  null / null / Valenso
   other tags : shop=yes
     geometry : [53.9057345,27.4365205]
@@ -7808,9 +7805,6 @@ n2781398175
 n2781398176
   other tags : shop=hairdresser
     geometry : [53.8584663,27.6332626]
-n2808848435  null / null / BASTA
-  other tags : addr:housenumber=97 | addr:street=улица Притыцкого | shop=shoes
-    geometry : [53.9058301,27.4364104]
 n2810242182
   other tags : addr:housenumber=3 к6 | addr:postcode=220025 | addr:street=улица Космонавтов | shop=hairdresser
     geometry : [53.8510122,27.4719285]
@@ -11403,3 +11397,9 @@ n3627837422  null / null / Златка
 n3627865936
   other tags : shop=hardware
     geometry : [53.8802606,27.6687601]
+n3629393267  null / null / BASTA
+  other tags : addr:housenumber=97 | addr:street=улица Притыцкого | shop=shoes
+    geometry : [53.9058219,27.4364599]
+n3629393268  null / null / Тропинка
+  other tags : shop=convenience
+    geometry : [53.9057761,27.4364518]
