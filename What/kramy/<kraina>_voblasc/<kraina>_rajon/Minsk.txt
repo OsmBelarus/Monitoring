@@ -8474,9 +8474,9 @@ n3143679936  null / null / Аркада
 n3143680309  null / null / Milavitsa
   other tags : shop=yes
     geometry : [53.9012668,27.5576624]
-n3143681208  null / null / Натали
-  other tags : shop=hairdresser
-    geometry : [53.8924037,27.5576809]
+n3143681208  null / null / Татьяна
+  other tags : addr:housenumber=33 | addr:street=Ульяновская улица | opening_hours=Mo-Fr 09:00-20:00, Sa 09:00-18:00 | shop=hairdresser
+    geometry : [53.8924801,27.5576076]
 n3143681245  null / null / Adidas
   other tags : shop=yes
     geometry : [53.8994443,27.5600718]
@@ -11475,3 +11475,6 @@ n3647164286  null / null / Pichugin
 n3647184708  null / null / Joli
   other tags : addr:housenumber=23 | addr:street=Интернациональная улица | opening_hours=Mo-Sa 09:00-22:00, Su 09:00-16:00 | shop=beauty
     geometry : [53.9038825,27.5588110]
+n3647232432  null / null / Гурман
+  other tags : addr:housenumber=69 | addr:street=улица Куйбышева | opening_hours=Mo-Su 08:00-21:00 | phone=+375 17 2392863 | shop=deli
+    geometry : [53.9202774,27.5749963]
