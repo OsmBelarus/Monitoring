@@ -2852,8 +2852,9 @@ n3647184707  null / null / Stolle
 n3647234619  null / null / ПивЗалив
   other tags : amenity=pub
     geometry : [53.9191177,27.5745440]
-n3648997243  null / null / Munchhausen Cafe (Мюнхгаузен Кафе)
-  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220012 | addr:street=улица Сурганова | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=8:00-16:00 only on weekdays | smoking=no
+n3648997243  null / null / null / Мюнхгаузен Кафе
+  other names: name:en=Munchhausen Cafe
+  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220012 | addr:street=улица Сурганова | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=Mo-Fr 8:00-16:00 | smoking=no
     geometry : [53.9231769,27.6005083]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
