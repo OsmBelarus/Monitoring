@@ -3599,7 +3599,7 @@ n2193932128
   other tags : natural=tree
     geometry : [53.8650609,27.4886862]
 n2318673487
-  other tags : genus=Quercus | genus:en=Oak | leaf_type=broadleaved | natural=tree
+  other tags : genus=Quercus | genus:en=Oak | leaf_cycle=deciduous | leaf_type=broadleaved | natural=tree
     geometry : [53.8942327,27.4595249]
 n2320499656
   other tags : natural=tree
@@ -3632,13 +3632,13 @@ n2430183327
   other tags : natural=tree | type=broad_leaved
     geometry : [53.8954112,27.4602279]
 n2459287247
-  other tags : genus=Quercus | genus:en=Oak | leaf_type=broadleaved | natural=tree
+  other tags : genus=Quercus | genus:en=Oak | leaf_cycle=deciduous | leaf_type=broadleaved | natural=tree
     geometry : [53.8937618,27.4600326]
 n2459287248
-  other tags : genus=Quercus | genus:en=Oak | leaf_type=broadleaved | natural=tree
+  other tags : genus=Quercus | genus:en=Oak | leaf_cycle=deciduous | leaf_type=broadleaved | natural=tree
     geometry : [53.8937612,27.4598622]
 n2459287249
-  other tags : genus=Quercus | genus:en=Oak | leaf_type=broadleaved | natural=tree
+  other tags : genus=Quercus | genus:en=Oak | leaf_cycle=deciduous | leaf_type=broadleaved | natural=tree
     geometry : [53.8937656,27.4596810]
 n2552719264
   other tags : natural=tree
@@ -4223,7 +4223,7 @@ n3111006357
   other tags : natural=tree
     geometry : [53.9308199,27.5674412]
 n3125541680
-  other tags : natural=tree
+  other tags : leaf_cycle=evergreen | leaf_type=needleleaved | natural=tree
     geometry : [53.8938602,27.4612594]
 n3157717614
   other tags : natural=tree
