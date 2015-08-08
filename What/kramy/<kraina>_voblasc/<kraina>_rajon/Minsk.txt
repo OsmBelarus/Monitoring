@@ -2356,7 +2356,7 @@ n610912795
   other tags : shop=convenience
     geometry : [53.8796567,27.6086218]
 n612220231  null / null / Тропинка
-  other tags : opening_hours=Mo-Su 08:00-23:00 | shop=convenience
+  other tags : addr:street=проспект Машерова | opening_hours=Mo-Su 08:00-23:00 | shop=convenience
     geometry : [53.9168423,27.5657436]
 n612220365  null / null / Лещина
   other tags : opening_hours=Mo-Su 09:00-22:00 | shop=convenience
@@ -6805,7 +6805,7 @@ n2613358460  null / null / ГарантПластСтрой
   other tags : addr:housenumber=6 | addr:street=Нововиленская улица | opening_hours=Mo-Fr 8:45-17:45 | shop=furniture
     geometry : [53.9288098,27.5424147]
 n2613364373  null / null / Тропинка
-  other tags : addr:housenumber=1 | addr:street=Нововиленская улица | shop=convenience
+  other tags : addr:city=Минск | addr:housenumber=1 | addr:street=Нововиленская улица | opening_hours=8.00-23.00 | shop=convenience
     geometry : [53.9270370,27.5435265]
 n2613365260
   other tags : shop=convenience
@@ -9205,7 +9205,7 @@ n3211912922  null / null / Robinzon.by
   other tags : contact:phone=+375(29) 602-55-70, +375(29) 602-60-70 | contact:website=http://robinzon.by/ | opening_hours=Mo-Sa 11:00-19:00 | shop=outdoor
     geometry : [53.9165329,27.5797701]
 n3212057558  null / null / Тропинка
-  other tags : addr:city=Минск | opening_hours=08:00-23:00 | shop=supermarket
+  other tags : addr:city=Минск | addr:housenumber=15 | addr:street=улица Веры Хоружей | opening_hours=08:00-23:00 | shop=supermarket
     geometry : [53.9196620,27.5733533]
 n3212074657  null / null / Стрелка
   other tags : shop=pet
@@ -9250,7 +9250,7 @@ n3213399449  Ламбард / null / Ломбард / Ломбард
   other tags : addr:street=Калиновского | shop=pawnbroker
     geometry : [53.9384584,27.6515301]
 n3213399457  null / null / Тропинка
-  other tags : shop=convenience
+  other tags : addr:city=Минск | addr:housenumber=30 | addr:street=улица Веры Хоружей | opening_hours=08.00-23.00 | shop=convenience
     geometry : [53.9225164,27.5628106]
 n3213412686  null / null / О'кей
   other tags : opening_hours=Mo-Su 10:00-22:00 | shop=shoes
@@ -10363,7 +10363,7 @@ n3284637907  null / null / Calvin Klein Jeans
     geometry : [53.9083121,27.5269546]
 n3284637908  null / null / Hilfiger Denim
   other tags : addr:city=Минск | addr:street=Кальварийская улица | shop=clothes
-    geometry : [53.9083231,27.5267772]
+    geometry : [53.9083807,27.5267607]
 n3284637909  null / null / Silvian Heach
   other tags : addr:city=Минск | addr:street=Кальварийская улица | shop=clothes
     geometry : [53.9081910,27.5269733]
