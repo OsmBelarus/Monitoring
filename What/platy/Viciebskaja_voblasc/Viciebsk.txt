@@ -555,7 +555,7 @@ n1901693887
     geometry : [55.1822924,30.1656553]
 n1902703651
   other tags : barrier=gate | motor_vehicle=yes
-    geometry : [55.1916560,30.1421714]
+    geometry : [55.1916459,30.1422275]
 n1910998236
   other tags : barrier=gate
     geometry : [55.1701117,30.2496832]
@@ -733,6 +733,12 @@ n2330675759
 n2330678913
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [55.1833683,30.2667198]
+n2348427407
+  other tags : barrier=gate
+    geometry : [55.2072184,30.2299073]
+n2348427424
+  other tags : barrier=gate
+    geometry : [55.2069264,30.2293243]
 n2349643304
   other tags : barrier=gate
     geometry : [55.1727626,30.2402098]
@@ -862,6 +868,12 @@ n2361961107
 n2362101043
   other tags : barrier=gate | bicycle=yes | foot=yes
     geometry : [55.2033896,30.1473922]
+n2362337612
+  other tags : barrier=gate
+    geometry : [55.1728057,30.1631952]
+n2362337620
+  other tags : barrier=gate
+    geometry : [55.1730524,30.1634166]
 n2362456542
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [55.1846212,30.1796552]
@@ -955,6 +967,9 @@ n2390541327
 n2390549785
   other tags : barrier=gate | bicycle=yes | foot=yes
     geometry : [55.1994789,30.1832107]
+n2391734598
+  other tags : barrier=gate
+    geometry : [55.1898460,30.2170741]
 n2391734602
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [55.1899433,30.2185924]
@@ -1012,6 +1027,9 @@ n2398600295
 n2398661756
   other tags : access=private | barrier=gate
     geometry : [55.2062504,30.1590336]
+n2399798711
+  other tags : barrier=gate
+    geometry : [55.2019168,30.1811050]
 n2399814213
   other tags : access=private | barrier=gate
     geometry : [55.1964545,30.1915483]
@@ -1171,6 +1189,12 @@ n2438721944
 n2438728809
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [55.2026629,30.2240789]
+n2443090170
+  other tags : barrier=gate
+    geometry : [55.1913776,30.1419661]
+n2443090176
+  other tags : barrier=gate
+    geometry : [55.1915108,30.1418568]
 n2446884172
   other tags : access=delivery | barrier=gate | bicycle=yes | foot=yes
     geometry : [55.1930737,30.2056188]
@@ -1375,9 +1399,9 @@ n2495658062
 n2495673730
   other tags : barrier=gate
     geometry : [55.1624651,30.2391676]
-n2495673731
+n2495673735
   other tags : barrier=gate
-    geometry : [55.1626061,30.2392734]
+    geometry : [55.1629035,30.2394965]
 n2497782817
   other tags : access=private | barrier=gate | motor_vehicle=yes
     geometry : [55.2029477,30.1623007]
