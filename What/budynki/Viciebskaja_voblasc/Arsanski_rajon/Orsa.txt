@@ -11783,7 +11783,7 @@ w101351750
   other tags : building=yes | building:levels=1
     geometry : n1170283866[54.5155833,30.4338799] n1170287489[54.5156749,30.4334412] n1170284414[54.5157628,30.4334956] n1170288077[54.5156712,30.4339343] n1170283866[54.5155833,30.4338799]
 w101351751
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=7 | building=yes | building:levels=1
     geometry : n1170293615[54.4951037,30.4355187] n1170276624[54.4951955,30.4355171] n1170281411[54.4951962,30.4356462] n1170285337[54.4951045,30.4356478] n1170293615[54.4951037,30.4355187]
 w101351752
   other tags : addr:housenumber=21 | addr:street=улица Пустельникова | building=yes | building:levels=1
@@ -12617,7 +12617,7 @@ w101352108
   other tags : addr:housenumber=2 | addr:street=4-й переулок Марата | building=yes | building:levels=1
     geometry : n1170285948[54.5157381,30.4412292] n1170282867[54.5157800,30.4411090] n1170277934[54.5159307,30.4412649] n1170274069[54.5158888,30.4413850] n1170285948[54.5157381,30.4412292]
 w101352109
-  other tags : addr:housenumber=9 | building=yes | building:levels=1
+  other tags : addr:housenumber=11 | building=yes | building:levels=1
     geometry : n1170285884[54.4947958,30.4354418] n1170282918[54.4948005,30.4356899] n1170286513[54.4947053,30.4356953] n1170291132[54.4947007,30.4354472] n1170285884[54.4947958,30.4354418]
 w101352111
   other tags : addr:housenumber=52 | addr:street=Краснофлотская улица | building=yes | building:levels=1
@@ -38903,7 +38903,7 @@ w358896177
   other tags : addr:housenumber=3 | addr:street=1-й Гомельский переулок | building=yes | building:levels=1
     geometry : n3637158336[54.4955483,30.4354555] n3637158338[54.4956127,30.4354245] n3637158339[54.4956442,30.4356189] n3637158337[54.4955798,30.4356498] n3637158336[54.4955483,30.4354555]
 w358896178
-  other tags : addr:housenumber=7 | addr:street=1-й Гомельский переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=1-й Гомельский переулок | building=yes | building:levels=1
     geometry : n3637158333[54.4949019,30.4354736] n3637158335[54.4949687,30.4354744] n3637158334[54.4949679,30.4356762] n3637158332[54.4949011,30.4356753] n3637158333[54.4949019,30.4354736]
 r3004946
   other tags : building=yes | building:levels=1 | type=multipolygon
