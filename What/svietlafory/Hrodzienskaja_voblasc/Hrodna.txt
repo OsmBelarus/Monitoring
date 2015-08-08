@@ -18,7 +18,7 @@ n320409848  плошча Дзекабрыстаў / plošča Dziekabrystaŭ / п
     geometry : [53.6636668,23.7989590]
 n320676302  вуліца Курчатава / vulica Kurčatava / улица Курчатова / улица Курчатова
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [53.7053272,23.8579820]
+    geometry : [53.7053006,23.8580508]
 n347507534  Шклозавод / null / Стеклозавод / Стеклозавод
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [53.6656020,23.8268729]
@@ -629,7 +629,7 @@ n969358826  Заапарк / null / Зоопарк / Зоопарк
     geometry : [53.6891614,23.8464828]
 n969358849  Дзевятоўка–5 / Dzieviatoŭka–5 / Девятовка–5 / Девятовка–5
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.7112370,23.8594797]
+    geometry : [53.7113414,23.8594652]
 n969358852  Раённыя электрычныя сеткі / null / Районные электрические сети / Районные электрические сети
   other tags : bus=yes | highway=bus_stop | old_name=улица Тавлая | public_transport=platform
     geometry : [53.6954318,23.8554112]
@@ -696,9 +696,6 @@ n1176774207  null / null / КСМ
 n1194420972  вуліца Астроўскага / null / улица Островского / улица Островского
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [53.6902125,23.8265956]
-n1203857205  Дзевятоўка–5 / Dzieviatoŭka–5 / Девятовка–5 / Девятовка–5
-  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.7107126,23.8596984]
 n1248149821  Будаўнічы ліцэй / null / Строительный лицей / Строительный лицей
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [53.6538209,23.7944447]
@@ -893,7 +890,7 @@ n1648213200  Паліклініка / null / Поликлиника / Полик
     geometry : [53.6945118,23.7880155]
 n1703461189  вуліца Таўлая / null / улица Тавлая / улица Тавлая
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [53.7053827,23.8591486]
+    geometry : [53.7054695,23.8591456]
 n1703461238  вуліца Курчатава / vulica Kurčatava / улица Курчатова / улица Курчатова
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.7067655,23.8503451]
@@ -1089,7 +1086,7 @@ n2277560662  1000 дробязей / null / 1000 мелочей / 1000 мело�
     geometry : [53.6700958,23.7914571]
 n2280088987  Дзевятоўка–5 / Dzieviatoŭka–5 / Девятовка–5 / Девятовка–5
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [53.7110397,23.8585383]
+    geometry : [53.7110458,23.8586275]
 n2281093776  Вішнявецкая вуліца / Višniavieckaja vulica / Вишневецкая улица / Вишневецкая улица
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.6343843,23.8511212]
@@ -1195,3 +1192,6 @@ n3505724729  null / null / Б. Ольшанская
 n3596106953  Дзевятоўка–7 / Dzieviatoŭka–7 / Девятовка–7 [без посадки и высадки] / Девятовка–7 [без посадки и высадки]
   other tags : highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.7139517,23.8741672]
+n3643501538  Дзевятоўка–5 / Dzieviatoŭka–5 / Девятовка–5 / Девятовка–5
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.7104732,23.8598595]
