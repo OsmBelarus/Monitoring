@@ -2,10 +2,10 @@ n1251375612
   other tags : addr:city=Залавье | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : [52.8283609,30.8239923]
 w230125844
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2386542916[52.9740637,30.6052187] n2386542917[52.9741152,30.6053710] n2386542915[52.9739632,30.6055127] n2386542914[52.9739117,30.6053604] n2386542916[52.9740637,30.6052187]
 w230125850
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2386542928[52.9753167,30.6043614] n2386542929[52.9753915,30.6046324] n2386542926[52.9751879,30.6047876] n2386542925[52.9751130,30.6045166] n2386542928[52.9753167,30.6043614]
 w235998558
   other tags : building=house | building:levels=1
@@ -68,7 +68,7 @@ w236044181
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441195204[52.9811106,30.6064871] n2441195196[52.9810133,30.6065503] n2441195194[52.9809725,30.6063770] n2441195201[52.9810698,30.6063138] n2441195204[52.9811106,30.6064871]
 w236044182
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194788[52.9770350,30.6013634] n2441194791[52.9770865,30.6015398] n2441194786[52.9769987,30.6016106] n2441194782[52.9769472,30.6014342] n2441194788[52.9770350,30.6013634]
 w236044183
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -80,7 +80,7 @@ w236044186
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=3
     geometry : n2441194584[52.9740298,30.6120582] n2441194597[52.9741651,30.6121538] n2441194588[52.9740574,30.6125742] n2441194575[52.9739221,30.6124786] n2441194584[52.9740298,30.6120582]
 w236044187
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194677[52.9755171,30.6042740] n2441194679[52.9755498,30.6043974] n2441194668[52.9754070,30.6045017] n2441194659[52.9753743,30.6043784] n2441194677[52.9755171,30.6042740]
 w236044188
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -110,7 +110,7 @@ w236044197
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194831[52.9779537,30.6043502] n2441194833[52.9779862,30.6044761] n2441194827[52.9778796,30.6045520] n2441194825[52.9778471,30.6044261] n2441194831[52.9779537,30.6043502]
 w236044198
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194740[52.9763951,30.6038439] n2441194746[52.9764443,30.6040055] n2441194732[52.9762939,30.6041320] n2441194726[52.9762446,30.6039704] n2441194740[52.9763951,30.6038439]
 w236044199
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -137,7 +137,7 @@ w236044206
   other tags : addr:city=Прогрес | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441195307[53.0002960,30.5850200] n2441195316[53.0003746,30.5849640] n2441195318[53.0004150,30.5851205] n2441195309[53.0003363,30.5851765] n2441195307[53.0002960,30.5850200]
 w236044207
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194751[52.9764903,30.6019074] n2441194755[52.9765419,30.6020838] n2441194749[52.9764541,30.6021546] n2441194742[52.9764025,30.6019782] n2441194751[52.9764903,30.6019074]
 w236044208
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -248,7 +248,7 @@ w236044274
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194507[52.9732034,30.6089384] n2441194504[52.9731556,30.6090818] n2441194495[52.9730617,30.6089955] n2441194500[52.9731095,30.6088520] n2441194507[52.9732034,30.6089384]
 w236044277
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194762[52.9766811,30.6033086] n2441194767[52.9767249,30.6034662] n2441194761[52.9766232,30.6035442] n2441194758[52.9765794,30.6033866] n2441194762[52.9766811,30.6033086]
 w236044278
   other tags : addr:city=Прогрес | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -266,7 +266,7 @@ w236044284
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194909[52.9787716,30.6081473] n2441194913[52.9788041,30.6082732] n2441194900[52.9786975,30.6083492] n2441194891[52.9786650,30.6082232] n2441194909[52.9787716,30.6081473]
 w236044287
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194780[52.9769306,30.6031062] n2441194784[52.9769744,30.6032638] n2441194777[52.9768727,30.6033418] n2441194774[52.9768289,30.6031842] n2441194780[52.9769306,30.6031062]
 w236044290
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -314,7 +314,7 @@ w236044307
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194850[52.9782770,30.6047065] n2441194852[52.9783208,30.6048641] n2441194846[52.9782190,30.6049421] n2441194843[52.9781752,30.6047845] n2441194850[52.9782770,30.6047065]
 w236044308
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194857[52.9784198,30.6019676] n2441194862[52.9784636,30.6021252] n2441194854[52.9783619,30.6022032] n2441194851[52.9783181,30.6020456] n2441194857[52.9784198,30.6019676]
 w236044309
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -329,7 +329,7 @@ w236044312
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194902[52.9787213,30.5995451] n2441194905[52.9787526,30.5996674] n2441194888[52.9786631,30.5997307] n2441194885[52.9786318,30.5996084] n2441194902[52.9787213,30.5995451]
 w236044315
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194771[52.9767893,30.6016765] n2441194775[52.9768409,30.6018529] n2441194769[52.9767531,30.6019237] n2441194764[52.9767015,30.6017473] n2441194771[52.9767893,30.6016765]
 w236044316
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -353,7 +353,7 @@ w236044323
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441195126[52.9799490,30.6034857] n2441195129[52.9799928,30.6036433] n2441195121[52.9798910,30.6037213] n2441195116[52.9798472,30.6035637] n2441195126[52.9799490,30.6034857]
 w236044324
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194844[52.9781823,30.6004212] n2441194848[52.9782386,30.6006278] n2441194835[52.9779987,30.6008081] n2441194828[52.9779424,30.6006015] n2441194844[52.9781823,30.6004212]
 w236044325
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -392,13 +392,13 @@ w236044339
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194741[52.9763993,30.6100405] n2441194753[52.9764994,30.6101104] n2441194748[52.9764537,30.6102907] n2441194736[52.9763536,30.6102207] n2441194741[52.9763993,30.6100405]
 w236044340
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194799[52.9772620,30.6028120] n2441194802[52.9773058,30.6029696] n2441194796[52.9772040,30.6030476] n2441194794[52.9771602,30.6028900] n2441194799[52.9772620,30.6028120]
 w236044341
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441195269[52.9821059,30.6049071] n2441195271[52.9821423,30.6050698] n2441195266[52.9820373,30.6051347] n2441195262[52.9820009,30.6049720] n2441195269[52.9821059,30.6049071]
 w236044342
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194911[52.9787727,30.5999721] n2441194918[52.9788388,30.6002111] n2441194886[52.9786521,30.6003534] n2441194880[52.9785861,30.6001144] n2441194911[52.9787727,30.5999721]
 w236044343
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -410,7 +410,7 @@ w236044345
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194733[52.9763060,30.6104421] n2441194743[52.9764061,30.6105121] n2441194737[52.9763603,30.6106924] n2441194728[52.9762603,30.6106224] n2441194733[52.9763060,30.6104421]
 w236044347
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441194804[52.9773482,30.6011518] n2441194805[52.9773828,30.6013393] n2441194801[52.9772895,30.6013867] n2441194798[52.9772549,30.6011992] n2441194804[52.9773482,30.6011518]
 w236044349
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
@@ -422,28 +422,28 @@ w236044351
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
     geometry : n2441194601[52.9742764,30.6133507] n2441194616[52.9743971,30.6134377] n2441194611[52.9743669,30.6135530] n2441194630[52.9746267,30.6137405] n2441194624[52.9745595,30.6139977] n2441194607[52.9743076,30.6138160] n2441194605[52.9742920,30.6138755] n2441194596[52.9741634,30.6137827] n2441194601[52.9742764,30.6133507]
 w236102369
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441661993[52.9704950,30.6085223] n2441661995[52.9705315,30.6084267] n2441662001[52.9706106,30.6085098] n2441661998[52.9705742,30.6086054] n2441661993[52.9704950,30.6085223]
 w236102370
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662002[52.9706129,30.6085652] n2441662003[52.9706542,30.6086001] n2441662000[52.9706105,30.6087422] n2441661997[52.9705693,30.6087074] n2441662002[52.9706129,30.6085652]
 w236102372
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662023[52.9713543,30.6073743] n2441662026[52.9714338,30.6073004] n2441662027[52.9714790,30.6074345] n2441662024[52.9713996,30.6075084] n2441662023[52.9713543,30.6073743]
 w236102373
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662014[52.9709877,30.6077552] n2441662015[52.9710219,30.6077094] n2441662018[52.9710962,30.6078623] n2441662016[52.9710620,30.6079081] n2441662014[52.9709877,30.6077552]
 w236102374
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662017[52.9710636,30.6076426] n2441662020[52.9711043,30.6076001] n2441662022[52.9711560,30.6077369] n2441662021[52.9711153,30.6077793] n2441662017[52.9710636,30.6076426]
 w236102376
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662004[52.9706889,30.6081522] n2441662005[52.9707147,30.6080756] n2441662009[52.9707955,30.6081507] n2441662008[52.9707696,30.6082273] n2441662004[52.9706889,30.6081522]
 w236102377
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441661990[52.9704320,30.6086966] n2441661992[52.9704581,30.6086210] n2441661996[52.9705485,30.6087068] n2441661994[52.9705225,30.6087825] n2441661990[52.9704320,30.6086966]
 w236102378
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house | building:levels=1
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house | building:levels=1
     geometry : n2441662007[52.9707664,30.6080341] n2441662010[52.9707960,30.6079521] n2441662012[52.9708768,30.6080326] n2441662011[52.9708472,30.6081146] n2441662007[52.9707664,30.6080341]
 w239157711
   other tags : building=house
@@ -13634,7 +13634,7 @@ w356712858
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621232663[52.9708019,30.5779636] n3621232666[52.9708652,30.5781247] n3621232664[52.9708220,30.5781715] n3621232662[52.9707587,30.5780104] n3621232663[52.9708019,30.5779636]
 w356712859
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243828[52.9801760,30.6007655] n3621243826[52.9801372,30.6005971] n3621243830[52.9801926,30.6005619] n3621243832[52.9802314,30.6007304] n3621243828[52.9801760,30.6007655]
 w356712860
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13673,7 +13673,7 @@ w356712871
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243700[52.9764492,30.5719785] n3621243696[52.9763970,30.5718422] n3621243701[52.9764551,30.5717809] n3621243705[52.9765073,30.5719171] n3621243700[52.9764492,30.5719785]
 w356712872
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243497[52.9730191,30.6060946] n3621243510[52.9731071,30.6060203] n3621243513[52.9731361,30.6061149] n3621243503[52.9730481,30.6061892] n3621243497[52.9730191,30.6060946]
 w356712873
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13703,7 +13703,7 @@ w356712881
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243709[52.9765909,30.5721469] n3621243712[52.9766464,30.5720894] n3621243713[52.9766956,30.5722207] n3621243711[52.9766401,30.5722781] n3621243709[52.9765909,30.5721469]
 w356712882
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243417[52.9718291,30.6059856] n3621243411[52.9717411,30.6058345] n3621243413[52.9717672,30.6057926] n3621243420[52.9718552,30.6059437] n3621243417[52.9718291,30.6059856]
 w356712883
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13712,7 +13712,7 @@ w356712884
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243501[52.9730385,30.5762159] n3621243506[52.9730674,30.5761758] n3621243511[52.9731211,30.5762823] n3621243509[52.9730922,30.5763224] n3621243501[52.9730385,30.5762159]
 w356712885
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243498[52.9730191,30.6063349] n3621243495[52.9729995,30.6063907] n3621243481[52.9728951,30.6062891] n3621243483[52.9729147,30.6062333] n3621243498[52.9730191,30.6063349]
 w356712886
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13730,7 +13730,7 @@ w356712891
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243725[52.9770696,30.5717333] n3621243731[52.9771322,30.5719091] n3621243726[52.9770726,30.5719677] n3621243721[52.9770100,30.5717918] n3621243725[52.9770696,30.5717333]
 w356712892
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621232680[52.9712788,30.6061664] n3621232681[52.9713069,30.6061405] n3621232686[52.9713681,30.6063238] n3621232682[52.9713399,30.6063496] n3621232680[52.9712788,30.6061664]
 w356712893
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13739,10 +13739,10 @@ w356712894
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243508[52.9730877,30.5758519] n3621243496[52.9730191,30.5756661] n3621243507[52.9730732,30.5756111] n3621243514[52.9731418,30.5757968] n3621243508[52.9730877,30.5758519]
 w356712895
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243865[52.9816971,30.5995253] n3621243867[52.9817643,30.5994721] n3621243868[52.9818065,30.5996192] n3621243866[52.9817393,30.5996724] n3621243865[52.9816971,30.5995253]
 w356712896
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243442[52.9721558,30.6056834] n3621243436[52.9720901,30.6055769] n3621243439[52.9721254,30.6055170] n3621243445[52.9721910,30.6056235] n3621243442[52.9721558,30.6056834]
 w356712897
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13769,10 +13769,10 @@ w356712904
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243539[52.9734382,30.5758841] n3621243536[52.9733959,30.5758153] n3621243540[52.9734675,30.5756939] n3621243541[52.9735098,30.5757627] n3621243539[52.9734382,30.5758841]
 w356712905
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243857[52.9814525,30.5979282] n3621243858[52.9814989,30.5978896] n3621243860[52.9815453,30.5980437] n3621243859[52.9814989,30.5980823] n3621243857[52.9814525,30.5979282]
 w356712906
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243393[52.9714458,30.6062605] n3621232691[52.9714085,30.6061391] n3621243394[52.9714483,30.6061054] n3621243396[52.9714856,30.6062268] n3621243393[52.9714458,30.6062605]
 w356712907
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13781,7 +13781,7 @@ w356712908
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243460[52.9725971,30.5764041] n3621243458[52.9725434,30.5762580] n3621243459[52.9725869,30.5762139] n3621243462[52.9726406,30.5763600] n3621243460[52.9725971,30.5764041]
 w356712909
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243851[52.9812226,30.5999491] n3621243849[52.9812057,30.5998628] n3621243854[52.9812964,30.5998137] n3621243855[52.9813133,30.5999000] n3621243851[52.9812226,30.5999491]
 w356712910
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13799,7 +13799,7 @@ w356712914
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243548[52.9738424,30.5755671] n3621243546[52.9737887,30.5754135] n3621243547[52.9738308,30.5753730] n3621243551[52.9738844,30.5755265] n3621243548[52.9738424,30.5755671]
 w356712915
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243870[52.9819375,30.5979001] n3621243869[52.9819128,30.5978285] n3621243871[52.9819866,30.5977584] n3621243872[52.9820113,30.5978301] n3621243870[52.9819375,30.5979001]
 w356712916
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13811,7 +13811,7 @@ w356712918
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243500[52.9730370,30.5758989] n3621243492[52.9729839,30.5759548] n3621243485[52.9729272,30.5758062] n3621243491[52.9729804,30.5757503] n3621243500[52.9730370,30.5758989]
 w356712919
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243850[52.9812100,30.5981558] n3621243853[52.9812807,30.5980928] n3621243856[52.9813271,30.5982364] n3621243852[52.9812564,30.5982994] n3621243850[52.9812100,30.5981558]
 w356712920
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13826,7 +13826,7 @@ w356712923
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243550[52.9738812,30.5753095] n3621243554[52.9739328,30.5752614] n3621243556[52.9739805,30.5754025] n3621243553[52.9739289,30.5754507] n3621243550[52.9738812,30.5753095]
 w356712924
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243878[52.9826334,30.5989299] n3621243877[52.9826115,30.5988370] n3621243879[52.9826980,30.5987810] n3621243880[52.9827198,30.5988738] n3621243878[52.9826334,30.5989299]
 w356712925
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13838,7 +13838,7 @@ w356712927
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243560[52.9740482,30.5753219] n3621243558[52.9739975,30.5751733] n3621243559[52.9740414,30.5751319] n3621243562[52.9740921,30.5752805] n3621243560[52.9740482,30.5753219]
 w356712928
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243863[52.9816275,30.5979492] n3621243861[52.9815600,30.5977916] n3621243862[52.9816036,30.5977401] n3621243864[52.9816711,30.5978977] n3621243863[52.9816275,30.5979492]
 w356712929
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13847,7 +13847,7 @@ w356712930
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243522[52.9732386,30.5711907] n3621243517[52.9731695,30.5712673] n3621243512[52.9731217,30.5711484] n3621243520[52.9731909,30.5710718] n3621243522[52.9732386,30.5711907]
 w356712931
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243564[52.9741180,30.6038747] n3621243566[52.9741707,30.6040498] n3621243563[52.9741159,30.6040953] n3621243561[52.9740632,30.6039202] n3621243564[52.9741180,30.6038747]
 w356712932
   other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13856,13 +13856,13 @@ w356712933
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243583[52.9744628,30.5743684] n3621243580[52.9743972,30.5741975] n3621243584[52.9744643,30.5741264] n3621243586[52.9745299,30.5742973] n3621243583[52.9744628,30.5743684]
 w356712934
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243470[52.9727724,30.6049639] n3621243477[52.9728378,30.6050970] n3621243474[52.9727970,30.6051522] n3621243468[52.9727317,30.6050191] n3621243470[52.9727724,30.6049639]
 w356712935
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243815[52.9796418,30.5690041] n3621243813[52.9795992,30.5688819] n3621243814[52.9796344,30.5688480] n3621243816[52.9796770,30.5689701] n3621243815[52.9796418,30.5690041]
 w356712936
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243874[52.9821104,30.5993011] n3621243873[52.9820849,30.5992115] n3621243875[52.9821608,30.5991520] n3621243876[52.9821863,30.5992416] n3621243874[52.9821104,30.5993011]
 w356712937
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13886,7 +13886,7 @@ w356712943
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243576[52.9743509,30.5749132] n3621243574[52.9743151,30.5748067] n3621243578[52.9743723,30.5747538] n3621243581[52.9744081,30.5748603] n3621243576[52.9743509,30.5749132]
 w356712944
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243882[52.9831226,30.5985691] n3621243881[52.9831002,30.5984845] n3621243883[52.9831866,30.5984214] n3621243884[52.9832090,30.5985061] n3621243882[52.9831226,30.5985691]
 w356712945
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
@@ -13904,7 +13904,7 @@ w356712949
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
     geometry : n3621243600[52.9747864,30.5740167] n3621243599[52.9747417,30.5738532] n3621243601[52.9747884,30.5738180] n3621243604[52.9748331,30.5739814] n3621243600[52.9747864,30.5740167]
 w356712950
-  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | building=house
+  other tags : addr:city=Меркуловичи | addr:country=BY | addr:region=Гомельская область | addr:street=улица Советская | building=house
     geometry : n3621243610[52.9749920,30.6032950] n3621243613[52.9750385,30.6032504] n3621243615[52.9750773,30.6033618] n3621243612[52.9750308,30.6034064] n3621243610[52.9749920,30.6032950]
 w356712951
   other tags : addr:city=<fibwf | addr:country=BY | addr:region=Гомельская область | building=house
