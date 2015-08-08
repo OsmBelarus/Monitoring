@@ -4371,8 +4371,8 @@ n1484650947  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : shop=supermarket | wheelchair=no
     geometry : [53.8774214,27.6691593]
-n1484650948  null / null / Раздольный
-  other tags : opening_hours=09:00 - 23:00 | shop=supermarket
+n1484650948
+  other tags : shop=supermarket
     geometry : [53.8809821,27.6688042]
 n1487179499  null / null / Продукты
   other tags : addr:housenumber=30 | addr:postcode=220047 | addr:street=улица Герасименко | shop=convenience
@@ -10614,8 +10614,8 @@ n3285697950  null / null / Милорд
   other tags : shop=hairdresser
     geometry : [53.9156727,27.5720363]
 n3285715969  null / null / IDJ
-  other tags : addr:door=100Б | shop=musical_instrument | website=http://shop.idj.by
-    geometry : [53.9196707,27.5822915]
+  other tags : shop=musical_instrument
+    geometry : [53.9198856,27.5826424]
 n3285717154  null / null / Fizcult
   other tags : shop=sports
     geometry : [53.9197148,27.5830619]
@@ -11391,9 +11391,6 @@ n3626918375  null / null / Белбакалея
 n3627677015  null / null / Hilti
   other tags : opening_hours=Mo-Fr 09:00-18:00 | shop=yes
     geometry : [53.9466766,27.6654007]
-n3627837422  null / null / Златка
-  other tags : addr:city=Minsk | addr:housenumber=129 | addr:postcode=220113 | addr:street=Восточная улица | opening_hours=09:00 - 23:00 | shop=convenience
-    geometry : [53.9393490,27.5976403]
 n3627865936
   other tags : shop=hardware
     geometry : [53.8802606,27.6687601]

@@ -46,9 +46,6 @@ n1531938029  Хоўм Крэдыт Банк, ЦБП №206 / Choŭm Kredyt Bank,
 n1676764524  Банкамат БПС-Банк / Bankamat BPS-Bank / Банкомат БПС Банк / Банкомат БПС Банк
   other tags : amenity=bank
     geometry : [55.5283478,28.6713963]
-n1676766310  null / null / Альфа-Банк / Альфа-Банк
-  other tags : addr:city=Новополоцк | addr:housenumber=3 | addr:postcode=211440 | addr:street=улица Калинина | amenity=bank | atm=yes | opening_hours=ПН-ЧТ 09.00-13.00 13.45-16.30, ПТ 09.00-13.00 13.45-15.00, СБ,ВС Выходной | operator=Альфа-Банк
-    geometry : [55.5323843,28.6605469]
 n1686942949
   other tags : amenity=bank
     geometry : [55.5327037,28.6425867]
@@ -64,8 +61,8 @@ n2053291724  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n2420486601  Дэльта Банк / Deĺta Bank / Дельта Банк / Дельта Банк
   other tags : amenity=bank | atm=yes
     geometry : [55.5363563,28.6431302]
-n2467525462  null / null / БелВЭБ
-  other tags : addr:city=Новополоцк | addr:housenumber=169А | addr:postcode=211501 | addr:street=Молодёжная улица | amenity=bank | atm=yes | drive_through=no | opening_hours=пн.-пт.: 10.00 – 18.00 обед: 13.00 – 14.00 вых.: сб., вс. | operator=Банк БелВЭБ | phone=+375 214 55-08-25 | website=http://www.bveb.by/
+n2467525462
+  other tags : amenity=bank
     geometry : [55.5182077,28.6876466]
 w38076019  Беларусбанк, №214 / Bielarusbank, №214 / Беларусбанк, №214 / Беларусбанк, №214
   other tags : addr:housenumber=4 | addr:street=улица Дружбы | amenity=bank | atm=yes | building=yes | website=http://belarusbank.by/
