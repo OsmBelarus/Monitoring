@@ -2241,8 +2241,8 @@ n2886998269
 n2890840301  null / null / Бистро
   other tags : amenity=fast_food
     geometry : [53.9162235,27.5850101]
-n2902937942  null / null / Manga Wok
-  other tags : addr:housenumber=29 | addr:street=улица Мясникова | amenity=cafe | cuisine=asian | internet_access=yes | opening_hours=10:00-23:00 | smoking=no
+n2902937942  null / null / Пироговая
+  other tags : addr:housenumber=29 | addr:street=улица Мясникова | amenity=cafe | cuisine=coffee_shop | opening_hours=Mo-Su 07:30-23:00
     geometry : [53.8981597,27.5445929]
 n2902946275  null / null / Свои
   other tags : addr:housenumber=22 | addr:street=проспект Независимости | amenity=restaurant | cuisine=regional
@@ -2855,6 +2855,9 @@ n3647143987  null / null / Зерно
 n3647184707  null / null / Stolle
   other tags : addr:housenumber=23 | addr:street=Интернациональная улица | amenity=cafe | cuisine=pie | opening_hours=10.00-23.00
     geometry : [53.9038147,27.5586624]
+n3647234619  null / null / ПивЗалив
+  other tags : amenity=pub
+    geometry : [53.9191177,27.5745440]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
