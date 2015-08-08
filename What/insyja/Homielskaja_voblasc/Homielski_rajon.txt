@@ -881,15 +881,6 @@ n3483444839
 n3483444842
   other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
     geometry : [52.5061153,30.9481215]
-n3483444844
-  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
-    geometry : [52.5068697,30.9397655]
-n3483444846
-  other tags : class=junction | diameter=57 | height=2.16 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
-    geometry : [52.5069903,30.9397070]
-n3483444848
-  other tags : class=junction | diameter=57 | height=6.65 | number_ifs=no | number_kt=no | owner=gomelmejraygas | presencecap=yes | typeunplugging=cork
-    geometry : [52.5071360,30.9396377]
 n3483445067
   other tags : class=pit | owner=canalization
     geometry : [52.5619906,30.8803913]
@@ -4361,18 +4352,12 @@ w340388926
 w341122872
   other tags : class=gas link | length=13.20
     geometry : n3483444713[52.4950972,30.9603266] n3483444838[52.4951375,30.9601743]
-w341122873
-  other tags : class=gas pipeline | diameter=57 | length=6.90 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
-    geometry : n3483444846[52.5069903,30.9397070] n3483437460[52.5070096,30.9398005]
 w341122874
   other tags : class=gas pipeline | diameter=57 | length=25.25 | location=underground | material=steel | owner=gomelmejraygas | type=low pressure
     geometry : n3483444842[52.5061153,30.9481215] n3483444843[52.5062224,30.9484458]
 w341122876
   other tags : class=gas link | length=9.40
     geometry : n3483444836[52.4949318,30.9604389] n3483444837[52.4949618,30.9602811]
-w341122878
-  other tags : class=gas link | length=10.95
-    geometry : n328436[???] n3483444848[52.5071360,30.9396377]
 w346176723  null / null / ОАО "Гомельагрокомплект"
   other tags : addr:street=Линейная улица | building=commercial | building:levels=2
     geometry : n3527727193[52.5145378,30.9583007] n3527727194[52.5148095,30.9591529] n3527727195[52.5149775,30.9590089] n3527727196[52.5147014,30.9581567] n3527727193[52.5145378,30.9583007]
