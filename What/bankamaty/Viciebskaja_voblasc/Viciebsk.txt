@@ -376,11 +376,11 @@ n2949731817  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк /
 n2949731818  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1822990,30.2019397]
-n2965207264  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
+n2965207264  ATM БПС-Сбербанк / ATM BPS-Sbierbank / ATM БПС-Сбербанк / ATM БПС-Сбербанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
     geometry : [55.2037477,30.2689452]
-n2965207265  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm | opening_hours=24/7 | operator=ОАО «АСБ Беларусбанк» | website=http://belarusbank.by/
+n2965207265  ATM Беларусбанк / ATM Bielarusbank / ATM Беларусбанк / ATM Беларусбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=Беларусбанк | owner=ОАО «АСБ Беларусбанк» | website=http://belarusbank.by/
     geometry : [55.2034502,30.2690839]
 n2965911251  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
