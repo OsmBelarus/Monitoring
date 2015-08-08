@@ -199,7 +199,7 @@ n2301954873
   other tags : railway=crossing
     geometry : [53.5065383,26.8348078]
 n2410428863
-  other tags : man_made=tower
+  other tags : man_made=tower | tower:type=observation
     geometry : [53.6900651,26.8513807]
 n2442414337  null / null / Green House
   other tags : tourism=hostel
@@ -556,6 +556,9 @@ n3622947968  Кромлех / null / Кромлех / Кромлех
 n3622947969  Аб доме Ленскіх / null / О доме Ленских / О доме Ленских
   other tags : historic=stone
     geometry : [53.7432797,26.8772886]
+n3639980450
+  other tags : communication:mobile_phone=yes | man_made=tower | operator=VELCOM | operator:MNC=01 | tower:type=communication
+    geometry : [53.5538407,26.8811462]
 w25132915
   other tags : admin_level=8 | boundary=administrative
     geometry : n273825399[53.7983300,26.7936000] n273825404[53.7974700,26.7939400] n273825405[53.7963600,26.7986600] n273825410[53.7968700,26.8001200] n273825411[53.7976400,26.8001200] n273825412[53.7984100,26.8004600] n273825417[53.7996200,26.7948000] n273825399[53.7983300,26.7936000]
