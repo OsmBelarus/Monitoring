@@ -840,7 +840,7 @@ n765788370  null / null / Яблоко
     geometry : [53.9419686,27.5663945]
 n768510385  null / null / In&Out
   other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=fast_food
-    geometry : [53.9048307,27.5439471]
+    geometry : [53.9048192,27.5439667]
 n769108571
   other tags : amenity=pub
     geometry : [53.8533405,27.4353331]
@@ -2611,9 +2611,9 @@ n3272654852  null / null / Персия
 n3279228464  null / null / кафе-бар
   other tags : amenity=cafe
     geometry : [53.8763170,27.6305246]
-n3280385738  null / null / Мон Кафе;МонКафе
-  other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=пн.-чт. 11.00-24.00;пт., сб. 11.00-02.00;вс. 11.00-00.00 | phone=+ 375 29 623 99 57;+ 375 29 860 99 57 | smoking=isolated | website=http://www.moncafe.by/
-    geometry : [53.9058979,27.5428671]
+n3280385738  null / null / Мон Кафе
+  other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=Mo-Th 11:00-24:00, Fr-Sa 11:00-02:00, Su 11:00-00:00 | phone=+ 375 29 623 99 57;+ 375 29 860 99 57 | short_name=МонКафе | smoking=isolated | website=http://www.moncafe.by/
+    geometry : [53.9059514,27.5428579]
 n3280410268  null / null / Ресторан индийской кухни «Taj»
   other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant | cuisine=indian | opening_hours=12.00-24.00 | phone=+375447111110;+375173062961 | website=http://www.taj.by/
     geometry : [53.9048626,27.5440771]
