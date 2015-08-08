@@ -2782,7 +2782,7 @@ w227024273
   other tags : hgv=designated | highway=primary | lanes=3 | maxspeed=90 | ref=Р51 | surface=asphalt
     geometry : n2357544282[53.6132586,24.6937631] n2434574931[53.6118310,24.6944255] n2357544281[53.6112422,24.6948108] n3089117420[53.6106405,24.6953381] n275448594[53.6096937,24.6963350]
 w227024274
-  other tags : highway=trunk_link | lanes=1 | surface=asphalt
+  other tags : highway=trunk_link | lanes=1 | oneway=yes | surface=asphalt
     geometry : n2357544288[53.6167237,24.6955748] n2357544287[53.6168514,24.6950654] n2357544289[53.6170762,24.6945569]
 w227024275
   other tags : highway=primary | lanes=2 | maxspeed=40 | ref=Р51 | surface=asphalt
@@ -5543,7 +5543,7 @@ w296951978
   other tags : highway=primary_link | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n2560399989[53.6264176,24.7267834] n2718099214[53.6262507,24.7266293] n2718099213[53.6260792,24.7266052] n2718099208[53.6259442,24.7266699] n2718099205[53.6258259,24.7268071] n2718099201[53.6257273,24.7270490] n2560401096[53.6256927,24.7273588]
 w296951979
-  other tags : hgv=designated | highway=trunk_link | lanes=1 | surface=asphalt
+  other tags : hgv=designated | highway=trunk_link | lanes=1 | oneway=yes | surface=asphalt
     geometry : n2435878148[53.6148216,24.6894688] n2435878152[53.6149227,24.6901919] n2435878151[53.6149086,24.6905311] n2435878150[53.6148551,24.6907987] n2435878146[53.6147278,24.6910053] n2435878144[53.6143461,24.6915217] n2434574933[53.6137114,24.6921514] n2357544282[53.6132586,24.6937631]
 w296989044
   other tags : highway=trunk | lanes=2 | maxspeed=100 | maxspeed:hgv=80 | oneway=yes | ref=М6 | surface=asphalt | toll=yes | toll:hgv=yes
