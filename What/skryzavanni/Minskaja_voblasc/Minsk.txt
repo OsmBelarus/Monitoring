@@ -4841,7 +4841,7 @@ n1336582764
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8887368,27.5455616]
 n1336828841
-  other tags : crossing=traffic_signals | highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
     geometry : [53.9210604,27.6267154]
 n1345256241
   other tags : highway=crossing
@@ -7904,7 +7904,7 @@ n2353392678
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8594912,27.6084767]
 n2353407305
-  other tags : crossing=traffic_signals | highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
     geometry : [53.9211169,27.6268697]
 n2356055875
   other tags : crossing=uncontrolled | highway=crossing
@@ -8051,7 +8051,7 @@ n2405689908
   other tags : highway=crossing
     geometry : [53.9018117,27.6630156]
 n2405691101
-  other tags : crossing=traffic_signals | highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
     geometry : [53.9210378,27.6269374]
 n2405718332
   other tags : highway=crossing
@@ -9674,7 +9674,7 @@ n3459144425
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9256823,27.6072163]
 n3459145578
-  other tags : crossing=traffic_signals | highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
     geometry : [53.9210214,27.6267954]
 n3459148318
   other tags : crossing=uncontrolled | highway=crossing
