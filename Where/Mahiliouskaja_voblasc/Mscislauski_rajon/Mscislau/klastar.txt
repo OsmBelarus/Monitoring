@@ -1,4 +1,10 @@
-n306068359  null / null / Собор во имя Св. Благоверного Кн. Александра Невского / Собор во имя Св. Благоверного Кн. Александра Невского
-  other names: name:en=St. Alexander Nevsky Church
-  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [54.0203483,31.7286159]
+w208376905  null / null / Собор во имя Св. Благоверного Кн. Александра Невского 1870г / Собор во имя Св. Благоверного Кн. Александра Невского 1870г
+  other names: name:en=St. Alexander Nevsky Church 1870
+  other tags : addr:housenumber=30 | addr:street=улица Ленина | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=tourism-attraction
+    geometry : n2186779595[54.0202663,31.7288813] n2186779593[54.0202245,31.7288085] n2186779592[54.0201527,31.7286834] n2186779594[54.0202280,31.7285581] n2186779596[54.0202799,31.7286484] n2186779599[54.0203618,31.7285120] n2186779601[54.0204287,31.7286283] n2186779598[54.0203582,31.7287455] n2186779600[54.0204050,31.7288269] n2186779597[54.0203181,31.7289715] n2186779595[54.0202663,31.7288813]
+w211406150  null / null / Костел Вознесения Девы Марии 1637г
+  other tags : addr:housenumber=4 | addr:street=улица Кирова | amenity=place_of_worship | building=yes | denomination=roman_catholic | religion=christian | tourism=attraction
+    geometry : n2214129329[54.0240013,31.7268990] n2214129328[54.0240007,31.7266251] n2214129316[54.0237881,31.7266265] n2752148370[54.0237889,31.7269878] n2752148373[54.0238416,31.7269875] n2214129317[54.0238418,31.7271012] n2214129338[54.0241305,31.7270993] n2214129337[54.0241300,31.7268982] n2214129329[54.0240013,31.7268990]
+w211427609  null / null / церковь Тупичевской иконы Богоматери 1871г
+  other tags : addr:street=улица Ленина | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
+    geometry : n2214431017[54.0167514,31.7344084] n2214431013[54.0166129,31.7346255] n2214431016[54.0167064,31.7347982] n2214431018[54.0168449,31.7345811] n2214431017[54.0167514,31.7344084]
