@@ -6245,7 +6245,7 @@ n2542023195  null / null / Студия маникюра "Мерилин Мон�
     geometry : [53.8400939,27.5731119]
 n2542034751  null / null / Ziko
   other tags : opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375-17-327-43-56 | shop=jewelry | website=http://www.ziko.by/
-    geometry : [53.8962279,27.5535848]
+    geometry : [53.8962379,27.5535752]
 n2542043137  null / null / Ziko
   other tags : addr:housenumber=1 | addr:street=улица Кирова | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | phone=+375-17-225-59-20 | shop=jewelry | website=http://www.ziko.by/
     geometry : [53.8920259,27.5503334]
@@ -7113,9 +7113,9 @@ n2620799690
 n2620799691
   other tags : shop=yes
     geometry : [53.8949300,27.5577927]
-n2620799692
-  other tags : shop=yes
-    geometry : [53.8965186,27.5534749]
+n2620799692  null / null / Salomon
+  other tags : shop=sports
+    geometry : [53.8963466,27.5531035]
 n2620799693
   other tags : shop=yes
     geometry : [53.8981972,27.5523650]
@@ -8850,9 +8850,9 @@ n3203312058
 n3203312059  null / null / Fielmann
   other tags : shop=optician
     geometry : [53.8980522,27.5571393]
-n3203320310
-  other tags : shop=yes
-    geometry : [53.8962085,27.5534734]
+n3203320310  null / null / Лэскаль
+  other tags : opening_hours=Mo-Fr 10:00-20:00, Sa 12:00-20:00, Su 12:00-18:00 | shop=beauty
+    geometry : [53.8962943,27.5537001]
 n3203320768
   other tags : shop=clothes
     geometry : [53.9018688,27.5534601]
@@ -11421,3 +11421,33 @@ n3635415772
 n3635441649  null / null / Евроопт
   other tags : opening_hours=9:00-22:00 | shop=supermarket
     geometry : [53.9161299,27.4582312]
+n3639322674
+  other tags : shop=jewelry
+    geometry : [53.8969917,27.5552466]
+n3639322675
+  other tags : shop=jewelry
+    geometry : [53.8969677,27.5551788]
+n3639322677  null / null / Магия золота
+  other tags : shop=jewelry
+    geometry : [53.8974671,27.5562117]
+n3639322678
+  other tags : shop=optician
+    geometry : [53.8975505,27.5564023]
+n3639322679  null / null / Галерея вкуса
+  other tags : shop=deli
+    geometry : [53.8980077,27.5562179]
+n3639322681  null / null / Белкнига
+  other tags : shop=books
+    geometry : [53.8983386,27.5551929]
+n3639322682
+  other tags : shop=optician
+    geometry : [53.8982969,27.5551168]
+n3639322683  null / null / Оранжевый верблюд
+  other tags : shop=clothes
+    geometry : [53.8982082,27.5549469]
+n3639322684  null / null / Авиакасса
+  other tags : shop=ticket
+    geometry : [53.8981425,27.5548177]
+n3639322685
+  other tags : shop=hairdresser
+    geometry : [53.8977745,27.5541895]

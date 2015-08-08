@@ -343,7 +343,7 @@ n305681759  null / null / Планета Суши
     geometry : [53.8989716,27.5564718]
 n305681765  null / null / Грюнвальд / Грюнвальд
   other tags : amenity=restaurant
-    geometry : [53.8967920,27.5548432]
+    geometry : [53.8967640,27.5547504]
 n305681769  null / null / Гудвин / Гудвин
   other tags : amenity=restaurant
     geometry : [53.8998490,27.5569343]
@@ -379,7 +379,7 @@ n305682203  Шынак у Лявона / null / Шинок у Лявона / Ш�
     geometry : [53.9198689,27.5724528]
 n305682729  null / null / Пицца Темпо / Пицца Темпо
   other tags : amenity=cafe | cuisine=pizza | opening_hours=08:00-23:00
-    geometry : [53.8963013,27.5537787]
+    geometry : [53.8963576,27.5538308]
 n305682733  null / null / Планета Pizza
   other tags : addr:housenumber=10 | addr:street=улица Карла Маркса | amenity=cafe | cuisine=cafe/diner
     geometry : [53.8964918,27.5555590]
@@ -395,9 +395,9 @@ n305682742  Піцэрыя / null / Пиццерия / Пиццерия
 n305682745  null / null / Мистраль / Мистраль
   other tags : amenity=cafe | cuisine=cafe/diner | wifi=yes
     geometry : [53.8956844,27.5535214]
-n305682813  Стары Менск / null / Стары Менск / Стары Менск
-  other tags : amenity=cafe | cuisine=cafe/diner
-    geometry : [53.8977000,27.5542300]
+n305682813  null / null / Brew Bar Minsk
+  other tags : amenity=cafe | cuisine=cafe/diner | website=http://brewbar.by/
+    geometry : [53.8977150,27.5541099]
 n305682833  null / null / Бомонд / Бомонд
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9007751,27.5615689]
@@ -975,8 +975,8 @@ n963714057  null / null / Jack club
 n964926671  null / null / Pick up Cafe
   other tags : amenity=cafe | internet_access=wlan
     geometry : [53.8904529,27.4207920]
-n965860508  null / null / Oliva
-  other tags : amenity=cafe
+n965860508  null / null / Olivo
+  other tags : amenity=cafe | opening_hours=Mo-Th 10:00-23:00, Fr 10:00-01:00, Sa 12:00-01:00, Su 12:00-23:00
     geometry : [53.8968313,27.5525333]
 n970992486  null / null / Cтоловая
   other tags : amenity=cafe | operator=СВЕТОПРИБОР ОО БЕЛТИЗ | phone=+375172578570
@@ -1275,7 +1275,7 @@ n1529683143  Сталовая / null / Столовая / Столовая
     geometry : [53.9079609,27.5307646]
 n1537322954  Васiлькi / null / Васильки / Васильки
   other tags : amenity=cafe
-    geometry : [53.8984469,27.5554535]
+    geometry : [53.8984991,27.5555203]
 n1539716510  null / Kalyannaya Number One / Кальянная №1
   other tags : addr:housenumber=33 | addr:postcode=220000 | addr:street=улица Карла Маркса | amenity=cafe | contact:email=art@kalyan.by | contact:phone=+375 25 990 9000 | opening_hours=Su-Th 12:00-02:00; Fr-Sa 12:00-04:00 | website=http://www.kalyan.by/ | wifi=yes
     geometry : [53.8992199,27.5599360]
@@ -1371,7 +1371,7 @@ n1715460516
     geometry : [53.8752667,27.6294450]
 n1736683376  null / null / Перчик
   other tags : amenity=cafe | opening_hours=Mo-Su 10:00-12:00
-    geometry : [53.8972079,27.5556888]
+    geometry : [53.8972256,27.5557154]
 n1736684215  Фэрзь / null / Ферзь / Ферзь
   other tags : amenity=cafe
     geometry : [53.9046830,27.5579595]
@@ -1713,7 +1713,7 @@ n2174317950  null / null / Stolovaya
     geometry : [53.8705148,27.6603664]
 n2179809938  null / null / Госцi
   other tags : amenity=pub
-    geometry : [53.9036401,27.5635975]
+    geometry : [53.9037875,27.5638781]
 n2183660009  Мая даражэнькая / null / Моя дорогая
   other tags : addr:housenumber=13 | addr:street=Комсомольская улица | amenity=cafe | wifi=no
     geometry : [53.9022140,27.5528037]
@@ -1762,9 +1762,6 @@ n2339796742  null / null / Лидо
 n2340242773  null / null / Макси Бис
   other tags : amenity=cafe
     geometry : [53.9057765,27.4341711]
-n2343293923  null / null / Трактир на Макрса
-  other tags : amenity=restaurant
-    geometry : [53.8969748,27.5551990]
 n2343293924  null / null / У Янки
   other tags : amenity=restaurant | opening_hours=Mo-Su 11:00-23:00
     geometry : [53.8973721,27.5559855]
@@ -2222,7 +2219,7 @@ n2831885553  null / null / Столовая Кол ОАО МПОВТ / Стол�
     geometry : [53.9217150,27.5802815]
 n2831897803  null / null / Столовая / Столовая
   other tags : amenity=fast_food | fast_food=cafeteria | operator=УП Минский Комаровский Рынок
-    geometry : [53.9197599,27.5772913]
+    geometry : [53.9192203,27.5774960]
 n2831904633  Сталовая ПУП Канаш / null / Столовая ЧУП Канаш / Столовая ЧУП Канаш
   other tags : amenity=fast_food | fast_food=cafeteria
     geometry : [53.9228994,27.6715123]
@@ -2441,8 +2438,8 @@ n3166564988  null / null / Spoon
   other tags : addr:housenumber=10А | addr:street=улица Бирюзова | amenity=cafe | internet_access=wlan
     geometry : [53.9129681,27.5137115]
 n3166691971  null / null / Мануфактура
-  other tags : amenity=cafe
-    geometry : [53.8968394,27.5539746]
+  other tags : addr:housenumber=17 | addr:street=улица Карла Маркса | amenity=cafe | opening_hours=Mo-Su 09:00-23:00
+    geometry : [53.8966092,27.5540046]
 n3184974919  null / null / Пицца Темпо
   other tags : addr:housenumber=5 | addr:street=улица Петра Глебки | amenity=cafe | cuisine=pizza
     geometry : [53.9084104,27.4699131]
@@ -2531,8 +2528,8 @@ n3235921361  null / null / Столовая
   other tags : amenity=fast_food
     geometry : [53.8065780,27.5823990]
 n3253814200  null / null / Guru
-  other tags : amenity=cafe
-    geometry : [53.8967726,27.5541841]
+  other tags : amenity=cafe | opening_hours=09:00-23:00
+    geometry : [53.8968123,27.5542450]
 n3256934794  null / null / Olivo cafe
   other tags : amenity=cafe
     geometry : [53.8958334,27.5513451]
@@ -2605,15 +2602,12 @@ n3270432662  null / null / Собрание
 n3270433157  null / null / Лобби-бар
   other tags : amenity=restaurant | cuisine=regional
     geometry : [53.8969522,27.5511058]
-n3270461479  null / null / Мануфактура
-  other tags : amenity=restaurant | cuisine=regional | opening_hours=Mo-Su 09:00-23:00
-    geometry : [53.8964337,27.5540427]
 n3270473261  null / null / SHEFF (ШЕФ)
   other tags : addr:housenumber=9 | addr:street=Московская улица | amenity=restaurant | opening_hours=11 00 - 23 00
     geometry : [53.8883810,27.5392551]
 n3270484293  null / null / Milano
-  other tags : amenity=restaurant | cuisine=regional | opening_hours=Mo-Su 08:00-12:00
-    geometry : [53.8962689,27.5532228]
+  other tags : amenity=cafe | cuisine=regional | opening_hours=Mo-Fr 08:00-00:00, Sa-Su 09:00-00:00
+    geometry : [53.8961629,27.5534047]
 n3272654852  null / null / Персия
   other tags : addr:housenumber=4 | addr:street=Аэродромная улица | amenity=cafe
     geometry : [53.8724695,27.5423694]
@@ -2840,6 +2834,12 @@ n3635415769  null / null / Сакура
 n3635415770  null / null / Тайм-аут
   other tags : amenity=cafe | opening_hours=11:00-23:00
     geometry : [53.9313894,27.5081688]
+n3639322668  null / null / Simply
+  other tags : amenity=cafe | shop=convenience
+    geometry : [53.8965493,27.5542993]
+n3639322676  null / null / Вкофейне
+  other tags : amenity=cafe
+    geometry : [53.8972112,27.5556829]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
