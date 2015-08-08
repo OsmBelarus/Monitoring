@@ -1,11 +1,11 @@
-n1171801610
-  other tags : highway=bus_stop
+n1171801610  null / null / Аптека
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [55.4698665,28.7628883]
 n1171804081
   other tags : highway=bus_stop
     geometry : [55.4719006,28.7639849]
-n1171848810
-  other tags : highway=bus_stop
+n1171848810  null / null / Мариненко
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=no
     geometry : [55.4703087,28.7562916]
 n1171848833  null / null / Школа №4
   other tags : highway=bus_stop
@@ -59,8 +59,8 @@ n2511177823
   other tags : highway=bus_stop
     geometry : [55.4945009,28.7683279]
 n2752448001  null / null / Мариненко (конечная)
-  other tags : highway=bus_stop | shelter=no
-    geometry : [55.4702423,28.7554997]
+  other tags : bench=no | covered=no | highway=bus_stop | shelter=no
+    geometry : [55.4702736,28.7556265]
 n3065734721  null / null / Больница
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.4768849,28.7432111]
@@ -106,3 +106,6 @@ n3102224050
 n3510279198
   other tags : highway=bus_stop
     geometry : [55.4723864,28.7517338]
+n3647804250  null / null / Аптека
+  other tags : bench=no | covered=no | highway=bus_stop | shelter=no
+    geometry : [55.4700477,28.7623752]
