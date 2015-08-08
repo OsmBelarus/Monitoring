@@ -2979,7 +2979,7 @@ n974389359
     geometry : [53.9473258,27.7122747]
 n974590771  ЭканомМаг / null / Евроопт
   other tags : shop=supermarket
-    geometry : [53.9116675,27.5135889]
+    geometry : [53.9116793,27.5136766]
 n977720993  null / null / Шате-М плюс
   other tags : shop=car_parts
     geometry : [53.9235339,27.6093280]
@@ -3088,8 +3088,8 @@ n1063820831
 n1064214555  null / null / Людмилица
   other tags : shop=convenience
     geometry : [53.8975744,27.4900245]
-n1064219060  null / null / Мясной магазин
-  other tags : addr:housenumber=62 | addr:street=улица Янки Мавра | operator=Мясная Гаспадарка | shop=butcher
+n1064219060  null / null / Мясная Гаспадарка
+  other tags : addr:housenumber=62 | addr:street=улица Янки Мавра | shop=butcher
     geometry : [53.8970863,27.4903725]
 n1065108940  null / null / СТО "СитиАвтоСервис"
   other tags : shop=car_repair
@@ -6477,7 +6477,7 @@ n2575755844  null / null / Мистерия звука
 n2575755845  null / null / Bizarre Shop
   other tags : shop=clothes
     geometry : [53.9291028,27.5875266]
-n2577128267  null / null / Мясной магазин
+n2577128267
   other tags : shop=butcher
     geometry : [53.8991053,27.4897638]
 n2578082722  null / null / Минимаркет
@@ -7612,6 +7612,9 @@ n2629175241  null / null / Ломбард Ордан
 n2629176580  null / null / Туристическая компания "Время путешествий"
   other tags : phone=+375 (17) 224-79-24 | shop=travel_agency | website=http://www.t2t.by/
     geometry : [53.8869282,27.5365544]
+n2629177293
+  other tags : shop=tailor
+    geometry : [53.8995710,27.4907875]
 n2629180950  null / null / Бронзовое солнце: солярий, студия загара
   other tags : opening_hours=Mo-Fr 9:00-21:00; Sa 9:00-19:00; Su off | phone=+375 17 216-27-88 | shop=beauty
     geometry : [53.8867480,27.5364551]
@@ -11403,3 +11406,15 @@ n3629393268  null / null / Тропинка
 n3632581994
   other tags : shop=ticket
     geometry : [53.9036061,27.4967394]
+n3633546014
+  other tags : shop=kiosk
+    geometry : [53.8870596,27.5385769]
+n3633546015
+  other tags : shop=ticket
+    geometry : [53.8871504,27.5386169]
+n3633546016
+  other tags : shop=ticket
+    geometry : [53.8866902,27.5375145]
+n3633546017
+  other tags : shop=kiosk
+    geometry : [53.8867674,27.5375130]
