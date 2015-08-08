@@ -208,8 +208,8 @@ n280817908  Шчотаука / null / Щетовка
 n280818947  null / null / Невель / Невель
   other tags : shop=supermarket
     geometry : [53.8520193,27.5974726]
-n280819915
-  other tags : shop=convenience
+n280819915  null / null / Минский хладокомбинат № 2
+  other tags : opening_hours=09:00-21:00 | shop=convenience
     geometry : [53.8581956,27.6035236]
 n281076893  null / null / Семела
   other tags : opening_hours=Mo-Sa 08:00-21:00; Su 09:00-21:00 | shop=convenience
@@ -1895,7 +1895,7 @@ n306065234  null / null / Евровина / Евровина
   other tags : shop=general
     geometry : [53.9119300,27.5984500]
 n306065308  null / null / Рублевский №9 / Рублевский №9
-  other tags : shop=supermarket
+  other tags : opening_hours=08:00-23:00 | shop=supermarket
     geometry : [53.8613602,27.6037437]
 n306065337  null / null / Рублевский №12 / Рублевский №12
   other tags : shop=convenience
@@ -4611,9 +4611,6 @@ n1575436098  null / null / СТО "VOLVO TRUCK"
 n1575521661  null / null / Маладосць
   other tags : addr:housenumber=68 | addr:postcode=220100 | addr:street=улица Максима Богдановича | opening_hours=10:00-19:00 | phone=+375 17 334 94 93 | shop=books | website=http://www.maladost.belkniga.by/
     geometry : [53.9234319,27.5703471]
-n1578533972
-  other tags : shop=convenience
-    geometry : [53.8974177,27.5696048]
 n1578607026
   other tags : shop=paint
     geometry : [53.9161107,27.6842539]
@@ -11457,3 +11454,6 @@ n3642681121  null / null / Suit Supply
 n3642685108  null / null / Бордо
   other tags : addr:housenumber=31 | addr:street=Комсомольская улица | shop=wine
     geometry : [53.8974973,27.5576887]
+n3645191934
+  other tags : opening_hours=08:00-21:00 | shop=convenience
+    geometry : [53.8976071,27.5705657]
