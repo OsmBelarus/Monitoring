@@ -2088,8 +2088,8 @@ n445399430  Оптыка / null / Оптика / Оптика
 n445452298  null / null / Дружок / Дружок
   other tags : shop=pet
     geometry : [53.9105715,27.5641755]
-n445472393  null / null / Kravt / Л'эскаль Кравт
-  other tags : shop=health_and_beauty
+n445472393  null / null / Л'эскаль
+  other tags : addr:housenumber=10 | addr:street=улица Куйбышева | opening_hours=Mo-Fr 10:00-22:00, Sa 12:00-20:00, Su 12:00-18:00 | phone=+375 17 2906418 | shop=cosmetics
     geometry : [53.9116898,27.5663342]
 n446031827  null / null / Fielmann / Фельманн
   other tags : shop=optician
@@ -11466,3 +11466,9 @@ n3645832333  null / null / Минимаркет
 n3646702816  null / null / Продуктовый магазин
   other tags : shop=convenience
     geometry : [53.9345300,27.6119163]
+n3647154200  null / null / Chop-Chop
+  other tags : addr:housenumber=38 | addr:street=проспект Независимости | opening_hours=Mo-Su 10:00-22:00 | shop=hairdresser | website=http://belarus.chopchop.me/city/minsk/
+    geometry : [53.9078098,27.5753653]
+n3647164286  null / null / Pichugin
+  other tags : addr:housenumber=31 | addr:street=улица Куйбышева | opening_hours=Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 10:00-17:00 | phone=+375 29 1396991 | shop=beauty
+    geometry : [53.9130948,27.5675743]
