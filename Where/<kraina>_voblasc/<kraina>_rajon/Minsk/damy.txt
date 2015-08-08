@@ -1085,17 +1085,26 @@ w25430959
   other tags : addr:housenumber=1 | addr:postcode=220005 | addr:street=бульвар Мулявина | building=apartments | building:levels=5 | building:type=house | roof:shape=hipped
     geometry : n277150246[53.9153733,27.5843385] n277150247[53.9154325,27.5844275] n277150248[53.9154518,27.5844609] n1840631754[53.9154271,27.5845070] n277150249[53.9151381,27.5850454] n277150251[53.9150589,27.5849228] n1840631753[53.9153441,27.5843915] n277150246[53.9153733,27.5843385]
 w25430984
-  other tags : addr:housenumber=17 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:flats=6 | building:levels=2 | roof:shape=hipped
+  other tags : addr:housenumber=17 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:flats=6 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | roof:shape=hipped
     geometry : n277150473[53.9094230,27.5870266] n3576490634[53.9095319,27.5871369] n277150495[53.9094460,27.5873696] n277150499[53.9093390,27.5872576] n3629923451[53.9093814,27.5871410] n277150473[53.9094230,27.5870266]
 w25430988
-  other tags : addr:housenumber=19 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:levels=2 | roof:shape=hipped
+  other tags : addr:housenumber=19 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:flats=5 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | roof:shape=hipped
     geometry : n277150518[53.9092805,27.5874607] n277150520[53.9093782,27.5875684] n277150521[53.9092871,27.5878067] n277150522[53.9091894,27.5876990] n3629923450[53.9092348,27.5875803] n277150518[53.9092805,27.5874607]
+w25430989
+  other tags : addr:housenumber=4 | addr:postcode=220005 | addr:street=Горный переулок | building=apartments | roof:shape=hipped
+    geometry : n277150524[53.9096350,27.5873418] n277150525[53.9097549,27.5875519] n277150526[53.9096690,27.5876931] n277150528[53.9095491,27.5874830] n277150524[53.9096350,27.5873418]
 w25430990
-  other tags : addr:housenumber=21 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:levels=2 | roof:shape=hipped
+  other tags : addr:housenumber=21 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:flats=5 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | renovation_date=1981 | roof:shape=hipped | start_date=1948
     geometry : n277150529[53.9091293,27.5879092] n277150531[53.9092314,27.5880144] n277150532[53.9091437,27.5882596] n277150533[53.9090416,27.5881545] n3629923449[53.9090848,27.5880336] n277150529[53.9091293,27.5879092]
 w25430991
   other tags : addr:housenumber=11 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:area=475 | building:flats=8 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | roof:shape=hipped
     geometry : n277150535[53.9100304,27.5851896] n277150536[53.9101452,27.5853099] n3629923452[53.9100939,27.5854509] n277150537[53.9100454,27.5855844] n277150539[53.9099306,27.5854641] n277150535[53.9100304,27.5851896]
+w25430992
+  other tags : addr:housenumber=1 | addr:postcode=220005 | addr:street=Горный переулок | building=apartments | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | roof:shape=hipped
+    geometry : n277150540[53.9097272,27.5867336] n3643276642[53.9097908,27.5868564] n277150542[53.9098571,27.5869844] n277150543[53.9097542,27.5871381] n277150544[53.9096242,27.5868873] n277150540[53.9097272,27.5867336]
+w25430993
+  other tags : addr:housenumber=15 | addr:postcode=220005 | addr:street=Краснозвёздная улица | building=apartments | building:flats=8 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | roof:shape=hipped | start_date=1950
+    geometry : n277150546[53.9097095,27.5861340] n277150547[53.9098280,27.5862466] n3643276641[53.9097818,27.5863868] n277150548[53.9097286,27.5865481] n277150550[53.9096101,27.5864355] n277150546[53.9097095,27.5861340]
 w25430994
   other tags : addr:housenumber=12 | addr:postcode=220005 | addr:street=улица Смолячкова | building=apartments | building:flats=8 | building:levels=2 | operator:be=ЖЭС №5 | operator:ru=ЖЭС №5 | renovation_date=1971 | roof:shape=hipped | start_date=1950
     geometry : n277150551[53.9103502,27.5851602] n277150553[53.9104561,27.5854564] n277150554[53.9103348,27.5855814] n3629923455[53.9102841,27.5854397] n277150555[53.9102289,27.5852852] n277150551[53.9103502,27.5851602]
@@ -1103,14 +1112,38 @@ w25430998
   other tags : addr:housenumber=10 | addr:postcode=220005 | addr:street=бульвар Мулявина | building=apartments
     geometry : n277150573[53.9129794,27.5844325] n277150574[53.9130675,27.5845687] n277150575[53.9128614,27.5849530] n277150577[53.9127733,27.5848168] n277150573[53.9129794,27.5844325]
 w25430999
-  other tags : addr:housenumber=10 | addr:postcode=220088 | addr:street=улица Смолячкова | building=apartments | roof:shape=hipped
+  other tags : addr:housenumber=10 | addr:postcode=220088 | addr:street=улица Смолячкова | building=apartments | building:levels=5 | roof:shape=hipped
     geometry : n277150578[53.9098256,27.5841391] n277150579[53.9100662,27.5844963] n277150581[53.9099894,27.5846455] n277150582[53.9097487,27.5842884] n277150578[53.9098256,27.5841391]
+w25431001
+  other tags : addr:housenumber=14 | addr:postcode=220005 | addr:street=улица Смолячкова | building=apartments | building:flats=12 | building:levels=2 | roof:shape=hipped
+    geometry : n277150594[53.9105095,27.5856132] n277150596[53.9106756,27.5860649] n277150597[53.9105521,27.5861958] n3643276652[53.9105258,27.5861243] n277150598[53.9105020,27.5860596] n277150599[53.9105144,27.5860464] n277150601[53.9104483,27.5858665] n277150602[53.9104377,27.5858777] n3643276651[53.9104148,27.5858153] n277150603[53.9103879,27.5857421] n3629923470[53.9104770,27.5856476] n277150594[53.9105095,27.5856132]
+w25431005
+  other tags : addr:housenumber=6 | addr:postcode=220005 | addr:street=Горный переулок | building=apartments
+    geometry : n277150638[53.9099631,27.5879306] n277150640[53.9097877,27.5886548] n277150641[53.9096806,27.5885800] n277150642[53.9098560,27.5878558] n277150638[53.9099631,27.5879306]
+w25431007
+  other tags : addr:housenumber=24 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments | building:levels=11
+    geometry : n277150649[53.9109450,27.5908480] n277150651[53.9113610,27.5912070] n277150652[53.9113080,27.5913790] n277150653[53.9108920,27.5910260] n277150649[53.9109450,27.5908480]
+w25431008
+  other tags : addr:housenumber=17 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments | building:levels=11
+    geometry : n277150655[53.9117620,27.5898990] n277150656[53.9120940,27.5904350] n277150657[53.9120290,27.5905530] n277150659[53.9120780,27.5906180] n277150660[53.9120400,27.5906920] n277150661[53.9120020,27.5906330] n277150662[53.9120290,27.5905850] n277150664[53.9116820,27.5900440] n277150655[53.9117620,27.5898990]
 w25431011
   other tags : addr:housenumber=10 | addr:postcode=220005 | addr:street=улица Золотая Горка | building=apartments
     geometry : n277150681[53.9119680,27.5849200] n277150683[53.9124100,27.5856010] n277150684[53.9123420,27.5857310] n277150685[53.9118950,27.5850540] n277150681[53.9119680,27.5849200]
 w25431013
   other tags : addr:housenumber=8 | addr:postcode=220005 | addr:street=улица Золотая Горка | building=apartments
     geometry : n277150692[53.9114277,27.5840598] n277150693[53.9118685,27.5847352] n277150695[53.9117976,27.5848686] n277150696[53.9113568,27.5841932] n277150692[53.9114277,27.5840598]
+w25431014
+  other tags : addr:housenumber=13 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments
+    geometry : n277150698[53.9108400,27.5898924] n277150699[53.9108174,27.5900588] n277150700[53.9101921,27.5898138] n277150701[53.9102147,27.5896475] n277150698[53.9108400,27.5898924]
+w25431015
+  other tags : addr:housenumber=11 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments
+    geometry : n277150703[53.9102481,27.5893184] n277150704[53.9102246,27.5894896] n277150706[53.9095967,27.5892410] n277150707[53.9096202,27.5890698] n277150703[53.9102481,27.5893184]
+w25431016
+  other tags : addr:housenumber=15 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments
+    geometry : n277150709[53.9114830,27.5891910] n277150710[53.9115600,27.5893190] n277150711[53.9111170,27.5901180] n277150712[53.9110450,27.5899960] n277150709[53.9114830,27.5891910]
+w25431017
+  other tags : addr:housenumber=9 | addr:postcode=220005 | addr:street=Берестянская улица | building=apartments | building:levels=5 | building:levels:underground=1
+    geometry : n277150714[53.9096533,27.5887407] n277150715[53.9096298,27.5889093] n277150716[53.9090001,27.5886569] n277150718[53.9090236,27.5884883] n277150714[53.9096533,27.5887407]
 w25431018
   other tags : addr:housenumber=13 | addr:postcode=220005 | addr:street=улица Золотая Горка | building=apartments | roof:shape=hipped
     geometry : n277150720[53.9120279,27.5841984] n277150721[53.9124743,27.5848879] n277150722[53.9123981,27.5850301] n277150723[53.9119517,27.5843406] n277150720[53.9120279,27.5841984]
@@ -1135,6 +1168,9 @@ w25431024
 w25431025
   other tags : addr:housenumber=12 | addr:postcode=220005 | addr:street=улица Золотая Горка | building=apartments
     geometry : n277150767[53.9124156,27.5859492] n277150768[53.9128996,27.5866992] n277150770[53.9128236,27.5868342] n277150771[53.9123356,27.5860822] n277150767[53.9124156,27.5859492]
+w25431026
+  other tags : addr:housenumber=7 | addr:postcode=220005 | addr:street=Горный переулок | building=apartments
+    geometry : n277150773[53.9110450,27.5880580] n277150774[53.9111170,27.5881930] n277150775[53.9106520,27.5889600] n277150776[53.9105720,27.5888150] n277150773[53.9110450,27.5880580]
 w25431032
   other tags : addr:housenumber=3 | addr:postcode=220088 | addr:street=улица Михайлова | building=apartments
     geometry : n277150820[53.9088413,27.5842426] n277150821[53.9089423,27.5843762] n277150822[53.9089264,27.5844107] n277150823[53.9091518,27.5847089] n277150825[53.9091698,27.5846697] n277150826[53.9092686,27.5848004] n277150827[53.9091715,27.5850119] n277150828[53.9087464,27.5844495] n277150820[53.9088413,27.5842426]
