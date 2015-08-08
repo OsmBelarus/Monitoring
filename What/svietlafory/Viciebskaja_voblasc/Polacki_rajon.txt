@@ -1,7 +1,7 @@
 n502703231  Залессе / null / Залесье / Залесье
   other names: name:uk=Залісся
-  other tags : highway=bus_stop
-    geometry : [55.5957790,28.5133568]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.5958685,28.5134122]
 n833746812
   other tags : highway=bus_stop
     geometry : [55.5752950,28.5380316]
@@ -25,8 +25,8 @@ n1937147203  null / null / Могилки
     geometry : [55.5764509,28.5886295]
 n2213082957  Залессе / null / Залесье / Залесье
   other names: name:uk=Залісся
-  other tags : highway=bus_stop
-    geometry : [55.5959582,28.5128326]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.5958515,28.5128505]
 n2273794254
   other tags : highway=bus_stop
     geometry : [55.4679892,29.0986856]
@@ -67,8 +67,8 @@ n2292939141
   other tags : highway=bus_stop
     geometry : [55.5045328,28.7369800]
 n2292939269
-  other tags : highway=bus_stop
-    geometry : [55.5062786,28.7239387]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.5063431,28.7239765]
 n2292939311
   other tags : highway=bus_stop
     geometry : [55.5065721,28.7235031]

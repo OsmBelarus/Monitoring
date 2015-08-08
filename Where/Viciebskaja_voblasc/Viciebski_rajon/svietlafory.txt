@@ -254,17 +254,17 @@ n2616455680  null / null / Сущёво
   other tags : highway=bus_stop
     geometry : [55.3395097,30.2385514]
 n2617759804  null / null / Калиново
-  other tags : highway=bus_stop
-    geometry : [55.2684544,30.1802803]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.2685230,30.1803033]
 n2617759805  null / null / Калиново
-  other tags : highway=bus_stop
-    geometry : [55.2685121,30.1783901]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.2684534,30.1784209]
 n2617760384
   other tags : highway=bus_stop
     geometry : [55.2628068,30.1478309]
 n2617760385  null / null / Букатино
-  other tags : highway=bus_stop
-    geometry : [55.2655176,30.1566962]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.2654539,30.1567473]
 n2617760484  null / null / Лужесно
   other tags : highway=bus_stop
     geometry : [55.2576533,30.1347002]
@@ -278,8 +278,8 @@ n2631398444  null / null / Верховье
   other tags : highway=bus_stop
     geometry : [55.2901323,30.2522419]
 n2633704257  null / null / Букатино
-  other tags : highway=bus_stop
-    geometry : [55.2655233,30.1575081]
+  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
+    geometry : [55.2655848,30.1574542]
 n2633704258  null / null / Тетёрки
   other tags : highway=bus_stop
     geometry : [55.2749139,30.2092101]
