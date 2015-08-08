@@ -1,12 +1,12 @@
 n470019634  null / null / Каплица Святой Варвары
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.0261132,27.5543966]
-n470334271  null / null / Собор св. Михаила Архангела (дерев.) / Собор св. Михаила Архангела (дерев.)
-  other tags : amenity=place_of_worship | building=church | denomination=orthodox | description=Даты строительства / обновления: XVIII в. Рейтинг: увидеть интересно | description:ru=Даты строительства / обновления: XVIII в. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian
-    geometry : [53.0307708,27.5783871]
 n1758979354  null / null / Костёл
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [53.0423932,27.5768801]
 w112954099  null / null / Православная церковь
   other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
     geometry : n1282568205[53.0116777,27.5385115] n1282568203[53.0115839,27.5384937] n1282568204[53.0115629,27.5387981] n1282568202[53.0116567,27.5388159] n1282568205[53.0116777,27.5385115]
+w360413932  null / null / Михайловский кафедральный собор
+  other tags : addr:city=Слуцк | addr:housenumber=90 | addr:street=Социалистическая улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | wheelchair=limited
+    geometry : n3649616099[53.0307949,27.5783170] n3649616100[53.0307925,27.5786233] n3649616101[53.0307055,27.5786213] n3649616102[53.0307061,27.5785497] n3649616103[53.0306732,27.5785490] n3649616104[53.0306745,27.5783820] n3649616105[53.0307023,27.5783826] n3649616106[53.0307029,27.5783150] n3649616099[53.0307949,27.5783170]
