@@ -491,9 +491,6 @@ n305685512  null / null / Медтехпром / Медтехпром
 n305685513  №17 / №17 / №17 / №17
   other tags : amenity=pharmacy
     geometry : [53.9343459,27.6359384]
-n305685540  Бераліна №1 / Bieralina №1 / Беролина №1 / Беролина №1
-  other tags : amenity=pharmacy | ref=1
-    geometry : [53.9339456,27.6471359]
 n305685542  null / null / Доктор Время / Доктор Время
   other tags : amenity=pharmacy
     geometry : [53.9382268,27.6410638]
@@ -1428,3 +1425,6 @@ n3587642576
 n3623182278  null / null / Аптечный пункт
   other tags : addr:city=Минск | amenity=pharmacy
     geometry : [53.8562492,27.6330653]
+n3634284784  null / null / Беролина №1
+  other tags : addr:city=Минск | addr:housenumber=143/1 | addr:postcode=220114 | addr:street=проспект Независимости | amenity=pharmacy | opening_hours=ПН-ВС - 08.00 - 23.00
+    geometry : [53.9339098,27.6470352]
