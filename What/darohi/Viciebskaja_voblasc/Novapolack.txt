@@ -22,6 +22,9 @@ n332770544
 n347262669
   other tags : crossing=traffic_signals | highway=traffic_signals
     geometry : [55.5354302,28.6304644]
+n366163092
+  other tags : highway=traffic_signals
+    geometry : [55.5245042,28.6753276]
 n507064786
   other tags : highway=stop
     geometry : [55.5182254,28.6677082]
@@ -34,6 +37,9 @@ n507901024
 n993773542
   other tags : highway=traffic_signals
     geometry : [55.5105725,28.6968020]
+n1098840085
+  other tags : highway=traffic_signals
+    geometry : [55.5246019,28.6754952]
 n1217479146
   other tags : highway=traffic_signals
     geometry : [55.5127151,28.6938860]
@@ -73,18 +79,6 @@ n2527229450
 n2530688015
   other tags : highway=traffic_signals
     geometry : [55.5274234,28.6704087]
-n2575501800
-  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=traffic_signals | supervised=yes
-    geometry : [55.5244408,28.6754341]
-n2575501801
-  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=traffic_signals | supervised=yes
-    geometry : [55.5245404,28.6755975]
-n2575501802
-  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=traffic_signals | supervised=yes
-    geometry : [55.5245764,28.6752123]
-n2575501803
-  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=traffic_signals | supervised=yes
-    geometry : [55.5246739,28.6753759]
 n2636447228
   other tags : highway=traffic_signals
     geometry : [55.5129523,28.7019259]
@@ -100,9 +94,6 @@ n3175040676
 n3175040677
   other tags : highway=traffic_signals
     geometry : [55.5158016,28.6893294]
-n3207325240
-  other tags : crossing=traffic_signals | highway=traffic_signals
-    geometry : [55.5244251,28.6751792]
 w25261038
   other tags : highway=unclassified
     geometry : n275265902[55.5963179,28.5914968] n2957580110[55.5957122,28.5907399] n2603936467[55.5950663,28.5901294] n275265904[55.5945755,28.5895138] n275265906[55.5936265,28.5921362]

@@ -238,6 +238,18 @@ n2573648571
 n2573648582
   other tags : crossing=unmarked | highway=crossing
     geometry : [55.5200292,28.6845827]
+n2575501800
+  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=crossing | supervised=yes
+    geometry : [55.5244408,28.6754341]
+n2575501801
+  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=crossing | supervised=yes
+    geometry : [55.5245404,28.6755975]
+n2575501802
+  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=crossing | supervised=yes
+    geometry : [55.5245764,28.6752123]
+n2575501803
+  other tags : bicycle=yes | crossing=traffic_signals | crossing_ref=pelican | highway=crossing | supervised=yes
+    geometry : [55.5246739,28.6753759]
 n2575607014
   other tags : bicycle=no | crossing=uncontrolled | highway=crossing | traffic_calming=hump
     geometry : [55.5295401,28.6658527]
@@ -331,6 +343,9 @@ n3161601543
 n3161604919
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.5145519,28.6865931]
+n3207325240
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [55.5244251,28.6751792]
 n3221338685
   other tags : highway=crossing
     geometry : [55.5039075,28.7060005]
