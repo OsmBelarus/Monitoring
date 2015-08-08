@@ -13,13 +13,13 @@ n1642921725  null / null / Церковь Рождества Богородиц�
 n1642922756  null / null / Церковь Успенская (дерев.) / Церковь Успенская (дерев.)
   other tags : amenity=place_of_worship | building=church | denomination=orthodox | description=Даты строительства / обновления: 1748 г. / конец XIX в. Рейтинг: увидеть по дороге | description:ru=Даты строительства / обновления: 1748 г. / конец XIX в. Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : [55.1237040,27.8318860]
-n1846595679  null / null / Крест на горе
-  other tags : amenity=place_of_worship | denomination=catholic | historic=wayside_cross | religion=christian
-    geometry : [55.2219304,27.4841590]
+n1846595679  Крыж на гары Кальварыя / null / Крест на горе Голгофа
+  other tags : amenity=place_of_worship | denomination=catholic | religion=christian | tourism=attraction
+    geometry : [55.2219473,27.4841312]
 n2496066228  Кляштар францысканаў з паркам / null / Монастырь францисканцев с парком
   other tags : amenity=place_of_worship | building=yes | denomination=catholic | religion=christian | source=http://globus.tut.by/udelo/index.htm
     geometry : [55.2110058,27.5593782]
-n3637241113
+n3637241113  капліца / null / часовня
   other tags : amenity=place_of_worship | religion=christian
     geometry : [55.2253333,27.4678519]
 w241305170  Касцёл Найсвяцейшай Панны Марыі Ласкавай / null / Костел Наисвятейшей Девы Марии Ласковой
