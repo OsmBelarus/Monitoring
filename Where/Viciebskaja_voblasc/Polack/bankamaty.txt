@@ -32,8 +32,8 @@ n1692870118
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [55.4850070,28.7773010]
 n1692870120
-  other tags : amenity=atm | operator=БПС-Сбербанк
-    geometry : [55.4877425,28.7713680]
+  other tags : amenity=atm | drive_through=no | operator=БПС-Сбербанк
+    geometry : [55.4877466,28.7712519]
 n1692870121
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [55.4846635,28.7810776]
@@ -43,3 +43,6 @@ n3400289753
 n3648698724  null / null / Беларусбанк
   other tags : amenity=atm | drive_through=no
     geometry : [55.4698434,28.7606882]
+n3648703530  null / null / Беларусбанк
+  other tags : amenity=atm | drive_through=no
+    geometry : [55.4851236,28.7749039]
