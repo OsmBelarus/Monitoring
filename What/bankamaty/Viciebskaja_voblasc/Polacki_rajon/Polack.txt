@@ -17,11 +17,14 @@ n513281793
   other tags : amenity=atm
     geometry : [55.4839292,28.7732330]
 n525665512  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=atm
-    geometry : [55.4854920,28.7713118]
+  other tags : amenity=atm | drive_through=no
+    geometry : [55.4854407,28.7710242]
+n525668219  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | atm=no | drive_through=no
+    geometry : [55.4867629,28.7669678]
 n1489295822
   other tags : amenity=atm | operator=Банк Москва-Минск
-    geometry : [55.4863354,28.7668247]
+    geometry : [55.4863477,28.7668597]
 n1692870107
   other tags : amenity=atm | operator=БПС-Сбербанк
     geometry : [55.4874963,28.7829015]
@@ -29,14 +32,14 @@ n1692870113
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [55.4884142,28.7721673]
 n1692870118
-  other tags : amenity=atm | operator=БПС-Сбербанк
-    geometry : [55.4850070,28.7773010]
+  other tags : amenity=atm | drive_through=no | operator=БПС-Сбербанк
+    geometry : [55.4849343,28.7771407]
 n1692870120
   other tags : amenity=atm | drive_through=no | operator=БПС-Сбербанк
     geometry : [55.4877466,28.7712519]
 n1692870121
-  other tags : amenity=atm | operator=БПС-Сбербанк
-    geometry : [55.4846635,28.7810776]
+  other tags : amenity=atm | drive_through=no | operator=БПС-Сбербанк
+    geometry : [55.4846267,28.7810634]
 n3400289753
   other tags : amenity=atm | operator=ВТБ
     geometry : [55.4936845,28.7687739]
@@ -46,3 +49,6 @@ n3648698724  null / null / Беларусбанк
 n3648703530  null / null / Беларусбанк
   other tags : amenity=atm | drive_through=no
     geometry : [55.4851236,28.7749039]
+n3648708441  null / null / Беларусбанк
+  other tags : amenity=atm
+    geometry : [55.4843313,28.7862385]
