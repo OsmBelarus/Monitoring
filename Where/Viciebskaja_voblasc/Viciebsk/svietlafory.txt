@@ -782,8 +782,11 @@ n2402040960  null / null / Драмтеатр им. Якуба Коласа
 n2402040961  null / null / Драмтеатр им. Якуба Коласа
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1932175,30.2014250]
+n2406287670
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1446170,30.1265333]
 n2406287843  Мясакамбінат / null / null / Мясокомбинат
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1462303,30.1345182]
 n2408302555  null / null / Ликёро-водочный завод
   other tags : highway=bus_stop | public_transport=platform
@@ -1166,3 +1169,9 @@ n3588104200  Вуліца 3-я Саўгасная / null / Улица 3-я Со�
 n3588104201  Хладакамбінат / null / Хладокомбинат / Хладокомбинат
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2144808,30.2539495]
+n3633915990
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1499644,30.1730070]
+n3633916318
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1772669,30.1180148]

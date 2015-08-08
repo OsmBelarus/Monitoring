@@ -26,7 +26,7 @@ n1779245501  null / null / Черногостье
   other tags : highway=bus_stop
     geometry : [55.0925406,29.7186040]
 n1779245505  null / null / Крупенино
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1327885,29.8071521]
 n1779245506  null / null / Долгое
   other tags : highway=bus_stop | public_transport=platform
@@ -166,3 +166,21 @@ n3251203417
 n3251203419
   other tags : highway=bus_stop
     geometry : [55.1434021,29.1512753]
+n3633913558  Александрова / null / Александрово / Александрово
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1107522,29.8918094]
+n3633913562  Дзягілева / null / Дягилево / Дягилево
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1864459,29.8660745]
+n3633913563  Клішы / null / Клиши / Клиши
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1123011,29.9317893]
+n3633914349
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1213496,29.8798078]
+n3633915633
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1630789,29.8798705]
+n3633915658
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1673639,29.8827145]

@@ -1,9 +1,9 @@
 n690275785  null / null / Комары
-  other tags : highway=bus_stop
-    geometry : [55.1545421,30.0443561]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1546398,30.0446896]
 n690275787  null / null / Комары
-  other tags : highway=bus_stop
-    geometry : [55.1542852,30.0446263]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1542705,30.0446220]
 n750710072  Хлебная база / null / Хлебная база
   other tags : highway=bus_stop
     geometry : [55.1359939,30.1609744]
@@ -80,11 +80,11 @@ n1814564446
   other tags : highway=bus_stop
     geometry : [55.1529790,30.3853632]
 n1825039898  null / null / Куковячино
-  other tags : highway=bus_stop
-    geometry : [55.1536635,30.0124106]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1536565,30.0124516]
 n1825039936  null / null / Куковячино
-  other tags : highway=bus_stop
-    geometry : [55.1541199,30.0118151]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1541129,30.0118561]
 n1842886211
   other tags : highway=bus_stop
     geometry : [55.3093513,30.1043188]
@@ -139,8 +139,8 @@ n1901105659  null / null / Станция Лужесно
 n1910389589
   other tags : highway=bus_stop
     geometry : [55.3666272,30.4218089]
-n1935735994
-  other tags : highway=bus_stop | public_transport=platform
+n1935735994  Ноўка / null / Новка / Новка
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1331680,30.1554226]
 n1947954972
   other tags : highway=bus_stop
@@ -550,9 +550,15 @@ n3485206004  null / null / Сокольники / Сокольники
 n3520681241  null / null / Орлово-2
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1119963,30.2824991]
-n3577953394
+n3577953394  Ноўка / null / Новка / Новка
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1330311,30.1535772]
 n3612114840
   other tags : highway=bus_stop
     geometry : [55.0839382,30.1653713]
+n3633913561  Ваяводкі / null / Воеводки / Воеводки
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1098993,29.9759421]
+n3633913564  Лугавыя / null / Луговые / Луговые
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1255062,30.0116914]
