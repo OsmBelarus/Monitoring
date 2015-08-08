@@ -393,6 +393,9 @@ n3642388234
 n3642436791
   other tags : railway=level_crossing
     geometry : [52.6402357,29.7232149]
+n3642442828  null / null / Корецкий Алексей
+  other tags : historic=tomb | tomb=tombstone
+    geometry : [52.6433087,29.6924629]
 n3642444606
   other tags : historic=tomb
     geometry : [52.6442800,29.6946171]
@@ -5119,3 +5122,6 @@ r5351157  null / null / Корецкая Мария Петровна
 r5351309  null / null / Дикун Александр Федорович
   other tags : 
     geometry : <> n3642444606[52.6442800,29.6946171] : n3642444606
+r5351325  null / null / Корецкий Алексей
+  other tags : type=person
+    geometry : <> n3642442828[52.6433087,29.6924629] : n3642442828  null / null / Корецкий Алексей
