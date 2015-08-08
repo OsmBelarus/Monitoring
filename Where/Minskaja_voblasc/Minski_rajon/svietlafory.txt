@@ -16,7 +16,7 @@ n277048004
 n378269722  null / null / Марьяливо
   other tags : highway=bus_stop
     geometry : [54.0395668,27.6675333]
-n378274681  Скрыжаванне / null / Перекресток
+n378274681  Скрыжаванне / null / Перекрёсток / Перекрёсток
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.0551258,27.6908083]
 n378274697
@@ -940,7 +940,7 @@ n1785987573
 n1791768009
   other tags : highway=bus_stop
     geometry : [53.7129158,27.6249073]
-n1840661781  Скрыжаванне / null / Перекресток
+n1840661781  Скрыжаванне / null / Перекрёсток / Перекрёсток
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [54.0545618,27.6934016]
 n1840685902  null / null / Малиновка
@@ -1288,3 +1288,6 @@ n3638778684  null / null / Пятевщина
 n3638918902  null / null / Аннополь
   other tags : highway=bus_stop
     geometry : [53.6834116,27.5477410]
+n3646227727  null / null / Театральный
+  other tags : highway=bus_stop
+    geometry : [54.0566843,27.6714581]
