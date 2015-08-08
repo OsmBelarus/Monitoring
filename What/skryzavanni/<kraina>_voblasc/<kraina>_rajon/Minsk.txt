@@ -1991,13 +1991,13 @@ n813674737
   other tags : highway=crossing
     geometry : [53.9219743,27.5781921]
 n813784249
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8966389,27.5584319]
 n813784252
-  other tags : highway=crossing
+  other tags : crossing=zebra | highway=crossing
     geometry : [53.8967300,27.5582492]
 n813784285
-  other tags : highway=crossing
+  other tags : crossing=zebra | highway=crossing
     geometry : [53.8965954,27.5579577]
 n817853085
   other tags : crossing=traffic_signals | highway=crossing
@@ -4004,7 +4004,7 @@ n1214881345
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9161618,27.5713464]
 n1214883786
-  other tags : crossing=uncontrolled | highway=crossing
+  other tags : crossing=zebra | highway=crossing
     geometry : [53.9103700,27.5642130]
 n1214883787
   other tags : crossing=traffic_signals | highway=crossing
@@ -7502,7 +7502,7 @@ n1979524731
   other tags : crossing=island | highway=crossing
     geometry : [53.8879045,27.4222160]
 n1980720800
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8963825,27.5578960]
 n1980824599
   other tags : highway=crossing
@@ -8507,7 +8507,7 @@ n2673014357
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8992065,27.5644840]
 n2673014385
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9016547,27.5608518]
 n2673021186
   other tags : highway=crossing
@@ -10093,3 +10093,12 @@ n3642764766
 n3645847681
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9195266,27.5621708]
+n3645864419
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9139296,27.5650869]
+n3645866940
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9120229,27.5632900]
+n3645866941
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9116164,27.5628935]
