@@ -87,7 +87,7 @@ n1276813864  Белінвестбанк / Bielinviestbank / Белинвестб
   other tags : amenity=bank
     geometry : [55.2028984,30.2191301]
 n1281494854  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
-  other tags : amenity=bank | operator=Белгазпромбанк | phone=+375212474042 | website=http://www.belgazprombank.by/
+  other tags : amenity=bank | contact:phone=+375(212) 47-40-42 | contact:website=http://www.belgazprombank.by/ | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-16:00 | operator=Белгазпромбанк | owner=ОАО «Белгазпромбанк»
     geometry : [55.1784081,30.2331553]
 n1305904621  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | branch=Отделение №200/179 | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:30; Su 09:00-15:00
@@ -283,5 +283,5 @@ w278275842  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : addr:housenumber=11 | addr:postcode=210602 | addr:street=улица Ленина | amenity=bank | building=yes | building:levels=3 | email=vitebsk@bveb.minsk.by | official_name=Витебское региональное отделение «Банк «БелВЭБ» | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-18:00 | phone=+375212493000, +375212493060, +375212493030 | source=http://www.bveb.by/about/press-centre/news/741.html | website=http://www.bveb.by/
     geometry : n2826711024[55.1884877,30.2057253] n2565961571[55.1884572,30.2057201] n2826711017[55.1880831,30.2056560] n2905115329[55.1880759,30.2057836] n2826711016[55.1880970,30.2057872] n2826711015[55.1881173,30.2060513] n2826711014[55.1881631,30.2060561] n2905115331[55.1881798,30.2062526] n2852290868[55.1883009,30.2062196] n2826711019[55.1882937,30.2060761] n2826711020[55.1883894,30.2060822] n2826711021[55.1884036,30.2058397] n2826711022[55.1884483,30.2058474] n2565961544[55.1884806,30.2058529] n2826711024[55.1884877,30.2057253]
 w356898649  null / null / Белгазпромбанк
-  other tags : amenity=bank | building=yes | building:levels=3 | fixme=примерное положение и форма
+  other tags : addr:housenumber=1Г | addr:street=проспект Строителей | amenity=bank | building=yes | building:levels=3 | contact:email=vitebskobl@bgpb.by | contact:fax=+375(212) 36-28-82 | contact:phone=+375(212) 36-28-82 | contact:website=http://belgazprombank.by/ | fixme=примерное положение и форма | official_name=Витебская областная дирекция ОАО «Белгазпромбанк»
     geometry : n3622972238[55.1724659,30.2023922] n3622972242[55.1725813,30.2024390] n3622972244[55.1726431,30.2025750] n3622972241[55.1725592,30.2026818] n3622972243[55.1726119,30.2028258] n3622972239[55.1725395,30.2029436] n3622972237[55.1724005,30.2028873] n3622972238[55.1724659,30.2023922]
