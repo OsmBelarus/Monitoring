@@ -223,9 +223,6 @@ n305684118
 n305684685
   other tags : addr:postcode=722154 | amenity=post_office | ref=722154
     geometry : [53.9402700,27.6054200]
-n305684686
-  other tags : addr:postcode=722213 | amenity=post_office | ref=722213
-    geometry : [53.9588119,27.6052263]
 n305684718  null / null / null / 721944
   other tags : addr:postcode=220049 | amenity=post_office | ref=220049
     geometry : [53.9352732,27.6137771]
@@ -317,8 +314,8 @@ n846565379  null / null / EMS
   other tags : amenity=post_office | delivery=yes | description=Окно EMS | phone=2935967
     geometry : [53.8892891,27.5503465]
 n1118779265
-  other tags : addr:postcode=220131 | amenity=post_office | ref=220131
-    geometry : [53.9586599,27.6053656]
+  other tags : addr:city=Минск | addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=post_office | ref=220131
+    geometry : [53.9586907,27.6054442]
 n1176761518
   other tags : amenity=post_office | note=Departure floor
     geometry : [53.8896700,28.0350807]

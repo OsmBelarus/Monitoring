@@ -298,8 +298,8 @@ n1110272151  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | atm=yes | branch=Отделение №510/399 | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00 | operator=Беларусбанк
     geometry : [53.9009435,27.4274476]
 n1118779257  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : amenity=bank
-    geometry : [53.9587319,27.6049488]
+  other tags : addr:city=Минск | addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=bank | atm=yes
+    geometry : [53.9588067,27.6048834]
 n1129248829  БСБ Банк / BSB Bank / БСБ Банк / БСБ Банк
   other names: name:en=BelSwissBank
   other tags : addr:housename=Комплекс Журавинка | addr:housenumber=25 | addr:postcode=220030 | addr:street=улица Янки Купалы | amenity=bank | designation=bank | operator=БелСвиссБанк
