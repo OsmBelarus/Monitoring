@@ -218,7 +218,7 @@ w25271097  Працоўная вуліца / Pracoŭnaja vulica / Трудова
   other tags : highway=living_street | surface=asphalt
     geometry : n275331365[52.7911216,27.5276250] n275331929[52.7916976,27.5271274] n275331930[52.7917721,27.5271538] n275331931[52.7924000,27.5291919] n275331932[52.7923841,27.5292994] n275331375[52.7918003,27.5298039]
 w25271098  вуліца Наруцкага / vulica Naruckaha / улица Наруцкого / улица Наруцкого
-  other tags : addr:city=Солигорск | addr:postcode=223710 | addr:street=улица Наруцкого | highway=residential | lanes=2 | surface=asphalt
+  other tags : highway=residential | lanes=2 | surface=asphalt
     geometry : n403791404[52.7926645,27.5250511] n514948650[52.7924108,27.5252692] n513924005[52.7918811,27.5256922] n514948654[52.7915845,27.5259356] n275331374[52.7907940,27.5265734] n513924010[52.7895323,27.5276587] n790036284[52.7889977,27.5281759] n275331391[52.7888938,27.5282560]
 w25271100  бульвар Шахцёраў / buĺvar Šachcioraŭ / бульвар Шахтёров / бульвар Шахтёров
   other tags : highway=secondary | lanes=4 | surface=asphalt
@@ -334,12 +334,6 @@ w40858397
 w40858398
   other tags : highway=residential | lanes=1 | oneway=yes | surface=asphalt
     geometry : n497152390[52.7928914,27.5241448] n3567078981[52.7928915,27.5243503] n3567078985[52.7928606,27.5245395] n3567078980[52.7927890,27.5247062] n403791404[52.7926645,27.5250511]
-w40858399
-  other tags : highway=residential | lanes=1 | oneway=yes | surface=asphalt
-    geometry : n497152371[52.7930005,27.5244830]
-w40858400
-  other tags : highway=residential | lanes=1 | oneway=yes | surface=asphalt
-    geometry : n497152400[52.7931614,27.5250036]
 w40858404
   other tags : highway=residential | oneway=yes | surface=asphalt
     geometry : n497152392[52.7932944,27.5245823] n275331933[52.7931423,27.5244959] n497152371[52.7930005,27.5244830] n3567078985[52.7928606,27.5245395]
@@ -938,7 +932,7 @@ w64046971
   other tags : highway=footway | surface=paving_stones
     geometry : n581996271[52.7949549,27.5314617] n790036237[52.7942783,27.5320360] n790036268[52.7928879,27.5332162] n777466899[52.7910032,27.5348033]
 w64046972
-  other tags : highway=footway | surface=asphalt;paving_stones
+  other tags : highway=footway
     geometry : n790036236[52.7932080,27.5257037] n790036292[52.7933379,27.5255923] n790036389[52.7933840,27.5255548] n790036377[52.7934531,27.5255145] n790036273[52.7936266,27.5253556]
 w64046973
   other tags : highway=footway | surface=asphalt
