@@ -53,13 +53,10 @@ n929283555
 n930056625  null / null / ДОТ
   other tags : tourism=viewpoint
     geometry : [53.9970859,27.2759813]
-n930660447  Адна з святых крыніц "Слёзы Рагнеды" / null / null / Cвятой источник "Слёзы Рогнеды"
+n930660447  Адна з святых крыніц "Слёзы Рагнеды" / null / Cвятой источник "Слёзы Рогнеды" / Cвятой источник "Слёзы Рогнеды"
   other names: name:en=One of the holy sources, "Tears of Ragneda"
-  other tags : tourism=viewpoint
+  other tags : natural=spring | tourism=attraction
     geometry : [54.0082597,27.2888332]
-n930664524
-  other tags : tourism=museum
-    geometry : [54.0040061,27.2903686]
 n931520167  Адна з святых крыніц "Слёзы Рагнеды" / null / null / Один из святых источников "Слёзы Рогнеды"
   other names: name:en=One of the holy springs, "Tears of Ragneda"
   other tags : tourism=viewpoint
@@ -75,7 +72,7 @@ n932577108  Дзіцячая паліклініка / null / Детская по
   other names: name:en=Children's policlinic
   other tags : amenity=hospital
     geometry : [54.0099459,27.2634503]
-n940002911
+n940002911  null / null / Памятник отмене крепостного права
   other tags : historic=memorial
     geometry : [54.0076060,27.2916050]
 n1024754013  Дзіцячы музей міфалогіі лесу / null / Детский музей мифологии леса / Детский музей мифологии леса
@@ -141,9 +138,6 @@ n1506494141
 n1506494149
   other tags : information=map
     geometry : [54.0065583,27.3318698]
-n1507357378  null / null / Музей Млiн
-  other tags : tourism=museum
-    geometry : [54.0074597,27.2861844]
 n1515505398
   other tags : tourism=viewpoint
     geometry : [54.0063953,27.2853705]
@@ -577,7 +571,7 @@ n1828239829
   other tags : man_made=water_tower
     geometry : [54.0116226,27.2795358]
 n1835618167  null / null / Памятник жервам ВОВ
-  other tags : tourism=attraction
+  other tags : historic=memorial
     geometry : [54.0077927,27.2928712]
 n1840004104
   other tags : noexit=yes
@@ -666,15 +660,9 @@ n2766736475  null / null / Гостиница Авеню
 n2788680184  Гарадзішча «Замэчак» / null / Городище «Замочек» / Городище «Замочек»
   other tags : tourism=attraction
     geometry : [53.9958000,27.2775000]
-n2788680408  Замчышча / null / Замчища
-  other tags : tourism=attraction
+n2788680408  Замчышча / null / Замчища 11-18вв
+  other tags : historic=ruins | tourism=attraction
     geometry : [54.0073560,27.2922970]
-n2788681816  Касцёл Найсвяцейшай Панны Марыі / null / Костел Пресвятой Девы Марии
-  other tags : tourism=attraction
-    geometry : [54.0033740,27.2914040]
-n2788686144  Царква Праабражэння Гасподняга / null / Церковь Преображения Господня
-  other tags : tourism=attraction
-    geometry : [54.0075870,27.2913930]
 n2852014121
   other tags : amenity=parking
     geometry : [54.0146343,27.2582798]
