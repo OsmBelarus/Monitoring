@@ -27538,9 +27538,6 @@ w148738375
 w148738377
   other tags : highway=service
     geometry : n1618529955[53.9108514,27.5296158] n3653747466[53.9108710,27.5295154] n1618064741[53.9109545,27.5290873]
-w148738380
-  other tags : highway=service
-    geometry : n1618064673[53.9111133,27.5281626] n1618064675[53.9111687,27.5283490]
 w148745215
   other tags : highway=service
     geometry : n1618124587[53.9100467,27.5291503] n1618124623[53.9099799,27.5294782] n1618124613[53.9095533,27.5292261]
@@ -41581,7 +41578,7 @@ w307925534
   other tags : highway=service | living_street=yes
     geometry : n3131703606[53.9084812,27.5326489] n775736067[53.9086205,27.5327314]
 w307925535
-  other tags : covered=yes | highway=service | living_street=yes
+  other tags : highway=service | living_street=yes | tunnel=building_passage
     geometry : n3131703605[53.9083558,27.5325751] n3131703606[53.9084812,27.5326489]
 w307925792
   other tags : covered=yes | highway=service | living_street=yes
