@@ -101,6 +101,9 @@ n521617970
 n522479443  Дзіцячая паліклініка / null / Детская Поликлиника / Детская Поликлиника
   other tags : amenity=hospital
     geometry : [55.4916304,28.7691219]
+n524167237  null / null / Ремонт водопроводной трубы
+  other tags : man_made=mineshaft
+    geometry : [55.4837886,28.7869270]
 n524180643
   other tags : amenity=parking
     geometry : [55.4618622,28.7212254]
@@ -613,6 +616,9 @@ n3655688551
 n3655688566
   other tags : entrance=main
     geometry : [55.4906508,28.7815126]
+n3660481402  null / null / Ремонт
+  other tags : depth=12 | headframe=yes | man_made=mineshaft | mineshaft_type=winding | operator=Коновалов | resource=aggregate
+    geometry : [55.4833299,28.7924184]
 w22374813
   other tags : gauge=1520 | railway=rail | usage=main
     geometry : n240470995[55.4804722,28.8003830] n119310083[55.4814733,28.8005750]
