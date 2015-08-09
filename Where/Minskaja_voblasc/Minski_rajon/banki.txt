@@ -61,6 +61,10 @@ n3283664427  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3283679746  null / null / Банкомат / Банкомат
   other tags : amenity=bank | atm=yes
     geometry : [53.7394000,27.5038399]
+n3655654524  МінскМасква Каса №9 / null / Минск-Москва ОК9
+  other names: name:en=MinskMoskva
+  other tags : addr:city=Боровая | addr:housenumber=2 | amenity=bank | opening_hours=Mo-Su 09:00-20:00
+    geometry : [53.9620544,27.6300383]
 w45754682
   other tags : addr:housenumber=1Б | addr:street=Короткая улица | amenity=bank | atm=yes | building=yes | contact:phone=+375 17 5081362 | contact:website=http://www.belapb.by/ | opening_hours=Mo-Fr 09:30-13:30,14:30-18:30; Sa-Su off | operator=Белагропромбанк | source=http://www.kolodischi.info/
     geometry : n582733669[53.9461743,27.7742902] n582733668[53.9462121,27.7743871] n582733666[53.9461552,27.7744512] n582733667[53.9461174,27.7743543] n582733669[53.9461743,27.7742902]
