@@ -2161,7 +2161,7 @@ n493130773  null / null / Насенне
   other tags : operator=Минсксортсемовощ, ОАО | shop=garden_centre
     geometry : [53.8646906,27.4812626]
 n493144000  null / null / Атлант
-  other tags : addr:housenumber=14 | addr:street=проспект Пушкина | opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-18:00 | operator=Атлант, ЗАО | phone=252-65-43 | shop=houseware
+  other tags : addr:housenumber=14 | addr:street=проспект Пушкина | opening_hours=Mo-Fr 10:00-19:00, Sa 10:00-18:00 | operator=Атлант, ЗАО | phone=+375 17 2526543 | shop=electronics
     geometry : [53.8991722,27.4978541]
 n493180143  null / null / Stroyremont / Стройремонт
   other tags : addr:housename=Стройремонт | addr:housenumber=22 к1 | addr:postcode=220015 | addr:street=улица Болеслава Берута | operator=Radaxis LLC | shop=doityourself | website=http://www.radaxis.by/
@@ -2435,9 +2435,6 @@ n683169389
 n683169452  null / null / Промтовары
   other tags : shop=convenience
     geometry : [53.9296662,27.5758850]
-n685343069
-  other tags : shop=convenience
-    geometry : [53.9201677,27.4972927]
 n685343080  Кулінарыя / null / Кулинария
   other tags : shop=convenience
     geometry : [53.9219313,27.4967670]
@@ -2709,7 +2706,7 @@ n912512983  Прадукты / null / Продукты / Продукты
 n912512984  null / null / Михима
   other tags : opening_hours=09:00-22:00 | shop=convenience
     geometry : [53.9128795,27.4866888]
-n912523158  Біруза / null / Ювелирный магазин "Бирюза"
+n912523158  Біруза / null / Бирюза
   other tags : shop=jewelry
     geometry : [53.9159204,27.4938865]
 n912542703  Прадукты / null / Продукты / Продукты
@@ -2722,8 +2719,8 @@ n912542713  null / null / ЭкономМаг
 n916574936  Рублёўскі / null / Рублёвский / Рублёвский
   other tags : addr:housenumber=12А | addr:street=проспект Пушкина | opening_hours=Mo-Su 08:00-23:00 | operator=RTL Holdings | phone=+375 17 202 81 92 | ref=126 | shop=supermarket | website=http://www.rublevski.by/ | wheelchair=yes
     geometry : [53.8986679,27.4977127]
-n916574944  null / null / Новосёлкин
-  other tags : opening_hours=Mo-Sa 08:00-22:00; Su 08:00-20:00 | shop=doityourself
+n916574944  null / null / Виталюр
+  other tags : opening_hours=Mo-Su 09:00-23:00 | shop=convenience
     geometry : [53.9027524,27.4972020]
 n916574946  null / null / Лорендо
   other tags : opening_hours=07:00-23:00 | shop=convenience
@@ -3100,14 +3097,13 @@ n1103315588  null / null / Belmarket / Белмаркет
 n1103315605  null / null / Мясная лавка / Мясная лавка
   other tags : shop=convenience
     geometry : [53.9399202,27.5996863]
-n1104030974  null / null / Канцтовры, Бытовая химия
-  other tags : shop=gift
+n1104030974  null / null / Канцтовары, Бытовая химия
+  other tags : shop=houseware
     geometry : [53.9160340,27.4941647]
 n1104031010
   other tags : shop=books
     geometry : [53.9097046,27.4917000]
-n1104031012  Прадукты / null / Магазин "У Дома" / Продукты
-  other names: name:uk=Продукти
+n1104031012  null / null / У Дома
   other tags : opening_hours=08:00-23:00 | shop=convenience
     geometry : [53.9158683,27.4936586]
 n1104031014
@@ -4101,8 +4097,8 @@ n1421768019
   other tags : shop=convenience
     geometry : [53.9186367,27.4953643]
 n1421770415
-  other tags : shop=convenience
-    geometry : [53.9203146,27.4974536]
+  other tags : opening_hours=09:00-22:00 | shop=convenience
+    geometry : [53.9202453,27.4973895]
 n1421771684  null / null / Магазин №29, ЗАО "Торговый дом "Алекор"
   other tags : shop=doityourself
     geometry : [53.9110602,27.5018201]
@@ -4304,6 +4300,9 @@ n1467619887  null / null / Постторг
 n1467619918
   other tags : shop=convenience
     geometry : [53.8946749,27.6534179]
+n1469709107
+  other tags : shop=florist
+    geometry : [53.9055953,27.4971095]
 n1473289041  null / null / Мини-Маркет / Мини-Маркет
   other tags : shop=convenience
     geometry : [53.9053793,27.4598180]
@@ -5874,7 +5873,7 @@ n2379978656  null / null / Мила
 n2379978657  null / null / Лит-Ра
   other tags : drink=beer | shop=beverages
     geometry : [53.8610777,27.4444754]
-n2382958762
+n2382958762  null / null / Мой мясной
   other tags : shop=butcher
     geometry : [53.9100734,27.4946183]
 n2392698759  null / null / Швейный мир
@@ -7384,7 +7383,7 @@ n2626943533  null / null / Центр печати "Мастер"
   other tags : shop=copyshop
     geometry : [53.8441489,27.6466795]
 n2626953661  null / null / Пеликан
-  other tags : opening_hours=8:00-22:00 | shop=convenience
+  other tags : opening_hours=8:00-23:00 | shop=convenience
     geometry : [53.9021000,27.4973405]
 n2626956595
   other tags : opening_hours=8:00-18:00 | shop=yes
@@ -7395,7 +7394,7 @@ n2626958827  null / null / Рыболов
 n2626963431  null / null / Клякса
   other tags : opening_hours=8:00-17:00 | shop=stationery
     geometry : [53.8985094,27.4982953]
-n2627068497  null / null / парикмахерская
+n2627068497
   other tags : shop=hairdresser
     geometry : [53.8996864,27.4976881]
 n2627074739  null / null / Мясныя прысмаки
@@ -7434,7 +7433,7 @@ n2627144726  null / null / Виктория
 n2627150755  null / null / Салон красоты
   other tags : opening_hours=9:00-20:00 | shop=hairdresser
     geometry : [53.9055720,27.4953037]
-n2627158308  null / null / Магазин
+n2627158308
   other tags : opening_hours=8:00-20:00 | shop=electronics
     geometry : [53.9053809,27.4971405]
 n2627180994  null / null / Цветы
@@ -8928,7 +8927,7 @@ n3206002989  null / null / Замена масла "Текс"
 n3206002993  null / null / Солярий "ДримБэй
   other tags : shop=beauty
     geometry : [53.9171050,27.4962277]
-n3206002997  null / null / Мебельный магазин "Декор"
+n3206002997  null / null / Декор
   other tags : shop=furniture
     geometry : [53.9164068,27.4958905]
 n3206003002  null / null / ЭлитСтудия
@@ -8946,12 +8945,9 @@ n3206003014  null / null / Солярий "Чудо света"
 n3206003017  null / null / Мясная лавка
   other tags : shop=butcher
     geometry : [53.9203812,27.4995652]
-n3206003018  null / null / Салон связи "Дважды два"
+n3206003018  null / null / Дважды два
   other tags : shop=mobile_phone
     geometry : [53.9200084,27.4995383]
-n3206003025  null / null / Обувная мастерская "Айго"
-  other tags : shop=shoes
-    geometry : [53.9152180,27.4934007]
 n3206003026  null / null / Салон "Kono-Мебель"
   other tags : shop=furniture
     geometry : [53.9148184,27.4916350]
@@ -10085,9 +10081,6 @@ n3270535880  null / null / Ленуська
 n3270536261  null / null / RED ROSE (РЕД РОУЗ)
   other tags : addr:housenumber=10 | addr:street=улица Притыцкого | opening_hours=Mo-Fr 09:00-21:00 Sa 09:00-18:00 | operator=САЛОН КРАСОТЫ | shop=beauty
     geometry : [53.9109514,27.5002489]
-n3270537524  null / null / МЭРИЛИН
-  other tags : addr:housenumber=28 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 08:00 — 21:00 сб.: 08:00 — 18:00 вс.: 09:00 — 18:00 | operator=ПАРИКМАХЕРСКАЯ | shop=beauty
-    geometry : [53.9053809,27.4971405]
 n3270538688  null / null / ЦЕНТР КРАСОТЫ
   other tags : addr:housenumber=39 | addr:street=проспект Пушкина | opening_hours=пн. — пт.: 09:00 — 20:00 сб.: 09:00 — 18:00 вс.: выходной | shop=beauty
     geometry : [53.9090645,27.4949269]
@@ -11243,7 +11236,7 @@ n3583748910
 n3585417052  null / null / Chic&Charme
   other tags : addr:city=Минск | addr:housenumber=6Б | addr:postcode=220049 | addr:street=улица Кнорина | opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | shop=hairdresser
     geometry : [53.9310795,27.6134238]
-n3587558494  null / null / Оптика
+n3587558494
   other tags : shop=optician | wheelchair=no
     geometry : [53.9159477,27.4941149]
 n3587626549  null / null / Парикмахерская
@@ -11316,7 +11309,7 @@ n3604934926  null / null / Пинскдрев
 n3610389023
   other tags : shop=ticket
     geometry : [53.9085230,27.4953086]
-n3610389027  null / null / velcom
+n3610389027  null / null / Velcom
   other tags : opening_hours=09:00-21:00 | shop=mobile_phone
     geometry : [53.9110314,27.4945927]
 n3610389028  null / null / Запал
@@ -11436,6 +11429,9 @@ n3639322684  null / null / Авиакасса
 n3639322685
   other tags : shop=hairdresser
     geometry : [53.8977745,27.5541895]
+n3639771074  null / null / Продукты
+  other tags : opening_hours=09:00-23:00 | shop=convenience
+    geometry : [53.9197185,27.4963116]
 n3642681121  null / null / Suit Supply
   other tags : addr:housenumber=21 | addr:street=улица Володарского | shop=clothes
     geometry : [53.8958675,27.5537973]
@@ -11481,3 +11477,45 @@ n3648972904  null / null / Tez Tour
 n3649021815  null / null / ХоДабби
   other tags : addr:city=Минск | addr:housenumber=16 | addr:postcode=220012 | addr:street=улица Сурганова | opening_hours=Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00 | operator=ХоДабби | shop=craft | source=http://artterritory.by/shops/
     geometry : [53.9237760,27.5999022]
+n3651393429
+  other tags : shop=optician
+    geometry : [53.8988520,27.4977911]
+n3651393430
+  other tags : shop=medical_supply
+    geometry : [53.8988575,27.4978261]
+n3651393431  null / null / Доминант
+  other tags : opening_hours=Mo-Su 11:00-20:00 | shop=bicycle | website=http://dominant.by/
+    geometry : [53.9032907,27.4956798]
+n3651393432
+  other tags : shop=doors
+    geometry : [53.9055609,27.4971125]
+n3651393433
+  other tags : shop=photo
+    geometry : [53.9069576,27.4947587]
+n3651393435
+  other tags : shop=dry_cleaning
+    geometry : [53.9070216,27.4948405]
+n3651393441  null / null / Infinity Beauty Studio
+  other tags : shop=beauty | website=http://infinitis.by/
+    geometry : [53.9085050,27.4940269]
+n3651393442  null / null / МТС
+  other tags : opening_hours=09:00-21:00 | shop=mobile_phone
+    geometry : [53.9097882,27.4947001]
+n3651393443  null / null / Остров чистоты
+  other tags : shop=chemist;perfume;cosmetics
+    geometry : [53.9109882,27.4945919]
+n3651393444
+  other tags : shop=convenience
+    geometry : [53.9130928,27.4943892]
+n3651393454  null / null / Богатый улов
+  other tags : shop=fishing
+    geometry : [53.9206292,27.4999294]
+n3651393469
+  other tags : shop=kiosk
+    geometry : [53.9286005,27.5089850]
+n3651393471  null / null / Лебедушка
+  other tags : shop=tailor
+    geometry : [53.9316931,27.5073174]
+n3651393472  null / null / Non-stop
+  other tags : opening_hours=Mo-Fr 08:00-22:00, Sa 09:00-21:00, Su 10:00-19:00 | shop=beauty | website=http://www.nonstop.by/
+    geometry : [53.9326418,27.5028306]
