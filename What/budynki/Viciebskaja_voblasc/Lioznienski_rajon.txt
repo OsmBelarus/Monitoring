@@ -5,10 +5,10 @@ w145119481
   other tags : building=yes | building:levels=1
     geometry : n1585614864[55.0920891,30.6405414] n1585614870[55.0921972,30.6406812] n1585614866[55.0921095,30.6408881] n1585614862[55.0920014,30.6407482] n1585614864[55.0920891,30.6405414]
 w145119482
-  other tags : addr:housenumber=40 | building=yes | building:levels=1
+  other tags : addr:housenumber=40 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614885[55.0927694,30.6414021] n1585614888[55.0928445,30.6414893] n1585614886[55.0928021,30.6416011] n1585614884[55.0927269,30.6415138] n1585614885[55.0927694,30.6414021]
 w145119483
-  other tags : addr:housenumber=42 | building=yes | building:levels=1
+  other tags : addr:housenumber=42 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614880[55.0925706,30.6417934] n1585614883[55.0926439,30.6418898] n1585614881[55.0925894,30.6420163] n1585614876[55.0925161,30.6419200] n1585614880[55.0925706,30.6417934]
 w145119484
   other tags : addr:housenumber=2 | building=yes | building:levels=1
@@ -17,19 +17,19 @@ w145119485
   other tags : building=yes | building:levels=1
     geometry : n1585614872[55.0922815,30.6413721] n1585614874[55.0923896,30.6415120] n1585614873[55.0923019,30.6417189] n1585614869[55.0921938,30.6415790] n1585614872[55.0922815,30.6413721]
 w145119486
-  other tags : addr:housenumber=43 | building=yes | building:levels=1
+  other tags : addr:housenumber=43 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614889[55.0928006,30.6420951] n1585614892[55.0928531,30.6421629] n1585614890[55.0927969,30.6422958] n1585614887[55.0927444,30.6422280] n1585614889[55.0928006,30.6420951]
 w145119487
   other tags : building=yes | building:levels=1
     geometry : n1585614915[55.0943554,30.6430251] n1585614934[55.0944634,30.6431650] n1585614919[55.0943757,30.6433719] n1585614913[55.0942677,30.6432320] n1585614915[55.0943554,30.6430251]
 w145119488
-  other tags : addr:housenumber=44 | building=yes | building:levels=1
+  other tags : addr:housenumber=44 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614895[55.0931766,30.6424863] n1585614898[55.0932429,30.6425573] n1585614897[55.0931931,30.6426997] n1585614893[55.0931267,30.6426288] n1585614895[55.0931766,30.6424863]
 w145119489
   other tags : addr:housenumber=1 | building=yes | building:levels=1
     geometry : n1585614931[55.0942935,30.6438185] n1585614938[55.0943829,30.6439279] n1585614935[55.0943217,30.6440808] n1585614917[55.0942322,30.6439714] n1585614931[55.0942935,30.6438185]
 w145119490
-  other tags : addr:housenumber=45 | building=yes | building:levels=1
+  other tags : addr:housenumber=45 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614902[55.0934342,30.6428230] n1585614908[55.0934799,30.6428788] n1585614904[55.0934340,30.6429937] n1585614900[55.0933883,30.6429380] n1585614902[55.0934342,30.6428230]
 w145119491
   other tags : building=yes | building:levels=1 | shop=convenience
@@ -38,7 +38,7 @@ w145119492
   other tags : building=yes | building:levels=1
     geometry : n1585614863[55.0920834,30.6411842] n1585614868[55.0921915,30.6413241] n1585614865[55.0921038,30.6415310] n1585614861[55.0919957,30.6413911] n1585614863[55.0920834,30.6411842]
 w145119493
-  other tags : addr:housenumber=46 | building=yes | building:levels=1
+  other tags : addr:housenumber=46 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614910[55.0936157,30.6429399] n1585614912[55.0936857,30.6430430] n1585614911[55.0936140,30.6431917] n1585614909[55.0935440,30.6430886] n1585614910[55.0936157,30.6429399]
 w145119494
   other tags : addr:housenumber=6 | building=yes | building:levels=1
@@ -47,7 +47,7 @@ w145119495
   other tags : addr:housenumber=4 | building=yes | building:levels=1
     geometry : n1585614937[55.0944909,30.6447956] n1585614943[55.0945714,30.6449011] n1585614939[55.0945061,30.6450532] n1585614932[55.0944256,30.6449477] n1585614937[55.0944909,30.6447956]
 w145119496
-  other tags : addr:housenumber=38 | building=yes | building:levels=1
+  other tags : addr:housenumber=38 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1585614877[55.0924268,30.6409757] n1585614882[55.0925000,30.6410701] n1585614879[55.0924444,30.6412015] n1585614875[55.0923713,30.6411071] n1585614877[55.0924268,30.6409757]
 w165488892  null / null / база отдыха ГЛХУ "Лиозненский лесхоз"
   other tags : building=yes | tourism=picnic_site
