@@ -4878,16 +4878,16 @@ n1641685103  null / null / Евростиль
     geometry : [53.9412526,27.6083894]
 n1641685105  null / null / Ткани
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00 | shop=fabric
-    geometry : [53.9413469,27.6084752]
+    geometry : [53.9413328,27.6083991]
 n1641693718  null / null / Opoczno
-  other tags : opening_hours=Mo-Fr 10:00-19:00 | shop=bathroom_furnishing
+  other tags : opening_hours=Mo-Fr 10:00-19:00 | shop=bathroom_furnishing | website=http://www.opoczno.by/
     geometry : [53.9415917,27.6086749]
 n1641693719  null / null / Соседи
   other tags : opening_hours=08:00-23:00 | shop=department_store
     geometry : [53.9418796,27.6073098]
-n1641693720  null / null / Идея
+n1641693720  null / null / Fiera
   other tags : shop=furniture
-    geometry : [53.9426118,27.6079933]
+    geometry : [53.9425446,27.6078935]
 n1641693721  null / null / Славянка
   other tags : description=одежда для школьников | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00 | shop=clothes
     geometry : [53.9414539,27.6085641]
@@ -8888,15 +8888,12 @@ n3205811619  null / null / Продукты
 n3205811623  null / null / Электросчетчики "Алинея"
   other tags : shop=yes
     geometry : [53.8987084,27.5014143]
-n3205825361
-  other tags : shop=hairdresser
-    geometry : [53.9426738,27.6082972]
 n3205825956  null / null / парикмахерская №1
   other tags : shop=hairdresser
-    geometry : [53.9428210,27.6083900]
+    geometry : [53.9430049,27.6084715]
 n3205827776  null / null / Русское золото
   other tags : shop=jewelry
-    geometry : [53.9435831,27.6092628]
+    geometry : [53.9434364,27.6089533]
 n3205827842  null / null / Butterfly
   other tags : shop=yes
     geometry : [53.9438468,27.6091529]
@@ -11519,3 +11516,12 @@ n3651393471  null / null / Лебедушка
 n3651393472  null / null / Non-stop
   other tags : opening_hours=Mo-Fr 08:00-22:00, Sa 09:00-21:00, Su 10:00-19:00 | shop=beauty | website=http://www.nonstop.by/
     geometry : [53.9326418,27.5028306]
+n3655503431  null / null / Red Luxe
+  other tags : opening_hours=Mo-Sa 09:00-20:00, Su 0:00-19:00 | shop=beauty
+    geometry : [53.9427630,27.6082271]
+n3655503481  null / null / Альтагамма
+  other tags : shop=tile | website=http://www.altagamma.by/
+    geometry : [53.9433998,27.6089212]
+n3655503482  null / null / Классические вина
+  other tags : shop=alcohol
+    geometry : [53.9426593,27.6074670]
