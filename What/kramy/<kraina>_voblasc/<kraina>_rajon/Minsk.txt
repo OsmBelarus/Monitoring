@@ -3810,7 +3810,7 @@ n1308553748
   other tags : shop=convenience
     geometry : [53.9555116,27.5367293]
 n1308854522  null / null / Живинка
-  other tags : addr:housenumber=10 | addr:street=улица Барамзиной | shop=convenience
+  other tags : addr:housenumber=10А | addr:street=улица Барамзиной | shop=convenience
     geometry : [53.8760738,27.9050877]
 n1308855533  Белсаюздрук / null / Белсоюзпечать / Белсоюзпечать
   other tags : shop=kiosk
@@ -6012,7 +6012,7 @@ n2457918677  null / null / Немига, 3
   other tags : addr:city=Минск | addr:housenumber=3 | addr:street=улица Немига | shop=mall
     geometry : [53.9041311,27.5524994]
 n2459145180  null / null / Товары для дома
-  other tags : addr:housenumber=10 | addr:street=улица Барамзиной | shop=hardware
+  other tags : addr:housenumber=10А | addr:street=улица Барамзиной | shop=hardware
     geometry : [53.8761181,27.9054832]
 n2462923860
   other tags : shop=convenience
@@ -11621,3 +11621,6 @@ n3668774725  null / null / Парикмахерская
 n3670186161  null / null / Ломбард техники Zaem.by в Малиновке
   other tags : addr:city=Минск | addr:housenumber=2 | addr:street=улица Ежи Гедройца | opening_hours=с 10:00 до 18:00 по будням | operator=ООО "Байлинк" | shop=pawnbroker
     geometry : [53.8522277,27.4785276]
+n3671459995  null / null / ЗооБарон
+  other tags : addr:housenumber=10А | addr:street=Барамзиной | opening_hours=Tu,We,Th,Fr,Sa,Su 11:00-21:00; Mo off | operator=ИП Беспалова А. В. | shop=pet
+    geometry : [53.8760939,27.9048202]
