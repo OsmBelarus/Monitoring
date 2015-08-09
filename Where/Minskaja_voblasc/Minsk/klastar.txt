@@ -85,9 +85,6 @@ n2200275804  Царква Святога Духа / null / Церковь Свя
 n2200275805  Кафедральны сабор Сашэсця Святога Духа / null / Кафедральный собор Сошествия Святого Духа / Кафедральный собор Сошествия Святого Духа
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.9050399,27.5561731]
-n2379812877  null / null / Приход св. Николая Японского
-  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
-    geometry : [53.9209101,27.4346146]
 n2379971535  null / null / Воскресная школа при приходе храма Преподобного Серафима Саровского
   other tags : addr:city=Минск | addr:housenumber=95 | addr:postcode=220051 | addr:street=улица Рафиева | amenity=place_of_worship | phone=+375172748205
     geometry : [53.8586857,27.4376628]
@@ -237,3 +234,6 @@ w323709915  null / null / Новая Жизнь
 w356936678
   other tags : amenity=place_of_worship | building=yes | religion=christian
     geometry : n3623350622[53.8939210,27.5064703] n3623350623[53.8939921,27.5064650] n3623350624[53.8939953,27.5066125] n3623350625[53.8939826,27.5066460] n3623350626[53.8939573,27.5066594] n3623350627[53.8939384,27.5066447] n3623350628[53.8939226,27.5066058] n3623350622[53.8939210,27.5064703]
+w360681150  null / null / Приход св. Николая Японского
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3652422194[53.9209818,27.4345295] n3652422192[53.9209573,27.4348088] n3652422189[53.9208769,27.4347884] n3652422190[53.9209013,27.4345092] n3652422194[53.9209818,27.4345295]
