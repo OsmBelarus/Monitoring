@@ -1162,6 +1162,9 @@ n442295631
 n442295762
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9279316,27.4817603]
+n442295948
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9331558,27.4931610]
 n442571405
   other tags : highway=crossing
     geometry : [53.8979477,27.5693805]
@@ -6600,7 +6603,7 @@ n1675725741
     geometry : [53.8978458,27.5781204]
 n1679666665
   other tags : highway=crossing
-    geometry : [53.9401859,27.4818510]
+    geometry : [53.9401905,27.4818465]
 n1679666675
   other tags : highway=crossing
     geometry : [53.9402451,27.4924231]
@@ -8575,6 +8578,9 @@ n2696194174
 n2696194181
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing | supervised=no
     geometry : [53.9386058,27.6052982]
+n2700121809
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9335873,27.4855817]
 n2711389190
   other tags : highway=crossing
     geometry : [53.9129823,27.5751661]
@@ -10147,3 +10153,27 @@ n3652422232
 n3652422237
   other tags : crossing=traffic_signals | crossing_ref=zebra | highway=crossing
     geometry : [53.9354897,27.4317641]
+n3652457934
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9320248,27.4911244]
+n3652457944
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9324800,27.4920842]
+n3652457961
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9337523,27.4853830]
+n3652457962
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9337816,27.4848777]
+n3652457965
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9341633,27.4612102]
+n3652457966
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9342275,27.4616479]
+n3652457967
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9344343,27.4611405]
+n3652457968
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.9344653,27.4615819]
