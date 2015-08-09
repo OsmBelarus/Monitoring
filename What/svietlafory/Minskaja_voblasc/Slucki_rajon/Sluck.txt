@@ -1,6 +1,6 @@
 n470072181  null / null / универмаг "Криница"
   other tags : highway=bus_stop | shelter=yes
-    geometry : [53.0263699,27.5510046]
+    geometry : [53.0264116,27.5510254]
 n470072182  Аптэка / null / Аптека / Аптека
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.0252564,27.5497704]
@@ -117,3 +117,18 @@ n3201363263  null / null / улица Ивановского
 n3623702604  null / null / улица Зелёная
   other tags : highway=bus_stop | shelter=no
     geometry : [53.0404061,27.5592149]
+n3652936196  null / null / Автобаза
+  other tags : highway=bus_stop
+    geometry : [53.0463175,27.6104202]
+n3652936197  null / null / Автобаза
+  other tags : bench=yes | covered=no | highway=bus_stop | shelter=no
+    geometry : [53.0463264,27.6102615]
+n3652936198  null / null / Льнозавод
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [53.0477749,27.6168147]
+n3652936211  null / null / Предприятие Ландыш
+  other tags : highway=bus_stop
+    geometry : [53.0153032,27.5618086]
+n3652936212  null / null / Предприятие Ландыш
+  other tags : bench=yes | bus=yes | highway=bus_stop
+    geometry : [53.0145319,27.5617952]
