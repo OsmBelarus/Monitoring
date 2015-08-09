@@ -2443,9 +2443,9 @@ n767081465  Ратамская / null / Ратомская / Ратомская
 n767081471  вуліца Чарвякова / null / Червякова / улица Червякова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9238600,27.5506100]
-n767081493  Мікрараён / null / Микрорайон / Микрорайон
+n767081493  null / null / Михалянка
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9276600,27.4947200]
+    geometry : [53.9276757,27.4941648]
 n767081494  null / null / Варвашени, 6
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8663379,27.6703666]
@@ -2659,8 +2659,8 @@ n767085033  Аўтавакзал Усходні / null / АВ Восточный
 n767085035  Школа № 141 / null / Школа № 141 / Школа № 141
   other tags : highway=bus_stop
     geometry : [53.8811821,27.6861747]
-n767085037  Мікрараён / null / Микрорайон / Микрорайон
-  other tags : generated=yes | highway=bus_stop
+n767085037  null / null / Михалянка
+  other tags : bench=yes | generated=yes | highway=bus_stop | shelter=yes
     geometry : [53.9273346,27.4956519]
 n767085038  null / null / Кольцевая дорога
   other tags : generated=yes | highway=bus_stop
