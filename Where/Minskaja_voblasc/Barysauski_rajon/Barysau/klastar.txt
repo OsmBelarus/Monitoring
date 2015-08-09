@@ -7,16 +7,19 @@ n3001957606  null / null / Храм Дмитрия Донского
 n3663223147  null / null / Св. Георгия Победоносца
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [54.2433111,28.4737226]
-w265414930  null / null / Большая Синагога
-  other tags : amenity=place_of_worship | building=yes | religion=jewish
-    geometry : n2710819064[54.2435268,28.5046839] n2710819071[54.2437359,28.5047734] n2710819069[54.2436836,28.5052450] n2710819062[54.2434935,28.5052206] n2710819064[54.2435268,28.5046839]
-w265414932  Уваскрасенскі сабор / null / Воскресенский собор
+w265414930  Сінагога Вялікая / null / Большая Синагога / Большая Синагога
+  other tags : addr:housenumber=49 | addr:street=улица 3-го Интернационала | amenity=place_of_worship | building=yes | religion=jewish | tourism=attraction
+    geometry : n2710819064[54.2435403,28.5047160] n2710819071[54.2437401,28.5047687] n2710819069[54.2436949,28.5052710] n2710819062[54.2434951,28.5052183] n2710819064[54.2435403,28.5047160]
+w265414932  Сабор Уваскрэшання Гасподняга / null / Собор Воскресения Господня
   other names: name:en=Church of the Resurrection
-  other tags : amenity=place_of_worship | building=church | denomination=orthodox | religion=christian
-    geometry : n2710819091[54.2452391,28.5041334] n2710819090[54.2452193,28.5044285] n2710819096[54.2453014,28.5044996] n2710819095[54.2452773,28.5048666] n2710819092[54.2452410,28.5049303] n2710819089[54.2451556,28.5049328] n2710819087[54.2450932,28.5048873] n2710819086[54.2450425,28.5047162] n2710819088[54.2451126,28.5040962] n2710819091[54.2452391,28.5041334]
-w265414967  null / null / Костел Рождества Девы Марии / Костел Рождества Девы Марии
-  other tags : addr:housenumber=28 | addr:street=улица 3-го Интернационала | amenity=place_of_worship | denomination=catholic | religion=christian
+  other tags : amenity=place_of_worship | building=church | denomination=russian_orthodox | religion=christian | tourism=attraction
+    geometry : n2710819091[54.2452757,28.5044178] n2710819096[54.2453578,28.5044889] n2710819095[54.2453337,28.5048559] n2710819092[54.2452974,28.5049196] n2710819089[54.2452120,28.5049221] n2710819087[54.2451496,28.5048766] n2710819086[54.2450989,28.5047055] n2710819088[54.2451579,28.5044283] n2710819091[54.2452757,28.5044178]
+w265414967  Касцёл Нараджэння Найсвяцейшай Панны Марыі / null / Костел Рождества Девы Марии / Костел Рождества Девы Марии
+  other tags : addr:housenumber=28 | addr:street=улица 3-го Интернационала | amenity=place_of_worship | building=church | denomination=roman_catholic | religion=christian | tourism=attraction
     geometry : n2710819021[54.2416806,28.5054725] n2710819028[54.2418518,28.5054759] n2710819029[54.2418484,28.5059926] n2710819022[54.2416771,28.5059892] n2710819021[54.2416806,28.5054725]
-w265414968
-  other tags : amenity=place_of_worship | building=church | religion=christian
+w265414968  null / null / церковь Рождества Христова
+  other tags : amenity=place_of_worship | building=church | denomination=russian_orthodox | religion=christian
     geometry : n2710818602[54.2108463,28.5112798] n2710818591[54.2106866,28.5111388] n2710818596[54.2108494,28.5106383] n2710818604[54.2109432,28.5107337] n2710818602[54.2108463,28.5112798]
+w362603027  Сінагога Хеўрэ Тылім / null / синагога "Хевре тылим" / синагога "Хевре тылим"
+  other tags : addr:housenumber=41 | addr:street=улица Лопатина | amenity=place_of_worship | building=yes | religion=jewish
+    geometry : n3668753043[54.2446011,28.5024068] n3668753044[54.2445901,28.5027279] n3668753045[54.2444593,28.5027147] n3668753046[54.2444703,28.5023936] n3668753043[54.2446011,28.5024068]
