@@ -13372,7 +13372,7 @@ w27901911
   other tags : addr:housenumber=56А | addr:street=улица Гагарина | building=kindergarten | building:levels=2
     geometry : n306317387[55.2138852,30.2229681] n306317388[55.2138315,30.2228145] n782117658[55.2136978,30.2229583] n782117782[55.2137505,30.2231086] n306317389[55.2136404,30.2232269] n306317383[55.2134681,30.2227351] n782117950[55.2135778,30.2226171] n782117832[55.2136658,30.2228684] n306317384[55.2138016,30.2227224] n306317385[55.2137152,30.2224759] n306317386[55.2138154,30.2223682] n306317340[55.2139871,30.2228586] n306317387[55.2138852,30.2229681]
 w27901924  ТП-280 / null / ТП-280 / ТП-280
-  other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
+  other tags : addr:housenumber=9В | addr:street=улица Чкалова | building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
     geometry : n3513469709[55.1767956,30.2121232] n306304371[55.1767760,30.2122192] n364400726[55.1766615,30.2121477] n3513469700[55.1766811,30.2120516] n3513469709[55.1767956,30.2121232]
 w27901928
   other tags : building=industrial | building:levels=1
@@ -24468,7 +24468,7 @@ w344599210  ТП-305 / null / ТП-305 / ТП-305
   other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
     geometry : n3513469655[55.1754012,30.2053826] n1827188070[55.1753288,30.2053556] n3513469652[55.1753434,30.2052355] n3513469656[55.1754158,30.2052625] n3513469655[55.1754012,30.2053826]
 w344599211  null / null / ЦТП № 2
-  other tags : building=industrial | building:levels=1
+  other tags : addr:housenumber=9Б | addr:street=улица Чкалова | building=industrial | building:levels=1
     geometry : n3513469700[55.1766811,30.2120516] n364400724[55.1767151,30.2118844] n306304415[55.1768297,30.2119559] n3513469709[55.1767956,30.2121232] n3513469700[55.1766811,30.2120516]
 w344599263  null / null / ремонт обуви «Шпилька» / ремонт обуви «Шпилька»
   other tags : building=kiosk | building:levels=1 | craft=shoemaker | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-15:00
