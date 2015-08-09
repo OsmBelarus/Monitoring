@@ -161,10 +161,10 @@ w28598913
   other tags : addr:city=Ждановичи | addr:housenumber=1 | addr:street=Кольцевая | building=residential | building:levels=3
     geometry : n314194690[53.9389253,27.4282153] n314194691[53.9393036,27.4286546] n314194692[53.9392237,27.4288532] n314194694[53.9388454,27.4284138] n314194690[53.9389253,27.4282153]
 w28598919
-  other tags : addr:city=Ждановичи | addr:housenumber=4 | addr:street=Кольцевая | building=residential | building:levels=3
+  other tags : addr:city=Ждановичи | addr:housenumber=4 | addr:street=Кольцевая | building=residential | building:levels=3 | roof:shape=gabled
     geometry : n314194849[53.9398587,27.4304381] n314194850[53.9399161,27.4302942] n314194851[53.9401598,27.4305745] n314194852[53.9401024,27.4307184] n314194849[53.9398587,27.4304381]
 w28598921
-  other tags : addr:city=Ждановичи | addr:housenumber=2 | building=residential | building:levels=5
+  other tags : addr:city=Ждановичи | addr:housenumber=2 | building=residential | building:levels=5 | roof:shape=gabled
     geometry : n314194895[53.9397747,27.4300963] n3326610105[53.9395242,27.4298177] n314194897[53.9394717,27.4299530] n314194898[53.9397224,27.4302323] n314194895[53.9397747,27.4300963]
 w28598931
   other tags : addr:housenumber=8 | addr:street=Кольцевая | building=residential | building:levels=5
@@ -6797,7 +6797,7 @@ w324208646
   other tags : building=house
     geometry : n3309359265[53.8399746,27.3985764] n2157828216[53.8399818,27.3986482] n3309359273[53.8398950,27.3986731] n3309359277[53.8399123,27.3988462] n3309359276[53.8398715,27.3988578] n708725166[53.8398485,27.3986273] n3309359275[53.8399093,27.3986099] n3309359274[53.8399079,27.3985955] n3309359265[53.8399746,27.3985764]
 w326043266
-  other tags : addr:city=Ждановичи | addr:street=Кольцевая | building=apartments
+  other tags : addr:city=Ждановичи | addr:street=Кольцевая | building=apartments | building:levels=3
     geometry : n3326610106[53.9400067,27.4301345] n3326610107[53.9400578,27.4300090] n3326610108[53.9398746,27.4297939] n3326610109[53.9398235,27.4299194] n3326610106[53.9400067,27.4301345]
 w326389495
   other tags : addr:city=Колодищи-2 | addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
