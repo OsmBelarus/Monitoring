@@ -5728,13 +5728,13 @@ w67028494
   other tags : cycleway:right=lane | highway=primary | maxspeed:forward=70 | ref=П9901 | source=survey
     geometry : n810159924[53.6319462,23.7487484] n2395421736[53.6317418,23.7479634] n320695643[53.6311995,23.7457959]
 w67028827
-  other tags : access=yes | bridge=yes | highway=primary | ref=П9901 | source=survey | surface=asphalt
+  other tags : access=yes | bridge=yes | highway=primary | lanes=2 | ref=П9901 | source=survey | surface=asphalt
     geometry : n810069397[53.6405177,23.7673827] n810069350[53.6404755,23.7673089]
 w67028832
   other tags : foot=yes | highway=cycleway | segregated=no | source=survey | surface=asphalt
     geometry : n778512585[53.6399279,23.7658543] n810069377[53.6398381,23.7657796] n810069357[53.6396598,23.7655725] n810069346[53.6392008,23.7647984] n810069384[53.6386016,23.7638863] n810069359[53.6384203,23.7636259]
 w67037480
-  other tags : access=yes | highway=primary | ref=П9901 | source=survey | surface=asphalt
+  other tags : access=yes | highway=primary | lanes=2 | ref=П9901 | source=survey | surface=asphalt
     geometry : n810069350[53.6404755,23.7673089] n320695619[53.6396217,23.7658632] n320695621[53.6390705,23.7649545] n678856123[53.6387251,23.7643458] n320695624[53.6384184,23.7637291]
 w67040563
   other tags : cycleway:right=lane | highway=primary | ref=П9901 | source=survey
