@@ -10,12 +10,15 @@ n1374694300  null / null / Церковь св. Иоанна Богослова 
 n1374719809  null / null / Церковь св. Георгия / Церковь св. Георгия
   other tags : amenity=place_of_worship | denomination=orthodox | description=Даты строительства / обновления: 1907 г. | description:ru=Даты строительства / обновления: 1907 г. | ref=http://globus.tut.by | religion=christian
     geometry : [54.0052137,28.0253700]
-n1374735421  null / null / Церковь св. Козьмы и Демьяна / Церковь св. Козьмы и Демьяна
-  other tags : amenity=place_of_worship | denomination=orthodox | description=Даты строительства / обновления: 1875 г. / после 1985 г. | description:ru=Даты строительства / обновления: 1875 г. / после 1985 г. | ref=http://globus.tut.by | religion=christian
-    geometry : [53.8201620,28.0761839]
-n1374744438  null / null / Церковь Благовещенская / Церковь Благовещенская
-  other tags : amenity=place_of_worship | denomination=orthodox | description=Рейтинг: увидеть интересно | description:ru=Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian
-    geometry : [53.7910080,28.0884140]
 w240130885  Царква / null / null / Церковь
   other tags : amenity=place_of_worship | building=church | denomination=russian_orthodox | religion=christian
     geometry : n2478943393[54.0391434,28.2134351] n2478943394[54.0391732,28.2137134] n2478943395[54.0390759,28.2137421] n2478943396[54.0390474,28.2134682] n2478943393[54.0391434,28.2134351]
+w362554336  null / null / Церковь Благовещенская 1794г.
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
+    geometry : n3668322046[53.7913065,28.0877360] n3668322047[53.7914650,28.0881330] n3668322048[53.7912812,28.0883261] n3668322049[53.7911227,28.0879291] n3668322046[53.7913065,28.0877360]
+w362554337  null / null / Свято-Благовещенский ставропигиальный мужской монастырь
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3668322050[53.7912495,28.0872425] n3668322051[53.7915917,28.0869421] n3668322052[53.7919213,28.0878755] n3668322053[53.7918136,28.0879613] n3668322054[53.7915347,28.0872425] n3668322055[53.7913192,28.0874678] n3668322050[53.7912495,28.0872425]
+w362554396  null / null / Храм во имя Свв. Космы и Дамиана 1875г.
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3668322480[53.8201274,28.0760201] n3668322481[53.8202287,28.0763742] n3668322482[53.8201274,28.0764493] n3668322483[53.8200197,28.0760952] n3668322480[53.8201274,28.0760201]
