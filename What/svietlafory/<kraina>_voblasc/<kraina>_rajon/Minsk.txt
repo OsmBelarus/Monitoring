@@ -2625,19 +2625,19 @@ n767085016  вул. Лынькова / vul. Lyńkova / Лынькова / ули
     geometry : [53.9270400,27.5010900]
 n767085018  Гаражы / null / Гаражи / Гаражи
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9281463,27.4890366]
+    geometry : [53.9282204,27.4884855]
 n767085020  Даўгабродская вул. / null / Долгобродская / Долгобродская улица
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8851800,27.6210900]
 n767085022  null / null / Петра Глебки
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9286249,27.4846763]
+    geometry : [53.9285601,27.4847084]
 n767085023  Аўтабаза / null / Автобаза / Автобаза
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8763200,27.5937600]
 n767085025  Гарадок / null / Городок / Городок
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9300329,27.4733380]
+    geometry : [53.9299751,27.4737857]
 n767085027  null / null / Троллейбусный парк
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8748315,27.5864308]
@@ -2646,10 +2646,10 @@ n767085028  null / null / Экономический университет
     geometry : [53.8773415,27.6072103]
 n767085030  null / null / Петра Глебки
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9281800,27.4853900]
+    geometry : [53.9282476,27.4855256]
 n767085031  Гаражы / null / Гаражи / Гаражи
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9278915,27.4894429]
+    geometry : [53.9279141,27.4893140]
 n767085033  Аўтавакзал Усходні / null / АВ Восточный
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8764800,27.5994400]
@@ -2970,7 +2970,7 @@ n767088121  Гарадок / null / Городок / Городок
     geometry : [53.9301963,27.4733035]
 n767088122  null / null / Петра Глебки, 120
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9283000,27.4821700]
+    geometry : [53.9283469,27.4824419]
 n767088123  Несцерава / null / Нестерова / Нестерова
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8803765,27.6739060]
@@ -3006,7 +3006,7 @@ n767088143  null / null / ДС Кунцевщина
     geometry : [53.9159600,27.4382500]
 n767088148  null / null / ул. П. Глебки, 120
   other tags : generated=yes | highway=bus_stop
-    geometry : [53.9284116,27.4844040]
+    geometry : [53.9289723,27.4825814]
 n767088150  null / null / Школа №132
   other tags : highway=bus_stop
     geometry : [53.9223900,27.4743000]
@@ -3921,9 +3921,6 @@ n767183504  КПП / null / КПП / КПП
 n767183505  вуліца Гая / null / Гая / улица Гая
   other tags : generated=yes | highway=bus_stop
     geometry : [53.9319300,27.5638100]
-n767183506  null / null / Масюковщина
-  other tags : generated=yes | highway=bus_stop
-    geometry : [53.9312700,27.4607300]
 n767183507  Заапарк / null / Зоопарк / Зоопарк
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8491693,27.6335952]
@@ -5545,3 +5542,12 @@ n3637257489  null / null / а/в Центральный
 n3639055232
   other tags : highway=bus_stop
     geometry : [53.9383331,27.4663099]
+n3665432233  null / null / Станция Масюковщина
+  other tags : highway=bus_stop
+    geometry : [53.9299372,27.4763667]
+n3665432234  null / null / Станция Масюковщина
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.9296419,27.4778366]
+n3665432258  null / null / П.Глебки
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [53.9282525,27.4855130]

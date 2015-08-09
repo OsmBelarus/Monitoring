@@ -2177,7 +2177,7 @@ n513584013  null / null / Зеленый клен
     geometry : [53.9356965,27.6028291]
 n515630768  null / null / Спартак / Спартак
   other tags : shop=convenience
-    geometry : [53.9277552,27.4900376]
+    geometry : [53.9275994,27.4898839]
 n520153168
   other tags : shop=car_repair
     geometry : [53.9308584,27.4468400]
@@ -4930,12 +4930,12 @@ n1645592788  null / null / 5 Элемент
 n1650643656
   other tags : shop=kiosk
     geometry : [53.9280941,27.5354499]
-n1651839824
+n1651839824  null / null / Салон-парикмахерская  Босса Нова
   other tags : shop=hairdresser
     geometry : [53.9275029,27.4865050]
 n1651875430
   other tags : shop=car
-    geometry : [53.9272814,27.4814339]
+    geometry : [53.9272665,27.4813211]
 n1652017035  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [53.9331611,27.6087904]
@@ -6061,13 +6061,13 @@ n2507328814  null / null / Панскi Пачастунак
     geometry : [53.9000972,27.4897248]
 n2507435255  null / null / Свитанок
   other tags : addr:housenumber=118 | addr:street=улица Петра Глебки | shop=yes
-    geometry : [53.9272927,27.4815910]
+    geometry : [53.9272724,27.4815689]
 n2507444558  null / null / "ProStore"
   other tags : addr:housenumber=86 | addr:street=проспект Победителей | shop=supermarket | website=http://www.prostore.by/
     geometry : [53.9379448,27.4893913]
 n2507547507  null / null / Белсоюздрук
   other tags : addr:street=улица Петра Глебки | shop=kiosk
-    geometry : [53.9279071,27.4823672]
+    geometry : [53.9279506,27.4825633]
 n2507672248  null / null / Остров чистоты
   other tags : shop=hardware
     geometry : [53.8556417,27.6099050]
@@ -6169,7 +6169,7 @@ n2526310335  null / null / Магазин разливного пива "Точ�
     geometry : [53.8430308,27.5043729]
 n2526314804  null / null / Магазин разливного пива "Точка"
   other tags : addr:housenumber=21 | addr:street=улица Михася Лынькова | opening_hours=12:00-22:00 | shop=beverages | source=http://tochca.by | website=http://tochca.by/
-    geometry : [53.9276370,27.4876798]
+    geometry : [53.9277983,27.4879731]
 n2526320689  null / null / Магазин разливного пива "Точка"
   other tags : addr:housenumber=31А | addr:street=улица Карвата | opening_hours=10:00-23:00 | phone=+375 (29) 193-93-86 | shop=beverages | source=http://tochca.by | website=http://tochca.by/
     geometry : [53.9119470,27.6786730]
@@ -11597,3 +11597,9 @@ n3664302935  null / null / ДорОрс
 n3664851106  Хімчыстка / null / Химчистка / Химчистка
   other tags : opening_hours=Mo-Fr 10:00-14:00; Mo-Fr 15:00-19:00 | operator=УП "Белхимчистка" | shop=dry_cleaning
     geometry : [53.9096549,27.6321959]
+n3665432242
+  other tags : shop=kiosk
+    geometry : [53.9276704,27.4879731]
+n3665437037  null / null / "Спартак" вино-водочный отдел
+  other tags : shop=convenience
+    geometry : [53.9271983,27.4900985]
