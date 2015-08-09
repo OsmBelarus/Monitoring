@@ -125,7 +125,7 @@ n1740102489  Абуховічы / null / Обуховичи / Обуховичи
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6182708,24.0681651]
 n1740102495
-  other tags : bench=yes | highway=bus_stop | shelter=yes
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6361450,24.0243521]
 n1740112636
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform
@@ -146,8 +146,8 @@ n1863692459  Абухава / null / Обухово / Обухово
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.6108929,24.0887042]
 n1863692462
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [53.6332670,24.0299722]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.6332833,24.0299936]
 n1863721263
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.6914484,23.8904620]
