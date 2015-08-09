@@ -20,7 +20,7 @@ n306068183  null / null / Магазин №42 / Магазин №10
   other tags : shop=convenience
     geometry : [52.4740155,31.0255871]
 n306068219  null / null / Евроопт
-  other tags : operator=Евроторг | shop=supermarket
+  other tags : opening_hours=09:00-22:00 | operator=Евроторг | shop=supermarket
     geometry : [52.4749618,31.0299665]
 n306068248  Магазін / null / Магазин / Магазин
   other tags : shop=general
@@ -58,7 +58,7 @@ n452504148  Асарці / null / Ассорти / Ассорти
     geometry : [52.4694494,30.9684086]
 n452506666  Кулінарыя / null / Кулинария
   other tags : shop=convenience
-    geometry : [52.4610883,30.9654461]
+    geometry : [52.4608541,30.9657756]
 n452534418  null / null / Универмаг Гомель
   other tags : addr:housenumber=60 | addr:postcode=246003 | addr:street=Советская улица | opening_hours=09:00-21:00 | shop=mall
     geometry : [52.4393997,31.0033839]
@@ -113,9 +113,9 @@ n566111007  null / null / Родная сторона
 n577368259  null / null / ОДО "НТС" - официальный дилер Volkswagen
   other tags : opening_hours=Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00 | operator=Volkswagen | service=dealer;parts;repair | shop=car | website=http://vw-gomel.by/
     geometry : [52.4662874,30.9739868]
-n586312302  null / null / Дискаунтер Евроопт
-  other tags : opening_hours=9:00-21:00 | shop=supermarket | website=http://www.euroopt.by/
-    geometry : [52.4282273,30.9460204]
+n586312302  null / null / Евроопт
+  other tags : opening_hours=9:00-22:00 | shop=supermarket | website=http://www.euroopt.by/
+    geometry : [52.4280582,30.9461932]
 n600093206  null / null / Лиман / Лиман
   other names: name:uk=Лиман
   other tags : shop=convenience | wheelchair=limited
@@ -250,7 +250,7 @@ n794364230  null / null / Ziko
     geometry : [52.4255618,31.0096462]
 n794364253  null / null / Прима
   other tags : opening_hours=10:00-19:00 | shop=chemist
-    geometry : [52.4617001,30.9666081]
+    geometry : [52.4617454,30.9667667]
 n794364340  null / null / Прима
   other tags : opening_hours=10:00-19:00 | shop=chemist
     geometry : [52.4261511,30.9998321]
@@ -1073,8 +1073,8 @@ n1563449260  null / null / Для Вас
 n1696111773  null / null / Магазин "Час Пик"
   other tags : shop=convenience
     geometry : [52.4423131,31.0009349]
-n1696111777  null / null / Дискаунтер "Евроопт"
-  other tags : shop=department_store
+n1696111777  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | shop=convenience
     geometry : [52.4080811,30.9288390]
 n1770697398  null / null / Стужка
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 9:00-16:00 | shop=curtain
@@ -1369,8 +1369,8 @@ n3473147339
   other tags : shop=farm
     geometry : [52.4409438,31.0028733]
 n3527897655  null / null / Евроопт
-  other tags : operator=Евроторг | shop=convenience
-    geometry : [52.4620869,30.9658335]
+  other tags : opening_hours=09:00-22:00 | operator=Евроторг | shop=convenience
+    geometry : [52.4620199,30.9655617]
 n3530520361
   other tags : shop=ticket
     geometry : [52.4360083,31.0111016]
@@ -1381,8 +1381,8 @@ n3594056872  null / null / Два гуся
   other tags : shop=convenience
     geometry : [52.4003272,30.9141814]
 n3594057144  null / null / Евроопт
-  other tags : operator=Евроторг | shop=convenience
-    geometry : [52.3987846,30.9105465]
+  other tags : opening_hours=09:00-22:00 | operator=Евроторг | shop=convenience
+    geometry : [52.3988057,30.9106500]
 n3594058668  null / null / Косметичка
   other tags : shop=cosmetics
     geometry : [52.3997204,30.9128555]
@@ -1398,3 +1398,33 @@ n3594062897  null / null / Твой велик
 n3650043145  АЛМІ / null / АЛМИ
   other tags : opening_hours=07:00-01:00 | shop=supermarket
     geometry : [52.4655608,30.9714120]
+n3654603753  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | shop=convenience
+    geometry : [52.3781909,31.0269144]
+n3654603754  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | shop=supermarket
+    geometry : [52.4048268,30.9190500]
+n3654603755  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | shop=convenience
+    geometry : [52.4070921,30.9815799]
+n3654603756  null / null / Евроопт
+  other tags : opening_hours=9:00-22:00 | shop=supermarket
+    geometry : [52.4126726,30.9704918]
+n3654603757  null / null / Евроопт
+  other tags : opening_hours=09:00-23:00 | shop=supermarket
+    geometry : [52.4163749,30.9605424]
+n3654603758  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | operator=Евроторг | shop=supermarket
+    geometry : [52.4463068,30.9475318]
+n3654603759  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | shop=convenience
+    geometry : [52.4565768,30.9603863]
+n3654603760  null / null / Евроопт
+  other tags : opening_hours=09:00-22:00 | operator=Евроторг | shop=supermarket
+    geometry : [52.4680113,31.0396981]
+n3654603761  null / null / Евроопт
+  other tags : opening_hours=09:00-21:00 | operator=Евроторг | shop=convenience
+    geometry : [52.4766671,31.0206192]
+n3654603965
+  other tags : shop=clothes
+    geometry : [52.4620785,30.9652826]

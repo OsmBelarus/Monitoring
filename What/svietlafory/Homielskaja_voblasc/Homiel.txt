@@ -263,7 +263,7 @@ n795714529  null / null / Автоцентр "Рено"
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | shelter=yes
     geometry : [52.4631169,30.9473374]
 n795714531  Чкалава / Čkalava / Чкалова
-  other tags : addr:street=улица Чкалова | highway=bus_stop
+  other tags : highway=bus_stop
     geometry : [52.4180587,30.9722474]
 n795714537  плошча Леніна / Plošča Lienina / площадь Ленина / площадь Ленина
   other tags : highway=bus_stop
@@ -442,7 +442,7 @@ n1085383911  вул. Жаркоўскага / null / улица Жарковск
     geometry : [52.4310766,31.0108255]
 n1096265728  null / null / Улица Быховская
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [52.4123354,30.9708051]
+    geometry : [52.4123065,30.9707937]
 n1099385911  null / null / Электотехнический Завод
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [52.4402375,30.9761689]
@@ -517,7 +517,7 @@ n1178825836  вуліца Макаёнка / null / улица Макаёнка 
     geometry : [52.4719491,31.0321928]
 n1178825889
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes
-    geometry : [52.4758640,31.0218734]
+    geometry : [52.4758298,31.0218569]
 n1178918765  Універсам / Univiersam / Универсам / Универсам
   other tags : highway=bus_stop
     geometry : [52.4483060,31.0231213]
