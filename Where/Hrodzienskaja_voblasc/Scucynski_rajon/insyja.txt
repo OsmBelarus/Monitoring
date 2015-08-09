@@ -60,7 +60,7 @@ n306067835  Жалудок / null / Желудок / Желудок
     geometry : [53.5997749,24.9469097]
 n344626776
   other tags : barrier=toll_booth | operator=BelToll | toll_length=12,13
-    geometry : [53.5869500,24.4804956]
+    geometry : [53.5868691,24.4804381]
 n391810202  null / null / Усадьба, Брама, Лямус
   other tags : tourism=viewpoint
     geometry : [53.6830160,24.9350638]
@@ -75,13 +75,13 @@ n432479982
     geometry : [53.7258173,24.4238372]
 n470620610
   other tags : barrier=toll_booth | operator=BelToll | toll_length=12,13
-    geometry : [53.5868119,24.4805563]
+    geometry : [53.5867788,24.4808059]
 n470620621
   other tags : barrier=toll_booth | operator=BelToll
-    geometry : [53.5923901,24.5193996]
+    geometry : [53.5923637,24.5193966]
 n470620640
   other tags : barrier=toll_booth | operator=BelToll
-    geometry : [53.5924996,24.5193279]
+    geometry : [53.5924680,24.5193397]
 n470690782
   other tags : source=survey | traffic_sign=BY:5.28[199]
     geometry : [53.6922763,24.8802732]
@@ -94,9 +94,6 @@ n706146573
 n706146845  Ражанка / Ražanka / Рожанка / Рожанка
   other tags : esr:user=137400 | public_transport=stop_position | railway=station | train=yes
     geometry : [53.5588092,24.7904843]
-n715498277  null / null / Место для отдыха
-  other tags : amenity=parking
-    geometry : [53.6064042,24.6377848]
 n1270079564  Геадэзічная дуга Струвэ / null / Геодезическая дуга Струве / Геодезическая дуга Струве
   other names: name:en=Struve Geodetic Arc
   other tags : description:be=Геадэзічны пункт Лапаты | historic=memorial | man_made=survey_point
@@ -182,15 +179,6 @@ n1473992836
 n2087080011
   other tags : railway=level_crossing
     geometry : [53.5086505,24.7247528]
-n2093999022
-  other tags : communication:mobile_phone=gsm | man_made=tower | tower:type=communication
-    geometry : [53.5881790,24.5105886]
-n2093999027
-  other tags : communication:mobile_phone=gsm | man_made=tower | tower:type=communication
-    geometry : [53.5890446,24.5070401]
-n2093999032
-  other tags : communication:mobile_phone=gsm | man_made=tower | tower:type=communication
-    geometry : [53.5890734,24.5113298]
 n2097890667
   other tags : man_made=tower | tower:type=communication
     geometry : [53.7255673,24.4249681]
@@ -631,10 +619,10 @@ n3007773200
     geometry : [53.6500500,24.7930223]
 n3089095273  Дамуцеўцы / Damucieŭcy / Домутевцы / Домутевцы
   other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
-    geometry : [53.6104111,24.6663284]
+    geometry : [53.6104594,24.6671566]
 n3089095274  Дамуцеўцы / Damucieŭcy / Домутевцы / Домутевцы
   other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
-    geometry : [53.6105147,24.6705675]
+    geometry : [53.6104930,24.6698433]
 n3151625284  Дамуцеўцы / Damucieŭcy / Домутевцы / Домутевцы
   other tags : bench=yes | bus=yes | public_transport=platform | shelter=yes
     geometry : [53.6121817,24.6672808]
@@ -737,6 +725,39 @@ n3522815395
 n3646809030
   other tags : man_made=water_tower
     geometry : [53.4645914,24.9317585]
+n3658299156
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6068459,24.6383821]
+n3658299157
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6068829,24.6386955]
+n3658299159
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6069284,24.6390813]
+n3658299160
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6069412,24.6391897]
+n3658299161
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6069539,24.6392978]
+n3658299164
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6070910,24.6395104]
+n3658299166
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6071042,24.6396188]
+n3658299167
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6071163,24.6397179]
+n3658299168
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6071360,24.6398795]
+n3658299169
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6071650,24.6401180]
+n3658299170
+  other tags : traffic_calming=rumble_strip
+    geometry : [53.6072030,24.6404296]
 w25141839
   other tags : admin_level=8 | boundary=administrative
     geometry : n273986290[53.5665900,24.9590500] n273986292[53.5639300,24.9593100] n273986294[53.5635800,24.9599100] n273986297[53.5635800,24.9627400] n273986299[53.5667600,24.9626500] n273986290[53.5665900,24.9590500]
@@ -9052,7 +9073,7 @@ r3170536
     geometry : <under> w296951971: n2435874506[53.6182948,24.7008175] n2357544288[53.6167237,24.6955748] : w296951971
     geometry : <under> w296951972: n2357544288[53.6167237,24.6955748] n3007703633[53.6165448,24.6948976] n2357544284[53.6164129,24.6943985] : w296951972
     geometry : <under> w356525296: n2357544284[53.6164129,24.6943985] n275448544[53.6149397,24.6894086] : w356525296
-    geometry : <under> w296951973: n2425968030[53.6059843,24.6300109] n1740102466[53.6060659,24.6311472] n470620629[53.6061377,24.6320758] n715498267[53.6065123,24.6355822] n2357544280[53.6066950,24.6369708] n715498276[53.6069982,24.6396428] n470620630[53.6078396,24.6468113] n1723433059[53.6080675,24.6487168] n706029870[53.6082947,24.6506162] n706029878[53.6092940,24.6590325] n1723433061[53.6104272,24.6685681] n2435874386[53.6109494,24.6730053] n2435874394[53.6111797,24.6748942] n1723433062[53.6114971,24.6770041] n2435878143[53.6117431,24.6784583] n1723433064[53.6119560,24.6794521] n1723433065[53.6125325,24.6816860] n1723433066[53.6137192,24.6857225] n2435878148[53.6148216,24.6894688] : w296951973
+    geometry : <under> w296951973: n2425968030[53.6059646,24.6299047] n1740102466[53.6060442,24.6311173] n470620629[53.6061692,24.6325204] n715498267[53.6065166,24.6355629] n2357544280[53.6066964,24.6371154] n3658299156[53.6068459,24.6383821] n3658299157[53.6068829,24.6386955] n3658299159[53.6069284,24.6390813] n3658299160[53.6069412,24.6391897] n3658299161[53.6069539,24.6392978] n715498276[53.6069682,24.6394186] n3658299172[53.6074118,24.6431207] n470620630[53.6078396,24.6467738] n1723433059[53.6080875,24.6488036] n706029870[53.6084291,24.6517395] n3658299175[53.6088637,24.6553832] n706029878[53.6092171,24.6582928] n3658299177[53.6098207,24.6634040] n1723433061[53.6104272,24.6685681] n2435874386[53.6109494,24.6730053] n2435874394[53.6111797,24.6748942] n1723433062[53.6115037,24.6770152] n2435878143[53.6117431,24.6784583] n1723433064[53.6119560,24.6794521] n1723433065[53.6125325,24.6816860] n1723433066[53.6137192,24.6857225] n2435878148[53.6148216,24.6894688] : w296951973
     geometry : <under> w292961246: n2435878148[53.6148216,24.6894688] n1723433067[53.6151822,24.6907402] n2434574937[53.6162799,24.6945235] : w292961246
     geometry : <under> w296951970: n2434574937[53.6162799,24.6945235] n2358056967[53.6181857,24.7009256] : w296951970
     geometry : <under> w296951969: n2358056967[53.6181857,24.7009256] n2358056965[53.6209048,24.7100718] : w296951969
