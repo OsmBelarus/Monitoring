@@ -342,8 +342,8 @@ w49494836  вуліца Гастэлы / vulica Hastely / улица Гасте�
   other tags : highway=primary
     geometry : n1400256886[53.9069394,25.2520238] n3154114587[53.9067333,25.2527044] n3180438213[53.9066877,25.2528425] n1460894672[53.9065551,25.2532441] n3154114586[53.9063876,25.2537702] n1390744375[53.9053329,25.2570217] n3158911265[53.9047410,25.2588556] n2128052016[53.9044432,25.2597782]
 w49494837
-  other tags : highway=trunk | int_ref=E 85 | oneway=no | surface=asphalt
-    geometry : n1400256891[53.9062689,25.2501248] n2520667352[53.9050860,25.2502503] n1424941390[53.9031073,25.2504997] n275442518[53.8977377,25.2510676] n3610377433[53.8927755,25.2517317] n275442554[53.8926856,25.2517437]
+  other tags : highway=trunk | int_ref=E 85 | lanes=2 | oneway=no | surface=asphalt
+    geometry : n1400256891[53.9062689,25.2501248] n2520667352[53.9050860,25.2502503] n1424941390[53.9031073,25.2504997] n275442518[53.8977377,25.2510676] n3670755489[53.8934315,25.2516439]
 w51782681
   other tags : highway=unclassified
     geometry : n660763498[53.8628290,25.2838068] n2851497077[53.8630290,25.2846380]
@@ -1770,10 +1770,10 @@ w126269944  вуліца Гастэлы / vulica Hastely / улица Гасте
   other tags : highway=primary_link | oneway=yes
     geometry : n628883844[53.9072498,25.2503586] n3248100691[53.9072681,25.2505969] n1400256882[53.9072257,25.2510043] n3248100688[53.9071461,25.2513093] n1400256886[53.9069394,25.2520238]
 w126269945
-  other tags : highway=trunk_link | int_ref=E 85 | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | lanes=1 | oneway=yes
     geometry : n1400256891[53.9062689,25.2501248] n3248100681[53.9065292,25.2501159] n3248100683[53.9066762,25.2501098] n1403136235[53.9068196,25.2500975] n3248100685[53.9069740,25.2501098] n1400256890[53.9070776,25.2501821] n628883844[53.9072498,25.2503586]
 w126269946
-  other tags : highway=trunk_link | int_ref=E 85 | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | lanes=1 | oneway=yes
     geometry : n628883796[53.9074339,25.2492937] n3248100690[53.9072537,25.2494826] n3248100687[53.9070887,25.2496409] n3248100686[53.9069775,25.2497323] n3248100684[53.9067874,25.2499028] n3248100682[53.9066727,25.2499819] n3248100680[53.9065256,25.2500671] n1400256891[53.9062689,25.2501248]
 w126269947  вуліца Фамічова / vulica Famičova / улица Фомичёва / улица Фомичёва
   other tags : highway=primary_link | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
@@ -3525,10 +3525,10 @@ w311231621  Камуністычная вуліца / Kamunistyčnaja vulica / �
   other tags : highway=trunk | int_ref=E 85 | junction=roundabout | maxspeed=60 | surface=asphalt
     geometry : n275442571[53.8760116,25.2727915] n3160064676[53.8760493,25.2730299] n678901192[53.8760829,25.2731183] n1400245069[53.8761719,25.2732527] n275442573[53.8762826,25.2733258] n275442561[53.8763947,25.2733307]
 w311231622  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=trunk_link | int_ref=E 85 | junction=roundabout | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | junction=roundabout | lanes=2 | oneway=yes
     geometry : n628883844[53.9072498,25.2503586] n1400256887[53.9073510,25.2505427] n628883856[53.9075018,25.2507009] n3248100694[53.9076662,25.2507247] n628883747[53.9077969,25.2506987]
 w311231623  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=trunk_link | int_ref=E 85 | junction=roundabout | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | junction=roundabout | lanes=2 | oneway=yes
     geometry : n1400256903[53.9081226,25.2495218] n628883773[53.9080331,25.2493653] n1400256915[53.9079008,25.2492302] n1403136237[53.9077274,25.2491883] n3248100693[53.9076088,25.2492208] n628883796[53.9074339,25.2492937]
 w311231626  вуліца Качана / vulica Kačana / улица Качана / улица Качана
   other tags : highway=primary | junction=roundabout | oneway=yes
@@ -3619,7 +3619,7 @@ w311250833  Камуністычная вуліца / Kamunistyčnaja vulica / �
   other tags : highway=trunk | int_ref=E 85 | junction=roundabout | maxspeed=60 | surface=asphalt
     geometry : n275442575[53.8763899,25.2722017] n3160084186[53.8762459,25.2722236] n3160084187[53.8761545,25.2723002] n1400245057[53.8760898,25.2724008] n678901185[53.8760315,25.2725724]
 w311250836
-  other tags : highway=trunk | int_ref=E 85 | surface=asphalt
+  other tags : highway=trunk | int_ref=E 85 | lanes=2 | surface=asphalt
     geometry : n1102173577[53.8772816,25.2577981] n1102173612[53.8739702,25.2591054] n1799306076[53.8727759,25.2596059] n275442556[53.8723637,25.2597400]
 w311252495
   other tags : highway=trunk | int_ref=E 85 | maxspeed=60 | surface=asphalt
@@ -3730,10 +3730,10 @@ w315165850
   other tags : highway=unclassified | surface=unpaved
     geometry : n2851650936[53.8821939,25.2790466] n3212608853[53.8823573,25.2800931]
 w318408428  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=trunk_link | junction=roundabout | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
+  other tags : highway=trunk_link | junction=roundabout | lanes=2 | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
     geometry : n628883796[53.9074339,25.2492937] n3248100692[53.9073040,25.2495557] n628883822[53.9072133,25.2497934] n1400256913[53.9072087,25.2500725] n628883844[53.9072498,25.2503586]
 w318408429  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=trunk_link | junction=roundabout | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
+  other tags : highway=trunk_link | junction=roundabout | lanes=2 | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
     geometry : n628883747[53.9077969,25.2506987] n3248100696[53.9079819,25.2505116] n628883756[53.9080927,25.2503609] n628883763[53.9081706,25.2500847] n1400256912[53.9081743,25.2498399] n1400256903[53.9081226,25.2495218]
 w318987483  Ленінская вуліца / Lieninskaja vulica / Ленинская улица / Ленинская улица
   other tags : highway=primary | maxspeed=60 | oneway=yes | surface=asphalt
@@ -3888,11 +3888,11 @@ w333399858  Савецкая вуліца / Savieckaja vulica / Советска
   other tags : highway=primary | surface=asphalt
     geometry : n1041873729[53.8903928,25.3028478] n275442379[53.8901931,25.3028404]
 w333399859
-  other tags : highway=trunk | int_ref=E 85 | oneway=no | surface=asphalt
+  other tags : highway=trunk | int_ref=E 85 | lanes=4 | oneway=no | surface=asphalt
     geometry : n275442554[53.8926856,25.2517437] n275442555[53.8917458,25.2521104]
 w333399860
-  other tags : highway=trunk | int_ref=E 85 | oneway=no | surface=asphalt
-    geometry : n275442555[53.8917458,25.2521104] n686623028[53.8894258,25.2529591] n1126352323[53.8874408,25.2537643] n725246038[53.8848825,25.2548088] n3154113957[53.8827959,25.2556312] n3154113955[53.8784528,25.2573379] n1102173577[53.8772816,25.2577981]
+  other tags : highway=trunk | int_ref=E 85 | lanes=4 | oneway=no | surface=asphalt
+    geometry : n275442555[53.8917458,25.2521104] n3670755488[53.8914235,25.2522283]
 w333399861  вуліца Куйбышава / vulica Kujbyšava / улица Куйбышева / улица Куйбышева
   other names: name:wikipedia:ru=Куйбышев,_Валериан_Владимирович
   other tags : highway=secondary
@@ -4247,3 +4247,9 @@ w360609986
 w360609987
   other tags : bicycle=yes | foot=yes | highway=path | horse=yes | mtb:scale=0 | mtb:scale:uphill=0 | surface=unpaved | trail_visibility=excellent | width=1
     geometry : n3651266118[53.8772646,25.3265416] n3651272232[53.8774789,25.3272406]
+w362829761
+  other tags : highway=trunk | int_ref=E 85 | lanes=4 | oneway=no | surface=asphalt
+    geometry : n3670755489[53.8934315,25.2516439] n3610377433[53.8927755,25.2517317] n275442554[53.8926856,25.2517437]
+w362829762
+  other tags : highway=trunk | int_ref=E 85 | lanes=2 | oneway=no | surface=asphalt
+    geometry : n3670755488[53.8914235,25.2522283] n686623028[53.8894258,25.2529591] n1126352323[53.8874408,25.2537643] n725246038[53.8848825,25.2548088] n3154113957[53.8827959,25.2556312] n3154113955[53.8784528,25.2573379] n1102173577[53.8772816,25.2577981]
