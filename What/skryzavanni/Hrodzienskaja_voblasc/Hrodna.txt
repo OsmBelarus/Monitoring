@@ -1446,10 +1446,10 @@ n2315991506
     geometry : [53.6426585,23.8681473]
 n2315991510
   other tags : highway=crossing
-    geometry : [53.6460594,23.8238719]
+    geometry : [53.6460626,23.8238631]
 n2315991511
   other tags : highway=crossing
-    geometry : [53.6462104,23.8238384]
+    geometry : [53.6462105,23.8238397]
 n2338632305
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.6797803,23.8622406]
@@ -1581,10 +1581,16 @@ n2368195257
     geometry : [53.6924168,23.8094651]
 n2369278323
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.6457255,23.8185568]
+    geometry : [53.6457378,23.8185534]
 n2369278324
   other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.6459218,23.8185732]
+    geometry : [53.6459219,23.8185718]
+n2369278360
+  other tags : highway=crossing
+    geometry : [53.6477754,23.8094827]
+n2369278362
+  other tags : highway=crossing
+    geometry : [53.6478679,23.8095627]
 n2369278393
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.6497281,23.8028351]
@@ -1657,6 +1663,12 @@ n2371091473
 n2371091482
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.6968581,23.8397731]
+n2371288870
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.6467899,23.8294737]
+n2371288872
+  other tags : crossing=traffic_signals | highway=crossing
+    geometry : [53.6471527,23.8318558]
 n2371288873
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.6472076,23.8316057]
@@ -1843,6 +1855,9 @@ n2625705199
 n2625705205
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.6739708,23.8638078]
+n2625747016
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.6442435,23.8261282]
 n2626266791
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.6561493,23.7797720]
@@ -2458,3 +2473,9 @@ n3652965673
 n3652965676
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.6434650,23.8497632]
+n3653199767
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.6436593,23.8265264]
+n3653199773
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.6442549,23.8264795]
