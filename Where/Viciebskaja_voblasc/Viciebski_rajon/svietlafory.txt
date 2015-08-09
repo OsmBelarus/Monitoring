@@ -146,11 +146,8 @@ n1947954972
   other tags : highway=bus_stop
     geometry : [55.1226262,30.2750543]
 n2046802070
-  other tags : highway=bus_stop
-    geometry : [55.2792476,30.3265898]
-n2046802232
-  other tags : bus=yes | highway=bus_stop | public_transport=stop_position
-    geometry : [55.2804827,30.3259493]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2792561,30.3265411]
 n2141443261  null / null / Витьба
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [55.2505105,30.3198747]
@@ -568,3 +565,9 @@ n3651159929
 n3651159955
   other tags : highway=bus_stop
     geometry : [55.1314188,30.4621752]
+n3657191312
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2442517,30.4465878]
+n3657191314
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2446591,30.4466717]
