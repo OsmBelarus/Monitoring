@@ -1,9 +1,12 @@
-w223681599  Царква Уваскрэшання Хрыстова / null / Церковь Воскресения Христова
-  other tags : amenity=place_of_worship | building=yes | building:levels=1 | religion=christian | tourism=attraction
+w223681599  Царква Уваскрэшання Хрыстова 1870г. / null / Церковь Воскресения Христова 1870г. / Церковь Воскресения Христова 1870г.
+  other tags : addr:street=улица Орджоникидзе | amenity=place_of_worship | building=yes | building:levels=1 | denomination=russian_orthodox | religion=christian | tourism=attraction
     geometry : n2788685898[55.5673586,28.2188755] n2325549828[55.5674325,28.2189787] n2325549817[55.5673672,28.2191248] n2325549805[55.5672941,28.2190227] n2788685898[55.5673586,28.2188755]
-w223844602  касцёл Беззаганнага Зачацця Найсвяцейшай Панны Марыі / null / Костел Непорочного зачатия Пресвятой Девы Марии
-  other tags : addr:housenumber=3 | addr:street=улица Пушкина | amenity=place_of_worship | building=yes | building:levels=4 | denomination=catholic | note=http://catholic.by/2/belarus/dioceses/vitebsk/101060.html | religion=christian
-    geometry : n2327045710[55.5691362,28.2148564] n2327045709[55.5691060,28.2143622] n2327045702[55.5690489,28.2143709] n2327045701[55.5690421,28.2142427] n2327045697[55.5690102,28.2141862] n2327045692[55.5689807,28.2141873] n2327045686[55.5689524,28.2142318] n2327045687[55.5689531,28.2143383] n2327045688[55.5689543,28.2143872] n2327045678[55.5688926,28.2143930] n2327045683[55.5689202,28.2148971] n2327045710[55.5691362,28.2148564]
+w223681651  null / null / Синагога 1875г.
+  other tags : amenity=place_of_worship | building=yes | building:levels=1 | religion=jewish | tourism=attraction
+    geometry : n2325549440[55.5665338,28.2141212] n2325549401[55.5664113,28.2141747] n2325549418[55.5665062,28.2148541] n2325549492[55.5666287,28.2148006] n2325549440[55.5665338,28.2141212]
+w223844692  null / null / Христианская церковь Надежда
+  other tags : addr:housenumber=16 | addr:street=Первомайская улица | amenity=place_of_worship | building=yes | building:levels=1 | denomination=baptist | religion=christian
+    geometry : n2327045189[55.5668988,28.2101369] n2327045166[55.5668289,28.2101716] n2327045180[55.5668606,28.2103714] n2327045193[55.5669306,28.2103367] n2327045189[55.5668988,28.2101369]
 w343022505  null / null / Церковь Божией Матери Одигитрии
   other tags : amenity=place_of_worship | building=church | building:levels=1 | denomination=orthodox | religion=christian
     geometry : n3499462099[55.5685713,28.1993022] n3499462098[55.5685579,28.1996096] n3499462096[55.5684792,28.1995989] n3499462097[55.5684926,28.1992915] n3499462099[55.5685713,28.1993022]
