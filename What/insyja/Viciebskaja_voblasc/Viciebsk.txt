@@ -14117,7 +14117,7 @@ w35810245
   other tags : natural=water
     geometry : n418708705[55.1573747,30.2243018] n418707650[55.1574334,30.2238594] n418707894[55.1575735,30.2239163] n418707868[55.1575148,30.2243587] n418708705[55.1573747,30.2243018]
 w35810251
-  other tags : building=hospital | building:levels=1
+  other tags : addr:housenumber=34 к1 | addr:street=проспект Победы | building=hospital | building:levels=1
     geometry : n418708221[55.1558364,30.2161870] n418708402[55.1561695,30.2163351] n418708415[55.1561414,30.2165286] n418708194[55.1558083,30.2163805] n418708221[55.1558364,30.2161870]
 w35810253
   other tags : addr:housenumber=34 | addr:street=проспект Победы | building=hospital | building:levels=4
@@ -15351,7 +15351,7 @@ w131014301
   other tags : leisure=pitch | lit=no | sport=beachvolleyball | surface=sand
     geometry : n1442540230[55.1891000,30.2194891] n1442540228[55.1890697,30.2196158] n1442540222[55.1889486,30.2195270] n1442540225[55.1889788,30.2194004] n1442540230[55.1891000,30.2194891]
 w131390464  Пампоўня / null / Насосная
-  other tags : building=industrial | building:levels=1 | man_made=water_works
+  other tags : addr:housenumber=10А | addr:street=Медицинская улица | building=industrial | building:levels=1 | man_made=water_works
     geometry : n1446138752[55.1525109,30.2236009] n1446138751[55.1525078,30.2237656] n1446138739[55.1524152,30.2237603] n1446138740[55.1524183,30.2235956] n1446138752[55.1525109,30.2236009]
 w131999890
   other tags : natural=water
