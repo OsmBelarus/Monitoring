@@ -131,8 +131,8 @@ n1275710747
   other tags : traffic_calming=bump
     geometry : [55.1802702,30.1795026]
 n1276815805
-  other tags : traffic_calming=bump
-    geometry : [55.2085774,30.1968159]
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [55.2085983,30.1967885]
 n1278035214
   other tags : traffic_calming=bump
     geometry : [55.2117760,30.2346857]
@@ -460,3 +460,6 @@ n3633916311
 n3633916317
   other tags : traffic_calming=bump
     geometry : [55.1765649,30.1174673]
+n3667125595
+  other tags : highway=crossing | traffic_calming=bump
+    geometry : [55.2113441,30.1903720]
