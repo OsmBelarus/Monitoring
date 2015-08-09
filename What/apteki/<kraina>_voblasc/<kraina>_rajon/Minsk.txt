@@ -641,9 +641,9 @@ n990442724  Белфармацыя №110 / Bielfarmacyja №110 / Белфар�
 n990814034  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [53.8440848,27.5269125]
-n991209361  null / null / Доктор До / Доктор До
-  other tags : amenity=pharmacy
-    geometry : [53.9088653,27.6315337]
+n991209361  Доктар До / null / Доктор До / Доктор До
+  other tags : amenity=pharmacy | drive_through=no | opening_hours=24/7 | operator=ООО Табина | phone=+375 17 210 0772
+    geometry : [53.9091986,27.6318038]
 n1011755785
   other tags : amenity=pharmacy
     geometry : [53.8872096,27.5023643]
