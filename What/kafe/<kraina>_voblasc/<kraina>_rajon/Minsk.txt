@@ -965,7 +965,7 @@ n963701003  null / null / Мулен Руж Show
     geometry : [53.9046080,27.5398710]
 n963714057  null / null / Jack club
   other tags : amenity=restaurant
-    geometry : [53.9028192,27.5496902]
+    geometry : [53.9028439,27.5494886]
 n964926671  null / null / Pick up Cafe
   other tags : amenity=cafe | internet_access=wlan
     geometry : [53.8904529,27.4207920]
@@ -2474,7 +2474,7 @@ n3207033863  null / null / Сицилия
   other tags : addr:city=Минск | addr:housenumber=10 | addr:street=Нововиленская улица | amenity=cafe | cuisine=italian | internet_access=no | opening_hours=Mo-We 12:00-23:00; Tu-Sa 12:00-01:00; Su 12:00-23:00 | phone=+375 29 666-99-09 | smoking=no
     geometry : [53.9298918,27.5413563]
 n3207757442  null / null / McDonald's
-  other tags : amenity=restaurant | cuisine=burger | smoking=no
+  other tags : amenity=fast_food | cuisine=burger | smoking=no
     geometry : [53.9023230,27.5485885]
 n3207758884  null / null / Кофейня золотой гребешок
   other tags : amenity=cafe | smoking=no
@@ -2859,6 +2859,12 @@ n3653733194  null / null / People's
 n3654159990  Сталовая / null / Столовая
   other tags : amenity=fast_food | operator=ООО "БелФэстКомпани"
     geometry : [53.9331158,27.5919032]
+n3661313635  null / null / Papa John's
+  other tags : amenity=fast_food | cuisine=pizza | opening_hours=11:00-23:00
+    geometry : [53.9025490,27.5489328]
+n3661313693  null / null / Встретимся на Немиге
+  other tags : amenity=cafe | opening_hours=17:00-23:00
+    geometry : [53.9040323,27.5510634]
 w25313232  Сталовая / null / Столовая / Столовая
   other tags : amenity=fast_food | building=yes
     geometry : n275735058[53.9517978,27.6967034] n275735059[53.9519362,27.6971524] n275735060[53.9518475,27.6972314] n275735061[53.9518055,27.6970952] n275735062[53.9515874,27.6972894] n275735063[53.9516734,27.6975684] n275735064[53.9515203,27.6977046] n275735065[53.9514328,27.6974209] n275735066[53.9513415,27.6975022] n275735067[53.9512801,27.6973030] n275735068[53.9513751,27.6972184] n275735069[53.9512880,27.6969358] n275735070[53.9514292,27.6968100] n275735071[53.9515133,27.6970827] n275735072[53.9517432,27.6968780] n275735073[53.9517127,27.6967792] n275735058[53.9517978,27.6967034]
@@ -2866,9 +2872,6 @@ w25325766  null / null / МакДональдс
   other names: name:en=McDonald's
   other tags : addr:housenumber=63 | addr:postcode=220100 | addr:street=улица Сурганова | amenity=fast_food | building=yes | cuisine=burger | drive_through=yes | opening_hours=Mo-Su 07:00-24:00
     geometry : n275917595[53.9300521,27.5777661] n275917596[53.9299530,27.5776618] n275917597[53.9300324,27.5774440] n275917598[53.9300069,27.5774172] n275917599[53.9300911,27.5771863] n275917601[53.9302158,27.5773174] n275917595[53.9300521,27.5777661]
-w25387439  null / null / McDonald's
-  other tags : amenity=fast_food | building=yes | cuisine=sandwich
-    geometry : n276698826[53.9025679,27.5486420] n276698827[53.9024467,27.5488969] n276698830[53.9022867,27.5486719] n276698831[53.9022709,27.5486275] n276698832[53.9022633,27.5485824] n276698833[53.9022665,27.5485366] n276698837[53.9022783,27.5484884] n276698839[53.9022500,27.5484511] n276698840[53.9022924,27.5483531] n276698841[53.9023210,27.5483391] n276698842[53.9023425,27.5483414] n276698843[53.9023637,27.5483559] n276698826[53.9025679,27.5486420]
 w144032862  McDonald's / null / McDonald's / McDonald's
   other tags : addr:housenumber=2 | addr:street=улица Шугаева | amenity=fast_food | building=yes | building:levels=2 | construction=true | height=6
     geometry : n1576202258[53.9426745,27.6828071] n1888632187[53.9427340,27.6827578] n1576202262[53.9429148,27.6826079] n1902794878[53.9428516,27.6823877] n1576202260[53.9427745,27.6821193] n1902794866[53.9426599,27.6822143] n1576202256[53.9425342,27.6823185] n1576202258[53.9426745,27.6828071]
