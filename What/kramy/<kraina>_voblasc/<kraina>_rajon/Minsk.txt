@@ -5648,8 +5648,8 @@ n2141034245  null / null / Автохаус 4 колеса
   other tags : phone=+375447740077 | shop=car
     geometry : [53.8741279,27.4995605]
 n2143724647  null / null / Кулинария
-  other tags : shop=convenience
-    geometry : [53.9184628,27.5657389]
+  other tags : opening_hours=Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00 | shop=convenience
+    geometry : [53.9184689,27.5657272]
 n2143724648  null / null / Сток
   other tags : shop=clothes
     geometry : [53.9185388,27.5657935]
@@ -11561,3 +11561,9 @@ n3661947037  null / null / В переходе
 n3662095886  null / null / RomGil
   other tags : opening_hours=Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00 | shop=clothes
     geometry : [53.9185634,27.5889577]
+n3662661900  null / null / Gorenje
+  other tags : opening_hours=Mo-Su 11:00-20:00 | shop=electronics
+    geometry : [53.9202397,27.5674341]
+n3662665998  null / null / Белсоюзпечать
+  other tags : shop=kiosk
+    geometry : [53.9161967,27.5638358]
