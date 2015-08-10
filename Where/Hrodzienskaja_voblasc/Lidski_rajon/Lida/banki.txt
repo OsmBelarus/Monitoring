@@ -17,25 +17,25 @@ n3385779070  null / null / Альфа-банк. Отделение На Сове
   other tags : amenity=bank | opening_hours=Mo-Th 09:00-17:00; Fr 09:00-16:00 | operator=Альфа-банк | website=http://alfabank.by/
     geometry : [53.8910957,25.3026168]
 n3385803170  null / null / БелВЭБ. Отделение в городе Лиде / БелВЭБ. Отделение в городе Лиде
-  other tags : amenity=bank | opening_hours=Mo-Th 10:00-19:00; Fr 11:00-18:45; Su off; Sa off; PH off | operator=Банк БелВЭБ | website=http://bveb.by/
+  other tags : amenity=bank | opening_hours=Mo-Th 10:00-19:00; Fr 11:00-18:45; Su off; Sa off; ph off | operator=Банк БелВЭБ | website=http://bveb.by/
     geometry : [53.8973215,25.3019820]
 n3385803171  null / null / БелВЭБ. Центр розничного бизнеса №760/1 / БелВЭБ. Центр розничного бизнеса №760/1
-  other tags : amenity=bank | opening_hours=Mo-Th 10:00-14:15,15:00-19:00; Fr 11:00-14:15,15:00-18:45; Su off; Sa off; PH off | operator=Банк БелВЭБ | website=http://bveb.by/
+  other tags : amenity=bank | opening_hours=Mo-Th 10:00-14:15,15:00-19:00; Fr 11:00-14:15,15:00-18:45; Su off; Sa off; ph off | operator=Банк БелВЭБ | website=http://bveb.by/
     geometry : [53.8921374,25.2559731]
 n3390584136  null / null / ВТБ. Дополнительный офис №404 / ВТБ. Дополнительный офис №404
   other tags : amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Su 10:00-16:00; Sa off | operator=Банк ВТБ (Беларусь) | phone=+375 154 52-35-77 | website=http://vtb-bank.by/
     geometry : [53.8926527,25.3026960]
 n3390611513  null / null / Белагропромбанк. ОП №8 / Белагропромбанк. ОП №8
-  other tags : amenity=bank | opening_hours=Th-Sa 09:00-12:00,12:30-15:00; Su 09:00-12:00,12:30-15:00; PH off | operator=Белагропромбанк | phone=+375 154 52-14-48 | website=http://belapb.by/
+  other tags : amenity=bank | opening_hours=Th-Sa 09:00-12:00,12:30-15:00; Su 09:00-12:00,12:30-15:00; ph off | operator=Белагропромбанк | phone=+375 154 52-14-48 | website=http://belapb.by/
     geometry : [53.8831131,25.3024303]
 n3390611514  null / null / Белагропромбанк. ОП №9 / Белагропромбанк. ОП №9
-  other tags : amenity=bank | opening_hours=Tu-Sa 08:30-13:00,13:30-16:00; PH off | operator=Белагропромбанк | website=http://belapb.by/
+  other tags : amenity=bank | opening_hours=Tu-Sa 08:30-13:00,13:30-16:00; ph off | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8976362,25.2811716]
 n3390611515  null / null / Белагропромбанк. РКЦ №15 / Белагропромбанк. РКЦ №15
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30; Su 10:00-15:00; Sa off; PH off | operator=Белагропромбанк | phone=+375 154 52-83-26 | website=http://belapb.by/
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-18:30; Su 10:00-15:00; Sa off; ph off | operator=Белагропромбанк | phone=+375 154 52-83-26 | website=http://belapb.by/
     geometry : [53.8921282,25.3048783]
 n3390611516  null / null / Белагропромбанк. РКЦ №17 / Белагропромбанк. РКЦ №17
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-13:00,14:00-17:30; Su off; Sa off; PH off | operator=Белагропромбанк | phone=+375 154 54-74-28 | website=http://belapb.by/
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:30-13:00,14:00-17:30; Su off; Sa off; ph off | operator=Белагропромбанк | phone=+375 154 54-74-28 | website=http://belapb.by/
     geometry : [53.8675943,25.2862269]
 n3390616147  null / null / Беларусбанк. Филиал №413 / Беларусбанк. Филиал №413
   other tags : amenity=bank | opening_hours=Mo-Th 08:30-12:30,13:15-17:00; Fr 08:30-12:30,13:15-15:30 | operator=Беларусбанк | phone=+375 154 53-91-05 | website=http://belarusbank.by/
@@ -128,10 +128,10 @@ n3393684846  null / null / Франсабанк. ЦБУ №1 / Франсаба�
   other tags : amenity=bank | opening_hours=Mo-Th 09:00-13:00,13:45-17:00, Fr Mo-Fr 09:00-13:00,13:45-16:00 | operator=Франсабанк | phone=+375 154 52-11-09 | website=http://fransabank.by/
     geometry : [53.8856357,25.3001852]
 n3393689000  null / null / Home Credit Bank. ЦБУ №406 / Home Credit Bank. ЦБУ №406
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00; Su off; PH off | operator=Хоум Кредит Банк | website=http://homecredit.by/
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-17:00; Su off; ph off | operator=Хоум Кредит Банк | website=http://homecredit.by/
     geometry : [53.8925575,25.3027001]
 n3516931607  null / null / Белинвестбанк
-  other tags : addr:city=Лида | addr:housenumber=10 | addr:postcode=231300 | addr:street=улица Кирова | amenity=bank | atm=yes
+  other tags : addr:housenumber=10 | addr:postcode=231300 | addr:street=улица Кирова | amenity=bank | atm=yes
     geometry : [53.8935871,25.2986611]
 w53448064
   other tags : addr:housenumber=10 | addr:street=Советская улица | amenity=bank | building=yes

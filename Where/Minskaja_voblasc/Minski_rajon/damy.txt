@@ -158,13 +158,13 @@ w28398852
   other tags : addr:housenumber=1А | addr:postcode=223028 | addr:street=Парковая улица | building=apartments | building:levels=10
     geometry : n311949361[53.9488126,27.4279882] n311950877[53.9487368,27.4278630] n311949363[53.9486111,27.4276544] n311949365[53.9486260,27.4270552] n311949369[53.9488318,27.4267328] n311949371[53.9491214,27.4267121] n1644657794[53.9491448,27.4269419] n311949372[53.9490288,27.4270953] n311949373[53.9488904,27.4269510] n311949374[53.9487603,27.4271606] n311949375[53.9487551,27.4274802] n311950882[53.9488814,27.4277033] n311949379[53.9489557,27.4277163] n311949380[53.9489430,27.4280061] n311949361[53.9488126,27.4279882]
 w28598913
-  other tags : addr:city=Ждановичи | addr:housenumber=1 | addr:street=Кольцевая | building=residential | building:levels=3
+  other tags : addr:housenumber=1 | addr:street=Кольцевая | building=residential | building:levels=3
     geometry : n314194690[53.9389253,27.4282153] n314194691[53.9393036,27.4286546] n314194692[53.9392237,27.4288532] n314194694[53.9388454,27.4284138] n314194690[53.9389253,27.4282153]
 w28598919
-  other tags : addr:city=Ждановичи | addr:housenumber=4 | addr:street=Кольцевая | building=residential | building:levels=3 | roof:shape=gabled
+  other tags : addr:housenumber=4 | addr:street=Кольцевая | building=residential | building:levels=3 | roof:shape=gabled
     geometry : n314194849[53.9398587,27.4304381] n314194850[53.9399161,27.4302942] n314194851[53.9401598,27.4305745] n314194852[53.9401024,27.4307184] n314194849[53.9398587,27.4304381]
 w28598921
-  other tags : addr:city=Ждановичи | addr:housenumber=2 | building=residential | building:levels=5 | roof:shape=gabled
+  other tags : addr:housenumber=2 | building=residential | building:levels=5 | roof:shape=gabled
     geometry : n314194895[53.9397747,27.4300963] n3326610105[53.9395242,27.4298177] n314194897[53.9394717,27.4299530] n314194898[53.9397224,27.4302323] n314194895[53.9397747,27.4300963]
 w28598931
   other tags : addr:housenumber=8 | addr:street=Кольцевая | building=residential | building:levels=5
@@ -239,7 +239,7 @@ w30012409
   other tags : addr:housenumber=37 | addr:street=Минская улица | building=house
     geometry : n330386910[53.9541982,27.7710302] n330386911[53.9540719,27.7711144] n1724214124[53.9540965,27.7712211] n1724214123[53.9540572,27.7712473] n330386912[53.9540798,27.7713454] n330386913[53.9542455,27.7712350] n330386910[53.9541982,27.7710302]
 w32897656
-  other tags : addr:city=Лесной | addr:housenumber=16 | addr:place=Лесной | building=apartments | building:levels=9
+  other tags : addr:housenumber=16 | addr:place=Лесной | building=apartments | building:levels=9
     geometry : n370501350[54.0043600,27.6829894] n370501351[54.0043531,27.6832212] n370501352[54.0036394,27.6831599] n370501355[54.0036463,27.6829281] n3451569164[54.0037320,27.6829352] n3451569163[54.0038996,27.6829491] n3451569162[54.0040843,27.6829644] n3451569161[54.0042695,27.6829797] n370501350[54.0043600,27.6829894]
 w36516734
   other tags : addr:housenumber=2 | addr:street=Алмазная улица | building=house
@@ -337,6 +337,9 @@ w45781596
 w45781597
   other tags : building=residential
     geometry : n582989125[53.9485336,27.7437949] n582989128[53.9484432,27.7438518] n582989127[53.9484123,27.7437097] n582989126[53.9485026,27.7436529] n582989125[53.9485336,27.7437949]
+w45781598
+  other tags : addr:housenumber=6 | addr:street=Карповича улица | building=house | building:levels=2
+    geometry : n582989117[53.9491721,27.7430542] n582989118[53.9491164,27.7432752] n582989119[53.9490140,27.7432006] n582989120[53.9490697,27.7429797] n582989117[53.9491721,27.7430542]
 w45781601
   other tags : building=residential
     geometry : n582989168[53.9446477,27.7524176] n582989169[53.9446570,27.7526070] n582989170[53.9445256,27.7526256] n582989171[53.9445163,27.7524362] n582989168[53.9446477,27.7524176]
@@ -506,13 +509,13 @@ w48118721
   other tags : building=residential
     geometry : n611601655[53.9057224,27.7671730] n611601658[53.9056285,27.7670650] n611601657[53.9056862,27.7669206] n611601656[53.9057801,27.7670286] n611601655[53.9057224,27.7671730]
 w48119193
-  other tags : addr:city=Колодищи-2 | addr:housenumber=16 | addr:street=Кипарисовая | building=house | building:levels=2
+  other tags : addr:housenumber=16 | addr:street=Кипарисовая | building=house | building:levels=2
     geometry : n611607386[53.9076068,27.7730022] n611607387[53.9075481,27.7731344] n611607714[53.9076379,27.7732584] n611607388[53.9077002,27.7731222] n611607386[53.9076068,27.7730022]
 w48119229
-  other tags : addr:city=а.г. Колодищи | addr:housenumber=34 | addr:street=Припятская улица | building=house | building:levels=2
+  other tags : addr:housenumber=34 | addr:street=Припятская улица | building=house | building:levels=2
     geometry : n611607472[53.9022602,27.7759770] n611607487[53.9021831,27.7761646] n611607488[53.9023228,27.7763310] n611607489[53.9023999,27.7761363] n611607472[53.9022602,27.7759770]
 w48119258
-  other tags : addr:city=а.г. Колодищи | addr:housenumber=3 | addr:street=Припятьский переулок | building=house | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=Припятьский переулок | building=house | building:levels=2
     geometry : n611607621[53.9041965,27.7795409] n611607622[53.9041346,27.7796873] n611607623[53.9042212,27.7797929] n611607624[53.9042832,27.7796465] n611607621[53.9041965,27.7795409]
 w48119294
   other tags : building=residential
@@ -557,7 +560,7 @@ w48202643
   other tags : building=residential
     geometry : n612584213[53.9074407,27.7657017] n3342757959[53.9073784,27.7656336] n3342757962[53.9073593,27.7656838] n612584214[53.9072475,27.7655615] n612584215[53.9073141,27.7653859] n3342757960[53.9073858,27.7654642] n3342757961[53.9074259,27.7653584] n612584216[53.9075284,27.7654705] n612584213[53.9074407,27.7657017]
 w48202645
-  other tags : building=residential
+  other tags : addr:housenumber=95 | addr:postcode=223050 | addr:street=Антоновская улица | building=residential | building:levels=2
     geometry : n612584221[53.9049202,27.7680895] n612584222[53.9048264,27.7679815] n612584223[53.9048840,27.7678371] n612584224[53.9049779,27.7679451] n612584221[53.9049202,27.7680895]
 w48202646
   other tags : addr:housenumber=7 | addr:street=Грибной переулок | building=residential | building:levels=1
@@ -602,7 +605,7 @@ w62044753
   other tags : addr:housenumber=16 | addr:postcode=223053 | addr:street=Лесная улица | building=house | building:levels=2
     geometry : n773344999[53.9688009,27.6723877] n773346326[53.9688332,27.6725854] n773346482[53.9687103,27.6726434] n773344774[53.9686780,27.6724458] n773344999[53.9688009,27.6723877]
 w62092766
-  other tags : addr:city=Дроздово | addr:housenumber=29 | addr:postcode=223053 | addr:street=Рябиновая улица | building=house | building:levels=2
+  other tags : addr:housenumber=29 | addr:postcode=223053 | addr:street=Рябиновая улица | building=house | building:levels=2
     geometry : n774081569[53.9917903,27.6182824] n3165689773[53.9918365,27.6182978] n3165689774[53.9918546,27.6182624] n3165689775[53.9918763,27.6182870] n3165689778[53.9919062,27.6182947] n3165689777[53.9919298,27.6183209] n3165689776[53.9919207,27.6183394] n774083467[53.9919714,27.6184118] n774081992[53.9918827,27.6185736] n3165689772[53.9918039,27.6184519] n774082942[53.9917731,27.6184380] n774081569[53.9917903,27.6182824]
 w67169957
   other tags : addr:housenumber=4 | addr:street=Кольцевая улица | building=house | building:levels=2 | source=http://obkgroup.by/ | website=http://obkgroup.by/contacts/contact_us.php
@@ -611,7 +614,7 @@ w76048247
   other tags : addr:housenumber=1 | addr:street=Минская улица | building=apartments | building:levels=5
     geometry : n897347756[53.9564537,27.7833982] n897347757[53.9559039,27.7839011] n897347758[53.9559652,27.7840945] n897347759[53.9565149,27.7835917] n897347756[53.9564537,27.7833982]
 w76232908
-  other tags : addr:city=Колодищи | addr:housenumber=8 | addr:street=улица Тюленина | building=apartments | building:levels=5
+  other tags : addr:housenumber=8 | addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n899309823[53.9532383,27.7804938] n899309824[53.9532379,27.7806999] n899309825[53.9528193,27.7806980] n899309826[53.9528197,27.7804918] n899309823[53.9532383,27.7804938]
 w76726460
   other tags : addr:housenumber=36 | addr:street=улица Громовой | building=house
@@ -701,7 +704,7 @@ w76823970
   other tags : addr:housenumber=32 | addr:street=улица Громовой | building=house | building:levels=2
     geometry : n904975109[53.9539915,27.7718702] n904975677[53.9540290,27.7720387] n904975468[53.9538922,27.7721265] n904975302[53.9538547,27.7719579] n904975109[53.9539915,27.7718702]
 w79548051
-  other tags : addr:city=Самохваловичи | addr:housenumber=3 | addr:street=Цветочная | building=house | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=Цветочная | building=house | building:levels=2
     geometry : n928416360[53.7366061,27.4959639] n928417876[53.7366869,27.4960931] n928416420[53.7366016,27.4962455] n928417971[53.7365208,27.4961163] n928416360[53.7366061,27.4959639]
 w80434098
   other tags : addr:housenumber=27 | addr:street=улица Громовой | building=house
@@ -740,124 +743,124 @@ w80434193
   other tags : building=residential
     geometry : n938567404[53.9575822,27.7741316] n938567658[53.9576117,27.7742501] n938567337[53.9574934,27.7743354] n938567593[53.9574638,27.7742169] n938567404[53.9575822,27.7741316]
 w80766109
-  other tags : addr:city=Сёмково | addr:housenumber=2 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=2 | addr:street=улица Заславская | building=house
     geometry : n941883881[54.0019025,27.4417263] n941882214[54.0020044,27.4418281] n941898460[54.0019471,27.4419939] n941896432[54.0018452,27.4418920] n941883881[54.0019025,27.4417263]
 w80766158
-  other tags : addr:city=Сёмково | addr:housenumber=15 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=15 | addr:street=улица Бирюзовая | building=house
     geometry : n941889638[54.0008105,27.4471194] n941895848[54.0009332,27.4472013] n941879765[54.0008839,27.4474154] n941881790[54.0007612,27.4473335] n941889638[54.0008105,27.4471194]
 w80766162
-  other tags : addr:city=Сёмково | addr:street=улица Бирюзовая | building=house
+  other tags : addr:street=улица Бирюзовая | building=house
     geometry : n941886860[54.0023063,27.4436610] n941884903[54.0025284,27.4436809] n941902145[54.0025210,27.4439214] n941900247[54.0022989,27.4439015] n941886860[54.0023063,27.4436610]
 w80766202
-  other tags : addr:city=Сёмково | addr:housenumber=8 | addr:street=улица 2-я Высокая | building=house
+  other tags : addr:housenumber=8 | addr:street=улица 2-я Высокая | building=house
     geometry : n941897464[54.0036392,27.4433183] n941886334[54.0037761,27.4432805] n941888412[54.0038013,27.4435443] n941895201[54.0036644,27.4435822] n941897464[54.0036392,27.4433183]
 w80766217
-  other tags : addr:city=Сёмково | addr:housenumber=16 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=16 | addr:street=улица Заславская | building=house
     geometry : n941882876[54.0007085,27.4454993] n941899908[54.0008236,27.4456144] n941897320[54.0007714,27.4457655] n941890693[54.0006563,27.4456505] n941882876[54.0007085,27.4454993]
 w80766239
-  other tags : addr:city=Сёмково | addr:housenumber=8 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=8 | addr:street=улица Заславская | building=house
     geometry : n941881126[54.0014625,27.4433645] n941903124[54.0015562,27.4434581] n941895026[54.0014774,27.4436863] n941893290[54.0013837,27.4435927] n941881126[54.0014625,27.4433645]
 w80766254
-  other tags : addr:city=Сёмково | addr:housenumber=25а | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=25А | addr:street=улица Бирюзовая | building=house
     geometry : n941887585[54.0018874,27.4472510] n941900890[54.0021030,27.4474249] n941902668[54.0020350,27.4476650] n941885405[54.0018134,27.4474831] n941887585[54.0018874,27.4472510]
 w80766329
-  other tags : addr:city=Сёмково | addr:housenumber=4 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=4 | addr:street=улица Бирюзовая | building=house
     geometry : n941896258[54.0028675,27.4433736] n941880152[54.0029598,27.4433481] n941887172[54.0029791,27.4435499] n941889896[54.0028867,27.4435754] n941896258[54.0028675,27.4433736]
 w80766387
-  other tags : addr:city=Сёмково | addr:housenumber=2 | addr:street=улица 2-я Высокая | building=house
+  other tags : addr:housenumber=2 | addr:street=улица 2-я Высокая | building=house
     geometry : n941900047[54.0034958,27.4424640] n941882990[54.0036467,27.4424222] n941890779[54.0036658,27.4426222] n941892237[54.0035149,27.4426639] n941900047[54.0034958,27.4424640]
 w80766417
-  other tags : addr:city=Сёмково | addr:housenumber=18 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=18 | addr:street=улица Заславская | building=house
     geometry : n941895146[54.0003775,27.4464916] n941901857[54.0004848,27.4464674] n941891608[54.0005331,27.4462541] n941899593[54.0004863,27.4460374] n941882600[54.0005574,27.4459931] n941893045[54.0006020,27.4461999] n941885781[54.0006269,27.4462163] n941886294[54.0005357,27.4465928] n941893347[54.0003880,27.4466262] n941895146[54.0003775,27.4464916]
 w80766449
-  other tags : addr:city=Сёмково | addr:housenumber=25 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=25 | addr:street=улица Бирюзовая | building=house
     geometry : n941890216[54.0017108,27.4470099] n941882373[54.0018527,27.4471547] n941880516[54.0017739,27.4473881] n941896657[54.0016257,27.4472406] n941890216[54.0017108,27.4470099]
 w80766480
-  other tags : addr:city=Сёмково | addr:housenumber=1 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=1 | addr:street=улица Заславская | building=house
     geometry : n941885239[54.0019958,27.4438838] n3541238563[54.0019532,27.4439106] n941898094[54.0019343,27.4439696] n941900724[54.0019122,27.4439481] n941883526[54.0018949,27.4438650] n3541238564[54.0018776,27.4438274] n3541238565[54.0019501,27.4437309] n941885239[54.0019958,27.4438838]
 w80766505
-  other tags : addr:city=Сёмково | addr:housenumber=1 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=1 | addr:street=улица Бирюзовая | building=house
     geometry : n941890897[54.0023609,27.4431654] n941897674[54.0024672,27.4431230] n941881412[54.0025140,27.4434629] n941883166[54.0024077,27.4435053] n941890897[54.0023609,27.4431654]
 w80766560
-  other tags : addr:city=Сёмково | addr:housenumber=35 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=35 | addr:street=улица Бирюзовая | building=house
     geometry : n941888520[54.0024192,27.4446327] n941901763[54.0025690,27.4447768] n941879483[54.0024946,27.4450143] n941886457[54.0023438,27.4448734] n941888520[54.0024192,27.4446327]
 w80766634
-  other tags : addr:city=Сёмково | addr:housenumber=4 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=4 | addr:street=улица Заславская | building=house
     geometry : n941884242[54.0015964,27.4423193] n941901529[54.0016940,27.4424169] n941899510[54.0016028,27.4426810] n941891853[54.0015052,27.4425834] n941884242[54.0015964,27.4423193]
 w80766816
-  other tags : addr:city=Сёмково | addr:housenumber=12 | addr:street=улица 2-я Высокая | building=house
+  other tags : addr:housenumber=12 | addr:street=улица 2-я Высокая | building=house
     geometry : n941901623[54.0038358,27.4436619] n941884373[54.0039274,27.4436366] n941891933[54.0039501,27.4438743] n941893374[54.0038585,27.4438996] n941901623[54.0038358,27.4436619]
 w80767029
-  other tags : addr:city=Сёмково | addr:housenumber=8 | addr:street=улица Прибрежная | building=house
+  other tags : addr:housenumber=8 | addr:street=улица Прибрежная | building=house
     geometry : n941879948[54.0044504,27.4449950] n941902243[54.0045626,27.4449950] n941893969[54.0045626,27.4451715] n941892447[54.0044504,27.4451715] n941879948[54.0044504,27.4449950]
 w80767084
-  other tags : addr:city=Сёмково | addr:street=улица Прибрежная | building=house
+  other tags : addr:street=улица Прибрежная | building=house
     geometry : n941882850[54.0051557,27.4450183] n941881095[54.0052598,27.4449808] n941897278[54.0052960,27.4451793] n941894989[54.0051857,27.4452249] n941882850[54.0051557,27.4450183]
 w80767097
-  other tags : addr:city=Сёмково | addr:housenumber=7 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=7 | addr:street=улица Бирюзовая | building=house
     geometry : n941892025[54.0025773,27.4454342] n941884529[54.0026453,27.4455027] n941882761[54.0025433,27.4457959] n941899752[54.0024753,27.4457274] n941892025[54.0025773,27.4454342]
 w80767151
-  other tags : addr:city=Сёмково | addr:housenumber=9 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=9 | addr:street=улица Заславская | building=house
     geometry : n941896997[54.0014175,27.4456208] n941885861[54.0013660,27.4458207] n941888049[54.0012339,27.4457221] n941894701[54.0012855,27.4455222] n941896997[54.0014175,27.4456208]
 w80767257
-  other tags : addr:city=Сёмково | addr:housenumber=8 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=8 | addr:street=улица Бирюзовая | building=house
     geometry : n941891740[54.0029716,27.4447603] n941880588[54.0030417,27.4445588] n941882420[54.0031629,27.4446808] n941890262[54.0030928,27.4448824] n941891740[54.0029716,27.4447603]
 w80767299
-  other tags : addr:city=Сёмково | addr:housenumber=132а | addr:street=улица Садовая | building=house
+  other tags : addr:housenumber=132А | addr:street=улица Садовая | building=house
     geometry : n941886035[54.0019201,27.4407802] n941893192[54.0020487,27.4407713] n941901395[54.0020529,27.4409485] n941903033[54.0019244,27.4409574] n941886035[54.0019201,27.4407802]
 w80767332
-  other tags : addr:city=Сёмково | addr:housenumber=7 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=7 | addr:street=улица Заславская | building=house
     geometry : n941895097[54.0014702,27.4449381] n941888344[54.0016092,27.4450419] n941890492[54.0015315,27.4453431] n941882655[54.0013925,27.4452393] n941895097[54.0014702,27.4449381]
 w80767391
-  other tags : addr:city=Сёмково | addr:housenumber=20 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=20 | addr:street=улица Заславская | building=house
     geometry : n941893679[54.0000085,27.4467086] n941882972[53.9999916,27.4464920] n941884747[54.0001838,27.4464486] n941892211[54.0002007,27.4466652] n941893679[54.0000085,27.4467086]
 w80767422
-  other tags : addr:city=Сёмково | addr:housenumber=11 | addr:street=улица Звездная | building=house
+  other tags : addr:housenumber=11 | addr:street=улица Звездная | building=house
     geometry : n941884210[54.0058001,27.4451263] n941882509[54.0058346,27.4453025] n941899471[54.0057219,27.4453664] n941896821[54.0056874,27.4451902] n941884210[54.0058001,27.4451263]
 w80767458
-  other tags : addr:city=Сёмково | building=house
+  other tags : building=house
     geometry : n941885523[54.0025684,27.4406573] n941898352[54.0026473,27.4406189] n941900990[54.0026853,27.4408453] n941883790[54.0026064,27.4408837] n941885523[54.0025684,27.4406573]
 w80767538
-  other tags : addr:city=Сёмково | addr:housenumber=10 | addr:street=улица Прибрежная | building=house
+  other tags : addr:housenumber=10 | addr:street=улица Прибрежная | building=house
     geometry : n941881522[54.0048921,27.4450279] n941893573[54.0048921,27.4451639] n941895552[54.0047578,27.4451639] n941879570[54.0047578,27.4450279] n941881522[54.0048921,27.4450279]
 w80767591
-  other tags : addr:city=Сёмково | building=house
+  other tags : building=house
     geometry : n941887740[54.0023027,27.4408092] n941894464[54.0023844,27.4407695] n941902717[54.0024142,27.4409467] n941880613[54.0023325,27.4409864] n941887740[54.0023027,27.4408092]
 w80767616
-  other tags : addr:city=Сёмково | addr:housenumber=5 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=5 | addr:street=улица Заславская | building=house
     geometry : n941901249[54.0016068,27.4444847] n941893102[54.0017206,27.4445815] n941891661[54.0016394,27.4448588] n941884015[54.0015242,27.4447659] n941901249[54.0016068,27.4444847]
 w80767637
-  other tags : addr:city=Сёмково | addr:housenumber=3 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=3 | addr:street=улица Заславская | building=house
     geometry : n941899173[54.0016651,27.4444567] n941887558[54.0017474,27.4441940] n941890180[54.0018171,27.4442611] n941896605[54.0017358,27.4445197] n941899173[54.0016651,27.4444567]
 w80767658
-  other tags : addr:city=Сёмково | addr:housenumber=12 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=12 | addr:street=улица Заславская | building=house
     geometry : n941879979[54.0010723,27.4443740] n941896129[54.0012084,27.4445099] n941894009[54.0011356,27.4447208] n941887042[54.0009995,27.4445848] n941879979[54.0010723,27.4443740]
 w80767661
-  other tags : addr:city=Сёмково | addr:housenumber=19 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=19 | addr:street=улица Бирюзовая | building=house
     geometry : n941886397[54.0012645,27.4474030] n941903304[54.0013703,27.4474735] n941901705[54.0013359,27.4476228] n941893437[54.0012301,27.4475523] n941886397[54.0012645,27.4474030]
 w80767694
-  other tags : addr:city=Сёмково | addr:housenumber=21 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=21 | addr:street=улица Бирюзовая | building=house
     geometry : n941884457[54.0013971,27.4477906] n941882685[54.0015205,27.4478728] n941899685[54.0014788,27.4480539] n941897052[54.0013554,27.4479717] n941884457[54.0013971,27.4477906]
 w80767953
-  other tags : addr:city=Сёмково | addr:housenumber=10 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=10 | addr:street=улица Заславская | building=house
     geometry : n941900842[54.0011285,27.4440355] n941889808[54.0011706,27.4438724] n941891367[54.0013308,27.4439921] n941898213[54.0012887,27.4441552] n941900842[54.0011285,27.4440355]
 w80767988
-  other tags : addr:city=Сёмково | addr:housenumber=14 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=14 | addr:street=улица Заславская | building=house
     geometry : n941881559[54.0008581,27.4449410] n941897827[54.0009857,27.4450686] n941895602[54.0009159,27.4452708] n941888699[54.0007883,27.4451432] n941881559[54.0008581,27.4449410]
 w80768028
-  other tags : addr:city=Сёмково | addr:housenumber=23 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=23 | addr:street=улица Бирюзовая | building=house
     geometry : n941885907[54.0016964,27.4480394] n941884046[54.0018720,27.4481565] n941901316[54.0017950,27.4484907] n941899245[54.0016194,27.4483736] n941885907[54.0016964,27.4480394]
 w80768050
-  other tags : addr:city=Сёмково | addr:housenumber=29 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=29 | addr:street=улица Бирюзовая | building=house
     geometry : n941891396[54.0020960,27.4461647] n941883687[54.0021977,27.4462481] n941882050[54.0021385,27.4464569] n941898274[54.0020368,27.4463736] n941891396[54.0020960,27.4461647]
 w80768089
-  other tags : addr:city=Сёмково | building=house
+  other tags : building=house
     geometry : n941894441[54.0033319,27.4450932] n941902711[54.0033548,27.4449114] n3540718477[54.0034759,27.4449268] n3540718478[54.0034801,27.4448248] n941885485[54.0035580,27.4448320] n941887687[54.0035338,27.4451684] n941894441[54.0033319,27.4450932]
 w80768094
-  other tags : addr:city=Сёмково | addr:housenumber=27 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=27 | addr:street=улица Бирюзовая | building=house
     geometry : n941889837[54.0021606,27.4466797] n941902319[54.0021674,27.4468411] n941880039[54.0020484,27.4468556] n941887088[54.0020416,27.4466942] n941889837[54.0021606,27.4466797]
 w80768125
-  other tags : addr:city=Сёмково | addr:housenumber=6 | addr:street=улица Бирюзовая | building=house
+  other tags : addr:housenumber=6 | addr:street=улица Бирюзовая | building=house
     geometry : n941892847[54.0030761,27.4440353] n941891451[54.0029310,27.4440916] n941883763[54.0029011,27.4438771] n941882112[54.0030509,27.4438181] n941892847[54.0030761,27.4440353]
 w83639376
   other tags : addr:housenumber=30 | addr:street=Шоссейная улица | building=house | building:levels=2 | building:type=house
@@ -914,7 +917,7 @@ w97997593
   other tags : building=residential
     geometry : n1134071416[53.9065809,27.7639415] n1134071310[53.9064755,27.7638208] n2547742777[53.9065778,27.7635634] n2547742775[53.9066437,27.7636388] n2547742773[53.9066141,27.7637132] n1134071369[53.9066537,27.7637585] n1134071416[53.9065809,27.7639415]
 w97997594
-  other tags : addr:city=а.г. Колодищи | addr:housenumber=13 | addr:street=Припятьская | building=house | building:levels=2
+  other tags : addr:housenumber=13 | addr:street=Припятьская | building=house | building:levels=2
     geometry : n1134071427[53.9043408,27.7794901] n1134071314[53.9042470,27.7793821] n1134071203[53.9043046,27.7792377] n1134071381[53.9043985,27.7793457] n1134071427[53.9043408,27.7794901]
 w97997599
   other tags : building=residential
@@ -928,6 +931,12 @@ w97997618
 w97997630
   other tags : building=residential
     geometry : n1134071315[53.9085957,27.7800401] n1134071207[53.9085067,27.7799404] n1134071382[53.9085812,27.7797488] n1134071284[53.9086701,27.7798484] n1134071315[53.9085957,27.7800401]
+w106900989
+  other tags : addr:housenumber=7 | addr:postcode=220125 | addr:street=улица Лопатина | building=residential | building:levels=23
+    geometry : n1229193703[53.9539364,27.6770810] n1229193733[53.9540090,27.6773117] n3085739273[53.9539995,27.6774726] n3085739275[53.9539017,27.6774417] n1229193668[53.9537620,27.6775545] n1229193692[53.9536791,27.6772942] n3085739274[53.9538227,27.6771588] n3085739272[53.9538511,27.6770434] n1229193703[53.9539364,27.6770810]
+w106900990
+  other tags : addr:housenumber=5 | addr:postcode=220125 | addr:street=улица Лопатина | building=residential | building:levels=23
+    geometry : n1229193664[53.9554065,27.6760448] n1229193680[53.9554902,27.6762969] n3085746629[53.9554663,27.6764306] n3085746630[53.9553861,27.6763892] n1229193710[53.9552395,27.6765219] n1229193738[53.9551610,27.6762713] n3085746632[53.9553048,27.6761412] n3085746631[53.9553295,27.6760046] n1229193664[53.9554065,27.6760448]
 w109788642
   other tags : addr:housenumber=226 | addr:postcode=223051 | addr:street=Колодищи в/г | building=apartments
     geometry : n1255824976[53.9651957,27.7616356] n1255825004[53.9652104,27.7618318] n1255824998[53.9645009,27.7619853] n1255825022[53.9644862,27.7617891] n1255824976[53.9651957,27.7616356]
@@ -994,6 +1003,9 @@ w125693156
 w127553508
   other tags : addr:housenumber=26А | addr:street=улица Геофизика | building=apartments | building:levels=5 | note=В перспективе кидалово
     geometry : n1411400325[53.9501582,27.7633958] n1411400328[53.9502173,27.7636866] n1697843174[53.9500875,27.7637629] n1697843171[53.9498725,27.7638892] n1697843168[53.9496410,27.7640252] n1697843164[53.9494008,27.7641663] n1697843163[53.9491653,27.7643047] n1411400324[53.9490393,27.7643786] n1411400323[53.9489802,27.7640878] n1411400325[53.9501582,27.7633958]
+w149106101
+  other tags : addr:housenumber=6 | addr:postcode=220125 | addr:street=улица Лопатина | building=residential | building:levels=23
+    geometry : n1621304480[53.9546085,27.6763386] n1621304482[53.9546906,27.6765988] n3085739294[53.9546746,27.6767281] n3085739297[53.9545833,27.6766953] n1621304479[53.9544337,27.6768373] n1621304478[53.9543513,27.6765865] n3085739296[53.9544982,27.6764472] n3085739295[53.9545312,27.6762913] n1621304480[53.9546085,27.6763386]
 w149572542
   other tags : addr:housenumber=15 | addr:street=Советская улица | building=apartments | building:levels=5
     geometry : n1625339748[53.7441065,27.6964102] n1625339744[53.7441037,27.6966730] n1625339630[53.7434233,27.6966522] n1625339640[53.7434262,27.6963894] n1625339748[53.7441065,27.6964102]
@@ -1006,6 +1018,9 @@ w149576992
 w149577012
   other tags : addr:housenumber=13 | addr:street=Советская улица | building=apartments | building:levels=5
     geometry : n1625382530[53.7432281,27.6963976] n1625382528[53.7432253,27.6966210] n1625382474[53.7425595,27.6965969] n1625382476[53.7425623,27.6963735] n1625382530[53.7432281,27.6963976]
+w149585868
+  other tags : addr:housenumber=5 | addr:street=Заповедный переулок | building=house | building:levels=2
+    geometry : n1625442003[53.9393140,27.7902891] n1625441992[53.9392440,27.7904178] n1625441982[53.9391365,27.7902492] n1625441986[53.9392066,27.7901204] n1625442003[53.9393140,27.7902891]
 w149602091
   other tags : building=residential
     geometry : n1625561149[53.9493801,27.7449999] n1625561147[53.9492954,27.7451254] n1625561150[53.9493991,27.7453273] n1625561151[53.9494887,27.7451944] n1625561149[53.9493801,27.7449999]
@@ -1025,7 +1040,7 @@ w149635130
   other tags : addr:housenumber=59 | addr:street=Слуцкое шоссе | building=apartments | building:levels=9
     geometry : n1625827287[53.8204416,27.5381620] n1625827273[53.8203220,27.5381648] n1625827271[53.8203191,27.5378073] n1625827253[53.8199930,27.5378149] n1625827252[53.8199912,27.5375803] n1625827286[53.8204368,27.5375699] n1625827287[53.8204416,27.5381620]
 w149935034
-  other tags : addr:city=Минск | addr:housenumber=1Б | addr:postcode=223053 | addr:street=Радужная Улица | building=house
+  other tags : addr:housenumber=1Б | addr:postcode=223053 | addr:street=Радужная Улица | building=house
     geometry : n1628693425[53.9651817,27.6688515] n1628693432[53.9650561,27.6687964] n1628693560[53.9649959,27.6691929] n1628693501[53.9651215,27.6692480] n1628693425[53.9651817,27.6688515]
 w150723851  null / null / Фонарик
   other tags : building=house
@@ -1040,7 +1055,7 @@ w151983254
   other tags : addr:housenumber=8 | building=house
     geometry : n1648171956[54.0382644,27.6756965] n1648171942[54.0381354,27.6759162] n1648171954[54.0382402,27.6760649] n1648171961[54.0383558,27.6758338] n1648171956[54.0382644,27.6756965]
 w151983256
-  other tags : addr:housenumber=14а | addr:street=сосновая | building=house
+  other tags : addr:housenumber=14А | addr:street=сосновая | building=house
     geometry : n1648171925[54.0380016,27.6724849] n1648171917[54.0379061,27.6724689] n1648171916[54.0378900,27.6727389] n1648171924[54.0379935,27.6727458] n1648171925[54.0380016,27.6724849]
 w151983264
   other tags : addr:housenumber=2 | building=house
@@ -1183,14 +1198,14 @@ w173508075
 w173508076
   other tags : addr:housenumber=30 | addr:street=Заводской переулок | building=house
     geometry : n1843049425[53.7452218,27.6841827] n1843049428[53.7453222,27.6841755] n1843049427[53.7453189,27.6840468] n1843049424[53.7452186,27.6840541] n1843049425[53.7452218,27.6841827]
-w176476440  null / null / Жилой дом
-  other tags : addr:city=п. Марьяливо | addr:housenumber=7 | addr:postcode=223054 | addr:street=Сиреневая улица | building=house | building:levels=2
+w176476440
+  other tags : addr:housenumber=7 | addr:postcode=223054 | addr:street=Сиреневая улица | building=house | building:levels=2
     geometry : n1869946760[54.0409887,27.6599285] n1869946759[54.0409811,27.6602419] n1869946740[54.0408660,27.6602339] n1869946742[54.0408735,27.6599205] n1869946760[54.0409887,27.6599285]
 w176479785
   other tags : addr:housenumber=12 | building=house
     geometry : n1869974126[54.0389672,27.6759789] n1869974136[54.0391500,27.6760086] n1869974134[54.0391376,27.6762296] n1869974138[54.0392058,27.6762407] n1869974137[54.0391982,27.6763764] n1869974131[54.0390849,27.6763579] n1869974132[54.0390901,27.6762657] n1869974128[54.0390133,27.6762532] n1869974127[54.0390113,27.6762900] n1869974125[54.0389503,27.6762801] n1869974126[54.0389672,27.6759789]
 w176479903
-  other tags : addr:city=Марьяливо | addr:housenumber=10 | building=house | building:levels=2
+  other tags : addr:housenumber=10 | building=house | building:levels=2
     geometry : n1869974114[54.0386204,27.6758955] n1869974124[54.0387765,27.6759434] n1869974121[54.0387539,27.6761571] n1869974113[54.0385978,27.6761092] n1869974114[54.0386204,27.6758955]
 w176480076
   other tags : building=house
@@ -1205,16 +1220,16 @@ w185121574
   other tags : addr:housenumber=10 | addr:postcode=223035 | addr:street=Полевая улица | building=house | building:levels=1
     geometry : n1956904357[53.9359067,27.3377851] n1956904548[53.9358325,27.3377292] n1956903506[53.9358562,27.3376381] n1956904341[53.9359305,27.3376940] n1956904357[53.9359067,27.3377851]
 w186176280
-  other tags : addr:city=Тарасово | addr:housenumber=15 | addr:street=Спортивная улица | building=house | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=Спортивная улица | building=house | building:levels=2
     geometry : n1968712762[53.9298934,27.3687842] n1968712114[53.9298663,27.3689226] n1968712756[53.9297014,27.3688293] n1968712089[53.9297286,27.3686909] n1968712762[53.9298934,27.3687842]
 w186176282
-  other tags : addr:city=Тарасово | addr:housenumber=5 | addr:street=Веселая улица | building=house
+  other tags : addr:housenumber=5 | addr:street=Веселая улица | building=house
     geometry : n1968712242[53.9295630,27.3676781] n1968712541[53.9294936,27.3677371] n1968712764[53.9295062,27.3678390] n1968712540[53.9294557,27.3678551] n1968712339[53.9294683,27.3679624] n1968712324[53.9295567,27.3679248] n1968712242[53.9295630,27.3676781]
 w186176316
-  other tags : addr:city=Тарасово | addr:housenumber=9 | addr:street=Спортивная улица | building=house
+  other tags : addr:housenumber=9 | addr:street=Спортивная улица | building=house
     geometry : n1968711835[53.9288376,27.3682508] n1968712049[53.9286838,27.3681570] n1968711760[53.9286425,27.3683525] n1968711856[53.9287962,27.3684463] n1968711835[53.9288376,27.3682508]
 w186176338
-  other tags : addr:city=Тарасово | addr:housenumber=11 | addr:street=Спортивная улица | building=house | building:levels=2
+  other tags : addr:housenumber=11 | addr:street=Спортивная улица | building=house | building:levels=2
     geometry : n1968712788[53.9291132,27.3683525] n1968711928[53.9289584,27.3682738] n1968711773[53.9289271,27.3684515] n1968712636[53.9290819,27.3685301] n1968712788[53.9291132,27.3683525]
 w188150365
   other tags : building=residential
@@ -1238,10 +1253,10 @@ w188156184
   other tags : addr:housenumber=22 | addr:street=Замковая улица | building=house
     geometry : n1987806477[53.9102883,27.7621890] n1987806504[53.9103614,27.7619937] n1987806473[53.9104963,27.7621384] n1987806492[53.9104222,27.7623325] n1987806477[53.9102883,27.7621890]
 w189507261
-  other tags : addr:city=Тарасово | addr:housenumber=13 | addr:street=Спортивная улица | building=house | building:levels=1
+  other tags : addr:housenumber=13 | addr:street=Спортивная улица | building=house | building:levels=1
     geometry : n2001105145[53.9296587,27.3684444] n2001105003[53.9295341,27.3683742] n2001105955[53.9294834,27.3686335] n2001106015[53.9296080,27.3687037] n2001105145[53.9296587,27.3684444]
 w189507285
-  other tags : addr:city=Тарасово | addr:housenumber=12 | addr:street=Спортивная улица | building=house
+  other tags : addr:housenumber=12 | addr:street=Спортивная улица | building=house
     geometry : n2001105931[53.9289613,27.3691036] n2001105483[53.9288168,27.3690354] n2001106047[53.9287870,27.3692178] n2001106060[53.9289315,27.3692860] n2001105931[53.9289613,27.3691036]
 w189507358
   other tags : addr:housenumber=1 | addr:postcode=223035 | addr:street=Живописная улица | building=house | building:levels=2
@@ -1256,22 +1271,22 @@ w192392230
   other tags : addr:housenumber=18 | addr:street=Зелёная улица | building=house | building:levels=2
     geometry : n2029528476[53.8363184,27.3872705] n2029528487[53.8362268,27.3872896] n2029528465[53.8362404,27.3874773] n2029528471[53.8363320,27.3874583] n2029528476[53.8363184,27.3872705]
 w193891910
-  other tags : addr:city=Ждановичи | addr:housenumber=49 | addr:street=Белорусская улица | building=house
+  other tags : addr:housenumber=49 | addr:street=Белорусская улица | building=house
     geometry : n2044008548[53.9392449,27.4081352] n2044007841[53.9390935,27.4081218] n2044009908[53.9390871,27.4083286] n2044007763[53.9392386,27.4083421] n2044008548[53.9392449,27.4081352]
 w193891924
-  other tags : addr:city=Ждановичи | addr:housenumber=15 | addr:street=Школьная улица | building=house
+  other tags : addr:housenumber=15 | addr:street=Школьная улица | building=house
     geometry : n2044007882[53.9390066,27.4081214] n2044010217[53.9388692,27.4081906] n2044008291[53.9388169,27.4078906] n2044008965[53.9389543,27.4078214] n2044007882[53.9390066,27.4081214]
 w193891943
-  other tags : addr:city=Ждановичи | addr:housenumber=7 | addr:street=Школьная улица | building=house
+  other tags : addr:housenumber=7 | addr:street=Школьная улица | building=house
     geometry : n2044007157[53.9385869,27.4061789] n2044008082[53.9385968,27.4063561] n2044009721[53.9384848,27.4063741] n2044008008[53.9384750,27.4061969] n2044007157[53.9385869,27.4061789]
 w193892023
-  other tags : addr:city=Ждановичи | addr:housenumber=1 | addr:street=Школьная улица | building=house | building:levels=2
+  other tags : addr:housenumber=1 | addr:street=Школьная улица | building=house | building:levels=2
     geometry : n2044007587[53.9388795,27.4074354] n2044009218[53.9389216,27.4076789] n2044009463[53.9388014,27.4077388] n2044009214[53.9387593,27.4074954] n2044007587[53.9388795,27.4074354]
 w193892077
-  other tags : addr:city=Ждановичи | addr:housenumber=3 | addr:street=Школьная улица | building=house | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=Школьная улица | building=house | building:levels=2
     geometry : n2044008573[53.9387416,27.4069379] n2044010122[53.9386296,27.4069887] n2044009103[53.9386701,27.4072465] n2044007633[53.9387820,27.4071957] n2044008573[53.9387416,27.4069379]
 w193892180
-  other tags : addr:city=Ждановичи | addr:housenumber=5 | addr:street=Школьная улица | building=house
+  other tags : addr:housenumber=5 | addr:street=Школьная улица | building=house
     geometry : n2044009966[53.9386468,27.4065308] n2044008469[53.9386740,27.4067069] n2044008774[53.9385378,27.4067677] n2044007112[53.9385105,27.4065917] n2044009966[53.9386468,27.4065308]
 w196968909
   other tags : addr:housenumber=1 к1 | addr:street=Зелёная улица | building=apartments | building:levels=10
@@ -1291,8 +1306,11 @@ w200135735
 w203285408
   other tags : building=residential
     geometry : n2132906864[53.6745770,27.5302044] n2132906862[53.6742830,27.5303528] n2132906861[53.6742276,27.5300398] n2132906863[53.6745216,27.5298914] n2132906864[53.6745770,27.5302044]
+w203412144  null / null / sasha2001
+  other tags : addr:housenumber=7 | addr:street=Тихая улица | building=house | building:levels=1
+    geometry : n2134229683[53.9144637,27.7690330] n2134229657[53.9145418,27.7691232] n2134229693[53.9144780,27.7692825] n2134229674[53.9146261,27.7694536] n2134229698[53.9147380,27.7691746] n2134229654[53.9145117,27.7689132] n2134229683[53.9144637,27.7690330]
 w203554803
-  other tags : addr:city=Гатово | addr:housenumber=12 | addr:postcode=223017 | addr:street=улица Молодежная | building=house | building:levels=2
+  other tags : addr:housenumber=12 | addr:postcode=223017 | addr:street=улица Молодежная | building=house | building:levels=2
     geometry : n2135695130[53.7916178,27.6309595] n3419332693[53.7915514,27.6309586] n3419332694[53.7915512,27.6310314] n3419332695[53.7915623,27.6310317] n2135695126[53.7915597,27.6312178] n3129154307[53.7916578,27.6312219] n2135695081[53.7916605,27.6310327] n2135695157[53.7916169,27.6310315] n2135695130[53.7916178,27.6309595]
 w204156775
   other tags : addr:housenumber=7 | addr:street=Полесская улица | building=apartments | building:levels=9
@@ -1445,7 +1463,7 @@ w220906884
   other tags : building=residential
     geometry : n2299797587[53.9576292,27.7756612] n2299797588[53.9576476,27.7758380] n2299797585[53.9575346,27.7758720] n2299797583[53.9575162,27.7756951] n2299797587[53.9576292,27.7756612]
 w221472573
-  other tags : addr:city=Хатежино | addr:housenumber=32 | addr:street=Молодёжная улица | building=house | building:levels=2
+  other tags : addr:housenumber=32 | addr:street=Молодёжная улица | building=house | building:levels=2
     geometry : n2305016138[53.9012684,27.2969631] n2305016146[53.9012262,27.2970845] n2305016140[53.9011572,27.2970153] n2305016145[53.9012224,27.2968283] n2305016142[53.9012742,27.2968802] n2305016149[53.9012513,27.2969460] n2305016138[53.9012684,27.2969631]
 w222702376
   other tags : addr:street=Первомайская улица | building=residential
@@ -1495,8 +1513,8 @@ w226831197
 w226831880
   other tags : addr:housenumber=1 к3 | addr:street=Зелёная улица | building=apartments | building:levels=19
     geometry : n2355655309[53.8229987,27.5290637] n2355655311[53.8227625,27.5288914] n2355655312[53.8228682,27.5284753] n2355655310[53.8231044,27.5286475] n2355655309[53.8229987,27.5290637]
-w226990084  null / null / 26 а
-  other tags : addr:city=Ждановичи | addr:housenumber=26 а | addr:street=Парковая | building=apartments | building:levels=8
+w226990084
+  other tags : addr:housenumber=26А | addr:street=Парковая | building=apartments | building:levels=8
     geometry : n2357245144[53.9712868,27.4371860] n2357245145[53.9713402,27.4370989] n2357245147[53.9714628,27.4373163] n2357245146[53.9714094,27.4374034] n2357245144[53.9712868,27.4371860]
 w231329540
   other tags : building=house
@@ -1534,11 +1552,14 @@ w233668894
 w238903171
   other tags : building=residential
     geometry : n2467061481[53.9099251,27.3070973] n2467061479[53.9098237,27.3069981] n2467061478[53.9097784,27.3071317] n2467061480[53.9098798,27.3072309] n2467061481[53.9099251,27.3070973]
+w242377707
+  other tags : addr:street=улица Энтузиастов | building=house | building:levels=2
+    geometry : n2498611697[53.9027799,27.7990699] n2498611742[53.9029383,27.7990628] n2498611743[53.9029416,27.7992730] n3668745715[53.9028948,27.7992778] n3668745714[53.9028664,27.7993288] n3668745716[53.9028348,27.7992751] n2498611699[53.9027832,27.7992802] n2498611697[53.9027799,27.7990699]
 w242377723
   other tags : addr:housenumber=145 | addr:street=улица Энтузиастов | building=house | building:levels=2
     geometry : n2498611761[53.9035940,27.7891384] n2498611763[53.9037509,27.7892045] n2498611762[53.9037189,27.7894250] n2498611760[53.9035620,27.7893657] n2498611761[53.9035940,27.7891384]
 w242377725
-  other tags : addr:city=Минск | addr:housenumber=19 | addr:postcode=223050 | addr:street=Волгоградская улица | building=house
+  other tags : addr:housenumber=19 | addr:postcode=223050 | addr:street=Волгоградская улица | building=house
     geometry : n2498611792[53.9058682,27.7921257] n2498611794[53.9059941,27.7919934] n2498611795[53.9060540,27.7921647] n2498611793[53.9059351,27.7922902] n2498611792[53.9058682,27.7921257]
 w243752686
   other tags : addr:housenumber=232 | addr:street=в/г Колодищи | building=apartments | building:levels=5
@@ -1658,7 +1679,7 @@ w248936143
   other tags : building=residential
     geometry : n2556475296[53.9500243,27.7410391] n2556475311[53.9500887,27.7411058] n2556475297[53.9500294,27.7412714] n2556475287[53.9499650,27.7412047] n2556475296[53.9500243,27.7410391]
 w248936145
-  other tags : addr:housenumber=13 | building=house | building:levels=2
+  other tags : addr:housenumber=13 | addr:street=Карповича улица | building=house | building:levels=2
     geometry : n2556475376[53.9505532,27.7435036] n2556475371[53.9505086,27.7436585] n2556475341[53.9503821,27.7435534] n2556475357[53.9504267,27.7433985] n2556475376[53.9505532,27.7435036]
 w248936146
   other tags : building=residential
@@ -4094,8 +4115,11 @@ w302752002
   other tags : building=residential
     geometry : n3070265964[53.9114498,27.7800689] n3070265969[53.9115542,27.7801668] n3070265966[53.9114964,27.7803445] n3070265960[53.9113920,27.7802467] n3070265964[53.9114498,27.7800689]
 w302752007
-  other tags : addr:city=Колодищи-2 | addr:housenumber=10 | addr:street=Летняя улица | building=house | description=Коттедж, частное строение
+  other tags : addr:housenumber=10 | addr:street=Летняя улица | building=house | description=Коттедж, частное строение
     geometry : n3070265951[53.9112661,27.7682233] n3070265957[53.9113288,27.7680503] n3070265963[53.9114310,27.7681569] n3070265959[53.9113683,27.7683300] n3070265951[53.9112661,27.7682233]
+w302752024
+  other tags : addr:housenumber=5 | addr:street=Кипарисовая улица | building=house
+    geometry : n3070265859[53.9087180,27.7717259] n3070265869[53.9088135,27.7715019] n3070265877[53.9089039,27.7716130] n3070265867[53.9088085,27.7718370] n3070265859[53.9087180,27.7717259]
 w302752025
   other tags : addr:housenumber=33 | addr:street=Антоновская улица | building=residential
     geometry : n3070265927[53.9107532,27.7529573] n3070265932[53.9108734,27.7530893] n3070265929[53.9107948,27.7532957] n3070265925[53.9106746,27.7531637] n3070265927[53.9107532,27.7529573]
@@ -4106,7 +4130,7 @@ w302752035
   other tags : addr:housenumber=21 | addr:street=Антоновская улица | building=residential
     geometry : n3070265984[53.9117767,27.7508810] n3070265981[53.9117277,27.7510090] n3070265976[53.9116303,27.7509014] n3070265978[53.9116793,27.7507735] n3070265984[53.9117767,27.7508810]
 w302752039
-  other tags : addr:city=а.г. Колодищи | addr:housenumber=17 | addr:street=Припятьская | building=house | building:levels=2
+  other tags : addr:housenumber=17 | addr:street=Припятьская | building=house | building:levels=2
     geometry : n3070265467[53.9037662,27.7786227] n3070265477[53.9038352,27.7786998] n3070265472[53.9037903,27.7788156] n3070265465[53.9037213,27.7787385] n3668712399[???] n3070265467[53.9037662,27.7786227]
 w302752041
   other tags : building=residential
@@ -4115,7 +4139,7 @@ w302752042
   other tags : building=residential
     geometry : n3070265829[53.9084030,27.7619997] n3070265836[53.9084774,27.7620865] n3070265831[53.9084257,27.7622144] n3070265825[53.9083513,27.7621276] n3070265829[53.9084030,27.7619997]
 w302752051
-  other tags : addr:city=Колодищи-2 | addr:housenumber=13 | addr:street=Алексеевская улица | building=house
+  other tags : addr:housenumber=13 | addr:street=Алексеевская улица | building=house
     geometry : n3070265988[53.9118904,27.7548772] n3070265983[53.9117706,27.7549159] n3070265980[53.9117348,27.7545958] n3070265986[53.9118545,27.7545571] n3070265988[53.9118904,27.7548772]
 w302752058
   other tags : addr:housenumber=38 | addr:street=Андреевская улица | building=residential
@@ -4162,6 +4186,9 @@ w302752144
 w302752149
   other tags : building=residential
     geometry : n3070265551[53.9048212,27.7684315] n3070265539[53.9047205,27.7683185] n3070265545[53.9047693,27.7681933] n3070265556[53.9048700,27.7683063] n3070265551[53.9048212,27.7684315]
+w302752156
+  other tags : addr:housenumber=44 | addr:street=Крушиновая улица | building=house
+    geometry : n3070265461[53.9036561,27.7728509] n3070265464[53.9037156,27.7727063] n3070265474[53.9038304,27.7728424] n3070265468[53.9037709,27.7729869] n3070265461[53.9036561,27.7728509]
 w302752185
   other tags : building=residential
     geometry : n3070265938[53.9109894,27.7562870] n3070265943[53.9110466,27.7561196] n3070265949[53.9111776,27.7562485] n3070265947[53.9111204,27.7564160] n3070265940[53.9110065,27.7563039] n3070265938[53.9109894,27.7562870]
@@ -4202,7 +4229,7 @@ w302755439
   other tags : addr:housenumber=39 | addr:street=Ляховичская улица | building=house
     geometry : n3070293149[53.9169979,27.7769965] n3070293143[53.9169076,27.7770601] n3070293142[53.9168631,27.7768782] n3070293146[53.9169534,27.7768146] n3070293149[53.9169979,27.7769965]
 w302755451
-  other tags : addr:city=Минск | addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
+  other tags : addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
     geometry : n3070293103[53.9131965,27.7529263] n3070293105[53.9132481,27.7529858] n3070293104[53.9132087,27.7530842] n3070293102[53.9131571,27.7530247] n3070293103[53.9131965,27.7529263]
 w302755457
   other tags : addr:street=Алмазная улица | building=house
@@ -4247,7 +4274,7 @@ w302755504
   other tags : building=house
     geometry : n3070293187[53.9181698,27.7754328] n3070293186[53.9181349,27.7752360] n3070293191[53.9182445,27.7751800] n3070293192[53.9182555,27.7752422] n3070293196[53.9183046,27.7752171] n3070293197[53.9183175,27.7752902] n3070293193[53.9182896,27.7753045] n3070293195[53.9183005,27.7753660] n3070293187[53.9181698,27.7754328]
 w302756416
-  other tags : addr:city=Колодищи-2 | addr:housenumber=32 | addr:street=Бирюзовая улица | building=house | building:levels=1+
+  other tags : addr:housenumber=32 | addr:street=Бирюзовая улица | building=house | building:levels=1+
     geometry : n3070301448[53.9015757,27.8095458] n3070301454[53.9016776,27.8095434] n3070301455[53.9016788,27.8096946] n3070301449[53.9015769,27.8096969] n3669892071[53.9015760,27.8095823] n3070301448[53.9015757,27.8095458]
 w302756426
   other tags : addr:housenumber=19 | addr:street=Витебская | building=house | building:levels=2
@@ -4259,7 +4286,7 @@ w302756443
   other tags : addr:street=улица Республиканская | building=house | building:levels=2
     geometry : n3070301563[53.9062593,27.8115757] n3070301571[53.9063864,27.8115808] n3070301570[53.9063834,27.8117986] n3070301562[53.9062563,27.8117935] n3070301563[53.9062593,27.8115757]
 w302756454
-  other tags : addr:city=Колодищи-2 | addr:housenumber=4 | addr:street=Витебская | building=house
+  other tags : addr:housenumber=4 | addr:street=Витебская | building=house
     geometry : n3070301508[53.9039072,27.8007132] n3070301510[53.9039950,27.8007126] n3070301511[53.9039956,27.8009385] n3070301507[53.9038537,27.8009395] n3070301506[53.9038534,27.8007982] n3070301509[53.9039074,27.8007978] n3070301508[53.9039072,27.8007132]
 w303369649
   other tags : building=house
@@ -4268,10 +4295,10 @@ w303990233
   other tags : building=house
     geometry : n3085059147[54.0174935,27.5896878] n3085059148[54.0173890,27.5896028] n3085059149[54.0173359,27.5897808] n3085059150[54.0174374,27.5898578] n3085059147[54.0174935,27.5896878]
 w304050775
-  other tags : building=residential | building:levels=23
+  other tags : addr:housenumber=17 | addr:postcode=220125 | addr:street=улица Лопатина | building=residential | building:levels=23
     geometry : n3085739264[53.9529231,27.6766559] n3085739265[53.9529989,27.6769080] n3085739266[53.9531504,27.6767792] n3085739267[53.9532640,27.6768061] n3085739268[53.9532861,27.6766559] n3085739269[53.9532009,27.6763823] n3085739270[53.9530746,27.6763554] n3085739271[53.9530746,27.6765217] n3085739264[53.9529231,27.6766559]
 w304050788
-  other tags : building=residential | building:levels=23
+  other tags : addr:housenumber=15 | addr:postcode=220125 | addr:street=улица Лопатина | building=residential | building:levels=23
     geometry : n3085739327[53.9537348,27.6757758] n3085739328[53.9538137,27.6760172] n3085739329[53.9539826,27.6758590] n3085739330[53.9540757,27.6758885] n3085739331[53.9540931,27.6757490] n3085739332[53.9540189,27.6755237] n3085746533[53.9539305,27.6754406] n3085746534[53.9539021,27.6756203] n3085739327[53.9537348,27.6757758]
 w304050809
   other tags : building=residential
@@ -4280,7 +4307,7 @@ w304050822
   other tags : building=residential
     geometry : n3085746597[53.9596230,27.6742467] n3085746598[53.9594771,27.6734465] n3085746599[53.9594268,27.6733745] n3085746600[53.9589592,27.6733852] n3085746601[53.9589639,27.6736226] n3085746602[53.9593609,27.6736146] n3085746603[53.9594818,27.6743241] n3085746597[53.9596230,27.6742467]
 w305121304
-  other tags : addr:city=Боровляны | addr:street=улица Берёзовая Роща | building=house
+  other tags : addr:street=улица Берёзовая Роща | building=house
     geometry : n3097019495[54.0083497,27.6748075] n3097019496[54.0083518,27.6750059] n3097019497[54.0082099,27.6750104] n3097019498[54.0082078,27.6748120] n3097019495[54.0083497,27.6748075]
 w305254703
   other tags : building=house
@@ -4403,10 +4430,10 @@ w308638426
   other tags : building=house
     geometry : n3139070572[53.9546977,27.7745748] n3139070573[53.9546061,27.7746397] n3139070574[53.9546559,27.7748426] n3139070575[53.9547475,27.7747777] n3139070572[53.9546977,27.7745748]
 w308638518
-  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
+  other tags : addr:housenumber=6А | addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3139069065[53.9531976,27.7796401] n3139069066[53.9529646,27.7796430] n3139069067[53.9529656,27.7798903] n3139069068[53.9531987,27.7798873] n3139069065[53.9531976,27.7796401]
 w308638519
-  other tags : addr:street=улица Тюленина | building=apartments | building:levels=9
+  other tags : addr:housenumber=6Б | addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3139069069[53.9527250,27.7800518] n3139069070[53.9524893,27.7800548] n3139069071[53.9524903,27.7802872] n3139069072[53.9527261,27.7802842] n3139069069[53.9527250,27.7800518]
 w309594206
   other tags : building=house
@@ -4496,7 +4523,7 @@ w309732039
   other tags : building=residential
     geometry : n3150640586[53.9577920,27.7797050] n3150640587[53.9577815,27.7796448] n3150640588[53.9576939,27.7796889] n3150640589[53.9577285,27.7798867] n3150640590[53.9578155,27.7798429] n3150640591[53.9578029,27.7797708] n3150640592[53.9578466,27.7797488] n3150640593[53.9578352,27.7796832] n3150640586[53.9577920,27.7797050]
 w310366930
-  other tags : addr:city=д. Новашино | addr:housenumber=49 | addr:street=Новаш | building=house
+  other tags : addr:housenumber=49 | addr:street=Новаш | building=house
     geometry : n3157879867[54.0468497,27.2687653] n3157879868[54.0468307,27.2686554] n3157879869[54.0467435,27.2686991] n3157879870[54.0467624,27.2688089] n3157879867[54.0468497,27.2687653]
 w310628138
   other tags : building=house
@@ -5261,7 +5288,7 @@ w311534956
   other tags : building=house
     geometry : n3172089837[53.9492864,27.7758705] n3172089838[53.9491989,27.7759778] n3172089839[53.9492691,27.7761430] n3172089840[53.9493566,27.7760356] n3172089837[53.9492864,27.7758705]
 w311554615
-  other tags : building=apartments
+  other tags : addr:housenumber=24 | addr:postcode=223050 | addr:street=улица Тюленина | building=apartments | building:levels=9
     geometry : n3172312170[53.9516571,27.7819065] n3172312171[53.9510711,27.7819047] n3172312172[53.9510707,27.7822645] n3172312173[53.9516568,27.7822663] n3172312170[53.9516571,27.7819065]
 w311554616
   other tags : addr:housenumber=24/1 | addr:postcode=223050 | addr:street=улица Тюленина | building=apartments | building:levels=9
@@ -5312,7 +5339,7 @@ w311729144
   other tags : building=house
     geometry : n3174474314[53.9477365,27.7738576] n3174474315[53.9477645,27.7739352] n3174474316[53.9477991,27.7738993] n3174474317[53.9478492,27.7740386] n3174474318[53.9477163,27.7741768] n3174474319[53.9476664,27.7740381] n3174474320[53.9477233,27.7739789] n3174474321[53.9476951,27.7739006] n3174474314[53.9477365,27.7738576]
 w311730297
-  other tags : addr:street=улица Тюленина | building=apartments | building:levels=5
+  other tags : addr:housenumber=8А | addr:postcode=223050 | addr:street=улица Тюленина | building=apartments | building:levels=5
     geometry : n3174485484[53.9523299,27.7819826] n3174485485[53.9522217,27.7820814] n3174485486[53.9524188,27.7827051] n3174485487[53.9525271,27.7826063] n3174485484[53.9523299,27.7819826]
 w312913502
   other tags : building=house
@@ -6269,28 +6296,28 @@ w317493346
   other tags : building=house
     geometry : n3237677939[53.9204406,27.8550420] n3237677940[53.9203970,27.8549126] n3237677941[53.9203096,27.8549976] n3237677942[53.9203531,27.8551269] n3237677939[53.9204406,27.8550420]
 w318399967
-  other tags : addr:housenumber=37а | addr:street=Советская улица | building=apartments
+  other tags : addr:housenumber=37А | addr:street=Советская улица | building=apartments
     geometry : n3248034058[53.7476675,27.6994866] n3248034052[53.7472054,27.6994867] n3248034051[53.7472008,27.6992625] n3248034049[53.7470652,27.6992658] n3248034050[53.7470779,27.6983444] n3248034054[53.7472493,27.6983524] n3248034053[53.7472373,27.6992497] n3248034057[53.7476674,27.6992497] n3248034058[53.7476675,27.6994866]
 w320340439
-  other tags : addr:city=Птичь | addr:housenumber=15 | addr:street=Родниковая улица | building=house | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=Родниковая улица | building=house | building:levels=1
     geometry : n3268487960[53.8656397,27.3148767] n3268487961[53.8655787,27.3150630] n3268487962[53.8654811,27.3149698] n3268487963[53.8655360,27.3147939] n3268487960[53.8656397,27.3148767]
 w320340838
-  other tags : addr:city=Птичь | addr:street=Родниковая улица | building=house
+  other tags : addr:street=Родниковая улица | building=house
     geometry : n3268492876[53.8651153,27.3158973] n3268492877[53.8650608,27.3160715] n3268492878[53.8649653,27.3159856] n3268492879[53.8650198,27.3158114] n3268492876[53.8651153,27.3158973]
 w320340839
-  other tags : addr:city=Птичь | addr:street=Родниковая улица | building=house
+  other tags : addr:street=Родниковая улица | building=house
     geometry : n3268492880[53.8657854,27.3138966] n3268492881[53.8657413,27.3140468] n3268492882[53.8656148,27.3139399] n3268492883[53.8656589,27.3137897] n3268492880[53.8657854,27.3138966]
 w320340840
-  other tags : addr:city=Птичь | addr:street=улица Родниковая | building=house
+  other tags : addr:street=улица Родниковая | building=house
     geometry : n3268492884[53.8653110,27.3160543] n3268492885[53.8653644,27.3158888] n3268492886[53.8652585,27.3157906] n3268492887[53.8652051,27.3159561] n3268492884[53.8653110,27.3160543]
 w320340841
-  other tags : addr:city=Птичь | addr:housenumber=19 | addr:street=улица Родниковая | building=house
+  other tags : addr:housenumber=19 | addr:street=улица Родниковая | building=house
     geometry : n3268492888[53.8658679,27.3125840] n3268492889[53.8658010,27.3127646] n3268492890[53.8657141,27.3126720] n3268492891[53.8657810,27.3124914] n3268492888[53.8658679,27.3125840]
 w320343858
-  other tags : addr:city=Птичь | addr:housenumber=17 | addr:street=улица Родниковая | building=house
+  other tags : addr:housenumber=17 | addr:street=улица Родниковая | building=house
     geometry : n3268524668[53.8657726,27.3144586] n3268524669[53.8657099,27.3146585] n3268524670[53.8656238,27.3145809] n3268524671[53.8656865,27.3143810] n3268524668[53.8657726,27.3144586]
 w320343859
-  other tags : addr:city=Птичь | addr:housenumber=21 | addr:street=улица Родниковая | building=house
+  other tags : addr:housenumber=21 | addr:street=улица Родниковая | building=house
     geometry : n3268524672[53.8660348,27.3119155] n3268524673[53.8661145,27.3119897] n3268524674[53.8661675,27.3118263] n3268524675[53.8660878,27.3117520] n3268524672[53.8660348,27.3119155]
 w320385723
   other tags : building=house
@@ -6845,16 +6872,16 @@ w324208646
   other tags : building=house
     geometry : n3309359265[53.8399746,27.3985764] n2157828216[53.8399818,27.3986482] n3309359273[53.8398950,27.3986731] n3309359277[53.8399123,27.3988462] n3309359276[53.8398715,27.3988578] n708725166[53.8398485,27.3986273] n3309359275[53.8399093,27.3986099] n3309359274[53.8399079,27.3985955] n3309359265[53.8399746,27.3985764]
 w326043266
-  other tags : addr:city=Ждановичи | addr:street=Кольцевая | building=apartments | building:levels=3
+  other tags : addr:street=Кольцевая | building=apartments | building:levels=3
     geometry : n3326610106[53.9400067,27.4301345] n3326610107[53.9400578,27.4300090] n3326610108[53.9398746,27.4297939] n3326610109[53.9398235,27.4299194] n3326610106[53.9400067,27.4301345]
 w326389495
-  other tags : addr:city=Колодищи-2 | addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
+  other tags : addr:housenumber=8 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330225203[53.9132934,27.7526579] n3330225204[53.9132274,27.7528074] n3330225205[53.9131339,27.7527046] n3330225206[53.9131889,27.7525365] n3330225203[53.9132934,27.7526579]
 w326392348
   other tags : addr:housenumber=11 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330261512[53.9130529,27.7549989] n3330261513[53.9129715,27.7552307] n3330261514[53.9129044,27.7551656] n3330261515[53.9129236,27.7550924] n3330261516[53.9128613,27.7550477] n3330261517[53.9129188,27.7548607] n3330261512[53.9130529,27.7549989]
 w326393324
-  other tags : addr:city=Колодищи-2 | addr:housenumber=10 | addr:street=Большая цветочная улица | building=residential
+  other tags : addr:housenumber=10 | addr:street=Большая цветочная улица | building=residential
     geometry : n3330289220[53.9128784,27.7530893] n3330289221[53.9128409,27.7531884] n3330289222[53.9128117,27.7531176] n3330289223[53.9128367,27.7530327] n3330289220[53.9128784,27.7530893]
 w326393325
   other tags : building=residential
@@ -7082,7 +7109,7 @@ w326447271
   other tags : building=residential
     geometry : n3330901372[53.9044381,27.7768437] n3330901373[53.9043728,27.7770224] n3330901374[53.9042820,27.7769238] n3330901375[53.9043256,27.7767883] n3330901372[53.9044381,27.7768437]
 w326447272
-  other tags : addr:city=а.г. Колодищи | addr:housenumber=15 | addr:street=Припятьская | building=house | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=Припятьская | building=house | building:levels=2
     geometry : n3330901376[53.9041168,27.7789851] n3330901377[53.9040769,27.7790929] n3330901378[53.9040025,27.7790097] n3330901379[53.9040388,27.7789111] n3330901376[53.9041168,27.7789851]
 w326447273
   other tags : building=residential
@@ -7118,7 +7145,7 @@ w326447285
   other tags : building=residential
     geometry : n3330901621[53.9024156,27.7769964] n3330901622[53.9023477,27.7771600] n3330901623[53.9022971,27.7770903] n3330901624[53.9023609,27.7769286] n3330901621[53.9024156,27.7769964]
 w326447286  null / null / Andrey
-  other tags : addr:city=Колодищи-2 | addr:housenumber=29 | addr:street=Припятьская улица | building=residential | building:levels=2
+  other tags : addr:housenumber=29 | addr:street=Припятьская улица | building=residential | building:levels=2
     geometry : n3330901625[53.9016173,27.7760630] n3330901626[53.9015619,27.7762024] n3330901627[53.9014836,27.7761128] n3330901628[53.9015391,27.7759734] n3330901625[53.9016173,27.7760630]
 w326447287
   other tags : building=residential
@@ -7313,7 +7340,7 @@ w327484682
   other tags : building=house
     geometry : n3342757933[53.9069566,27.7642045] n3342757934[53.9069996,27.7642528] n3342757935[53.9069824,27.7642969] n3342757936[53.9069394,27.7642486] n3342757933[53.9069566,27.7642045]
 w327484683
-  other tags : addr:city=Копище | addr:housenumber=19А/3 | addr:street=Подгорная | building=apartments | building:levels=11
+  other tags : addr:housenumber=19а/3 | addr:street=Подгорная | building=apartments | building:levels=11
     geometry : n3342757937[53.9613760,27.6751686] n3342757938[53.9613902,27.6753939] n3342757939[53.9607379,27.6755132] n3342757940[53.9607236,27.6752879] n3342757937[53.9613760,27.6751686]
 w327643366
   other tags : building=house
@@ -7490,10 +7517,10 @@ w332373365
   other tags : building=house
     geometry : n3394918826[54.0668906,27.5853977] n3394918827[54.0668852,27.5855663] n3394918828[54.0667706,27.5855555] n3394918829[54.0667760,27.5853869] n3394918826[54.0668906,27.5853977]
 w334819013
-  other tags : addr:city=Гатово | addr:housenumber=14 | addr:postcode=223017 | addr:street=улица Молодежная | building=house | building:levels=2
+  other tags : addr:housenumber=14 | addr:postcode=223017 | addr:street=улица Молодежная | building=house | building:levels=2
     geometry : n3419334593[53.7916490,27.6305312] n3419334594[53.7915542,27.6305298] n3419334595[53.7915536,27.6307187] n3419334596[53.7916482,27.6307205] n3419334597[53.7916488,27.6306391] n3419334593[53.7916490,27.6305312]
 w334819099
-  other tags : addr:city=Гатово | addr:housenumber=10 | addr:postcode=223017 | addr:street=улица Молодежная | building=house
+  other tags : addr:housenumber=10 | addr:postcode=223017 | addr:street=улица Молодежная | building=house
     geometry : n3419333223[53.7916220,27.6313732] n3419333224[53.7916133,27.6315588] n3419333225[53.7915405,27.6315534] n3419333226[53.7915429,27.6315013] n3419333227[53.7915332,27.6314995] n3419333228[53.7915228,27.6314826] n3419333229[53.7915210,27.6314741] n3419333230[53.7915214,27.6314556] n3419333231[53.7915223,27.6314456] n3419333232[53.7915273,27.6314371] n3419333233[53.7915369,27.6314287] n3419333234[53.7915483,27.6314291] n3419333235[53.7915501,27.6313670] n3419333223[53.7916220,27.6313732]
 w334852421
   other tags : addr:housenumber=9 | addr:street=Лесная улица | building=house
@@ -7550,7 +7577,7 @@ w338438455
   other tags : addr:housenumber=19 | addr:street=Смолевичская улица | building=house
     geometry : n3455172393[53.9177225,27.7758323] n3455172394[53.9176812,27.7755619] n3455172395[53.9178012,27.7755089] n3455172396[53.9178426,27.7757794] n3455172393[53.9177225,27.7758323]
 w341128413
-  other tags : addr:city=Боровляны | addr:housenumber=58 | addr:postcode=223053 | addr:street=Речная улица | building=residential
+  other tags : addr:housenumber=58 | addr:postcode=223053 | addr:street=Речная улица | building=residential
     geometry : n3483487961[53.9976900,27.6682613] n3483487962[53.9978276,27.6682675] n3483487963[53.9978240,27.6684554] n3483487964[53.9976846,27.6684400] n3483487961[53.9976900,27.6682613]
 w341152492
   other tags : building=residential
@@ -7568,7 +7595,7 @@ w342700839
   other tags : building=apartments
     geometry : n3496663240[54.0249360,27.4314465] n3496663241[54.0248075,27.4312956] n3496663242[54.0243091,27.4322742] n3496663243[54.0243978,27.4324928] n3496663240[54.0249360,27.4314465]
 w344279188  null / null / Жилой Комплекс Акварельный
-  other tags : addr:city=Боровляны | addr:housenumber=106 | addr:street=улица Берёзовая Роща | building=apartments | building:levels=4
+  other tags : addr:housenumber=106 | addr:street=улица Берёзовая Роща | building=apartments | building:levels=4
     geometry : n3510177993[54.0001172,27.6761297] n3510177997[54.0008102,27.6767355] n3510177994[54.0014524,27.6771893] n3510177995[54.0015023,27.6769274] n3514035430[54.0008293,27.6764346] n3510177996[54.0001794,27.6759061] n3510177993[54.0001172,27.6761297]
 w344652701
   other tags : building=house
@@ -7583,22 +7610,22 @@ w345014647
   other tags : building=residential
     geometry : n3517154580[53.8327456,27.4663201] n3517154581[53.8328717,27.4665767] n3517154582[53.8327758,27.4667221] n3517154583[53.8326497,27.4664484] n3517154580[53.8327456,27.4663201]
 w346025196
-  other tags : addr:city=Прилуки | addr:housenumber=27 | addr:street=улица Мира | building=apartments | building:levels=5
+  other tags : addr:housenumber=27 | addr:street=улица Мира | building=apartments | building:levels=5
     geometry : n3526266393[53.7947641,27.4551681] n3526266394[53.7951262,27.4561962] n3526266395[53.7950082,27.4563307] n3526266396[53.7946403,27.4552927] n3526266397[53.7947069,27.4552255] n3526266398[53.7945597,27.4548043] n3526266399[53.7946660,27.4546976] n3526266400[53.7948167,27.4551187] n3526266393[53.7947641,27.4551681]
 w347819465
-  other tags : addr:city=Сёмково | addr:housenumber=11 | addr:street=улица Заславская | building=house
+  other tags : addr:housenumber=11 | addr:street=улица Заславская | building=house
     geometry : n3540709330[54.0015274,27.4463164] n3540709331[54.0014515,27.4465592] n3540709332[54.0012242,27.4463455] n3540709333[54.0012609,27.4462249] n3540709334[54.0011087,27.4460819] n3540709335[54.0011480,27.4459658] n3540709330[54.0015274,27.4463164]
 w347820739
-  other tags : addr:city=Сёмково | addr:street=улица Заславская | building=house
+  other tags : addr:street=улица Заславская | building=house
     geometry : n3540718467[54.0021625,27.4431414] n3540718468[54.0019950,27.4431525] n3540718469[54.0019900,27.4433394] n3540718470[54.0019526,27.4433394] n3540718471[54.0019503,27.4435040] n3540718472[54.0021588,27.4434929] n3540718467[54.0021625,27.4431414]
 w347820740
-  other tags : addr:city=Сёмково | building=house
+  other tags : building=house
     geometry : n3540718473[54.0022482,27.4425637] n3540718474[54.0021618,27.4425622] n3540718475[54.0021538,27.4428470] n3540718476[54.0022428,27.4428440] n3540718473[54.0022482,27.4425637]
 w347832923
-  other tags : addr:city=Сёмково | addr:street=улица Бирюзовая | building=house
+  other tags : addr:street=улица Бирюзовая | building=house
     geometry : n3540766132[54.0024848,27.4459198] n3540766133[54.0024011,27.4461593] n3540766134[54.0023676,27.4461279] n3540766135[54.0023486,27.4461772] n3540766136[54.0022858,27.4461141] n3540766137[54.0023058,27.4460558] n3540766138[54.0022702,27.4460175] n3540766139[54.0023407,27.4458197] n3540766140[54.0023881,27.4458701] n3540766141[54.0024021,27.4458353] n3540766132[54.0024848,27.4459198]
-w352493947  null / null / 7
-  other tags : addr:city=Ратомка | addr:housenumber=7 | addr:street=улица Нарочанская | building=house | building:levels=2
+w352493947
+  other tags : addr:housenumber=7 | addr:street=улица Нарочанская | building=house | building:levels=2
     geometry : n3582733525[53.9298933,27.3231923] n3582733526[53.9297862,27.3232103] n3582733527[53.9298017,27.3234645] n3583152627[53.9298581,27.3234518] n3582733528[53.9299030,27.3233993] n3582733525[53.9298933,27.3231923]
 w352551370
   other tags : building=house
@@ -7612,14 +7639,14 @@ w352941100
 w353436581
   other tags : building=house
     geometry : n3592136965[53.9390500,27.3581679] n3592136966[53.9389836,27.3582845] n3592136967[53.9388800,27.3581141] n3592136968[53.9389464,27.3579975] n3592136965[53.9390500,27.3581679]
-w353582888  null / null / 5
-  other tags : addr:city=Ратомка | addr:housenumber=5 | addr:street=улица Нарочанская | building=house
+w353582888
+  other tags : addr:housenumber=5 | addr:street=улица Нарочанская | building=house
     geometry : n3593951086[53.9301570,27.3231673] n3593951087[53.9300765,27.3231780] n3593951088[53.9300812,27.3233363] n3593951089[53.9301618,27.3233228] n3593951086[53.9301570,27.3231673]
-w353582951  null / null / 4
-  other tags : addr:city=Ратомка | addr:housenumber=4 | addr:street=улица Нарочанская | building=house
+w353582951
+  other tags : addr:housenumber=4 | addr:street=улица Нарочанская | building=house
     geometry : n3593953080[53.9301555,27.3224350] n3593953081[53.9300102,27.3224511] n3593953082[53.9300165,27.3226416] n3593953083[53.9301586,27.3226335] n3593953080[53.9301555,27.3224350]
-w353583007  null / null / 2
-  other tags : addr:city=Ратомка | addr:housenumber=2 | addr:street=улица Нарочанская | building=house
+w353583007
+  other tags : addr:housenumber=2 | addr:street=улица Нарочанская | building=house
     geometry : n3593953226[53.9304587,27.3224324] n3593953227[53.9303544,27.3224484] n3593953228[53.9303434,27.3221933] n3593953229[53.9304492,27.3221829] n3593953226[53.9304587,27.3224324]
 w353752464
   other tags : addr:housenumber=131 | building=house
@@ -7649,16 +7676,16 @@ w354179962
   other tags : building=house
     geometry : n3599417849[53.8274497,27.5402585] n3599417850[53.8273464,27.5402651] n3599417851[53.8273498,27.5404152] n3599417852[53.8274530,27.5404086] n3599417849[53.8274497,27.5402585]
 w354489460
-  other tags : addr:city=Ждановичи | addr:housenumber=9 | addr:street=Школьная улица | building=house
+  other tags : addr:housenumber=9 | addr:street=Школьная улица | building=house
     geometry : n3602063105[53.9385421,27.4055726] n3602063106[53.9384103,27.4055953] n3602063107[53.9384015,27.4054491] n3602063108[53.9385334,27.4054264] n3602063105[53.9385421,27.4055726]
 w355059998
-  other tags : addr:city=Бровки | addr:housenumber=1 | addr:street=Береговая | building=house | building:levels=2
+  other tags : addr:housenumber=1 | addr:street=Береговая | building=house | building:levels=2
     geometry : n3606800081[54.0399033,27.3894642] n3606800082[54.0397156,27.3893443] n3606800083[54.0396357,27.3897069] n3606800084[54.0397396,27.3897733] n3606800085[54.0397880,27.3895539] n3606800086[54.0398717,27.3896074] n3606800081[54.0399033,27.3894642]
 w355060028
   other tags : building=house
     geometry : n3606800174[54.0402209,27.3888863] n3606800175[54.0401681,27.3891296] n3606800176[54.0400251,27.3890396] n3606800177[54.0400778,27.3887963] n3606800174[54.0402209,27.3888863]
 w357595982
-  other tags : addr:city=Тарасово | addr:housenumber=16 | addr:street=Спортивная улица | building=house
+  other tags : addr:housenumber=16 | addr:street=Спортивная улица | building=house
     geometry : n3628170891[53.9297472,27.3693770] n3628170892[53.9297045,27.3696048] n3628170993[53.9295560,27.3695245] n3628170994[53.9295988,27.3692967] n3628170891[53.9297472,27.3693770]
 w357665303
   other tags : building=house
@@ -7669,65 +7696,68 @@ w358054651
 w358160852
   other tags : addr:housenumber=12 | addr:street=Южная | building=house | building:levels=2
     geometry : n3631372117[53.6774937,27.5247000] n3631372119[53.6775312,27.5249075] n3631372120[53.6774436,27.5249527] n3631372121[53.6773883,27.5248780] n3631372122[53.6773678,27.5247650] n3631372117[53.6774937,27.5247000]
+w358171162
+  other tags : addr:housenumber=14 | addr:street=Южная | building=house | building:levels=2
+    geometry : n3631419585[53.6772008,27.5247784] n3631419586[53.6772286,27.5250049] n3631419587[53.6770942,27.5250519] n3631419588[53.6770664,27.5248254] n3631419585[53.6772008,27.5247784]
 w358359362
-  other tags : addr:city=Крупица | addr:housenumber=4 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=4 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632907631[53.6787069,27.5242313] n3632907632[53.6787343,27.5243884] n3632907633[53.6788271,27.5243422] n3632907634[53.6787997,27.5241851] n3632907631[53.6787069,27.5242313]
 w358359385
-  other tags : addr:city=Крупица | addr:housenumber=6 | addr:street=Южная | building=house | building:levels=3
+  other tags : addr:housenumber=6 | addr:street=Южная | building=house | building:levels=3
     geometry : n3632909736[53.6783124,27.5243907] n3632909737[53.6783376,27.5245599] n3632909738[53.6782468,27.5245985] n3632909739[53.6782216,27.5244293] n3632909736[53.6783124,27.5243907]
 w358359624
-  other tags : addr:city=Крупица | addr:housenumber=8 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=8 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632911268[53.6781404,27.5244927] n3632911269[53.6781696,27.5246802] n3632911270[53.6779932,27.5247584] n3632911271[53.6779641,27.5245708] n3632911268[53.6781404,27.5244927]
 w358360098
-  other tags : addr:city=Крупица | addr:housenumber=5 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=5 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632915272[53.6781687,27.5250680] n3632915273[53.6780779,27.5251120] n3632915274[53.6781066,27.5252806] n3632915275[53.6781974,27.5252365] n3632915272[53.6781687,27.5250680]
 w358360416
   other tags : addr:housenumber=3 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632917373[53.6782329,27.5250367] n3632917374[53.6783209,27.5249954] n3632917375[53.6783457,27.5251458] n3632917376[53.6782577,27.5251871] n3632917373[53.6782329,27.5250367]
 w358360498
-  other tags : addr:city=Крупица | addr:housenumber=7 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=7 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632917811[53.6779200,27.5252613] n3632917812[53.6778276,27.5252945] n3632917813[53.6778501,27.5254724] n3632917814[53.6779425,27.5254392] n3632917811[53.6779200,27.5252613]
 w358360529
-  other tags : addr:city=Крупица | addr:housenumber=9 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=9 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632918360[53.6777104,27.5252880] n3632918361[53.6776063,27.5253311] n3632918362[53.6776289,27.5254860] n3632918363[53.6777329,27.5254429] n3632918360[53.6777104,27.5252880]
 w358360559
-  other tags : addr:city=Крупица | addr:housenumber=11 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=11 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632905517[53.6774562,27.5253851] n3632905518[53.6773685,27.5254204] n3632905519[53.6773893,27.5255680] n3632905520[53.6774770,27.5255327] n3632905517[53.6774562,27.5253851]
 w358360722
-  other tags : addr:city=Крупица | addr:housenumber=13 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=13 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632922621[53.6772428,27.5255551] n3632922622[53.6771655,27.5255868] n3632922623[53.6771905,27.5257606] n3632922624[53.6772678,27.5257290] n3632922621[53.6772428,27.5255551]
 w358360753
-  other tags : addr:city=Крупица | addr:housenumber=16 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=16 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632923195[53.6770052,27.5251146] n3632923196[53.6769274,27.5251463] n3632923197[53.6769053,27.5249913] n3632923198[53.6769831,27.5249597] n3632923195[53.6770052,27.5251146]
 w358360811
-  other tags : addr:city=Крупица | addr:housenumber=15 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632923122[53.6768175,27.5257400] n3632923123[53.6767364,27.5257779] n3632923124[53.6767621,27.5259341] n3632923125[53.6768431,27.5258963] n3632923122[53.6768175,27.5257400]
 w358361035
-  other tags : addr:city=Крупица | addr:housenumber=1/а | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=1/а | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632925242[53.6790169,27.5265055] n3632925243[53.6789063,27.5265509] n3632925244[53.6789335,27.5267396] n3632925245[53.6790441,27.5266942] n3632925242[53.6790169,27.5265055]
 w358361046
-  other tags : addr:city=Крупица | addr:housenumber=1 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=1 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632923454[53.6788010,27.5267466] n3632923455[53.6787040,27.5267847] n3632923456[53.6787267,27.5269494] n3632923457[53.6788237,27.5269113] n3632923454[53.6788010,27.5267466]
 w358361103
-  other tags : addr:city=Крупица | addr:housenumber=3 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632925659[53.6785807,27.5268362] n3632925660[53.6784800,27.5268769] n3632925661[53.6785067,27.5270661] n3632925662[53.6786075,27.5270255] n3632925659[53.6785807,27.5268362]
 w358361121
-  other tags : addr:city=Крупица | addr:housenumber=5 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=5 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632925506[53.6783507,27.5269362] n3632925507[53.6782558,27.5269750] n3632925508[53.6782789,27.5271365] n3632925509[53.6783738,27.5270978] n3632925506[53.6783507,27.5269362]
 w358361477
-  other tags : addr:city=Крупица | addr:housenumber=7 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=7 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632927467[53.6781234,27.5270333] n3632927468[53.6780326,27.5270736] n3632927469[53.6780580,27.5272367] n3632927470[53.6781488,27.5271965] n3632927467[53.6781234,27.5270333]
 w358361768
-  other tags : addr:city=Крупица | addr:housenumber=9 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=9 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632929972[53.6775738,27.5271922] n3632929973[53.6774489,27.5272444] n3632929974[53.6774759,27.5274291] n3632929975[53.6776008,27.5273769] n3632929972[53.6775738,27.5271922]
 w358361819
-  other tags : addr:city=Крупица | addr:housenumber=11 | addr:street=Красивая | building=house | building:levels=2
+  other tags : addr:housenumber=11 | addr:street=Красивая | building=house | building:levels=2
     geometry : n3632930006[53.6772784,27.5273177] n3632930007[53.6771605,27.5273691] n3632930008[53.6771936,27.5275858] n3632930009[53.6773116,27.5275344] n3632930006[53.6772784,27.5273177]
 w358361927
-  other tags : addr:city=Крупица | addr:housenumber=18 | addr:street=Южная | building=house | building:levels=2
+  other tags : addr:housenumber=18 | addr:street=Южная | building=house | building:levels=2
     geometry : n3632930575[53.6767172,27.5250578] n3632930576[53.6766312,27.5250927] n3632930577[53.6766558,27.5252654] n3632930578[53.6767418,27.5252305] n3632930575[53.6767172,27.5250578]
 w358797576
-  other tags : addr:city=Крупица | addr:housenumber=21 | addr:street=Колхозная | building=house | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=Колхозная | building=house | building:levels=1
     geometry : n3636501436[53.6802510,27.5360301] n3636501437[53.6801904,27.5360848] n3636501438[53.6802559,27.5362917] n3636501439[53.6803558,27.5362016] n3636501440[53.6803310,27.5361234] n3636501441[53.6802918,27.5361588] n3636501436[53.6802510,27.5360301]
 w358804987
   other tags : building=residential
@@ -7751,46 +7781,46 @@ w359163543
   other tags : building=house
     geometry : n3639233637[53.6789656,27.5251881] n3639233638[53.6788876,27.5252282] n3639233639[53.6788540,27.5250414] n3639233640[53.6789320,27.5250013] n3639233637[53.6789656,27.5251881]
 w359163544
-  other tags : building=house
+  other tags : addr:housenumber=5 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639233641[53.6790069,27.5253742] n3639233642[53.6788891,27.5254255] n3639233643[53.6789125,27.5255792] n3639233644[53.6790304,27.5255279] n3639233641[53.6790069,27.5253742]
 w359163545
   other tags : building=house
     geometry : n3639233645[53.6790496,27.5257263] n3639233646[53.6789465,27.5257771] n3639233647[53.6789766,27.5259512] n3639233648[53.6790797,27.5259004] n3639233645[53.6790496,27.5257263]
 w359164230
-  other tags : building=house
+  other tags : addr:housenumber=8 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639241925[53.6796333,27.5246088] n3639241926[53.6795405,27.5246502] n3639241927[53.6795671,27.5248200] n3639241928[53.6796599,27.5247786] n3639241925[53.6796333,27.5246088]
 w359172581
-  other tags : building=house
+  other tags : addr:housenumber=11 | addr:street=Слуцкая | building=house
     geometry : n3639307337[53.6785333,27.5223786] n3639307338[53.6785678,27.5225808] n3639307339[53.6784576,27.5226344] n3639307340[53.6784231,27.5224322] n3639307337[53.6785333,27.5223786]
 w359172582
-  other tags : addr:city=Крупица | addr:housenumber=10 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=10 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639307341[53.6794923,27.5237362] n3639307342[53.6793869,27.5237851] n3639307343[53.6794241,27.5240136] n3639307344[53.6795296,27.5239646] n3639307341[53.6794923,27.5237362]
 w359172583
-  other tags : addr:city=Крупица | addr:housenumber=12 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=12 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639307345[53.6794262,27.5233782] n3639307346[53.6793345,27.5234173] n3639307347[53.6793643,27.5236161] n3639307348[53.6794560,27.5235769] n3639307345[53.6794262,27.5233782]
 w359172584
-  other tags : addr:city=Крупица | addr:housenumber=14 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=14 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639307349[53.6793463,27.5230192] n3639307350[53.6792481,27.5230665] n3639307351[53.6792767,27.5232360] n3639307352[53.6793749,27.5231888] n3639307349[53.6793463,27.5230192]
 w359172585
-  other tags : addr:city=Крупица | addr:housenumber=18 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=18 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639307353[53.6792167,27.5220331] n3639307354[53.6791266,27.5220745] n3639307355[53.6791574,27.5222657] n3639307356[53.6792475,27.5222243] n3639307353[53.6792167,27.5220331]
 w359172586
-  other tags : addr:city=Крупица | addr:housenumber=20 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=20 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3639307357[53.6791987,27.5214672] n3639307358[53.6790750,27.5215259] n3639307359[53.6791065,27.5217154] n3639307360[53.6792302,27.5216567] n3639307357[53.6791987,27.5214672]
 w359172719
-  other tags : addr:city=Крупица | addr:housenumber=32 | addr:street=Слуцкая | building=house
+  other tags : addr:housenumber=32 | addr:street=Слуцкая | building=house
     geometry : n3639309706[53.6786841,27.5185067] n3639309707[53.6785736,27.5185577] n3639309708[53.6786049,27.5187514] n3639309709[53.6787154,27.5187004] n3639309706[53.6786841,27.5185067]
 w359172720
-  other tags : addr:city=Крупица | addr:housenumber=30 | addr:street=Слуцкая | building=house
+  other tags : addr:housenumber=30 | addr:street=Слуцкая | building=house
     geometry : n3639309710[53.6787403,27.5190811] n3639309711[53.6786535,27.5191193] n3639309712[53.6786837,27.5193153] n3639309713[53.6787705,27.5192771] n3639309710[53.6787403,27.5190811]
 w359172721
-  other tags : addr:city=Крупица | addr:housenumber=28 | addr:street=Слуцкая | building=house | building:levels=1
+  other tags : addr:housenumber=28 | addr:street=Слуцкая | building=house | building:levels=1
     geometry : n3639309714[53.6788180,27.5194375] n3639309715[53.6787086,27.5194906] n3639309716[53.6787605,27.5197954] n3639309717[53.6788699,27.5197423] n3639309714[53.6788180,27.5194375]
 w359172722
-  other tags : addr:city=Крупица | addr:housenumber=26 | addr:street=Слуцкая | building=house
+  other tags : addr:housenumber=26 | addr:street=Слуцкая | building=house
     geometry : n3639309718[53.6788823,27.5198965] n3639309719[53.6789062,27.5200363] n3639309720[53.6787968,27.5200897] n3639309721[53.6787729,27.5199499] n3639309718[53.6788823,27.5198965]
 w359172723
-  other tags : addr:city=Крупица | addr:housenumber=24 | addr:street=Слуцкая | building=house
+  other tags : addr:housenumber=24 | addr:street=Слуцкая | building=house
     geometry : n3639309722[53.6789265,27.5203306] n3639309723[53.6788434,27.5203715] n3639309724[53.6788736,27.5205468] n3639309725[53.6789567,27.5205060] n3639309722[53.6789265,27.5203306]
 w359175266
   other tags : building=house
@@ -7832,7 +7862,7 @@ w359349829
   other tags : building=residential
     geometry : n3640804221[53.6763652,27.5340662] n3640804222[53.6762523,27.5341391] n3640804223[53.6763370,27.5345129] n3640804224[53.6764499,27.5344400] n3640804221[53.6763652,27.5340662]
 w359349830
-  other tags : addr:city=Крупица | addr:housenumber=27 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=27 | addr:street=Садовая | building=residential
     geometry : n3640804225[53.6748779,27.5321189] n3640804226[53.6746881,27.5322242] n3640804227[53.6747028,27.5322993] n3640804228[53.6745633,27.5323766] n3640804229[53.6746175,27.5326556] n3640804230[53.6747709,27.5325706] n3640804231[53.6747529,27.5324781] n3640804232[53.6749288,27.5323806] n3640804225[53.6748779,27.5321189]
 w359349831
   other tags : building=residential
@@ -7858,9 +7888,6 @@ w359349837
 w359349838
   other tags : building=residential
     geometry : n3640804265[53.6765631,27.5317603] n3640804266[53.6766122,27.5319811] n3640804267[53.6765097,27.5320460] n3640804268[53.6764606,27.5318252] n3640804265[53.6765631,27.5317603]
-w359349839  null / null / Детская школа искусств
-  other tags : addr:city=Крупица | addr:housenumber=7 | addr:street=Юбилейная | building=residential | building:levels=2
-    geometry : n3640804269[53.6766476,27.5322541] n3640804270[53.6765644,27.5323014] n3640804271[53.6765967,27.5324630] n3640804272[53.6766799,27.5324157] n3640804269[53.6766476,27.5322541]
 w359360007
   other tags : building=residential
     geometry : n3640862597[53.6778349,27.5332595] n3640862598[53.6777247,27.5333327] n3640862599[53.6777808,27.5335733] n3640862600[53.6778910,27.5335001] n3640862597[53.6778349,27.5332595]
@@ -7949,7 +7976,7 @@ w359521798
   other tags : building=house
     geometry : n3642192997[53.9345128,27.8098628] n3642192998[53.9344884,27.8101340] n3642192999[53.9343086,27.8100874] n3642193000[53.9343212,27.8099466] n3642193001[53.9343007,27.8099305] n3642193002[53.9343114,27.8098107] n3642192997[53.9345128,27.8098628]
 w359530150
-  other tags : addr:city=Крупица | addr:housenumber=13 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=13 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642243477[53.6784366,27.5214276] n3642243478[53.6784451,27.5214755] n3642243479[53.6784904,27.5214525] n3642243480[53.6785091,27.5215572] n3642243481[53.6783320,27.5216471] n3642243482[53.6783048,27.5214945] n3642243477[53.6784366,27.5214276]
 w359530151
   other tags : building=house
@@ -7973,82 +8000,82 @@ w359530157
   other tags : building=house
     geometry : n3642246913[53.6777611,27.5210304] n3642246914[53.6776552,27.5210821] n3642246915[53.6776848,27.5212546] n3642246916[53.6777907,27.5212028] n3642246913[53.6777611,27.5210304]
 w359530158
-  other tags : addr:city=Крупица | addr:housenumber=15 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642246917[53.6783550,27.5208482] n3642246918[53.6781857,27.5209300] n3642246919[53.6782137,27.5210953] n3642246920[53.6783830,27.5210135] n3642246917[53.6783550,27.5208482]
 w359530159
-  other tags : addr:city=Крупица | addr:housenumber=17 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=17 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642246921[53.6783137,27.5203013] n3642246922[53.6783379,27.5204631] n3642246923[53.6781912,27.5205257] n3642246924[53.6781669,27.5203639] n3642246921[53.6783137,27.5203013]
 w359530160
-  other tags : addr:city=Крупица | addr:housenumber=19 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=19 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642246925[53.6782129,27.5198401] n3642246926[53.6782397,27.5200141] n3642246927[53.6781330,27.5200610] n3642246928[53.6781061,27.5198870] n3642246925[53.6782129,27.5198401]
 w359530161
-  other tags : addr:city=Крупица | addr:housenumber=21 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=21 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642246929[53.6781308,27.5194403] n3642246930[53.6781563,27.5196042] n3642246931[53.6780174,27.5196658] n3642246932[53.6779758,27.5193986] n3642246933[53.6780626,27.5193601] n3642246934[53.6780787,27.5194634] n3642246929[53.6781308,27.5194403]
 w359530162
   other tags : building=house
     geometry : n3642246935[53.6779179,27.5184151] n3642246936[53.6779437,27.5185710] n3642246937[53.6777596,27.5186580] n3642246938[53.6777338,27.5185021] n3642246935[53.6779179,27.5184151]
 w359530163
-  other tags : addr:city=Крупица | addr:housenumber=23 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=23 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3642246939[53.6781088,27.5189470] n3642246940[53.6781367,27.5191217] n3642246941[53.6780292,27.5191707] n3642246942[53.6780013,27.5189961] n3642246939[53.6781088,27.5189470]
 w359530164
-  other tags : addr:city=Крупица | addr:housenumber=13 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=13 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246943[53.6761837,27.5253059] n3642246944[53.6761600,27.5255372] n3642246945[53.6760352,27.5255008] n3642246946[53.6760588,27.5252695] n3642246943[53.6761837,27.5253059]
 w359530165
-  other tags : addr:city=Крупица | addr:housenumber=15 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=15 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246947[53.6762199,27.5249439] n3642246948[53.6761948,27.5252019] n3642246949[53.6760798,27.5251701] n3642246950[53.6761049,27.5249120] n3642246947[53.6762199,27.5249439]
 w359530166
-  other tags : addr:city=Крупица | addr:housenumber=17 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=17 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246951[53.6762581,27.5243635] n3642246952[53.6762402,27.5245524] n3642246953[53.6761455,27.5245268] n3642246954[53.6761635,27.5243379] n3642246951[53.6762581,27.5243635]
 w359530167
-  other tags : addr:city=Крупица | addr:housenumber=19 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=19 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246955[53.6762925,27.5239078] n3642246956[53.6762754,27.5241153] n3642246957[53.6761298,27.5240812] n3642246958[53.6761469,27.5238736] n3642246955[53.6762925,27.5239078]
 w359530168
-  other tags : addr:city=Крупица | addr:housenumber=21 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=21 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246959[53.6763200,27.5233873] n3642246960[53.6763028,27.5236154] n3642246961[53.6762007,27.5235935] n3642246962[53.6762179,27.5233654] n3642246959[53.6763200,27.5233873]
 w359530169
-  other tags : addr:city=Крупица | addr:housenumber=23 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=23 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246963[53.6763758,27.5229689] n3642246964[53.6763575,27.5231856] n3642246965[53.6762445,27.5231585] n3642246966[53.6762627,27.5229417] n3642246963[53.6763758,27.5229689]
 w359530170
-  other tags : addr:city=Крупица | addr:housenumber=25 | addr:street=Новая | building=house | building:levels=2
+  other tags : addr:housenumber=25 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642246967[53.6764245,27.5224507] n3642246968[53.6764104,27.5226340] n3642246969[53.6763171,27.5226135] n3642246970[53.6763312,27.5224303] n3642246967[53.6764245,27.5224507]
 w359533196
-  other tags : building=house
+  other tags : addr:housenumber=2 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263160[53.6763939,27.5283872] n3642263161[53.6762803,27.5283682] n3642263162[53.6762662,27.5286081] n3642263163[53.6763798,27.5286271] n3642263160[53.6763939,27.5283872]
 w359533198
-  other tags : building=house
+  other tags : addr:housenumber=4 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263164[53.6764470,27.5280425] n3642263165[53.6763325,27.5280275] n3642263166[53.6763223,27.5282500] n3642263167[53.6764368,27.5282650] n3642263164[53.6764470,27.5280425]
 w359533200
-  other tags : building=house
+  other tags : addr:housenumber=6 | addr:street=Новая | building=house
     geometry : n3642263168[53.6764082,27.5276052] n3642263169[53.6764004,27.5278063] n3642263170[53.6763004,27.5277952] n3642263171[53.6763081,27.5275942] n3642263168[53.6764082,27.5276052]
 w359533202
-  other tags : building=house
+  other tags : addr:housenumber=8 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263172[53.6764342,27.5273180] n3642263173[53.6764251,27.5274964] n3642263174[53.6763172,27.5274808] n3642263175[53.6763262,27.5273024] n3642263172[53.6764342,27.5273180]
 w359533205
-  other tags : building=house
+  other tags : addr:housenumber=10 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263176[53.6764899,27.5268616] n3642263177[53.6763850,27.5268535] n3642263178[53.6763789,27.5270818] n3642263179[53.6764837,27.5270899] n3642263176[53.6764899,27.5268616]
 w359533207
-  other tags : building=house
+  other tags : addr:housenumber=12 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263180[53.6764767,27.5265120] n3642263181[53.6764641,27.5267542] n3642263182[53.6763448,27.5267365] n3642263183[53.6763573,27.5264943] n3642263180[53.6764767,27.5265120]
 w359533209
   other tags : building=house
     geometry : n3642263184[53.6765667,27.5259729] n3642263185[53.6765017,27.5261535] n3642263186[53.6763903,27.5260392] n3642263187[53.6764553,27.5258586] n3642263184[53.6765667,27.5259729]
 w359533212
-  other tags : building=house
+  other tags : addr:housenumber=11 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263188[53.6761250,27.5260951] n3642263189[53.6761174,27.5262767] n3642263190[53.6760013,27.5262629] n3642263191[53.6760089,27.5260813] n3642263188[53.6761250,27.5260951]
 w359533214
-  other tags : building=house
+  other tags : addr:housenumber=9 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642263192[53.6761040,27.5265305] n3642264493[53.6760953,27.5267135] n3642264494[53.6759785,27.5266977] n3642264495[53.6759871,27.5265148] n3642263192[53.6761040,27.5265305]
 w359533216
-  other tags : building=house
+  other tags : addr:housenumber=7 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642264496[53.6760819,27.5269473] n3642264497[53.6760698,27.5271697] n3642264498[53.6759585,27.5271525] n3642264499[53.6759706,27.5269301] n3642264496[53.6760819,27.5269473]
 w359533219
-  other tags : building=house
+  other tags : addr:housenumber=5 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642264500[53.6760455,27.5274068] n3642264501[53.6760364,27.5276267] n3642264502[53.6759221,27.5276132] n3642264503[53.6759312,27.5273934] n3642264500[53.6760455,27.5274068]
 w359533222
-  other tags : building=house
+  other tags : addr:housenumber=1 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642264504[53.6758776,27.5283803] n3642264505[53.6758664,27.5285682] n3642264506[53.6757497,27.5285483] n3642264507[53.6757609,27.5283604] n3642264504[53.6758776,27.5283803]
 w359533224
-  other tags : building=house
+  other tags : addr:housenumber=3 | addr:street=Новая | building=house | building:levels=2
     geometry : n3642264508[53.6760317,27.5278873] n3642264509[53.6760205,27.5280789] n3642264510[53.6759243,27.5280629] n3642264511[53.6759355,27.5278713] n3642264508[53.6760317,27.5278873]
 w359533226
   other tags : building=house
@@ -8069,49 +8096,49 @@ w359535696
   other tags : building=house
     geometry : n3642277334[53.6794867,27.5280749] n3642277335[53.6795194,27.5282789] n3642277336[53.6794240,27.5283224] n3642277337[53.6793913,27.5281184] n3642277334[53.6794867,27.5280749]
 w359537761
-  other tags : addr:city=Крупица | addr:housenumber=8/5 | addr:street=Садовая | building=house | building:levels=2
+  other tags : addr:housenumber=8/5 | addr:street=Садовая | building=house | building:levels=2
     geometry : n3642290318[53.6790897,27.5283773] n3642290319[53.6791180,27.5285341] n3642290320[53.6790378,27.5285755] n3642290322[53.6790270,27.5285157] n3642290321[53.6790094,27.5284186] n3642290318[53.6790897,27.5283773]
 w359537763
-  other tags : addr:city=Крупица | addr:housenumber=8/4 | addr:street=Садовая | building=house | building:levels=2
+  other tags : addr:housenumber=8/4 | addr:street=Садовая | building=house | building:levels=2
     geometry : n3642290322[53.6790270,27.5285157] n3642290320[53.6790378,27.5285755] n3642290323[53.6790551,27.5286712] n3642290324[53.6789711,27.5287144] n3642290326[53.6789611,27.5286548] n3642290325[53.6789430,27.5285589] n3642290322[53.6790270,27.5285157]
 w359537765
-  other tags : addr:city=Крупица | addr:housenumber=8/3 | addr:street=Садовая | building=house | building:levels=2
+  other tags : addr:housenumber=8/3 | addr:street=Садовая | building=house | building:levels=2
     geometry : n3642290326[53.6789611,27.5286548] n3642290327[53.6789863,27.5288128] n3642290328[53.6789015,27.5288515] n3642290330[53.6788959,27.5288167] n3642290329[53.6788762,27.5286934] n3642290326[53.6789611,27.5286548]
 w359537767
-  other tags : addr:city=Крупица | addr:housenumber=8/2 | addr:street=Садовая | building=house | building:levels=2
+  other tags : addr:housenumber=8/2 | addr:street=Садовая | building=house | building:levels=2
     geometry : n3642290330[53.6788959,27.5288167] n3642290328[53.6789015,27.5288515] n3642290331[53.6789215,27.5289711] n3642290332[53.6788316,27.5290134] n3642290333[53.6788061,27.5288591] n3642290335[53.6788238,27.5288524] n3642290330[53.6788959,27.5288167]
 w359537769
-  other tags : addr:city=Крупица | addr:housenumber=8/1 | addr:street=Садовая | building=house | building:levels=2
+  other tags : addr:housenumber=8/1 | addr:street=Садовая | building=house | building:levels=2
     geometry : n3642290334[53.6788009,27.5286967] n3642290335[53.6788238,27.5288524] n3642290336[53.6787343,27.5288899] n3642290337[53.6787114,27.5287342] n3642290334[53.6788009,27.5286967]
 w359581919
-  other tags : addr:city=Крупица | addr:housenumber=12/5 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=12/5 | addr:street=Садовая | building=residential
     geometry : n3642570226[53.6783058,27.5288483] n3642570227[53.6783284,27.5289952] n3642570228[53.6782474,27.5290306] n3642570230[53.6782414,27.5289860] n3642570229[53.6782248,27.5288838] n3642570226[53.6783058,27.5288483]
 w359581920
-  other tags : addr:city=Крупица | addr:housenumber=12/4 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=12/4 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3642570230[53.6782414,27.5289860] n3642570231[53.6782641,27.5291328] n3642570232[53.6781877,27.5291666] n3642570234[53.6781819,27.5291231] n3642570233[53.6781649,27.5290198] n3642570230[53.6782414,27.5289860]
 w359581921
-  other tags : addr:city=Крупица | addr:housenumber=12/3 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=12/3 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3642570234[53.6781819,27.5291231] n3642570235[53.6782040,27.5292643] n3642570236[53.6781200,27.5293018] n3642570238[53.6781137,27.5292582] n3642570237[53.6780979,27.5291606] n3642570234[53.6781819,27.5291231]
 w359581922
-  other tags : addr:city=Крупица | addr:housenumber=12/2 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=12/2 | addr:street=Садовая | building=residential
     geometry : n3642570238[53.6781137,27.5292582] n3642570239[53.6781403,27.5294113] n3642570240[53.6780507,27.5294558] n3642570241[53.6780240,27.5293027] n3642570243[53.6780416,27.5292944] n3642570238[53.6781137,27.5292582]
 w359581923
-  other tags : addr:city=Крупица | addr:housenumber=12/1 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=12/1 | addr:street=Садовая | building=residential
     geometry : n3642570242[53.6780180,27.5291343] n3642570243[53.6780416,27.5292944] n3642570244[53.6779447,27.5293350] n3642570245[53.6779212,27.5291749] n3642570242[53.6780180,27.5291343]
 w359581924
-  other tags : addr:city=Крупица | addr:housenumber=16/5 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=16/5 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3642570246[53.6775284,27.5292794] n3642570247[53.6775558,27.5294433] n3642570248[53.6774681,27.5294852] n3642570250[53.6774593,27.5294319] n3642570249[53.6774407,27.5293213] n3642570246[53.6775284,27.5292794]
 w359581925
-  other tags : addr:city=Крупица | addr:housenumber=16/4 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=16/4 | addr:street=Садовая | building=residential
     geometry : n3642570250[53.6774593,27.5294319] n3642570251[53.6773737,27.5294740] n3642570254[53.6773909,27.5295702] n3642570252[53.6773990,27.5296203] n3642570253[53.6774845,27.5295782] n3642570250[53.6774593,27.5294319]
 w359581926
-  other tags : addr:city=Крупица | addr:housenumber=16/3 | addr:street=Садовая | building=residential
+  other tags : addr:housenumber=16/3 | addr:street=Садовая | building=residential
     geometry : n3642570254[53.6773909,27.5295702] n3642570255[53.6773031,27.5296114] n3642570258[53.6773242,27.5297418] n3642570256[53.6773289,27.5297685] n3642570257[53.6774167,27.5297274] n3642570254[53.6773909,27.5295702]
 w359581927
-  other tags : addr:city=Крупица | addr:housenumber=16/2 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=16/2 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3642570258[53.6773242,27.5297418] n3643790986[53.6772453,27.5297782] n3642570260[53.6772697,27.5299287] n3642570261[53.6773486,27.5298923] n3642570258[53.6773242,27.5297418]
 w359581928
-  other tags : addr:city=Крупица | addr:housenumber=16/1 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=16/1 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3642570262[53.6772399,27.5296044] n3642570263[53.6771572,27.5296391] n3642570264[53.6771809,27.5298005] n3642570265[53.6772636,27.5297658] n3642570262[53.6772399,27.5296044]
 w359583119
   other tags : building=residential
@@ -8138,16 +8165,16 @@ w359712911
   other tags : building=residential
     geometry : n3643758727[53.6743961,27.5307649] n3643758728[53.6744872,27.5312296] n3643758729[53.6743443,27.5313094] n3643758730[53.6742532,27.5308447] n3643758727[53.6743961,27.5307649]
 w359713825
-  other tags : addr:city=Крупица | addr:housenumber=14/2 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=14/2 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3643765902[53.6778184,27.5293547] n3643765903[53.6778473,27.5295312] n3643765904[53.6777747,27.5295652] n3643765905[53.6777457,27.5293887] n3643765902[53.6778184,27.5293547]
 w359715241
-  other tags : addr:city=Крупица | addr:housenumber=14/1 | addr:street=Садовая | building=residential | building:levels=2
+  other tags : addr:housenumber=14/1 | addr:street=Садовая | building=residential | building:levels=2
     geometry : n3643765905[53.6777457,27.5293887] n3643765904[53.6777747,27.5295652] n3643782994[53.6777072,27.5295973] n3643782995[53.6776778,27.5294199] n3643765905[53.6777457,27.5293887]
 w359720665
-  other tags : addr:city=Крупица | addr:housenumber=22 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=22 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3643817548[53.6791105,27.5211313] n3643817549[53.6791326,27.5212736] n3643817550[53.6790011,27.5213318] n3643817551[53.6789790,27.5211895] n3643817548[53.6791105,27.5211313]
 w359733829
-  other tags : addr:city=Крупица | addr:housenumber=16 | addr:street=Слуцкая | building=house | building:levels=2
+  other tags : addr:housenumber=16 | addr:street=Слуцкая | building=house | building:levels=2
     geometry : n3643908907[53.6793346,27.5224618] n3643908908[53.6793572,27.5226063] n3643908909[53.6792536,27.5226524] n3643908910[53.6792310,27.5225079] n3643908907[53.6793346,27.5224618]
 w359735653
   other tags : building=house
@@ -8255,7 +8282,7 @@ w359738274
   other tags : building=house
     geometry : n3643960256[53.6753648,27.5275042] n3643960257[53.6753521,27.5277188] n3643960258[53.6752379,27.5276995] n3643960259[53.6752506,27.5274849] n3643960256[53.6753648,27.5275042]
 w360151618
-  other tags : addr:city=Околица | addr:housenumber=12 | addr:street=Луговая улица | building=house | building:levels=3
+  other tags : addr:housenumber=12 | addr:street=Луговая улица | building=house | building:levels=3
     geometry : n3647563275[54.0506973,27.7540440] n3647563276[54.0507346,27.7542213] n3647563277[54.0505459,27.7543365] n3647563278[54.0505086,27.7541591] n3647563279[54.0505507,27.7541334] n3647563280[54.0506244,27.7540885] n3647563275[54.0506973,27.7540440]
 w360261739
   other tags : building=house
@@ -8263,11 +8290,11 @@ w360261739
 w360266150  null / null / Dark Lord house
   other tags : addr:housenumber=7 | addr:street=Светлая улица | building=house
     geometry : n3648478386[53.9139428,27.7746901] n3648478387[53.9140187,27.7747733] n3648478388[53.9139492,27.7749503] n3648478389[53.9138702,27.7748618] n3648478386[53.9139428,27.7746901]
-w360274153  null / null / 6
-  other tags : addr:city=Ратомка | addr:housenumber=6 | addr:street=улица Нарочанская | building=house
+w360274153
+  other tags : addr:housenumber=6 | addr:street=улица Нарочанская | building=house
     geometry : n3648531948[53.9298165,27.3225698] n3648531949[53.9297373,27.3225806] n3648531950[53.9297436,27.3227097] n3648531951[53.9298197,27.3227043] n3648531948[53.9298165,27.3225698]
-w360274154  null / null / 8
-  other tags : addr:city=Ратомка | addr:housenumber=8 | addr:street=улица Нарочанская | building=house
+w360274154
+  other tags : addr:housenumber=8 | addr:street=улица Нарочанская | building=house
     geometry : n3648531952[53.9294966,27.3226667] n3648531953[53.9294206,27.3226774] n3648531954[53.9294206,27.3228065] n3648531955[53.9294966,27.3227958] n3648531952[53.9294966,27.3226667]
 w360464085
   other tags : building=residential
@@ -8675,10 +8702,10 @@ w362807056
   other tags : building=house
     geometry : n3670576566[53.9093068,27.7616724] n3670576567[53.9092422,27.7616529] n3670576568[53.9092234,27.7618246] n3670576569[53.9092901,27.7618441] n3670576566[53.9093068,27.7616724]
 w362892774
-  other tags : addr:city=Колодищи-2 | addr:housenumber=2 | addr:street=Сапфировая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=Сапфировая улица | building=residential | building:levels=1
     geometry : n3671332444[53.9025660,27.8001193] n3671332445[53.9023457,27.8001069] n3671332446[53.9023431,27.8002409] n3671332447[53.9025634,27.8002533] n3671332444[53.9025660,27.8001193]
 w362906088
-  other tags : addr:city=аг. Колодищи | addr:housenumber=9 | addr:postcode=223050 | addr:street=Переулок  Живописный | building=house
+  other tags : addr:housenumber=9 | addr:postcode=223050 | addr:street=Переулок Живописный | building=house
     geometry : n3671428474[53.9409170,27.8049843] n3671428475[53.9407591,27.8051794] n3671428476[53.9408357,27.8053502] n3671428477[53.9410032,27.8051794] n3671428474[53.9409170,27.8049843]
 r5344715
   other tags : building=house | type=multipolygon

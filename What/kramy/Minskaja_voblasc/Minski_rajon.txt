@@ -180,7 +180,7 @@ n965543019  null / null / Ларек
   other tags : shop=convenience
     geometry : [53.9098058,27.3070819]
 n1002537764  null / null / Крыница / Крыница
-  other tags : addr:city=Ждановичи | addr:housenumber=2 | addr:postcode=223028 | addr:street=Парковая улица | shop=supermarket
+  other tags : addr:housenumber=2 | addr:postcode=223028 | addr:street=Парковая улица | shop=supermarket
     geometry : [53.9476816,27.4287862]
 n1012822937  null / Bashnja / Магазин "Башня"
   other tags : shop=convenience
@@ -332,7 +332,7 @@ n1368742962  Цырульня / null / Парикмахерская / Парик
   other tags : shop=hairdresser
     geometry : [53.9526817,27.7826942]
 n1368886108  null / null / Дроздово маркет
-  other tags : addr:housenumber=10б | addr:street=Центральная улица | shop=convenience
+  other tags : addr:housenumber=10Б | addr:street=Центральная улица | shop=convenience
     geometry : [53.9823030,27.6107127]
 n1369051847  Кветкі / null / Цветы / Цветы
   other tags : shop=florist
@@ -974,7 +974,7 @@ n3449155824
   other tags : shop=florist
     geometry : [53.8389497,27.4634471]
 n3458019805
-  other tags : addr:city=Прилуки | shop=convenience
+  other tags : shop=convenience
     geometry : [53.7937173,27.4526465]
 n3468029517  null / null / Магазин
   other tags : shop=convenience
@@ -989,7 +989,7 @@ n3483702509
   other tags : shop=supermarket
     geometry : [53.7237623,27.5039864]
 n3483704992  null / null / Соседи
-  other tags : addr:housenumber=1б | addr:street=Полевая улица | shop=supermarket
+  other tags : addr:housenumber=1Б | addr:street=Полевая улица | shop=supermarket
     geometry : [53.8208732,27.5246080]
 n3484498717
   other tags : shop=doityourself
@@ -1031,5 +1031,5 @@ n3655698009  null / null / СтройМаркет
   other tags : shop=supermarket
     geometry : [53.8333946,27.7335113]
 n3658178374  null / null / Салюты, фейерверки
-  other tags : addr:city=Лесной | addr:housenumber=17 Б | opening_hours=11:00-20:00 | phone=+375 29 629 2177 | shop=pyrotechnics
+  other tags : addr:housenumber=17Б | opening_hours=11:00-20:00 | phone=+375 29 629 2177 | shop=pyrotechnics
     geometry : [54.0051055,27.6800438]

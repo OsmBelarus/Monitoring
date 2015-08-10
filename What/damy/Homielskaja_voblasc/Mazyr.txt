@@ -59,7 +59,7 @@ w82228496
   other tags : addr:housenumber=28 | addr:street=улица Юрия Гагарина | building=residential
     geometry : n957322290[52.0297818,29.2237628] n957322461[52.0296870,29.2239005] n957322728[52.0292360,29.2230805] n957322620[52.0293308,29.2229428] n957322290[52.0297818,29.2237628]
 w82228499
-  other tags : addr:city=9 | addr:housenumber=83 | addr:street=бульвар Юности | building=apartments | building:levels=9
+  other tags : addr:housenumber=83 | addr:street=бульвар Юности | building=apartments | building:levels=9
     geometry : n957322391[52.0277229,29.2161619] n957322512[52.0276383,29.2162711] n957322246[52.0272791,29.2155361] n957322686[52.0273637,29.2154269] n957322391[52.0277229,29.2161619]
 w82228501
   other tags : addr:housenumber=33А | addr:street=бульвар Юности | building=residential
@@ -1301,7 +1301,7 @@ w250501026
   other tags : addr:housenumber=102 | addr:street=Промышленная улица | building=house
     geometry : n2569379015[52.0666848,29.2162519] n2569379013[52.0665853,29.2161268] n2569379012[52.0665123,29.2162804] n2569379014[52.0666118,29.2164055] n2569379015[52.0666848,29.2162519]
 w250501030
-  other tags : addr:city=Мозырь | addr:housenumber=100 | addr:street=Промышленная улица | building=house
+  other tags : addr:housenumber=100 | addr:street=Промышленная улица | building=house
     geometry : n2569379027[52.0664121,29.2166968] n2569379025[52.0663191,29.2165939] n2569379024[52.0662383,29.2167868] n2569379026[52.0663313,29.2168898] n2569379027[52.0664121,29.2166968]
 w250541440
   other tags : addr:housenumber=114 | addr:street=Промышленная улица | building=house
@@ -1592,7 +1592,7 @@ w252128680
   other tags : addr:street=улица Фрунзе | building=house
     geometry : n2582338975[52.0459805,29.2689840] n2582338970[52.0458811,29.2689259] n2582338967[52.0458213,29.2691964] n2582338972[52.0459206,29.2692545] n2582338975[52.0459805,29.2689840]
 w252128681
-  other tags : addr:city=Мозырь | addr:housenumber=8 | addr:street=Комсомольская улица | building=house
+  other tags : addr:housenumber=8 | addr:street=Комсомольская улица | building=house
     geometry : n2582338968[52.0459747,29.2697961] n3644267978[52.0459544,29.2698545] n3644267979[52.0459632,29.2698626] n2582338966[52.0459405,29.2699281] n2582338971[52.0459921,29.2699755] n2582338969[52.0459711,29.2700331] n2582338973[52.0460536,29.2701117] n2582338974[52.0460740,29.2700522] n2582338977[52.0461395,29.2701122] n2582338978[52.0461682,29.2700296] n3644268937[52.0460254,29.2698985] n3644268940[52.0460401,29.2698561] n2582338968[52.0459747,29.2697961]
 w252898770
   other tags : addr:housenumber=37 | addr:street=улица Некрасова | building=house
@@ -2078,7 +2078,7 @@ w260713692
   other tags : addr:housenumber=26 | addr:street=улица Геологов | building=house
     geometry : n2662768653[52.0644870,29.2008110] n2662768651[52.0644225,29.2008138] n2662768652[52.0644273,29.2011032] n2662768654[52.0644917,29.2011004] n2662768653[52.0644870,29.2008110]
 w262452233
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=1 | addr:street=Литейный переулок | building=house
+  other tags : addr:housenumber=1 | addr:street=Литейный переулок | building=house
     geometry : n2681160296[52.0405656,29.2451346] n2681160297[52.0406035,29.2452071] n2681160294[52.0405215,29.2453205] n2681160292[52.0404836,29.2452480] n2681160296[52.0405656,29.2451346]
 w262452234
   other tags : addr:housenumber=10 | addr:street=Литейный переулок | building=house
@@ -2108,7 +2108,7 @@ w262452243
   other tags : addr:housenumber=26 | addr:street=Литейный переулок | building=house
     geometry : n2681160087[52.0388500,29.2457398] n2681160081[52.0387926,29.2459379] n2681160084[52.0388478,29.2459802] n2681160092[52.0389052,29.2457820] n2681160087[52.0388500,29.2457398]
 w262452244
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=27 | addr:street=Литейный переулок | building=house
+  other tags : addr:housenumber=27 | addr:street=Литейный переулок | building=house
     geometry : n2681160215[52.0397652,29.2459106] n2681160230[52.0398181,29.2459886] n2681160210[52.0397443,29.2461210] n2681160207[52.0396913,29.2460430] n2681160215[52.0397652,29.2459106]
 w262452245
   other tags : addr:housenumber=29 | addr:street=Литейный переулок | building=house
@@ -2129,13 +2129,13 @@ w262452250
   other tags : addr:housenumber=8А | addr:street=Литейный переулок | building=house
     geometry : n2681160218[52.0397807,29.2440952] n2681160209[52.0397028,29.2441914] n2681160212[52.0397460,29.2442839] n2681160232[52.0398239,29.2441877] n2681160218[52.0397807,29.2440952]
 w262452251
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=28 | addr:street=Литейный переулок | building=house
+  other tags : addr:housenumber=28 | addr:street=Литейный переулок | building=house
     geometry : n2681160140[52.0390702,29.2459447] n2681160117[52.0389994,29.2458954] n2681160103[52.0389641,29.2460293] n2681160129[52.0390349,29.2460786] n2681160140[52.0390702,29.2459447]
 w262452252
   other tags : addr:street=Литейный переулок | building=house
     geometry : n2681160271[52.0400610,29.2458529] n2681160274[52.0401072,29.2459337] n2681160270[52.0400402,29.2460348] n2681160264[52.0399940,29.2459540] n2681160271[52.0400610,29.2458529]
 w262452253
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=33 | addr:street=Литейный переулок | building=house
+  other tags : addr:housenumber=33 | addr:street=Литейный переулок | building=house
     geometry : n2681160237[52.0398595,29.2448811] n2681160221[52.0397924,29.2449591] n2681160234[52.0398440,29.2450763] n2681160252[52.0399111,29.2449984] n2681160237[52.0398595,29.2448811]
 w262452254
   other tags : addr:street=Литейный переулок | building=house
@@ -3887,7 +3887,7 @@ w280951835
   other tags : building=house
     geometry : n2849749196[52.0386252,29.2617706] n2849749192[52.0385787,29.2618119] n2849749195[52.0386170,29.2619262] n2849749198[52.0386636,29.2618849] n2849749196[52.0386252,29.2617706]
 w280951836
-  other tags : addr:city=Мозырь | addr:housenumber=99 | addr:street=улица Калинина | building=house
+  other tags : addr:housenumber=99 | addr:street=улица Калинина | building=house
     geometry : n2849749189[52.0383275,29.2608544] n2849749187[52.0382924,29.2608915] n2849749188[52.0383584,29.2610566] n2849749190[52.0383935,29.2610195] n2849749189[52.0383275,29.2608544]
 w281902335
   other tags : addr:housenumber=19 | addr:street=улица 17 Сентября | building=apartments
@@ -4064,10 +4064,10 @@ w291340645
   other tags : addr:housenumber=10 | addr:street=улица Смоляра | building=house
     geometry : n2947978357[52.0600638,29.2145697] n2947978354[52.0599905,29.2146883] n2947978356[52.0600485,29.2147849] n2947978358[52.0601252,29.2146663] n2947978357[52.0600638,29.2145697]
 w291340654
-  other tags : addr:city=Мозырь | addr:housenumber=56 | addr:street=5-й переулок Заслонова | building=house
+  other tags : addr:housenumber=56 | addr:street=5-й переулок Заслонова | building=house
     geometry : n2947978379[52.0605408,29.2176822] n2947978372[52.0604722,29.2176939] n2947978374[52.0604827,29.2178551] n2947978381[52.0605512,29.2178433] n2947978379[52.0605408,29.2176822]
 w291340661
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=1 | addr:street=улица Кирилла Туровского | building=house
+  other tags : addr:housenumber=1 | addr:street=улица Кирилла Туровского | building=house
     geometry : n2947978440[52.0611809,29.2136819] n2947978432[52.0611239,29.2137973] n2947978441[52.0611826,29.2138702] n3278197502[52.0612230,29.2137892] n3278197505[52.0612486,29.2138186] n2947978445[52.0612777,29.2137595] n3278197504[52.0612426,29.2137136] n3278197503[52.0612270,29.2137421] n2947978440[52.0611809,29.2136819]
 w291548695
   other tags : addr:street=улица Бумажкова | building=house
@@ -4328,7 +4328,7 @@ w292471901
   other tags : addr:street=Полевой переулок | building=house
     geometry : n2960224930[52.0296307,29.3034354] n2960224928[52.0295399,29.3033484] n2960224927[52.0295105,29.3034294] n2960224929[52.0296014,29.3035164] n2960224930[52.0296307,29.3034354]
 w292472208  null / null / ПМО
-  other tags : addr:city=Мозырь | addr:street=улица Гоголя | building=house
+  other tags : addr:street=улица Гоголя | building=house
     geometry : n2960218746[52.0309657,29.3025727] n2960218744[52.0307934,29.3027081] n2960218745[52.0308508,29.3029011] n2960218747[52.0310231,29.3027658] n2960218746[52.0309657,29.3025727]
 w292473173
   other tags : addr:housenumber=96 | addr:street=улица Гоголя | building=house
@@ -5078,7 +5078,7 @@ w293198264
   other tags : addr:housenumber=145 | addr:street=улица Заслонова | building=house
     geometry : n2967680458[52.0647527,29.2235242] n2967680468[52.0648112,29.2236432] n2967680457[52.0647486,29.2237247] n2967680448[52.0646901,29.2236057] n2967680458[52.0647527,29.2235242]
 w293198267
-  other tags : addr:housenumber=72а | addr:street=улица Заслонова | building=house
+  other tags : addr:housenumber=72А | addr:street=улица Заслонова | building=house
     geometry : n2967680862[52.0660452,29.2226011] n2967680867[52.0660907,29.2226822] n2967680859[52.0660235,29.2227820] n2967680854[52.0659779,29.2227009] n2967680862[52.0660452,29.2226011]
 w293198269
   other tags : addr:housenumber=84 | addr:street=улица Заслонова | building=house
@@ -5552,7 +5552,7 @@ w293670696
   other tags : addr:housenumber=3 | addr:street=улица Мележа | building=house
     geometry : n2972684040[52.0569840,29.2168265] n2972684043[52.0570344,29.2169988] n2972684039[52.0569620,29.2170547] n2972684037[52.0569117,29.2168825] n2972684040[52.0569840,29.2168265]
 w293670697
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=15 | addr:street=улица Мележа | building=house
+  other tags : addr:housenumber=15 | addr:street=улица Мележа | building=house
     geometry : n2972683922[52.0563702,29.2143356] n3278197495[52.0563410,29.2143617] n3278197493[52.0563375,29.2143518] n3156079031[52.0563010,29.2143871] n2972683921[52.0563599,29.2145639] n2972683924[52.0564283,29.2144955] n2972683922[52.0563702,29.2143356]
 w293670699
   other tags : addr:housenumber=8 | addr:street=улица Мележа | building=house
@@ -5561,7 +5561,7 @@ w293670702
   other tags : addr:housenumber=11 | addr:street=улица Мележа | building=house
     geometry : n2972683928[52.0572590,29.2158990] n2972683930[52.0573058,29.2160581] n2972683927[52.0571993,29.2161411] n2972683926[52.0571524,29.2159819] n2972683928[52.0572590,29.2158990]
 w293670703
-  other tags : building=house
+  other tags : addr:housenumber=32 | addr:street=улица Кирилла Туровского | building=house
     geometry : n2972683904[52.0555197,29.2138007] n2972683906[52.0555730,29.2139570] n2972683903[52.0554985,29.2140242] n2972683898[52.0554452,29.2138678] n2972683904[52.0555197,29.2138007]
 w293670705
   other tags : building=house
@@ -5615,7 +5615,7 @@ w293672732
   other tags : addr:housenumber=73 | addr:street=Нагорная улица | building=house
     geometry : n2972702536[52.0461894,29.2473826] n2972702531[52.0461015,29.2474590] n2972702534[52.0461337,29.2475573] n2972702537[52.0462217,29.2474809] n2972702536[52.0461894,29.2473826]
 w293672733
-  other tags : addr:city=Мозырь | addr:housenumber=81 | addr:street=Нагорная улица | building=house
+  other tags : addr:housenumber=81 | addr:street=Нагорная улица | building=house
     geometry : n2972702527[52.0459239,29.2461744] n2972702514[52.0458329,29.2461946] n2972702518[52.0458469,29.2463620] n2972702528[52.0459379,29.2463418] n2972702527[52.0459239,29.2461744]
 w293672734
   other tags : addr:housenumber=83 | addr:street=Нагорная улица | building=house
@@ -6068,37 +6068,37 @@ w302351407
   other tags : addr:housenumber=19 | addr:street=улица Сузько | building=house
     geometry : n3066061209[52.0300342,29.1959952] n3066061206[52.0299660,29.1960552] n3066061207[52.0300007,29.1961591] n3066061210[52.0300359,29.1961281] n3066061211[52.0300512,29.1961740] n3066061213[52.0300841,29.1961449] n3066061209[52.0300342,29.1959952]
 w306080269
-  other tags : addr:city=Мозырь | addr:housenumber=12 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=12 | addr:street=Коммунальная улица | building=house
     geometry : n3108920844[52.0480354,29.2356297] n3108920842[52.0479745,29.2355623] n3108920841[52.0479139,29.2357071] n3108920843[52.0479748,29.2357746] n3108920844[52.0480354,29.2356297]
 w306080320
-  other tags : addr:city=Мозырь | addr:housenumber=10 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=10 | addr:street=Коммунальная улица | building=house
     geometry : n3108920148[52.0482204,29.2358694] n3108920147[52.0481707,29.2359706] n3108920149[52.0482335,29.2360521] n3108920150[52.0482832,29.2359509] n3108920148[52.0482204,29.2358694]
 w306080334
-  other tags : addr:city=Мозырь | addr:housenumber=8 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=8 | addr:street=Коммунальная улица | building=house
     geometry : n3108921269[52.0484111,29.2359839] n3108921268[52.0483479,29.2361428] n3108921270[52.0484420,29.2362417] n3108921271[52.0485052,29.2360828] n3108921269[52.0484111,29.2359839]
 w306080412
-  other tags : addr:city=Мозырь | addr:housenumber=5 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=5 | addr:street=Коммунальная улица | building=house
     geometry : n3108922632[52.0486161,29.2368701] n3108922630[52.0485383,29.2367928] n3108922629[52.0484954,29.2369069] n3108922631[52.0485732,29.2369842] n3108922632[52.0486161,29.2368701]
 w306080449
-  other tags : addr:city=Мозырь | addr:housenumber=7 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=7 | addr:street=Коммунальная улица | building=house
     geometry : n3108920167[52.0484577,29.2366595] n3108920165[52.0483630,29.2365587] n3108920164[52.0483058,29.2367009] n3108920166[52.0484005,29.2368017] n3108920167[52.0484577,29.2366595]
 w306080484
-  other tags : addr:city=Мозырь | addr:housenumber=9 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=9 | addr:street=Коммунальная улица | building=house
     geometry : n3108921441[52.0482947,29.2364973] n3108921439[52.0482230,29.2364251] n3108921438[52.0481564,29.2366003] n3108921440[52.0482281,29.2366724] n3108921441[52.0482947,29.2364973]
 w306081338
-  other tags : addr:city=Мозырь | addr:housenumber=16 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=16 | addr:street=Коммунальная улица | building=house
     geometry : n3108931955[52.0483803,29.2348196] n3108931953[52.0482760,29.2349402] n3108931954[52.0483634,29.2351403] n3108931956[52.0484678,29.2350197] n3108931955[52.0483803,29.2348196]
 w306081379
-  other tags : addr:city=Мозырь | addr:street=Коммунальная улица | building=house
+  other tags : addr:street=Коммунальная улица | building=house
     geometry : n3108934147[52.0480637,29.2357427] n3108934146[52.0480227,29.2358211] n3108934148[52.0480663,29.2358814] n3108934149[52.0481073,29.2358030] n3108934147[52.0480637,29.2357427]
 w306081478
-  other tags : addr:city=Мозырь | addr:housenumber=6 | addr:street=Коммунальная улица | building=house
+  other tags : addr:housenumber=6 | addr:street=Коммунальная улица | building=house
     geometry : n3108938733[52.0486724,29.2363611] n3108938731[52.0485918,29.2362783] n3108938730[52.0485345,29.2364258] n3108938732[52.0486151,29.2365086] n3108938733[52.0486724,29.2363611]
 w306084617
-  other tags : addr:city=Мозырь | addr:housenumber=10 | addr:street=Ветровая улица | building=house
+  other tags : addr:housenumber=10 | addr:street=Ветровая улица | building=house
     geometry : n3108971523[52.0485389,29.2333673] n3108971522[52.0484860,29.2332711] n3108971520[52.0483978,29.2333993] n3108971521[52.0484507,29.2334955] n3108971523[52.0485389,29.2333673]
 w306084975
-  other tags : addr:city=Мозырь | addr:housenumber=48 | addr:street=Пролетарская улица | building=house
+  other tags : addr:housenumber=48 | addr:street=Пролетарская улица | building=house
     geometry : n3108982057[52.0531915,29.2505640] n3108982056[52.0531303,29.2506892] n3108982058[52.0532141,29.2507976] n3108982059[52.0532753,29.2506724] n3108982057[52.0531915,29.2505640]
 w310218100
   other tags : addr:housenumber=32 | addr:street=улица Котовского | building=house
@@ -6116,28 +6116,28 @@ w311222356
   other tags : addr:housenumber=13 | addr:street=Молодёжная улица | building=residential
     geometry : n3168099064[52.0510812,29.2255535] n3168099065[52.0510016,29.2255432] n3168099066[52.0509927,29.2257253] n3168099067[52.0510722,29.2257357] n3168099064[52.0510812,29.2255535]
 w312387200
-  other tags : addr:city=Мозырь | addr:housenumber=40 | addr:street=Полесская улица | building=apartments
+  other tags : addr:housenumber=40 | addr:street=Полесская улица | building=apartments
     geometry : n3182481044[52.0564628,29.2244870] n3182481043[52.0563875,29.2243468] n3182481041[52.0560112,29.2248817] n3182481042[52.0560865,29.2250219] n3182481044[52.0564628,29.2244870]
 w312390958
-  other tags : addr:city=Мозырь | addr:housenumber=40 | addr:street=Улица Бумажкова | building=house
+  other tags : addr:housenumber=40 | addr:street=Улица Бумажкова | building=house
     geometry : n3182512537[52.0627963,29.2171868] n3182512535[52.0627103,29.2171053] n3182512534[52.0626410,29.2172986] n3182512536[52.0627270,29.2173802] n3182512537[52.0627963,29.2171868]
 w312391115
-  other tags : addr:city=Мозырь | addr:housenumber=32 | addr:street=Улица Бумажкова | building=house
+  other tags : addr:housenumber=32 | addr:street=Улица Бумажкова | building=house
     geometry : n3182511026[52.0630701,29.2164475] n3182511024[52.0629885,29.2163822] n3182511023[52.0629489,29.2165132] n3182511025[52.0630306,29.2165785] n3182511026[52.0630701,29.2164475]
 w312391204
-  other tags : addr:city=Мозырь | addr:housenumber=95 | addr:street=Улица Бумажкова | building=house
+  other tags : addr:housenumber=95 | addr:street=Улица Бумажкова | building=house
     geometry : n3182514090[52.0643973,29.2201362] n3182514088[52.0643359,29.2200484] n3182514087[52.0642861,29.2201406] n3182514089[52.0643475,29.2202284] n3182514090[52.0643973,29.2201362]
 w312391515
-  other tags : addr:city=Мозырь | addr:housenumber=98 | addr:street=Улица Бумажкова | building=house
+  other tags : addr:housenumber=98 | addr:street=Улица Бумажкова | building=house
     geometry : n3182516492[52.0669450,29.2173881] n3182516490[52.0668582,29.2172849] n3182516489[52.0667908,29.2174352] n3182516491[52.0668776,29.2175384] n3182516492[52.0669450,29.2173881]
 w312407177
-  other tags : addr:city=Мозырь | addr:housenumber=19а | addr:street=улица 8 Марта | building=house
+  other tags : addr:housenumber=19А | addr:street=улица 8 Марта | building=house
     geometry : n3182648925[52.0683866,29.2050385] n3182648924[52.0682947,29.2051626] n3182648926[52.0683913,29.2053519] n3182648929[52.0685080,29.2051943] n3182648928[52.0684335,29.2050484] n3182648927[52.0684087,29.2050819] n3182648925[52.0683866,29.2050385]
 w313359994
   other tags : addr:housenumber=11 | addr:postcode=247765 | addr:street=улица Веры Хоружей | building=apartments | building:levels=5
     geometry : n3193015543[52.0871780,29.2265903] n3193015546[52.0872310,29.2267187] n3193015539[52.0867540,29.2273083] n3193015540[52.0866898,29.2271689] n3193015543[52.0871780,29.2265903]
 w314218083
-  other tags : addr:housenumber=1д | addr:street=Социалистическая улица | building=house
+  other tags : addr:housenumber=1Д | addr:street=Социалистическая улица | building=house
     geometry : n3202666416[52.0578480,29.2039845] n3202666417[52.0577227,29.2039548] n3202666418[52.0577023,29.2041820] n3202666419[52.0578576,29.2042189] n3202666420[52.0578729,29.2040488] n3302262165[52.0578429,29.2040417] n3202666416[52.0578480,29.2039845]
 w314567439
   other tags : addr:housenumber=12 | addr:street=Мостовой переулок | building=house
@@ -6158,7 +6158,7 @@ w315706233
   other tags : addr:street=Солнечная улица | building=house
     geometry : n3218371963[52.0334294,29.1943370] n3218371363[52.0334917,29.1945202] n3218371364[52.0338011,29.1942422] n3218371965[52.0337388,29.1940590] n3218371963[52.0334294,29.1943370]
 w315706234
-  other tags : addr:city=Мозырь | addr:country=BY | addr:postcode=247760 | addr:province=Гомельская | addr:street=Солнечная улица | building=apartments
+  other tags : addr:postcode=247760 | addr:province=Гомельская | addr:street=Солнечная улица | building=apartments
     geometry : n3218371964[52.0334914,29.1951931] n3218371662[52.0335537,29.1953763] n3218372261[52.0338631,29.1950983] n3218371663[52.0338008,29.1949151] n3218371964[52.0334914,29.1951931]
 w315706235
   other tags : addr:street=Солнечная улица | building=house
@@ -6278,7 +6278,7 @@ w315882397
   other tags : addr:housenumber=8 | addr:street=Тенистая улица | building=residential
     geometry : n3220108256[52.0323524,29.1977994] n3220108257[52.0323850,29.1978979] n3220108255[52.0323057,29.1979673] n3220108254[52.0322731,29.1978688] n3220108256[52.0323524,29.1977994]
 w316039071
-  other tags : addr:city=Мозырь | addr:housenumber=100 | addr:street=улица Калинина | building=house
+  other tags : addr:housenumber=100 | addr:street=улица Калинина | building=house
     geometry : n3221565006[52.0372611,29.2565784] n3221565004[52.0371797,29.2565173] n3221565003[52.0371432,29.2566458] n3221565005[52.0372247,29.2567069] n3221565006[52.0372611,29.2565784]
 w316381725
   other tags : addr:housenumber=65 | addr:street=улица Куйбышева | building=house
@@ -6482,7 +6482,7 @@ w323001272
   other tags : addr:housenumber=КПД20 | building=house
     geometry : n3298004962[52.0338334,29.1999463] n3298004964[52.0344144,29.1994085] n3298004963[52.0343592,29.1992508] n3298004961[52.0337781,29.1997885] n3298004962[52.0338334,29.1999463]
 w323430837
-  other tags : addr:housenumber=1г | addr:street=Социалистическая улица | building=house
+  other tags : addr:housenumber=1Г | addr:street=Социалистическая улица | building=house
     geometry : n3302262164[52.0573918,29.2042914] n3302262163[52.0573712,29.2045065] n3302262161[52.0572458,29.2044746] n3302262162[52.0572665,29.2042596] n3302262164[52.0573918,29.2042914]
 w323438325
   other tags : addr:housenumber=50/2 | addr:street=улица Нежнова | building=house
@@ -6491,10 +6491,10 @@ w323438564
   other tags : addr:housenumber=30/1 | addr:street=улица Нежнова | building=house
     geometry : n3302309596[52.0514615,29.2396501] n3235804755[52.0514638,29.2397766] n3235804756[52.0515407,29.2397729] n3302309597[52.0515384,29.2396464]
 w323441060
-  other tags : addr:housenumber=21б | addr:street=Социалистическая улица | building=house
+  other tags : addr:housenumber=21Б | addr:street=Социалистическая улица | building=house
     geometry : n3302332267[52.0658164,29.2059441] n3302332268[52.0658520,29.2061050] n3302332266[52.0657109,29.2061877] n3302332265[52.0656753,29.2060268] n3302332267[52.0658164,29.2059441]
 w323441062
-  other tags : addr:housenumber=21в | addr:street=Социалистическая улица | building=house
+  other tags : addr:housenumber=21В | addr:street=Социалистическая улица | building=house
     geometry : n3302332263[52.0656034,29.2056141] n3302332264[52.0656357,29.2057566] n3302332262[52.0655338,29.2058177] n3302332261[52.0655015,29.2056751] n3302332263[52.0656034,29.2056141]
 w324955545
   other tags : addr:housenumber=КПД№7 | building=house
@@ -6506,7 +6506,7 @@ w325210757
   other tags : addr:housenumber=48/2 | addr:street=улица Фрунзе | building=house
     geometry : n3318700915[52.0423170,29.2626980] n2706006787[52.0422716,29.2625857] n3318700912[52.0422391,29.2626203] n3318700913[52.0422474,29.2626407] n2706006783[52.0421827,29.2627110] n3318700910[52.0422192,29.2628020] n3318700915[52.0423170,29.2626980]
 w325861816
-  other tags : addr:city=Мозырь | addr:country=BY | addr:housenumber=23 | addr:street=улица Рыжкова | building=apartments
+  other tags : addr:housenumber=23 | addr:street=улица Рыжкова | building=apartments
     geometry : n3324800994[52.0397220,29.2431530] n3324800993[52.0397156,29.2433593] n3324800996[52.0398342,29.2433690] n3324800995[52.0398295,29.2435201] n3324801001[52.0398880,29.2435249] n3324801002[52.0398920,29.2433841] n3324801004[52.0400212,29.2433952] n3324801005[52.0400249,29.2431785] n3324800994[52.0397220,29.2431530]
 w326208426
   other tags : addr:housenumber=31/1 | addr:street=улица Калинина | building=house
@@ -6527,7 +6527,7 @@ w326211293
   other tags : addr:housenumber=28/3 | addr:street=улица Калинина | building=house
     geometry : n3328318316[52.0425062,29.2706965] n2800526095[52.0425350,29.2706738] n3328318318[52.0425158,29.2706124] n3328318319[52.0425315,29.2705995] n2800526090[52.0425063,29.2705188] n3328318314[52.0424645,29.2705532] n3328318316[52.0425062,29.2706965]
 w326219008
-  other tags : addr:housenumber=224а | addr:street=Советская улица | building=house
+  other tags : addr:housenumber=224А | addr:street=Советская улица | building=house
     geometry : n3328394239[52.0414809,29.2839047] n3328394240[52.0413555,29.2841514] n3328394241[52.0414545,29.2842909] n3328394242[52.0416128,29.2840656] n3328394239[52.0414809,29.2839047]
 w326493388
   other tags : addr:housenumber=20/1 | addr:street=улица Доватора Л.М. | building=house
@@ -6536,13 +6536,13 @@ w326493389
   other tags : addr:housenumber=20/2 | addr:street=улица Доватора Л.М. | building=house
     geometry : n3331476529[52.0424471,29.2596574] n2832921276[52.0425004,29.2597304] n3331476533[52.0425358,29.2596620] n3331476532[52.0425188,29.2596400] n2832921279[52.0425385,29.2596037] n3331476530[52.0425026,29.2595518] n3331476529[52.0424471,29.2596574]
 w326552068
-  other tags : addr:housenumber=1а | addr:street=улица Кирилла Туровского | building=house
+  other tags : addr:housenumber=1А | addr:street=улица Кирилла Туровского | building=house
     geometry : n3332141632[52.0609105,29.2139895] n3332141633[52.0610292,29.2141075] n3332141634[52.0610754,29.2140109] n3332141635[52.0609731,29.2138715] n3332141632[52.0609105,29.2139895]
 w326552071
   other tags : addr:housenumber=17 | addr:street=улица Заслонова | building=house
     geometry : n3332141646[52.0622231,29.2255176] n3332141647[52.0622066,29.2256625] n3332141648[52.0622891,29.2256678] n3332141649[52.0622957,29.2255391] n3332141646[52.0622231,29.2255176]
 w327198025
-  other tags : addr:housenumber=55а | addr:street=улица Юрия Гагарина | building=apartments | building:levels=9
+  other tags : addr:housenumber=55А | addr:street=улица Юрия Гагарина | building=apartments | building:levels=9
     geometry : n3339239838[52.0283492,29.2269525] n3339239839[52.0285135,29.2272184] n3339239840[52.0284667,29.2272962] n3339239841[52.0286342,29.2275586] n3339239845[52.0286020,29.2276209] n3339239846[52.0285293,29.2277289] n3360895800[52.0284213,29.2275539] n3360895801[52.0284366,29.2275369] n3339239842[52.0283866,29.2274615] n3339239843[52.0284286,29.2273877] n3339239844[52.0282566,29.2271201] n3339239838[52.0283492,29.2269525]
 w327374633
   other tags : addr:housenumber=КПД№21 | building=house
@@ -6596,5 +6596,5 @@ w340068343
   other tags : addr:housenumber=29 | addr:street=улица Мозырских Дивизий | building=house
     geometry : n3472762117[52.0274193,29.1947604] n3472762120[52.0274584,29.1948688] n3472762118[52.0274246,29.1949009] n3472762119[52.0274341,29.1949274] n3472762115[52.0273902,29.1949691] n3472762114[52.0273417,29.1948343] n3472762117[52.0274193,29.1947604]
 w359781444
-  other tags : addr:city=Мозырь | addr:housenumber=10 | addr:street=Комсомольская улица | building=house
+  other tags : addr:housenumber=10 | addr:street=Комсомольская улица | building=house
     geometry : n3644267977[52.0458940,29.2704301] n3644267975[52.0458637,29.2706734] n3644268939[52.0460290,29.2707279] n3644268941[52.0460594,29.2704846] n3644267977[52.0458940,29.2704301]

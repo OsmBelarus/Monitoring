@@ -3281,25 +3281,25 @@ w275960597
   other tags : addr:street=Заводская улица | building=yes
     geometry : n2806101489[51.8087696,30.3262783] n2806101485[51.8087203,30.3264659] n2806101478[51.8086571,30.3264225] n2806101482[51.8087064,30.3262349] n2806101489[51.8087696,30.3262783]
 w275960598
-  other tags : addr:city=Малейки | addr:country=BY | addr:housenumber=12А | addr:street=Октябрьская улица | building=yes
+  other tags : addr:housenumber=12А | addr:street=Октябрьская улица | building=yes
     geometry : n2806101368[51.8040429,30.3220111] n2806101367[51.8040414,30.3221831] n2806101356[51.8039395,30.3221808] n2806101358[51.8039410,30.3220088] n2806101368[51.8040429,30.3220111]
 w275960599
   other tags : addr:housenumber=14 | addr:street=Заводская улица | building=yes
     geometry : n2806101530[51.8098393,30.3204136] n2806101533[51.8099014,30.3205912] n2806101527[51.8097870,30.3206959] n2806101522[51.8097249,30.3205183] n2806101530[51.8098393,30.3204136]
 w275960600
-  other tags : addr:housenumber=4-4 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=4 к4 | addr:street=Новая улица | building=yes
     geometry : n2806101396[51.8044432,30.3242681] n2806101395[51.8044410,30.3244734] n2806101398[51.8045492,30.3244763] n2806101399[51.8045513,30.3242711] n2806101396[51.8044432,30.3242681]
 w275960601
   other tags : addr:street=Молодёжная улица | building=yes
     geometry : n2806101064[51.8011853,30.3310748] n2806101068[51.8012244,30.3311610] n2806101060[51.8011602,30.3312372] n2806101056[51.8011211,30.3311510] n2806101064[51.8011853,30.3310748]
 w275960602
-  other tags : addr:city=Малейки | addr:country=BY | addr:housenumber=12 | addr:street=Октябрьская улица | building=yes
+  other tags : addr:housenumber=12 | addr:street=Октябрьская улица | building=yes
     geometry : n2806101390[51.8043619,30.3220374] n2806101389[51.8043590,30.3221935] n2806101381[51.8042759,30.3221895] n2806101382[51.8042788,30.3220334] n2806101390[51.8043619,30.3220374]
 w275960604
   other tags : addr:housenumber=24 | addr:street=Заводская улица | building=yes
     geometry : n2806101501[51.8090756,30.3252842] n2806101499[51.8090448,30.3253911] n2806101494[51.8089517,30.3253210] n2806101496[51.8089824,30.3252142] n2806101501[51.8090756,30.3252842]
 w275960605
-  other tags : addr:housenumber=4-2 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=4 к2 | addr:street=Новая улица | building=yes
     geometry : n2806101396[51.8044432,30.3242681] n2806101395[51.8044410,30.3244734] n2806101385[51.8043189,30.3244701] n2806101386[51.8043211,30.3242648] n2806101396[51.8044432,30.3242681]
 w275960606
   other tags : addr:housenumber=16 | addr:street=Заводская улица | building=yes
@@ -4067,109 +4067,109 @@ w297738366
   other tags : addr:street=улица Победы | building=yes
     geometry : n3016392303[51.8081917,30.1633717] n3016392300[51.8081793,30.1634986] n3016392287[51.8080523,30.1634661] n3016392289[51.8080647,30.1633392] n3016392303[51.8081917,30.1633717]
 w309406376
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=1 а | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=1А | addr:street=улица Механизаторов | building=yes
     geometry : n3147380508[51.8096099,30.2805819] n3147380509[51.8096317,30.2807570] n3147380505[51.8095515,30.2807832] n3147380504[51.8095297,30.2806080] n3147380508[51.8096099,30.2805819]
 w309406378
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=10 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380556[51.8102774,30.2787479] n3147380559[51.8103286,30.2793387] n3147380550[51.8101685,30.2793750] n3147380547[51.8101174,30.2787842] n3147380556[51.8102774,30.2787479]
 w309406382
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=11 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380531[51.8099242,30.2788259] n3147380532[51.8099346,30.2789588] n3147380519[51.8098364,30.2789789] n3147380518[51.8098260,30.2788459] n3147380531[51.8099242,30.2788259]
 w309406384
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=11 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380446[51.8074497,30.2781517] n3147380447[51.8074825,30.2783052] n3147380444[51.8074160,30.2783424] n3147380442[51.8073832,30.2781889] n3147380446[51.8074497,30.2781517]
 w309406387
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=12 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Соболенки | building=yes
     geometry : n3147380474[51.8082430,30.2780470] n3147380476[51.8082709,30.2781883] n3147380469[51.8081336,30.2782593] n3147380466[51.8081056,30.2781179] n3147380474[51.8082430,30.2780470]
 w309406388
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=13 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380524[51.8098941,30.2783814] n3147380527[51.8099061,30.2785572] n3147380517[51.8098088,30.2785746] n3147380516[51.8097967,30.2783988] n3147380524[51.8098941,30.2783814]
 w309406390
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=13 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380448[51.8074839,30.2785071] n3147380449[51.8075177,30.2787032] n3147380445[51.8074214,30.2787467] n3147380443[51.8073876,30.2785506] n3147380448[51.8074839,30.2785071]
 w309406391
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=13 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Соболенки | building=yes
     geometry : n3147380487[51.8085573,30.2781581] n3147380489[51.8086038,30.2784319] n3147380485[51.8085220,30.2784682] n3147380481[51.8084756,30.2781944] n3147380487[51.8085573,30.2781581]
 w309406395
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=16 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380525[51.8098947,30.2867890] n3147380529[51.8099178,30.2869187] n3147380515[51.8097916,30.2869775] n3147380513[51.8097685,30.2868477] n3147380525[51.8098947,30.2867890]
 w309406397
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=17 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380456[51.8077300,30.2791940] n3147380457[51.8077940,30.2793584] n3147380455[51.8077107,30.2794431] n3147380452[51.8076467,30.2792787] n3147380456[51.8077300,30.2791940]
 w309406400
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=19 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380460[51.8079414,30.2796739] n3147380461[51.8079799,30.2797845] n3147380459[51.8078935,30.2798631] n3147380458[51.8078550,30.2797525] n3147380460[51.8079414,30.2796739]
 w309406402
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=2 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380512[51.8097659,30.2818212] n3147380514[51.8097786,30.2819719] n3147380511[51.8096541,30.2819995] n3147380510[51.8096413,30.2818488] n3147380512[51.8097659,30.2818212]
 w309406404
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=2 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Соболенки | building=yes
     geometry : n3147380453[51.8076738,30.2755669] n3147380454[51.8076998,30.2756983] n3147380451[51.8075989,30.2757506] n3147380450[51.8075729,30.2756192] n3147380453[51.8076738,30.2755669]
 w309406405
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=20 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380542[51.8100279,30.2874673] n3147380544[51.8100677,30.2876546] n3147380535[51.8099598,30.2877145] n3147380530[51.8099200,30.2875272] n3147380542[51.8100279,30.2874673]
 w309406406
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=20 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Соболенки | building=yes
     geometry : n3147380486[51.8085511,30.2797106] n3147380488[51.8085841,30.2798583] n3147380484[51.8085108,30.2799011] n3147380482[51.8084778,30.2797534] n3147380486[51.8085511,30.2797106]
 w309406407
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=21 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380472[51.8081834,30.2802990] n3147380473[51.8082242,30.2804269] n3147380467[51.8081208,30.2805131] n3147380464[51.8080800,30.2803853] n3147380472[51.8081834,30.2802990]
 w309406408
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=22 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=22 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380548[51.8101299,30.2879592] n3147380540[51.8100032,30.2880338] n3147380536[51.8099651,30.2878648] n3147380545[51.8100918,30.2877902] n3147380548[51.8101299,30.2879592]
 w309406409
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=25 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=25 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380506[51.8095755,30.2826043] n3147380507[51.8095918,30.2827496] n3147380502[51.8095019,30.2827761] n3147380501[51.8094855,30.2826308] n3147380506[51.8095755,30.2826043]
 w309406411
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=3 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Соболенки | building=yes
     geometry : n3147380465[51.8081016,30.2759143] n3147380468[51.8081329,30.2760495] n3147380463[51.8080356,30.2761084] n3147380462[51.8080043,30.2759732] n3147380465[51.8081016,30.2759143]
 w309406415
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=5 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380539[51.8099957,30.2798526] n3147380541[51.8100122,30.2800258] n3147380528[51.8099150,30.2800500] n3147380526[51.8098984,30.2798769] n3147380539[51.8099957,30.2798526]
 w309406417
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=5 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380434[51.8069888,30.2769044] n3147380435[51.8070264,30.2770669] n3147380431[51.8068907,30.2771489] n3147380430[51.8068532,30.2769865] n3147380434[51.8069888,30.2769044]
 w309406418
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=5 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Соболенки | building=yes
     geometry : n3147380475[51.8082444,30.2765921] n3147380477[51.8082721,30.2767368] n3147380471[51.8081637,30.2767911] n3147380470[51.8081360,30.2766464] n3147380475[51.8082444,30.2765921]
 w309406421
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=7 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380537[51.8099699,30.2794310] n3147380538[51.8099810,30.2795917] n3147380523[51.8098818,30.2796096] n3147380522[51.8098707,30.2794490] n3147380537[51.8099699,30.2794310]
 w309406423
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=7 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380436[51.8070394,30.2772947] n3147380438[51.8070719,30.2774461] n3147380433[51.8069669,30.2775050] n3147380432[51.8069344,30.2773536] n3147380436[51.8070394,30.2772947]
 w309406425
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=8 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380557[51.8102881,30.2797006] n3147380558[51.8103128,30.2799730] n3147380553[51.8102267,30.2799934] n3147380551[51.8102020,30.2797210] n3147380557[51.8102881,30.2797006]
 w309406427
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=8 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380498[51.8094116,30.2846129] n3147380499[51.8094484,30.2847887] n3147380497[51.8093435,30.2848462] n3147380495[51.8093067,30.2846704] n3147380498[51.8094116,30.2846129]
 w309406429
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=9 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380533[51.8099421,30.2790926] n3147380534[51.8099565,30.2792499] n3147380521[51.8098593,30.2792730] n3147380520[51.8098450,30.2791157] n3147380533[51.8099421,30.2790926]
 w309406430
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=9 | addr:street=улица Игнатенко | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Игнатенко | building=yes
     geometry : n3147380440[51.8071585,30.2777879] n3147380441[51.8071993,30.2779718] n3147380439[51.8071120,30.2780225] n3147380437[51.8070711,30.2778387] n3147380440[51.8071585,30.2777879]
 w309406431
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=9 | addr:street=улица Соболенки | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Соболенки | building=yes
     geometry : n3147380480[51.8084343,30.2774164] n3147380483[51.8084841,30.2776919] n3147380479[51.8083806,30.2777408] n3147380478[51.8083309,30.2774653] n3147380480[51.8084343,30.2774164]
 w309406433  null / null / Столовая
-  other tags : addr:city=Брагин | addr:country=BY | addr:street=улица Механизаторов | amenity=cafe | area=yes | building=yes
+  other tags : addr:street=улица Механизаторов | amenity=cafe | building=yes
     geometry : n3147380500[51.8094741,30.2810333] n3147380503[51.8095098,30.2812344] n3147380496[51.8093148,30.2813249] n3147380494[51.8092791,30.2811239] n3147380500[51.8094741,30.2810333]
 w309406434
-  other tags : addr:city=Брагин | addr:country=BY | addr:street=улица Соболенки | building=yes
+  other tags : addr:street=улица Соболенки | building=yes
     geometry : n3147380492[51.8088820,30.2797491] n3147380493[51.8089156,30.2799103] n3147380491[51.8088004,30.2799731] n3147380490[51.8087668,30.2798118] n3147380492[51.8088820,30.2797491]
 w309406436
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=12 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Механизаторов | building=yes
     geometry : n3147380549[51.8101608,30.2776775] n3147380552[51.8102225,30.2784577] n3147380546[51.8101024,30.2784826] n3147380543[51.8100407,30.2777023] n3147380549[51.8101608,30.2776775]
 w309406438
-  other tags : addr:city=Брагин | addr:country=BY | addr:street=улица Механизаторов | building=yes
+  other tags : addr:street=улица Механизаторов | building=yes
     geometry : n3147380562[51.8103872,30.2803921] n3147380563[51.8104056,30.2806222] n3147380555[51.8102717,30.2806501] n3147380554[51.8102534,30.2804200] n3147380562[51.8103872,30.2803921]
 w309406439
-  other tags : addr:city=Брагин | addr:country=BY | addr:street=улица Механизаторов | building=yes
+  other tags : addr:street=улица Механизаторов | building=yes
     geometry : n3147380564[51.8104829,30.2821185] n3147380565[51.8105099,30.2825748] n3147380561[51.8103776,30.2825953] n3147380560[51.8103507,30.2821390] n3147380564[51.8104829,30.2821185]
 w312498623
-  other tags : addr:city=деревня Голубовка | addr:country=BY | addr:housenumber=1-2 | addr:street=улица Железнодорожная | building=yes | building:levels=1
+  other tags : addr:housenumber=1 к2 | addr:street=улица Железнодорожная | building=yes | building:levels=1
     geometry : n3183627426[51.4971819,30.5088682] n3183627425[51.4971683,30.5086853] n3183627427[51.4973362,30.5086532] n3183627428[51.4973498,30.5088362] n3183627426[51.4971819,30.5088682]
 w312498624
   other tags : building=yes | building:levels=1
@@ -4178,238 +4178,238 @@ w312498626
   other tags : building=yes | building:levels=1
     geometry : n3183627429[51.4975077,30.5087828] n3183627431[51.4975545,30.5087773] n3183627432[51.4975611,30.5089242] n3183627430[51.4975144,30.5089297] n3183627429[51.4975077,30.5087828]
 w313354280
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=15 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Механизаторов | building=yes
     geometry : n3192941956[51.8095773,30.2780088] n3192941957[51.8095909,30.2782351] n3192941955[51.8090395,30.2783220] n3192941954[51.8090259,30.2780957] n3192941956[51.8095773,30.2780088]
 w313354281
-  other tags : addr:city=Брагин | addr:country=BY | addr:housenumber=17 | addr:street=улица Механизаторов | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Механизаторов | building=yes
     geometry : n3192941960[51.8097566,30.2771989] n3192943061[51.8098125,30.2780869] n3192941959[51.8096827,30.2781083] n3192941958[51.8096268,30.2772202] n3192941960[51.8097566,30.2771989]
 w313354283
-  other tags : addr:city=Брагин | addr:country=BY | addr:street=улица Механизаторов | building=yes
+  other tags : addr:street=улица Механизаторов | building=yes
     geometry : n3192943064[51.8104103,30.2770757] n3192943065[51.8104171,30.2773393] n3192943063[51.8101103,30.2773599] n3192943062[51.8101036,30.2770962] n3192943064[51.8104103,30.2770757]
 w313404771
   other tags : building=yes | building:levels=1
     geometry : n3193699864[51.8038956,30.3259915] n3193699866[51.8040175,30.3258374] n3193699867[51.8041290,30.3260681] n3193699865[51.8040070,30.3262222] n3193699864[51.8038956,30.3259915]
 w313657484
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=1 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Зелёная | building=yes
     geometry : n3196668942[51.8226648,30.3253310] n3196668937[51.8225876,30.3254630] n3196668935[51.8225130,30.3253487] n3196668938[51.8225901,30.3252167] n3196668942[51.8226648,30.3253310]
 w313657485
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=10 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Зелёная | building=yes
     geometry : n3196668950[51.8230206,30.3266485] n3196668953[51.8230957,30.3267836] n3196668948[51.8230115,30.3269060] n3196668947[51.8229275,30.3267548] n3196668949[51.8230117,30.3266323] n3196668950[51.8230206,30.3266485]
 w313657486
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=10 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Полесская | building=yes
     geometry : n3196659817[51.8178663,30.3184921] n3196659816[51.8178113,30.3185903] n3196659814[51.8177266,30.3184660] n3196659815[51.8177815,30.3183679] n3196659817[51.8178663,30.3184921]
 w313657487
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=11 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Зелёная | building=yes
     geometry : n3196669167[51.8234466,30.3265694] n3196669169[51.8234933,30.3266646] n3196669166[51.8234122,30.3267686] n3196669165[51.8233655,30.3266734] n3196669167[51.8234466,30.3265694]
 w313657488
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=11 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Полесская | building=yes
     geometry : n3196659833[51.8185577,30.3188931] n3196659832[51.8184702,30.3190359] n3196659828[51.8183733,30.3188807] n3196659831[51.8184608,30.3187379] n3196659833[51.8185577,30.3188931]
 w313657489
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=12 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Зелёная | building=yes
     geometry : n3196669162[51.8232608,30.3270188] n3196668958[51.8231773,30.3271560] n3196668954[51.8231022,30.3270364] n3196668959[51.8231857,30.3268992] n3196669162[51.8232608,30.3270188]
 w313657490
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=14 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Зелёная | building=yes
     geometry : n3196669172[51.8236080,30.3275595] n3196669170[51.8235174,30.3277127] n3196669168[51.8234475,30.3276044] n3196669171[51.8235380,30.3274512] n3196669172[51.8236080,30.3275595]
 w313657491
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=15 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Полесская | building=yes
     geometry : n3196659837[51.8190700,30.3196212] n3196659835[51.8190015,30.3197290] n3196659834[51.8189483,30.3196404] n3196659836[51.8190168,30.3195326] n3196659837[51.8190700,30.3196212]
 w313657492
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=16 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Зелёная | building=yes
     geometry : n3196669175[51.8237307,30.3277594] n3196669176[51.8237979,30.3278664] n3196669174[51.8237090,30.3280124] n3196669173[51.8236418,30.3279054] n3196669175[51.8237307,30.3277594]
 w313657493
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=17 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Полесская | building=yes
     geometry : n3196659843[51.8192596,30.3200856] n3196659840[51.8191860,30.3201983] n3196659838[51.8191337,30.3201089] n3196659841[51.8192072,30.3199962] n3196659843[51.8192596,30.3200856]
 w313657494
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=18 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=18 | addr:street=улица Зелёная | building=yes
     geometry : n3196669179[51.8239234,30.3280603] n3196669180[51.8239904,30.3281714] n3196669178[51.8239053,30.3283059] n3196669177[51.8238383,30.3281948] n3196669179[51.8239234,30.3280603]
 w313657496
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=19 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Полесская | building=yes
     geometry : n3196659851[51.8193672,30.3202561] n3196659853[51.8194151,30.3203346] n3196659850[51.8193459,30.3204449] n3196659847[51.8192981,30.3203664] n3196659851[51.8193672,30.3202561]
 w313657497
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=2 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Зелёная | building=yes
     geometry : n3196668925[51.8222622,30.3254725] n3196668923[51.8222064,30.3255668] n3196668921[51.8221229,30.3254375] n3196668922[51.8221787,30.3253432] n3196668925[51.8222622,30.3254725]
 w313657499
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=2 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Полесская | building=yes
     geometry : n3196659809[51.8170999,30.3180758] n3196659807[51.8170348,30.3181754] n3196659806[51.8169740,30.3180716] n3196659808[51.8170391,30.3179719] n3196659809[51.8170999,30.3180758]
 w313657500
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=21 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Зелёная | building=yes
     geometry : n3196669185[51.8241680,30.3277039] n3196669184[51.8241050,30.3278059] n3196669181[51.8240347,30.3276922] n3196669183[51.8240977,30.3275902] n3196669185[51.8241680,30.3277039]
 w313657502
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=23 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=23 | addr:street=улица Зелёная | building=yes
     geometry : n3196669197[51.8245741,30.3282616] n3196669199[51.8246419,30.3283819] n3196669196[51.8245602,30.3285026] n3196669192[51.8244923,30.3283823] n3196669197[51.8245741,30.3282616]
 w313657504
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=24 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=24 | addr:street=улица Зелёная | building=yes
     geometry : n3196669209[51.8251708,30.3299595] n3196669208[51.8251010,30.3300761] n3196669206[51.8250204,30.3299499] n3196669207[51.8250902,30.3298333] n3196669209[51.8251708,30.3299595]
 w313657506
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=24 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=24 | addr:street=улица Полесская | building=yes
     geometry : n3196659844[51.8192634,30.3206072] n3196659848[51.8193075,30.3206848] n3196659842[51.8192276,30.3208039] n3196659839[51.8191834,30.3207262] n3196659844[51.8192634,30.3206072]
 w313657508
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=25 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=25 | addr:street=улица Полесская | building=yes
     geometry : n3196668870[51.8199444,30.3212296] n3196668866[51.8198824,30.3213363] n3196668861[51.8198068,30.3212214] n3196668865[51.8198688,30.3211146] n3196668870[51.8199444,30.3212296]
 w313657509
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=26 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=26 | addr:street=улица Зелёная | building=yes
     geometry : n3196669220[51.8254060,30.3303296] n3196669214[51.8253285,30.3304450] n3196669211[51.8252593,30.3303235] n3196669215[51.8253368,30.3302080] n3196669220[51.8254060,30.3303296]
 w313657510
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=26 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=26 | addr:street=улица Полесская | building=yes
     geometry : n3196659854[51.8194247,30.3208825] n3196659849[51.8193399,30.3210077] n3196659846[51.8192919,30.3209226] n3196659852[51.8193766,30.3207974] n3196659854[51.8194247,30.3208825]
 w313657513
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=27 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=27 | addr:street=улица Зелёная | building=yes
     geometry : n3196669204[51.8248542,30.3287362] n3196669205[51.8249072,30.3288313] n3196669203[51.8248269,30.3289484] n3196669201[51.8247739,30.3288534] n3196669204[51.8248542,30.3287362]
 w313657515
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=27 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=27 | addr:street=улица Полесская | building=yes
     geometry : n3196668874[51.8200968,30.3214767] n3196668872[51.8200241,30.3215881] n3196668871[51.8199718,30.3214987] n3196668873[51.8200445,30.3213873] n3196668874[51.8200968,30.3214767]
 w313657518
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=28 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=28 | addr:street=улица Полесская | building=yes
     geometry : n3196659858[51.8196448,30.3212217] n3196659856[51.8195538,30.3213671] n3196659855[51.8194962,30.3212728] n3196659857[51.8195871,30.3211273] n3196659858[51.8196448,30.3212217]
 w313657520
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=3 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Полесская | building=yes
     geometry : n3196659830[51.8184187,30.3163867] n3196659827[51.8183054,30.3165020] n3196659825[51.8182739,30.3164210] n3196659829[51.8183872,30.3163057] n3196659830[51.8184187,30.3163867]
 w313657523
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=30 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=30 | addr:street=улица Зелёная | building=yes
     geometry : n3196669361[51.8260643,30.3312647] n3196669254[51.8259921,30.3313326] n3196669251[51.8259405,30.3311888] n3196669255[51.8260127,30.3311210] n3196669361[51.8260643,30.3312647]
 w313657525
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=31 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=31 | addr:street=улица Полесская | building=yes
     geometry : n3196668883[51.8208088,30.3225277] n3196668881[51.8207411,30.3226416] n3196668880[51.8206767,30.3225414] n3196668882[51.8207444,30.3224275] n3196668883[51.8208088,30.3225277]
 w313657530
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=32 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=32 | addr:street=улица Зелёная | building=yes
     geometry : n3196669373[51.8262878,30.3317165] n3196669369[51.8262044,30.3318121] n3196669366[51.8261495,30.3316866] n3196669371[51.8262330,30.3315910] n3196669373[51.8262878,30.3317165]
 w313657532
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=32 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=32 | addr:street=улица Полесская | building=yes
     geometry : n3196668868[51.8199145,30.3217511] n3196668863[51.8198286,30.3218664] n3196659859[51.8197753,30.3217625] n3196668864[51.8198612,30.3216472] n3196668868[51.8199145,30.3217511]
 w313657533
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=33 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=33 | addr:street=улица Полесская | building=yes
     geometry : n3196668891[51.8210138,30.3228305] n3196668888[51.8209398,30.3229551] n3196668886[51.8208846,30.3228692] n3196668889[51.8209586,30.3227446] n3196668891[51.8210138,30.3228305]
 w313657534
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=34 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=34 | addr:street=улица Зелёная | building=yes
     geometry : n3196669423[51.8283076,30.3305902] n3196669424[51.8283261,30.3307624] n3196669420[51.8282630,30.3307802] n3196669417[51.8282445,30.3306080] n3196669423[51.8283076,30.3305902]
 w313657535
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=34 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=34 | addr:street=улица Полесская | building=yes
     geometry : n3196668867[51.8198908,30.3223180] n3196668869[51.8199346,30.3225003] n3196668862[51.8198212,30.3225716] n3196659860[51.8197774,30.3223893] n3196668867[51.8198908,30.3223180]
 w313657536
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=35 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=35 | addr:street=улица Полесская | building=yes
     geometry : n3196668898[51.8211855,30.3231445] n3196668895[51.8211211,30.3232542] n3196668892[51.8210516,30.3231473] n3196668894[51.8211160,30.3230376] n3196668898[51.8211855,30.3231445]
 w313657537
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=36 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=36 | addr:street=улица Зелёная | building=yes
     geometry : n3196669430[51.8285539,30.3303647] n3196669431[51.8285799,30.3305257] n3196669429[51.8285064,30.3305568] n3196669427[51.8284804,30.3303958] n3196669430[51.8285539,30.3303647]
 w313657538
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=37 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=37 | addr:street=улица Зелёная | building=yes
     geometry : n3196669239[51.8257306,30.3302026] n3196669233[51.8256656,30.3303013] n3196669230[51.8256162,30.3302163] n3196669235[51.8256813,30.3301175] n3196669239[51.8257306,30.3302026]
 w313657539
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=37 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=37 | addr:street=улица Полесская | building=yes
     geometry : n3196668904[51.8214996,30.3236132] n3196668902[51.8214274,30.3237384] n3196668901[51.8213781,30.3236639] n3196668903[51.8214503,30.3235387] n3196668904[51.8214996,30.3236132]
 w313657540
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=4 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Зелёная | building=yes
     geometry : n3196668933[51.8224723,30.3258014] n3196668931[51.8224130,30.3258988] n3196668927[51.8223236,30.3257565] n3196668930[51.8223829,30.3256592] n3196668933[51.8224723,30.3258014]
 w313657541
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=41 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=41 | addr:street=улица Зелёная | building=yes
     geometry : n3196669383[51.8266380,30.3310851] n3196669384[51.8266580,30.3312212] n3196669382[51.8265617,30.3312582] n3196669381[51.8265417,30.3311221] n3196669383[51.8266380,30.3310851]
 w313657542
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=41 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=41 | addr:street=улица Полесская | building=yes
     geometry : n3196668912[51.8218790,30.3242153] n3196668910[51.8217939,30.3243009] n3196668909[51.8217557,30.3242016] n3196668911[51.8218409,30.3241160] n3196668912[51.8218790,30.3242153]
 w313657543
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=43 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=43 | addr:street=улица Зелёная | building=yes
     geometry : n3196669388[51.8268741,30.3309758] n3196669389[51.8268884,30.3311085] n3196669387[51.8267864,30.3311371] n3196669386[51.8267721,30.3310045] n3196669388[51.8268741,30.3309758]
 w313657544
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=43 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=43 | addr:street=улица Полесская | building=yes
     geometry : n3196668920[51.8220982,30.3245763] n3196668916[51.8220215,30.3246963] n3196668914[51.8219569,30.3245881] n3196668917[51.8220336,30.3244682] n3196668920[51.8220982,30.3245763]
 w313657545
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=45 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=45 | addr:street=улица Зелёная | building=yes
     geometry : n3196669392[51.8271400,30.3307630] n3196669393[51.8271585,30.3308901] n3196669391[51.8270603,30.3309275] n3196669390[51.8270418,30.3308004] n3196669392[51.8271400,30.3307630]
 w313657546
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=45 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=45 | addr:street=улица Полесская | building=yes
     geometry : n3196668932[51.8224304,30.3250642] n3196668929[51.8223672,30.3251599] n3196668926[51.8223027,30.3250486] n3196668928[51.8223660,30.3249528] n3196668932[51.8224304,30.3250642]
 w313657547
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=48 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=48 | addr:street=улица Полесская | building=yes
     geometry : n3196668879[51.8206486,30.3228933] n3196668878[51.8205875,30.3229933] n3196668876[51.8205077,30.3228657] n3196668877[51.8205687,30.3227658] n3196668879[51.8206486,30.3228933]
 w313657548
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=49 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=49 | addr:street=улица Зелёная | building=yes
     geometry : n3196669408[51.8275813,30.3303772] n3196669410[51.8276242,30.3305688] n3196669404[51.8275327,30.3306224] n3196669403[51.8274898,30.3304308] n3196669408[51.8275813,30.3303772]
 w313657549
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=50 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=50 | addr:street=улица Полесская | building=yes
     geometry : n3196668890[51.8209599,30.3233453] n3196668885[51.8208801,30.3234826] n3196668884[51.8208225,30.3233950] n3196668887[51.8209023,30.3232577] n3196668890[51.8209599,30.3233453]
 w313657550
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=52 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=52 | addr:street=улица Полесская | building=yes
     geometry : n3196668900[51.8212170,30.3237443] n3196668896[51.8211241,30.3238931] n3196668893[51.8210630,30.3237932] n3196668897[51.8211560,30.3236444] n3196668899[51.8212058,30.3237259] n3196668900[51.8212170,30.3237443]
 w313657551
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=53 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=53 | addr:street=улица Зелёная | building=yes
     geometry : n3196669425[51.8283269,30.3301372] n3196669426[51.8283501,30.3303153] n3196669422[51.8282799,30.3303393] n3196669419[51.8282567,30.3301612] n3196669425[51.8283269,30.3301372]
 w313657552
-  other tags : addr:city=Селец | addr:country=BV | addr:housenumber=53 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=53 | addr:street=улица Советская | building=yes
     geometry : n3196669421[51.8282762,30.3332010] n3196669418[51.8282562,30.3334835] n3196669415[51.8281736,30.3334682] n3196669416[51.8281813,30.3333607] n3196669413[51.8280983,30.3333454] n3196669414[51.8281107,30.3331704] n3196669421[51.8282762,30.3332010]
 w313657553
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=54 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=54 | addr:street=улица Советская | building=yes
     geometry : n3196669363[51.8261153,30.3323520] n3196669259[51.8260609,30.3324328] n3196669253[51.8259885,30.3323051] n3196669257[51.8260428,30.3322243] n3196669363[51.8261153,30.3323520]
 w313657554
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=55 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=55 | addr:street=улица Зелёная | building=yes
     geometry : n3196669434[51.8286974,30.3299253] n3196669435[51.8287203,30.3301140] n3196669433[51.8286192,30.3301462] n3196669432[51.8285963,30.3299575] n3196669434[51.8286974,30.3299253]
 w313657555
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=55 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=55 | addr:street=улица Советская | building=yes
     geometry : n3196669379[51.8264414,30.3323024] n3196669380[51.8264938,30.3324502] n3196669378[51.8264296,30.3325099] n3196669376[51.8263772,30.3323620] n3196669379[51.8264414,30.3323024]
 w313657556
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=57 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=57 | addr:street=улица Советская | building=yes
     geometry : n3196669372[51.8262678,30.3324782] n3196669374[51.8263090,30.3325765] n3196669370[51.8262232,30.3326708] n3196669367[51.8261820,30.3325725] n3196669372[51.8262678,30.3324782]
 w313657557
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=58 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=58 | addr:street=улица Полесская | building=yes
     geometry : n3196668908[51.8217201,30.3245071] n3196668906[51.8216446,30.3246250] n3196668905[51.8215847,30.3245246] n3196668907[51.8216602,30.3244068] n3196668908[51.8217201,30.3245071]
 w313657558
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=59 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=59 | addr:street=улица Советская | building=yes
     geometry : n3196669368[51.8261921,30.3327594] n3196669364[51.8261173,30.3328571] n3196669260[51.8260613,30.3327448] n3196669365[51.8261360,30.3326471] n3196669368[51.8261921,30.3327594]
 w313657559
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=6 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=6 | addr:street=улица Зелёная | building=yes
     geometry : n3196668941[51.8226643,30.3261076] n3196668939[51.8225911,30.3262094] n3196668936[51.8225207,30.3260769] n3196668940[51.8225938,30.3259751] n3196668941[51.8226643,30.3261076]
 w313657560
-  other tags : addr:city=Селец | addr:country=BV | addr:housenumber=60 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=60 | addr:street=улица Советская | building=yes
     geometry : n3196669411[51.8276476,30.3319061] n3196669409[51.8276239,30.3320316] n3196669405[51.8275382,30.3319892] n3196669406[51.8275619,30.3318637] n3196669411[51.8276476,30.3319061]
 w313657561
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=61 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=61 | addr:street=улица Советская | building=yes
     geometry : n3196669362[51.8260955,30.3329785] n3196669258[51.8260483,30.3330514] n3196669252[51.8259697,30.3329180] n3196669256[51.8260169,30.3328451] n3196669362[51.8260955,30.3329785]
 w313657562
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=62 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=62 | addr:street=улица Полесская | building=yes
     geometry : n3196668919[51.8220895,30.3251372] n3196668915[51.8219829,30.3252256] n3196668913[51.8219512,30.3251258] n3196668918[51.8220579,30.3250374] n3196668919[51.8220895,30.3251372]
 w313657563
-  other tags : addr:city=Селец | addr:country=BV | addr:housenumber=62 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=62 | addr:street=улица Советская | building=yes
     geometry : n3196669399[51.8273700,30.3317062] n3196669400[51.8273714,30.3318801] n3196669395[51.8272836,30.3318820] n3196669394[51.8272822,30.3317081] n3196669399[51.8273700,30.3317062]
 w313657564
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=63 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=63 | addr:street=улица Советская | building=yes
     geometry : n3196669250[51.8259388,30.3332337] n3196669248[51.8258691,30.3333454] n3196669244[51.8257898,30.3332161] n3196669246[51.8258595,30.3331043] n3196669250[51.8259388,30.3332337]
 w313657565
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=65 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=65 | addr:street=улица Советская | building=yes
     geometry : n3196669243[51.8257855,30.3334562] n3196669240[51.8257310,30.3335515] n3196669232[51.8256621,30.3334484] n3196669238[51.8257165,30.3333530] n3196669243[51.8257855,30.3334562]
 w313657566
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=66 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=66 | addr:street=улица Советская | building=yes
     geometry : n3196669249[51.8259118,30.3326711] n3196669247[51.8258598,30.3327607] n3196669242[51.8257776,30.3326359] n3196669245[51.8258296,30.3325463] n3196669249[51.8259118,30.3326711]
 w313657567
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=67 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=67 | addr:street=улица Советская | building=yes
     geometry : n3196669237[51.8257009,30.3336303] n3196669231[51.8256547,30.3337118] n3196669226[51.8255579,30.3335680] n3196669228[51.8256041,30.3334865] n3196669237[51.8257009,30.3336303]
 w313657568
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=68 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=68 | addr:street=улица Советская | building=yes
     geometry : n3196669241[51.8257441,30.3329584] n3196669236[51.8256909,30.3330549] n3196669229[51.8256160,30.3329468] n3196669234[51.8256692,30.3328503] n3196669241[51.8257441,30.3329584]
 w313657569
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=7 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Зелёная | building=yes
     geometry : n3196668957[51.8231667,30.3261811] n3196668952[51.8230835,30.3263168] n3196668951[51.8230244,30.3262220] n3196668955[51.8231076,30.3260863] n3196668957[51.8231667,30.3261811]
 w313657570
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=7 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Полесская | building=yes
     geometry : n3196659821[51.8180638,30.3182480] n3196659820[51.8180044,30.3183368] n3196659818[51.8178998,30.3181540] n3196659819[51.8179591,30.3180652] n3196659821[51.8180638,30.3182480]
 w313657571
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=70 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=70 | addr:street=улица Советская | building=yes
     geometry : n3196669227[51.8255858,30.3332322] n3196669224[51.8255051,30.3333652] n3196669222[51.8254534,30.3332830] n3196669225[51.8255341,30.3331500] n3196669227[51.8255858,30.3332322]
 w313657572
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=71 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=71 | addr:street=улица Советская | building=yes
     geometry : n3196669219[51.8253973,30.3341195] n3196669216[51.8253373,30.3342337] n3196669210[51.8252468,30.3341094] n3196669213[51.8253069,30.3339951] n3196669219[51.8253973,30.3341195]
 w313657573
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=72 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=72 | addr:street=улица Советская | building=yes
     geometry : n3196669221[51.8254157,30.3335055] n3196669218[51.8253514,30.3336003] n3196669212[51.8252749,30.3334644] n3196669217[51.8253392,30.3333696] n3196669221[51.8254157,30.3335055]
 w313657574
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=8 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Зелёная | building=yes
     geometry : n3196668946[51.8228780,30.3264348] n3196668945[51.8228057,30.3265481] n3196668943[51.8227298,30.3264211] n3196668944[51.8228021,30.3263078] n3196668946[51.8228780,30.3264348]
 w313657575
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=8 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Полесская | building=yes
     geometry : n3196659813[51.8177099,30.3182437] n3196659811[51.8176401,30.3183627] n3196659810[51.8175762,30.3182645] n3196659812[51.8176461,30.3181456] n3196659813[51.8177099,30.3182437]
 w313657576
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=9 | addr:street=улица Зелёная | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Зелёная | building=yes
     geometry : n3196669164[51.8233529,30.3264431] n3196669161[51.8232548,30.3266006] n3196668960[51.8231953,30.3265036] n3196669163[51.8232934,30.3263461] n3196669164[51.8233529,30.3264431]
 w313657577
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=9 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Полесская | building=yes
     geometry : n3196659826[51.8183051,30.3184988] n3196659824[51.8182179,30.3186379] n3196659822[51.8181137,30.3184670] n3196659823[51.8182008,30.3183279] n3196659826[51.8183051,30.3184988]
 w313657578  null / null / ФАП
   other tags : building=yes
@@ -4421,166 +4421,166 @@ w313657580  null / null / магазин
   other tags : building=yes
     geometry : n3196669402[51.8274419,30.3323186] n3196669401[51.8274394,30.3324884] n3196669397[51.8273218,30.3324841] n3196669398[51.8273242,30.3323143] n3196669402[51.8274419,30.3323186]
 w313657584
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=47 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=47 | addr:street=улица Советская | building=yes
     geometry : n3196669443[51.8289574,30.3327071] n3196669441[51.8289367,30.3328766] n3196669436[51.8288611,30.3328525] n3196669438[51.8288818,30.3326830] n3196669443[51.8289574,30.3327071]
 w313657585
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=29 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=29 | addr:street=улица Советская | building=yes
     geometry : n3196669667[51.8308153,30.3332341] n3196669666[51.8308061,30.3333826] n3196669662[51.8307242,30.3333695] n3196669665[51.8307333,30.3332209] n3196669667[51.8308153,30.3332341]
 w313657586
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=41 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=41 | addr:street=улица Советская | building=yes
     geometry : n3196669458[51.8295089,30.3328347] n3196669457[51.8294947,30.3329772] n3196669453[51.8293958,30.3329514] n3196669454[51.8294100,30.3328089] n3196669458[51.8295089,30.3328347]
 w313657587
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=43 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=43 | addr:street=улица Советская | building=yes
     geometry : n3196669451[51.8292753,30.3327888] n3196669450[51.8292607,30.3329424] n3196669448[51.8291831,30.3329231] n3196669449[51.8291977,30.3327695] n3196669451[51.8292753,30.3327888]
 w313657588
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=45 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=45 | addr:street=улица Советская | building=yes
     geometry : n3196669447[51.8291126,30.3327502] n3196669446[51.8290954,30.3328967] n3196669444[51.8290056,30.3328690] n3196669445[51.8290228,30.3327225] n3196669447[51.8291126,30.3327502]
 w313657589
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=52 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=52 | addr:street=улица Советская | building=yes
     geometry : n3196669442[51.8289507,30.3323270] n3196669440[51.8289349,30.3325074] n3196669437[51.8288678,30.3324920] n3196669439[51.8288836,30.3323116] n3196669442[51.8289507,30.3323270]
 w313657590
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=46 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=46 | addr:street=улица Советская | building=yes
     geometry : n3196669460[51.8295817,30.3323880] n3196669459[51.8295621,30.3325720] n3196669455[51.8294762,30.3325481] n3196669456[51.8294958,30.3323640] n3196669460[51.8295817,30.3323880]
 w313657591
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=34 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=34 | addr:street=улица Советская | building=yes
     geometry : n3196669668[51.8308233,30.3327710] n3196669669[51.8308216,30.3329424] n3196669663[51.8307285,30.3329401] n3196669664[51.8307302,30.3327687] n3196669668[51.8308233,30.3327710]
 w313669281
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=14 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Советская | building=yes
     geometry : n3196789020[51.8330777,30.3324486] n3196789022[51.8331056,30.3326084] n3196789018[51.8330393,30.3326387] n3196789017[51.8330114,30.3324789] n3196789020[51.8330777,30.3324486]
 w313669282
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=16 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Советская | building=yes
     geometry : n3196789049[51.8337886,30.3316774] n3196789050[51.8338205,30.3318285] n3196789048[51.8337379,30.3318742] n3196789044[51.8337060,30.3317231] n3196789049[51.8337886,30.3316774]
 w313669283
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=18 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=18 | addr:street=улица Советская | building=yes
     geometry : n3196789036[51.8334796,30.3318371] n3196789037[51.8335164,30.3319919] n3196789035[51.8334321,30.3320445] n3196789034[51.8333953,30.3318896] n3196789036[51.8334796,30.3318371]
 w313669284
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=20 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Советская | building=yes
     geometry : n3196789023[51.8331264,30.3320457] n3196789025[51.8331562,30.3321923] n3196789021[51.8330856,30.3322300] n3196789019[51.8330557,30.3320835] n3196789023[51.8331264,30.3320457]
 w313669285
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=22 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=22 | addr:street=улица Советская | building=yes
     geometry : n3196789015[51.8328676,30.3322285] n3196789016[51.8328942,30.3323492] n3196789013[51.8327898,30.3324097] n3196789012[51.8327631,30.3322890] n3196789015[51.8328676,30.3322285]
 w313669286
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=24 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=24 | addr:street=улица Советская | building=yes
     geometry : n3196789010[51.8326145,30.3322974] n3196789011[51.8326285,30.3324389] n3196789009[51.8325313,30.3324642] n3196789008[51.8325172,30.3323226] n3196789010[51.8326145,30.3322974]
 w313669287
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=26 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=26 | addr:street=улица Советская | building=yes
     geometry : n3196789005[51.8323685,30.3323520] n3196789006[51.8323859,30.3324912] n3196789004[51.8323102,30.3325160] n3196789003[51.8322928,30.3323768] n3196789005[51.8323685,30.3323520]
 w313669288
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=28 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=28 | addr:street=улица Советская | building=yes
     geometry : n3196789001[51.8319653,30.3323307] n3196789002[51.8319697,30.3324703] n3196788999[51.8318859,30.3324772] n3196788998[51.8318815,30.3323375] n3196789001[51.8319653,30.3323307]
 w313669289
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=3 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Советская | building=yes
     geometry : n3196789046[51.8337080,30.3341631] n3196789047[51.8337238,30.3343159] n3196789042[51.8336259,30.3343423] n3196789041[51.8336102,30.3341895] n3196789046[51.8337080,30.3341631]
 w313669290
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=30 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=30 | addr:street=улица Советская | building=yes
     geometry : n3196788995[51.8313853,30.3328059] n3196788996[51.8314041,30.3329207] n3196788994[51.8313142,30.3329592] n3196788993[51.8312954,30.3328444] n3196788995[51.8313853,30.3328059]
 w313669291
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=31 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=31 | addr:street=улица Советская | building=yes
     geometry : n3196788992[51.8304304,30.3331280] n3196788991[51.8304073,30.3333010] n3196788989[51.8303287,30.3332735] n3196788990[51.8303518,30.3331006] n3196788992[51.8304304,30.3331280]
 w313669292
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=33 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=33 | addr:street=улица Советская | building=yes
     geometry : n3196788988[51.8302346,30.3330537] n3196788987[51.8302209,30.3331991] n3196788985[51.8301129,30.3331724] n3196788986[51.8301266,30.3330270] n3196788988[51.8302346,30.3330537]
 w313669293
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=37 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=37 | addr:street=улица Советская | building=yes
     geometry : n3196788980[51.8299069,30.3329509] n3196788979[51.8298939,30.3330867] n3196788976[51.8297942,30.3330618] n3196788978[51.8298071,30.3329260] n3196788980[51.8299069,30.3329509]
 w313669294
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=39 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=39 | addr:street=улица Советская | building=yes
     geometry : n3196788974[51.8297555,30.3329155] n3196788973[51.8297282,30.3331117] n3196788969[51.8296664,30.3330892] n3196788972[51.8296938,30.3328930] n3196788974[51.8297555,30.3329155]
 w313669295
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=42 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=42 | addr:street=улица Советская | building=yes
     geometry : n3196788984[51.8300261,30.3325667] n3196788983[51.8300108,30.3327501] n3196788981[51.8299233,30.3327310] n3196788982[51.8299386,30.3325476] n3196788984[51.8300261,30.3325667]
 w313669296
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=44 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=44 | addr:street=улица Советская | building=yes
     geometry : n3196788977[51.8297968,30.3325449] n3196788975[51.8297823,30.3326865] n3196788970[51.8296763,30.3326581] n3196788971[51.8296908,30.3325165] n3196788977[51.8297968,30.3325449]
 w313669297
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=6 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=6 | addr:street=улица Советская | building=yes
     geometry : n3196789043[51.8336987,30.3334923] n3196789045[51.8337073,30.3336948] n3196789040[51.8335983,30.3337069] n3196789039[51.8335897,30.3335044] n3196789043[51.8336987,30.3334923]
 w313669298
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=7 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Советская | building=yes
     geometry : n3196789029[51.8332525,30.3342103] n3196789028[51.8332282,30.3344324] n3196789024[51.8331319,30.3344048] n3196789026[51.8331562,30.3341827] n3196789029[51.8332525,30.3342103]
 w313669299
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=8 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Советская | building=yes
     geometry : n3196789032[51.8333795,30.3333424] n3196789033[51.8333808,30.3334730] n3196789031[51.8332662,30.3334759] n3196789030[51.8332649,30.3333453] n3196789032[51.8333795,30.3333424]
 w313680119
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=101 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=101 | addr:street=улица Советская | building=yes
     geometry : n3196928912[51.8228763,30.3383236] n3196928909[51.8228183,30.3384119] n3196928906[51.8227538,30.3383011] n3196928908[51.8228119,30.3382128] n3196928912[51.8228763,30.3383236]
 w313680120
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=102 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=102 | addr:street=улица Советская | building=yes
     geometry : n3196928897[51.8224382,30.3384764] n3196928896[51.8223878,30.3385579] n3196928892[51.8223034,30.3384214] n3196928893[51.8223538,30.3383399] n3196928897[51.8224382,30.3384764]
 w313680121
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=103 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=103 | addr:street=улица Советская | building=yes
     geometry : n3196928900[51.8226007,30.3385027] n3196928899[51.8225343,30.3385931] n3196928901[51.8226063,30.3387313] n3196928903[51.8226726,30.3386408] n3196928900[51.8226007,30.3385027]
 w313680122
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=105 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=105 | addr:street=улица Советская | building=yes
     geometry : n3196928898[51.8224391,30.3390114] n3196928895[51.8223680,30.3391133] n3196928891[51.8222931,30.3389765] n3196928894[51.8223641,30.3388747] n3196928898[51.8224391,30.3390114]
 w313680123
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=107 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=107 | addr:street=улица Советская | building=yes
     geometry : n3196928889[51.8221816,30.3393986] n3196928888[51.8221297,30.3394680] n3196928886[51.8220647,30.3393407] n3196928887[51.8221167,30.3392713] n3196928889[51.8221816,30.3393986]
 w313680124
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=14 | addr:street=улица Луговая | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Луговая | building=yes
     geometry : n3196928874[51.8212513,30.3391833] n3196928873[51.8211987,30.3392722] n3196928871[51.8211281,30.3391628] n3196928872[51.8211806,30.3390740] n3196928874[51.8212513,30.3391833]
 w313680125
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=15 | addr:street=улица Луговая | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Луговая | building=yes
     geometry : n3196928870[51.8210277,30.3381387] n3196928868[51.8209574,30.3382495] n3196928867[51.8208943,30.3381446] n3196928869[51.8209646,30.3380339] n3196928870[51.8210277,30.3381387]
 w313680126
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=17 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Советская | building=yes
     geometry : n3196929471[51.8318810,30.3353884] n3196929470[51.8318733,30.3355219] n3196929468[51.8317653,30.3355055] n3196929469[51.8317731,30.3353720] n3196929471[51.8318810,30.3353884]
 w313680127
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=19 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Советская | building=yes
     geometry : n3196929473[51.8331079,30.3361087] n3196929472[51.8330920,30.3362217] n3196929474[51.8332119,30.3362660] n3196929475[51.8332279,30.3361530] n3196929473[51.8331079,30.3361087]
 w313680128
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=21 | addr:street=улица Луговая | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Луговая | building=yes
     geometry : n3196928880[51.8217973,30.3392869] n3196928877[51.8217163,30.3391887] n3196928875[51.8216514,30.3393286] n3196928878[51.8217324,30.3394269] n3196928880[51.8217973,30.3392869]
 w313680129
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=25 | addr:street=улица Луговая | building=yes
+  other tags : addr:housenumber=25 | addr:street=улица Луговая | building=yes
     geometry : n3196928910[51.8228204,30.3408968] n3196928905[51.8227381,30.3410105] n3196928904[51.8226906,30.3409205] n3196928907[51.8227728,30.3408068] n3196928910[51.8228204,30.3408968]
 w313680130
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=4 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Советская | building=yes
     geometry : n3196929476[51.8339549,30.3335713] n3196929477[51.8339777,30.3337927] n3196929479[51.8340553,30.3337717] n3196929478[51.8340325,30.3335503] n3196929476[51.8339549,30.3335713]
 w313680131
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=75 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=75 | addr:street=улица Советская | building=yes
     geometry : n3196929467[51.8250431,30.3347428] n3196929466[51.8249786,30.3348452] n3196929464[51.8249027,30.3347203] n3196929465[51.8249672,30.3346178] n3196929467[51.8250431,30.3347428]
 w313680132
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=77 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=77 | addr:street=улица Советская | building=yes
     geometry : n3196929463[51.8247433,30.3352007] n3196929462[51.8246697,30.3350845] n3196928960[51.8245898,30.3352170] n3196929461[51.8246634,30.3353333] n3196929463[51.8247433,30.3352007]
 w313680133
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=83 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=83 | addr:street=улица Советская | building=yes
     geometry : n3196928959[51.8243105,30.3359226] n3196928958[51.8242556,30.3360122] n3196928956[51.8241832,30.3358961] n3196928957[51.8242380,30.3358065] n3196928959[51.8243105,30.3359226]
 w313680134
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=85 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=85 | addr:street=улица Советская | building=yes
     geometry : n3196928955[51.8241639,30.3362222] n3196928954[51.8241096,30.3363226] n3196928952[51.8240300,30.3362098] n3196928953[51.8240843,30.3361094] n3196928955[51.8241639,30.3362222]
 w313680135
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=86 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=86 | addr:street=улица Советская | building=yes
     geometry : n3196928950[51.8239840,30.3359531] n3196928948[51.8239253,30.3360579] n3196928943[51.8238427,30.3359369] n3196928946[51.8239014,30.3358321] n3196928950[51.8239840,30.3359531]
 w313680137
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=87 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=87 | addr:street=улица Советская | building=yes
     geometry : n3196928951[51.8240102,30.3365105] n3196928949[51.8239467,30.3366157] n3196928945[51.8238569,30.3364738] n3196928947[51.8239203,30.3363686] n3196928951[51.8240102,30.3365105]
 w313680139
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=88 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=88 | addr:street=улица Советская | building=yes
     geometry : n3196928944[51.8238444,30.3362120] n3196928940[51.8237648,30.3363358] n3196928937[51.8237166,30.3362547] n3196928941[51.8237962,30.3361309] n3196928944[51.8238444,30.3362120]
 w313680140
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=89 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=89 | addr:street=улица Советская | building=yes
     geometry : n3196928942[51.8238165,30.3367719] n3196928939[51.8237604,30.3368756] n3196928936[51.8236841,30.3367676] n3196928938[51.8237401,30.3366639] n3196928942[51.8238165,30.3367719]
 w313680141
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=92 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=92 | addr:street=улица Советская | building=yes
     geometry : n3196928935[51.8236482,30.3365003] n3196928934[51.8236048,30.3365809] n3196928932[51.8235186,30.3364595] n3196928933[51.8235620,30.3363789] n3196928935[51.8236482,30.3365003]
 w313680142
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=94 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=94 | addr:street=улица Советская | building=yes
     geometry : n3196928931[51.8234154,30.3369008] n3196928930[51.8233533,30.3369967] n3196928926[51.8232834,30.3368782] n3196928928[51.8233456,30.3367823] n3196928931[51.8234154,30.3369008]
 w313680144
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=95 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=95 | addr:street=улица Советская | building=yes
     geometry : n3196928929[51.8233528,30.3375319] n3196928927[51.8232868,30.3376340] n3196928923[51.8232132,30.3375095] n3196928925[51.8232792,30.3374074] n3196928929[51.8233528,30.3375319]
 w313680145
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=97 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=97 | addr:street=улица Советская | building=yes
     geometry : n3196928924[51.8232137,30.3377916] n3196928921[51.8231441,30.3378901] n3196928920[51.8230828,30.3377765] n3196928922[51.8231524,30.3376781] n3196928924[51.8232137,30.3377916]
 w313680146
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=98 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=98 | addr:street=улица Советская | building=yes
     geometry : n3196928919[51.8230314,30.3374993] n3196928916[51.8229552,30.3376246] n3196928913[51.8228828,30.3375095] n3196928917[51.8229590,30.3373841] n3196928919[51.8230314,30.3374993]
 w313680147
-  other tags : addr:city=Селец | addr:country=BY | addr:housenumber=99 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=99 | addr:street=улица Советская | building=yes
     geometry : n3196928915[51.8229355,30.3379815] n3196928918[51.8230020,30.3381140] n3196928914[51.8229101,30.3382347] n3196928911[51.8228436,30.3381021] n3196928915[51.8229355,30.3379815]
 w313680148
-  other tags : addr:city=Селец | addr:country=BY | addr:street=улица Луговая | building=yes
+  other tags : addr:street=улица Луговая | building=yes
     geometry : n3196928884[51.8218975,30.3400768] n3196928882[51.8218231,30.3401942] n3196928879[51.8217833,30.3401282] n3196928883[51.8218576,30.3400108] n3196928884[51.8218975,30.3400768]
 w313825995
   other tags : building=yes
@@ -4601,7 +4601,7 @@ w355654091
   other tags : addr:housenumber=1 | addr:street=улица Молодёжная | building=yes
     geometry : n3612325270[51.3402456,30.5824200] n3612325271[51.3402809,30.5825775] n3612325267[51.3401868,30.5826315] n3612325265[51.3401516,30.5824739] n3612325270[51.3402456,30.5824200]
 w355654092
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=10 | addr:street=улица Новая | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Новая | building=yes
     geometry : n3612328334[51.3926032,30.5824417] n3612328333[51.3925946,30.5826358] n3612328327[51.3925087,30.5826261] n3612328328[51.3925173,30.5824319] n3612328334[51.3926032,30.5824417]
 w355654093
   other tags : addr:housenumber=15 | addr:street=улица Молодёжная | building=yes
@@ -4625,16 +4625,16 @@ w355654099
   other tags : addr:housenumber=22 | addr:street=улица Колхозная | building=yes
     geometry : n3612328216[51.3415240,30.5812460] n3612328218[51.3415588,30.5814085] n3612328207[51.3413428,30.5815272] n3612328205[51.3413080,30.5813647] n3612328216[51.3415240,30.5812460]
 w355654100
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=4 | addr:street=улица Новая | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Новая | building=yes
     geometry : n3612328322[51.3924359,30.5812505] n3612328321[51.3924237,30.5814547] n3612328316[51.3923088,30.5814371] n3612328318[51.3923209,30.5812329] n3612328322[51.3924359,30.5812505]
 w355654101
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=6 | addr:street=улица Новая | building=yes
+  other tags : addr:housenumber=6 | addr:street=улица Новая | building=yes
     geometry : n3612328330[51.3925445,30.5816609] n3612328329[51.3925391,30.5818613] n3612328323[51.3924377,30.5818543] n3612328324[51.3924430,30.5816539] n3612328330[51.3925445,30.5816609]
 w355654102
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=8 | addr:street=улица Новая | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Новая | building=yes
     geometry : n3612328332[51.3925829,30.5820524] n3612328331[51.3925737,30.5822482] n3612328325[51.3924772,30.5822366] n3612328326[51.3924864,30.5820408] n3612328332[51.3925829,30.5820524]
 w355654107
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=16 | addr:street=улица Молодёжная | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Молодёжная | building=yes
     geometry : n3612328227[51.3419474,30.5831068] n3612328228[51.3419730,30.5832298] n3612328226[51.3418538,30.5832935] n3612328225[51.3418282,30.5831704] n3612328227[51.3419474,30.5831068]
 w355654108
   other tags : building=yes
@@ -4658,214 +4658,214 @@ w355654114
   other tags : building=yes
     geometry : n3612328199[51.3411854,30.5828691] n3612328200[51.3412108,30.5830028] n3612328195[51.3410962,30.5830586] n3612328194[51.3410708,30.5829248] n3612328199[51.3411854,30.5828691]
 w355654121
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=77 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=77 | addr:street=улица Кирова | building=yes
     geometry : n3612328378[51.3947385,30.5849455] n3612328377[51.3947343,30.5851027] n3612328374[51.3946451,30.5850966] n3612328373[51.3946494,30.5849393] n3612328378[51.3947385,30.5849455]
 w355654122
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612328562[51.4152771,30.5243980] n3612328563[51.4153020,30.5244877] n3612328556[51.4152028,30.5245588] n3612328555[51.4151779,30.5244691] n3612328562[51.4152771,30.5243980]
 w355654124
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=4-1 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=4 к1 | addr:street=улица Совхозная | building=yes
     geometry : n3612328576[51.4158217,30.5248516] n3612328573[51.4157117,30.5249421] n3612328571[51.4156421,30.5247246] n3612328574[51.4157521,30.5246342] n3612328576[51.4158217,30.5248516]
 w355654131
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=2а | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=2А | addr:street=улица Совхозная | building=yes
     geometry : n3612328578[51.4158786,30.5251423] n3612328580[51.4159348,30.5253141] n3612328577[51.4158461,30.5253887] n3612328575[51.4157899,30.5252169] n3612328578[51.4158786,30.5251423]
 w355654134
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=42 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=42 | addr:street=улица Кирова | building=yes
     geometry : n3612328481[51.4010802,30.5837566] n3612328482[51.4011250,30.5838922] n3612328480[51.4010417,30.5839760] n3612328479[51.4009919,30.5838404] n3612328481[51.4010802,30.5837566]
 w355654136
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=72А | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=72А | addr:street=улица Кирова | building=yes
     geometry : n3612328391[51.3952408,30.5844597] n3612328390[51.3952310,30.5846033] n3612328387[51.3951377,30.5845871] n3612328389[51.3951475,30.5844435] n3612328391[51.3952408,30.5844597]
 w355654138
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=52 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=52 | addr:street=улица Кирова | building=yes
     geometry : n3612328457[51.3994727,30.5844924] n3612328456[51.3994655,30.5846557] n3612328451[51.3993627,30.5846441] n3612328452[51.3993698,30.5844809] n3612328457[51.3994727,30.5844924]
 w355654141
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=100 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=100 | addr:street=улица Кирова | building=yes
     geometry : n3612328313[51.3917315,30.5845952] n3612328312[51.3917236,30.5847900] n3612328309[51.3916348,30.5847808] n3612328310[51.3916427,30.5845859] n3612328313[51.3917315,30.5845952]
 w355654145
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=8 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Совхозная | building=yes
     geometry : n3612328566[51.4154224,30.5237291] n3612328567[51.4154680,30.5238677] n3612328565[51.4153973,30.5239276] n3612328564[51.4153516,30.5237890] n3612328566[51.4154224,30.5237291]
 w355654146
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=102 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=102 | addr:street=улица Кирова | building=yes
     geometry : n3612328304[51.3914915,30.5846168] n3612328303[51.3914825,30.5847846] n3612328299[51.3913844,30.5847711] n3612328300[51.3913934,30.5846033] n3612328304[51.3914915,30.5846168]
 w355654147
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=20 | addr:street=улица Песочная | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Песочная | building=yes
     geometry : n3612328288[51.3907119,30.5781804] n3612328289[51.3908392,30.5781972] n3612328284[51.3908464,30.5780569] n3612328283[51.3907191,30.5780401] n3612328288[51.3907119,30.5781804]
 w355654149
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=55 | building=yes
+  other tags : addr:housenumber=55 | addr:street=улица Кирова | building=yes
     geometry : n3612328465[51.3996726,30.5848771] n3612328464[51.3996651,30.5850891] n3612328460[51.3995665,30.5850802] n3612328461[51.3995740,30.5848682] n3612328465[51.3996726,30.5848771]
 w355654150
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612328570[51.4155848,30.5241672] n3612328572[51.4156739,30.5244385] n3612328569[51.4155837,30.5245146] n3612328568[51.4154946,30.5242433] n3612328570[51.4155848,30.5241672]
 w355654152
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=58 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=58 | addr:street=улица Кирова | building=yes
     geometry : n3612328435[51.3979169,30.5845187] n3612328436[51.3979179,30.5846683] n3612328431[51.3978364,30.5846697] n3612328432[51.3978354,30.5845201] n3612328435[51.3979169,30.5845187]
 w355654154
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=17 | addr:street=улица Лесная | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Лесная | building=yes
     geometry : n3612328405[51.3955914,30.5871127] n3612328403[51.3955536,30.5872254] n3612328400[51.3954734,30.5871563] n3612328401[51.3955111,30.5870436] n3612328405[51.3955914,30.5871127]
 w355654155
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=50 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=50 | addr:street=улица Кирова | building=yes
     geometry : n3612328462[51.3996421,30.5844154] n3612328463[51.3996442,30.5846019] n3612328459[51.3995527,30.5846045] n3612328458[51.3995507,30.5844180] n3612328462[51.3996421,30.5844154]
 w355654156
   other tags : building=yes
     geometry : n3614590800[51.3943187,30.5849866] n3614590801[51.3943257,30.5849854]
 w355654158
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=16 | addr:street=улица Лесная | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Лесная | building=yes
     geometry : n3612328399[51.3954519,30.5875358] n3612328396[51.3953836,30.5876888] n3612328392[51.3953130,30.5876078] n3612328395[51.3953813,30.5874548] n3612328399[51.3954519,30.5875358]
 w355654160
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=14 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Кирова | building=yes
     geometry : n3612328525[51.4043633,30.5811273] n3612328524[51.4043540,30.5813245] n3612328522[51.4042537,30.5813124] n3612328523[51.4042629,30.5811152] n3612328525[51.4043633,30.5811273]
 w355654161
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612328537[51.4148604,30.5228209] n3612328538[51.4148855,30.5229114] n3612328536[51.4147896,30.5229798] n3612328535[51.4147645,30.5228893] n3612328537[51.4148604,30.5228209]
 w355654165
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=11 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Совхозная | building=yes
     geometry : n3612328544[51.4150176,30.5232208] n3612328546[51.4150463,30.5233179] n3612328540[51.4149338,30.5234034] n3612328539[51.4149051,30.5233063] n3612328544[51.4150176,30.5232208]
 w355654170
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=72В | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=72В | addr:street=улица Кирова | building=yes
     geometry : n3612328376[51.3946824,30.5846713] n3612328375[51.3946706,30.5844823] n3614590805[51.3945908,30.5844951] n3614590807[51.3946026,30.5846841] n3612328376[51.3946824,30.5846713]
 w355654172
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612328557[51.4152122,30.5241096] n3612328560[51.4152447,30.5241923] n3612328553[51.4151449,30.5242930] n3612328548[51.4151124,30.5242103] n3612328557[51.4152122,30.5241096]
 w355654174
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=97 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=97 | addr:street=улица Кирова | building=yes
     geometry : n3612328319[51.3923367,30.5852221] n3612328317[51.3923170,30.5853825] n3612328314[51.3922217,30.5853524] n3612328315[51.3922415,30.5851920] n3612328319[51.3923367,30.5852221]
 w355654175
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=74 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=74 | addr:street=улица Кирова | building=yes
     geometry : n3612328365[51.3942151,30.5846107] n3612328366[51.3942211,30.5847221] n3612328364[51.3941257,30.5847353] n3612328363[51.3941197,30.5846239] n3612328365[51.3942151,30.5846107]
 w355654176
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=14 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Совхозная | building=yes
     geometry : n3612328549[51.4151155,30.5226118] n3612328552[51.4151447,30.5227129] n3612328545[51.4150521,30.5227815] n3612328543[51.4150230,30.5226805] n3612328549[51.4151155,30.5226118]
 w355654178
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612328583[51.4160307,30.5255289] n3612328584[51.4160676,30.5256612] n3612328581[51.4159475,30.5257472] n3612328579[51.4159106,30.5256149] n3612328583[51.4160307,30.5255289]
 w355654179
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=53 | addr:street=улица Песочная | building=yes
+  other tags : addr:housenumber=53 | addr:street=улица Песочная | building=yes
     geometry : n3612328240[51.3887247,30.5752152] n3612328242[51.3887844,30.5753386] n3612328239[51.3886902,30.5754554] n3612328236[51.3886306,30.5753320] n3612328240[51.3887247,30.5752152]
 w355654183
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=9 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Совхозная | building=yes
     geometry : n3612328547[51.4151043,30.5236273] n3612328551[51.4151352,30.5237183] n3612328542[51.4149872,30.5238477] n3612328541[51.4149562,30.5237567] n3612328547[51.4151043,30.5236273]
 w355654186
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=54 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=54 | addr:street=улица Кирова | building=yes
     geometry : n3612328448[51.3991279,30.5845029] n3612328447[51.3991218,30.5846239] n3612328445[51.3990200,30.5846107] n3612328446[51.3990261,30.5844897] n3612328448[51.3991279,30.5845029]
 w355654190
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=75 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=75 | addr:street=улица Кирова | building=yes
     geometry : n3612328386[51.3950916,30.5849725] n3612328385[51.3950878,30.5851481] n3612328381[51.3949279,30.5851393] n3612328382[51.3949317,30.5849637] n3612328386[51.3950916,30.5849725]
 w355654191
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=93 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=93 | addr:street=улица Кирова | building=yes
     geometry : n3612328338[51.3927414,30.5852515] n3612328337[51.3927252,30.5854087] n3612328335[51.3926309,30.5853838] n3612328336[51.3926471,30.5852266] n3612328338[51.3927414,30.5852515]
 w355654192
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=56 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=56 | addr:street=улица Кирова | building=yes
     geometry : n3612328444[51.3988571,30.5844225] n3612328443[51.3988476,30.5845952] n3612328441[51.3986649,30.5845695] n3612328442[51.3986744,30.5843968] n3612328444[51.3988571,30.5844225]
 w355654194
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=12 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Совхозная | building=yes
     geometry : n3612328559[51.4152373,30.5229862] n3612328561[51.4152623,30.5230646] n3612328554[51.4151615,30.5231472] n3612328550[51.4151300,30.5230486] n3612328558[51.4152308,30.5229659] n3612328559[51.4152373,30.5229862]
 w355751665
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=1 | building=yes
+  other tags : addr:housenumber=1 | building=yes
     geometry : n3612913935[51.4397579,30.5275120] n3612913934[51.4397314,30.5276765] n3612913932[51.4396412,30.5276391] n3612913933[51.4396676,30.5274746] n3612913935[51.4397579,30.5275120]
 w355751666
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=1 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Садовая | building=yes
     geometry : n3612913930[51.4395047,30.5261943] n3612913931[51.4395220,30.5263869] n3612913929[51.4394525,30.5264030] n3612913928[51.4394352,30.5262104] n3612913930[51.4395047,30.5261943]
 w355751667
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=1 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Совхозная | building=yes
     geometry : n3612913680[51.4156481,30.5258182] n3612913681[51.4156766,30.5259181] n3612913679[51.4155585,30.5260047] n3612913678[51.4155300,30.5259048] n3612913680[51.4156481,30.5258182]
 w355751668
-  other tags : addr:city=деревня Гдень | addr:country=BY | addr:housenumber=1 | addr:street=улица Шпетного | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Шпетного | building=yes
     geometry : n3612913349[51.3156337,30.4256504] n3612913350[51.3156935,30.4257243] n3612913348[51.3156163,30.4258841] n3612913347[51.3155565,30.4258103] n3612913349[51.3156337,30.4256504]
 w355751670
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=13 | addr:street=улица Лесная | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Лесная | building=yes
     geometry : n3612913611[51.3960265,30.5864543] n3612913610[51.3959718,30.5866116] n3612913608[51.3959089,30.5865555] n3612913609[51.3959636,30.5863982] n3612913611[51.3960265,30.5864543]
 w355751671
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=13 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Днепровская | building=yes
     geometry : n3612913917[51.4375181,30.5294921] n3612913918[51.4375598,30.5296309] n3612913916[51.4374669,30.5297026] n3612913915[51.4374252,30.5295638] n3612913917[51.4375181,30.5294921]
 w355751672
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=14 | addr:street=улица Песочная | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Песочная | building=yes
     geometry : n3612913382[51.3902781,30.5775235] n3612913383[51.3903146,30.5777023] n3612913381[51.3901820,30.5777718] n3612913380[51.3901455,30.5775930] n3612913382[51.3902781,30.5775235]
 w355751676
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=18 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=18 | addr:street=улица Днепровская | building=yes
     geometry : n3612913922[51.4386908,30.5308886] n3612913921[51.4386339,30.5310403] n3612913919[51.4385689,30.5309775] n3612913920[51.4386258,30.5308258] n3612913922[51.4386908,30.5308886]
 w355751680
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=18 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=18 | addr:street=улица Совхозная | building=yes
     geometry : n3612913619[51.4068554,30.5032320] n3612913620[51.4069142,30.5034511] n3612913618[51.4068102,30.5035228] n3612913617[51.4067514,30.5033037] n3612913619[51.4068554,30.5032320]
 w355751682
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=19 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Садовая | building=yes
     geometry : n3612913906[51.4355494,30.5299827] n3612913910[51.4356107,30.5301618] n3612913907[51.4355677,30.5301996] n3612913904[51.4355259,30.5302365] n3612913902[51.4354646,30.5300574] n3612913906[51.4355494,30.5299827]
 w355751684
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=19 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Совхозная | building=yes
     geometry : n3612913668[51.4136617,30.5188850] n3612913669[51.4137118,30.5190351] n3612913667[51.4136520,30.5190865] n3612913666[51.4136018,30.5189364] n3612913668[51.4136617,30.5188850]
 w355751687
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=2 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Днепровская | building=yes
     geometry : n3612913947[51.4408281,30.5311853] n3612913946[51.4408257,30.5313621] n3612913944[51.4407291,30.5313587] n3612913945[51.4407316,30.5311819] n3612913947[51.4408281,30.5311853]
 w355751689
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=2 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Садовая | building=yes
     geometry : n3612913926[51.4391745,30.5264635] n3612913927[51.4392062,30.5266581] n3612913924[51.4391367,30.5266873] n3612913923[51.4391049,30.5264928] n3612913926[51.4391745,30.5264635]
 w355751690
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=21 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Днепровская | building=yes
     geometry : n3612913913[51.4369859,30.5275071] n3612913914[51.4370220,30.5276386] n3612913912[51.4369211,30.5277100] n3612913911[51.4368850,30.5275785] n3612913913[51.4369859,30.5275071]
 w355751692
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=21 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Садовая | building=yes
     geometry : n3612913900[51.4351210,30.5302786] n3612913901[51.4351653,30.5304308] n3612913899[51.4350898,30.5304873] n3612913898[51.4350455,30.5303351] n3612913900[51.4351210,30.5302786]
 w355751694
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=22 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=22 | addr:street=улица Садовая | building=yes
     geometry : n3612913908[51.4355726,30.5294356] n3612913909[51.4356093,30.5295889] n3612913905[51.4355424,30.5296302] n3612913903[51.4355057,30.5294769] n3612913908[51.4355726,30.5294356]
 w355751695
-  other tags : addr:city=деревня Гдень | addr:country=BY | addr:housenumber=26 | addr:street=улица Шпетного | building=yes
+  other tags : addr:housenumber=26 | addr:street=улица Шпетного | building=yes
     geometry : n3612913354[51.3235719,30.4303007] n3612913355[51.3236148,30.4303936] n3612913353[51.3235120,30.4305155] n3612913352[51.3234764,30.4304236] n3612913354[51.3235719,30.4303007]
 w355751697
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=27 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=27 | addr:street=улица Садовая | building=yes
     geometry : n3612913896[51.4341120,30.5307077] n3612913897[51.4341486,30.5308659] n3612913895[51.4340666,30.5309147] n3612913894[51.4340300,30.5307565] n3612913896[51.4341120,30.5307077]
 w355751698
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=37 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=37 | addr:street=улица Садовая | building=yes
     geometry : n3612913893[51.4336922,30.5335208] n3612913692[51.4336195,30.5337395] n3612913690[51.4335355,30.5336265] n3612913691[51.4336082,30.5334370] n3612913893[51.4336922,30.5335208]
 w355751699
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=38 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=38 | addr:street=улица Совхозная | building=yes
     geometry : n3612913661[51.4114418,30.5131251] n3612913657[51.4113586,30.5131676] n3612913656[51.4113292,30.5130196] n3612913659[51.4114124,30.5129771] n3612913661[51.4114418,30.5131251]
 w355751700
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=39 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=39 | addr:street=улица Совхозная | building=yes
     geometry : n3612913664[51.4115893,30.5117314] n3612913665[51.4116160,30.5118354] n3612913663[51.4114864,30.5119206] n3612913662[51.4114598,30.5118165] n3612913664[51.4115893,30.5117314]
 w355751701
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=4 | building=yes
+  other tags : addr:housenumber=4 | building=yes
     geometry : n3612913943[51.4404716,30.5284037] n3612913942[51.4404270,30.5285815] n3612913940[51.4403386,30.5285243] n3612913941[51.4403832,30.5283465] n3612913943[51.4404716,30.5284037]
 w355751702
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=41 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=41 | addr:street=улица Совхозная | building=yes
     geometry : n3612913658[51.4113865,30.5112748] n3612913660[51.4114162,30.5113617] n3612913655[51.4113158,30.5114498] n3612913654[51.4112861,30.5113629] n3612913658[51.4113865,30.5112748]
 w355751707
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=49 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=49 | addr:street=улица Совхозная | building=yes
     geometry : n3612913652[51.4105078,30.5105083] n3612913653[51.4105590,30.5106569] n3612913650[51.4104454,30.5107576] n3612913648[51.4103941,30.5106089] n3612913652[51.4105078,30.5105083]
 w355751708
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=53 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=53 | addr:street=улица Совхозная | building=yes
     geometry : n3612913642[51.4101148,30.5098591] n3612913644[51.4101544,30.5099778] n3612913640[51.4100480,30.5100690] n3612913638[51.4100084,30.5099503] n3612913642[51.4101148,30.5098591]
 w355751709
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=58 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=58 | addr:street=улица Садовая | building=yes
     geometry : n3612913689[51.4293399,30.5296312] n3612913688[51.4293069,30.5297771] n3612913686[51.4292445,30.5297407] n3612913687[51.4292775,30.5295948] n3612913689[51.4293399,30.5296312]
 w355751710
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=59 | addr:street=улица Садовая | building=yes
+  other tags : addr:housenumber=59 | addr:street=улица Садовая | building=yes
     geometry : n3612913685[51.4282849,30.5291910] n3612913684[51.4282541,30.5293737] n3612913682[51.4281479,30.5293277] n3612913683[51.4281786,30.5291450] n3612913685[51.4282849,30.5291910]
 w355751711
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=60 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=60 | addr:street=улица Совхозная | building=yes
     geometry : n3612913649[51.4104366,30.5094101] n3612913651[51.4104706,30.5095196] n3612913647[51.4103662,30.5096030] n3612913646[51.4103321,30.5094935] n3612913649[51.4104366,30.5094101]
 w355751712
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=62 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=62 | addr:street=улица Совхозная | building=yes
     geometry : n3612913643[51.4101393,30.5089258] n3612913645[51.4101706,30.5090240] n3612913641[51.4100745,30.5091028] n3612913639[51.4100432,30.5090046] n3612913643[51.4101393,30.5089258]
 w355751713
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=68 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=68 | addr:street=улица Совхозная | building=yes
     geometry : n3612913636[51.4094601,30.5062665] n3612913637[51.4094965,30.5063950] n3612913635[51.4093661,30.5064901] n3612913634[51.4093297,30.5063617] n3612913636[51.4094601,30.5062665]
 w355751715
-  other tags : addr:city=деревня Иванки | addr:country=BY | addr:housenumber=8 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Днепровская | building=yes
     geometry : n3612913939[51.4400659,30.5313411] n3612913938[51.4400186,30.5315462] n3612913936[51.4399375,30.5314981] n3612913937[51.4399847,30.5312930] n3612913939[51.4400659,30.5313411]
 w355751716
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=84 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=84 | addr:street=улица Совхозная | building=yes
     geometry : n3612913627[51.4085496,30.5037599] n3612913628[51.4085781,30.5038751] n3612913626[51.4084737,30.5039415] n3612913625[51.4084452,30.5038263] n3612913627[51.4085496,30.5037599]
 w355751718
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:housenumber=86 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=86 | addr:street=улица Совхозная | building=yes
     geometry : n3612913623[51.4081049,30.5021439] n3612913624[51.4081642,30.5023067] n3612913622[51.4081043,30.5023629] n3612913621[51.4080449,30.5022001] n3612913623[51.4081049,30.5021439]
 w355751722
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612913672[51.4144033,30.5158472] n3612913670[51.4143440,30.5158887] n3612913671[51.4143854,30.5160409] n3612913673[51.4144447,30.5159995] n3612913672[51.4144033,30.5158472]
 w355751723
-  other tags : addr:city=деревня Карловка | addr:country=BY | addr:street=улица Совхозная | building=yes
+  other tags : addr:street=улица Совхозная | building=yes
     geometry : n3612913676[51.4152863,30.5150531] n3612913677[51.4152876,30.5152680] n3612913675[51.4152159,30.5152691] n3612913674[51.4152146,30.5150542] n3612913676[51.4152863,30.5150531]
 w355944050
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=32 | addr:street=переулок 1-й Приозёрный | building=yes
+  other tags : addr:housenumber=32 | addr:street=переулок 1-й Приозёрный | building=yes
     geometry : n3614590798[51.3908210,30.5944767] n3614590799[51.3908248,30.5946263] n3614590797[51.3907567,30.5946306] n3614590796[51.3907529,30.5944811] n3614590798[51.3908210,30.5944767]
 w355944053
   other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=72Б-1 | addr:street=улица Кирова | building=yes
@@ -4874,10 +4874,10 @@ w355944056
   other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=72Б-2 | addr:street=улица Кирова | building=yes
     geometry : n3614590809[51.3948906,30.5844605] n3612328383[51.3949563,30.5844505] n3612328384[51.3949667,30.5846133] n3614590811[51.3949011,30.5846233] n3614590809[51.3948906,30.5844605]
 w355944060
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=79-1 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=79 к1 | addr:street=улица Кирова | building=yes
     geometry : n3614590801[51.3943257,30.5849854] n3612328369[51.3943986,30.5849725] n3612328370[51.3944126,30.5851768] n3614590803[51.3943394,30.5851898] n3614590801[51.3943257,30.5849854]
 w355944064
-  other tags : addr:housenumber=79-2 | building=yes
+  other tags : addr:housenumber=79 к2 | addr:street=улица Кирова | building=yes
     geometry : n3614590800[51.3943187,30.5849866] n3614590802[51.3943330,30.5851909] n3612328368[51.3942520,30.5852052] n3612328367[51.3942380,30.5850009] n3614590800[51.3943187,30.5849866]
 w355944066
   other tags : building=yes
@@ -4886,40 +4886,40 @@ w355944068
   other tags : building=yes
     geometry : n3614590806[51.3946002,30.5846844] n3612328372[51.3945195,30.5846974] n3612328371[51.3945077,30.5845084] n3614590804[51.3945876,30.5844956] n3614590806[51.3946002,30.5846844]
 w356298111
-  other tags : addr:city=Малейки | addr:country=BY | addr:housenumber=10А | addr:street=Октябрьская улица | building=yes
+  other tags : addr:housenumber=10А | addr:street=Октябрьская улица | building=yes
     geometry : n3617518023[51.8047935,30.3220339] n3617518022[51.8047908,30.3222262] n3617518020[51.8046789,30.3222222] n3617518021[51.8046815,30.3220299] n3617518023[51.8047935,30.3220339]
 w356298112
-  other tags : addr:city=Малейки | addr:country=BY | addr:housenumber=10Б | addr:street=Октябрьская улица | building=yes
+  other tags : addr:housenumber=10Б | addr:street=Октябрьская улица | building=yes
     geometry : n3617518019[51.8045789,30.3220271] n3617518018[51.8045730,30.3222208] n3617518016[51.8044498,30.3222109] n3617518017[51.8044558,30.3220172] n3617518019[51.8045789,30.3220271]
 w356298113
-  other tags : addr:city=Маложин | addr:country=BY | addr:housenumber=12 | addr:street=Кольцевая улица | building=yes
+  other tags : addr:housenumber=12 | addr:street=Кольцевая улица | building=yes
     geometry : n3617518015[51.7378607,30.5003055] n3617518014[51.7378049,30.5004516] n3617518012[51.7377321,30.5003791] n3617518013[51.7377879,30.5002330] n3617518015[51.7378607,30.5003055]
 w356475093
-  other tags : addr:city=Ковали | addr:country=BY | addr:housenumber=15 | addr:street=улица Победы | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Победы | building=yes
     geometry : n3619149170[51.8083415,30.1593318] n3619149169[51.8083216,30.1594550] n3619149167[51.8081478,30.1593816] n3619149168[51.8081677,30.1592584] n3619149170[51.8083415,30.1593318]
 w356475094
-  other tags : addr:city=Чемерисы | addr:country=BY | addr:housenumber=28 | addr:street=Западная улица | building=yes
+  other tags : addr:housenumber=28 | addr:street=Западная улица | building=yes
     geometry : n3619149166[51.7090689,30.4470076] n3619149164[51.7090031,30.4471489] n3619149163[51.7089515,30.4470862] n3619149165[51.7090172,30.4469450] n3619149166[51.7090689,30.4470076]
 w356586125
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=108 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=108 | addr:street=улица Кирова | building=yes
     geometry : n3619916678[51.3895825,30.5876868] n3619916679[51.3895848,30.5878100] n3619916677[51.3895047,30.5878140] n3619916676[51.3895023,30.5876908] n3619916678[51.3895825,30.5876868]
 w356586127
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=99 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=99 | addr:street=улица Кирова | building=yes
     geometry : n3619916683[51.3923002,30.5858934] n3619916682[51.3922874,30.5860292] n3619916680[51.3921879,30.5860050] n3619916681[51.3922008,30.5858692] n3619916683[51.3923002,30.5858934]
 w357800722
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=11 | addr:street=улица Колхозная | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Колхозная | building=yes
     geometry : n3629242979[51.3354268,30.5799081] n3629242980[51.3354610,30.5800261] n3629242976[51.3353758,30.5800892] n3629242975[51.3353417,30.5799712] n3629242979[51.3354268,30.5799081]
 w357800724
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=11 | addr:street=улица Набережная | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Набережная | building=yes
     geometry : n3629242977[51.3353767,30.5934413] n3629242978[51.3353863,30.5935979] n3629242974[51.3352919,30.5936128] n3629242973[51.3352823,30.5934561] n3629242977[51.3353767,30.5934413]
 w357800729
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=12 | addr:street=улица Набережная | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Набережная | building=yes
     geometry : n3629243413[51.3409724,30.5912025] n3629243414[51.3410072,30.5913159] n3629243412[51.3409192,30.5913849] n3629243411[51.3408845,30.5912714] n3629243413[51.3409724,30.5912025]
 w357800733
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=13 | addr:street=улица Набережная | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Набережная | building=yes
     geometry : n3629242984[51.3366539,30.5936935] n3629242985[51.3366947,30.5937873] n3629242983[51.3366200,30.5938705] n3629242982[51.3365792,30.5937767] n3629242984[51.3366539,30.5936935]
 w357800734
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=16 | addr:street=улица Школьная | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Школьная | building=yes
     geometry : n3629243397[51.3371648,30.5895358] n3629243398[51.3371893,30.5898037] n3629243395[51.3369911,30.5898502] n3629243393[51.3369666,30.5895822] n3629243397[51.3371648,30.5895358]
 w357800737
   other tags : addr:housenumber=24 | building=yes
@@ -4928,52 +4928,52 @@ w357800738
   other tags : addr:housenumber=24 | building=yes
     geometry : n3629242943[51.2953976,30.5664742] n3629242944[51.2954078,30.5666738] n3629242941[51.2953007,30.5666920] n3629242940[51.2952914,30.5664860]
 w357800739
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=24 | addr:street=улица Школьная | building=yes
+  other tags : addr:housenumber=24 | addr:street=улица Школьная | building=yes
     geometry : n3629243409[51.3404188,30.5895712] n3629243408[51.3404026,30.5896905] n3629243406[51.3402970,30.5896538] n3629243407[51.3403132,30.5895345] n3629243409[51.3404188,30.5895712]
 w357800740
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=28 | addr:street=улица Полесская | building=yes
+  other tags : addr:housenumber=28 | addr:street=улица Полесская | building=yes
     geometry : n3629242971[51.3348604,30.5848522] n3629242972[51.3348607,30.5849945] n3629242970[51.3347590,30.5849952] n3629242969[51.3347586,30.5848528] n3629242971[51.3348604,30.5848522]
 w357800741
   other tags : addr:housenumber=49 | building=yes
     geometry : n3629242940[51.2952914,30.5664860] n3629242939[51.2952800,30.5662992] n3629242942[51.2953873,30.5662873] n3629242943[51.2953976,30.5664742]
 w357800744
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=7 | addr:street=Колхозная улица | building=yes
+  other tags : addr:housenumber=7 | addr:street=Колхозная улица | building=yes
     geometry : n3629242967[51.3321020,30.5802195] n3629242968[51.3321299,30.5803293] n3629242966[51.3320281,30.5803956] n3629242965[51.3320002,30.5802858] n3629242967[51.3321020,30.5802195]
 w357800745
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=8 | addr:street=улица Днепровская | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Днепровская | building=yes
     geometry : n3629242990[51.3368667,30.5925686] n3629242991[51.3368952,30.5927151] n3629242988[51.3367877,30.5927685] n3629242986[51.3367592,30.5926220] n3629242990[51.3368667,30.5925686]
 w358186126
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=10 | addr:street=улица Совхозная | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Совхозная | building=yes
     geometry : n3631492548[51.4679746,30.5442522] n3631492549[51.4680108,30.5444232] n3631492547[51.4679256,30.5444676] n3631492546[51.4678851,30.5443069] n3631492548[51.4679746,30.5442522]
 w358186133
-  other tags : addr:city=деревня Голубовка | addr:country=BY | addr:housenumber=13 | addr:street=улица Первомайская | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Первомайская | building=yes
     geometry : n3631492565[51.4871200,30.5084303] n3631492564[51.4871106,30.5086169] n3631492562[51.4870105,30.5086038] n3631492563[51.4870199,30.5084172] n3631492565[51.4871200,30.5084303]
 w358186138
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=14 | addr:street=улица Пригородная | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Пригородная | building=yes
     geometry : n3631492533[51.4578943,30.5357981] n3631492532[51.4578915,30.5359475] n3631492530[51.4578136,30.5359438] n3631492531[51.4578164,30.5357943] n3631492533[51.4578943,30.5357981]
 w358186143
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=2 | addr:street=улица Первомайская | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Первомайская | building=yes
     geometry : n3631492544[51.4656218,30.5498471] n3631492545[51.4656604,30.5500185] n3631492543[51.4655636,30.5500746] n3631492542[51.4655251,30.5499032] n3631492544[51.4656218,30.5498471]
 w358186148
-  other tags : addr:city=деревня Голубовка | addr:country=BY | addr:housenumber=20 | addr:street=улица Аэродромная | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Аэродромная | building=yes
     geometry : n3631492569[51.4877438,30.5111700] n3631492568[51.4877109,30.5113416] n3631492566[51.4876269,30.5113001] n3631492567[51.4876598,30.5111285] n3631492569[51.4877438,30.5111700]
 w358186153
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=21 | addr:street=улица Первомайская | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Первомайская | building=yes
     geometry : n3631492540[51.4645909,30.5406367] n3631492541[51.4646405,30.5407587] n3631492539[51.4645386,30.5408654] n3631492538[51.4644890,30.5407435] n3631492540[51.4645909,30.5406367]
 w358186157
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=3 | addr:street=улица Пригородная | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Пригородная | building=yes
     geometry : n3631492537[51.4601450,30.5365013] n3631492536[51.4601415,30.5366391] n3631492534[51.4600667,30.5366343] n3631492535[51.4600701,30.5364965] n3631492537[51.4601450,30.5365013]
 w358186162
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=34 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=34 | addr:street=улица Советская | building=yes
     geometry : n3631492556[51.4722068,30.5472769] n3631492557[51.4722475,30.5473696] n3631492555[51.4721899,30.5474347] n3631492554[51.4721492,30.5473421] n3631492556[51.4722068,30.5472769]
 w358186165
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=4 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Советская | building=yes
     geometry : n3631492561[51.4784135,30.5346287] n3631492559[51.4783430,30.5346902] n3631492558[51.4782937,30.5345442] n3631492560[51.4783642,30.5344828] n3631492561[51.4784135,30.5346287]
 w358186168
-  other tags : addr:city=деревня Голубовка | addr:country=BY | addr:housenumber=7 | addr:street=улица Аэродромная | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Аэродромная | building=yes
     geometry : n3631492572[51.4931453,30.5097940] n3631492573[51.4931512,30.5099721] n3631492571[51.4930664,30.5099793] n3631492570[51.4930605,30.5098012] n3631492572[51.4931453,30.5097940]
 w358186169
-  other tags : addr:city=деревня Берёзки | addr:country=BY | addr:housenumber=71 | addr:street=улица Советская | building=yes
+  other tags : addr:housenumber=71 | addr:street=улица Советская | building=yes
     geometry : n3631492552[51.4710591,30.5470536] n3631492553[51.4710963,30.5472049] n3631492551[51.4710228,30.5472515] n3631492550[51.4709856,30.5471002] n3631492552[51.4710591,30.5470536]
 w359117970
   other tags : building=yes
@@ -4982,7 +4982,7 @@ w359117981
   other tags : building=yes
     geometry : n3638968265[51.4968791,30.5263524] n3638968266[51.4968704,30.5267119] n3638968267[51.4967921,30.5267071] n3638968268[51.4968007,30.5263475] n3638968265[51.4968791,30.5263524]
 w359117991  null / null / Иолча
-  other tags : area=yes | building=yes | railway=station
+  other tags : building=yes | railway=station
     geometry : n3638968319[51.4962811,30.5203122] n3638968320[51.4962703,30.5206258] n3638968321[51.4961653,30.5206164] n3638968322[51.4961761,30.5203028] n3638968319[51.4962811,30.5203122]
 w359117992
   other tags : building=yes
@@ -4994,17 +4994,17 @@ w359117994
   other tags : building=yes
     geometry : n3638968331[51.4963421,30.5227894] n3638968332[51.4961818,30.5227948] n3638968333[51.4961684,30.5230898] n3638968334[51.4963354,30.5231005] n3638968331[51.4963421,30.5227894]
 w360555959
-  other tags : addr:city=деревня Кирово | addr:country=BY | addr:housenumber=12 | addr:street=улица Кирова | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Кирова | building=yes
     geometry : n3650763772[51.4046722,30.5810314] n3650763771[51.4046628,30.5812030] n3650763769[51.4045906,30.5811929] n3650763770[51.4045999,30.5810213] n3650763772[51.4046722,30.5810314]
 w360555960
-  other tags : addr:city=деревня Новая Иолча | addr:country=BY | addr:housenumber=20 | addr:street=улица Железнодорожная | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Железнодорожная | building=yes
     geometry : n3650763786[51.5002384,30.5235588] n3650763785[51.5001794,30.5236593] n3650763783[51.5001148,30.5235614] n3650763784[51.5001737,30.5234609] n3650763786[51.5002384,30.5235588]
 w360555961
-  other tags : addr:city=деревня Верхние Жары | addr:country=BY | addr:housenumber=4 | addr:street=Кубринский переулок | building=yes
+  other tags : addr:housenumber=4 | addr:street=Кубринский переулок | building=yes
     geometry : n3650763768[51.3384768,30.5905854] n3650763767[51.3384642,30.5907527] n3650763765[51.3384060,30.5907415] n3650763766[51.3384186,30.5905741] n3650763768[51.3384768,30.5905854]
 w360555962
-  other tags : addr:city=деревня Новая Иолча | addr:country=BY | addr:housenumber=76 | addr:street=улица Свердлова | building=yes
+  other tags : addr:housenumber=76 | addr:street=улица Свердлова | building=yes
     geometry : n3650763776[51.4918999,30.5303120] n3650763775[51.4918587,30.5304440] n3650763773[51.4918068,30.5304022] n3650763774[51.4918480,30.5302702] n3650763776[51.4918999,30.5303120]
 w360555963
-  other tags : addr:city=деревня Новая Иолча | addr:country=BY | addr:housenumber=88 | addr:street=улица Свердлова | building=yes
+  other tags : addr:housenumber=88 | addr:street=улица Свердлова | building=yes
     geometry : n3650763781[51.4933200,30.5311907] n3650763778[51.4932363,30.5313307] n3650763777[51.4931841,30.5312503] n3650763779[51.4932678,30.5311103] n3650763781[51.4933200,30.5311907]

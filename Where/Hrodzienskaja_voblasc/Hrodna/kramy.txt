@@ -88,7 +88,7 @@ n320409801  null / null / Second Hand
   other tags : communication:mobile_phone=gsm | shop=clothes | tower:type=communication
     geometry : [53.6671750,23.8005561]
 n320409803  null / null / Родная сторона
-  other tags : addr:city=Гродно | addr:housenumber=70 | addr:street=улица Ольги Соломовой | operator=СООО «НТС» | shop=supermarket | wheelchair=yes
+  other tags : addr:housenumber=70 | addr:street=улица Ольги Соломовой | operator=СООО «НТС» | shop=supermarket | wheelchair=yes
     geometry : [53.6666730,23.7888641]
 n320409810  null / null / Военторг
   other tags : shop=convenience
@@ -918,7 +918,7 @@ n2264594215  null / null / "Доброном"
   other tags : addr:housenumber=47 | addr:street=улица Домбровского | designation=47 | shop=convenience | source=улица Домбровского
     geometry : [53.7054421,23.7974350]
 n2264596867  null / null / Виктория
-  other tags : addr:housenumber=3а | addr:street=улица Домбровского | shop=convenience
+  other tags : addr:housenumber=3А | addr:street=улица Домбровского | shop=convenience
     geometry : [53.6980046,23.8011579]
 n2267020039
   other tags : shop=convenience
@@ -1282,7 +1282,7 @@ n3261955404  null / null / Фотоцентр "Сфера"
     geometry : [53.6714827,23.8105058]
 n3476026013  null / null / ЧУП "ДипБит"
   other names: name:en=DeepBit
-  other tags : addr:city=Гродно | addr:housename=ЧУП "ДипБит" | addr:housenumber=11 | addr:postcode=230025 | addr:street=улица Карла Маркса | building=office | shop=yes
+  other tags : addr:housename=ЧУП "ДипБит" | addr:housenumber=11 | addr:postcode=230025 | addr:street=улица Карла Маркса | building=office | shop=yes
     geometry : [53.6776923,23.8330723]
 n3477185770  null / null / Твой Велик
   other tags : shop=bicycle

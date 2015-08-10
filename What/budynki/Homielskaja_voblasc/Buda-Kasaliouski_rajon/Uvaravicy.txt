@@ -32,7 +32,7 @@ w226951893
   other tags : building=yes
     geometry : n2356897281[52.5942473,30.7397743] n2356897280[52.5942016,30.7404084] n2356897273[52.5940282,30.7403745] n2356897274[52.5940739,30.7397404] n2356897281[52.5942473,30.7397743]
 w226951894
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=переулок Больничный | building=yes
     geometry : n2356897355[52.5997208,30.7238962] n2356897353[52.5995287,30.7234847] n2356897352[52.5994401,30.7235967] n2356897354[52.5996323,30.7240083] n2356897355[52.5997208,30.7238962]
 w226951895
   other tags : building=yes
@@ -82,8 +82,8 @@ w226951909
 w226951910
   other tags : building=yes
     geometry : n2356897219[52.5917406,30.7288632] n2356897216[52.5914170,30.7292834] n2356897215[52.5913717,30.7291888] n2356897218[52.5916953,30.7287686] n2356897219[52.5917406,30.7288632]
-w226951911  null / null / Котельная
-  other tags : building=yes
+w226951911
+  other tags : building=yes | generator:method=combustion | power=generator
     geometry : n2356897337[52.5960132,30.7292910] n2356897344[52.5961370,30.7296892] n2356897339[52.5960291,30.7297802] n2356897334[52.5959052,30.7293820] n2356897337[52.5960132,30.7292910]
 w226951912
   other tags : building=yes
@@ -103,9 +103,6 @@ w226951917
 w226951918
   other tags : building=yes
     geometry : n2356897305[52.5947145,30.7290348] n2356897313[52.5948843,30.7294143] n2356897304[52.5947049,30.7296319] n2356897299[52.5946372,30.7294807] n2356897307[52.5947265,30.7293725] n2356897301[52.5946831,30.7292754] n2356897297[52.5945958,30.7293812] n2356897294[52.5945370,30.7292500] n2356897305[52.5947145,30.7290348]
-w226951919  null / null / Школа
-  other tags : building=yes
-    geometry : n2356897323[52.5955348,30.7266974] n2356897298[52.5946030,30.7276191] n2356897302[52.5946833,30.7278392] n2356897318[52.5951585,30.7273692] n2356897321[52.5955001,30.7283052] n2356897325[52.5956340,30.7281728] n2356897319[52.5952948,30.7272434] n2356897324[52.5956176,30.7269241] n2356897323[52.5955348,30.7266974]
 w226951920
   other tags : building=yes
     geometry : n2356897370[52.6023079,30.7470618] n2356897360[52.6019163,30.7473842] n2356897361[52.6019705,30.7475628] n2356897364[52.6021151,30.7474437] n2356897367[52.6021767,30.7476465] n2356897369[52.6022898,30.7475534] n2356897368[52.6022342,30.7473704] n2356897373[52.6023681,30.7472602] n2356897370[52.6023079,30.7470618]
@@ -257,67 +254,67 @@ w246974251
   other tags : addr:housenumber=15 | addr:street=переулок Больничный | building=yes
     geometry : n2539303196[52.5987652,30.7227211] n2539303191[52.5986803,30.7228322] n2539303194[52.5987204,30.7229155] n2539303198[52.5988054,30.7228044] n2539303196[52.5987652,30.7227211]
 w280466533
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=Гагарина улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=Гагарина улица | building=yes | building:levels=1
     geometry : n2845796660[52.5935907,30.7468230] n2845796659[52.5935685,30.7470283] n2845796653[52.5934560,30.7469954] n2845796654[52.5934781,30.7467901] n2845796660[52.5935907,30.7468230]
 w280466534
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=переулок Гагарина | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=переулок Гагарина | building=yes | building:levels=1
     geometry : n2845796396[52.5921505,30.7474389] n2845796395[52.5921283,30.7476442] n2845796389[52.5920158,30.7476113] n2845796390[52.5920379,30.7474060] n2845796396[52.5921505,30.7474389]
 w280466535
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=переулок Гагарина | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=переулок Гагарина | building=yes | building:levels=1
     geometry : n2845796614[52.5924180,30.7475316] n2845796613[52.5923959,30.7477369] n2845796397[52.5922833,30.7477040] n2845796398[52.5923054,30.7474987] n2845796614[52.5924180,30.7475316]
 w280466536
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796629[52.5924822,30.7443436] n2845796611[52.5923773,30.7443441] n2845796610[52.5923770,30.7441742] n2845796628[52.5924819,30.7441737] n2845796629[52.5924822,30.7443436]
 w280466537
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796394[52.5920776,30.7461782] n2845796388[52.5919728,30.7461847] n2845796387[52.5919689,30.7460149] n2845796393[52.5920737,30.7460085] n2845796394[52.5920776,30.7461782]
 w280466538
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796392[52.5920736,30.7457312] n2845796386[52.5919687,30.7457377] n2845796385[52.5919649,30.7455679] n2845796391[52.5920697,30.7455615] n2845796392[52.5920736,30.7457312]
 w280466539
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=54 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=54 | addr:street=Садовая улица | building=yes | building:levels=1
     geometry : n2845796664[52.5940452,30.7481773] n2845796663[52.5940231,30.7483826] n2845796661[52.5939106,30.7483497] n2845796662[52.5939327,30.7481444] n2845796664[52.5940452,30.7481773]
 w280466540
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796625[52.5924741,30.7447806] n2845796607[52.5923692,30.7447812] n2845796605[52.5923689,30.7446113] n2845796623[52.5924738,30.7446107] n2845796625[52.5924741,30.7447806]
 w280466541
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=переулок Гагарина | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=переулок Гагарина | building=yes | building:levels=1
     geometry : n2845796640[52.5929611,30.7477071] n2845796639[52.5929390,30.7479124] n2845796637[52.5928264,30.7478795] n2845796638[52.5928485,30.7476742] n2845796640[52.5929611,30.7477071]
 w280466542
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=Гагарина улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=Гагарина улица | building=yes | building:levels=1
     geometry : n2845796646[52.5931924,30.7473064] n2845796644[52.5931703,30.7475117] n2845796641[52.5930577,30.7474789] n2845796642[52.5930798,30.7472736] n2845796646[52.5931924,30.7473064]
 w280466543
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796631[52.5925261,30.7434757] n2845796615[52.5924218,30.7434559] n2845796616[52.5924337,30.7432871] n2845796632[52.5925379,30.7433069] n2845796631[52.5925261,30.7434757]
 w280466544
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796622[52.5924641,30.7461051] n2845796604[52.5923592,30.7461057] n2845796603[52.5923589,30.7459358] n2845796621[52.5924638,30.7459352] n2845796622[52.5924641,30.7461051]
 w280466545
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=переулок Гагарина | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=переулок Гагарина | building=yes | building:levels=1
     geometry : n2845796636[52.5926815,30.7476276] n2845796635[52.5926594,30.7478329] n2845796633[52.5925468,30.7478000] n2845796634[52.5925689,30.7475947] n2845796636[52.5926815,30.7476276]
 w280466546
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=56 | addr:street=Садовая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=56 | addr:street=Садовая улица | building=yes | building:levels=1
     geometry : n2845796658[52.5935585,30.7479091] n2845796656[52.5935364,30.7481144] n2845796650[52.5934238,30.7480815] n2845796652[52.5934459,30.7478762] n2845796658[52.5935585,30.7479091]
 w280466547
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796627[52.5924758,30.7439227] n2845796609[52.5923716,30.7439029] n2845796612[52.5923834,30.7437341] n2845796630[52.5924876,30.7437539] n2845796627[52.5924758,30.7439227]
 w280466548
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=переулок Гагарина | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=переулок Гагарина | building=yes | building:levels=1
     geometry : n2845796384[52.5918820,30.7473662] n2845796383[52.5918598,30.7475714] n2845796381[52.5917473,30.7475386] n2845796382[52.5917694,30.7473333] n2845796384[52.5918820,30.7473662]
 w280466549
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796620[52.5924601,30.7456680] n2845796602[52.5923552,30.7456686] n2845796601[52.5923548,30.7454987] n2845796619[52.5924597,30.7454981] n2845796620[52.5924601,30.7456680]
 w280466550
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796626[52.5924741,30.7452045] n2845796608[52.5923692,30.7452050] n2845796606[52.5923689,30.7450351] n2845796624[52.5924738,30.7450346] n2845796626[52.5924741,30.7452045]
 w280466551
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=Гагарина улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=Гагарина улица | building=yes | building:levels=1
     geometry : n2845796648[52.5932849,30.7478031] n2845796647[52.5932628,30.7480084] n2845796643[52.5931502,30.7479755] n2845796645[52.5931724,30.7477702] n2845796648[52.5932849,30.7478031]
 w280466552
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Полевая улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n2845796618[52.5924577,30.7465403] n2845796400[52.5923531,30.7465535] n2845796399[52.5923452,30.7463841] n2845796617[52.5924498,30.7463709] n2845796618[52.5924577,30.7465403]
 w280466554
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=Гагарина улица | building=yes | building:levels=1
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=Гагарина улица | building=yes | building:levels=1
     geometry : n2845796657[52.5935404,30.7472535] n2845796655[52.5935183,30.7474587] n2845796649[52.5934057,30.7474259] n2845796651[52.5934278,30.7472206] n2845796657[52.5935404,30.7472535]
 w287045434
   other tags : addr:housenumber=64 | addr:street=Базарная улица | building=yes
@@ -2117,7 +2114,7 @@ w293264611
   other tags : building=yes
     geometry : n2968434414[52.5897023,30.7291181] n2968434412[52.5896009,30.7291882] n2968434413[52.5896317,30.7293087] n2968434415[52.5897330,30.7292386] n2968434414[52.5897023,30.7291181]
 w293264612
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Козлова | building=yes
     geometry : n2968434662[52.5936018,30.7280845] n2968434664[52.5936634,30.7282327] n2968434663[52.5936100,30.7282928] n2968434660[52.5935484,30.7281446] n2968434662[52.5936018,30.7280845]
 w293264613
   other tags : building=yes
@@ -2150,7 +2147,7 @@ w293264622
   other tags : building=yes
     geometry : n2968434616[52.5922256,30.7294375] n2968434612[52.5921565,30.7292951] n2968434609[52.5921089,30.7293577] n2968434614[52.5921780,30.7295000] n2968434616[52.5922256,30.7294375]
 w293264623
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Козлова | building=yes
     geometry : n2968434687[52.5940607,30.7275103] n2968434690[52.5941532,30.7277388] n2968434689[52.5940897,30.7278085] n2968434683[52.5939972,30.7275800] n2968434687[52.5940607,30.7275103]
 w293264624
   other tags : building=yes
@@ -2219,7 +2216,7 @@ w293264645
   other tags : building=yes
     geometry : n2968434638[52.5930935,30.7280386] n2968434640[52.5931598,30.7282074] n2968434639[52.5931002,30.7282707] n2968434637[52.5930796,30.7282182] n2968434636[52.5930471,30.7282528] n2968434635[52.5930014,30.7281365] n2968434638[52.5930935,30.7280386]
 w293264646
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Козлова | building=yes
     geometry : n2968434679[52.5939229,30.7278628] n2968434676[52.5938662,30.7277402] n2968434669[52.5937979,30.7278258] n2968434672[52.5938222,30.7278783] n2968434671[52.5938025,30.7279031] n2968434674[52.5938349,30.7279732] n2968434679[52.5939229,30.7278628]
 w293264647
   other tags : building=yes
@@ -2384,112 +2381,112 @@ w294805957
   other tags : addr:hamlet=Уваровичи | addr:street=улица Козлова | building=yes
     geometry : n2984287293[52.5983906,30.7227467] n2984287292[52.5983241,30.7225999] n2984287286[52.5982495,30.7226915] n2984287289[52.5982794,30.7227574] n2984287288[52.5982663,30.7227735] n2984287290[52.5983029,30.7228544] n2984287293[52.5983906,30.7227467]
 w313208347
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Гагарина улица | building=yes
     geometry : n3191164997[52.5941227,30.7414374] n3191164992[52.5940337,30.7414032] n3191164994[52.5940505,30.7412844] n3191164998[52.5941395,30.7413186] n3191164997[52.5941227,30.7414374]
 w313208348
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Гагарина улица | building=yes
     geometry : n3191164933[52.5936900,30.7427677] n3191164921[52.5936193,30.7427513] n3191164922[52.5936338,30.7425811] n3191164935[52.5937046,30.7425975] n3191164933[52.5936900,30.7427677]
 w313208349
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10А | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10А | addr:street=Садовая улица | building=yes
     geometry : n3191165021[52.5946942,30.7370326] n3191165009[52.5946002,30.7370213] n3191165010[52.5946068,30.7368728] n3191165020[52.5946828,30.7368820] n3191165018[52.5946812,30.7369174] n3191165022[52.5946992,30.7369196] n3191165021[52.5946942,30.7370326]
 w313208350
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Гагарина улица | building=yes
     geometry : n3191164970[52.5938407,30.7437837] n3191164952[52.5937664,30.7437630] n3191164955[52.5937730,30.7436987] n3191164948[52.5937548,30.7436936] n3191164949[52.5937592,30.7436511] n3191164957[52.5937762,30.7436559] n3191164958[52.5937798,30.7436203] n3191164972[52.5938553,30.7436413] n3191164970[52.5938407,30.7437837]
 w313208351
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Гагарина улица | building=yes
     geometry : n3191164919[52.5935795,30.7429996] n3191164910[52.5934717,30.7429831] n3191164911[52.5934783,30.7428665] n3191164913[52.5935208,30.7428730] n3191164914[52.5935243,30.7428121] n3191164920[52.5935895,30.7428221] n3191164919[52.5935795,30.7429996]
 w313208352
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Садовая улица | building=yes
     geometry : n3191165017[52.5946775,30.7374127] n3191165006[52.5945799,30.7374023] n3191165008[52.5945863,30.7372417] n3191165016[52.5946659,30.7372502] n3191165015[52.5946644,30.7372890] n3191165019[52.5946823,30.7372909] n3191165017[52.5946775,30.7374127]
 w313208353
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Гагарина улица | building=yes
     geometry : n3191164947[52.5937539,30.7441962] n3191164940[52.5937284,30.7441880] n3191164943[52.5937426,30.7440694] n3191164971[52.5938436,30.7441022] n3191164969[52.5938297,30.7442187] n3191164963[52.5938059,30.7442110] n3191164961[52.5938021,30.7442426] n3191164944[52.5937503,30.7442257] n3191164947[52.5937539,30.7441962]
 w313208354
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Садовая улица | building=yes
     geometry : n3191165079[52.5949302,30.7373154] n3191165075[52.5949024,30.7375773] n3191165089[52.5949979,30.7376048] n3191165093[52.5950257,30.7373429] n3191165079[52.5949302,30.7373154]
 w313208355
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Гагарина улица | building=yes
     geometry : n3191164936[52.5937095,30.7446239] n3191164938[52.5937135,30.7445915] n3191164934[52.5936951,30.7445854] n3191164937[52.5937101,30.7444643] n3191164964[52.5938090,30.7444973] n3191164959[52.5937950,30.7446104] n3191164956[52.5937757,30.7446040] n3191164953[52.5937707,30.7446443] n3191164936[52.5937095,30.7446239]
 w313208356
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16/1 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16/1 | addr:street=Садовая улица | building=yes
     geometry : n3191165098[52.5950641,30.7382710] n3191165086[52.5949675,30.7382434] n3191165087[52.5949845,30.7380814] n3191165097[52.5950636,30.7381040] n3191165096[52.5950606,30.7381318] n3191165099[52.5950783,30.7381369] n3191165098[52.5950641,30.7382710]
 w313208357
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16/2 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16/2 | addr:street=Садовая улица | building=yes
     geometry : n3191165084[52.5949463,30.7385278] n3191165080[52.5949314,30.7386864] n3191165094[52.5950348,30.7387128] n3191165095[52.5950470,30.7385832] n3191165091[52.5950222,30.7385769] n3191165092[52.5950249,30.7385478] n3191165084[52.5949463,30.7385278]
 w313208358
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Гагарина улица | building=yes
     geometry : n3191164928[52.5936564,30.7449728] n3191164924[52.5936435,30.7450946] n3191164932[52.5936892,30.7451077] n3191164931[52.5936827,30.7451699] n3191164941[52.5937339,30.7451846] n3191164946[52.5937534,30.7450005] n3191164928[52.5936564,30.7449728]
 w313208359
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Гагарина улица | building=yes
     geometry : n3191164975[52.5938795,30.7412500] n3191164954[52.5937719,30.7412155] n3191164950[52.5937596,30.7413195] n3191164973[52.5938671,30.7413540] n3191164975[52.5938795,30.7412500]
 w313208360
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Полевая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Полевая улица | building=yes
     geometry : n3191164886[52.5922197,30.7433730] n3191164879[52.5921501,30.7433610] n3191164881[52.5921648,30.7431292] n3191164887[52.5922345,30.7431412] n3191164886[52.5922197,30.7433730]
 w313208361
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Садовая улица | building=yes
     geometry : n3191165067[52.5948659,30.7349287] n3191165030[52.5947388,30.7349099] n3191165029[52.5947321,30.7350336] n3191165064[52.5948592,30.7350524] n3191165067[52.5948659,30.7349287]
 w313208363
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=Садовая улица | building=yes
     geometry : n3191165056[52.5948255,30.7392905] n3191165057[52.5948285,30.7392580] n3191165044[52.5948021,30.7392514] n3191165053[52.5948195,30.7390648] n3191165090[52.5950053,30.7391117] n3191165088[52.5949880,30.7392978] n3191165083[52.5949431,30.7392865] n3191165082[52.5949400,30.7393194] n3191165056[52.5948255,30.7392905]
 w313208364
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=Гагарина улица | building=yes
     geometry : n3191164915[52.5935278,30.7444982] n3191164909[52.5934487,30.7444741] n3191164908[52.5934353,30.7445936] n3191164912[52.5935144,30.7446177] n3191164915[52.5935278,30.7444982]
 w313208365
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=Садовая улица | building=yes
     geometry : n3191165038[52.5947730,30.7395350] n3191165034[52.5947582,30.7397368] n3191165040[52.5947861,30.7397424] n3191165039[52.5947839,30.7397712] n3191165071[52.5948898,30.7397923] n3191165073[52.5948917,30.7397675] n3191165081[52.5949323,30.7397756] n3191165085[52.5949474,30.7395698] n3191165038[52.5947730,30.7395350]
 w313208366
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22А | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22А | addr:street=Садовая улица | building=yes
     geometry : n3191165055[52.5948233,30.7400195] n3191165054[52.5948196,30.7400861] n3191165045[52.5948026,30.7400836] n3191165042[52.5947997,30.7401376] n3191165051[52.5948144,30.7401397] n3191165048[52.5948112,30.7401990] n3191165068[52.5948838,30.7402097] n3191165069[52.5948871,30.7401488] n3191165077[52.5949155,30.7401530] n3191165078[52.5949195,30.7400795] n3191165070[52.5948878,30.7400748] n3191165072[52.5948903,30.7400293] n3191165055[52.5948233,30.7400195]
 w313208367
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=Гагарина улица | building=yes
     geometry : n3191164917[52.5935495,30.7460478] n3191164916[52.5935384,30.7461409] n3191164926[52.5936524,30.7461776] n3191164930[52.5936680,30.7460460] n3191164918[52.5935541,30.7460093] n3191164917[52.5935495,30.7460478]
 w313208368
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=24А | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=24А | addr:street=Садовая улица | building=yes
     geometry : n3191165060[52.5948473,30.7407906] n3191165033[52.5947502,30.7407748] n3191165035[52.5947597,30.7406164] n3191165059[52.5948368,30.7406289] n3191165058[52.5948344,30.7406691] n3191165062[52.5948543,30.7406723] n3191165060[52.5948473,30.7407906]
 w313208369
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2А | addr:street=Полевая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2А | addr:street=Полевая улица | building=yes
     geometry : n3191164892[52.5922865,30.7428860] n3191164888[52.5922448,30.7428798] n3191164890[52.5922470,30.7428411] n3191164882[52.5921901,30.7428325] n3191164884[52.5921974,30.7426999] n3191164889[52.5922466,30.7427072] n3191164891[52.5922500,30.7426451] n3191164893[52.5922994,30.7426525] n3191164892[52.5922865,30.7428860]
 w313208370
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Гагарина улица | building=yes
     geometry : n3191164987[52.5939667,30.7419893] n3191164989[52.5939858,30.7418097] n3191164993[52.5940499,30.7418281] n3191164991[52.5940309,30.7420077] n3191164987[52.5939667,30.7419893]
 w313208371
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=Гагарина улица | building=yes
     geometry : n3191164906[52.5933260,30.7463841] n3191164900[52.5932361,30.7463632] n3191164902[52.5932485,30.7462182] n3191164907[52.5933384,30.7462390] n3191164906[52.5933260,30.7463841]
 w313208372
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=Гагарина улица | building=yes
     geometry : n3191164904[52.5933078,30.7466182] n3191164896[52.5932007,30.7465888] n3191164898[52.5932096,30.7465006] n3191164905[52.5933168,30.7465300] n3191164904[52.5933078,30.7466182]
 w313208373
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=Гагарина улица | building=yes
     geometry : n3191164901[52.5932426,30.7471235] n3191164894[52.5931499,30.7470978] n3191164895[52.5931616,30.7469833] n3191164899[52.5932119,30.7469973] n3191164897[52.5932083,30.7470316] n3191164903[52.5932509,30.7470434] n3191164901[52.5932426,30.7471235]
 w313208374
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Полевая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Полевая улица | building=yes
     geometry : n3191164883[52.5921926,30.7437585] n3191164876[52.5921271,30.7437492] n3191164877[52.5921357,30.7435846] n3191164885[52.5922013,30.7435939] n3191164883[52.5921926,30.7437585]
 w313208375
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Садовая улица | building=yes
     geometry : n3191165050[52.5948136,30.7356012] n3191165027[52.5947287,30.7355865] n3191165025[52.5947213,30.7357029] n3191165047[52.5948061,30.7357176] n3191165050[52.5948136,30.7356012]
 w313208376
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Гагарина улица | building=yes
     geometry : n3191164984[52.5939589,30.7422658] n3191164983[52.5939527,30.7423288] n3191164982[52.5939379,30.7423248] n3191164981[52.5939292,30.7424121] n3191164995[52.5940519,30.7424450] n3191164996[52.5940667,30.7422947] n3191164984[52.5939589,30.7422658]
 w313208377
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Гагарина улица | building=yes
     geometry : n3191164945[52.5937507,30.7420837] n3191164925[52.5936487,30.7420504] n3191164929[52.5936598,30.7419582] n3191164923[52.5936379,30.7419510] n3191164927[52.5936551,30.7418082] n3191164942[52.5937365,30.7418349] n3191164939[52.5937210,30.7419632] n3191164951[52.5937636,30.7419771] n3191164945[52.5937507,30.7420837]
 w313208378
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Полевая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Полевая улица | building=yes
     geometry : n3191164874[52.5920693,30.7444068] n3191164872[52.5920549,30.7446084] n3191164878[52.5921416,30.7446250] n3191164880[52.5921559,30.7444235] n3191164874[52.5920693,30.7444068]
 w313208379
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Садовая улица | building=yes
     geometry : n3191165043[52.5948004,30.7360360] n3191165046[52.5948032,30.7359943] n3191165028[52.5947295,30.7359812] n3191165026[52.5947266,30.7360246] n3191165024[52.5947116,30.7360219] n3191165023[52.5947018,30.7361708] n3191165036[52.5947668,30.7361824] n3191165037[52.5947704,30.7361268] n3191165041[52.5947942,30.7361310] n3191165043[52.5948004,30.7360360]
 w313208380
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Гагарина улица | building=yes
     geometry : n3191164978[52.5938943,30.7427915] n3191164979[52.5938982,30.7427491] n3191164974[52.5938711,30.7427424] n3191164976[52.5938812,30.7426314] n3191164990[52.5939866,30.7426575] n3191164988[52.5939767,30.7427667] n3191164986[52.5939649,30.7427638] n3191164985[52.5939609,30.7428079] n3191164978[52.5938943,30.7427915]
 w313208381
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Полевая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Полевая улица | building=yes
     geometry : n3191164873[52.5920650,30.7452880] n3191164868[52.5919636,30.7452676] n3191164869[52.5919785,30.7450666] n3191164871[52.5920301,30.7450770] n3191164870[52.5920264,30.7451280] n3191164875[52.5920761,30.7451380] n3191164873[52.5920650,30.7452880]
 w313208382
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Садовая улица | building=yes
     geometry : n3191165032[52.5947485,30.7365297] n3191165031[52.5947442,30.7366873] n3191165013[52.5946549,30.7366807] n3191165014[52.5946565,30.7366241] n3191165011[52.5946406,30.7366229] n3191165012[52.5946433,30.7365219] n3191165032[52.5947485,30.7365297]
 w313208383
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Гагарина улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Гагарина улица | building=yes
     geometry : n3191164977[52.5938910,30.7432283] n3191164965[52.5938133,30.7432121] n3191164966[52.5938186,30.7431432] n3191164960[52.5938007,30.7431395] n3191164962[52.5938037,30.7430997] n3191164967[52.5938251,30.7431042] n3191164968[52.5938280,30.7430666] n3191164980[52.5939022,30.7430821] n3191164977[52.5938910,30.7432283]
 w313208384
   other tags : building=yes
@@ -2504,169 +2501,169 @@ w313208387
   other tags : building=yes
     geometry : n3191165074[52.5948960,30.7380897] n3191165061[52.5948513,30.7380758] n3191165065[52.5948599,30.7380006] n3191165076[52.5949047,30.7380145] n3191165074[52.5948960,30.7380897]
 w313221741
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=Садовая улица | building=yes
     geometry : n3191303006[52.5947283,30.7420771] n3191302992[52.5946315,30.7420584] n3191302993[52.5946429,30.7418975] n3191303005[52.5947224,30.7419129] n3191303003[52.5947197,30.7419518] n3191303007[52.5947369,30.7419551] n3191303006[52.5947283,30.7420771]
 w313221742
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=Садовая улица | building=yes
     geometry : n3191302994[52.5946630,30.7426337] n3191302983[52.5945854,30.7426148] n3191302984[52.5945900,30.7425633] n3191302980[52.5945745,30.7425595] n3191302982[52.5945795,30.7425045] n3191302986[52.5945940,30.7425080] n3191302987[52.5945990,30.7424530] n3191302997[52.5946827,30.7424734] n3191302996[52.5946784,30.7425213] n3191303001[52.5946965,30.7425257] n3191302999[52.5946910,30.7425867] n3191302995[52.5946678,30.7425810] n3191302994[52.5946630,30.7426337]
 w313221743
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=Садовая улица | building=yes
     geometry : n3191302988[52.5946014,30.7429797] n3191302971[52.5945145,30.7429525] n3191302969[52.5945017,30.7430635] n3191302976[52.5945529,30.7430795] n3191302977[52.5945567,30.7430463] n3191302985[52.5945925,30.7430574] n3191302988[52.5946014,30.7429797]
 w313221744
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=Садовая улица | building=yes
     geometry : n3191302975[52.5945435,30.7433899] n3191302962[52.5944534,30.7433703] n3191302964[52.5944579,30.7433136] n3191302151[52.5943859,30.7432979] n3191302148[52.5943685,30.7435142] n3191302158[52.5944341,30.7435286] n3191302160[52.5944405,30.7434491] n3191302974[52.5945371,30.7434701] n3191302975[52.5945435,30.7433899]
 w313221745
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=Садовая улица | building=yes
     geometry : n3191302968[52.5944971,30.7438300] n3191302155[52.5944101,30.7438074] n3191302156[52.5944177,30.7437287] n3191302970[52.5945047,30.7437513] n3191302968[52.5944971,30.7438300]
 w313221746
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=38 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=38 | addr:street=Садовая улица | building=yes
     geometry : n3191302963[52.5944547,30.7441669] n3191302150[52.5943790,30.7441507] n3191302149[52.5943718,30.7442424] n3191302961[52.5944475,30.7442586] n3191302963[52.5944547,30.7441669]
 w313221747
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=40 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=40 | addr:street=Садовая улица | building=yes
     geometry : n3191302157[52.5944283,30.7446259] n3191302144[52.5943338,30.7446073] n3191302145[52.5943429,30.7444823] n3191302154[52.5943959,30.7444927] n3191302153[52.5943928,30.7445346] n3191302159[52.5944343,30.7445428] n3191302157[52.5944283,30.7446259]
 w313221748
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=42 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=42 | addr:street=Садовая улица | building=yes
     geometry : n3191302146[52.5943594,30.7452657] n3191302134[52.5942569,30.7452449] n3191302136[52.5942630,30.7451634] n3191302132[52.5942416,30.7451591] n3191302133[52.5942483,30.7450700] n3191302143[52.5943266,30.7450859] n3191302142[52.5943210,30.7451612] n3191302147[52.5943666,30.7451705] n3191302146[52.5943594,30.7452657]
 w313221749
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=44 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=44 | addr:street=Садовая улица | building=yes
     geometry : n3191302139[52.5943036,30.7456580] n3191302126[52.5942010,30.7456309] n3191302127[52.5942114,30.7455239] n3191302141[52.5943140,30.7455510] n3191302139[52.5943036,30.7456580]
 w313221750
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=46 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=46 | addr:street=Садовая улица | building=yes
     geometry : n3191302135[52.5942599,30.7462878] n3191302122[52.5941596,30.7462673] n3191302123[52.5941671,30.7461691] n3191302137[52.5942674,30.7461897] n3191302135[52.5942599,30.7462878]
 w313221751
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=48 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=48 | addr:street=Садовая улица | building=yes
     geometry : n3191302130[52.5942245,30.7464731] n3191302121[52.5941511,30.7464645] n3191302120[52.5941426,30.7466627] n3191302129[52.5942160,30.7466713] n3191302130[52.5942245,30.7464731]
 w313221753
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=50 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=50 | addr:street=Садовая улица | building=yes
     geometry : n3191302124[52.5941671,30.7470977] n3191302116[52.5940803,30.7470677] n3191302117[52.5940911,30.7469829] n3191302125[52.5941779,30.7470129] n3191302124[52.5941671,30.7470977]
 w313221754
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=52 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=52 | addr:street=Садовая улица | building=yes
     geometry : n3191302119[52.5941334,30.7475142] n3191302118[52.5941238,30.7476064] n3191302114[52.5940181,30.7475765] n3191302115[52.5940277,30.7474843] n3191302119[52.5941334,30.7475142]
 w313221755
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Садовая улица | building=yes
     geometry : n3191303000[52.5946953,30.7412581] n3585552194[52.5946788,30.7412535] n3191302967[52.5944846,30.7412000] n3191302965[52.5944721,30.7413224] n3191302973[52.5945267,30.7413375] n3191302972[52.5945169,30.7414339] n3191302979[52.5945674,30.7414478] n3191302981[52.5945766,30.7413579] n3191302991[52.5946139,30.7413682] n3191302989[52.5946077,30.7414297] n3191303002[52.5947100,30.7414580] n3191303004[52.5947204,30.7413565] n3191302998[52.5946862,30.7413471] n3191303000[52.5946953,30.7412581]
 w313222782
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=65 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=65 | addr:street=Садовая улица | building=yes
     geometry : n3191312005[52.5950289,30.7445455] n3191312006[52.5950317,30.7444898] n3191312000[52.5950034,30.7444859] n3191312002[52.5950075,30.7444056] n3191312007[52.5950369,30.7444096] n3191312008[52.5950392,30.7443638] n3191312020[52.5951526,30.7443795] n3191312019[52.5951433,30.7445613] n3191312005[52.5950289,30.7445455]
 w313222784
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=67 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=67 | addr:street=Садовая улица | building=yes
     geometry : n3191311999[52.5949972,30.7450500] n3191312001[52.5950036,30.7449719] n3191311995[52.5949738,30.7449653] n3191311997[52.5949830,30.7448533] n3191312018[52.5951300,30.7448859] n3191312017[52.5951144,30.7450760] n3191311999[52.5949972,30.7450500]
 w313222785
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=69 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=69 | addr:street=Садовая улица | building=yes
     geometry : n3191311991[52.5949426,30.7455902] n3191311992[52.5949489,30.7454934] n3191311996[52.5949829,30.7454994] n3191311998[52.5949883,30.7454163] n3191312014[52.5950711,30.7454309] n3191312013[52.5950594,30.7456108] n3191311991[52.5949426,30.7455902]
 w313222786
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=71 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=71 | addr:street=Садовая улица | building=yes
     geometry : n3191311994[52.5949512,30.7459664] n3191311993[52.5949489,30.7461474] n3191312009[52.5950440,30.7461505] n3191312010[52.5950443,30.7461255] n3191312015[52.5950813,30.7461267] n3191312016[52.5950830,30.7459854] n3191312011[52.5950542,30.7459845] n3191312012[52.5950544,30.7459698] n3191311994[52.5949512,30.7459664]
 w313222788
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=73 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=73 | addr:street=Садовая улица | building=yes
     geometry : n3191311985[52.5948833,30.7464006] n3191311986[52.5948851,30.7464716] n3191311987[52.5949084,30.7464700] n3191311988[52.5949095,30.7465141] n3191311989[52.5949275,30.7465129] n3191311990[52.5949289,30.7465690] n3191312004[52.5950144,30.7465632] n3191312003[52.5950101,30.7463920] n3191311985[52.5948833,30.7464006]
 w313227542
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housename=Контора | addr:street=Садовая улица | building=yes | office=administrative
+  other tags : addr:hamlet=Уваровичи | addr:housename=Контора | addr:street=Садовая улица | building=yes | office=administrative
     geometry : n3191352351[52.5952792,30.7400967] n3191352348[52.5952463,30.7404494] n3191352963[52.5954040,30.7404893] n3191352964[52.5954151,30.7403700] n3191352961[52.5953800,30.7403611] n3191352962[52.5954017,30.7401277] n3191352351[52.5952792,30.7400967]
 w313227544
   other tags : addr:housename=Магазин | addr:street=Садовая улица | building=yes | shop=yes
     geometry : n3191352360[52.5953551,30.7407486] n3191352343[52.5952296,30.7407258] n3191352341[52.5952200,30.7408683] n3191352358[52.5953455,30.7408912] n3191352360[52.5953551,30.7407486]
 w313227546
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=1 | addr:street=Садовая улица | building=yes
     geometry : n3191353272[52.5963714,30.7355665] n3191353269[52.5963653,30.7357412] n3191353274[52.5964390,30.7357482] n3191353273[52.5964379,30.7357780] n3191353275[52.5965067,30.7357845] n3191353276[52.5965075,30.7357632] n3191353286[52.5965789,30.7357699] n3191353285[52.5965779,30.7357992] n3191353293[52.5966401,30.7358051] n3191353294[52.5966410,30.7357797] n3191353305[52.5967173,30.7357870] n3191353306[52.5967238,30.7355999] n3191353272[52.5963714,30.7355665]
 w313227548
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Заречная улица | building=yes
     geometry : n3191353042[52.5957424,30.7443166] n3191353023[52.5956568,30.7443095] n3191353022[52.5956558,30.7443419] n3191353017[52.5956416,30.7443407] n3191353015[52.5956401,30.7443883] n3191353027[52.5956583,30.7443898] n3191353024[52.5956568,30.7444373] n3191353006[52.5956132,30.7444336] n3191353005[52.5956097,30.7445485] n3191353026[52.5956572,30.7445524] n3191353021[52.5956519,30.7447273] n3191353041[52.5957296,30.7447338] n3191353042[52.5957424,30.7443166]
 w313227551
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Садовая улица | building=yes
     geometry : n3191352975[52.5955120,30.7375008] n3191352969[52.5954919,30.7377670] n3191352992[52.5955700,30.7377830] n3191352999[52.5955901,30.7375168] n3191352975[52.5955120,30.7375008]
 w313227553
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Садовая улица | building=yes
     geometry : n3191352967[52.5954519,30.7381059] n3191352966[52.5954405,30.7382170] n3191352976[52.5955152,30.7382379] n3191352977[52.5955203,30.7381879] n3191352994[52.5955796,30.7382045] n3191353000[52.5955940,30.7380648] n3191352973[52.5955085,30.7380409] n3191352970[52.5955004,30.7381195] n3191352967[52.5954519,30.7381059]
 w313227557
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Садовая улица | building=yes
     geometry : n3191353304[52.5966872,30.7370262] n3191353303[52.5966850,30.7371625] n3191353311[52.5967968,30.7371673] n3191353312[52.5967990,30.7370310] n3191353304[52.5966872,30.7370262]
 w313227559
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=Садовая улица | building=yes
     geometry : n3191353299[52.5966706,30.7374898] n3191353297[52.5966667,30.7376079] n3191353309[52.5967656,30.7376169] n3191353310[52.5967695,30.7374988] n3191353299[52.5966706,30.7374898]
 w313227560
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=Садовая улица | building=yes
     geometry : n3191353292[52.5966361,30.7379654] n3191353289[52.5966304,30.7380849] n3191353307[52.5967319,30.7380980] n3191353308[52.5967376,30.7379785] n3191353292[52.5966361,30.7379654]
 w313227563
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=Садовая улица | building=yes
     geometry : n3191353281[52.5965728,30.7389898] n3191353284[52.5965741,30.7391135] n3191353300[52.5966710,30.7391107] n3191353298[52.5966697,30.7389871] n3191353281[52.5965728,30.7389898]
 w313227565
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=Садовая улица | building=yes
     geometry : n3191353302[52.5966740,30.7394857] n3191353283[52.5965739,30.7394871] n3191353282[52.5965730,30.7393146] n3191353287[52.5966151,30.7393140] n3191353288[52.5966153,30.7393604] n3191353301[52.5966733,30.7393596] n3191353302[52.5966740,30.7394857]
 w313227566
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=Садовая улица | building=yes
     geometry : n3191353338[52.5972986,30.7393574] n3191353337[52.5972956,30.7394867] n3191353342[52.5973720,30.7394915] n3191353341[52.5973707,30.7395454] n3191353347[52.5974394,30.7395498] n3191353348[52.5974424,30.7394216] n3191353345[52.5974226,30.7394203] n3191353346[52.5974239,30.7393654] n3191353338[52.5972986,30.7393574]
 w313227569
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2А | addr:street=Садовый переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2А | addr:street=Садовый переулок | building=yes
     geometry : n3191353349[52.5974852,30.7406758] n3191353339[52.5973683,30.7406713] n3191353340[52.5973706,30.7405062] n3191353352[52.5975256,30.7405121] n3191353351[52.5975238,30.7406406] n3191353350[52.5974857,30.7406391] n3191353349[52.5974852,30.7406758]
 w313227570
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Садовая улица | building=yes
     geometry : n3191353033[52.5956798,30.7352453] n3191353030[52.5956682,30.7354186] n3191353050[52.5957875,30.7354402] n3191353049[52.5957861,30.7354613] n3191353051[52.5958664,30.7354758] n3191353052[52.5958685,30.7354456] n3191353054[52.5959450,30.7354594] n3191353053[52.5959426,30.7354957] n3191353057[52.5960244,30.7355105] n3191353058[52.5960263,30.7354815] n3191353262[52.5960994,30.7354948] n3191353261[52.5960973,30.7355263] n3191353263[52.5961687,30.7355392] n3191353264[52.5961702,30.7355162] n3191353267[52.5962804,30.7355362] n3191353268[52.5962924,30.7353561] n3191353033[52.5956798,30.7352453]
 w313227573
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=Садовая улица | building=yes
     geometry : n3191353336[52.5972830,30.7397710] n3191353335[52.5972754,30.7399076] n3191353343[52.5973832,30.7399239] n3191353344[52.5973908,30.7397873] n3191353336[52.5972830,30.7397710]
 w313227577
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=33 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=33 | addr:street=Садовая улица | building=yes
     geometry : n3191353330[52.5971787,30.7397653] n3191353326[52.5970713,30.7397433] n3191353325[52.5970608,30.7398826] n3191353329[52.5971682,30.7399046] n3191353330[52.5971787,30.7397653]
 w313227580
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=35 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=35 | addr:street=Садовая улица | building=yes
     geometry : n3191353280[52.5965605,30.7397507] n3191353279[52.5965582,30.7399417] n3191353290[52.5966328,30.7399442] n3191353291[52.5966352,30.7397531] n3191353280[52.5965605,30.7397507]
 w313227582
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=37 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=37 | addr:street=Садовая улица | building=yes
     geometry : n3191353318[52.5968728,30.7404225] n3191353317[52.5968714,30.7405757] n3191353320[52.5968907,30.7405761] n3191353319[52.5968902,30.7406356] n3191353323[52.5969496,30.7406370] n3191353324[52.5969515,30.7404244] n3191353318[52.5968728,30.7404225]
 w313227585
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=39 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=39 | addr:street=Садовая улица | building=yes
     geometry : n3191353295[52.5966525,30.7405274] n3191353277[52.5965427,30.7405139] n3191353278[52.5965481,30.7403940] n3191353296[52.5966579,30.7404075] n3191353295[52.5966525,30.7405274]
 w313227586
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Садовый переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Садовый переулок | building=yes
     geometry : n3191353314[52.5968020,30.7412502] n3191353313[52.5967990,30.7414703] n3191353315[52.5968433,30.7414719] n3191353316[52.5968439,30.7414280] n3191353321[52.5969311,30.7414313] n3191353322[52.5969335,30.7412550] n3191353314[52.5968020,30.7412502]
 w313227587
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=41 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=41 | addr:street=Садовая улица | building=yes
     geometry : n3191353266[52.5962080,30.7403870] n3191353265[52.5962066,30.7405402] n3191353270[52.5963666,30.7405442] n3191353271[52.5963680,30.7403910] n3191353266[52.5962080,30.7403870]
 w313227588
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=43 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=43 | addr:street=Садовая улица | building=yes
     geometry : n3191353059[52.5960756,30.7404912] n3191353055[52.5959468,30.7404851] n3191353056[52.5959490,30.7403599] n3191353060[52.5960778,30.7403661] n3191353059[52.5960756,30.7404912]
 w313227590
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=45 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=45 | addr:street=Садовая улица | building=yes
     geometry : n3191353043[52.5957438,30.7405346] n3191352984[52.5955463,30.7405315] n3191352986[52.5955474,30.7403390] n3191353044[52.5957449,30.7403421] n3191353043[52.5957438,30.7405346]
 w313227592
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Садовая улица | building=yes
     geometry : n3191353011[52.5956311,30.7359476] n3191353014[52.5956343,30.7359036] n3191353008[52.5956252,30.7359017] n3191353012[52.5956323,30.7358040] n3191353019[52.5956420,30.7358059] n3191353020[52.5956477,30.7357290] n3191353013[52.5956330,30.7357261] n3191353016[52.5956405,30.7356248] n3191353025[52.5956569,30.7356281] n3191353028[52.5956599,30.7355861] n3191353048[52.5957817,30.7356103] n3191353046[52.5957552,30.7359722] n3191353011[52.5956311,30.7359476]
 w313227594
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=Садовая улица | building=yes
     geometry : n3191352350[52.5952153,30.7415001] n3191352328[52.5951228,30.7414859] n3191352330[52.5951287,30.7413811] n3191352335[52.5951537,30.7413850] n3191352339[52.5951591,30.7412888] n3191352353[52.5952427,30.7413017] n3191352352[52.5952358,30.7414243] n3191352355[52.5952474,30.7414260] n3191352354[52.5952430,30.7415044] n3191352350[52.5952153,30.7415001]
 w313227597
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=53 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=53 | addr:street=Садовая улица | building=yes
     geometry : n3191352326[52.5951621,30.7420373] n3191352347[52.5952447,30.7420465] n3191352349[52.5952527,30.7418515] n3191352337[52.5952023,30.7418459] n3191352336[52.5952013,30.7418724] n3191352329[52.5951690,30.7418688] n3191352326[52.5951621,30.7420373]
 w313227599
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=55 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=55 | addr:street=Садовая улица | building=yes
     geometry : n3191352345[52.5952326,30.7424480] n3191352317[52.5951438,30.7424353] n3191352318[52.5951462,30.7423896] n3191352313[52.5951274,30.7423869] n3191352314[52.5951311,30.7423158] n3191352321[52.5951518,30.7423188] n3191352324[52.5951564,30.7422317] n3191352346[52.5952434,30.7422441] n3191352345[52.5952326,30.7424480]
 w313227602
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=57 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=57 | addr:street=Садовая улица | building=yes
     geometry : n3191352340[52.5952188,30.7428436] n3191352311[52.5951243,30.7428320] n3191352312[52.5951266,30.7427813] n3191352306[52.5951061,30.7427788] n3191352307[52.5951089,30.7427155] n3191352315[52.5951330,30.7427184] n3191352316[52.5951366,30.7426385] n3191352342[52.5952275,30.7426496] n3191352340[52.5952188,30.7428436]
 w313227605
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=59 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=59 | addr:street=Садовая улица | building=yes
     geometry : n3191352331[52.5951865,30.7432405] n3191352308[52.5951125,30.7432307] n3191352310[52.5951206,30.7430638] n3191352334[52.5951946,30.7430736] n3191352331[52.5951865,30.7432405]
 w313227607
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Садовый переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Садовый переулок | building=yes
     geometry : n3191353327[52.5971191,30.7412416] n3191353328[52.5971407,30.7413789] n3191353331[52.5971891,30.7413582] n3191353332[52.5971982,30.7414159] n3191353334[52.5972479,30.7413947] n3191353333[52.5972173,30.7411998] n3191353327[52.5971191,30.7412416]
 w313227610
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=61 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=61 | addr:street=Садовая улица | building=yes
     geometry : n3191352319[52.5951480,30.7436844] n3191352303[52.5950881,30.7436760] n3191352305[52.5950963,30.7435180] n3191352333[52.5951910,30.7435314] n3191352332[52.5951870,30.7436086] n3191352322[52.5951522,30.7436037] n3191352319[52.5951480,30.7436844]
 w313227612
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=63 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=63 | addr:street=Садовая улица | building=yes
     geometry : n3191352323[52.5951552,30.7441169] n3191352299[52.5950376,30.7440997] n3191352300[52.5950495,30.7438810] n3191352327[52.5951671,30.7438983] n3191352323[52.5951552,30.7441169]
 w313227614
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Садовая улица | building=yes
     geometry : n3191352998[52.5955893,30.7365092] n3191353038[52.5957015,30.7365304] n3191353040[52.5957214,30.7362450] n3191353004[52.5956092,30.7362238] n3191352998[52.5955893,30.7365092]
 w313227616
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Заречная улица | building=yes
     geometry : n3191353045[52.5957534,30.7440968] n3191353031[52.5956686,30.7440900] n3191353032[52.5956705,30.7440252] n3191353034[52.5956859,30.7440265] n3191353035[52.5956873,30.7439798] n3191353037[52.5957010,30.7439809] n3191353039[52.5957029,30.7439167] n3191353047[52.5957586,30.7439212] n3191353045[52.5957534,30.7440968]
 w313227619
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Садовая улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Садовая улица | building=yes
     geometry : n3191352991[52.5955698,30.7367953] n3191352987[52.5955496,30.7370873] n3191353018[52.5956419,30.7371046] n3191353029[52.5956621,30.7368127] n3191352991[52.5955698,30.7367953]
 w313227621
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | building=yes
+  other tags : addr:hamlet=Уваровичи | building=yes
     geometry : n3191352982[52.5955329,30.7442071] n3191352980[52.5955285,30.7443135] n3191352993[52.5955758,30.7443187] n3191352995[52.5955802,30.7442123] n3191352982[52.5955329,30.7442071]
 w313227622
   other tags : building=yes
@@ -2681,409 +2678,409 @@ w313228689  null / null / Заправка
   other tags : building=yes
     geometry : n3191356583[52.5923212,30.7412112] n3191356584[52.5923249,30.7411480] n3191356588[52.5924040,30.7411607] n3191356586[52.5923989,30.7412470] n3191356582[52.5923198,30.7412344] n3191356583[52.5923212,30.7412112]
 w324945771
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Козлова | building=yes
     geometry : n3316158804[52.5938400,30.7285087] n3316158805[52.5938797,30.7286030] n3316158807[52.5939460,30.7285275] n3316158806[52.5939064,30.7284332] n3316158804[52.5938400,30.7285087]
 w324945772
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=45 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=45 | addr:street=улица Козлова | building=yes
     geometry : n3316158814[52.5943374,30.7266909] n3316158812[52.5942573,30.7265134] n3316158813[52.5943124,30.7264460] n3316158815[52.5943925,30.7266236] n3316158814[52.5943374,30.7266909]
 w324945773
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=47 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=47 | addr:street=улица Козлова | building=yes
     geometry : n3316158819[52.5945019,30.7264950] n3316158817[52.5944322,30.7263406] n3316158818[52.5944898,30.7262700] n3316158820[52.5945595,30.7264245] n3316158819[52.5945019,30.7264950]
 w324945774
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=49 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=49 | addr:street=улица Козлова | building=yes
     geometry : n3316158827[52.5946590,30.7263057] n3316158824[52.5946295,30.7262330] n3316158823[52.5946163,30.7262475] n3316158821[52.5945937,30.7261918] n3316158826[52.5946533,30.7261262] n3316158829[52.5947055,30.7262545] n3316158827[52.5946590,30.7263057]
 w324945775
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=улица Козлова | building=yes
     geometry : n3316158830[52.5947164,30.7260421] n3316158828[52.5946628,30.7259230] n3316158831[52.5947500,30.7258166] n3316158832[52.5948036,30.7259356] n3316158830[52.5947164,30.7260421]
 w324945776  null / null / Магазин
   other tags : building=yes
     geometry : n3316158793[52.5931990,30.7287680] n3316158790[52.5930298,30.7289743] n3316158794[52.5932160,30.7293883] n3316158799[52.5933923,30.7291733] n3316158798[52.5933497,30.7290786] n3316158796[52.5932795,30.7291643] n3316158792[52.5931781,30.7289390] n3316158795[52.5932413,30.7288620] n3316158793[52.5931990,30.7287680]
 w324984083
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=переулок Больничный | building=yes
     geometry : n3316600832[52.5998101,30.7243302] n3316600831[52.5997694,30.7242365] n3316600835[52.5998963,30.7240871] n3316600839[52.5999571,30.7242271] n3316600838[52.5999151,30.7242766] n3316600834[52.5998950,30.7242303] n3316600832[52.5998101,30.7243302]
 w324984084
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=переулок Больничный | building=yes
     geometry : n3316600793[52.5988627,30.7229939] n3316600789[52.5987754,30.7230977] n3316600791[52.5988208,30.7232013] n3316600795[52.5988772,30.7231343] n3316600794[52.5988637,30.7231037] n3316600797[52.5988947,30.7230668] n3316600793[52.5988627,30.7229939]
 w324984085
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=переулок Больничный | building=yes
     geometry : n3316600858[52.6003306,30.7255717] n3316600860[52.6003732,30.7256697] n3316601062[52.6004697,30.7255559] n3316601061[52.6004270,30.7254580] n3316600858[52.6003306,30.7255717]
 w324984086
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=переулок Больничный | building=yes
     geometry : n3316600802[52.5989837,30.7226827] n3316600798[52.5989262,30.7225406] n3316600805[52.5989943,30.7224658] n3316600809[52.5990417,30.7225830] n3316600806[52.5990220,30.7226047] n3316600807[52.5990321,30.7226296] n3316600802[52.5989837,30.7226827]
 w324984087
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Ленина | building=yes
     geometry : n3316600775[52.5981702,30.7262457] n3316600776[52.5981948,30.7263086] n3316600773[52.5981295,30.7263779] n3316600774[52.5981665,30.7264723] n3316600778[52.5982337,30.7264009] n3316600779[52.5982503,30.7264433] n3316600780[52.5983039,30.7263864] n3316600777[52.5982257,30.7261868] n3316600775[52.5981702,30.7262457]
 w324984088
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=улица Ленина | building=yes
     geometry : n3316600781[52.5986810,30.7251721] n3316600783[52.5987075,30.7252406] n3316600790[52.5988006,30.7251429] n3316600788[52.5987656,30.7250523] n3316600784[52.5987095,30.7251111] n3316600785[52.5987180,30.7251332] n3316600781[52.5986810,30.7251721]
 w324984089
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=улица Ленина | building=yes
     geometry : n3316600799[52.5989312,30.7250077] n3316600796[52.5988942,30.7249162] n3316600801[52.5989815,30.7248204] n3316600808[52.5990321,30.7249453] n3316600804[52.5989917,30.7249896] n3316600800[52.5989782,30.7249561] n3316600799[52.5989312,30.7250077]
 w324984090
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=улица Ленина | building=yes
     geometry : n3316600825[52.5993419,30.7246367] n3316600822[52.5992794,30.7244814] n3316600827[52.5993891,30.7243616] n3316600830[52.5994301,30.7244633] n3316600828[52.5993969,30.7244995] n3316600829[52.5994185,30.7245532] n3316600825[52.5993419,30.7246367]
 w324984091
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=переулок Больничный | building=yes
     geometry : n3316600849[52.6000992,30.7255088] n3316600846[52.6000344,30.7253731] n3316600841[52.5999691,30.7254576] n3316600843[52.5999978,30.7255176] n3316600842[52.5999851,30.7255339] n3316600844[52.6000213,30.7256096] n3316600849[52.6000992,30.7255088]
 w324984092
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=переулок Больничный | building=yes
     geometry : n3316600854[52.6002350,30.7253111] n3316600856[52.6002771,30.7254016] n3316600859[52.6003473,30.7253129] n3316600857[52.6003052,30.7252224] n3316600854[52.6002350,30.7253111]
 w324984093
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=переулок Больничный | building=yes
     geometry : n3316600836[52.5999020,30.7250913] n3316600833[52.5998428,30.7251589] n3316600837[52.5999037,30.7253038] n3316600840[52.5999630,30.7252362] n3316600836[52.5999020,30.7250913]
 w324984094
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=переулок Больничный | building=yes
     geometry : n3316600851[52.6001378,30.7251004] n3316600852[52.6001733,30.7251798] n3316600855[52.6002444,30.7250935] n3316600853[52.6002088,30.7250142] n3316600851[52.6001378,30.7251004]
 w324984096
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=переулок Больничный | building=yes
     geometry : n3316600824[52.5993274,30.7240586] n3316600817[52.5992386,30.7241693] n3316600813[52.5991340,30.7239418] n3316600815[52.5992170,30.7238384] n3316600818[52.5992572,30.7239260] n3316600816[52.5992290,30.7239611] n3316600819[52.5992609,30.7240304] n3316600823[52.5992950,30.7239880] n3316600824[52.5993274,30.7240586]
 w324984099
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=переулок Больничный | building=yes
     geometry : n3316600845[52.6000240,30.7248301] n3316600847[52.6000577,30.7249041] n3316600850[52.6001293,30.7248157] n3316600848[52.6000956,30.7247417] n3316600845[52.6000240,30.7248301]
 w324984101
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=переулок Больничный | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=переулок Больничный | building=yes
     geometry : n3316600812[52.5991138,30.7236755] n3316600811[52.5990567,30.7235565] n3316600803[52.5989917,30.7236409] n3316600810[52.5990487,30.7237600] n3316600812[52.5991138,30.7236755]
 w324984106
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=99 | addr:street=улица Козлова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=99 | addr:street=улица Козлова | building=yes
     geometry : n3316600782[52.5986916,30.7212874] n3316600787[52.5987614,30.7214692] n3316600792[52.5988279,30.7214000] n3316600786[52.5987581,30.7212181] n3316600782[52.5986916,30.7212874]
 w324984108  null / null / Магазин
   other tags : building=yes
     geometry : n3316600814[52.5991794,30.7231077] n3316600820[52.5992629,30.7232861] n3316600826[52.5993521,30.7231730] n3316600821[52.5992686,30.7229946] n3316600814[52.5991794,30.7231077]
 w324990451
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Советская улица | building=yes
     geometry : n3316652039[52.5971967,30.7301017] n3316652033[52.5971263,30.7301395] n3316652032[52.5971001,30.7300071] n3316652036[52.5971704,30.7299693] n3316652039[52.5971967,30.7301017]
 w324990452
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Советская улица | building=yes
     geometry : n3316652004[52.5967359,30.7306516] n3316652005[52.5967459,30.7307086] n3316652001[52.5967221,30.7307199] n3316652003[52.5967358,30.7307982] n3316652006[52.5967569,30.7307882] n3316652008[52.5967724,30.7308768] n3316652013[52.5968414,30.7308440] n3316652010[52.5968023,30.7306202] n3316652004[52.5967359,30.7306516]
 w324990453
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Советская улица | building=yes
     geometry : n3316652017[52.5968987,30.7300753] n3316652020[52.5969232,30.7302163] n3316652028[52.5970019,30.7301793] n3316652026[52.5969775,30.7300383] n3316652017[52.5968987,30.7300753]
 w324990454
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=улица Ленина | building=yes
     geometry : n3316651997[52.5966596,30.7279154] n3316651989[52.5965148,30.7280357] n3316651991[52.5965460,30.7281372] n3316651999[52.5966907,30.7280170] n3316651997[52.5966596,30.7279154]
 w324990455
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Советская улица | building=yes
     geometry : n3316652012[52.5968311,30.7309629] n3316652002[52.5967311,30.7310110] n3316652007[52.5967639,30.7311956] n3316652015[52.5968639,30.7311474] n3316652012[52.5968311,30.7309629]
 w324990456
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Советская улица | building=yes
     geometry : n3316651996[52.5966477,30.7301436] n3316651998[52.5966801,30.7303286] n3316652011[52.5968057,30.7302691] n3316652009[52.5967733,30.7300840] n3316651996[52.5966477,30.7301436]
 w324990457
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=улица Ленина | building=yes
     geometry : n3316652030[52.5970263,30.7276334] n3316652022[52.5969596,30.7276883] n3316652025[52.5969728,30.7277321] n3316652021[52.5969479,30.7277526] n3316652024[52.5969720,30.7278318] n3316652031[52.5970636,30.7277564] n3316652030[52.5970263,30.7276334]
 w324990458
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Советская улица | building=yes
     geometry : n3316651994[52.5966126,30.7307106] n3316651985[52.5964790,30.7307808] n3316651987[52.5965087,30.7309339] n3316651995[52.5966423,30.7308637] n3316651994[52.5966126,30.7307106]
 w324990459
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=Советская улица | building=yes
     geometry : n3316651993[52.5966077,30.7303680] n3316651990[52.5965386,30.7303978] n3316651988[52.5965120,30.7302308] n3316651992[52.5965811,30.7302010] n3316651993[52.5966077,30.7303680]
 w324990460
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Ленина | building=yes
     geometry : n3316652034[52.5971483,30.7275008] n3316652038[52.5971771,30.7276014] n3316652046[52.5972898,30.7275138] n3316652043[52.5972610,30.7274132] n3316652034[52.5971483,30.7275008]
 w324990461
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16А | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16А | addr:street=улица Ленина | building=yes
     geometry : n3316652275[52.5977213,30.7268130] n3316652269[52.5976505,30.7268900] n3316652272[52.5976734,30.7269471] n3316652267[52.5976463,30.7269766] n3316652273[52.5976915,30.7270892] n3316652279[52.5977894,30.7269827] n3316652275[52.5977213,30.7268130]
 w324990462
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Советская улица | building=yes
     geometry : n3316651979[52.5962656,30.7308834] n3316651981[52.5962897,30.7310339] n3316651983[52.5964365,30.7309701] n3316651982[52.5964124,30.7308196] n3316651979[52.5962656,30.7308834]
 w324990463
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Ленина | building=yes
     geometry : n3316652286[52.5979336,30.7267188] n3316652281[52.5978835,30.7267819] n3316652283[52.5979063,30.7268308] n3316652282[52.5978846,30.7268581] n3316652285[52.5979214,30.7269371] n3316652287[52.5979931,30.7268469] n3316652286[52.5979336,30.7267188]
 w324990464
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Ленина | building=yes
     geometry : n3316652288[52.5980163,30.7264842] n3316652290[52.5980520,30.7265750] n3316652289[52.5980280,30.7266007] n3316652291[52.5980632,30.7266901] n3316652294[52.5981438,30.7266041] n3316652292[52.5980728,30.7264239] n3316652288[52.5980163,30.7264842]
 w324990465
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=24 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=24 | addr:street=улица Ленина | building=yes
     geometry : n3316652301[52.5984188,30.7260898] n3316652296[52.5983518,30.7261589] n3316652298[52.5983759,30.7262220] n3316652297[52.5983659,30.7262323] n3316652299[52.5983966,30.7263129] n3316652302[52.5984735,30.7262335] n3316652301[52.5984188,30.7260898]
 w324990466
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=улица Ленина | building=yes
     geometry : n3316652303[52.5984757,30.7260175] n3316652304[52.5985263,30.7261552] n3316652307[52.5985855,30.7260963] n3316652306[52.5985704,30.7260554] n3316652308[52.5985974,30.7260285] n3316652305[52.5985619,30.7259317] n3316652303[52.5984757,30.7260175]
 w324990467
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=улица Ленина | building=yes
     geometry : n3316652311[52.5987963,30.7257748] n3316652312[52.5988597,30.7259312] n3316652315[52.5989233,30.7258614] n3316652313[52.5988599,30.7257049] n3316652311[52.5987963,30.7257748]
 w324990468
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=улица Ленина | building=yes
     geometry : n3316652316[52.5989882,30.7255524] n3316652317[52.5990222,30.7256351] n3316652319[52.5991059,30.7255418] n3316652318[52.5990719,30.7254592] n3316652316[52.5989882,30.7255524]
 w324990469
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=улица Ленина | building=yes
     geometry : n3316652320[52.5992701,30.7252490] n3316652321[52.5993231,30.7253725] n3316652325[52.5993765,30.7253104] n3316652322[52.5993235,30.7251869] n3316652320[52.5992701,30.7252490]
 w324990470
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=улица Ленина | building=yes
     geometry : n3316652327[52.5994291,30.7250441] n3316652328[52.5994524,30.7250999] n3316652326[52.5994276,30.7251278] n3316652329[52.5994611,30.7252083] n3316652331[52.5995365,30.7251231] n3316652330[52.5994798,30.7249868] n3316652327[52.5994291,30.7250441]
 w324990471
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=улица Ленина | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=улица Ленина | building=yes
     geometry : n3316652333[52.5995793,30.7248796] n3316652335[52.5996285,30.7250032] n3316652337[52.5996805,30.7249471] n3316652336[52.5996645,30.7249068] n3316652339[52.5997192,30.7248479] n3316652338[52.5996860,30.7247644] n3316652333[52.5995793,30.7248796]
 w324990472
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Советская улица | building=yes
     geometry : n3316652276[52.5977238,30.7298771] n3316652270[52.5976632,30.7299095] n3316652268[52.5976481,30.7298332] n3316652266[52.5976296,30.7298431] n3316652265[52.5976166,30.7297776] n3316652274[52.5976957,30.7297352] n3316652276[52.5977238,30.7298771]
 w324990473
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Советская улица | building=yes
     geometry : n3316652053[52.5973973,30.7303636] n3316652055[52.5974128,30.7304564] n3316652052[52.5973854,30.7304688] n3316652054[52.5973973,30.7305399] n3316652059[52.5974925,30.7304968] n3316652056[52.5974651,30.7303328] n3316652053[52.5973973,30.7303636]
 w324990474
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Советская улица | building=yes
     geometry : n3316652261[52.5975135,30.7299796] n3316652060[52.5975031,30.7299165] n3316652058[52.5974806,30.7299266] n3316652057[52.5974663,30.7298402] n3316652263[52.5975420,30.7298062] n3316652264[52.5975667,30.7299558] n3316652261[52.5975135,30.7299796]
 w324990475
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Советская улица | building=yes
     geometry : n3316652035[52.5971491,30.7304596] n3316652037[52.5971760,30.7306149] n3316652042[52.5972419,30.7305839] n3316652041[52.5972150,30.7304286] n3316652035[52.5971491,30.7304596]
 w324990476
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Советская улица | building=yes
     geometry : n3316652045[52.5972889,30.7299315] n3316652048[52.5973020,30.7300005] n3316652044[52.5972842,30.7300097] n3316652047[52.5972951,30.7300669] n3316652051[52.5973706,30.7300279] n3316652050[52.5973466,30.7299018] n3316652045[52.5972889,30.7299315]
 w324990477
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Советская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Советская улица | building=yes
     geometry : n3316652027[52.5969925,30.7308594] n3316652016[52.5968798,30.7309107] n3316652014[52.5968573,30.7307767] n3316652019[52.5969113,30.7307520] n3316652018[52.5969048,30.7307135] n3316652023[52.5969634,30.7306868] n3316652027[52.5969925,30.7308594]
 w324990478  null / null / Почта
   other tags : building=yes
     geometry : n3316651984[52.5964384,30.7272899] n3316651978[52.5962312,30.7274966] n3316651980[52.5962848,30.7276423] n3316651986[52.5964920,30.7274356] n3316651984[52.5964384,30.7272899]
 w324996273
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=Колхозная улица | building=yes
     geometry : n3316727050[52.5993400,30.7275374] n3316727052[52.5993566,30.7276285] n3316727049[52.5993311,30.7276410] n3316727051[52.5993451,30.7277178] n3316727054[52.5994372,30.7276724] n3316727053[52.5994067,30.7275046] n3316727050[52.5993400,30.7275374]
 w324996276
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Колхозный переулок | building=yes
     geometry : n3316726991[52.5965112,30.7255506] n3316726989[52.5963951,30.7256960] n3316726990[52.5964509,30.7258167] n3316726992[52.5965670,30.7256713] n3316726991[52.5965112,30.7255506]
 w324996279
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Колхозный переулок | building=yes
     geometry : n3316727015[52.5974543,30.7270993] n3316727022[52.5975014,30.7272197] n3316727026[52.5975598,30.7271578] n3316727027[52.5975701,30.7271841] n3316727029[52.5976128,30.7271389] n3316727025[52.5975554,30.7269921] n3316727015[52.5974543,30.7270993]
 w324996281
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Колхозная улица | building=yes
     geometry : n3316727056[52.5997319,30.7273848] n3316727058[52.5997492,30.7274707] n3316727055[52.5997255,30.7274836] n3316727057[52.5997404,30.7275573] n3316727060[52.5998250,30.7275110] n3316727059[52.5997928,30.7273515] n3316727056[52.5997319,30.7273848]
 w324996284
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=Колхозный переулок | building=yes
     geometry : n3316727006[52.5972035,30.7265257] n3316727008[52.5972757,30.7267154] n3316727009[52.5973364,30.7266528] n3316727007[52.5972642,30.7264631] n3316727006[52.5972035,30.7265257]
 w324996287
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=Колхозная улица | building=yes
     geometry : n3316727562[52.5999336,30.7273120] n3316727563[52.5999437,30.7273632] n3316727561[52.5999291,30.7273710] n3316727564[52.5999455,30.7274544] n3316727566[52.6000136,30.7274180] n3316727565[52.5999870,30.7272834] n3316727562[52.5999336,30.7273120]
 w324996289
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=Колхозный переулок | building=yes
     geometry : n3316726996[52.5967408,30.7255324] n3316727000[52.5968088,30.7256835] n3316727001[52.5968730,30.7256051] n3316726999[52.5968050,30.7254540] n3316726996[52.5967408,30.7255324]
 w324996290
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Колхозная улица | building=yes
     geometry : n3316727037[52.5982822,30.7276749] n3316727033[52.5982115,30.7277343] n3316727032[52.5981910,30.7276682] n3316727031[52.5981699,30.7276859] n3316727030[52.5981417,30.7275948] n3316727034[52.5982420,30.7275105] n3316727036[52.5982713,30.7276048] n3316727035[52.5982627,30.7276120] n3316727037[52.5982822,30.7276749]
 w324996292
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=Колхозный переулок | building=yes
     geometry : n3316727023[52.5975362,30.7285543] n3316727013[52.5974490,30.7285824] n3316727017[52.5974632,30.7287025] n3316727024[52.5975505,30.7286745] n3316727023[52.5975362,30.7285543]
 w324996294
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=Колхозная улица | building=yes
     geometry : n3316727046[52.5985496,30.7274910] n3316727043[52.5985059,30.7273717] n3316727047[52.5985556,30.7273223] n3316727048[52.5985993,30.7274417] n3316727046[52.5985496,30.7274910]
 w324996297
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Колхозный переулок | building=yes
     geometry : n3316727018[52.5974883,30.7280669] n3316727016[52.5974632,30.7280794] n3316727014[52.5974540,30.7280288] n3316727011[52.5973893,30.7280610] n3316727012[52.5974108,30.7281783] n3316727021[52.5975006,30.7281337] n3316727018[52.5974883,30.7280669]
 w324996300
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Колхозный переулок | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Колхозный переулок | building=yes
     geometry : n3316726998[52.5967985,30.7261944] n3316726995[52.5967284,30.7262741] n3316726993[52.5966780,30.7261541] n3316726997[52.5967482,30.7260744] n3316726998[52.5967985,30.7261944]
 w325004969
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=Колхозная улица | building=yes
     geometry : n3316798905[52.5991639,30.7271830] n3316798903[52.5990927,30.7272156] n3316798902[52.5990847,30.7271680] n3316798899[52.5990525,30.7271827] n3316798897[52.5990348,30.7270772] n3316798904[52.5991381,30.7270300] n3316798905[52.5991639,30.7271830]
 w325004970
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=Колхозная улица | building=yes
     geometry : n3316798921[52.5995488,30.7274635] n3316798917[52.5994698,30.7275090] n3316798918[52.5994880,30.7275948] n3316798922[52.5995670,30.7275493] n3316798921[52.5995488,30.7274635]
 w325004971
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=Колхозная улица | building=yes
     geometry : n3316798916[52.5993658,30.7271021] n3316798913[52.5993099,30.7271287] n3316798912[52.5993022,30.7270852] n3316798911[52.5992786,30.7270964] n3316798909[52.5992558,30.7269664] n3316798915[52.5993354,30.7269286] n3316798916[52.5993658,30.7271021]
 w325004972
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=Колхозная улица | building=yes
     geometry : n3316798919[52.5994997,30.7268865] n3316798920[52.5995252,30.7270342] n3316798924[52.5996103,30.7269944] n3316798923[52.5995849,30.7268467] n3316798919[52.5994997,30.7268865]
 w325004973
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=Колхозная улица | building=yes
     geometry : n3316798932[52.5998244,30.7268978] n3316798927[52.5997503,30.7269402] n3316798925[52.5997316,30.7268518] n3316798928[52.5997535,30.7268393] n3316798926[52.5997380,30.7267658] n3316798929[52.5997902,30.7267358] n3316798932[52.5998244,30.7268978]
 w325004974
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=Колхозная улица | building=yes
     geometry : n3316798936[52.5999968,30.7267778] n3316798934[52.5999078,30.7268315] n3316798933[52.5998655,30.7266412] n3316798935[52.5999544,30.7265875] n3316798936[52.5999968,30.7267778]
 w325004975
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=2 | addr:street=Колхозная улица | building=yes
     geometry : n3316798881[52.5985536,30.7279312] n3316798883[52.5985709,30.7280147] n3316798880[52.5985480,30.7280275] n3316798882[52.5985643,30.7281064] n3316798885[52.5986454,30.7280610] n3316798884[52.5986118,30.7278986] n3316798881[52.5985536,30.7279312]
 w325004976
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=Колхозная улица | building=yes
     geometry : n3316798937[52.6000915,30.7265728] n3316798938[52.6001361,30.7267541] n3316798941[52.6002164,30.7267005] n3316798940[52.6001718,30.7265192] n3316798937[52.6000915,30.7265728]
 w325004977
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=Колхозная улица | building=yes
     geometry : n3316798947[52.6003878,30.7266346] n3316798945[52.6003305,30.7266795] n3316798944[52.6003087,30.7266043] n3316798943[52.6002932,30.7266164] n3316798942[52.6002644,30.7265168] n3316798946[52.6003373,30.7264598] n3316798947[52.6003878,30.7266346]
 w325004978
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=Колхозная улица | building=yes
     geometry : n3316798887[52.5988031,30.7277608] n3316798889[52.5988354,30.7279337] n3316798892[52.5988967,30.7279026] n3316798890[52.5988645,30.7277298] n3316798887[52.5988031,30.7277608]
 w325004979
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=Колхозная улица | building=yes
     geometry : n3316798877[52.5984147,30.7275881] n3316798876[52.5983610,30.7274349] n3316798878[52.5984336,30.7273660] n3316798879[52.5984873,30.7275192] n3316798877[52.5984147,30.7275881]
 w325004980
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=Колхозная улица | building=yes
     geometry : n3316798898[52.5990478,30.7276535] n3316798895[52.5989907,30.7276833] n3316798896[52.5990217,30.7278442] n3316798901[52.5990788,30.7278144] n3316798898[52.5990478,30.7276535]
 w325004981
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=Колхозная улица | building=yes
     geometry : n3316798908[52.5992250,30.7275795] n3316798906[52.5991752,30.7276068] n3316798907[52.5992071,30.7277646] n3316798910[52.5992570,30.7277372] n3316798908[52.5992250,30.7275795]
 w325004982
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=Колхозная улица | building=yes
     geometry : n3316798893[52.5989049,30.7271243] n3316798894[52.5989426,30.7272612] n3316798891[52.5988699,30.7273155] n3316798888[52.5988322,30.7271786] n3316798893[52.5989049,30.7271243]
 w325205805
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=53 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=53 | addr:street=Колхозная улица | building=yes
     geometry : n3318631216[52.6033637,30.7250507] n3318631215[52.6033409,30.7249933] n3318631214[52.6033236,30.7250120] n3318631213[52.6032969,30.7249446] n3318631217[52.6033688,30.7248673] n3318631218[52.6034183,30.7249920] n3318631216[52.6033637,30.7250507]
 w325205806
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=55 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=55 | addr:street=Колхозная улица | building=yes
     geometry : n3318631225[52.6035483,30.7248460] n3318631223[52.6035368,30.7248176] n3318631222[52.6035193,30.7248368] n3318631220[52.6034891,30.7247624] n3318631221[52.6035073,30.7247425] n3318631219[52.6034849,30.7246873] n3318631224[52.6035441,30.7246222] n3318631226[52.6036082,30.7247802] n3318631225[52.6035483,30.7248460]
 w325205807
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=61 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=61 | addr:street=Колхозная улица | building=yes
     geometry : n3318631228[52.6041206,30.7242541] n3318631227[52.6040663,30.7241209] n3318631229[52.6041694,30.7240069] n3318631230[52.6042237,30.7241400] n3318631228[52.6041206,30.7242541]
 w325211384
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=49 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=49 | addr:street=Колхозная улица | building=yes
     geometry : n3318707242[52.6030092,30.7254491] n3318707240[52.6029748,30.7253665] n3318707239[52.6029464,30.7253985] n3318707237[52.6029110,30.7253132] n3318707241[52.6029866,30.7252282] n3318707244[52.6030563,30.7253960] n3318707243[52.6030235,30.7254330] n3318707242[52.6030092,30.7254491]
 w325211385
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=51 | addr:street=Колхозная улица | building=yes
     geometry : n3318707248[52.6031755,30.7252560] n3318707246[52.6031139,30.7251078] n3318707247[52.6031620,30.7250536] n3318707250[52.6032236,30.7252018] n3318707248[52.6031755,30.7252560]
 w325211386
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=52 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=52 | addr:street=Колхозная улица | building=yes
     geometry : n3318707249[52.6032014,30.7256195] n3318707252[52.6032313,30.7257003] n3318707254[52.6033108,30.7256206] n3318707253[52.6032810,30.7255399] n3318707249[52.6032014,30.7256195]
 w325211387
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=54 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=54 | addr:street=Колхозная улица | building=yes
     geometry : n3318707258[52.6034260,30.7253718] n3318707256[52.6033637,30.7254386] n3318707257[52.6034158,30.7255703] n3318707259[52.6034781,30.7255034] n3318707258[52.6034260,30.7253718]
 w325211388
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=56 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=56 | addr:street=Колхозная улица | building=yes
     geometry : n3318711064[52.6036138,30.7251720] n3318707260[52.6035028,30.7252852] n3318711062[52.6035485,30.7254064] n3318711066[52.6036594,30.7252932] n3318711064[52.6036138,30.7251720]
 w325211389
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=57 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=57 | addr:street=Колхозная улица | building=yes
     geometry : n3318711073[52.6037492,30.7246154] n3318711067[52.6036812,30.7246828] n3318711065[52.6036378,30.7245642] n3318711070[52.6037058,30.7244968] n3318711073[52.6037492,30.7246154]
 w325211390
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=58 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=58 | addr:street=Колхозная улица | building=yes
     geometry : n3318711074[52.6037608,30.7250342] n3318711068[52.6036968,30.7251020] n3318711071[52.6037277,30.7251810] n3318711069[52.6037031,30.7252070] n3318711072[52.6037355,30.7252900] n3318711078[52.6038241,30.7251962] n3318711074[52.6037608,30.7250342]
 w325211391
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=59 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=59 | addr:street=Колхозная улица | building=yes
     geometry : n3318711089[52.6039843,30.7243894] n3318711086[52.6039200,30.7244546] n3318711079[52.6038576,30.7242877] n3318711087[52.6039220,30.7242226] n3318711089[52.6039843,30.7243894]
 w325211392
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=60 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=60 | addr:street=Колхозная улица | building=yes
     geometry : n3318711082[52.6038824,30.7248790] n3318711077[52.6038083,30.7249544] n3318711081[52.6038714,30.7251227] n3318711088[52.6039302,30.7250629] n3318711084[52.6039031,30.7249904] n3318711085[52.6039184,30.7249749] n3318711082[52.6038824,30.7248790]
 w325211393
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=62 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=62 | addr:street=Колхозная улица | building=yes
     geometry : n3318711098[52.6041233,30.7246451] n3318711092[52.6040687,30.7247036] n3318711096[52.6041063,30.7247988] n3318711094[52.6040856,30.7248209] n3318711097[52.6041072,30.7248755] n3318711099[52.6041824,30.7247949] n3318711098[52.6041233,30.7246451]
 w325211394
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=64 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=64 | addr:street=Колхозная улица | building=yes
     geometry : n3318711104[52.6043734,30.7245617] n3318711102[52.6042714,30.7246521] n3318711103[52.6043222,30.7248075] n3318711105[52.6044242,30.7247171] n3318711104[52.6043734,30.7245617]
 w325211395
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=66 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=66 | addr:street=Колхозная улица | building=yes
     geometry : n3318711112[52.6046230,30.7243535] n3318711108[52.6045152,30.7244487] n3318711109[52.6045461,30.7245435] n3318711110[52.6045735,30.7245193] n3318711111[52.6045843,30.7245527] n3318711113[52.6046647,30.7244817] n3318711112[52.6046230,30.7243535]
 w325211649
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=Колхозная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=Колхозная улица | building=yes
     geometry : n3318716688[52.6010612,30.7264068] n3318716687[52.6010104,30.7262221] n3318716689[52.6010905,30.7261624] n3318716690[52.6011413,30.7263471] n3318716688[52.6010612,30.7264068]
 w326532426
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=44 | addr:street=Козлова улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=44 | addr:street=Козлова улица | building=yes
     geometry : n3331851925[52.5955687,30.7256519] n3331851927[52.5956177,30.7257599] n3331851926[52.5955882,30.7257961] n3331851928[52.5956252,30.7258776] n3331851931[52.5956875,30.7258011] n3331851930[52.5956772,30.7257785] n3331851932[52.5957065,30.7257425] n3331851929[52.5956307,30.7255756] n3331851925[52.5955687,30.7256519]
 w326532427
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=46 | addr:street=Козлова улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=46 | addr:street=Козлова улица | building=yes
     geometry : n3331851937[52.5957709,30.7254087] n3331851933[52.5957215,30.7254642] n3331851935[52.5957542,30.7255433] n3331851934[52.5957380,30.7255616] n3331851936[52.5957622,30.7256200] n3331851938[52.5958279,30.7255463] n3331851937[52.5957709,30.7254087]
 w326532428
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=48 | addr:street=Козлова улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=48 | addr:street=Козлова улица | building=yes
     geometry : n3331851944[52.5960173,30.7254049] n3331851942[52.5959329,30.7252101] n3331851939[52.5958782,30.7252744] n3331851941[52.5959242,30.7253807] n3331851940[52.5959024,30.7254064] n3331851943[52.5959407,30.7254948] n3331851944[52.5960173,30.7254049]
 w330466445
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=10 | addr:street=улица Кирова | building=yes
     geometry : n3374353399[52.5910779,30.7225968] n3374353404[52.5911174,30.7226885] n3374353403[52.5910991,30.7227098] n3374353405[52.5911269,30.7227742] n3374353408[52.5912028,30.7226856] n3374353406[52.5911356,30.7225295] n3374353399[52.5910779,30.7225968]
 w330466446
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=11 | addr:street=улица Кирова | building=yes
     geometry : n3374353407[52.5911517,30.7221035] n3374353402[52.5910931,30.7221817] n3374353398[52.5910318,30.7220571] n3374353401[52.5910904,30.7219789] n3374353407[52.5911517,30.7221035]
 w330466447
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=12 | addr:street=улица Кирова | building=yes
     geometry : n3374353410[52.5912411,30.7224018] n3374353417[52.5913180,30.7225638] n3374353422[52.5913817,30.7224819] n3374353414[52.5913048,30.7223199] n3374353410[52.5912411,30.7224018]
 w330466448
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=13 | addr:street=улица Кирова | building=yes
     geometry : n3374353411[52.5912561,30.7219721] n3374353409[52.5912104,30.7218711] n3374353412[52.5912637,30.7218058] n3374353416[52.5913094,30.7219069] n3374353411[52.5912561,30.7219721]
 w330466449
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=14 | addr:street=улица Кирова | building=yes
     geometry : n3374353425[52.5914169,30.7221805] n3374353428[52.5914415,30.7222335] n3374353426[52.5914191,30.7222617] n3374353430[52.5914546,30.7223384] n3374353436[52.5915384,30.7222333] n3374353432[52.5914783,30.7221036] n3374353425[52.5914169,30.7221805]
 w330466450
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=15 | addr:street=улица Кирова | building=yes
     geometry : n3374353423[52.5913822,30.7218081] n3374353419[52.5913561,30.7217538] n3374353418[52.5913371,30.7217785] n3374353415[52.5913082,30.7217186] n3374353421[52.5913768,30.7216290] n3374353424[52.5914029,30.7215948] n3374353431[52.5914716,30.7217374] n3374353429[52.5914426,30.7217753] n3374353427[52.5914289,30.7217470] n3374353423[52.5913822,30.7218081]
 w330466451
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=16 | addr:street=улица Кирова | building=yes
     geometry : n3374353440[52.5916152,30.7219264] n3374353437[52.5915578,30.7219988] n3374353442[52.5916327,30.7221598] n3374353446[52.5916901,30.7220874] n3374353440[52.5916152,30.7219264]
 w330466452
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=17 | addr:street=улица Кирова | building=yes
     geometry : n3374353441[52.5916307,30.7214687] n3374353439[52.5915717,30.7215398] n3374353434[52.5915095,30.7213999] n3374353438[52.5915685,30.7213288] n3374353441[52.5916307,30.7214687]
 w330466453
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=18 | addr:street=улица Кирова | building=yes
     geometry : n3374353454[52.5917489,30.7217535] n3374353447[52.5916944,30.7218192] n3374353452[52.5917386,30.7219186] n3374353450[52.5917245,30.7219357] n3374353453[52.5917423,30.7219758] n3374353456[52.5918110,30.7218930] n3374353454[52.5917489,30.7217535]
 w330466454
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=19 | addr:street=улица Кирова | building=yes
     geometry : n3374353451[52.5917303,30.7213432] n3374353448[52.5917031,30.7212707] n3374353445[52.5916806,30.7212936] n3374353444[52.5916497,30.7212111] n3374353449[52.5917232,30.7211364] n3374353455[52.5917813,30.7212914] n3374353451[52.5917303,30.7213432]
 w330466455
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=20 | addr:street=улица Кирова | building=yes
     geometry : n3374353459[52.5918428,30.7216511] n3374353462[52.5918806,30.7217334] n3374353461[52.5918702,30.7217463] n3374353465[52.5918945,30.7217992] n3374353469[52.5919608,30.7217167] n3374353466[52.5918988,30.7215814] n3374353459[52.5918428,30.7216511]
 w330466456
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=21 | addr:street=улица Кирова | building=yes
     geometry : n3374353468[52.5919408,30.7210941] n3374353463[52.5918872,30.7211549] n3374353460[52.5918587,30.7210869] n3374353458[52.5918385,30.7211099] n3374353457[52.5918171,30.7210590] n3374353464[52.5918910,30.7209752] n3374353468[52.5919408,30.7210941]
 w330466457
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=22 | addr:street=улица Кирова | building=yes
     geometry : n3374353476[52.5920594,30.7213668] n3374353471[52.5920061,30.7214322] n3374353473[52.5920532,30.7215361] n3374353472[52.5920352,30.7215583] n3374353474[52.5920535,30.7215986] n3374353479[52.5921247,30.7215111] n3374353476[52.5920594,30.7213668]
 w330466458
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=23 | addr:street=улица Кирова | building=yes
     geometry : n3374353477[52.5920745,30.7209122] n3374353470[52.5919999,30.7207407] n3374353475[52.5920559,30.7206747] n3374353480[52.5921305,30.7208462] n3374353477[52.5920745,30.7209122]
 w330466459
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=24 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=24 | addr:street=улица Кирова | building=yes
     geometry : n3374353486[52.5921816,30.7212075] n3374353478[52.5921241,30.7212824] n3374353484[52.5921698,30.7213776] n3374353482[52.5921537,30.7213985] n3374353485[52.5921790,30.7214513] n3374353491[52.5922527,30.7213554] n3374353486[52.5921816,30.7212075]
 w330466460
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=25 | addr:street=улица Кирова | building=yes
     geometry : n3374353490[52.5922263,30.7207154] n3374353488[52.5921955,30.7206348] n3374353483[52.5921681,30.7206631] n3374353481[52.5921443,30.7206008] n3374353489[52.5922141,30.7205287] n3374353492[52.5922686,30.7206717] n3374353490[52.5922263,30.7207154]
 w330466461
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=Пионерская улица | building=yes
     geometry : n3374353350[52.5900493,30.7234898] n3374353348[52.5900158,30.7233985] n3374353352[52.5901141,30.7233011] n3374353354[52.5901475,30.7233923] n3374353350[52.5900493,30.7234898]
 w330466462
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=26 | addr:street=улица Кирова | building=yes
     geometry : n3374353499[52.5924081,30.7209086] n3374353494[52.5923476,30.7209813] n3374353496[52.5923956,30.7210895] n3374353498[52.5924036,30.7210798] n3374353502[52.5924250,30.7211279] n3374353506[52.5924774,30.7210649] n3374353499[52.5924081,30.7209086]
 w330466463
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=27 | addr:street=улица Кирова | building=yes
     geometry : n3374353503[52.5924602,30.7204419] n3374353500[52.5924129,30.7204932] n3374353497[52.5923972,30.7204539] n3374353495[52.5923716,30.7204815] n3374353493[52.5923473,30.7204206] n3374353501[52.5924201,30.7203417] n3374353503[52.5924602,30.7204419]
 w330466464
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=28 | addr:street=улица Кирова | building=yes
     geometry : n3374353516[52.5925639,30.7207253] n3374353510[52.5925180,30.7207819] n3374353514[52.5925550,30.7208633] n3374353512[52.5925437,30.7208772] n3374353517[52.5925728,30.7209411] n3374353521[52.5926300,30.7208706] n3374353516[52.5925639,30.7207253]
 w330466465
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=29 | addr:street=улица Кирова | building=yes
     geometry : n3374353513[52.5925489,30.7203008] n3374353509[52.5925073,30.7203505] n3374353504[52.5924621,30.7202482] n3374353508[52.5925007,30.7202020] n3374353507[52.5924850,30.7201664] n3374353511[52.5925290,30.7201138] n3374353520[52.5925876,30.7202467] n3374353518[52.5925738,30.7202632] n3374353519[52.5925871,30.7202934] n3374353515[52.5925600,30.7203258] n3374353513[52.5925489,30.7203008]
 w330466466
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=3 | addr:street=улица Кирова | building=yes
     geometry : n3374353363[52.5904568,30.7229853] n3374353359[52.5903737,30.7230743] n3374353357[52.5903062,30.7229036] n3374353358[52.5903638,30.7228420] n3374353360[52.5903981,30.7229288] n3374353361[52.5904237,30.7229014] n3374353363[52.5904568,30.7229853]
 w330466467
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=30 | addr:street=улица Кирова | building=yes
     geometry : n3374353529[52.5927406,30.7205184] n3374353523[52.5926820,30.7205882] n3374353527[52.5927313,30.7207004] n3374353532[52.5927899,30.7206306] n3374353529[52.5927406,30.7205184]
 w330466468
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=31 | addr:street=улица Кирова | building=yes
     geometry : n3374353526[52.5927312,30.7200935] n3374353525[52.5927082,30.7200375] n3374353524[52.5926919,30.7200555] n3374353522[52.5926692,30.7200002] n3374353528[52.5927362,30.7199258] n3374353531[52.5927818,30.7200371] n3374353526[52.5927312,30.7200935]
 w330466469
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=32 | addr:street=улица Кирова | building=yes
     geometry : n3374353535[52.5928930,30.7203190] n3374353533[52.5928340,30.7203885] n3374353534[52.5928889,30.7205151] n3374353536[52.5929480,30.7204456] n3374353535[52.5928930,30.7203190]
 w330466470
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=34 | addr:street=улица Кирова | building=yes
     geometry : n3374353539[52.5930683,30.7201033] n3374353537[52.5930117,30.7201710] n3374353538[52.5930674,30.7202975] n3374353540[52.5931241,30.7202297] n3374353539[52.5930683,30.7201033]
 w330466471
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=36 | addr:street=улица Кирова | building=yes
     geometry : n3374353544[52.5932163,30.7199048] n3374353542[52.5931738,30.7199603] n3374353543[52.5931922,30.7199986] n3374353541[52.5931726,30.7200243] n3374353545[52.5932226,30.7201282] n3374353546[52.5932848,30.7200470] n3374353544[52.5932163,30.7199048]
 w330466472
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=4 | addr:street=улица Кирова | building=yes
     geometry : n3374353376[52.5906018,30.7231770] n3374353371[52.5905351,30.7232590] n3374353375[52.5905903,30.7233806] n3374353378[52.5906570,30.7232986] n3374353376[52.5906018,30.7231770]
 w330466473
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=5 | addr:street=улица Кирова | building=yes
     geometry : n3374353377[52.5906058,30.7227667] n3374353373[52.5905557,30.7228284] n3374353369[52.5904917,30.7226877] n3374353372[52.5905418,30.7226260] n3374353377[52.5906058,30.7227667]
 w330466474
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=6 | addr:street=улица Кирова | building=yes
     geometry : n3374353382[52.5907661,30.7229692] n3374353380[52.5907179,30.7230309] n3374353386[52.5907835,30.7231696] n3374353388[52.5908317,30.7231079] n3374353382[52.5907661,30.7229692]
 w330466475
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=7 | addr:street=улица Кирова | building=yes
     geometry : n3374353384[52.5907766,30.7225944] n3374353381[52.5907202,30.7224545] n3374353385[52.5907776,30.7223917] n3374353389[52.5908341,30.7225316] n3374353384[52.5907766,30.7225944]
 w330466476
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=8 | addr:street=улица Кирова | building=yes
     geometry : n3374353391[52.5908977,30.7228185] n3374353395[52.5909544,30.7229397] n3374353397[52.5910090,30.7228704] n3374353394[52.5909523,30.7227492] n3374353391[52.5908977,30.7228185]
 w330466477
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=улица Кирова | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:housenumber=9 | addr:street=улица Кирова | building=yes
     geometry : n3374353396[52.5909941,30.7223305] n3374353392[52.5909260,30.7221772] n3374353390[52.5908697,30.7222450] n3374353393[52.5909378,30.7223983] n3374353396[52.5909941,30.7223305]
 w330466478
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353343[52.5897224,30.7233988] n3374353340[52.5896881,30.7234487] n3374353341[52.5897087,30.7234869] n3374353337[52.5896530,30.7235680] n3374353335[52.5896294,30.7235241] n3374353336[52.5896473,30.7234981] n3374353332[52.5896137,30.7234357] n3374353334[52.5896284,30.7234143] n3374353331[52.5896120,30.7233839] n3374353338[52.5896694,30.7233003] n3374353343[52.5897224,30.7233988]
 w330466479
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353320[52.5894277,30.7226416] n3374353318[52.5893328,30.7227571] n3374353319[52.5893699,30.7228398] n3374353322[52.5894649,30.7227242] n3374353320[52.5894277,30.7226416]
 w330466480
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353333[52.5896186,30.7224717] n3374353329[52.5895791,30.7223642] n3374353339[52.5896779,30.7222659] n3374353342[52.5897174,30.7223734] n3374353333[52.5896186,30.7224717]
 w330466481
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353349[52.5900373,30.7239372] n3374353347[52.5900064,30.7238749] n3374353344[52.5899226,30.7239874] n3374353346[52.5899535,30.7240497] n3374353349[52.5900373,30.7239372]
 w330466482
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353370[52.5905123,30.7243704] n3374353367[52.5904708,30.7244201] n3374353368[52.5904842,30.7244504] n3374353362[52.5904325,30.7245123] n3374353365[52.5904677,30.7245919] n3374353374[52.5905609,30.7244803] n3374353370[52.5905123,30.7243704]
 w330466483
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Пионерская улица | building=yes
     geometry : n3374353330[52.5896092,30.7230314] n3374353325[52.5895245,30.7231312] n3374353324[52.5894998,30.7230744] n3374353323[52.5894831,30.7230941] n3374353321[52.5894606,30.7230424] n3374353326[52.5895293,30.7229614] n3374353327[52.5895412,30.7229888] n3374353328[52.5895739,30.7229503] n3374353330[52.5896092,30.7230314]
 w352785014
   other tags : building=yes
@@ -3104,34 +3101,34 @@ w352785019
   other tags : building=yes
     geometry : n3585541304[52.5955127,30.7450137] n3585541298[52.5954675,30.7450129] n3585541299[52.5954685,30.7448555] n3585541305[52.5955136,30.7448562] n3585541304[52.5955127,30.7450137]
 w352785020
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541350[52.5957527,30.7432679] n3585541335[52.5956646,30.7432546] n3585541336[52.5956735,30.7430938] n3585541352[52.5957616,30.7431071] n3585541350[52.5957527,30.7432679]
 w352785021
   other tags : building=yes
     geometry : n3585541324[52.5956024,30.7432427] n3585541312[52.5955541,30.7432391] n3585541313[52.5955574,30.7430975] n3585541325[52.5956068,30.7431011] n3585541324[52.5956024,30.7432427]
 w352785022
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541354[52.5957700,30.7428391] n3585541328[52.5956338,30.7428245] n3585541329[52.5956397,30.7426744] n3585541356[52.5957760,30.7426890] n3585541354[52.5957700,30.7428391]
 w352785023
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541390[52.5960985,30.7441725] n3585541371[52.5960201,30.7441604] n3585541375[52.5960282,30.7440202] n3585541367[52.5960041,30.7440164] n3585541370[52.5960082,30.7439440] n3585541392[52.5961107,30.7439599] n3585541390[52.5960985,30.7441725]
 w352785024
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541594[52.5961201,30.7438152] n3585541378[52.5960452,30.7438134] n3585541379[52.5960469,30.7436270] n3585541600[52.5961615,30.7436297] n3585541598[52.5961608,30.7437092] n3585541595[52.5961211,30.7437082] n3585541594[52.5961201,30.7438152]
 w352785025
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541604[52.5961935,30.7427543] n3585541602[52.5961903,30.7428867] n3585541384[52.5960795,30.7428794] n3585541388[52.5960838,30.7427029] n3585541597[52.5961316,30.7427060] n3585541596[52.5961305,30.7427501] n3585541604[52.5961935,30.7427543]
 w352785026
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541338[52.5956849,30.7448941] n3585541323[52.5955988,30.7448875] n3585541322[52.5955954,30.7450076] n3585541315[52.5955615,30.7450050] n3585541314[52.5955595,30.7450765] n3585541337[52.5956794,30.7450857] n3585541338[52.5956849,30.7448941]
 w352785027
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541333[52.5956592,30.7452895] n3585541332[52.5956579,30.7454757] n3585541310[52.5955377,30.7454734] n3585541311[52.5955382,30.7453984] n3585541318[52.5955743,30.7453991] n3585541319[52.5955751,30.7452879] n3585541333[52.5956592,30.7452895]
 w352785028
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541599[52.5961609,30.7434886] n3585541383[52.5960783,30.7434849] n3585541385[52.5960796,30.7434047] n3585541376[52.5960393,30.7434029] n3585541377[52.5960408,30.7433152] n3585541386[52.5960812,30.7433170] n3585541387[52.5960822,30.7432566] n3585541601[52.5961647,30.7432603] n3585541599[52.5961609,30.7434886]
 w352785029
-  other tags : addr:country=BY | addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
+  other tags : addr:hamlet=Уваровичи | addr:street=Заречная улица | building=yes
     geometry : n3585541345[52.5957310,30.7437512] n3585541331[52.5956554,30.7437439] n3585541334[52.5956617,30.7435677] n3585541349[52.5957439,30.7435756] n3585541348[52.5957422,30.7436247] n3585541353[52.5957623,30.7436267] n3585541351[52.5957597,30.7437008] n3585541346[52.5957329,30.7436982] n3585541345[52.5957310,30.7437512]
 w352785900
   other tags : building=yes

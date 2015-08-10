@@ -983,7 +983,7 @@ w158182169
   other tags : addr:housenumber=152 | addr:street=Могилёвская улица | building=yes
     geometry : n1704119605[54.4173419,30.4424507] n1704119592[54.4171927,30.4424577] n1704119591[54.4171905,30.4423185] n1704119603[54.4173397,30.4423114] n1704119605[54.4173419,30.4424507]
 w158182198
-  other tags : addr:housenumber=141а | addr:street=Могилёвская улица | building=yes
+  other tags : addr:housenumber=141А | addr:street=Могилёвская улица | building=yes
     geometry : n1704119780[54.4204954,30.4423278] n1704119776[54.4203779,30.4423341] n1704119774[54.4203753,30.4421925] n1704119778[54.4204928,30.4421861] n1704119780[54.4204954,30.4423278]
 w158217327
   other tags : addr:housenumber=1 | addr:street=2-й Центральный переулок | building=yes
@@ -6227,7 +6227,7 @@ w170848185
   other tags : addr:housenumber=112 | addr:street=Центральная улица | building=yes
     geometry : n1819848433[54.4493678,30.4547155] n1819848442[54.4494133,30.4545460] n1819848460[54.4495057,30.4546194] n1819848451[54.4494602,30.4547889] n1819848433[54.4493678,30.4547155]
 w170848186
-  other tags : addr:housenumber=122а | building=yes
+  other tags : addr:housenumber=122А | building=yes
     geometry : n1819848366[54.4491138,30.4547707] n1819848370[54.4491199,30.4545844] n1819848393[54.4492215,30.4545943] n1819848390[54.4492154,30.4547806] n1819848366[54.4491138,30.4547707]
 w170848187
   other tags : addr:housenumber=119 | addr:street=Станционный переулок | building=yes
@@ -6455,7 +6455,7 @@ w170848263
   other tags : addr:housenumber=78 | building=yes
     geometry : n1819847950[54.4465476,30.4638306] n1819847957[54.4465778,30.4637398] n1819847993[54.4466658,30.4638265] n1819847985[54.4466356,30.4639172] n1819847950[54.4465476,30.4638306]
 w170848264
-  other tags : addr:housenumber=82б | addr:street=Лесная улица | building=yes
+  other tags : addr:housenumber=82Б | addr:street=Лесная улица | building=yes
     geometry : n1819847848[54.4462976,30.4637644] n1819847854[54.4463278,30.4636737] n1819847890[54.4464158,30.4637603] n1819847883[54.4463855,30.4638511] n1819847848[54.4462976,30.4637644]
 w170848265
   other tags : addr:housenumber=123 | addr:street=Станционный переулок | building=yes
@@ -6605,7 +6605,7 @@ w170848316
   other tags : addr:housenumber=141 | addr:street=Центральная улица | building=yes
     geometry : n1819848239[54.4485721,30.4574914] n1819848259[54.4486637,30.4572192] n1819848263[54.4487001,30.4572554] n1819848247[54.4486084,30.4575276] n1819848239[54.4485721,30.4574914]
 w170848317
-  other tags : addr:housenumber=1а | addr:street=Станционный переулок | building=yes
+  other tags : addr:housenumber=1А | addr:street=Станционный переулок | building=yes
     geometry : n1819848078[54.4471317,30.4547821] n1819848075[54.4471334,30.4545955] n1819848084[54.4472353,30.4545984] n1819848086[54.4472335,30.4547850] n1819848078[54.4471317,30.4547821]
 w170848318
   other tags : building=yes
@@ -9497,7 +9497,7 @@ w201071051
   other tags : addr:street=Мирная улица | building=yes | building:levels=1
     geometry : n2110290112[54.5231830,30.4744132] n2110290149[54.5232595,30.4743652] n2110290140[54.5232948,30.4745323] n2110290106[54.5232183,30.4745804] n2110290112[54.5231830,30.4744132]
 w201071052
-  other tags : addr:housenumber=25а | addr:street=Звёздная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=25А | addr:street=Звёздная улица | building=yes | building:levels=1
     geometry : n2110290765[54.5258771,30.4746050] n2110290784[54.5258943,30.4747421] n2110290780[54.5257935,30.4747799] n2110290763[54.5257762,30.4746428] n2110290765[54.5258771,30.4746050]
 w201071053
   other tags : addr:street=Мирная улица | building=yes | building:levels=1
@@ -20213,7 +20213,7 @@ w293298898
   other tags : addr:housenumber=13 | addr:street=Замковая улица | building=yes | building:levels=1
     geometry : n2968828536[54.6032452,30.0422362] n2968828546[54.6033411,30.0422387] n2968828545[54.6033394,30.0424399] n2968828535[54.6032434,30.0424374] n2968828536[54.6032452,30.0422362]
 w293298899
-  other tags : addr:housenumber=4а | addr:street=Надречная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=4А | addr:street=Надречная улица | building=yes | building:levels=1
     geometry : n2968828515[54.6021384,30.0448476] n2968828520[54.6022322,30.0448127] n2968828522[54.6022568,30.0450094] n2968828518[54.6021629,30.0450443] n2968828515[54.6021384,30.0448476]
 w293298900
   other tags : addr:street=Надречная улица | building=yes | building:levels=1
@@ -20375,10 +20375,10 @@ w324434212
   other tags : addr:housenumber=139 | addr:street=Могилёвская улица | building=yes
     geometry : n3311602636[54.4208327,30.4422075] n3311602634[54.4207152,30.4422138] n3311602633[54.4207126,30.4420722] n3311602635[54.4208301,30.4420658] n3311602636[54.4208327,30.4422075]
 w324434213
-  other tags : addr:housenumber=1а | addr:street=Садовая улица | building=yes
+  other tags : addr:housenumber=1А | addr:street=Садовая улица | building=yes
     geometry : n3311602657[54.5704503,30.4555420] n3311603661[54.5705417,30.4555388] n3311603662[54.5705440,30.4557362] n3311602658[54.5704525,30.4557394] n3311602657[54.5704503,30.4555420]
 w324434214
-  other tags : addr:housenumber=1б | addr:street=Садовая улица | building=yes
+  other tags : addr:housenumber=1Б | addr:street=Садовая улица | building=yes
     geometry : n3311602653[54.5703345,30.4552824] n3311602655[54.5704259,30.4552792] n3311602656[54.5704282,30.4554766] n3311602654[54.5703367,30.4554798] n3311602653[54.5703345,30.4552824]
 w324434215
   other tags : addr:housenumber=2 | addr:street=Дачная улица | building=yes
@@ -20393,7 +20393,7 @@ w324434218
   other tags : addr:housenumber=26 | addr:street=Полевая улица | building=yes | building:levels=1
     geometry : n3311602647[54.5612540,30.4442519] n3311602648[54.5612726,30.4444623] n3311602646[54.5611958,30.4444826] n3311602645[54.5611771,30.4442722] n3311602647[54.5612540,30.4442519]
 w324434219
-  other tags : addr:housenumber=26а | addr:street=Садовая улица | building=yes
+  other tags : addr:housenumber=26А | addr:street=Садовая улица | building=yes
     geometry : n3311602649[54.5680530,30.4568548] n3311602651[54.5681444,30.4568516] n3311602652[54.5681467,30.4570490] n3311602650[54.5680552,30.4570522] n3311602649[54.5680530,30.4568548]
 w324434220
   other tags : addr:housenumber=27 | addr:street=Дачная улица | building=yes
@@ -20402,19 +20402,19 @@ w324434221
   other tags : addr:housenumber=6 | addr:street=улица Строителей | building=yes
     geometry : n3311602641[54.4412706,30.4498984] n3311602643[54.4413881,30.4498968] n3311602644[54.4413889,30.4500871] n3311602642[54.4412714,30.4500886] n3311602641[54.4412706,30.4498984]
 w324439144
-  other tags : addr:housenumber=11а | building=yes | building:levels=1
+  other tags : addr:housenumber=11А | building=yes | building:levels=1
     geometry : n3311644576[54.5014091,30.3168472] n3311644575[54.5013666,30.3166288] n3311644577[54.5014382,30.3165875] n3311644578[54.5014807,30.3168059] n3311644576[54.5014091,30.3168472]
 w324439146
-  other tags : addr:housenumber=2а | building=yes | building:levels=1
+  other tags : addr:housenumber=2А | building=yes | building:levels=1
     geometry : n3311644587[54.5059315,30.3167291] n3311644588[54.5059724,30.3165098] n3311644590[54.5060443,30.3165496] n3311644589[54.5060034,30.3167689] n3311644587[54.5059315,30.3167291]
 w324439148
   other tags : addr:housenumber=32 | addr:street=Трудовая улица | building=yes | building:levels=1
     geometry : n3311644574[54.4951321,30.3463791] n3311644573[54.4951125,30.3466530] n3311644571[54.4950131,30.3466319] n3311644572[54.4950328,30.3463579] n3311644574[54.4951321,30.3463791]
 w324439149
-  other tags : addr:housenumber=52а | building=yes | building:levels=1
+  other tags : addr:housenumber=52А | building=yes | building:levels=1
     geometry : n3311644584[54.5047113,30.3123675] n3311644583[54.5046899,30.3122049] n3311644585[54.5047642,30.3121758] n3311644586[54.5047856,30.3123384] n3311644584[54.5047113,30.3123675]
 w324439150
-  other tags : addr:housenumber=5а | building=yes | building:levels=1
+  other tags : addr:housenumber=5А | building=yes | building:levels=1
     geometry : n3311644579[54.5044254,30.3153869] n3311644580[54.5044663,30.3151676] n3311644582[54.5045382,30.3152074] n3311644581[54.5044973,30.3154267] n3311644579[54.5044254,30.3153869]
 w324439152
   other tags : addr:housenumber=64 | addr:street=ул. Гришаны | building=yes
@@ -20459,7 +20459,7 @@ w324743612
   other tags : addr:housenumber=16 | addr:street=Замковая улица | building=yes | building:levels=1
     geometry : n3314208638[54.6028474,30.0410027] n3314208640[54.6029433,30.0410052] n3314208639[54.6029416,30.0412064] n3314208637[54.6028456,30.0412039] n3314208638[54.6028474,30.0410027]
 w324743624
-  other tags : addr:housenumber=4а | addr:street=Молодёжная улица | building=yes
+  other tags : addr:housenumber=4А | addr:street=Молодёжная улица | building=yes
     geometry : n3314207833[54.5026757,30.5982122] n3314207837[54.5027730,30.5981367] n3314207838[54.5028225,30.5983260] n3314207835[54.5027253,30.5984016] n3314207833[54.5026757,30.5982122]
 w324743627
   other tags : addr:housenumber=6 | addr:street=Молодёжная улица | building=yes
@@ -24131,7 +24131,7 @@ w360828189
   other tags : addr:housenumber=2 | addr:street=Алексеевская улица | building=yes | building:levels=1
     geometry : n3653865779[54.5996543,30.0677740] n3653865778[54.5995951,30.0679707] n3653865776[54.5995345,30.0679163] n3653865777[54.5995937,30.0677196] n3653865779[54.5996543,30.0677740]
 w360989262
-  other tags : addr:housenumber=8а | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=8А | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n3655229723[54.5255150,30.3610619] n3655230425[54.5256339,30.3610716] n3655229724[54.5256266,30.3612886] n3655229722[54.5255107,30.3612793] n3655229723[54.5255150,30.3610619]
 w361728995
   other tags : addr:housenumber=11 | building=yes

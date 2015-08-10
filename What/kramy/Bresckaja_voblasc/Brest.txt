@@ -426,7 +426,7 @@ n306063431  null / null / Новый Дом / Новый Дом
   other tags : addr:housenumber=40 | addr:street=Пушкинская улица | shop=furniture
     geometry : [52.0973622,23.6939716]
 n306063580  null / null / 5 Элемент
-  other tags : shop=computer | website=http://5element.by
+  other tags : shop=computer | website=http://5element.by/
     geometry : [52.0854540,23.6964037]
 n306063852  Абутак / null / Обувь / Обувь
   other tags : shop=general
@@ -1070,7 +1070,7 @@ n3068733440
   other tags : shop=car_repair
     geometry : [52.0765665,23.7216521]
 n3145759297  null / null / Актуаль
-  other tags : addr:city=Брест | addr:housenumber=19/3 | addr:street=Маяковского | note=Студия красоты "Актуаль" | opening_hours=пн-сб 9:00-20:00, вс 9:00-15:00 | operator=ООО "Твое место" | phone=+375(29)234-23-86 | shop=beauty | source=парикмахерская брест | source_1=салон красоты брест | source_2=стрижка брест | source_3=маникюр брест | source_4=сделать стрижку в бресте | website=http://actual-studio.by/ | wheelchair=yes
+  other tags : addr:housenumber=19/3 | addr:street=Маяковского | note=Студия красоты "Актуаль" | opening_hours=Mo-Sa 9:00-20:00, Su 9:00-15:00 | operator=ООО "Твое место" | phone=+375(29)234-23-86 | shop=beauty | source=парикмахерская брест | source_1=салон красоты брест | source_2=стрижка брест | source_3=маникюр брест | source_4=сделать стрижку в бресте | website=http://actual-studio.by/ | wheelchair=yes
     geometry : [52.0932600,23.6917841]
 n3163007409  null / null / Мебель
   other tags : shop=supermarket
@@ -1085,7 +1085,7 @@ n3189607619
   other tags : shop=convenience
     geometry : [52.1432157,23.6578152]
 n3221215376  null / null / Мила
-  other tags : addr:city=Брест | addr:housenumber=88 | addr:postcode=224033 | addr:street=Вульковская улица | opening_hours=9.00-20.00 | shop=hardware | website=http://milashop.by/
+  other tags : addr:housenumber=88 | addr:postcode=224033 | addr:street=Вульковская улица | opening_hours=9:00-20:00 | shop=hardware | website=http://milashop.by/
     geometry : [52.0702035,23.7278441]
 n3279322859  null / null / Квадро-Позитив
   other tags : shop=car_repair
@@ -1154,13 +1154,13 @@ n3431663275  null / null / 8 марта
   other tags : shop=clothes
     geometry : [52.0957350,23.6899334]
 n3439709786  null / null / Велозвезда
-  other tags : amenity=bicycle_repair_station | opening_hours=Tu-Su 10:30-19:30 | phone=+375 25 5297646 | shop=bicycle | website=http://velozvezda.by
+  other tags : amenity=bicycle_repair_station | opening_hours=Tu-Su 10:30-19:30 | phone=+375 25 5297646 | shop=bicycle | website=http://velozvezda.by/
     geometry : [52.0884726,23.7087784]
 n3471348521
   other tags : shop=optician
     geometry : [52.0935293,23.6985094]
 n3519054421  null / null / Цветы от "Жардан"
-  other tags : addr:city=Брест | addr:housenumber=253 | addr:postcode=224023 | addr:street=Московская улица | opening_hours=8:00-20:00 | operator=Жардан | phone=+375 29 801-11-01 | shop=florist | website=http://jardan.by | wheelchair=yes
+  other tags : addr:housenumber=253 | addr:postcode=224023 | addr:street=Московская улица | opening_hours=8:00-20:00 | operator=Жардан | phone=+375 29 801-11-01 | shop=florist | website=http://jardan.by/ | wheelchair=yes
     geometry : [52.0968458,23.7520415]
 n3652113683
   other tags : shop=hairdresser

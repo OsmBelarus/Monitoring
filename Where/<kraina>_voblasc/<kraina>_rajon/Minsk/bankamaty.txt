@@ -1436,7 +1436,7 @@ n1308248640
   other tags : amenity=atm | operator=Технобанк
     geometry : [53.8999866,27.4410459]
 n1308856156
-  other tags : amenity=atm | operator=БПС-Сбербанк
+  other tags : addr:housenumber=12А | addr:street=Барамзиной | amenity=atm | drive_through=no | operator=БПС-Сбербанк
     geometry : [53.8760585,27.9044780]
 n1309577996
   other tags : amenity=atm
@@ -1937,7 +1937,7 @@ n3106528655
   other tags : amenity=atm | operator=БелВЭБ
     geometry : [53.8960599,27.4329109]
 n3118087405  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : addr:city=Минск | addr:housenumber=8 | addr:street=проспект Дзержинского | amenity=atm
+  other tags : addr:housenumber=8 | addr:street=проспект Дзержинского | amenity=atm
     geometry : [53.8943547,27.5307933]
 n3147890931
   other tags : amenity=atm
@@ -1979,7 +1979,7 @@ n3240836617  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : amenity=atm
     geometry : [53.8495730,27.4798476]
 n3259110619  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
-  other tags : addr:city=Минск | addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | amenity=atm | wheelchair=yes
+  other tags : addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | amenity=atm | wheelchair=yes
     geometry : [53.8599246,27.4369062]
 n3260333513  null / null / Беларусбанк
   other tags : amenity=atm | operator=Беларусбанк
@@ -2013,8 +2013,8 @@ n3302409401  null / null / Идеябанк / Идеябанк
 n3302676382  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=atm
     geometry : [53.8493351,27.4815316]
-n3302676385  Белінвестбанк / Bielinviestbank;Parnichok / Белинвестбанк;Парничок №6 / Белинвестбанк
-  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=atm | designation=Магазин | shop=supermarket | website=http://greenstolitsa.by
+n3302676385  Белінвестбанк / Bielinviestbank;Parnichok / Белинвестбанк; Парничок №6 / Белинвестбанк
+  other tags : addr:housenumber=11 | addr:street=улица Яна Чечота | amenity=atm | designation=Магазин | shop=supermarket | website=http://greenstolitsa.by/
     geometry : [53.8496943,27.4796980]
 n3335233349  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=atm | operator=БПС-Сбербанк
@@ -2050,7 +2050,7 @@ n3450185357  null / null / Приорбанк
   other tags : amenity=atm | operator=Приорбанк
     geometry : [53.9184286,27.5315847]
 n3469589121  БПС-Сбребанк / BPS-Sberbank / БПС-Сбербанк / БПС-Сбребанк
-  other tags : addr:city=Минск | addr:housenumber=27 | addr:street=Илимская улица | amenity=atm | cash_in=no | operator=БПС-Сбербанк
+  other tags : addr:housenumber=27 | addr:street=Илимская улица | amenity=atm | cash_in=no | operator=БПС-Сбербанк
     geometry : [53.8914920,27.6835116]
 n3489183864
   other tags : amenity=atm | opening_hours=24/7 | operator=Беларусбанк

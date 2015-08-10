@@ -56,7 +56,7 @@ n1125185527  null / null / Замена автомасла
   other tags : shop=car_repair
     geometry : [53.9034406,25.2883523]
 n1131236918  null / null / Варшавянка
-  other tags : addr:city=Лида | opening_hours=08:00-22:00 | shop=convenience
+  other tags : opening_hours=08:00-22:00 | shop=convenience
     geometry : [53.8807116,25.2906945]
 n1131251868  null / null / Гарант
   other tags : shop=video
@@ -116,7 +116,7 @@ n1406118577  null / null / Кузовной ремонт авто
   other tags : shop=car_repair
     geometry : [53.8881494,25.2699805]
 n1420339680  null / null / Гарант
-  other tags : addr:city=Лида | shop=electronics
+  other tags : shop=electronics
     geometry : [53.8915491,25.2979267]
 n1420339686  Кніжны свет / null / Книжный мир
   other tags : shop=books | website=http://belkniga.by/
@@ -229,7 +229,7 @@ n2853192121  null / null / Север / Север
   other tags : shop=convenience
     geometry : [53.8926378,25.2734387]
 n3097812281  null / null / Компьютерная помощь и продажа bitcoin
-  other tags : addr:city=Лида | addr:housenumber=34 | addr:postcode=231300 | addr:street=Ленинская улица | opening_hours=24/7 | payment:bitcoin=yes | phone=+37060015774 (sms) | shop=computer
+  other tags : addr:housenumber=34 | addr:postcode=231300 | addr:street=Ленинская улица | opening_hours=24/7 | payment:bitcoin=yes | phone=+37060015774 (sms) | shop=computer
     geometry : [53.8902960,25.2914830]
 n3126184195  null / null / Ласунак
   other tags : shop=yes
@@ -247,16 +247,16 @@ n3126222136  null / null / Продукты
   other tags : shop=yes
     geometry : [53.8930483,25.2876236]
 n3126225909  null / null / Дог и Кэт
-  other tags : opening_hours=10:00 - 18:00 | shop=pet
+  other tags : opening_hours=10:00-18:00 | shop=pet
     geometry : [53.8911420,25.2961637]
 n3126227484  null / null / Женский зал
-  other tags : addr:city=Лида | shop=hairdresser
+  other tags : shop=hairdresser
     geometry : [53.8912779,25.2964534]
 n3126229554
   other tags : shop=florist
     geometry : [53.8911325,25.2965231]
 n3126230189  null / null / Мужской зал
-  other tags : opening_hours=10:00 - 17:00 | shop=hairdresser
+  other tags : opening_hours=10:00-17:00 | shop=hairdresser
     geometry : [53.8910313,25.2966197]
 n3126234656  null / null / МТС
   other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 10:00-16:00 | phone=+375 154 53-47-40 | shop=mobile_phone | website=http://mts.by/
@@ -268,31 +268,31 @@ n3127099494  null / null / Продукты
   other tags : shop=yes
     geometry : [53.8967553,25.3003878]
 n3127101562  null / null / Columbia Sportswear
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+  other tags : opening_hours=10:00-18:00 | shop=yes
     geometry : [53.8933608,25.2961331]
 n3127101563  null / null / Addidas
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+  other tags : opening_hours=10:00-18:00 | shop=yes
     geometry : [53.8934014,25.2960747]
 n3127103117  null / null / Цветы
-  other tags : opening_hours=10:00 - 18:00 | shop=florist
+  other tags : opening_hours=10:00-18:00 | shop=florist
     geometry : [53.8931390,25.2973944]
 n3127105894  null / null / Мясо
-  other tags : opening_hours=10:00 - 18 :00 | shop=yes
+  other tags : opening_hours=10:00-18 :00 | shop=yes
     geometry : [53.8917702,25.2953881]
 n3127110107  null / null / МТС
   other tags : description=Салон связи (представитель) | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 10:00-19:00 | phone=+375 154 54-27-86 | shop=mobile_phone | website=http://mts.by/
     geometry : [53.8905021,25.2988560]
 n3127110784  null / null / Цветы
-  other tags : opening_hours=10:00 - 17:00 | shop=florist
+  other tags : opening_hours=10:00-17:00 | shop=florist
     geometry : [53.8879985,25.2962142]
 n3127111637
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+  other tags : opening_hours=10:00-18:00 | shop=yes
     geometry : [53.8898058,25.2960930]
 n3127112340  null / null / Ami
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-17:00 | phone=+375 44 787-34-65 | shop=furniture | website=http://ami.by/
     geometry : [53.8835689,25.2843803]
 n3127120534  null / null / Одежда из европы
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+  other tags : opening_hours=10:00-18:00 | shop=yes
     geometry : [53.8951112,25.2941979]
 n3127122640  null / null / Шиномонтаж
   other tags : shop=car_repair
@@ -301,13 +301,13 @@ n3127128942  null / null / velcom
   other tags : description=Дилерский салон Мобильный город | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:00-16:00 | phone=+375 29 119-1-911 | shop=mobile_phone | website=http://velcom.by/
     geometry : [53.8853899,25.2950087]
 n3127129636  null / null / Обувной
-  other tags : opening_hours=10:00 - 19:00 | shop=yes
+  other tags : opening_hours=10:00-19:00 | shop=yes
     geometry : [53.8853450,25.2950466]
 n3127130363
-  other tags : opening_hours=10:00 - 19:00 | shop=hairdresser
+  other tags : opening_hours=10:00-19:00 | shop=hairdresser
     geometry : [53.8851941,25.2952969]
 n3127130364  null / null / Мебель
-  other tags : opening_hours=10:00 - 18:00 | shop=yes
+  other tags : opening_hours=10:00-18:00 | shop=yes
     geometry : [53.8854122,25.2950411]
 n3127132132  null / null / Окна
   other tags : shop=yes
@@ -322,7 +322,7 @@ n3143681076
   other tags : shop=convenience
     geometry : [53.8737447,25.3168278]
 n3154441073  null / null / Мир дверей
-  other tags : addr:city=Лида | addr:housenumber=8 | addr:street=улица Чапаева | opening_hours=9:00-17:00 | phone=+375 (29) 129-8-229 | shop=yes | website=http://mirdverej.by/
+  other tags : addr:housenumber=8 | addr:street=улица Чапаева | opening_hours=9:00-17:00 | phone=+375 (29) 129-8-229 | shop=yes | website=http://mirdverej.by/
     geometry : [53.8844954,25.2993276]
 n3154442473  null / null / Мир дверей
   other tags : opening_hours=10:00-21:00 | phone=+375 (44) 533-65-95 | shop=doors | website=http://mirdverej.by/
@@ -615,3 +615,7 @@ n3413847233  null / null / Zoo-маркет
 n3619128595  null / null / Магазин стеклозавода "Неман"
   other tags : shop=convenience
     geometry : [53.8867114,25.3021042]
+n3627818441  null / null / ATLANT / Атлант
+  other names: name:en=Atlant
+  other tags : addr:housenumber=21 | addr:street=улица Труханова | opening_hours=Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 10:00-15:00 | operator=Делтех, ЧП | phone=+375 154 607760 | shop=electronics | website=http://happ.by/
+    geometry : [53.8833467,25.2953567]

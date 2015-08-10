@@ -50,20 +50,23 @@ n2588765670  null / null / Почтовое отделение №6
   other tags : amenity=post_office
     geometry : [52.4481319,31.0210696]
 n3127511608  null / null / 246045
-  other tags : amenity=post_office
+  other tags : addr:postcode=246045 | amenity=post_office | ref=246045
     geometry : [52.4777688,31.0239081]
 n3245783162  null / null / Белпочта
-  other tags : addr:city=Гомель | addr:housenumber=33А | addr:postcode=246038 | addr:street=Чечерская улица | amenity=post_office | operator=Белпочта
+  other tags : addr:housenumber=33А | addr:postcode=246038 | addr:street=Чечерская улица | amenity=post_office | operator=Белпочта | ref=246038
     geometry : [52.4673055,31.0369919]
 n3484273391
   other tags : amenity=post_office
     geometry : [52.3548198,31.0393678]
 n3594060179  null / null / Почтовое отделениу 246046
-  other tags : amenity=post_office | operator=РУП "Белпочта"
+  other tags : addr:postcode=246046 | amenity=post_office | operator=РУП "Белпочта" | ref=246046
     geometry : [52.4009956,30.9114089]
 n3661612675  null / null / Почта 246035
-  other tags : amenity=post_office | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00
+  other tags : addr:postcode=246035 | amenity=post_office | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00 | ref=246035
     geometry : [52.4516059,31.0265338]
+n3667766996  null / null / Почтовое отделение 246020
+  other tags : addr:postcode=246020 | amenity=post_office | operator=Белпочта | ref=246020
+    geometry : [52.4243146,30.9493787]
 w158839879  null / null / Городское отделение связи №37
   other tags : addr:housenumber=4А | addr:street=улица 50 лет заводу Гомсельмаш | amenity=post_office | building=yes
     geometry : n1709768636[52.4499452,30.9639735] n1709768619[52.4497949,30.9640054] n1709768622[52.4498503,30.9647092] n1709768615[52.4497270,30.9647353] n1709768600[52.4497206,30.9646543] n1709768589[52.4496201,30.9646756] n1709768597[52.4496416,30.9649492] n1709768639[52.4500157,30.9648699] n1709768636[52.4499452,30.9639735]

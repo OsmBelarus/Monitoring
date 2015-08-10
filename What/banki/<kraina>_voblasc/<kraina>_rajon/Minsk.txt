@@ -74,7 +74,7 @@ n281722581  Беларусбанк / Bielarusbank / Беларусбанк / Б�
   other tags : amenity=bank
     geometry : [53.9442802,27.7061586]
 n281722591  null / null / Отделение №529/285
-  other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-20:00;Sa 09:00-17:00;Th[4] 10:00-20:00 | operator=Беларусбанк | phone=+375 17 264 17 23
+  other tags : amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-17:00; Th[4] 10:00-20:00 | operator=Беларусбанк | phone=+375 17 264 17 23
     geometry : [53.9355001,27.6884216]
 n281722634  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : addr:housenumber=30 | addr:street=улица Гинтовта | amenity=bank | atm=yes
@@ -98,7 +98,7 @@ n281877225  Белаграпрамбанк / Bielahraprambank / Белагроп
   other tags : amenity=bank | atm=yes
     geometry : [53.8936056,27.5003433]
 n281917267  БТА Банк / BTA Bank / БТА Банк / БТА Банк
-  other tags : addr:city=Минск | addr:housenumber=20 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=bank | atm=yes | phone=+375 17 334 54 34 | website=www.btabank.by
+  other tags : addr:housenumber=20 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=bank | atm=yes | phone=+375 17 334 54 34 | website=http://www.btabank.by/
     geometry : [53.9219329,27.5673339]
 n282026829  Белінвестбанк / null / null / Белинвестбанк
   other tags : amenity=bank | contact:phone=+375 17 2563563 | opening_hours=Mo-Fr 09:00-19:00 | operator=Белинвестбанк
@@ -137,7 +137,7 @@ n305682072  Беларусбанк / Bielarusbank / Беларусбанк / Б�
     geometry : [53.8365879,27.5738418]
 n305682778  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other names: name:en=Priorbank
-  other tags : addr:city=Минск | addr:housenumber=31 | addr:postcode=220002 | addr:street=улица Кропоткина | amenity=bank | atm=yes | description=Центральный офис | phone=+375 17 289 90 90 | website=http://www.priorbank.by/
+  other tags : addr:housenumber=31 | addr:postcode=220002 | addr:street=улица Кропоткина | amenity=bank | atm=yes | description=Центральный офис | phone=+375 17 289 90 90 | website=http://www.priorbank.by/
     geometry : [53.9222243,27.5585629]
 n305682996  Белінвестбанк / null / Белинвестбанк / Белинвестбанк
   other tags : amenity=bank | atm=yes
@@ -192,7 +192,7 @@ n475199565  Беларусбанк / Bielarusbank / Беларусбанк / Б�
   other tags : amenity=bank | atm=no | operator=Беларусбанк
     geometry : [53.9482084,27.6718725]
 n475208289  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | description:be=ЦБП №117/1 | description:ru=ЦБУ №117/1 | opening_hours=Mo-Fr 09:00-19:00; -1 - Мо-Fr 09:00-16:00 "last workday of month"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО | ref=117/1
+  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | description:be=ЦБП №117/1 | description:ru=ЦБУ №117/1 | opening_hours=Mo-Fr 09:00-19:00; -1-мо-Fr 09:00-16:00 "last workday of MoTh"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО | ref=117/1
     geometry : [53.9449090,27.6896712]
 n475208291  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=bank | atm=no | operator=Технобанк
@@ -261,7 +261,7 @@ n977746139  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Мо
   other tags : addr:housenumber=183 | addr:street=проспект Независимости | amenity=bank | atm=yes
     geometry : [53.9471510,27.6913604]
 n990200781  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=no | description:be=ЦБП №717 | description:ru=ЦБУ №717 | opening_hours=Mo-Fr 09:00-19:00; -1 - Мо-Fr 09:00-16:00 "last workday of month"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
+  other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=no | description:be=ЦБП №717 | description:ru=ЦБУ №717 | opening_hours=Mo-Fr 09:00-19:00; -1-мо-Fr 09:00-16:00 "last workday of MoTh"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
     geometry : [53.9445534,27.6901198]
 n991120350  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
@@ -273,7 +273,7 @@ n991218127  Абсалютбанк / Absaliutbank / Абсолютбанк / А�
   other tags : amenity=bank | atm=no
     geometry : [53.9099830,27.6325243]
 n1057077472  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
-  other tags : addr:housenumber=39 | addr:street=улица Притыцкого | amenity=bank | opening_hours=пн-пт: 09:30 - 19:00 сб, вс: выходной | operator=ЗАО «Альфа-Банк» | phone=+375 29 733 33 32 | website=http://www.alfabank.by/
+  other tags : addr:housenumber=39 | addr:street=улица Притыцкого | amenity=bank | opening_hours=Mo-Fr 09:30-19:00 Sa,Su off | operator=ЗАО «Альфа-Банк» | phone=+375 29 733 33 32 | website=http://www.alfabank.by/
     geometry : [53.9076270,27.4761419]
 n1064500650  Беларускі Народны Банк / Bielaruski Narodny Bank / Белорусский Народный Банк / Белорусский Народный Банк
   other tags : amenity=bank | atm=yes | opening_hours=Mo-Th 09:00-17:15; Fr 09:00-16:00
@@ -298,7 +298,7 @@ n1110272151  Беларусбанк / null / null / Беларусбанк
   other tags : amenity=bank | atm=yes | branch=Отделение №510/399 | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00 | operator=Беларусбанк
     geometry : [53.9009435,27.4274476]
 n1118779257  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:city=Минск | addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=bank | atm=yes
+  other tags : addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=bank | atm=yes
     geometry : [53.9588067,27.6048834]
 n1129248829  БСБ Банк / BSB Bank / БСБ Банк / БСБ Банк
   other names: name:en=BelSwissBank
@@ -458,7 +458,7 @@ n1417603542  МТБанк / MTBank / МТБанк / МТБанк
   other tags : amenity=bank
     geometry : [53.9395628,27.6015446]
 n1421260608  Беларусбанк / Bielarusbank / Отделение №514/329 / Беларусбанк
-  other tags : amenity=bank | opening_hours=Mo-Th 09:00-16:30;Fr 09:00-15:30;Th[2] 09:00-15:30 | operator=Беларусбанк | phone=+375 17 2181042;+375 17 2181046
+  other tags : amenity=bank | opening_hours=Mo-Th 09:00-16:30; Fr 09:00-15:30; Th[2] 09:00-15:30 | operator=Беларусбанк | phone=+375 17 2181042;+375 17 2181046
     geometry : [53.9439201,27.6660282]
 n1421768455  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes
@@ -473,7 +473,7 @@ n1437342999  Белінвестбанк / Bielinviestbank / Белинвестб
   other tags : amenity=bank | atm=yes
     geometry : [53.9221714,27.5988291]
 n1438397714  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : addr:housename=Общежитие БГУ №6 | addr:housenumber=10 | addr:postcode=220030 | addr:street=Октябрьская улица | amenity=bank | opening_hours=9.00 - 18.00
+  other tags : addr:housename=Общежитие БГУ №6 | addr:housenumber=10 | addr:postcode=220030 | addr:street=Октябрьская улица | amenity=bank | opening_hours=9:00-18:00
     geometry : [53.8921281,27.5677275]
 n1438475914  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=bank
@@ -618,7 +618,7 @@ n1737523847  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : amenity=bank | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00 | operator=belarusbank
     geometry : [53.8553770,27.5215090]
 n1738041242  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:city=Минск | amenity=bank
+  other tags : amenity=bank
     geometry : [53.8933826,27.5437738]
 n1739471586  МТБанк / MTBank / МТБанк / МТБанк
   other tags : amenity=bank
@@ -709,7 +709,7 @@ n1966813470  Беларусбанк / Bielarusbank / Беларусбанк / Б
     geometry : [53.8470386,27.5635450]
 n1979128581  null / null / ЗАО Банк ВТБ (Беларусь), ДО №11 / ЗАО Банк ВТБ (Беларусь), ДО №11
   other names: name:en=CJSC VTB Bank (Belarus)
-  other tags : addr:city=Минск | addr:housenumber=91 | addr:street=улица Притыцкого | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-16:00
+  other tags : addr:housenumber=91 | addr:street=улица Притыцкого | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-16:00
     geometry : [53.9056298,27.4418820]
 n2030674426  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=yes | designation=№511/286 | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-14:00; Su off | phone=(017) 242 81 29, (017) 297 40 31
@@ -742,7 +742,7 @@ n2320069179  Белінвестбанк / Bielinviestbank / Белинвестб
   other tags : amenity=bank | wheelchair=yes
     geometry : [53.9210711,27.4984357]
 n2321021587  МТБанк / MTBank / МТБанк / МТБанк
-  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-20:00;Sa 10:00-18:00 | phone=+375 17 306 31 50
+  other tags : amenity=bank | opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-18:00 | phone=+375 17 306 31 50
     geometry : [53.9065095,27.5301596]
 n2332440478  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
   other tags : amenity=bank
@@ -808,7 +808,7 @@ n2576955117  Белаграпрамбанк / Bielahraprambank / Белагро�
   other tags : amenity=bank | atm=no
     geometry : [53.8928785,27.4587712]
 n2600538100  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
-  other tags : addr:housenumber=49 | addr:street=Коммунистическая улица | amenity=bank | opening_hours=Mo-Fr 09:00-19:00;Sa, Su off | phone=+375(17)237-97-97 | source=http://www.mmbank.by/ru/about/branches/ | website=http://www.mmbank.by
+  other tags : addr:housenumber=49 | addr:street=Коммунистическая улица | amenity=bank | opening_hours=Mo-Fr 09:00-19:00; Sa, Su off | phone=+375(17)237-97-97 | source=http://www.mmbank.by/ru/about/branches/ | website=http://www.mmbank.by/
     geometry : [53.9139989,27.5526546]
 n2600538113  Трастбанк / Trastbank / Трастбанк / Трастбанк
   other tags : amenity=bank
@@ -863,7 +863,7 @@ n2619938515  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
   other tags : amenity=bank | atm=yes
     geometry : [53.8764841,27.4668565]
 n2620000833  Абсалютбанк / Absaliutbank / Абсолютбанк / Абсолютбанк
-  other tags : addr:city=Минск | amenity=bank
+  other tags : amenity=bank
     geometry : [53.9507350,27.6937050]
 n2620001503  МТБанк / MTBank / МТБанк / МТБанк
   other tags : amenity=bank
@@ -938,7 +938,7 @@ n2792083134  Беларускі Народны Банк / Bielaruski Narodny Ban
   other tags : addr:housenumber=87А | addr:street=проспект Независимости | amenity=bank | atm=yes
     geometry : [53.9237714,27.6055851]
 n2793155969  Банк Масква-Мінск, ЦБП №10 / Bank Maskva-Minsk, CBP №10 / Банк Москва-Минск, ЦБУ №10 / Банк Москва-Минск, ЦБУ №10
-  other tags : addr:housenumber=30 | addr:street=улица Сергея Есенина | amenity=bank | atm=yes | opening_hours=10:00-19:00 | phone=+375(17)3761072 | source=http://MMBank.by | website=http://MMBank.by
+  other tags : addr:housenumber=30 | addr:street=улица Сергея Есенина | amenity=bank | atm=yes | opening_hours=10:00-19:00 | phone=+375(17)3761072 | source=http://MMBank.by | website=http://MMBank.by/
     geometry : [53.8517047,27.4559897]
 n2807093267  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other names: name:be-x-old=Беларусбанк | name:en=Belarusbank | name:fi=Belarusbank
@@ -963,7 +963,7 @@ n2955756374  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
   other tags : amenity=bank | note=понедельник-воскресенье 9.30-16.00, 16.30-20.30, 21.00-21.15 обеденный перерыв 14.30-15.10, 17.40-18.00 технический перерыв 12.00-12.15, 20.00-20.15 | official_name=ЦБУ 100/3 Приорбанк | opening_hours=Mo-Su 9:30-21:15
     geometry : [53.8871454,27.4228235]
 n3011142133  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:city=Минск | addr:housenumber=131 | addr:street=проспект Дзержинского | amenity=bank | atm=no
+  other tags : addr:housenumber=131 | addr:street=проспект Дзержинского | amenity=bank | atm=no
     geometry : [53.8444676,27.4740137]
 n3028475941  Дэльта Банк / Deĺta Bank / Дельта Банк / Дельта Банк
   other tags : amenity=bank
@@ -997,7 +997,7 @@ n3098540688  Белаграпрамбанк / Bielahraprambank / Белагро�
   other tags : amenity=bank
     geometry : [53.8426602,27.4770269]
 n3100339042  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
-  other tags : addr:city=Минск | addr:housenumber=70 | addr:postcode=220123 | addr:street=улица Максима Богдановича | amenity=bank | atm=no
+  other tags : addr:housenumber=70 | addr:postcode=220123 | addr:street=улица Максима Богдановича | amenity=bank | atm=no
     geometry : [53.9239931,27.5705053]
 n3100354520  Ідэя Банк / Ideja Bank / Идея Банк / Идея Банк
   other names: name:en=IdeaBank
@@ -1016,7 +1016,7 @@ n3146898250  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа
   other tags : amenity=bank | atm=yes
     geometry : [53.9268301,27.5897413]
 n3147403079  null / null / Беларусбанк ОАО, Отделение №529/127 / Беларусбанк ОАО, Отделение №529/127
-  other tags : addr:housenumber=103 | addr:street=проспект Независимости | amenity=bank | atm=yes | opening_hours=пн-пт: 9.00-19.00, сб: 9.00-17.00, каждая 2-я среда месяца: 10.00-19.00, вс: выходной | phone=+375 17 267-02-16
+  other tags : addr:housenumber=103 | addr:street=проспект Независимости | amenity=bank | atm=yes | opening_hours=Mo-Fr 9:00-19:00, Sa 9:00-17:00, каждая 2-я We месяца: 10:00-19:00, Su off | phone=+375 17 267-02-16
     geometry : [53.9281050,27.6261932]
 n3147928020  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кредит Банк / Хоум Кредит Банк
   other tags : amenity=bank
@@ -1038,10 +1038,10 @@ n3153234354  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : amenity=bank
     geometry : [53.8918197,27.5518442]
 n3159763358  Альфа-Банк / Aĺfa-Bank / Альфа-Банк / Альфа-Банк
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank | atm=yes
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank | atm=yes
     geometry : [53.8504071,27.4763104]
 n3176372864  БСБ Банк, РКЦ №10 / BSB Bank, RKC №10 / БСБ Банк, РКЦ №10 / БСБ Банк, РКЦ №10
-  other tags : amenity=bank | opening_hours=Пн-Пт 9:00-17:00(кассы до 20:00) , Сб 10:00-16:00(кассы)
+  other tags : amenity=bank | opening_hours=Mo-Fr 9:00-17:00(кассы-20:00), Sa 10:00-16:00(кассы)
     geometry : [53.9443086,27.6099058]
 n3190097695  МТБанк / MTBank / МТБанк / МТБанк
   other tags : addr:housenumber=122 | addr:street=проспект Дзержинского | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-18:00
@@ -1059,7 +1059,7 @@ n3208665961  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : amenity=bank | atm=yes
     geometry : [53.9111726,27.4350444]
 n3220264965  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
-  other tags : addr:city=Минск | addr:housenumber=71 | addr:street=улица Селицкого | amenity=bank | atm=yes
+  other tags : addr:housenumber=71 | addr:street=улица Селицкого | amenity=bank | atm=yes
     geometry : [53.8377657,27.7031314]
 n3221656947  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=bank
@@ -1079,16 +1079,16 @@ n3234087423  Беларусбанк / Bielarusbank / Беларусбанк / Б
   other tags : addr:street=улица Карла Маркса | amenity=bank
     geometry : [53.8978958,27.5577293]
 n3240836611  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank | atm=yes | opening_hours=Mo-Fr 09:00-19:00
     geometry : [53.8501855,27.4761819]
 n3240836623
-  other tags : addr:city=Минск | addr:housenumber=2 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | amenity=bank
+  other tags : addr:housenumber=2 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | amenity=bank
     geometry : [53.8524826,27.4779015]
 n3257141054  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : amenity=bank
     geometry : [53.8404874,27.5730243]
 n3259162458  null / null / Инфокиоск Белагропромбанк / Инфокиоск Белагропромбанк
-  other tags : addr:city=Минск | addr:housenumber=88A | addr:postcode=220051 | addr:street=улица Рафиева | amenity=bank | atm=yes | information=yes | opening_hours=Mo-Fr 09:00-19:30; Sa 09:30-16:30; Su off; Fr[2] 10:00-19:30; Mo-Fr[-1] 09:30-18:00 | phone=+375 (17) 206-17-91 | tourism=information | website=www.belapb.by | wheelchair=yes
+  other tags : addr:housenumber=88А | addr:postcode=220051 | addr:street=улица Рафиева | amenity=bank | atm=yes | information=yes | opening_hours=Mo-Fr 09:00-19:30; Sa 09:30-16:30; Su off; Fr[2] 10:00-19:30; Mo-Fr[-1] 09:30-18:00 | phone=+375 (17) 206-17-91 | tourism=information | website=http://www.belapb.by/ | wheelchair=yes
     geometry : [53.8599230,27.4368659]
 n3260333085  null / null / Беларусбанк
   other tags : amenity=bank | operator=Беларусбанк
@@ -1121,10 +1121,10 @@ n3270212061  Абмен валют / Abmien valiut / Обмен валют / О�
   other tags : amenity=bank
     geometry : [53.9478148,27.6784306]
 n3280589616  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
-  other tags : addr:city=минск | amenity=bank
+  other tags : amenity=bank
     geometry : [53.9058621,27.4404939]
 n3280591603  МТБанк / MTBank / МТБанк / МТБанк
-  other tags : addr:city=Минск | amenity=bank
+  other tags : amenity=bank
     geometry : [53.9076606,27.4369429]
 n3282077261
   other tags : amenity=bank
@@ -1161,7 +1161,7 @@ n3441666280  null / null / Баларусбанк / Баларусбанк
   other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank
     geometry : [53.8517602,27.4768467]
 n3441666282  Ідэя Банк / Ideja Bank / Идея Банк / Идея Банк
-  other tags : addr:city=Минск | addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank
+  other tags : addr:housenumber=119 | addr:street=проспект Дзержинского | amenity=bank
     geometry : [53.8501178,27.4761598]
 n3446537640  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=bank

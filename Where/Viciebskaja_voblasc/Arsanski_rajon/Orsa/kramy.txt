@@ -10,7 +10,7 @@ n306065799  Аўтасэрвіс / null / Автосервис / Автосер�
   other tags : shop=car
     geometry : [54.5257444,30.4280574]
 n306065805  Аўтасэрвіс / null / Автосервис ВИРАЖ / Автосервис
-  other tags : addr:city=ОРША | addr:housenumber=3 | addr:street=улица Белинского | shop=car
+  other tags : addr:housenumber=3 | addr:street=улица Белинского | shop=car
     geometry : [54.5285930,30.4361557]
 n306065819  Аўтасэрвіс / null / Автосервис / Автосервис
   other tags : shop=car_repair
@@ -76,7 +76,7 @@ n1481061794  null / null / Румено
   other tags : shop=convenience
     geometry : [54.5146604,30.3921266]
 n1492836856  Пяты элемент / null / 5 Элемент
-  other tags : addr:city=Орша | addr:housenumber=31 | addr:postcode=211382 | addr:street=проспект Текстильщиков | opening_hours=10.00-19.00(пн. - пт.),10.00-18.00(сб., вс.) | operator=ЗАО ''Патио'' | shop=electronics | website=5element.by
+  other tags : addr:housenumber=31 | addr:postcode=211382 | addr:street=проспект Текстильщиков | opening_hours=10:00-19:00(Mo-Fr),10:00-18:00(Sa, Su) | operator=ЗАО ''Патио'' | shop=electronics | website=http://5element.by/
     geometry : [54.4978782,30.4058338]
 n1501795639  null / null / OMKK
   other tags : shop=butcher
@@ -392,10 +392,10 @@ n3413648463  null / null / Мясной фаворит
   other tags : contact:email=bigpig@mail.by | contact:website=http://jubilejnyj.by/ | fixme=уточнить расположение | shop=butcher
     geometry : [54.5213308,30.4364474]
 n3425647541  null / null / СТО
-  other tags : addr:city=Орша | addr:housenumber=25 | addr:street=улица 1 Мая | operator=Диагностическая станция № 16 | shop=car_repair
+  other tags : addr:housenumber=25 | addr:street=улица 1 Мая | operator=Диагностическая станция № 16 | shop=car_repair
     geometry : [54.5202399,30.4301333]
 n3452192351  null / null / Пятачок
-  other tags : addr:city=Орша | addr:postcode=211386 | addr:street=1-й переулок Тимирязева | opening_hours=8:00 - 21:00 | shop=convenience
+  other tags : addr:postcode=211386 | addr:street=1-й переулок Тимирязева | opening_hours=8:00-21:00 | shop=convenience
     geometry : [54.5103616,30.3565621]
 n3523179002
   other tags : shop=convenience
@@ -404,5 +404,5 @@ n3589575109  null / null / Эго-Арт
   other tags : shop=jewelry
     geometry : [54.5111218,30.4276562]
 n3641288973  null / null / Салон связи "МТС"
-  other tags : addr:city=Орша | addr:housenumber=5 | addr:street=улица Молокова | opening_hours=пн-пт: 09.00-18.00, сб, вс: 09.00-17.00 | shop=mobile_phone
+  other tags : addr:housenumber=5 | addr:street=улица Молокова | opening_hours=Mo-Fr 09:00-18:00, Sa, Su 09:00-17:00 | shop=mobile_phone
     geometry : [54.5189613,30.3731782]

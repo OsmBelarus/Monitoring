@@ -169,8 +169,8 @@ w338322079
 w338322080
   other tags : addr:housenumber=79 | addr:street=Луговая улица | building=residential
     geometry : n3453991360[53.5998612,24.2377639] n3453991359[53.5998240,24.2378655] n3453991357[53.5997089,24.2377456] n3453991358[53.5997461,24.2376441] n3453991360[53.5998612,24.2377639]
-w338322082  null / null / 7
-  other tags : building=residential
+w338322082
+  other tags : addr:housenumber=7 | building=residential
     geometry : n3453991313[53.5927033,24.2280807] n3453991312[53.5926730,24.2281453] n3453991309[53.5926275,24.2280848] n3453991310[53.5926578,24.2280202] n3453991313[53.5927033,24.2280807]
 w338322084
   other tags : addr:housenumber=8 | addr:street=улица Некрасова | building=residential
@@ -248,7 +248,7 @@ w338466806
   other tags : addr:housenumber=17 | addr:street=улица Ленина | building=residential
     geometry : n3455482238[53.5926613,24.2551729] n3455482237[53.5926145,24.2553304] n3455482233[53.5925333,24.2552619] n3455482236[53.5925800,24.2551045] n3455482238[53.5926613,24.2551729]
 w338466807
-  other tags : addr:housenumber=1а | addr:street=улица Ленина | building=residential
+  other tags : addr:housenumber=1А | addr:street=улица Ленина | building=residential
     geometry : n3455482246[53.5940952,24.2561539] n3455482245[53.5940549,24.2562637] n3455482243[53.5939838,24.2561895] n3455482244[53.5940241,24.2560798] n3455482246[53.5940952,24.2561539]
 w338466808
   other tags : addr:housenumber=29 | addr:street=улица Ленина | building=residential

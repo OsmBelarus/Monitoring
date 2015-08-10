@@ -8887,8 +8887,8 @@ w212293263
 w212293264
   other tags : building=yes
     geometry : n2221655675[54.4077005,31.1218816] n2221655650[54.4076589,31.1218722] n2221655655[54.4076609,31.1218460] n2221655632[54.4076317,31.1218393] n2221655628[54.4076258,31.1219154] n2221655596[54.4075707,31.1219030] n2221655594[54.4075650,31.1219782] n2221655669[54.4076910,31.1220066] n2221655675[54.4077005,31.1218816]
-w212293265  null / null / 28
-  other tags : addr:city=Ленино | addr:housenumber=28 | addr:postcode=213421 | addr:street=улица Ленина | building=yes | building:levels=5
+w212293265
+  other tags : addr:housenumber=28 | addr:postcode=213421 | addr:street=улица Ленина | building=yes | building:levels=5
     geometry : n2221656686[54.4099285,31.1265120] n2221656669[54.4097390,31.1264520] n2221656665[54.4097307,31.1265295] n2221656680[54.4097496,31.1265355] n2221656662[54.4097186,31.1268240] n2221656660[54.4096996,31.1268180] n2221656656[54.4096901,31.1269066] n2221656683[54.4098797,31.1269666] n2221656686[54.4099285,31.1265120]
 w212298923
   other tags : building=yes
@@ -11735,16 +11735,16 @@ w266679231
   other tags : building=yes | building:levels=1
     geometry : n2722029633[54.3203983,30.5788965] n2722029637[54.3204050,30.5787441] n2722029693[54.3209359,30.5788134] n2722029686[54.3209291,30.5789657] n2722029633[54.3203983,30.5788965]
 w304193141  null / null / Кафе-гостиница
-  other tags : addr:city=ленино | amenity=cafe | building=yes | building:levels=2 | cuisine=regional | internet_access=yes | opening_hours=24/7 | smoking=separated
+  other tags : amenity=cafe | building=yes | building:levels=2 | cuisine=regional | internet_access=yes | opening_hours=24/7 | smoking=separated
     geometry : n3087216393[54.4141090,31.1272039] n3087216394[54.4141121,31.1275579] n3087216395[54.4141714,31.1274828] n3087216396[54.4141714,31.1272843] n3087216393[54.4141090,31.1272039]
 w304193478  null / null / Сауна
   other tags : building=yes | building:levels=1
     geometry : n3087215725[54.4141371,31.1276759] n3087215726[54.4141714,31.1276759] n3087215727[54.4141714,31.1277564] n3087215728[54.4141363,31.1277564] n3087215725[54.4141371,31.1276759]
 w304193955  null / null / "Мясной"
-  other tags : addr:city=Ленино | addr:postcode=213421 | building=yes | opening_hours=10.00-18.00 | shop=kiosk
+  other tags : addr:postcode=213421 | building=yes | opening_hours=10:00-18:00 | shop=kiosk
     geometry : n3087223093[54.4058318,31.1237236] n3087223094[54.4057810,31.1237789] n3087223095[54.4058300,31.1239116] n3087223096[54.4058808,31.1238563] n3087223093[54.4058318,31.1237236]
 w304194071  null / null / Белсоюздрук
-  other tags : addr:city=Ленино | addr:housenumber=13 | addr:street=улица Ленина | building=yes | opening_hours=8.30-18.00 | shop=kiosk
+  other tags : addr:housenumber=13 | addr:street=улица Ленина | building=yes | opening_hours=8:30-18:00 | shop=kiosk
     geometry : n3087209593[54.4066076,31.1227568] n3087209594[54.4065389,31.1228480] n3087209595[54.4064577,31.1226548] n3087209596[54.4065295,31.1225636] n3087209593[54.4066076,31.1227568]
 w306281674
   other tags : building=yes | building:levels=1

@@ -188,7 +188,7 @@ w202515941
   other tags : building=apartments | building:levels=2
     geometry : n2124831661[54.0361660,28.0879244] n2124831666[54.0360544,28.0879340] n2124831662[54.0360594,28.0881007] n2124831656[54.0361709,28.0880911] n2124831661[54.0361660,28.0879244]
 w202518483
-  other tags : addr:city=Смолевичи | addr:housenumber=55 | addr:postcode=222201 | addr:street=Советская улица | building=house | building:levels=1
+  other tags : addr:housenumber=55 | addr:postcode=222201 | addr:street=Советская улица | building=house | building:levels=1
     geometry : n2124856291[54.0264315,28.0767158] n2124856243[54.0263420,28.0768176] n2124856241[54.0263668,28.0768807] n2124856206[54.0264563,28.0767789] n2124856291[54.0264315,28.0767158]
 w202519596
   other tags : addr:housenumber=27 | addr:street=Советская улица | building=house | building:levels=1
@@ -248,7 +248,7 @@ w202630328
   other tags : addr:housenumber=2 | building=house | building:levels=1
     geometry : n2125974677[54.0235005,28.0937540] n2125974642[54.0233942,28.0937517] n2125974605[54.0233932,28.0938857] n2125974602[54.0234995,28.0938880] n2125974677[54.0235005,28.0937540]
 w202630330
-  other tags : addr:housenumber=10а | building=house | building:levels=1
+  other tags : addr:housenumber=10А | building=house | building:levels=1
     geometry : n2125974635[54.0235702,28.0949982] n2125974645[54.0234647,28.0949958] n2125974672[54.0234638,28.0951096] n2125974606[54.0235692,28.0951121] n2125974635[54.0235702,28.0949982]
 w202630331
   other tags : addr:housenumber=6 | building=house | building:levels=1
@@ -265,21 +265,21 @@ w202630387
 w203237350
   other tags : building=apartments | building:levels=5
     geometry : n2132245915[54.0404913,28.0769298] n2132245913[54.0397895,28.0779775] n2132245916[54.0399178,28.0782266] n2132245911[54.0406195,28.0771789] n2132245915[54.0404913,28.0769298]
-w314216148  null / null / 14
-  other tags : addr:city=Смолевичи | addr:housenumber=14 | addr:postcode=222201 | addr:street=Жодинская улица | building=apartments | building:levels=5
+w314216148
+  other tags : addr:housenumber=14 | addr:postcode=222201 | addr:street=Жодинская улица | building=apartments | building:levels=5
     geometry : n3202648575[54.0279869,28.0944043] n3202648576[54.0279318,28.0955281] n3202648577[54.0278030,28.0955099] n3202648578[54.0278581,28.0943860] n3202648575[54.0279869,28.0944043]
-w314216261  null / null / 16
-  other tags : addr:city=Смолевичи | addr:housenumber=16 | addr:postcode=222201 | addr:street=Жодинская улица | building=apartments | building:levels=5
+w314216261
+  other tags : addr:housenumber=16 | addr:postcode=222201 | addr:street=Жодинская улица | building=apartments | building:levels=5
     geometry : n3202649896[54.0279101,28.0964973] n3202649897[54.0277914,28.0964910] n3202649898[54.0278090,28.0955297] n3202649899[54.0279278,28.0955361] n3202649896[54.0279101,28.0964973]
 w317887946
-  other tags : addr:city=Смолевичи | addr:housenumber=11 | addr:postcode=222201 | addr:street=улица Новосёлов | building=house | building:levels=1+
+  other tags : addr:housenumber=11 | addr:postcode=222201 | addr:street=улица Новосёлов | building=house | building:levels=1+
     geometry : n3242144615[54.0185191,28.1047523] n3242144616[54.0185514,28.1049293] n3242144617[54.0184599,28.1049824] n3242144618[54.0184245,28.1047983] n3242144615[54.0185191,28.1047523]
 w321449101
   other tags : building=apartments
     geometry : n3281921949[54.0405522,28.0784099] n3281921950[54.0407332,28.0801938] n3281921951[54.0405357,28.0802498] n3281921952[54.0403657,28.0784846] n3281921949[54.0405522,28.0784099]
 w350607623
-  other tags : addr:city=Смолевичи | addr:housenumber=6 | addr:postcode=222201 | addr:street=Броневой переулок | building=house | building:levels=1
+  other tags : addr:housenumber=6 | addr:postcode=222201 | addr:street=Броневой переулок | building=house | building:levels=1
     geometry : n3563545795[54.0167790,28.0560569] n3563545796[54.0167109,28.0561212] n3563545797[54.0166747,28.0560234] n3563545798[54.0167518,28.0559591] n3563545795[54.0167790,28.0560569]
 w350611594
-  other tags : addr:city=Смолевичи | addr:housenumber=46 | addr:postcode=222201 | addr:street=Вишнёвая улица | building=house | building:levels=1+
+  other tags : addr:housenumber=46 | addr:postcode=222201 | addr:street=Вишнёвая улица | building=house | building:levels=1+
     geometry : n3563579395[54.0462029,28.0992463] n3563579396[54.0462186,28.0994837] n3563579397[54.0460773,28.0995339] n3563579398[54.0460557,28.0992898] n3563579395[54.0462029,28.0992463]

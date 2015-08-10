@@ -350,7 +350,7 @@ n3056387057  Буслiк / null / Буслик / Буслик
   other tags : layer=2 | shop=toys
     geometry : [55.5144273,28.6840443]
 n3056387058  null / null / Евроопт +++
-  other tags : addr:city=Новополоцк | addr:housenumber=6 | addr:street=Нефтяников | layer=1 | opening_hours=Mo-Su 09:00-23:00 | shop=supermarket | website=htttp://www.euroopt.by
+  other tags : addr:housenumber=6 | addr:street=Нефтяников | layer=1 | opening_hours=Mo-Su 09:00-23:00 | shop=supermarket | website=htttp://www.euroopt.by
     geometry : [55.5133211,28.6824454]
 n3056387166  null / null / Техно плюс
   other tags : layer=1 | shop=electronics
@@ -371,7 +371,7 @@ n3083221665  null / null / Королевство сна
   other tags : shop=bed
     geometry : [55.5135642,28.6833399]
 n3102213329  null / null / Центр МТС
-  other tags : addr:city=Новополоцк | addr:housenumber=148 | addr:street=Молодёжная улица | description=GPS: N 55 31.47 E 28 40.443 | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | phone=+375 17 2379898 (контактный центр, круглосуточно) | shop=mobile_phone
+  other tags : addr:housenumber=148 | addr:street=Молодёжная улица | description=GPS: N 55 31.47 E 28 40.443 | office=telecommunication | opening_hours=Mo-Su 09:00-21:00 | phone=+375 17 2379898 (контактный центр, круглосуточно) | shop=mobile_phone
     geometry : [55.5248713,28.6738384]
 n3145895005  null / null / Любава Люкс
   other tags : shop=clothes
@@ -423,5 +423,9 @@ n3610604090  null / null / Магазин Очков
     geometry : [55.5298434,28.6645359]
 n3627663143  null / null / ATLANT / Атлант
   other names: name:en=Atlant
-  other tags : addr:city=Новополоцк | addr:housenumber=3 | addr:postcode=211440 | addr:street=улица Калинина | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-15:00 | operator=Делтех, ЧП | phone=+375 214 591210 | shop=electronics | website=http://happ.by
+  other tags : addr:housenumber=3 | addr:postcode=211440 | addr:street=улица Калинина | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-15:00 | operator=Делтех, ЧП | phone=+375 214 591210 | shop=electronics | website=http://happ.by/
     geometry : [55.5322953,28.6606524]
+n3627682661  null / null / GEFEST / Гефест
+  other names: name:en=Gefest
+  other tags : addr:housenumber=169 | addr:postcode=211501 | addr:street=Молодёжная улица | opening_hours=Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 10:00-15:00 | operator=Делтех, ЧП | phone=+375 214 552848 | shop=electronics | website=http://happ.by/
+    geometry : [55.5175287,28.6875546]

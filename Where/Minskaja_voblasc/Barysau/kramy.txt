@@ -121,11 +121,26 @@ n3366614428  null / null / Елена
   other tags : shop=convenience
     geometry : [54.2219977,28.4853317]
 n3431796219  null / null / Папа Карло
-  other tags : addr:city=Борисов | addr:housenumber=39а | addr:postcode=222518 | addr:street=Дёмина | opening_hours=Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00 | operator=ООО "Строймаркет-практик" | shop=kitchen
+  other tags : addr:housenumber=39А | addr:postcode=222518 | addr:street=Дёмина | opening_hours=Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00 | operator=ООО "Строймаркет-практик" | shop=kitchen
     geometry : [54.1966095,28.4879229]
+n3663171659  null / null / Соседи
+  other tags : addr:housenumber=21А | addr:postcode=222519 | addr:street=ул. Днепровская | opening_hours=8:00-23:00 | operator=ООО «Либретик» | shop=department_store
+    geometry : [54.2383354,28.4690353]
+n3663208730  null / null / Помощница
+  other tags : addr:housenumber=29 | addr:postcode=222519 | addr:street=ул. Днепровская | shop=chemist
+    geometry : [54.2404559,28.4697600]
 n3663211687
   other tags : shop=tailor
     geometry : [54.2369415,28.4674265]
+n3663213639  null / null / Веста
+  other tags : addr:housenumber=2 | addr:postcode=222519 | addr:street=ул. Днепровская | operator=ОАО «ВЕСТА-БОРИСОВ» | shop=hardware
+    geometry : [54.2410187,28.4701184]
+n3663215719  null / null / Веста
+  other tags : addr:housenumber=29 | addr:postcode=222519 | addr:street=ул. Днепровская | operator=ОАО «ВЕСТА-БОРИСОВ» | shop=convenience
+    geometry : [54.2405121,28.4697981]
+n3663216797  null / null / Парикмахерская
+  other tags : addr:housenumber=29 | addr:postcode=222519 | addr:street=ул. Днепровская | opening_hours=10:00-18:00 | shop=hairdresser
+    geometry : [54.2404606,28.4697278]
 n3663220807
   other tags : shop=hairdresser
     geometry : [54.2368929,28.4674346]

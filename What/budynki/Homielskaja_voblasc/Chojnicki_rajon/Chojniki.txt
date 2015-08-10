@@ -3416,7 +3416,7 @@ w259694097
   other tags : addr:housenumber=18 | addr:street=улица Якуба Коласа | building=yes
     geometry : n2651388328[51.8903132,29.9531230] n2651388329[51.8903205,29.9532880] n2651388325[51.8902302,29.9532985] n2651388324[51.8902229,29.9531335] n2651388328[51.8903132,29.9531230]
 w259694098
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=19 | addr:street=улица Добровольского | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Добровольского | building=yes
     geometry : n2651388225[51.8878896,29.9530834] n2651388226[51.8878944,29.9532248] n2651388217[51.8878373,29.9532298] n2651388215[51.8878325,29.9530885] n2651388225[51.8878896,29.9530834]
 w259694100
   other tags : addr:housenumber=15 | addr:street=улица Якуба Коласа | building=yes
@@ -4328,7 +4328,7 @@ w259704593  null / null / Магазин мебели
   other tags : building=yes | shop=furniture
     geometry : n2651559612[51.8954725,29.9711182] n2651559610[51.8953002,29.9716615] n2651559607[51.8951466,29.9715337] n2827531860[51.8952828,29.9711040] n2827531855[51.8951484,29.9709920] n2651559606[51.8951530,29.9709566] n2651559609[51.8952118,29.9707879] n2651559611[51.8952242,29.9707528] n2827531864[51.8954227,29.9709180] n2827531863[51.8953829,29.9710437] n2651559612[51.8954725,29.9711182]
 w259704594  null / null / Супермаркет "Хойникский"
-  other tags : addr:housenumber=1 | addr:street=площадь Танкистов | building=yes | opening_hours=Tu-Su 08:00-15:00;Sa 08:00-12:00 | shop=department_store
+  other tags : addr:housenumber=1 | addr:street=площадь Танкистов | building=yes | opening_hours=Tu-Su 08:00-15:00; Sa 08:00-12:00 | shop=department_store
     geometry : n2651559608[51.8951863,29.9704777] n2651559603[51.8950507,29.9709366] n2651559601[51.8948407,29.9707737] n2651559602[51.8949763,29.9703148] n2651559608[51.8951863,29.9704777]
 w259704596
   other tags : addr:housenumber=10 | addr:street=улица Домникова | building=yes
@@ -5021,7 +5021,7 @@ w260066271
   other tags : addr:housenumber=41 | addr:street=Вокзальная улица | building=yes
     geometry : n2655536903[51.8993306,29.9682422] n2655536900[51.8992760,29.9683165] n2655536894[51.8992148,29.9681983] n2655536899[51.8992694,29.9681240] n2655536903[51.8993306,29.9682422]
 w260066272
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=42/1 | addr:street=Вокзальная улица | building=yes
+  other tags : addr:housenumber=42/1 | addr:street=Вокзальная улица | building=yes
     geometry : n2655536867[51.8988374,29.9693909] n2655536853[51.8987834,29.9694621] n2655536843[51.8987179,29.9693277] n2655536857[51.8987664,29.9692476] n2655536867[51.8988374,29.9693909]
 w260066273
   other tags : addr:housenumber=44 | addr:street=Вокзальная улица | building=yes
@@ -5960,7 +5960,7 @@ w260432210
   other tags : addr:housenumber=9 | addr:street=улица Колесника | building=yes
     geometry : n2659202570[51.9083447,29.9837908] n2659202591[51.9086367,29.9847206] n2659202582[51.9085441,29.9847970] n2659202562[51.9082521,29.9838672] n2659202570[51.9083447,29.9837908]
 w260432211
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=5 | addr:street=улица Терешковой | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Терешковой | building=yes
     geometry : n2659203197[51.9135112,29.9862898] n2659203193[51.9132847,29.9864700] n2659203195[51.9133602,29.9867195] n2659203198[51.9135867,29.9865392] n2659203197[51.9135112,29.9862898]
 w260432212
   other tags : addr:housenumber=1 | addr:street=Юбилейная улица | building=yes
@@ -6146,7 +6146,7 @@ w260438180
   other tags : addr:housenumber=5 | addr:street=переулок Мира | building=yes
     geometry : n2659258386[51.9150998,29.9897508] n2659258389[51.9151413,29.9898844] n2659258383[51.9150510,29.9899582] n2659258380[51.9150095,29.9898246] n2659258386[51.9150998,29.9897508]
 w260438181
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=12 | addr:street=улица Тухачевского | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Тухачевского | building=yes
     geometry : n2659258312[51.9135220,29.9883031] n2659258306[51.9134555,29.9883547] n2659258309[51.9134967,29.9884940] n2659258314[51.9135632,29.9884424] n2659258312[51.9135220,29.9883031]
 w260438182
   other tags : addr:housenumber=7 | addr:street=Первомайский переулок | building=yes
@@ -6200,7 +6200,7 @@ w260438199
   other tags : addr:housenumber=7 | addr:street=переулок Мира | building=yes
     geometry : n2659258403[51.9153302,29.9905769] n2659258404[51.9154038,29.9907645] n2659258402[51.9153251,29.9908456] n2659258400[51.9152947,29.9907681] n2659258399[51.9152587,29.9908053] n2659258395[51.9152155,29.9906952] n2659258403[51.9153302,29.9905769]
 w260443145
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=2 | addr:street=Строительная улица | building=yes
+  other tags : addr:housenumber=2 | addr:street=Строительная улица | building=yes
     geometry : n2659295516[51.9132736,29.9907502] n2659295494[51.9131713,29.9908355] n2659295508[51.9132368,29.9910416] n2659295528[51.9133391,29.9909562] n2659295516[51.9132736,29.9907502]
 w260443146
   other tags : addr:housenumber=39 | addr:street=Первомайская улица | building=yes
@@ -6545,7 +6545,7 @@ w260451995
   other tags : addr:housenumber=6 | addr:street=Мелиоративная улица | building=yes
     geometry : n2659381774[51.9148404,29.9934202] n2659381781[51.9148928,29.9935577] n2659381770[51.9148113,29.9936393] n2659381762[51.9147589,29.9935018] n2659381774[51.9148404,29.9934202]
 w260451996
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=12 | addr:street=Первомайский переулок | building=yes
+  other tags : addr:housenumber=12 | addr:street=Первомайский переулок | building=yes
     geometry : n2659381940[51.9160095,29.9912972] n2659381954[51.9160991,29.9914853] n2659381944[51.9160229,29.9915807] n2659381930[51.9159333,29.9913926] n2659381940[51.9160095,29.9912972]
 w260451997
   other tags : addr:housenumber=61 | addr:street=Первомайская улица | building=yes
@@ -6962,7 +6962,7 @@ w260878053
   other tags : addr:housenumber=47 | addr:street=улица Олега Кошевого | building=yes
     geometry : n2664641491[51.9214608,30.0033688] n2664641488[51.9213967,30.0033760] n2664641490[51.9214038,30.0035421] n2664641492[51.9214679,30.0035349] n2664641491[51.9214608,30.0033688]
 w260878054
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=64 | addr:street=улица Олега Кошевого | building=yes
+  other tags : addr:housenumber=64 | addr:street=улица Олега Кошевого | building=yes
     geometry : n2664641686[51.9274230,30.0093835] n2664641684[51.9273563,30.0093325] n2664641682[51.9273094,30.0094937] n2664641685[51.9273760,30.0095447] n2664641686[51.9274230,30.0093835]
 w260878055
   other tags : addr:housenumber=88 | addr:street=улица Олега Кошевого | building=yes
@@ -7103,7 +7103,7 @@ w260878105
   other tags : addr:housenumber=55 | addr:street=улица Олега Кошевого | building=yes
     geometry : n2664641526[51.9230746,30.0040464] n2664641525[51.9230231,30.0042472] n2664641517[51.9229413,30.0041920] n2664641523[51.9229928,30.0039912] n2664641526[51.9230746,30.0040464]
 w260878106
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=58 | addr:street=улица Олега Кошевого | building=yes
+  other tags : addr:housenumber=58 | addr:street=улица Олега Кошевого | building=yes
     geometry : n2664641659[51.9267574,30.0087908] n2664641654[51.9266859,30.0087554] n2664641652[51.9266498,30.0089467] n2664641656[51.9267213,30.0089821] n2664641659[51.9267574,30.0087908]
 w260878107
   other tags : addr:housenumber=70 | addr:street=улица Олега Кошевого | building=yes
@@ -8636,13 +8636,13 @@ w293670636
   other tags : addr:housenumber=8 | addr:street=Пролетарская улица | building=yes
     geometry : n2972683939[51.8927366,29.9658210] n2972683938[51.8927326,29.9659254] n2972683936[51.8926148,29.9658999] n2972683937[51.8926221,29.9657942] n2972683939[51.8927366,29.9658210]
 w315858194
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=24 | addr:street=улица Котовского | building=yes
+  other tags : addr:housenumber=24 | addr:street=улица Котовского | building=yes
     geometry : n3219907234[51.8863910,29.9708615] n3219907235[51.8864006,29.9709553] n3219907233[51.8862983,29.9709874] n3219907232[51.8862879,29.9708936] n3219907234[51.8863910,29.9708615]
 w319401868
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=141/2 | addr:street=Крестьянская улица | building=yes
+  other tags : addr:housenumber=141/2 | addr:street=Крестьянская улица | building=yes
     geometry : n2658988349[51.9022653,29.9728405] n3258130108[51.9022384,29.9728022] n3258130109[51.9023337,29.9726483] n2658988354[51.9023583,29.9726848] n2658988349[51.9022653,29.9728405]
 w319671990  null / null / Евроопт
-  other tags : addr:city=Хойники | addr:country=BY | building=yes | opening_hours=08:00-23:00 | shop=supermarket
+  other tags : building=yes | opening_hours=08:00-23:00 | shop=supermarket
     geometry : n3261274301[51.9056726,29.9898304] n3261274300[51.9054304,29.9905384] n3261274297[51.9047587,29.9898363] n3261274298[51.9050303,29.9891343] n3261274301[51.9056726,29.9898304]
 w357447138
   other tags : addr:housenumber=134 | addr:street=улица Котовского | building=yes
@@ -8690,13 +8690,13 @@ w357479820
   other tags : addr:housenumber=15 | addr:street=Луговая улица | building=yes
     geometry : n3627124954[51.9175445,29.9997861] n3627124955[51.9175828,29.9999118] n3627124953[51.9174938,29.9999828] n3627124952[51.9174556,29.9998571] n3627124954[51.9175445,29.9997861]
 w357479821
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=62 | addr:street=улица Олега Кошевого | building=yes
+  other tags : addr:housenumber=62 | addr:street=улица Олега Кошевого | building=yes
     geometry : n3627124963[51.9271181,30.0090789] n3627124961[51.9270466,30.0090435] n3627124960[51.9270105,30.0092348] n3627124962[51.9270820,30.0092702] n3627124963[51.9271181,30.0090789]
 w357479822
-  other tags : addr:city=Хойники | addr:housenumber=73 | addr:street=улица Олега Кошевого | building=yes
+  other tags : addr:housenumber=73 | addr:street=улица Олега Кошевого | building=yes
     geometry : n3627124959[51.9253124,30.0061312] n3627124957[51.9252388,30.0062587] n3627124956[51.9251784,30.0061670] n3627124958[51.9252520,30.0060396] n3627124959[51.9253124,30.0061312]
 w357479823
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=95 | addr:street=улица Олега Кошевого | building=yes
+  other tags : addr:housenumber=95 | addr:street=улица Олега Кошевого | building=yes
     geometry : n3627124967[51.9274746,30.0087851] n3627124966[51.9274202,30.0089650] n3627124964[51.9273481,30.0089077] n3627124965[51.9274025,30.0087278] n3627124967[51.9274746,30.0087851]
 w357479972
   other tags : addr:housenumber=163А | addr:street=улица Берегового | building=yes
@@ -8708,16 +8708,16 @@ w357485305
   other tags : addr:housenumber=11 | addr:street=Железнодорожная улица | building=yes
     geometry : n3627155202[51.9226393,30.0086954] n3627155201[51.9225885,30.0088819] n3627155199[51.9224956,30.0088153] n3627155200[51.9225464,30.0086288] n3627155202[51.9226393,30.0086954]
 w357496930
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=16 | addr:street=улица Чапаева | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Чапаева | building=yes
     geometry : n3627249128[51.9168001,30.0073335] n3627249127[51.9167561,30.0074762] n3627249125[51.9166875,30.0074206] n3627249126[51.9167315,30.0072779] n3627249128[51.9168001,30.0073335]
 w357497255
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=9 | addr:street=улица Чкалова | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Чкалова | building=yes
     geometry : n3627249133[51.9216153,30.0068358] n3627249132[51.9216036,30.0070013] n3627249130[51.9215332,30.0069882] n3627249131[51.9215449,30.0068227] n3627249133[51.9216153,30.0068358]
 w357498660
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=36 | addr:street=Настольская улица | building=yes
+  other tags : addr:housenumber=36 | addr:street=Настольская улица | building=yes
     geometry : n3627271357[51.8892703,29.9381072] n3627271356[51.8892669,29.9382935] n3627271354[51.8891584,29.9382884] n3627271355[51.8891617,29.9381021] n3627271357[51.8892703,29.9381072]
 w357501366
-  other tags : addr:city=Хойники | addr:country=BY | addr:housenumber=6 | addr:street=Полевая улица | building=yes
+  other tags : addr:housenumber=6 | addr:street=Полевая улица | building=yes
     geometry : n3627287719[51.9041857,29.9368811] n3627287720[51.9042548,29.9370639] n3627287718[51.9039449,29.9373677] n3627287717[51.9038814,29.9372433] n3627287719[51.9041857,29.9368811]
 w357830633
   other tags : addr:housenumber=2 | addr:street=улица Володковича | building=yes

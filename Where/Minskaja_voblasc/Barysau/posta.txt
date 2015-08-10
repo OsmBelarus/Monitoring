@@ -8,8 +8,11 @@ n1824108410
   other tags : amenity=post_office
     geometry : [54.2160406,28.4901706]
 n3212040281
-  other tags : addr:postcode=222521 | amenity=post_office
+  other tags : addr:postcode=222521 | amenity=post_office | ref=222521
     geometry : [54.2425119,28.5474803]
+n3663211675  null / null / Белпочта 519
+  other tags : addr:housenumber=10 | addr:postcode=222519 | addr:street=Днепровская улица | amenity=post_office | operator=РУП Белпочта | ref=222519
+    geometry : [54.2427098,28.4694999]
 w167052295
   other tags : amenity=post_office | building=yes
     geometry : n1784583915[54.2241741,28.5104348] n1784583912[54.2241178,28.5106550] n1784583913[54.2236939,28.5103385] n1784583914[54.2237496,28.5101178] n1784583915[54.2241741,28.5104348]

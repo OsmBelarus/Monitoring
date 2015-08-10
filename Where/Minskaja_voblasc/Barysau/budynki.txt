@@ -2510,7 +2510,7 @@ w265601937
   other tags : building=yes
     geometry : n2712381519[54.1962067,28.4828575] n2712381527[54.1963553,28.4819516] n2712381536[54.1965142,28.4820278] n2712381529[54.1963656,28.4829336] n2712381519[54.1962067,28.4828575]
 w265601938  null / null / Практик
-  other tags : addr:city=Борисов | addr:housenumber=39 | addr:street=улица Дёмина | area=yes | building=yes | opening_hours=9.00-19.00 | operator=ООО "Строймаркет Борисов" | shop=mall
+  other tags : addr:housenumber=39 | addr:street=улица Дёмина | building=yes | opening_hours=9:00-19:00 | operator=ООО "Строймаркет Борисов" | shop=mall
     geometry : n2712381573[54.1974048,28.4883863] n2712381533[54.1964777,28.4880836] n2712381545[54.1965531,28.4874093] n2712381575[54.1974802,28.4877120] n2712381573[54.1974048,28.4883863]
 w265601939
   other tags : building=yes
@@ -5654,7 +5654,7 @@ w313831459
   other tags : building=yes
     geometry : n3198645221[54.2412745,28.5616124] n3198645222[54.2411942,28.5616113] n3198645223[54.2411923,28.5620051] n3198645224[54.2412726,28.5620062] n3198645221[54.2412745,28.5616124]
 w313831460  null / null / Государственное учреждение образования "Учебно-педагогический комплекс ясли сад-средняя школа №24 г.Борисова"
-  other tags : addr:city=Борисов | addr:housenumber=65А | addr:street=улица Пирогова | building=yes | building:levels=3
+  other tags : addr:housenumber=65А | addr:street=улица Пирогова | building=yes | building:levels=3
     geometry : n3198645220[54.2412753,28.5614427] n3198645221[54.2412745,28.5616124] n3198645224[54.2412726,28.5620062] n3198645225[54.2413861,28.5620078] n3198645215[54.2413872,28.5617710] n3198645226[54.2413892,28.5613576] n3198645227[54.2412757,28.5613561] n3198645220[54.2412753,28.5614427]
 w313836698  null / null / Магазин продовольственный
   other tags : building=yes | shop=convenience
@@ -5669,7 +5669,7 @@ w313934153
   other tags : building=yes | building:levels=2
     geometry : n3199770704[54.2491938,28.5595208] n3199770696[54.2487116,28.5599624] n3199770695[54.2486486,28.5597608] n3199770703[54.2491308,28.5593193] n3199770704[54.2491938,28.5595208]
 w315595120  null / null / Евроопт
-  other tags : addr:city=г. Борисов | addr:housenumber=140 | addr:street=ул. М. Горького | building=yes | shop=supermarket | website=http://www.euroopt.by/
+  other tags : addr:housenumber=140 | addr:street=ул. М. Горького | building=yes | shop=supermarket | website=http://www.euroopt.by/
     geometry : n3217200570[54.2216531,28.4897263] n3217200571[54.2213198,28.4894365] n3217200569[54.2211082,28.4901486] n3217200572[54.2214416,28.4904383] n3217200570[54.2216531,28.4897263]
 w329732650
   other tags : building=yes

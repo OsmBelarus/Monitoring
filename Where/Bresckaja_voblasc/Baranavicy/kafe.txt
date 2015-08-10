@@ -1,5 +1,5 @@
-n2106311533  null / null / Арт-кафе «Дождь» 
-  other tags : addr:housename=Арт-кафе «Дождь»  | amenity=pub
+n2106311533  null / null / Арт-кафе «Дождь»
+  other tags : addr:housename=Арт-кафе «Дождь» | amenity=pub
     geometry : [53.1204884,26.0259131]
 n2106325356  null / null / Ля Пьяцца
   other tags : amenity=restaurant
@@ -26,7 +26,7 @@ n3224622216  null / null / Ромашка
   other tags : amenity=cafe | cuisine=regional | internet_access=no
     geometry : [53.0992662,25.9294701]
 n3224961176  null / null / кафе "ФастиХасти"
-  other tags : addr:housename=кафе "ФастиХасти" | addr:housenumber=101а | amenity=cafe
+  other tags : addr:housename=кафе "ФастиХасти" | addr:housenumber=101А | amenity=cafe
     geometry : [53.1241307,26.0234075]
 n3233878635
   other tags : amenity=fast_food
@@ -38,7 +38,7 @@ n3281744011  null / null / Горячая выпечка
   other tags : amenity=cafe | cuisine=pizza
     geometry : [53.1234665,26.0160513]
 n3281773060  null / null / Гранд Буфет
-  other tags : amenity=restaurant | opening_hours=-02.00
+  other tags : amenity=restaurant | opening_hours=-02:00
     geometry : [53.1316488,26.0173334]
 n3281773261  null / null / Ванька-Встанька
   other tags : amenity=cafe

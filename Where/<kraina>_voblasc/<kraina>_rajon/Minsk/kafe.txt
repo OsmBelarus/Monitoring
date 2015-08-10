@@ -30,7 +30,7 @@ n280022685  null / null / Кафе банно-оздоровительного �
   other tags : amenity=cafe | opening_hours=12:00-23:00
     geometry : [53.8870642,27.4222363]
 n280031077  null / null / Мариель / Мариель
-  other tags : addr:city=Минск | addr:housenumber=109 | addr:postcode=220019 | addr:street=улица Лобанка | amenity=restaurant | cuisine=european | description=Первая наценочная категория | opening_hours=11:00-23:00;Mo[1] off | operator=ЧТУП Маристель | phone=+375 29 686 06 06;+375 29 130-77-30;+375 17 254-09-45 | source=knowledge
+  other tags : addr:housenumber=109 | addr:postcode=220019 | addr:street=улица Лобанка | amenity=restaurant | cuisine=european | description=Первая наценочная категория | opening_hours=11:00-23:00; Mo[1] off | operator=ЧТУП Маристель | phone=+375 29 686 06 06;+375 29 130-77-30;+375 17 254-09-45 | source=knowledge
     geometry : [53.8822986,27.4322741]
 n280032443  null / null / Детский кафетерий "Сказочный мир"
   other tags : amenity=cafe
@@ -50,7 +50,7 @@ n281678078  null / null / Евразия
     geometry : [53.9012563,27.6013987]
 n281694148  null / null / Пиццамания
   other names: name:en=Pizzamania
-  other tags : amenity=restaurant | website=http://pizzamania.by
+  other tags : amenity=restaurant | website=http://pizzamania.by/
     geometry : [53.8829203,27.5674063]
 n281694149  Маяк / null / Маяк / Маяк
   other tags : addr:housenumber=75 | addr:street=улица Маяковского | amenity=cafe | phone=+375 (17) 2238642 | smoking=yes | wheelchair=yes | wikipedia=ru:Улица Маяковского (Минск)
@@ -249,7 +249,7 @@ n305679657  null / null / Пивной прибой
   other tags : amenity=pub | opening_hours=11:30-23:00 | phone=(017) 213-26-49
     geometry : [53.8870294,27.5366107]
 n305679665  null / null / Саквояж
-  other tags : addr:city=Минск | addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant
+  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant
     geometry : [53.9051359,27.5443606]
 n305680032  null / null / Трактир На Парковой / Трактир На Парковой
   other tags : amenity=cafe | cuisine=cafe;diner
@@ -417,10 +417,10 @@ n305683509  null / null / Пинта XXL
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9217104,27.5773923]
 n305683511  null / null / Пицца-Лига
-  other tags : addr:city=Минск | addr:housenumber=143 | addr:postcode=220100 | addr:street=улица Максима Богдановича | amenity=cafe | cuisine=pizza | internet_access=wlan | opening_hours=11 - 23 | phone=+375 17 334-41-23 | smoking=no
+  other tags : addr:housenumber=143 | addr:postcode=220100 | addr:street=улица Максима Богдановича | amenity=cafe | cuisine=pizza | internet_access=wlan | opening_hours=11:00-23:00 | phone=+375 17 334-41-23 | smoking=no
     geometry : [53.9252886,27.5703701]
 n305683515  Бярозка / null / Берёзка / Берёзка
-  other tags : amenity=cafe | cuisine=cafe/diner | opening_hours=Mo-Su 10:00-24:00;Fr,Sa 00:00-02:00,10:00-24:00
+  other tags : amenity=cafe | cuisine=cafe/diner | opening_hours=Mo-Su 10:00-24:00; Fr,Sa 00:00-02:00,10:00-24:00
     geometry : [53.9087357,27.5761146]
 n305683517  null / null / Санчо-Панса / Санчо-Пансо
   other tags : amenity=cafe | cuisine=cafe/diner | opening_hours=Mo-Su 12:00-23:00
@@ -591,7 +591,7 @@ n305687129  Magic Bar / null / Magic Bar / Magic Bar
 n305687176  null / null / Натврис Хе / Натврис Хе
   other tags : amenity=cafe | cuisine=cafe/diner
     geometry : [53.9121200,27.6730600]
-n305687290  Кафэ / null / Кафе / Кафе
+n305687290  Кафэ / null / null
   other tags : amenity=cafe | contact:phone=+375173446053 | cuisine=cafe/diner | operator=ЧУП КАНАШ
     geometry : [53.9227154,27.6713958]
 n306065230  null / null / Феррит / Феррит
@@ -812,7 +812,7 @@ n721079750  null / null / IKRA
   other tags : amenity=restaurant
     geometry : [53.9053798,27.5209082]
 n721090351  null / null / In vino
-  other tags : addr:city=Минск | addr:housenumber=22 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=50 | cuisine=international | opening_hours=12 - 00 | phone=+375 17 288 27 74 | smoking=isolated
+  other tags : addr:housenumber=22 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=50 | cuisine=international | opening_hours=12:00-00:00 | phone=+375 17 288 27 74 | smoking=isolated
     geometry : [53.9219156,27.5665708]
 n729589905  MiX грыль / null / MiX гриль / MiX гриль
   other tags : amenity=fast_food | cuisine=chicken
@@ -994,10 +994,10 @@ n984624974
   other tags : amenity=restaurant
     geometry : [53.9300750,27.6112552]
 n988599143  null / null / Presto Pizza
-  other tags : addr:city=Минск | addr:housenumber=3 | addr:postcode=220007 | addr:street=улица Жуковского | amenity=fast_food
+  other tags : addr:housenumber=3 | addr:postcode=220007 | addr:street=улица Жуковского | amenity=fast_food
     geometry : [53.8848224,27.5524754]
 n990207605  Terra Pizza / null / Terra Pizza / Terra Pizza
-  other tags : addr:city=Минск | addr:housenumber=186 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=cafe | contact:website=http://www.terrapizza.by/ | opening_hours=Mo-Su 10:00-23:00 | smoking=no
+  other tags : addr:housenumber=186 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=cafe | contact:website=http://www.terrapizza.by/ | opening_hours=Mo-Su 10:00-23:00 | smoking=no
     geometry : [53.9478841,27.6978968]
 n991008645  Сталовая / null / Столовая / Столовая
   other tags : amenity=cafe
@@ -1015,7 +1015,7 @@ n996409385  null / null / Зорина
   other tags : amenity=cafe
     geometry : [53.9411106,27.6324370]
 n1008196461  null / null / Vienna
-  other tags : addr:city=Минск | addr:housenumber=29 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=45 | cuisine=international | opening_hours=Mo-Th 09:00-02:00;Fr-Sa 10:00-06:00;Su 09:00-02:00 | phone=+375 17 334 43 44 | smoking=separated | website=http://vienna.vsemenu.by/
+  other tags : addr:housenumber=29 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=45 | cuisine=international | opening_hours=Mo-Th 09:00-02:00; Fr-Sa 10:00-06:00; Su 09:00-02:00 | phone=+375 17 334 43 44 | smoking=separated | website=http://vienna.vsemenu.by/
     geometry : [53.9218108,27.5628894]
 n1013260156
   other tags : amenity=cafe
@@ -1054,7 +1054,7 @@ n1123466965  null / null / День&Ночь / День&Ночь
   other tags : amenity=cafe
     geometry : [53.9196763,27.5866632]
 n1126565832  null / null / Union Coffee
-  other tags : amenity=cafe | cuisine=coffee_shop | opening_hours=Mo-Sa 08:00-24:00;Mo-Sa 00:00-02:00
+  other tags : amenity=cafe | cuisine=coffee_shop | opening_hours=Mo-Sa 08:00-24:00; Mo-Sa 00:00-02:00
     geometry : [53.8990583,27.5566587]
 n1140535627  null / null / MyKebap
   other tags : amenity=fast_food
@@ -1148,7 +1148,7 @@ n1336520143  null / null / Salad Drive
   other tags : amenity=cafe | cuisine=ice_cream | internet_access=wlan | operator=СООО «Юнайтед Компани» | takeaway=yes | terrace=yes
     geometry : [53.9382867,27.4790500]
 n1352208247  Кафэтэрый / null / Кафетерий / Кафетерий
-  other tags : addr:city=Минск | amenity=cafe
+  other tags : amenity=cafe
     geometry : [53.9482842,27.6936167]
 n1360571799  Хутка-смачна / null / Хутка-смачна
   other tags : addr:street=Партизанский проспект | amenity=fast_food | description=Хутка-брыдка | opening_hours=24/7
@@ -1295,7 +1295,7 @@ n1584592748  null / null / Newman
   other tags : amenity=restaurant
     geometry : [53.8999832,27.5449819]
 n1588277862  Сыты вожык / null / Сытый ёжик / Сытый ёжик
-  other tags : addr:city=Минск | addr:housenumber=38A | addr:street=Городецкая улица | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=11:00-24:00 | smoking=no
+  other tags : addr:housenumber=38А | addr:street=Городецкая улица | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=11:00-24:00 | smoking=no
     geometry : [53.9449298,27.6747581]
 n1602183917  Гараж / null / Гараж / Гараж
   other tags : amenity=restaurant
@@ -1355,7 +1355,7 @@ n1695378708  null / null / Столовая № 57
   other tags : addr:housenumber=4 | addr:street=Волгоградская улица | amenity=cafe | operator=РУП МИНСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД | phone=+375172639468
     geometry : [53.9289207,27.6257416]
 n1710499613  null / null / Loft
-  other tags : addr:housenumber=22 | addr:street=улица Петруся Бровки | amenity=cafe | internet_access=wlan | smoking=yes | source=http://loft.relax.by | website=http://loftcafe.by
+  other tags : addr:housenumber=22 | addr:street=улица Петруся Бровки | amenity=cafe | internet_access=wlan | smoking=yes | source=http://loft.relax.by | website=http://loftcafe.by/
     geometry : [53.9123574,27.6014835]
 n1715460516
   other tags : amenity=fast_food
@@ -1445,7 +1445,7 @@ n1870460811  null / null / Блиц
   other tags : addr:housenumber=4 | addr:postcode=220012 | addr:street=улица Натуралистов | amenity=cafe | opening_hours=10:00-23:00 | phone=+375172673060
     geometry : [53.9268408,27.6191720]
 n1870460813  null / null / Столовая № 1
-  other tags : addr:city=Минск | addr:housenumber=5А | addr:street=улица Чкалова | amenity=cafe | operator=ТПУП МИНСКАЯ БАЗА ОПС | phone=+375(17)2249115
+  other tags : addr:housenumber=5А | addr:street=улица Чкалова | amenity=cafe | operator=ТПУП МИНСКАЯ БАЗА ОПС | phone=+375(17)2249115
     geometry : [53.8794462,27.5362856]
 n1870460814  null / null / Столовая №1
   other tags : amenity=cafe | operator=УО АУП РБ | phone=+375(17)2228372
@@ -1682,7 +1682,7 @@ n2123174511  null / null / Promenade
   other tags : amenity=restaurant
     geometry : [53.9012075,27.5168917]
 n2145164877  null / null / Зелёный свет
-  other tags : addr:city=Минск | addr:housenumber=2 | addr:postcode=220039 | addr:street=улица Чкалова | amenity=cafe | internet_access=no | operator=ДорОРС
+  other tags : addr:housenumber=2 | addr:postcode=220039 | addr:street=улица Чкалова | amenity=cafe | internet_access=no | operator=ДорОРС
     geometry : [53.8819496,27.5356802]
 n2149437196  null / null / Buvette
   other tags : amenity=cafe | cuisine=sandwich | opening_hours=10:00-23:00
@@ -1718,7 +1718,7 @@ n2214405208  null / null / Старое русло
   other tags : amenity=restaurant
     geometry : [53.8959440,27.5674840]
 n2241600572  null / null / Чебуречная
-  other tags : addr:city=Минск | addr:housenumber=8а | addr:street=улица Кедышко | amenity=fast_food | takeaway=yes
+  other tags : addr:housenumber=8А | addr:street=улица Кедышко | amenity=fast_food | takeaway=yes
     geometry : [53.9294165,27.6168528]
 n2281899799  Піўняры / null / Пивняры / Пивняры
   other tags : addr:housenumber=77 | addr:street=улица Лобанка | amenity=pub | website=http://www.pivnyary.relax.by/
@@ -1817,7 +1817,7 @@ n2497006573  null / null / Кафе-бистро "Ежедневник"
   other tags : addr:housenumber=33 | addr:street=Кальварийская улица | amenity=cafe | takeaway=yes
     geometry : [53.9067507,27.5160579]
 n2503787675  null / null / СУШИ ВЕСЛА СУШИ-БАР
-  other tags : addr:housenumber=78 | addr:postcode=220035 | addr:street=проспект Машерова | amenity=cafe | cuisine=japanese | internet_access=no | opening_hours=11.00-23.00 | phone=8 029 3210000 | website=http://sushivesla.by/
+  other tags : addr:housenumber=78 | addr:postcode=220035 | addr:street=проспект Машерова | amenity=cafe | cuisine=japanese | internet_access=no | opening_hours=11:00-23:00 | phone=8 029 3210000 | website=http://sushivesla.by/
     geometry : [53.9126126,27.5325572]
 n2507179323  null / null / Кава i печыва
   other tags : amenity=cafe | cuisine=coffee_shop
@@ -1952,7 +1952,7 @@ n2600509200  null / null / Stolle
   other tags : amenity=cafe
     geometry : [53.9078935,27.5754366]
 n2600513270  null / null / Cafe Grill Netto
-  other tags : addr:city=Minsk | addr:housenumber=13 | addr:postcode=220005 | addr:street=Красная улица | amenity=cafe | cuisine=Author,_European | internet_access=wlan | opening_hours=24h | phone=+375 (29) 668-13-13 | smoking=outside | website=http://cafenetto.by/
+  other tags : addr:housenumber=13 | addr:postcode=220005 | addr:street=Красная улица | amenity=cafe | cuisine=Author,_European | internet_access=wlan | opening_hours=24h | phone=+375 (29) 668-13-13 | smoking=outside | website=http://cafenetto.by/
     geometry : [53.9137980,27.5756430]
 n2600524444  null / null / Coffee Box
   other tags : amenity=cafe
@@ -2008,7 +2008,7 @@ n2613445089  null / null / Планета Звезд
 n2614505263  null / null / Лимпопо
   other tags : amenity=cafe
     geometry : [53.9047318,27.4576925]
-n2614739042  null / null / Кафе
+n2614739042
   other tags : amenity=cafe
     geometry : [53.9114982,27.4545021]
 n2616019839  null / null / Терра пицца
@@ -2155,12 +2155,12 @@ n2753250786  null / null / Стараменская майстэрня шака�
     geometry : [53.9100261,27.5736668]
 n2767799256  null / null / Мулен / Мулен
   other names: name:fr=Moulin
-  other tags : addr:city=Минск | addr:housenumber=7 | addr:street=улица Яна Чечота | amenity=cafe | cuisine=кондитерская | internet_access=no | opening_hours=06:30-21:30 | smoking=outside
+  other tags : addr:housenumber=7 | addr:street=улица Яна Чечота | amenity=cafe | cuisine=кондитерская | internet_access=no | opening_hours=06:30-21:30 | smoking=outside
     geometry : [53.8497319,27.4779569]
 n2779137134  null / null / Кафе «Компай»
   other tags : amenity=cafe
     geometry : [53.9085991,27.4543680]
-n2803169514  Кавярня / null / Кафэ / Кафе
+n2803169514  Кавярня / null / Кафэ
   other tags : amenity=cafe
     geometry : [53.9505332,27.7071779]
 n2831641494  null / null / Профессор Преображенский
@@ -2296,7 +2296,7 @@ n3037191823  null / null / Кафетерий
   other tags : amenity=cafe | opening_hours=Mo-Fr 09:00-15:00,15:30-17:00
     geometry : [53.8584560,27.4970611]
 n3048770550  null / null / АйТи Тайм
-  other tags : amenity=cafe | opening_hours=Mo-Sa 07:00-23:00;Mo[1] off
+  other tags : amenity=cafe | opening_hours=Mo-Sa 07:00-23:00; Mo[1] off
     geometry : [53.9268105,27.6859026]
 n3068188084  ButterBro / null / ButterBro / ButterBro
   other tags : addr:housenumber=3Б | addr:street=Жасминовая улица | amenity=cafe
@@ -2311,25 +2311,25 @@ n3095526469  null / null / Пицца Лисица
   other tags : amenity=cafe
     geometry : [53.8944912,27.4348463]
 n3098540640  null / null / РЭД Клен
-  other tags : addr:city=Минск | amenity=cafe | internet_access=yes
+  other tags : amenity=cafe | internet_access=yes
     geometry : [53.8492835,27.4570400]
 n3098813486  null / null / Goodwin2
-  other tags : addr:city=Минск | addr:housenumber=62 к2 | addr:street=улица Притыцкого | amenity=cafe
+  other tags : addr:housenumber=62 к2 | addr:street=улица Притыцкого | amenity=cafe
     geometry : [53.9082754,27.4590022]
 n3100323017  null / null / L’абрус (Лабрус)
-  other tags : addr:city=Минск | addr:housenumber=25 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=100 | cuisine=french,_italian,_slavonic | opening_hours=11 - 00 | phone=+375 29 688 60 48 | smoking=separated | website=labrus.relax.by
+  other tags : addr:housenumber=25 | addr:postcode=220123 | addr:street=улица Веры Хоружей | amenity=restaurant | capacity=100 | cuisine=french,_italian,_slavonic | opening_hours=11:00-00:00 | phone=+375 29 688 60 48 | smoking=separated | website=http://labrus.relax.by/
     geometry : [53.9212787,27.5667372]
 n3100371806  null / null / Аппетинка
-  other tags : addr:city=Минск | amenity=cafe | internet_access=no | smoking=no
+  other tags : amenity=cafe | internet_access=no | smoking=no
     geometry : [53.9189657,27.5787052]
 n3106523893  null / null / Чайное Состояние
   other tags : amenity=cafe
     geometry : [53.9081534,27.5567126]
 n3110916827
-  other tags : addr:city=Минск | addr:street=улица Кульман | amenity=cafe | cuisine=uzbek | internet_access=no | smoking=outside
+  other tags : addr:street=улица Кульман | amenity=cafe | cuisine=uzbek | internet_access=no | smoking=outside
     geometry : [53.9215216,27.5791652]
 n3110943511  null / null / Штолле
-  other tags : addr:city=Минск | addr:street=улица Веры Хоружей | amenity=cafe | cuisine=regional | internet_access=no | smoking=no | website=www.stolle.by
+  other tags : addr:street=улица Веры Хоружей | amenity=cafe | cuisine=regional | internet_access=no | smoking=no | website=http://www.stolle.by/
     geometry : [53.9191317,27.5778965]
 n3116156643  Старамеская піўніца / null / Староместская пивница / Староместская пивница
   other tags : addr:housenumber=8 | addr:street=улица Кирилла и Мефодия | amenity=pub | opening_hours=Su-Th 12:00-24:00; Fr-Sa 12:00-02:00 | smoking=no
@@ -2363,7 +2363,7 @@ n3147897483
     geometry : [53.9299738,27.6113846]
 n3147901292  null / null / Панда / Панда
   other names: name:en=Panda
-  other tags : addr:city=Минск | addr:housenumber=10 | addr:postcode=220012 | addr:street=улица Толбухина | amenity=restaurant | capacity=280 | cuisine=chinese | note:ru=Ресторан китайской кухни "Панда" | opening_hours=11:00 - 02:00 | phone=+375 17 285 6118 | smoking=isolated | website=http://chinapanda.by/
+  other tags : addr:housenumber=10 | addr:postcode=220012 | addr:street=улица Толбухина | amenity=restaurant | capacity=280 | cuisine=chinese | note:ru=Ресторан китайской кухни "Панда" | opening_hours=11:00-02:00 | phone=+375 17 285 6118 | smoking=isolated | website=http://chinapanda.by/
     geometry : [53.9288607,27.6124985]
 n3147919780  null / null / Дом Фишера
   other tags : amenity=cafe
@@ -2375,7 +2375,7 @@ n3147935430  null / null / Руккола
   other tags : amenity=cafe
     geometry : [53.9284163,27.6277358]
 n3147945565  null / null / SORSO di espresso
-  other tags : addr:housenumber=111 | addr:street=проспект Независимости | amenity=cafe | internet_access=wlan | opening_hours=Mo-Fr 08:00-23:00;Sa-Su 09:00-23:00 | smoking=outside
+  other tags : addr:housenumber=111 | addr:street=проспект Независимости | amenity=cafe | internet_access=wlan | opening_hours=Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00 | smoking=outside
     geometry : [53.9291492,27.6304571]
 n3147964480  null / null / Верба
   other tags : amenity=fast_food
@@ -2383,8 +2383,9 @@ n3147964480  null / null / Верба
 n3147987612  null / null / Сундук
   other tags : amenity=restaurant
     geometry : [53.9305339,27.6092144]
-n3147987613  null / null / CoffeTut
-  other tags : amenity=cafe
+n3147987613  null / null / TeaFunny
+  other names: name:en=TeaFunny, cofeeshop
+  other tags : addr:housenumber=1 | addr:street=улица Толбухина | amenity=cafe | cuisine=coffee_shop | internet_access=wlan | opening_hours=10:00-21:30 | phone=+375173999136 | smoking=outside
     geometry : [53.9248593,27.6134046]
 n3148016652
   other tags : amenity=cafe
@@ -2399,7 +2400,7 @@ n3148781196
   other tags : amenity=cafe
     geometry : [53.9188129,27.5914805]
 n3148781197  null / null / Clever Irish Pub
-  other tags : addr:city=Минск | addr:housenumber=5 | addr:postcode=220005 | addr:street=улица Гикало | amenity=pub | opening_hours=Mo-Fr 00:00-02:00,16:00-24:00; Sa,Su 00:00-04:00,16:00-24:00 | smoking=separated
+  other tags : addr:housenumber=5 | addr:postcode=220005 | addr:street=улица Гикало | amenity=pub | opening_hours=Mo-Fr 00:00-02:00,16:00-24:00; Sa,Su 00:00-04:00,16:00-24:00 | smoking=separated
     geometry : [53.9150382,27.5893946]
 n3148781198  null / null / Гвоздь
   other tags : addr:housenumber=5 | addr:street=улица Гикало | amenity=pub
@@ -2431,7 +2432,7 @@ n3184974919  null / null / Пицца Темпо
 n3187201394  null / null / Мини кафе
   other tags : amenity=cafe
     geometry : [53.9020773,27.4972492]
-n3203106460  Кавярня / null / Кафе / Кафе
+n3203106460  Кавярня / null / null
   other tags : amenity=cafe
     geometry : [53.9492764,27.7069521]
 n3203110516  Forest Hall / null / Forest Hall / Forest Hall
@@ -2462,7 +2463,7 @@ n3206003028  null / null / Место встречи
   other tags : amenity=cafe
     geometry : [53.9158034,27.4858728]
 n3207033863  null / null / Сицилия
-  other tags : addr:city=Минск | addr:housenumber=10 | addr:street=Нововиленская улица | amenity=cafe | cuisine=italian | internet_access=no | opening_hours=Mo-We 12:00-23:00; Tu-Sa 12:00-01:00; Su 12:00-23:00 | phone=+375 29 666-99-09 | smoking=no
+  other tags : addr:housenumber=10 | addr:street=Нововиленская улица | amenity=cafe | cuisine=italian | internet_access=no | opening_hours=Mo-We 12:00-23:00; Tu-Sa 12:00-01:00; Su 12:00-23:00 | phone=+375 29 666-99-09 | smoking=no
     geometry : [53.9298918,27.5413563]
 n3207757442  null / null / McDonald's
   other tags : amenity=fast_food | cuisine=burger | smoking=no
@@ -2501,7 +2502,7 @@ n3227984167  null / null / CoffeeBerry
   other tags : amenity=cafe
     geometry : [53.9068651,27.5478155]
 n3228167175  7/25EspressoBar / null / 7/25EspressoBar / 7/25EspressoBar
-  other tags : addr:city=Минск | addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=07:25-19:00
+  other tags : addr:housenumber=12 | addr:postcode=220114 | addr:street=улица Франциска Скорины | amenity=cafe | cuisine=Espresso_bar | internet_access=wlan | opening_hours=07:25-19:00
     geometry : [53.9236201,27.6694939]
 n3235921361  null / null / Столовая
   other tags : amenity=fast_food
@@ -2530,11 +2531,11 @@ n3257971762  null / null / Кофе Хауз
 n3257985483  null / null / Кофе Хауз
   other tags : amenity=cafe
     geometry : [53.8490951,27.6998095]
-n3258015761  null / null / кафе
+n3258015761
   other tags : amenity=cafe
     geometry : [53.8746833,27.6276653]
 n3259059903  null / null / Винтаж
-  other tags : addr:city=Минск | addr:housenumber=95 | addr:street=улица Калиновского | amenity=cafe | smoking=yes
+  other tags : addr:housenumber=95 | addr:street=улица Калиновского | amenity=cafe | smoking=yes
     geometry : [53.9472972,27.6291089]
 n3265978805  Вячэрні квартал / null / Вечерний квартал / Вечерний квартал
   other tags : amenity=cafe
@@ -2558,7 +2559,7 @@ n3268851967  null / null / кислородный бар
   other tags : amenity=cafe
     geometry : [53.9185302,27.6073213]
 n3268928061  Cool Coffee / null / Cool Coffee / Cool Coffee
-  other tags : addr:city=Минск | addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | contact:website=vk.com/public_coolcoffee | cuisine=coffee_shop | internet_access=wlan | opening_hours=08:00-23:00 | smoking=no
+  other tags : addr:housenumber=177 | addr:street=проспект Независимости | amenity=cafe | contact:website=vk.com/public_coolcoffee | cuisine=coffee_shop | internet_access=wlan | opening_hours=08:00-23:00 | smoking=no
     geometry : [53.9453975,27.6832749]
 n3270390561  null / null / Маэстро
   other tags : amenity=cafe
@@ -2582,7 +2583,7 @@ n3270433157  null / null / Лобби-бар
   other tags : amenity=restaurant | cuisine=regional
     geometry : [53.8969522,27.5511058]
 n3270473261  null / null / SHEFF (ШЕФ)
-  other tags : addr:housenumber=9 | addr:street=Московская улица | amenity=restaurant | opening_hours=11 00 - 23 00
+  other tags : addr:housenumber=9 | addr:street=Московская улица | amenity=restaurant | opening_hours=11 00-23 00
     geometry : [53.8883810,27.5392551]
 n3270484293  null / null / Milano
   other tags : amenity=cafe | cuisine=regional | opening_hours=Mo-Fr 08:00-00:00, Sa-Su 09:00-00:00
@@ -2597,7 +2598,7 @@ n3280385738  null / null / Мон Кафе
   other tags : addr:housenumber=2 | addr:street=улица Мельникайте | amenity=cafe | internet_access=wlan | opening_hours=Mo-Th 11:00-24:00, Fr-Sa 11:00-02:00, Su 11:00-00:00 | phone=+ 375 29 623 99 57;+ 375 29 860 99 57 | short_name=МонКафе | smoking=isolated | website=http://www.moncafe.by/
     geometry : [53.9059514,27.5428579]
 n3280410268  null / null / Ресторан индийской кухни «Taj»
-  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant | cuisine=indian | opening_hours=12.00-24.00 | phone=+375447111110;+375173062961 | website=http://www.taj.by/
+  other tags : addr:housenumber=26 | addr:street=улица Романовская Слобода | amenity=restaurant | cuisine=indian | opening_hours=12:00-24:00 | phone=+375447111110;+375173062961 | website=http://www.taj.by/
     geometry : [53.9048626,27.5440771]
 n3282351241  null / null / «Орион»
   other tags : amenity=cafe
@@ -2618,7 +2619,7 @@ n3286403322  null / null / Пироговня Stolle
   other tags : amenity=cafe
     geometry : [53.9078275,27.5835720]
 n3287794491  null / null / Камелия
-  other tags : addr:city=Минск | addr:housenumber=21 к1 | addr:postcode=220030 | addr:street=Красноармейская улица | amenity=cafe | cuisine=regional | internet_access=yes | phone=+375172261080 | smoking=isolated | website=http://cafe-kamelia.by/
+  other tags : addr:housenumber=21 к1 | addr:postcode=220030 | addr:street=Красноармейская улица | amenity=cafe | cuisine=regional | internet_access=yes | phone=+375172261080 | smoking=isolated | website=http://cafe-kamelia.by/
     geometry : [53.8954595,27.5755781]
 n3295235742  Malt & Hops / null / Malt & Hops / Malt & Hops
   other tags : amenity=pub | smoking=yes
@@ -2642,7 +2643,7 @@ n3351855383  Бліновая Масленіца / null / Блинная Мас�
   other tags : amenity=fast_food | layer=-1
     geometry : [53.9453517,27.6890751]
 n3351855386  Кафэтэрый / null / Кафетерий / Кафетерий
-  other tags : amenity=cafe | opening_hours=Mo-Sa 08:00-21:00; Su,PH 08:00-18:00; Th[-1] off | operator:be=ЗАТ "Універсам Першамайскі" | operator:ru=ЗАО "Универсам Первомайский"
+  other tags : amenity=cafe | opening_hours=Mo-Sa 08:00-21:00; Su,ph 08:00-18:00; Th[-1] off | operator:be=ЗАТ "Універсам Першамайскі" | operator:ru=ЗАО "Универсам Первомайский"
     geometry : [53.9387157,27.6862018]
 n3351855387  Мая Кавярня / null / Мая Кавярня / Мая Кавярня
   other tags : amenity=cafe | layer=-1 | opening_hours=Mo-Su 10:00-21:00
@@ -2675,17 +2676,17 @@ n3392417770  null / null / СанТропе
   other tags : addr:housenumber=100 к4 | addr:street=проспект Победителей | amenity=cafe | opening_hours=10:00-22:00 | phone=+375 29 186-66-68
     geometry : [53.9384765,27.4817420]
 n3392636118  null / null / Васильки
-  other tags : addr:city=Minsk | addr:housenumber=129 | addr:street=Восточная улица | amenity=restaurant | cuisine=regional | opening_hours=09:00-23:00 | phone=+375 33 3312353
+  other tags : addr:housenumber=129 | addr:street=Восточная улица | amenity=restaurant | cuisine=regional | opening_hours=09:00-23:00 | phone=+375 33 3312353
     geometry : [53.9394185,27.5980976]
 n3400289748  null / null / Jam Coffee
   other tags : amenity=cafe | opening_hours=Mo-Su 09:00-23:00
     geometry : [53.8952833,27.5510714]
 n3419336806  Капучынка / null / Cappuccin'ca / Капучинка
-  other tags : amenity=cafe | cuisine=coffee_shop | note=Вкусный капучино! | opening_hours=10:00 - 22:00 | phone=+375 29 910 7573 | smoking=no
+  other tags : amenity=cafe | cuisine=coffee_shop | note=Вкусный капучино! | opening_hours=10:00-22:00 | phone=+375 29 910 7573 | smoking=no
     geometry : [53.9168697,27.4166363]
 n3437793152  null / null / Янцзы
   other names: name:en=Yangzi | name:zh=扬子
-  other tags : addr:city=Минск | addr:housenumber=8 | addr:street=площадь Свободы | amenity=restaurant | capacity=100 | cuisine=chinese | delivery=yes | opening_hours=12:00 - 00:00 | phone=+375291236688 | smoking=separated | takeaway=yes | website=http://yangtze.by/
+  other tags : addr:housenumber=8 | addr:street=площадь Свободы | amenity=restaurant | capacity=100 | cuisine=chinese | delivery=yes | opening_hours=12:00-00:00 | phone=+375291236688 | smoking=separated | takeaway=yes | website=http://yangtze.by/
     geometry : [53.9040304,27.5561363]
 n3446537641  null / null / Куршавель
   other tags : amenity=cafe
@@ -2727,7 +2728,7 @@ n3528954722  Ікампот / null / Икомпот / Икомпот
   other tags : amenity=cafe | contact:phone=+375 29 1251254 | cuisine=international | opening_hours=Mo-Fr 10:00-20:00
     geometry : [53.9277497,27.6836399]
 n3553616800  null / null / Шляхетский маёнтак
-  other tags : addr:city=Минск | addr:housenumber=12 | addr:street=Липковский переулок | amenity=restaurant
+  other tags : addr:housenumber=12 | addr:street=Липковский переулок | amenity=restaurant
     geometry : [53.9190656,27.6994736]
 n3573399210  null / null / QuickCafe
   other tags : amenity=cafe | internet_access=wlan | internet_access:fee=no | opening_hours=24/7 | operator=Группа компаний «А-100»
@@ -2832,15 +2833,18 @@ n3647143987  null / null / Зерно
   other tags : addr:housenumber=6 | addr:street=улица Козлова | amenity=cafe | opening_hours=8:00-23:00
     geometry : [53.9084343,27.5814775]
 n3647184707  null / null / Stolle
-  other tags : addr:housenumber=23 | addr:street=Интернациональная улица | amenity=cafe | cuisine=pie | opening_hours=10.00-23.00
+  other tags : addr:housenumber=23 | addr:street=Интернациональная улица | amenity=cafe | cuisine=pie | opening_hours=10:00-23:00
     geometry : [53.9038147,27.5586624]
 n3647234619  null / null / ПивЗалив
   other tags : amenity=pub
     geometry : [53.9191177,27.5745440]
 n3648997243  null / null / null / Мюнхгаузен Кафе
   other names: name:en=Munchhausen Cafe
-  other tags : addr:city=Минск | addr:housenumber=14 | addr:postcode=220012 | addr:street=улица Сурганова | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=Mo-Fr 8:00-16:00 | smoking=no
+  other tags : addr:housenumber=14 | addr:postcode=220012 | addr:street=улица Сурганова | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=Mo-Fr 8:00-16:00 | smoking=no
     geometry : [53.9231769,27.6005083]
+n3649068141  null / null / Столовая
+  other tags : addr:housenumber=6 | addr:postcode=220070 | addr:street=улица Будённого | amenity=cafe | cuisine=regional | internet_access=no | opening_hours=Mo-Fr 08:00-16:00 | smoking=no
+    geometry : [53.8811916,27.6080447]
 n3653733194  null / null / People's
   other tags : amenity=cafe
     geometry : [53.9048219,27.5400480]
@@ -2862,8 +2866,11 @@ n3662080364  Старыя традыцыі / null / Старые традици�
 n3662696997  null / null / Авиньон
   other tags : amenity=restaurant | opening_hours=Mo-Su 07:00-24:00
     geometry : [53.9026671,27.5568272]
+n3664788279  null / null / Cafe Re
+  other tags : addr:housenumber=9 | addr:postcode=220030 | addr:street=Зыбицкая улица | amenity=cafe | cuisine=international | internet_access=wlan
+    geometry : [53.9056984,27.5588380]
 n3669219099  null / null / Веранда
-  other tags : addr:city=Минск | addr:housenumber=57 | addr:street=проспект Дзержинского | amenity=restaurant | capacity=230 | opening_hours=Mo-Th 8:00-24:00; Fr 8:00-2:00; Sa 10:00-2:00; Su 10:00-24:00 | phone=+375 44 704-04-13
+  other tags : addr:housenumber=57 | addr:street=проспект Дзержинского | amenity=restaurant | capacity=230 | opening_hours=Mo-Th 8:00-24:00; Fr 8:00-2:00; Sa 10:00-2:00; Su 10:00-24:00 | phone=+375 44 704-04-13
     geometry : [53.8756730,27.4973329]
 n3671588687  null / null / Ресторан-бистро "Столичный"
   other tags : amenity=fast_food

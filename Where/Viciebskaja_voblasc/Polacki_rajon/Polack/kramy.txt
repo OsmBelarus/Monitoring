@@ -177,8 +177,9 @@ n2350863652  null / null / Автомания
 n2511177812  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.5126406,28.7712187]
-n2561117178  null / null / Атлант
-  other tags : shop=electronics
+n2561117178  null / null / ATLANT / Атлант
+  other names: name:en=Atlant
+  other tags : addr:housenumber=10 | addr:postcode=211400 | addr:street=улица Максима Богдановича | opening_hours=Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 10:00-15:00 | operator=Делтех, ЧП | phone=+375 214 744040 | shop=electronics | website=http://happ.by/
     geometry : [55.4980115,28.7526439]
 n2561117180  null / null / Евроопт
   other tags : addr:housenumber=10 | addr:street=улица Максима Богдановича | opening_hours=9:00-22:00 | phone=+375 214 48-37-90 | shop=convenience | website=http://www.euroopt.by/
@@ -211,7 +212,7 @@ n3010596278  null / null / Евроопт
   other tags : addr:housenumber=23 | addr:street=Октябрьская улица | opening_hours=8:00-22:00 | phone=+375 214 42-12-23 | shop=convenience | website=http://www.euroopt.by/
     geometry : [55.4884542,28.7867122]
 n3102118919  null / null / Фирменная секция GEFEST
-  other tags : addr:city=Полоцк | addr:housenumber=18 | addr:street=Коммунистическая улица | shop=electronics
+  other tags : addr:housenumber=18 | addr:street=Коммунистическая улица | shop=electronics
     geometry : [55.4860296,28.7792911]
 n3102125287  null / null / Центр МТС
   other tags : contact:phone=+375 (17) 2379898 | contact:website=http://www.mts.by/ | note=GPS: N 55 29.199 E 28 46.701 | office=telecommunication | opening_hours=Mo-Su 09:00-14:00,15:00-21:00 | shop=mobile_phone
@@ -256,11 +257,11 @@ n3400289751
   other tags : shop=convenience
     geometry : [55.4883796,28.7751347]
 n3485807164  null / null / Польская кожанная обувь BEST BUT роллет 135 второй этаж
-  other tags : addr:city=Полоцк | addr:housenumber=23 | addr:street=Октябрьская улица | opening_hours=09.00-16.00 Выходной: Вторник | operator=Индивидуальный предприниматель | shop=shoes
+  other tags : addr:housenumber=23 | addr:street=Октябрьская улица | opening_hours=09:00-16:00 выходной: Tu | operator=Индивидуальный предприниматель | shop=shoes
     geometry : [55.4884619,28.7865057]
 n3510283032  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [55.4716803,28.7501661]
 n3556490220
-  other tags : addr:city=Полоцк | addr:housenumber=4А | addr:street=Стрелецкая улица | opening_hours=с 10.00 до 17.00 каждый день, кроме понедельника. | shop=art
+  other tags : addr:housenumber=4А | addr:street=Стрелецкая улица | opening_hours=10:00-17:00 каждый день, кроме Moа. | shop=art
     geometry : [55.4858058,28.7647212]

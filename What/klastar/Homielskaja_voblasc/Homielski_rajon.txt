@@ -8,16 +8,16 @@ w238647832  null / null / Церковь Рождества Пресвятой �
   other tags : addr:housenumber=102 | addr:street=улица Ленина | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
     geometry : n2464527145[52.4684600,30.8022897] n2708467766[52.4684485,30.8023043] n2708467762[52.4684298,30.8022648] n2708467757[52.4683915,30.8023138] n2708467761[52.4684118,30.8023567] n2464527140[52.4683967,30.8023760] n2464527143[52.4684568,30.8025026] n2464527142[52.4684099,30.8025626] n2464527147[52.4684558,30.8026594] n2464527148[52.4685057,30.8025956] n2464527152[52.4685420,30.8026722] n2464527156[52.4686069,30.8025892] n2464527155[52.4685660,30.8025312] n2464527158[52.4686131,30.8024521] n2464527153[52.4685629,30.8023463] n2464527150[52.4685156,30.8024068] n2464527145[52.4684600,30.8022897]
 w307111417  null / null / Храм Успения Пресвятой Богородицы
-  other tags : addr:country=BY | addr:housenumber=53 | addr:street=улица Колхозная | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+  other tags : addr:housenumber=53 | addr:street=улица Колхозная | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3121799208[52.4691387,30.9197397] n3121799206[52.4690390,30.9194795] n3121799205[52.4689704,30.9195385] n3121799207[52.4690701,30.9198014] n3121799208[52.4691387,30.9197397]
 w307865629
-  other tags : addr:country=BY | addr:street=Кооперативная улица | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
+  other tags : addr:street=Кооперативная улица | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
     geometry : n3130972983[52.4260756,31.1283746] n3130972981[52.4259534,31.1283714] n3130972980[52.4259502,31.1287034] n3130972982[52.4260724,31.1287065] n3130972983[52.4260756,31.1283746]
 w316754945  null / null / Храм Покрова Пресвятой Богородицы
   other tags : addr:housenumber=62В | addr:street=Коммунистическая улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3229341598[52.4935432,30.6293862] n3229341595[52.4935244,30.6295599] n3229341597[52.4935400,30.6295645] n3229341596[52.4935321,30.6296380] n3229341594[52.4935105,30.6296317] n3229341593[52.4935017,30.6297137] n3229341591[52.4934822,30.6297080] n3229341589[52.4934782,30.6297444] n3229341586[52.4934403,30.6297334] n3229341587[52.4934446,30.6296935] n3229341585[52.4934204,30.6296864] n3229341588[52.4934478,30.6294321] n3229341590[52.4934814,30.6294418] n3229341592[52.4934891,30.6293704] n3229341598[52.4935432,30.6293862]
-w316773456  null / null / Церковь
-  other tags : addr:street=Приозёрная улица | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
+w316773456
+  other tags : addr:street=Приозёрная улица | amenity=place_of_worship | building=church | denomination=orthodox | religion=christian
     geometry : n3229536937[52.3672703,31.0004220] n3229536935[52.3672002,31.0004275] n3229536936[52.3672037,31.0005489] n3229536938[52.3672738,31.0005434] n3229536937[52.3672703,31.0004220]
 w316773685  null / null / Церковь
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian

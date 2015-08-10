@@ -596,7 +596,7 @@ w207727752
   other tags : building=house
     geometry : n2179792112[53.5058140,29.2743640] n2179792133[53.5059281,29.2743801] n2179792134[53.5059369,29.2742042] n2179792114[53.5058227,29.2741882] n2179792112[53.5058140,29.2743640]
 w207727753
-  other tags : addr:housenumber=132а | addr:street=Западная улица | building=house
+  other tags : addr:housenumber=132А | addr:street=Западная улица | building=house
     geometry : n2179792392[53.5115118,29.2577058] n2179792420[53.5116259,29.2577219] n2179792421[53.5116347,29.2575460] n2179792393[53.5115205,29.2575300] n2179792392[53.5115118,29.2577058]
 w207727754
   other tags : building=house
@@ -974,7 +974,7 @@ w213509125
   other tags : building=house
     geometry : n2231895437[53.4780142,29.2232964] n2231895447[53.4780783,29.2231622] n2231895442[53.4780470,29.2231200] n2231895429[53.4779782,29.2230273] n2231895421[53.4779142,29.2231615] n2231895437[53.4780142,29.2232964]
 w213509126
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=3 | addr:street=ул. Победы | building=house
+  other tags : addr:housenumber=3 | addr:street=ул. Победы | building=house
     geometry : n2231894916[53.4741968,29.2228772] n2231894925[53.4742608,29.2227430] n2231894919[53.4742295,29.2227008] n2231894912[53.4741608,29.2226082] n2231894905[53.4740967,29.2227423] n2231894916[53.4741968,29.2228772]
 w213509127
   other tags : building=house
@@ -1163,7 +1163,7 @@ w213509192
   other tags : addr:housenumber=13 | building=house
     geometry : n2231894942[53.4744015,29.2216193] n2231894955[53.4744656,29.2214851] n2231894947[53.4744343,29.2214429] n2231894937[53.4743655,29.2213502] n2231894924[53.4743014,29.2214844] n2231894942[53.4744015,29.2216193]
 w213509193
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=1 | addr:street=ул. Набережная | building=house
+  other tags : addr:housenumber=1 | addr:street=ул. Набережная | building=house
     geometry : n2231895402[53.4777753,29.2388385] n2231895409[53.4778393,29.2387043] n2231895406[53.4778080,29.2386621] n2231895398[53.4777393,29.2385694] n2231895392[53.4776752,29.2387036] n2231895402[53.4777753,29.2388385]
 w213509194
   other tags : building=house
@@ -1241,7 +1241,7 @@ w213801076
   other tags : addr:housenumber=3 | building=house
     geometry : n2234370740[53.4996445,29.1418732] n2234370750[53.4997175,29.1416728] n2234370768[53.4998139,29.1417720] n2234370762[53.4997409,29.1419725] n2234370740[53.4996445,29.1418732]
 w213801085
-  other tags : addr:city=д. Ореховка | addr:housenumber=2 | addr:postcode=213910 | addr:street=пер. Озерный | building=house
+  other tags : addr:housenumber=2 | addr:postcode=213910 | addr:street=пер. Озерный | building=house
     geometry : n2234371691[53.5057376,29.1558042] n2234371693[53.5057483,29.1556482] n2234371699[53.5058713,29.1556719] n2234371698[53.5058607,29.1558278] n2234371691[53.5057376,29.1558042]
 w213801086
   other tags : addr:housenumber=47 | addr:street=Полевая улица | building=house
@@ -1268,7 +1268,7 @@ w213801126
   other tags : addr:housenumber=12 | building=house
     geometry : n2234370845[53.5001366,29.1415543] n2234370856[53.5002012,29.1413574] n2234370883[53.5003483,29.1414937] n2234370876[53.5002837,29.1416907] n2234370845[53.5001366,29.1415543]
 w213801128
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=12 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=12 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n2234370676[53.4993586,29.1446544] n2234370683[53.4994402,29.1444636] n2234370711[53.4995184,29.1445580] n2234370707[53.4994368,29.1447488] n2234370676[53.4993586,29.1446544]
 w213801134
   other tags : addr:housenumber=5 | addr:postcode=213900 | building=house
@@ -1385,7 +1385,7 @@ w213801275
   other tags : addr:housenumber=5/2 | addr:street=Приозёрная улица | building=house
     geometry : n3298368475[53.5053127,29.1574071] n2234371680[53.5052978,29.1576031] n2234371671[53.5051878,29.1575794] n3298368474[53.5052028,29.1573834] n3298368475[53.5053127,29.1574071]
 w213801276
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=16 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=16 | addr:street=ул. Полевая | building=house
     geometry : n2234370780[53.5001836,29.1464103] n2234370785[53.5002634,29.1461983] n2234370798[53.5003247,29.1462634] n2234370792[53.5002449,29.1464755] n2234370780[53.5001836,29.1464103]
 w213801278
   other tags : addr:housenumber=31 | addr:street=Полевая улица | building=house
@@ -1466,7 +1466,7 @@ w213801392
   other tags : building=house
     geometry : n2234371560[53.5044448,29.1552674] n2500338662[53.5044656,29.1551498] n2500338663[53.5045018,29.1551679] n2234371569[53.5045136,29.1551008] n2234371595[53.5045963,29.1551421] n2234371585[53.5045637,29.1553267] n2234371560[53.5044448,29.1552674]
 w213801398
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=6 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=6 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n2234370551[53.4988116,29.1447968] n2234370562[53.4988842,29.1446382] n2234370593[53.4989392,29.1447093] n3196585968[53.4989191,29.1447534] n3196585970[53.4989394,29.1447796] n2234370587[53.4988869,29.1448943] n2234370551[53.4988116,29.1447968]
 w213801401
   other tags : addr:housenumber=10 | addr:street=Приозёрная улица | building=house
@@ -1703,7 +1703,7 @@ w214752949
   other tags : building=house
     geometry : n2242278506[53.3959829,29.2264919] n2242278476[53.3958987,29.2264405] n2242278469[53.3958609,29.2266146] n2242278495[53.3959451,29.2266661] n2242278506[53.3959829,29.2264919]
 w214752954
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=7 | addr:postcode=213900 | addr:street=пер. Молодежный | building=house
+  other tags : addr:housenumber=7 | addr:postcode=213900 | addr:street=пер. Молодежный | building=house
     geometry : n2242279297[53.4032300,29.2319538] n2242279292[53.4031295,29.2318419] n2242279291[53.4030468,29.2320510] n2242279294[53.4031472,29.2321628] n2242279297[53.4032300,29.2319538]
 w214752963
   other tags : building=house
@@ -1715,7 +1715,7 @@ w214752966
   other tags : building=house
     geometry : n2242278519[53.3959231,29.2279534] n2242278496[53.3958389,29.2279020] n2242278480[53.3958011,29.2280761] n2242278510[53.3958853,29.2281276] n2242278519[53.3959231,29.2279534]
 w214752967
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=17 | addr:street=Молодёжный переулок | building=house
+  other tags : addr:housenumber=17 | addr:street=Молодёжный переулок | building=house
     geometry : n2242279412[53.4037215,29.2304453] n2242279399[53.4036147,29.2303442] n2242279397[53.4035376,29.2305733] n2242279410[53.4036444,29.2306744] n2242279412[53.4037215,29.2304453]
 w215352491  null / null / Долговская
   other tags : amenity=hospital | building=house
@@ -2096,7 +2096,7 @@ w215364691
   other tags : building=house
     geometry : n2247791149[53.3488954,29.1855148] n2247791160[53.3489689,29.1857160] n2247791146[53.3488731,29.1858142] n2247791138[53.3487995,29.1856131] n2247791149[53.3488954,29.1855148]
 w215364694
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=1 | building=house
+  other tags : addr:housenumber=1 | building=house
     geometry : n2247791348[53.3522474,29.1797471] n2247791351[53.3523129,29.1799246] n2247791345[53.3522174,29.1800236] n2247791342[53.3521425,29.1798208] n2530310616[53.3522249,29.1797354] n2530310617[53.3522343,29.1797607] n2247791348[53.3522474,29.1797471]
 w215364696
   other tags : building=house
@@ -2225,7 +2225,7 @@ w243124544
   other tags : addr:housenumber=18 | addr:postcode=213900 | addr:street=Совхозная улица | building=house
     geometry : n2505572059[53.4783756,29.2302095] n2505572058[53.4783155,29.2303332] n2505572060[53.4784078,29.2304598] n2505572061[53.4784679,29.2303362] n2505572059[53.4783756,29.2302095]
 w243261501
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=10 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=10 | addr:street=ул. Рабочая | building=house
     geometry : n2506814898[53.4773555,29.2393558] n2506814897[53.4773004,29.2394738] n2506814899[53.4774216,29.2396334] n2506814900[53.4774767,29.2395154] n2506814898[53.4773555,29.2393558]
 w243267454
   other tags : addr:housenumber=8 | addr:postcode=213900 | building=house
@@ -2315,10 +2315,10 @@ w244815889
   other tags : addr:housenumber=25 | building=house
     geometry : n2520866811[53.3488422,29.1747005] n2520866812[53.3489078,29.1748145] n2520866810[53.3487922,29.1750010] n2520866809[53.3487266,29.1748869] n2520866811[53.3488422,29.1747005]
 w245172697
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=4 | addr:street=ул. Советская | building=house
+  other tags : addr:housenumber=4 | addr:street=ул. Советская | building=house
     geometry : n2524133043[53.4759964,29.2251680] n2524133037[53.4759500,29.2251007] n2524133033[53.4758923,29.2252129] n2524133041[53.4759571,29.2253069] n2524133047[53.4760148,29.2251947] n2524133043[53.4759964,29.2251680]
 w245618780
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=1 | addr:street=ул. Советская | building=house
+  other tags : addr:housenumber=1 | addr:street=ул. Советская | building=house
     geometry : n2527829827[53.4788951,29.2214113] n2527829829[53.4789592,29.2212771] n2527829828[53.4789279,29.2212349] n2527829826[53.4788591,29.2211422] n2527829825[53.4787951,29.2212764] n2527829827[53.4788951,29.2214113]
 w245755803
   other tags : building=house
@@ -2327,49 +2327,49 @@ w245794390
   other tags : building=house
     geometry : n2529181405[53.3475174,29.1785816] n2529181406[53.3475910,29.1787828] n2529181403[53.3474952,29.1788810] n2529181401[53.3474215,29.1786799] n2529181405[53.3475174,29.1785816]
 w245794391
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=10 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=10 | addr:street=ул. Школьная | building=house
     geometry : n2529181409[53.3510670,29.1818138] n2529181410[53.3511531,29.1820272] n2529181408[53.3510856,29.1821036] n2529181407[53.3509995,29.1818903] n2529181409[53.3510670,29.1818138]
 w245795367
   other tags : addr:housenumber=2 | building=house
     geometry : n2529189197[53.3473427,29.1818844] n2529189195[53.3472714,29.1819818] n2529189203[53.3473983,29.1822424] n2529189207[53.3474982,29.1821060] n2529189206[53.3474573,29.1820220] n2529189205[53.3474373,29.1820493] n2529189202[53.3473953,29.1819631] n2529189204[53.3474208,29.1819283] n2529189200[53.3473768,29.1818378] n2529189197[53.3473427,29.1818844]
 w245931864
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=2 | building=house
+  other tags : addr:housenumber=2 | building=house
     geometry : n2530310606[53.3520149,29.1799691] n2530310609[53.3520804,29.1801466] n2530310601[53.3519848,29.1802456] n2530310598[53.3519100,29.1800428] n2530310603[53.3519924,29.1799574] n2530310604[53.3520017,29.1799827] n2530310606[53.3520149,29.1799691]
 w245931865
-  other tags : addr:city=д. Заполье | addr:housenumber=5 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=5 | addr:street=ул. Школьная | building=house
     geometry : n2530310623[53.3524060,29.1813808] n2530310619[53.3523122,29.1815009] n2530310620[53.3523658,29.1816184] n2530310621[53.3523864,29.1815921] n2530310622[53.3524042,29.1816312] n2530310624[53.3524774,29.1815374] n2530310623[53.3524060,29.1813808]
 w245931866
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=1 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=1 | addr:street=ул. Школьная | building=house
     geometry : n2530310633[53.3527223,29.1799624] n2530310630[53.3526842,29.1799811] n2530310632[53.3527184,29.1801770] n2530310638[53.3528127,29.1801308] n2530310636[53.3527856,29.1799757] n2530310634[53.3527294,29.1800032] n2530310633[53.3527223,29.1799624]
 w245931867
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=2 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=2 | addr:street=ул. Школьная | building=house
     geometry : n2530310647[53.3530754,29.1803935] n2530310643[53.3529816,29.1805136] n2530310644[53.3530353,29.1806311] n2530310645[53.3530558,29.1806048] n2530310646[53.3530736,29.1806439] n2530310648[53.3531469,29.1805501] n2530310647[53.3530754,29.1803935]
 w245931868
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=4 | building=house
+  other tags : addr:housenumber=4 | building=house
     geometry : n2530310575[53.3515777,29.1804843] n2530310578[53.3516432,29.1806618] n2530310570[53.3515476,29.1807608] n2530310568[53.3514728,29.1805580] n2530310571[53.3515552,29.1804726] n2530310574[53.3515645,29.1804979] n2530310575[53.3515777,29.1804843]
 w245931869
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=4 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=4 | addr:street=ул. Школьная | building=house
     geometry : n2530310629[53.3526227,29.1810691] n2530310625[53.3525290,29.1811892] n2530310626[53.3525826,29.1813066] n2530310627[53.3526031,29.1812804] n2530310628[53.3526209,29.1813195] n2530310631[53.3526942,29.1812256] n2530310629[53.3526227,29.1810691]
 w245931870
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=7 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=7 | addr:street=ул. Школьная | building=house
     geometry : n2530310608[53.3520252,29.1819459] n2530310600[53.3519315,29.1820660] n2530310602[53.3519851,29.1821834] n2530310605[53.3520056,29.1821572] n2530310607[53.3520235,29.1821963] n2530310610[53.3520967,29.1821024] n2530310608[53.3520252,29.1819459]
 w245931871
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=3 | building=house
+  other tags : addr:housenumber=3 | building=house
     geometry : n2530310589[53.3518011,29.1802307] n2530310595[53.3518666,29.1804082] n2530310581[53.3517710,29.1805072] n2530310579[53.3516962,29.1803044] n2530310583[53.3517786,29.1802190] n2530310585[53.3517879,29.1802443] n2530310589[53.3518011,29.1802307]
 w245931872
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=9 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=9 | addr:street=ул. Школьная | building=house
     geometry : n2530310569[53.3514737,29.1827293] n2530310567[53.3514675,29.1828748] n2530310572[53.3515588,29.1828859] n2530310573[53.3515610,29.1828336] n2530310576[53.3515826,29.1828362] n2530310577[53.3515866,29.1827430] n2530310569[53.3514737,29.1827293]
 w245931873
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=6 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=6 | addr:street=ул. Школьная | building=house
     geometry : n2530310615[53.3522019,29.1816888] n2530310611[53.3521081,29.1818090] n2530310612[53.3521618,29.1819264] n2530310613[53.3521823,29.1819002] n2530310614[53.3522001,29.1819393] n2530310618[53.3522734,29.1818454] n2530310615[53.3522019,29.1816888]
 w245931874
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=5 | building=house
+  other tags : addr:housenumber=5 | building=house
     geometry : n2530310565[53.3513471,29.1807740] n2530310566[53.3514126,29.1809515] n2530310562[53.3513170,29.1810505] n2530310561[53.3512421,29.1808477] n2530310563[53.3513246,29.1807623] n2530310564[53.3513339,29.1807876] n2530310565[53.3513471,29.1807740]
 w245931875
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=8 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=8 | addr:street=ул. Школьная | building=house
     geometry : n2530310593[53.3518112,29.1822639] n2530310580[53.3517174,29.1823840] n2530310582[53.3517711,29.1825015] n2530310587[53.3517916,29.1824752] n2530310591[53.3518094,29.1825143] n2530310597[53.3518827,29.1824205] n2530310593[53.3518112,29.1822639]
 w245931876
-  other tags : addr:city=д. Заполье | addr:housename=жилой дом | addr:housenumber=3 | addr:street=ул. Школьная | building=house
+  other tags : addr:housenumber=3 | addr:street=ул. Школьная | building=house
     geometry : n2530310641[53.3528401,29.1807647] n2530310635[53.3527463,29.1808848] n2530310637[53.3527999,29.1810023] n2530310639[53.3528205,29.1809760] n2530310640[53.3528383,29.1810151] n2530310642[53.3529115,29.1809213] n2530310641[53.3528401,29.1807647]
 w245960662
   other tags : addr:housenumber=4 | building=house
@@ -2975,7 +2975,7 @@ w247023331
   other tags : building=house
     geometry : n2539683707[53.5332826,29.5739289] n2539683694[53.5332077,29.5739297] n2539683695[53.5332083,29.5740803] n2539683708[53.5332831,29.5740795] n2539683707[53.5332826,29.5739289]
 w247023333
-  other tags : addr:city=п. Гончанскре | addr:housename=жилой дом | addr:housenumber=13 | addr:street=ул. Заводская | building=house
+  other tags : addr:housenumber=13 | addr:street=ул. Заводская | building=house
     geometry : n2539683702[53.5328977,29.5681226] n2539683686[53.5327860,29.5681391] n2539683684[53.5328084,29.5685646] n2539683698[53.5329201,29.5685480] n2539683702[53.5328977,29.5681226]
 w247023336
   other tags : building=house
@@ -3238,8 +3238,8 @@ w249896432
 w249896433
   other tags : addr:postcode=213910 | addr:street=Ленинская улица | building=house
     geometry : n2564334030[53.6256606,29.1254209] n2564334022[53.6255837,29.1254217] n2564334025[53.6255843,29.1255877] n2564334032[53.6256612,29.1255869] n2564334030[53.6256606,29.1254209]
-w249896434  null / null / 1
-  other tags : building=house
+w249896434
+  other tags : addr:housenumber=1 | building=house
     geometry : n2564333911[53.6225501,29.1270746] n2564333902[53.6224414,29.1270805] n2564333904[53.6224446,29.1272464] n2564333913[53.6225532,29.1272406] n2564333911[53.6225501,29.1270746]
 w249896435
   other tags : addr:housenumber=32 | addr:postcode=213910 | addr:street=Ленинская улица | building=house
@@ -3467,7 +3467,7 @@ w250270167
   other tags : addr:housenumber=28 | addr:postcode=213900 | building=house
     geometry : n2567576310[53.4974288,29.1455014] n2567576312[53.4975044,29.1453402] n2567576314[53.4975950,29.1454603] n2567576313[53.4975193,29.1456215] n2567576310[53.4974288,29.1455014]
 w250270168
-  other tags : addr:housename=жилой дом | addr:housenumber=38 | addr:street=ул. Победы | building=house
+  other tags : addr:housenumber=38 | addr:street=ул. Победы | building=house
     geometry : n2567576331[53.4985492,29.1469008] n2567576334[53.4986215,29.1467393] n2567576336[53.4986870,29.1468222] n2567576332[53.4986147,29.1469837] n2567576331[53.4985492,29.1469008]
 w250270169
   other tags : addr:housenumber=3А | addr:postcode=213900 | building=house
@@ -3503,7 +3503,7 @@ w250270179
   other tags : addr:housenumber=26 | addr:postcode=213900 | building=house
     geometry : n2567576320[53.4977015,29.1458673] n2567576323[53.4977776,29.1457031] n2567576326[53.4978687,29.1458224] n2567576325[53.4977926,29.1459866] n2567576320[53.4977015,29.1458673]
 w250270180
-  other tags : addr:housename=жилой дом | addr:housenumber=40 | addr:street=ул. Победы | building=house
+  other tags : addr:housenumber=40 | addr:street=ул. Победы | building=house
     geometry : n2567576338[53.4986727,29.1470555] n2567576341[53.4987426,29.1468926] n2567576343[53.4988024,29.1469651] n2567576340[53.4987325,29.1471280] n2567576338[53.4986727,29.1470555]
 w250270181
   other tags : addr:housenumber=7 | addr:postcode=213900 | building=house
@@ -3608,8 +3608,11 @@ w255991313
   other tags : building=house
     geometry : n2616935517[53.3473006,29.1710535] n2616935520[53.3474101,29.1711172] n2616935519[53.3473626,29.1713468] n2616935515[53.3472530,29.1712831] n2616935517[53.3473006,29.1710535]
 w262050136
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=6 | addr:postcode=213910 | addr:street=Приозёрная улица | building=house
+  other tags : addr:housenumber=6 | addr:postcode=213910 | addr:street=Приозёрная улица | building=house
     geometry : n2676951646[53.5048837,29.1573284] n2676951648[53.5048992,29.1571366] n2676951656[53.5050104,29.1571619] n3396470756[53.5050016,29.1572970] n3396470755[53.5049715,29.1572931] n2676951654[53.5049678,29.1573460] n2676951646[53.5048837,29.1573284]
+w264861648
+  other tags : addr:housenumber=5 | building=house
+    geometry : n2705204745[53.4047868,29.2290462] n2705204744[53.4047220,29.2292491] n2705204742[53.4046124,29.2291506] n2705204743[53.4046773,29.2289477] n2705204745[53.4047868,29.2290462]
 w283344355
   other tags : addr:housenumber=19 | addr:street=Пролетарская улица | building=house
     geometry : n2872182595[53.3477383,29.1760440] n2872182598[53.3478006,29.1761785] n2872182592[53.3477209,29.1762819] n2872182588[53.3476587,29.1761474] n2872182595[53.3477383,29.1760440]
@@ -3725,46 +3728,49 @@ w302995091
   other tags : addr:housenumber=2 | addr:street=улица Добровольцев | building=house
     geometry : n3072916715[53.5035659,29.1523157] n3072916716[53.5036274,29.1521493] n3072916718[53.5037172,29.1522431] n3072916717[53.5036557,29.1524095] n3072916715[53.5035659,29.1523157]
 w302995092
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=10 | addr:street=ул. Добровольцев | building=house
+  other tags : addr:housenumber=10 | addr:street=ул. Добровольцев | building=house
     geometry : n3072916708[53.5033428,29.1529676] n3072916711[53.5034043,29.1528011] n3072916714[53.5034941,29.1528950] n3072916712[53.5034326,29.1530614] n3072916708[53.5033428,29.1529676]
 w313650792
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=6 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=6 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585953[53.4986095,29.1437152] n3196585957[53.4986800,29.1435531] n3196585959[53.4987554,29.1436459] n3196585956[53.4986849,29.1438079] n3196585953[53.4986095,29.1437152]
 w313650793
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=11 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=11 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585980[53.4993177,29.1454885] n3196585983[53.4993993,29.1452977] n3196585986[53.4994775,29.1453921] n3196585982[53.4993959,29.1455829] n3196585980[53.4993177,29.1454885]
 w313650794
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=8 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=8 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585971[53.4990291,29.1441218] n3196585973[53.4991107,29.1439310] n3196585975[53.4991888,29.1440254] n3196585972[53.4991072,29.1442162] n3196585971[53.4990291,29.1441218]
 w313650795
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=5 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=5 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585946[53.4984376,29.1440833] n3196585943[53.4983805,29.1440097] n3196585934[53.4983053,29.1441745] n3196585941[53.4983624,29.1442481] n3196585946[53.4984376,29.1440833]
 w313650796
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=3 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=3 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585926[53.4980376,29.1437352] n3196585928[53.4980877,29.1436203] n3196585931[53.4981933,29.1437502] n3196585929[53.4981432,29.1438652] n3196585926[53.4980376,29.1437352]
 w313650797
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=4 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=4 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585932[53.4982228,29.1430372] n3196585936[53.4982806,29.1429154] n3196585935[53.4982549,29.1428809] n3196585937[53.4982848,29.1428178] n3196585945[53.4983810,29.1429469] n3196585938[53.4982933,29.1431317] n3196585932[53.4982228,29.1430372]
 w313650798
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=13 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=13 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196585988[53.4997759,29.1447650] n3196585990[53.4998460,29.1446118] n3196585991[53.4999099,29.1446945] n3196585989[53.4998399,29.1448477] n3196585988[53.4997759,29.1447650]
 w313651286
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=14 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=14 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196591837[53.4999617,29.1454550] n3196591839[53.5000433,29.1452641] n3196591840[53.5001215,29.1453586] n3196591838[53.5000398,29.1455494] n3196591837[53.4999617,29.1454550]
 w313651287
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=15 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
+  other tags : addr:housenumber=15 | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196591841[53.5002150,29.1456869] n3196591843[53.5002936,29.1454949] n3196591844[53.5003609,29.1455727] n3196591842[53.5002823,29.1457647] n3196591841[53.5002150,29.1456869]
 w313651288
   other tags : addr:city=д. Ореховка | addr:housename=н | addr:housenumber=н | addr:postcode=213910 | addr:street=ул. Полевая | building=house
     geometry : n3196591845[53.5004671,29.1458613] n3196591847[53.5005288,29.1457100] n3196591848[53.5005835,29.1457731] n3196591846[53.5005218,29.1459244] n3196591845[53.5004671,29.1458613]
+w321783142
+  other tags : addr:housenumber=40А | addr:street=Полевая улица | building=house
+    geometry : n3285489135[53.5038761,29.1475278] n3285489137[53.5038970,29.1475555] n3285489134[53.5038521,29.1476516] n3285489130[53.5038194,29.1476084] n3285489129[53.5038114,29.1476255] n3285489126[53.5037916,29.1475993] n3285489127[53.5037997,29.1475819] n3285489125[53.5037840,29.1475611] n3285489131[53.5038300,29.1474625] n3285489132[53.5038448,29.1474821] n3285489133[53.5038517,29.1474672] n3285489136[53.5038843,29.1475102] n3285489135[53.5038761,29.1475278]
 w321783143
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=29 | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=29 | addr:street=Полевая улица | building=house
     geometry : n3285489109[53.5024608,29.1467150] n3285489111[53.5025831,29.1466186] n3285489112[53.5026235,29.1467633] n3285489110[53.5025012,29.1468597] n3285489109[53.5024608,29.1467150]
 w321783144
-  other tags : addr:city=д. Ореховка | addr:housenumber=42 | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=42 | addr:street=Полевая улица | building=house
     geometry : n3285489138[53.5039839,29.1484746] n3285489141[53.5041115,29.1483971] n3285489144[53.5041383,29.1485217] n3285489140[53.5040107,29.1485992] n3285489138[53.5039839,29.1484746]
 w321783145
-  other tags : addr:city=д. Ореховка | addr:housenumber=44 | addr:street=Полевая улица | building=house
+  other tags : addr:housenumber=44 | addr:street=Полевая улица | building=house
     geometry : n3285489142[53.5041149,29.1488884] n3285489147[53.5042424,29.1488109] n3285489148[53.5042692,29.1489355] n3285489145[53.5041416,29.1490130] n3285489142[53.5041149,29.1488884]
 w321783146
   other tags : building=house
@@ -3776,13 +3782,13 @@ w321783148
   other tags : building=house
     geometry : n3285489099[53.5015390,29.1460790] n3285489101[53.5016248,29.1458935] n3285489102[53.5016766,29.1459611] n3285489100[53.5015907,29.1461467] n3285489099[53.5015390,29.1460790]
 w321783149
-  other tags : addr:city=д. Ореховка | addr:street=Полевая улица | building=house
+  other tags : addr:street=Полевая улица | building=house
     geometry : n3285489113[53.5027614,29.1468613] n3285489116[53.5028579,29.1467300] n3285489117[53.5029131,29.1468447] n3285489114[53.5028167,29.1469760] n3285489113[53.5027614,29.1468613]
 w321783150
-  other tags : addr:city=д. Ореховка | addr:street=Полевая улица | building=house
+  other tags : addr:street=Полевая улица | building=house
     geometry : n3285489120[53.5033577,29.1474845] n3285489122[53.5034364,29.1472994] n3285489123[53.5035068,29.1473841] n3285489121[53.5034280,29.1475691] n3285489120[53.5033577,29.1474845]
 w321783151
-  other tags : addr:city=д. Ореховка | addr:street=Полевая улица | building=house
+  other tags : addr:street=Полевая улица | building=house
     geometry : n3285489104[53.5020668,29.1473645] n3285489106[53.5021330,29.1471637] n3285489108[53.5021901,29.1472169] n3285489105[53.5021239,29.1474176] n3285489104[53.5020668,29.1473645]
 w323037404
   other tags : addr:housenumber=1 | building=house
@@ -4031,7 +4037,7 @@ w323042413
   other tags : building=house
     geometry : n3298426981[53.5060386,29.1565122] n3298426982[53.5060614,29.1563231] n3298426988[53.5061714,29.1563606] n3298426986[53.5061486,29.1565498] n3298426981[53.5060386,29.1565122]
 w323042415
-  other tags : addr:city=д. Ореховка | addr:housename=жилой дом | addr:housenumber=4 | addr:postcode=213910 | addr:street=ул. Озерная | building=house
+  other tags : addr:housenumber=4 | addr:postcode=213910 | addr:street=ул. Озерная | building=house
     geometry : n3298426971[53.5057892,29.1551421] n3298426973[53.5058120,29.1549530] n3298426978[53.5059220,29.1549906] n3298426977[53.5058992,29.1551797] n3298426971[53.5057892,29.1551421]
 w323042416
   other tags : building=house
@@ -4064,13 +4070,13 @@ w323396827
   other tags : building=house
     geometry : n3301948794[53.5345861,29.5669500] n3301948792[53.5344363,29.5669730] n3301948793[53.5344462,29.5671568] n3301948795[53.5345960,29.5671338] n3301948794[53.5345861,29.5669500]
 w323444193
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=2 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=2 | addr:street=ул. Лесная | building=house
     geometry : n3302363587[53.5362924,29.5609454] n3302363583[53.5361704,29.5609566] n3302363584[53.5361773,29.5611674] n3302363588[53.5362992,29.5611562] n3302363587[53.5362924,29.5609454]
 w323444196
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=3 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=3 | addr:street=ул. Лесная | building=house
     geometry : n3302363585[53.5363379,29.5620148] n3302363581[53.5362147,29.5620330] n3302363582[53.5362248,29.5622270] n3302363586[53.5363480,29.5622088] n3302363585[53.5363379,29.5620148]
 w323769096
-  other tags : addr:housenumber=2а | addr:postcode=213900 | building=apartments
+  other tags : addr:housenumber=2А | addr:postcode=213900 | building=apartments
     geometry : n3305477218[53.4987923,29.1464881] n3305477219[53.4988625,29.1463233] n3305477221[53.4990021,29.1464912] n3305477220[53.4989320,29.1466560] n3305477218[53.4987923,29.1464881]
 w323771178
   other tags : addr:housenumber=1 | addr:postcode=213900 | addr:street=ул. Строителей | building=house
@@ -4184,7 +4190,7 @@ w324489078
   other tags : addr:postcode=213900 | addr:street=Ленинская улица | building=house
     geometry : n3312012735[53.4035788,29.2333106] n3312012725[53.4034817,29.2332279] n3312012719[53.4034064,29.2334767] n3312012729[53.4035034,29.2335594] n3312012735[53.4035788,29.2333106]
 w324489079
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=12 | addr:street=ул. Молодежная | building=house
+  other tags : addr:housenumber=12 | addr:street=ул. Молодежная | building=house
     geometry : n3312013123[53.4049946,29.2299000] n3312013113[53.4048810,29.2297857] n3312013110[53.4048213,29.2299526] n3312013120[53.4049349,29.2300669] n3312013123[53.4049946,29.2299000]
 w324489080
   other tags : building=house
@@ -4337,91 +4343,94 @@ w324649724
   other tags : addr:postcode=213900 | addr:street=Ленинская улица | building=house
     geometry : n3313546144[53.4027585,29.2318983] n3313546140[53.4026573,29.2317756] n3313546139[53.4025848,29.2319438] n3313546142[53.4026860,29.2320664] n3313546144[53.4027585,29.2318983]
 w324649725
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=3 | addr:street=ул. Молодежная | building=house
+  other tags : addr:housenumber=3 | addr:street=ул. Молодежная | building=house
     geometry : n3313546146[53.4029922,29.2273661] n3313546143[53.4028859,29.2272820] n3313546141[53.4028386,29.2274502] n3313546145[53.4029448,29.2275343] n3313546146[53.4029922,29.2273661]
 w324649726
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=2 | addr:street=ул. Молодежная | building=house
+  other tags : addr:housenumber=2 | addr:street=ул. Молодежная | building=house
     geometry : n3313546138[53.4024251,29.2268616] n3313546136[53.4023188,29.2267775] n3313546135[53.4022715,29.2269457] n3313546137[53.4023777,29.2270298] n3313546138[53.4024251,29.2268616]
 w324649727
-  other tags : addr:city=д. Бацевичи | addr:housename=жилой дом | addr:housenumber=1 | addr:street=ул. Молодежная | building=house
+  other tags : addr:housenumber=1 | addr:street=ул. Молодежная | building=house
     geometry : n3313546134[53.4019322,29.2263524] n3313546132[53.4018259,29.2262683] n3313546131[53.4017786,29.2264365] n3313546133[53.4018848,29.2265206] n3313546134[53.4019322,29.2263524]
 w324663517
-  other tags : addr:housename=жилой дом | addr:housenumber=2а | building=house
+  other tags : addr:housenumber=2А | building=house
     geometry : n3313671250[53.6218812,29.1180277] n3313671246[53.6217981,29.1180348] n3313671247[53.6218030,29.1181945] n3313671251[53.6218861,29.1181874] n3313671250[53.6218812,29.1180277]
 w324663520
-  other tags : addr:housenumber=1а | building=house
+  other tags : addr:housenumber=1А | building=house
     geometry : n3313671248[53.6218632,29.1175737] n3313671244[53.6217835,29.1175809] n3313671245[53.6217888,29.1177472] n3313671249[53.6218684,29.1177400] n3313671248[53.6218632,29.1175737]
 w324710675
   other tags : addr:postcode=213910 | addr:street=Пионерская улица | building=house
     geometry : n3313946031[53.6191372,29.1267612] n3313946027[53.6190588,29.1267673] n3313946028[53.6190630,29.1269242] n3313946032[53.6191415,29.1269181] n3313946031[53.6191372,29.1267612]
 w324710676
-  other tags : addr:city=д. Новые Максимовичи | addr:housename=жилой дом | addr:housenumber=9 | addr:street=ул. Советская | building=house
+  other tags : addr:housenumber=9 | addr:street=ул. Советская | building=house
     geometry : n3313946043[53.6204550,29.1286806] n3313946041[53.6203765,29.1286867] n3313946042[53.6203808,29.1288436] n3313946044[53.6204593,29.1288375] n3313946043[53.6204550,29.1286806]
 w324710677
   other tags : building=house
     geometry : n3313946038[53.6197593,29.1285278] n3313946036[53.6196808,29.1285339] n3313946037[53.6196851,29.1286908] n3313946039[53.6197636,29.1286847] n3313946038[53.6197593,29.1285278]
-w324710678  null / null / 12
-  other tags : building=house
+w324710678
+  other tags : addr:housenumber=12 | building=house
     geometry : n3313946054[53.6210110,29.1259602] n3313946052[53.6209325,29.1259663] n3313946053[53.6209368,29.1261232] n3313946055[53.6210153,29.1261171] n3313946054[53.6210110,29.1259602]
-w324710679  null / null / 10
-  other tags : building=house
+w324710679
+  other tags : addr:housenumber=10 | building=house
     geometry : n3313946049[53.6206970,29.1260169] n3313946045[53.6206185,29.1260230] n3313946046[53.6206228,29.1261799] n3313946050[53.6207013,29.1261738] n3313946049[53.6206970,29.1260169]
 w324710680
   other tags : addr:postcode=213910 | addr:street=Пионерская улица | building=house
     geometry : n3313946033[53.6191555,29.1272190] n3313946029[53.6190771,29.1272251] n3313946030[53.6190813,29.1273820] n3313946034[53.6191598,29.1273759] n3313946033[53.6191555,29.1272190]
-w324986356  null / null / 1
-  other tags : building=house
+w324986356
+  other tags : addr:housenumber=1 | building=house
     geometry : n3316622829[53.4998774,29.1492651] n3316622830[53.4999341,29.1491053] n3316622832[53.5000406,29.1492123] n3316622831[53.4999838,29.1493720] n3316622829[53.4998774,29.1492651]
+w327715636
+  other tags : addr:housenumber=4 | building=house
+    geometry : n3345221840[53.4044084,29.2286454] n3345221839[53.4043485,29.2288406] n3345221837[53.4042447,29.2287510] n3345221838[53.4043046,29.2285558] n3345221840[53.4044084,29.2286454]
 w329086284
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=10 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=10 | addr:street=ул. Рабочая | building=house
     geometry : n3359121283[53.4779723,29.2356735] n3359121284[53.4780284,29.2355612] n3359121282[53.4779400,29.2354366] n3359121281[53.4778839,29.2355489] n3359121283[53.4779723,29.2356735]
 w329086285
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=14 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=14 | addr:street=ул. Рабочая | building=house
     geometry : n3359121270[53.4772562,29.2369527] n3359121272[53.4773537,29.2367659] n3359121271[53.4772934,29.2366771] n3359121269[53.4771959,29.2368639] n3359121270[53.4772562,29.2369527]
 w329086286
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=2 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=2 | addr:street=ул. Рабочая | building=house
     geometry : n3359121275[53.4779065,29.2343096] n3359121279[53.4779838,29.2341619] n3359121277[53.4779250,29.2340749] n3359121273[53.4778477,29.2342226] n3359121275[53.4779065,29.2343096]
 w329086287
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=12 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=12 | addr:street=ул. Рабочая | building=house
     geometry : n3359121276[53.4774891,29.2364703] n3359121280[53.4775664,29.2363226] n3359121278[53.4775076,29.2362356] n3359121274[53.4774303,29.2363833] n3359121276[53.4774891,29.2364703]
 w329086288
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=16 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=16 | addr:street=ул. Рабочая | building=house
     geometry : n3359121266[53.4770174,29.2374426] n3359121268[53.4771149,29.2372558] n3359121267[53.4770546,29.2371669] n3359121265[53.4769571,29.2373537] n3359121266[53.4770174,29.2374426]
 w329086290
   other tags : building=house
     geometry : n3359121262[53.4768319,29.2379008] n3359121264[53.4769294,29.2377141] n3359121263[53.4768691,29.2376252] n3359121261[53.4767716,29.2378120] n3359121262[53.4768319,29.2379008]
 w329086620
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:street=ул. Рабочая | building=house
+  other tags : addr:street=ул. Рабочая | building=house
     geometry : n3359127294[53.4771181,29.2362493] n3359127295[53.4771742,29.2361370] n3359127293[53.4770858,29.2360123] n3359122292[53.4770297,29.2361246] n3359127294[53.4771181,29.2362493]
 w329086621
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:street=ул. Рабочая | building=house
+  other tags : addr:street=ул. Рабочая | building=house
     geometry : n3359122290[53.4768727,29.2367590] n3359122291[53.4769288,29.2366467] n3359122289[53.4768404,29.2365221] n3359122288[53.4767843,29.2366344] n3359122290[53.4768727,29.2367590]
 w329086622
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=9 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=9 | addr:street=ул. Рабочая | building=house
     geometry : n3359127298[53.4773737,29.2356651] n3359127299[53.4774298,29.2355528] n3359127297[53.4773415,29.2354281] n3359127296[53.4772854,29.2355404] n3359127298[53.4773737,29.2356651]
 w329086623
-  other tags : addr:city=д. Несета | addr:housename=жилой дом | addr:housenumber=7 | addr:street=ул. Рабочая | building=house
+  other tags : addr:housenumber=7 | addr:street=ул. Рабочая | building=house
     geometry : n3359127302[53.4776839,29.2348861] n3359127303[53.4777400,29.2347738] n3359127301[53.4776516,29.2346492] n3359127300[53.4775956,29.2347615] n3359127302[53.4776839,29.2348861]
 w329103813
   other tags : building=house
     geometry : n3359286246[53.3990472,29.2287972] n3359286244[53.3989008,29.2286707] n3359286243[53.3988559,29.2288170] n3359286245[53.3990023,29.2289435] n3359286246[53.3990472,29.2287972]
 w329818662
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=14 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=14 | addr:street=ул. Лесная | building=house
     geometry : n3367640545[53.5351547,29.5660466] n3367640541[53.5350849,29.5660561] n3367640542[53.5350929,29.5662226] n3367640546[53.5351627,29.5662131] n3367640545[53.5351547,29.5660466]
 w329818663
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=17 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=17 | addr:street=ул. Лесная | building=house
     geometry : n3367640547[53.5351702,29.5664945] n3367640543[53.5351005,29.5665040] n3367640544[53.5351084,29.5666705] n3367640548[53.5351782,29.5666610] n3367640547[53.5351702,29.5664945]
 w329818664
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:street=ул. Лесная | building=house
+  other tags : addr:street=ул. Лесная | building=house
     geometry : n3367640555[53.5360102,29.5628355] n3367640553[53.5359064,29.5628450] n3367640554[53.5359130,29.5630509] n3367640556[53.5360169,29.5630414] n3367640555[53.5360102,29.5628355]
 w329818665
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=5 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=5 | addr:street=ул. Лесная | building=house
     geometry : n3367640559[53.5364645,29.5641250] n3367640557[53.5363548,29.5641393] n3367640558[53.5363629,29.5643163] n3367640560[53.5364726,29.5643020] n3367640559[53.5364645,29.5641250]
 w329818666
-  other tags : addr:city=п. Гончанское | addr:housename=жилой дом | addr:housenumber=11 | addr:street=ул. Лесная | building=house
+  other tags : addr:housenumber=11 | addr:street=ул. Лесная | building=house
     geometry : n3367640551[53.5354614,29.5654461] n3367640549[53.5353755,29.5654610] n3367640550[53.5353856,29.5656247] n3367640552[53.5354714,29.5656098] n3367640551[53.5354614,29.5654461]
-w329818728  null / null / Котельная
-  other tags : building=house
+w329818728
+  other tags : building=house | generator:method=combustion | power=generator
     geometry : n3367650851[53.5336298,29.5695374] n3367650852[53.5336318,29.5695929] n3367650854[53.5337216,29.5695836] n3367650853[53.5337196,29.5695281] n3367650851[53.5336298,29.5695374]
 w330468421
   other tags : building=house

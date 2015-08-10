@@ -418,7 +418,7 @@ n1139884166  null / null / Парикмахерская №19
 n1139884168  Гранд сэрвіс / null / Гранд сервис
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su 10:00-15:00 | operator=ООО «ПКФ Гранд сервис» | shop=houseware
     geometry : [55.1951839,30.2406393]
-n1139886582  Світанак / null / Світанак / Рассвет
+n1139886582  Світанак / null / Рассвет / Рассвет
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa,Su 09:00-18:00 | shop=clothes
     geometry : [55.1949597,30.2381615]
 n1139899146  Velcom / null / Салон связи Velcom
@@ -631,7 +631,7 @@ n1226851262  Візіт / null / Визит
   other tags : shop=convenience
     geometry : [55.1718500,30.2164595]
 n1226851265  Тавары для дома / null / Товары для дома
-  other tags : opening_hours=Mo-Fr 10:00-19:00;Sa 10:00-18:00;Su 10:00-17:00 | shop=doityourself
+  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00 | shop=doityourself
     geometry : [55.1718071,30.2167905]
 n1226851272  null / null / Цветной
   other tags : shop=doityourself
@@ -3105,7 +3105,7 @@ n3139952302  null / null / Красный пищевик
   other tags : shop=confectionery
     geometry : [55.2036338,30.2126261]
 n3139952303  null / null / Мегатоп / Мегатоп
-  other tags : addr:city=Витебск | addr:housenumber=5 | addr:street=Смоленская площадь | shop=shoes
+  other tags : addr:housenumber=5 | addr:street=Смоленская площадь | shop=shoes
     geometry : [55.2052659,30.2097035]
 n3139952304  null / null / Коммунарка
   other tags : addr:street=Смоленская площадь | shop=confectionery

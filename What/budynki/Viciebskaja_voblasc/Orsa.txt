@@ -287,13 +287,13 @@ w48535896
   other tags : addr:housenumber=3 | addr:street=1-й переулок Тимирязева | building=yes | building:levels=3
     geometry : n616600495[54.5105451,30.3585482] n616600498[54.5106640,30.3585207] n616600497[54.5107338,30.3594154] n616600496[54.5106148,30.3594430] n616600495[54.5105451,30.3585482]
 w48535897  null / null / Общежитие ОГКЖТ
-  other tags : addr:city=Орша | addr:housenumber=24 | addr:postcode=211386 | addr:street=улица Тимирязева | building=yes | building:levels=5
+  other tags : addr:housenumber=24 | addr:postcode=211386 | addr:street=улица Тимирязева | building=yes | building:levels=5
     geometry : n616600516[54.5118880,30.3602840] n616600519[54.5118399,30.3596178] n616600522[54.5119551,30.3595932] n3506599576[54.5119804,30.3599436] n616600523[54.5120031,30.3602593] n616600516[54.5118880,30.3602840]
 w48535898  null / null / Общежитие №2
-  other tags : addr:city=Орша | addr:housenumber=22 | addr:postcode=211386 | addr:street=улица Тимирязева | building=yes | building:levels=3
+  other tags : addr:housenumber=22 | addr:postcode=211386 | addr:street=улица Тимирязева | building=yes | building:levels=3
     geometry : n616600539[54.5119125,30.3610072] n616600524[54.5118707,30.3604699] n616600525[54.5120152,30.3604365] n616600542[54.5120570,30.3609738] n616600539[54.5119125,30.3610072]
 w48535900  null / null / Оршанский Государственный Колледж Железнодорожного Транспорта
-  other tags : addr:city=Орша | addr:housenumber=26 | addr:postcode=211386 | addr:street=улица Тимирязева | amenity=college | building=yes | building:levels=3 | operator=БЖД | website=www.ogkjt.by
+  other tags : addr:housenumber=26 | addr:postcode=211386 | addr:street=улица Тимирязева | amenity=college | building=yes | building:levels=3 | operator=БЖД | website=http://www.ogkjt.by/
     geometry : n616600526[54.5119367,30.3594190] n616600527[54.5117754,30.3594564] n616600513[54.5117259,30.3588234] n616600500[54.5113337,30.3589144] n616600501[54.5113137,30.3586598] n616600515[54.5117101,30.3585678] n616600508[54.5116585,30.3579084] n616600507[54.5118154,30.3578719] n616600510[54.5118613,30.3584585] n616600509[54.5119429,30.3584396] n616600514[54.5119719,30.3588099] n616600511[54.5118905,30.3588287] n616600526[54.5119367,30.3594190]
 w48535902  null / null / Спортзал колледжа
   other tags : building=yes | building:levels=1 | leisure=sports_centre | sport=table_tennis
@@ -4445,7 +4445,7 @@ w99725763
   other tags : building=yes | building:levels=1
     geometry : n1152918799[54.5161870,30.4353740] n1152920850[54.5163461,30.4345501] n1152918356[54.5164605,30.4346156] n1152918332[54.5163014,30.4354396] n1152918799[54.5161870,30.4353740]
 w99725764  null / null / Диагностическая станция №52 Гостехосмотр
-  other tags : addr:city=Орша | addr:housenumber=6г | addr:street=улица Белинского | building=yes | building:levels=1
+  other tags : addr:housenumber=6Г | addr:street=улица Белинского | building=yes | building:levels=1
     geometry : n1152918815[54.5264008,30.4273202] n1152919969[54.5263945,30.4269425] n1152918360[54.5266651,30.4269293] n1152918854[54.5266714,30.4273070] n1152918815[54.5264008,30.4273202]
 w99725765
   other tags : addr:housenumber=14/1 | addr:street=1-я Красная улица | building=yes | building:levels=1
@@ -5261,7 +5261,7 @@ w99726078
   other tags : building=yes | building:levels=1
     geometry : n1152920350[54.5172834,30.4091601] n1152918532[54.5177115,30.4092235] n1152920957[54.5177027,30.4093983] n1152920976[54.5172747,30.4093349] n1152920350[54.5172834,30.4091601]
 w99726079
-  other tags : addr:housenumber=1а | addr:street=переулок Лермонтова | building=yes | building:levels=1
+  other tags : addr:housenumber=1А | addr:street=переулок Лермонтова | building=yes | building:levels=1
     geometry : n1152920380[54.5034406,30.4071123] n1152921013[54.5034493,30.4069077] n1152919982[54.5035513,30.4069207] n1152920405[54.5035425,30.4071252] n1152920380[54.5034406,30.4071123]
 w99726080
   other tags : addr:housenumber=54 | addr:street=улица Энгельса | building=yes | building:levels=1
@@ -38417,7 +38417,7 @@ w314548450
   other tags : addr:housenumber=22 | addr:street=Больничный переулок | building=yes | building:levels=1
     geometry : n3205942041[54.5046723,30.3625641] n3205942040[54.5046706,30.3627100] n3205942038[54.5045706,30.3627065] n3205942039[54.5045724,30.3625607] n3205942041[54.5046723,30.3625641]
 w315623172
-  other tags : addr:city=Орша | addr:postcode=211386 | addr:street=1-й переулок Тимирязева | building=yes | building:levels=1 | note=Подстанция
+  other tags : addr:postcode=211386 | addr:street=1-й переулок Тимирязева | building=yes | building:levels=1 | note=Подстанция
     geometry : n3217532625[54.5109232,30.3577460] n3217532626[54.5109341,30.3578496] n3217532627[54.5108212,30.3578846] n3217532628[54.5108103,30.3577810] n3217532625[54.5109232,30.3577460]
 w317318777
   other tags : addr:street=Могилёвская улица | building=yes | building:levels=1 | shop=supermarket
@@ -38510,7 +38510,7 @@ w324493356
   other tags : addr:housenumber=13 | addr:street=1-й переулок Достоевского | building=yes | building:levels=1
     geometry : n3312038993[54.5038126,30.3905085] n3312038994[54.5038194,30.3903434] n3312038996[54.5039046,30.3903536] n3312038995[54.5038979,30.3905188] n3312038993[54.5038126,30.3905085]
 w324493358
-  other tags : addr:housenumber=3а | addr:street=2-й переулок 1-го Мая | building=yes | building:levels=1
+  other tags : addr:housenumber=3А | addr:street=2-й переулок 1-го Мая | building=yes | building:levels=1
     geometry : n3312039003[54.5478344,30.4292172] n3312039001[54.5477626,30.4291799] n3312039002[54.5477980,30.4289774] n3312039004[54.5478698,30.4290147] n3312039003[54.5478344,30.4292172]
 w324494738
   other tags : addr:housenumber=14А | addr:street=4-й переулок Белинского | building=yes | building:levels=1
@@ -38561,10 +38561,10 @@ w324743614
   other tags : addr:housenumber=19 | addr:street=улица Горохова | building=yes | building:levels=1
     geometry : n3314207807[54.4927628,30.4389086] n3314207809[54.4928321,30.4389061] n3314207810[54.4928341,30.4390797] n3314207808[54.4927649,30.4390821] n3314207807[54.4927628,30.4389086]
 w324743615
-  other tags : addr:housenumber=1а | addr:street=Зелёный тупик | building=yes | building:levels=1
+  other tags : addr:housenumber=1А | addr:street=Зелёный тупик | building=yes | building:levels=1
     geometry : n3314208609[54.5238516,30.3688802] n3314208611[54.5239464,30.3688982] n3314208610[54.5239364,30.3690532] n3314208608[54.5238417,30.3690352] n3314208609[54.5238516,30.3688802]
 w324743616
-  other tags : addr:housenumber=21а | addr:street=улица Фролкова | building=yes | building:levels=1
+  other tags : addr:housenumber=21А | addr:street=улица Фролкова | building=yes | building:levels=1
     geometry : n3314208619[54.5275790,30.3775056] n3314208617[54.5274833,30.3774313] n3314208618[54.5275162,30.3773056] n3314208620[54.5276118,30.3773799] n3314208619[54.5275790,30.3775056]
 w324743617
   other tags : addr:housenumber=28 | addr:street=улица Инструментальщиков | building=yes | building:levels=1
@@ -38585,7 +38585,7 @@ w324743622
   other tags : addr:housenumber=38 | addr:street=Щетинковская улица | building=yes | building:levels=1
     geometry : n3314207853[54.5056255,30.3671520] n3314207851[54.5055413,30.3671364] n3314207852[54.5055521,30.3669651] n3314207854[54.5056363,30.3669809] n3314207853[54.5056255,30.3671520]
 w324743623
-  other tags : addr:housenumber=3д | addr:street=Восточная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=3Д | addr:street=Восточная улица | building=yes | building:levels=1
     geometry : n3314207857[54.5060832,30.3949927] n3314207855[54.5059865,30.3949672] n3314207856[54.5059975,30.3948433] n3314207858[54.5060941,30.3948688] n3314207857[54.5060832,30.3949927]
 w324743625
   other tags : addr:housenumber=5 | addr:street=3-й Краснофлотский проезд | building=yes | building:levels=1
@@ -38597,16 +38597,16 @@ w324743628
   other tags : addr:housenumber=64/79 | addr:street=улица Осипенко | building=yes | building:levels=1
     geometry : n3314207811[54.4944215,30.4169308] n3314207812[54.4944629,30.4166863] n3314207814[54.4945710,30.4167406] n3314207813[54.4945296,30.4169850] n3314207811[54.4944215,30.4169308]
 w324743629
-  other tags : addr:housenumber=6а | addr:street=улица 11 Июля | building=yes | building:levels=1
+  other tags : addr:housenumber=6А | addr:street=улица 11 Июля | building=yes | building:levels=1
     geometry : n3314207820[54.4983851,30.4355136] n3314207819[54.4983679,30.4353653] n3314207821[54.4984691,30.4353305] n3314207822[54.4984863,30.4354789] n3314207820[54.4983851,30.4355136]
 w324743630
-  other tags : addr:housenumber=75а | addr:street=улица Самусика | building=yes | building:levels=1
+  other tags : addr:housenumber=75А | addr:street=улица Самусика | building=yes | building:levels=1
     geometry : n3314207826[54.4992893,30.3788704] n3314207824[54.4992103,30.3788846] n3314207823[54.4992011,30.3787337] n3314207825[54.4992801,30.3787195] n3314207826[54.4992893,30.3788704]
 w324743631
   other tags : addr:housenumber=79 | addr:street=улица Белинского | building=yes | building:levels=1
     geometry : n3314208615[54.5248792,30.4517732] n3314208612[54.5247238,30.4516867] n3314208613[54.5247523,30.4515347] n3314208614[54.5247659,30.4515423] n3314208616[54.5249077,30.4516212] n3314208615[54.5248792,30.4517732]
 w324743632
-  other tags : addr:housenumber=7а | addr:street=Больничный переулок | building=yes | building:levels=1
+  other tags : addr:housenumber=7А | addr:street=Больничный переулок | building=yes | building:levels=1
     geometry : n3314207845[54.5046399,30.3675191] n3314207843[54.5045701,30.3675075] n3314207844[54.5045775,30.3673753] n3314207846[54.5046473,30.3673870] n3314207845[54.5046399,30.3675191]
 w324743633
   other tags : addr:housenumber=8 | addr:street=3-й Восточный переулок | building=yes | building:levels=1
@@ -38618,7 +38618,7 @@ w324743635
   other tags : addr:housenumber=8 | addr:street=улица Лермонтова | building=yes | building:levels=1
     geometry : n3314207827[54.5012693,30.4065634] n3314207829[54.5013933,30.4065581] n3314207830[54.5013952,30.4066904] n3314207828[54.5012712,30.4066957] n3314207827[54.5012693,30.4065634]
 w324743636
-  other tags : addr:housenumber=85а | addr:street=Могилёвская улица | building=yes
+  other tags : addr:housenumber=85А | addr:street=Могилёвская улица | building=yes
     geometry : n3314207804[54.4912366,30.4366509] n3314207806[54.4913121,30.4366467] n3314207805[54.4913105,30.4365615] n3314207803[54.4912350,30.4365657] n3314207804[54.4912366,30.4366509]
 w326323528
   other tags : addr:housenumber=5 | addr:street=ПЕР.1-Й ОВРАЖНЫЙ | building=yes | building:levels=1
@@ -38681,7 +38681,7 @@ w334614327
   other tags : building=yes | building:levels=1
     geometry : n3416776660[54.5088845,30.4176896] n3416776664[54.5089428,30.4181914] n3416776662[54.5089037,30.4182048] n3416776659[54.5088454,30.4177030] n3416776660[54.5088845,30.4176896]
 w335440025  null / null / Шиномонтаж
-  other tags : addr:street=улица Белинского | area=yes | building=yes | shop=car_repair
+  other tags : addr:street=улица Белинского | building=yes | shop=car_repair
     geometry : n3425469686[54.5285381,30.4327390] n3425469687[54.5285381,30.4328324] n3425469688[54.5283958,30.4328300] n3425469689[54.5283971,30.4327366] n3425469686[54.5285381,30.4327390]
 w335457648
   other tags : building=yes

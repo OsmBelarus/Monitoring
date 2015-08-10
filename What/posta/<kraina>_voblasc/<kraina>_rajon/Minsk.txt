@@ -11,7 +11,7 @@ n255409713
   other tags : amenity=post_office
     geometry : [53.9005618,27.5620199]
 n256311825  null / null / Отделение связи №19
-  other tags : addr:postcode=220019 | amenity=post_office | opening_hours=Mo-Fr 9:00-20:00;Sa 9:00-18:00;Su 10:00-17:00 | operator=Белпочта РУП | ref=220019
+  other tags : addr:postcode=220019 | amenity=post_office | opening_hours=Mo-Fr 9:00-20:00; Sa 9:00-18:00; Su 10:00-17:00 | operator=Белпочта РУП | ref=220019
     geometry : [53.8818438,27.4329818]
 n259436049
   other tags : addr:postcode=220085 | amenity=post_office | ref=220085
@@ -50,10 +50,10 @@ n282312460
   other tags : addr:housenumber=21 | addr:postcode=220071 | addr:street=улица Смолячкова | amenity=post_office | collection_times=Mo 16:00; Tu-Fr 16:30; Sa 14:40 | fax=+375 17 294 57 94 | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00 | operator=Белпочта | phone=+375 17 293 72 27 | ref=220071
     geometry : [53.9120619,27.5885165]
 n287867739
-  other tags : addr:housenumber=59 | addr:postcode=220104 | addr:street=улица Жудро | amenity=post_office
+  other tags : addr:housenumber=59 | addr:postcode=220104 | addr:street=улица Жудро | amenity=post_office | ref=220104
     geometry : [53.9209266,27.4800689]
 n288088956
-  other tags : amenity=post_office | ref=220111
+  other tags : addr:postcode=220111 | amenity=post_office | ref=220111
     geometry : [53.8675507,27.6024427]
 n288089442
   other tags : amenity=post_office
@@ -86,7 +86,7 @@ n305674719
   other tags : addr:postcode=721918 | amenity=post_office | ref=721918
     geometry : [53.8654920,27.4535000]
 n305674905
-  other tags : addr:housenumber=10 | addr:postcode=220025 | addr:street=улица Сергея Есенина | amenity=post_office | ref=721865 | website=http://BelPost.by | wikipedia=ru:Белпочта
+  other tags : addr:housenumber=10 | addr:postcode=220025 | addr:street=улица Сергея Есенина | amenity=post_office | ref=721865 | website=http://BelPost.by/ | wikipedia=ru:Белпочта
     geometry : [53.8495915,27.4654676]
 n305675306
   other tags : addr:postcode=721921 | amenity=post_office | ref=721921
@@ -104,9 +104,9 @@ n305675689
   other tags : addr:postcode=722088 | amenity=post_office | ref=722088
     geometry : [53.9206966,27.4927410]
 n305675748  null / null / МИНСК-20
-  other tags : addr:city=Минск | addr:housenumber=22 | addr:postcode=220020 | addr:street=улица Леси Украинки | amenity=post_office | operator=Белпочта | phone=+375 17 2503405 | ref=721849
+  other tags : addr:housenumber=22 | addr:postcode=220020 | addr:street=улица Леси Украинки | amenity=post_office | operator=Белпочта | phone=+375 17 2503405 | ref=721849
     geometry : [53.9314474,27.4913233]
-n305676009  null / null / Почта
+n305676009
   other tags : addr:postcode=722085 | amenity=post_office | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00 | ref=722085
     geometry : [53.9052500,27.4975400]
 n305676011  null / null / Отделение Белпочта, РУП (220082)
@@ -131,7 +131,7 @@ n305676665
   other tags : addr:postcode=722177 | amenity=post_office | ref=722177
     geometry : [53.8426600,27.5041400]
 n305676811  null / null / Белпочта
-  other tags : addr:city=Минск | addr:housenumber=56 к1 | addr:postcode=220099 | addr:street=Брестская улица | amenity=post_office | operator=Белпочта | ref=722108
+  other tags : addr:housenumber=56 к1 | addr:postcode=220099 | addr:street=Брестская улица | amenity=post_office | operator=Белпочта | ref=722108
     geometry : [53.8553889,27.5199619]
 n305677201
   other tags : addr:postcode=722043 | amenity=post_office | ref=722043
@@ -227,7 +227,7 @@ n305684718  null / null / null / 721944
   other tags : addr:postcode=220049 | amenity=post_office | ref=220049
     geometry : [53.9352732,27.6137771]
 n305684723  null / null / РУП "Белпочта" 220012
-  other tags : addr:postcode=721823 | amenity=post_office | ref=721823
+  other tags : addr:postcode=721823 | amenity=post_office | ref=220012
     geometry : [53.9243530,27.6119579]
 n305684790
   other tags : addr:postcode=721826 | amenity=post_office | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00 | ref=721826
@@ -248,7 +248,7 @@ n305685058  null / null / почтовое отделение 220070
   other tags : addr:housenumber=18 | addr:postcode=220070 | addr:street=улица Ванеева | amenity=post_office | operator=Белпочта | ref=220070 | website=http://zip.belpost.by/zip_code/220070
     geometry : [53.8819085,27.6122735]
 n305685366
-  other tags : addr:city=Минск | addr:postcode=220037 | addr:street=Уральская улица | amenity=post_office | ref=721905
+  other tags : addr:postcode=220037 | addr:street=Уральская улица | amenity=post_office | ref=721905
     geometry : [53.9024558,27.6173211]
 n305685374
   other tags : addr:postcode=722000 | amenity=post_office | ref=722000
@@ -281,7 +281,7 @@ n305686702
   other tags : addr:postcode=220046 | amenity=post_office | ref=220046
     geometry : [53.8990699,27.6495208]
 n305686837  null / null / Отделение связи 119
-  other tags : addr:city=Минск | addr:housenumber=9/3 | addr:postcode=220119 | addr:street=улица Карбышева | amenity=post_office | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off | operator=Белпочта | ref=722174
+  other tags : addr:housenumber=9/3 | addr:postcode=220119 | addr:street=улица Карбышева | amenity=post_office | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off | operator=Белпочта | ref=722174
     geometry : [53.9526491,27.6335327]
 n305686925
   other tags : addr:postcode=721915 | amenity=post_office | ref=721915
@@ -314,7 +314,7 @@ n846565379  null / null / EMS
   other tags : amenity=post_office | delivery=yes | description=Окно EMS | phone=2935967
     geometry : [53.8892891,27.5503465]
 n1118779265
-  other tags : addr:city=Минск | addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=post_office | ref=220131
+  other tags : addr:housenumber=1 | addr:postcode=220131 | addr:street=улица Мирошниченко | amenity=post_office | ref=220131
     geometry : [53.9586907,27.6054442]
 n1176761518
   other tags : amenity=post_office | note=Departure floor
@@ -331,11 +331,11 @@ n1646861975  null / null / Экспресс
 n2380887106
   other tags : addr:postcode=220055 | amenity=post_office | operator=РУП "Белпочта" | ref=220055
     geometry : [53.9233662,27.4419996]
-n2455761986
-  other tags : amenity=post_office
+n2455761986  null / null / null / Отделение Почтовой Связи № 44
+  other tags : addr:housenumber=16 | addr:postcode=220044 | addr:street=улица Барамзиной | amenity=post_office | opening_hours=Mo-Fr 10:00-14:00,15:00-19:00; Sa 9:00-15:00; Su off; ph off | phone=+375172796110 | ref=220044
     geometry : [53.8768422,27.9025319]
 n2622385721
-  other tags : addr:housenumber=23 | addr:postcode=220045 | addr:street=улица Наполеона Орды | amenity=post_office
+  other tags : addr:housenumber=23 | addr:postcode=220045 | addr:street=улица Наполеона Орды | amenity=post_office | ref=220045
     geometry : [53.8432135,27.4806185]
 n3032495397  Паштовае аддзяленне / null / Почтовое отделение
   other tags : amenity=post_office
@@ -353,11 +353,14 @@ n3270403161  null / null / Белпочта
   other tags : amenity=post_office
     geometry : [53.8824828,27.5498907]
 n3379657030  null / null / №61
-  other tags : amenity=post_office | opening_hours=Tu-Fr 09:00-20:00;Sa 09:00-18:00 | operator=Белпочта РУП
+  other tags : amenity=post_office | opening_hours=Tu-Fr 09:00-20:00; Sa 09:00-18:00 | operator=Белпочта РУП
     geometry : [53.9116484,27.4153225]
-n3610671240  null / null / Почта
-  other tags : addr:city=Минск | addr:housenumber=60 | addr:street=улица Пимена Панченко | amenity=post_office | operator=Белпочта
+n3610671240
+  other tags : addr:housenumber=60 | addr:street=улица Пимена Панченко | amenity=post_office | operator=Белпочта
     geometry : [53.8895241,27.4157047]
+n3644936519  null / null / 220100
+  other tags : addr:housenumber=75 | addr:postcode=220100 | addr:street=улица Куйбышева | amenity=post_office | operator=РУП БелПочта | ref=220100
+    geometry : [53.9234032,27.5791453]
 w25322144
   other tags : amenity=post_office | building=yes | building:levels=1
     geometry : n275874758[53.8764295,27.6179855] n275874760[53.8765265,27.6180361] n275874762[53.8765055,27.6181516] n275874764[53.8764085,27.6181010] n275874758[53.8764295,27.6179855]

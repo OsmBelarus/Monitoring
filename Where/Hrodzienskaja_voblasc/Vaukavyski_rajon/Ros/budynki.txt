@@ -137,7 +137,7 @@ w69138983
   other tags : addr:housenumber=17 | addr:street=Новая улица | building=yes
     geometry : n829306195[53.2819872,24.3925897] n829302493[53.2819372,24.3923987] n829306017[53.2820212,24.3923417] n829309893[53.2820712,24.3925307] n829306195[53.2819872,24.3925897]
 w69138985
-  other tags : addr:housenumber=2а | addr:street=Гвардейская улица | building=yes
+  other tags : addr:housenumber=2А | addr:street=Гвардейская улица | building=yes
     geometry : n829304446[53.2858796,24.4037565] n829315382[53.2858284,24.4036313] n829308005[53.2859424,24.4035010] n829322568[53.2859936,24.4036262] n829304446[53.2858796,24.4037565]
 w69139006
   other tags : addr:housenumber=25 | addr:street=Гвардейская улица | building=yes
@@ -329,7 +329,7 @@ w313524339
   other tags : building=yes
     geometry : n3195222441[53.2930267,24.4283390] n3195222438[53.2929667,24.4283747] n3195222439[53.2929828,24.4284503] n3195222443[53.2930428,24.4284146] n3195222441[53.2930267,24.4283390]
 w313529430
-  other tags : addr:housename=котельная | building=yes
+  other tags : building=yes | generator:method=combustion | power=generator
     geometry : n3195285918[53.2891547,24.4248057] n3195285907[53.2888257,24.4250515] n3195285909[53.2888669,24.4252057] n3195285919[53.2891959,24.4249599] n3195285918[53.2891547,24.4248057]
 w313529431
   other tags : addr:housenumber=лк | building=yes

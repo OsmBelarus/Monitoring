@@ -389,7 +389,7 @@ w199796791
   other tags : building=yes
     geometry : n2097938626[54.2868244,30.9995099] n2097938598[54.2865794,30.9992685] n2097938575[54.2864918,30.9995293] n2097938612[54.2867368,30.9997707] n2097938626[54.2868244,30.9995099]
 w199796792  null / null / Горецкая районная поликлиника
-  other tags : addr:city=Горки | addr:housenumber=16 | addr:street=улица Кирова | building=yes | phone=8-(02233)-5-41-10
+  other tags : addr:housenumber=16 | addr:street=улица Кирова | building=yes | phone=8-(02233)-5-41-10
     geometry : n2097938700[54.2885264,30.9962046] n2097938681[54.2879089,30.9956701] n2097938677[54.2878593,30.9958384] n2097938698[54.2884767,30.9963729] n2097938700[54.2885264,30.9962046]
 w199796793
   other tags : building=yes
@@ -410,7 +410,7 @@ w199796802
   other tags : building=yes
     geometry : n2097938587[54.2865300,30.9952392] n2097938543[54.2863607,30.9951533] n2097938532[54.2863307,30.9953273] n2097938555[54.2864146,30.9953698] n2097938549[54.2863942,30.9954876] n2097938530[54.2863189,30.9954494] n2097938524[54.2862830,30.9956569] n2097938569[54.2864438,30.9957384] n2097938587[54.2865300,30.9952392]
 w199796803  null / null / Горецкая районная больница
-  other tags : addr:city=Горки | addr:street=улица Кирова | building=yes | building:levels=5 | phone=8-(02233)-5-40-12
+  other tags : addr:street=улица Кирова | building=yes | building:levels=5 | phone=8-(02233)-5-40-12
     geometry : n2097938687[54.2879771,30.9969274] n2097938683[54.2879046,30.9971590] n2097938689[54.2881230,30.9973597] n2097938694[54.2881882,30.9971514] n2097938696[54.2882989,30.9972532] n2097938691[54.2881794,30.9976348] n2097938669[54.2877187,30.9972112] n2097938675[54.2878455,30.9968064] n2097938687[54.2879771,30.9969274]
 w199796805
   other tags : building=yes
@@ -641,7 +641,7 @@ w199813311
   other tags : building=yes
     geometry : n2098101833[54.2998689,30.9845333] n2098101787[54.2997805,30.9845357] n2098101790[54.2997829,30.9847994] n2098101836[54.2998714,30.9847970] n2098101833[54.2998689,30.9845333]
 w199813313  null / null / "ЗОЛОТОЙ ТЕЛЕНОК"
-  other tags : amenity=nightclub | building=yes | opening_hours=23.00-2.00 | smoking=separated
+  other tags : amenity=nightclub | building=yes | opening_hours=23:00-2:00 | smoking=separated
     geometry : n2098101497[54.2982790,30.9863663] n2098101472[54.2980866,30.9863677] n2098101476[54.2980878,30.9868390] n2098101500[54.2982801,30.9868377] n2098101497[54.2982790,30.9863663]
 w199813322  null / null / магазин
   other tags : building=yes | shop=convenience
@@ -650,7 +650,7 @@ w199813323
   other tags : building=yes
     geometry : n2098101839[54.2999648,30.9902613] n2098101793[54.2998046,30.9902786] n2098101810[54.2998272,30.9908972] n2098101842[54.2999874,30.9908800] n2098101839[54.2999648,30.9902613]
 w199813329  null / null / ГУРМАН ПИЦЦА
-  other tags : amenity=cafe | building=yes | cuisine=pizza | internet_access=wlan | opening_hours=10.00-23.00 | smoking=separated
+  other tags : amenity=cafe | building=yes | cuisine=pizza | internet_access=wlan | opening_hours=10:00-23:00 | smoking=separated
     geometry : n2098101493[54.2982188,30.9858188] n2098101459[54.2980783,30.9858279] n2098101469[54.2980845,30.9861078] n2098101495[54.2982250,30.9860986] n2098101493[54.2982188,30.9858188]
 w199813332
   other tags : building=yes
@@ -1010,7 +1010,7 @@ w203437283
   other tags : building=yes
     geometry : n2134532097[54.2885000,30.9733034] n2134532086[54.2884761,30.9733530] n2134532105[54.2885181,30.9734122] n2134532114[54.2885419,30.9733626] n2134532097[54.2885000,30.9733034]
 w203437284  null / null / Каприз
-  other tags : addr:city=Горки | addr:street=улица Якубовского | building=yes | opening_hours=9:00-18:00 | operator=ЧП КАприз | shop=cosmetics
+  other tags : addr:street=улица Якубовского | building=yes | opening_hours=9:00-18:00 | operator=ЧП КАприз | shop=cosmetics
     geometry : n2134531870[54.2878588,30.9854664] n2134531854[54.2877997,30.9856146] n2134531835[54.2877390,30.9855435] n2134531852[54.2877981,30.9853953] n2134531870[54.2878588,30.9854664]
 w203437285
   other tags : building=yes
@@ -6008,7 +6008,7 @@ w210921074
   other tags : building=yes
     geometry : n2209497118[54.2666534,31.0052753] n2209497115[54.2665220,31.0053428] n2209497116[54.2665826,31.0056888] n2209497120[54.2667140,31.0056213] n2209497118[54.2666534,31.0052753]
 w210921075  null / null / РЭС
-  other tags : addr:city=Горки | addr:housenumber=61 | addr:postcode=213410 | addr:street=улица Мира | building=yes | building:levels=2 | official_name=Горецкий РЭС | phone=+375 (2233) 5-17-53
+  other tags : addr:housenumber=61 | addr:postcode=213410 | addr:street=улица Мира | building=yes | building:levels=2 | official_name=Горецкий РЭС | phone=+375 (2233) 5-17-53
     geometry : n2209497099[54.2658920,31.0066289] n2209497097[54.2658593,31.0064418] n2209497087[54.2656613,31.0065431] n2209497090[54.2656940,31.0067302] n2209497099[54.2658920,31.0066289]
 w210921076
   other tags : building=yes
@@ -6052,8 +6052,8 @@ w210921088
 w210921089
   other tags : building=yes
     geometry : n2209496961[54.2620121,31.0090068] n2209496948[54.2618846,31.0089682] n2209496958[54.2619683,31.0081576] n2209496964[54.2620959,31.0081962] n2209496961[54.2620121,31.0090068]
-w210921090  null / null / Котельная
-  other tags : building=yes | building:levels=1 | generator:method=combustion
+w210921090
+  other tags : building=yes | building:levels=1 | generator:method=combustion | power=generator
     geometry : n2209497089[54.2656807,31.0061238] n2209497084[54.2656270,31.0061519] n2209497085[54.2656454,31.0062550] n2209497091[54.2656991,31.0062269] n2209497089[54.2656807,31.0061238]
 w210921091
   other tags : building=yes
@@ -6530,7 +6530,7 @@ w231558019
   other tags : building=yes | building:levels=1
     geometry : n2399239466[54.2623796,30.9633312] n2399239465[54.2623709,30.9632017] n2399239467[54.2625002,30.9631763] n2399239468[54.2625088,30.9633058] n2399239466[54.2623796,30.9633312]
 w236562452
-  other tags : addr:city=Горки | addr:street=Вокзальная улица | building=yes | operator=РАЙПО | shop=yes
+  other tags : addr:street=Вокзальная улица | building=yes | operator=РАЙПО | shop=yes
     geometry : n2445857762[54.2820414,31.0006568] n2445857760[54.2817921,31.0003410] n2445857759[54.2815889,31.0008117] n2445857761[54.2818383,31.0011274] n2445857762[54.2820414,31.0006568]
 w240236498
   other tags : building=yes
@@ -6596,10 +6596,10 @@ w302679341  null / null / Проходная
   other tags : building=yes | building:levels=1
     geometry : n3069276077[54.2660842,31.0063537] n3069276078[54.2661020,31.0064892] n3069276079[54.2660053,31.0065264] n3069276080[54.2659875,31.0063909] n3069276077[54.2660842,31.0063537]
 w306271356  null / null / Амфитеатр
-  other tags : addr:city=Горки | addr:street=улица Мичурина | building=yes
+  other tags : addr:street=улица Мичурина | building=yes
     geometry : n3111354340[54.2959374,30.9906331] n3111354341[54.2959324,30.9910352] n3111354342[54.2955727,30.9910222] n3111354343[54.2955776,30.9906202] n3111354340[54.2959374,30.9906331]
 w318954770  null / null / Городской рынок
-  other tags : addr:city=Горки | addr:street=переулок Якубовского | amenity=marketplace | building=yes | opening_hours=8:00-16:00 | operator=Горецкий РИК
+  other tags : addr:street=переулок Якубовского | amenity=marketplace | building=yes | opening_hours=8:00-16:00 | operator=Горецкий РИК
     geometry : n3253563861[54.2873444,30.9821543] n3253563862[54.2872411,30.9820363] n3253563863[54.2871065,30.9823581] n3253563864[54.2872067,30.9824815] n3253563861[54.2873444,30.9821543]
 w324477812
   other tags : building=yes
@@ -6674,7 +6674,7 @@ w330493102
   other tags : building=yes | building:levels=1
     geometry : n3374604528[54.2727008,30.9982473] n3374604529[54.2727387,30.9983520] n3374604530[54.2726782,30.9984161] n3374604531[54.2726403,30.9983115] n3374604528[54.2727008,30.9982473]
 w332330824  null / null / Шиномонтаж, балансировка
-  other tags : addr:city=Горки | area=yes | building=yes | opening_hours=9.00 - 18.00 | operator=ИП | shop=car_repair
+  other tags : building=yes | opening_hours=9:00-18:00 | operator=ИП | shop=car_repair
     geometry : n3394468456[54.2901537,30.9813224] n3394468457[54.2902063,30.9813896] n3394468458[54.2901446,30.9815265] n3394468459[54.2900933,30.9814581] n3394468456[54.2901537,30.9813224]
 w333273954
   other tags : building=yes

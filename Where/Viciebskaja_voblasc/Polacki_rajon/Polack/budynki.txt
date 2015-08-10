@@ -23,7 +23,7 @@ w41416994
   other tags : addr:housenumber=65 | addr:street=улица Алексея Зыгина | building=yes | building:levels=9
     geometry : n506510358[55.4977196,28.7540610] n506510357[55.4976131,28.7540445] n506510355[55.4975784,28.7547465] n506510360[55.4976849,28.7547630] n506510358[55.4977196,28.7540610]
 w41444531  Полацкі гарвыканкам / null / Полоцкий горисполком / Полоцкий горисполком
-  other tags : addr:city=Полоцк | addr:housenumber=10 | addr:postcode=211400 | addr:street=проспект Франциска Скорины | amenity=townhall | building=yes | building:levels=3 | phone=+375 214 448360
+  other tags : addr:housenumber=10 | addr:postcode=211400 | addr:street=проспект Франциска Скорины | amenity=townhall | building=yes | building:levels=3 | phone=+375 214 448360
     geometry : n506879822[55.4851514,28.7675693] n506879823[55.4851229,28.7678864] n506879824[55.4850631,28.7678697] n506879825[55.4850377,28.7681520] n506879826[55.4850913,28.7681669] n506879828[55.4850172,28.7689921] n506879829[55.4848885,28.7689562] n2835386978[55.4849184,28.7686228] n2835386974[55.4848713,28.7686096] n2835386975[55.4848871,28.7684335] n2835386980[55.4849293,28.7684453] n506879830[55.4849570,28.7681363] n506879833[55.4849218,28.7681264] n506879834[55.4849580,28.7677223] n506879836[55.4849014,28.7677064] n506879837[55.4849195,28.7675045] n506879822[55.4851514,28.7675693]
 w41444532
   other tags : building=yes
@@ -419,10 +419,10 @@ w42065968
   other tags : addr:housenumber=11 | addr:postcode=211400 | addr:street=Коммунистическая улица | building=yes
     geometry : n522450597[55.4870825,28.7730212] n522450599[55.4869263,28.7729814] n2889780985[55.4869766,28.7723663] n2889780984[55.4869634,28.7723629] n2889780986[55.4869940,28.7719898] n2889780987[55.4870008,28.7719068] n2889780988[55.4870079,28.7719086] n522450598[55.4870413,28.7714995] n522450676[55.4873475,28.7715775] n522450677[55.4873107,28.7720269] n2835387118[55.4872345,28.7720074] n2835387119[55.4872574,28.7717276] n2835387105[55.4871231,28.7716934] n2835387103[55.4871039,28.7719285] n522450675[55.4871687,28.7719451] n2835387107[55.4871320,28.7723940] n2835387102[55.4870956,28.7723847] n2835387096[55.4870575,28.7728498] n2835387101[55.4870957,28.7728596] n522450597[55.4870825,28.7730212]
 w42065970  Полацкі райвыканкам / null / Полоцкий райисполком / Полоцкий райисполком
-  other tags : addr:city=Полоцк | addr:housenumber=6 | addr:postcode=211400 | addr:street=улица Толстого | amenity=townhall | building=yes | phone=+375 214 423522 | website=http://polotsk.vitebsk-region.gov.by
+  other tags : addr:housenumber=6 | addr:postcode=211400 | addr:street=улица Толстого | amenity=townhall | building=yes | phone=+375 214 423522 | website=http://polotsk.vitebsk-region.gov.by/
     geometry : n522450604[55.4877128,28.7686918] n2835387169[55.4877009,28.7688512] n2835387174[55.4877548,28.7688637] n2835387172[55.4877236,28.7692836] n2835387165[55.4876795,28.7692734] n522450608[55.4876627,28.7695001] n522460954[55.4875343,28.7694704] n522460956[55.4875748,28.7689251] n522460958[55.4872584,28.7688519] n522460952[55.4872174,28.7694034] n522450606[55.4870914,28.7693742] n522450605[55.4871518,28.7685619] n522450604[55.4877128,28.7686918]
 w42065971  null / null / Детская школа искусств
-  other tags : addr:city=Полоцк | addr:housenumber=7 | addr:street=Коммунистическая улица | building=yes
+  other tags : addr:housenumber=7 | addr:street=Коммунистическая улица | building=yes
     geometry : n522450609[55.4871984,28.7696158] n522450610[55.4875443,28.7697040] n522450611[55.4875241,28.7699509] n522450612[55.4871781,28.7698627] n522450609[55.4871984,28.7696158]
 w42065972
   other tags : addr:housenumber=4 | addr:street=Коммунистическая улица | building=yes
@@ -485,10 +485,10 @@ w42066619
   other tags : building=yes
     geometry : n522460900[55.4882076,28.7718152] n522460907[55.4881813,28.7721434] n522460904[55.4878790,28.7720678] n522460910[55.4878674,28.7722125] n522460909[55.4876842,28.7721666] n522460912[55.4876976,28.7720003] n522460914[55.4877702,28.7720184] n522460902[55.4877948,28.7717119] n522460900[55.4882076,28.7718152]
 w42066620  null / null / КУП "ЖКХ г. Полоцка"
-  other tags : addr:city=Полоцк | addr:housenumber=8 | addr:postcode=211400 | addr:street=улица Войкова | building=yes | phone=+375 214 422010 | website=http://jkhpolotsk.by/
+  other tags : addr:housenumber=8 | addr:postcode=211400 | addr:street=улица Войкова | building=yes | phone=+375 214 422010 | website=http://jkhpolotsk.by/
     geometry : n522460916[55.4876989,28.7705100] n522460918[55.4876516,28.7710483] n522460920[55.4875295,28.7710150] n522460921[55.4875767,28.7704766] n522460916[55.4876989,28.7705100]
 w42066621  null / null / Отдел статистики Полоцкого района
-  other tags : addr:city=Полоцк | addr:housenumber=6 | addr:postcode=211400 | addr:street=улица Войкова | building=yes
+  other tags : addr:housenumber=6 | addr:postcode=211400 | addr:street=улица Войкова | building=yes
     geometry : n522460923[55.4877387,28.7700776] n522460926[55.4877095,28.7704433] n2835387152[55.4875976,28.7704155] n2835387153[55.4876027,28.7703513] n2835387146[55.4875517,28.7703387] n2835387144[55.4875456,28.7704143] n522460927[55.4874970,28.7704023] n522460929[55.4875247,28.7700546] n2835387151[55.4875837,28.7700692] n2835387147[55.4875769,28.7701549] n2835387160[55.4876403,28.7701706] n2835387162[55.4876494,28.7700555] n522460923[55.4877387,28.7700776]
 w42066622  null / null / Дом офицеров
   other tags : building=yes
@@ -849,7 +849,7 @@ w125803400
   other tags : addr:housenumber=44 | addr:postcode=211405 | addr:street=Витебская улица | building=yes | building:levels=1
     geometry : n1396339591[55.4864243,28.8142041] n1396339574[55.4864163,28.8143638] n1396339584[55.4863339,28.8143511] n1396339594[55.4863419,28.8141913] n1396339591[55.4864243,28.8142041]
 w125803403
-  other tags : addr:housenumber=56/12А | addr:postcode=211405 | addr:street=Витебская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=56/12а | addr:postcode=211405 | addr:street=Витебская улица | building=yes | building:levels=1
     geometry : n1396339579[55.4865376,28.8106112] n1396339590[55.4865169,28.8107588] n1396339572[55.4865996,28.8107949] n1396339583[55.4866203,28.8106473] n1396339579[55.4865376,28.8106112]
 w125803404
   other tags : addr:housenumber=36 | addr:postcode=211405 | addr:street=Полевая улица | building=yes | building:levels=1
@@ -1485,7 +1485,7 @@ w189201997
   other tags : addr:housenumber=8 | addr:street=улица Марата Казея | building=yes
     geometry : n1998529046[55.4747728,28.7639395] n1998529056[55.4748633,28.7639645] n1998529054[55.4748424,28.7641999] n1998529042[55.4747519,28.7641749] n1998529046[55.4747728,28.7639395]
 w189214209  null / null / Жилищный ремонтно-эксплуатационный участок № 3 КУП «ЖКХ г. Полоцка»
-  other tags : addr:city=Полоцк | addr:housenumber=1 | addr:street=улица Мариненко | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Мариненко | building=yes
     geometry : n3063583312[55.4727872,28.7529119] n1998620682[55.4720366,28.7534493] n1998620681[55.4719841,28.7532210] n3063583311[55.4727332,28.7526846] n3063583312[55.4727872,28.7529119]
 w189214210
   other tags : addr:housenumber=59 | addr:street=улица Петруся Бровки | building=yes
@@ -10883,8 +10883,8 @@ w279318241
 w279318242  null / null / Парус
   other tags : addr:housenumber=50А | addr:street=Нижне-Покровская улица | building=yes | tourism=hotel
     geometry : n2835386928[55.4828167,28.7809815] n2835386919[55.4825765,28.7813282] n2835386924[55.4826599,28.7815910] n2835386922[55.4826162,28.7818012] n2835386923[55.4826262,28.7820323] n2835386917[55.4825567,28.7820884] n2835386918[55.4825587,28.7822495] n2835386925[55.4826698,28.7825438] n2835386932[55.4828485,28.7823231] n2835386926[55.4827274,28.7818677] n2835386931[55.4828366,28.7816891] n2835386927[55.4828128,28.7816260] n2835386933[55.4828525,28.7815910] n2835386929[55.4828167,28.7815209] n2835386934[55.4828564,28.7814368] n2835386930[55.4828306,28.7813598] n2835386935[55.4829120,28.7812442] n2835386928[55.4828167,28.7809815]
-w279318243
-  other tags : building=yes
+w279318243  null / null / КУП "УКС" г. Полоцка
+  other tags : addr:housenumber=5 | addr:postcode=211400 | addr:street=улица Войкова | building=yes
     geometry : n2835387198[55.4879777,28.7700861] n2835387188[55.4878602,28.7700473] n2835387186[55.4878365,28.7702707] n2835387196[55.4879540,28.7703095] n2835387198[55.4879777,28.7700861]
 w279318244
   other tags : building=yes
@@ -12564,7 +12564,7 @@ w305835809
   other tags : building=yes | building:levels=1
     geometry : n3105219422[55.4787561,28.7652880] n3105219423[55.4787364,28.7653010] n3105219424[55.4787054,28.7651611] n3105219425[55.4787248,28.7651468] n3105219422[55.4787561,28.7652880]
 w306524376  null / null / Sofia Hostel / хостел София
-  other tags : addr:housenumber=20 | addr:street=переулок Шмидта | amenity=bicycle_rental | building=yes | building:levels=2 | email=sofiahotel2014@gmail.com | internet_access=wlan | internet_access:fee=no | phone=+375 (29) 559-88-08 | tourism=hostel | website=http://sofiahostel.by
+  other tags : addr:housenumber=20 | addr:street=переулок Шмидта | amenity=bicycle_rental | building=yes | building:levels=2 | email=sofiahotel2014@gmail.com | internet_access=wlan | internet_access:fee=no | phone=+375 (29) 559-88-08 | tourism=hostel | website=http://sofiahostel.by/
     geometry : n3114667295[55.5100394,28.7671265] n3114667290[55.5099164,28.7670627] n3114667293[55.5099742,28.7667144] n3114667296[55.5100973,28.7667782] n3306265234[55.5100823,28.7668684] n3306265233[55.5100690,28.7668615] n3306265231[55.5100418,28.7670257] n3306265232[55.5100550,28.7670326] n3114667295[55.5100394,28.7671265]
 w306524377
   other tags : addr:housenumber=23А | addr:street=улица Шмидта | building=yes | building:levels=1
@@ -12977,8 +12977,8 @@ w307357748
 w307357749
   other tags : building=yes | building:levels=1 | roof:levels=1 | roof:shape=hipped
     geometry : n3124677137[55.4805599,28.8312183] n3124677135[55.4805209,28.8314861] n3124677138[55.4806422,28.8315411] n3124677139[55.4806812,28.8312734] n3124677137[55.4805599,28.8312183]
-w307929887  null / null / Котельная
-  other tags : addr:housenumber=28 | addr:street=улица Полины Осипенко | building=yes | building:levels=1
+w307929887
+  other tags : addr:housenumber=28 | addr:street=улица Полины Осипенко | building=yes | building:levels=1 | generator:method=combustion | power=generator
     geometry : n3131805211[55.4873084,28.8220882] n3131805214[55.4875522,28.8220732] n3131805215[55.4875569,28.8223095] n3131805212[55.4873130,28.8223245] n3131805211[55.4873084,28.8220882]
 w307929906
   other tags : addr:housenumber=20 | addr:street=Железнодорожная улица | building=yes | roof:shape=gabled
@@ -13737,7 +13737,7 @@ w317786625
   other tags : addr:housenumber=20 | addr:street=улица Котовского | building=yes
     geometry : n3240915575[55.4751603,28.7611657] n3240915576[55.4752054,28.7610029] n3240915580[55.4752988,28.7610834] n3240915578[55.4752537,28.7612462] n3240915575[55.4751603,28.7611657]
 w317786626
-  other tags : addr:housenumber=20A | addr:street=улица Котовского | building=yes
+  other tags : addr:housenumber=20А | addr:street=улица Котовского | building=yes
     geometry : n3240915568[55.4750264,28.7610595] n3240915570[55.4750715,28.7608967] n3240915574[55.4751649,28.7609772] n3240915572[55.4751198,28.7611400] n3240915568[55.4750264,28.7610595]
 w317786627
   other tags : addr:housenumber=22 | addr:street=улица Котовского | building=yes
@@ -14025,7 +14025,7 @@ w319390042
   other tags : building=yes | building:colour=white | building:levels=1 | building:material=plaster | roof:colour=red | roof:material=metal | roof:shape=pyramidal
     geometry : n3258015514[55.4878061,28.7869639] n3258015513[55.4878026,28.7870501] n3258015520[55.4878456,28.7870556] n3258015523[55.4878491,28.7869693] n3258015514[55.4878061,28.7869639]
 w319390043  null / null / 5 элемент
-  other tags : addr:city=Полоцк | addr:housenumber=42 | addr:street=Октябрьская улица | building=yes | building:levels=2 | shop=electronics | start_date=17.07.2015
+  other tags : addr:housenumber=42 | addr:street=Октябрьская улица | building=yes | building:levels=2 | shop=electronics | start_date=17.07.2015
     geometry : n3258015645[55.4903678,28.7823181] n3655688561[55.4904078,28.7822054] n3655688560[55.4903893,28.7821855] n3655688562[55.4904132,28.7821165] n3655688563[55.4904316,28.7821364] n3655688564[55.4906191,28.7815947] n3650922642[55.4906205,28.7815584] n3655688565[55.4906352,28.7815175] n3655688566[55.4906508,28.7815126] n3655688567[55.4906648,28.7815082] n3650922643[55.4906929,28.7815351] n3655688568[55.4907007,28.7815705] n3650922645[55.4909901,28.7818843] n3650922646[55.4909978,28.7819711] n3258015649[55.4907293,28.7827140] n3258015645[55.4903678,28.7823181]
 w319390044
   other tags : building=yes | building:colour=white | building:levels=2 | building:material=plaster | roof:colour=red | roof:material=metal | roof:shape=hipped
@@ -14201,8 +14201,8 @@ w323857077
 w323857078
   other tags : building=yes
     geometry : n3306262326[55.4857693,28.7713888] n3306262323[55.4857284,28.7713797] n3306262322[55.4857193,28.7715084] n3306262325[55.4857602,28.7715174] n3306262326[55.4857693,28.7713888]
-w323857080  null / null / Renault-центр
-  other tags : building=yes
+w323857080  null / null / Renault-Лозанж
+  other tags : addr:housenumber=61 | addr:postcode=211402 | addr:street=улица Петруся Бровки | building=yes | operator=Renault | phone=+375 214 776363 | shop=car
     geometry : n3306262309[55.4747820,28.7474142] n3306262310[55.4749565,28.7481156] n3306262308[55.4744451,28.7485115] n3306262307[55.4742707,28.7478100] n3306262309[55.4747820,28.7474142]
 w323857082
   other tags : building=yes | building:levels=2
@@ -14511,7 +14511,7 @@ w326189293
   other tags : addr:housenumber=3 | addr:street=Комсомольский переулок | building=yes | building:levels=1
     geometry : n3328106488[55.4849847,28.8067214] n3328106489[55.4850034,28.8065560] n3328106693[55.4851581,28.8066105] n3328106492[55.4851395,28.8067758] n3328106488[55.4849847,28.8067214]
 w326189294
-  other tags : addr:housenumber=34/7А | addr:street=Комсомольская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=34/7а | addr:street=Комсомольская улица | building=yes | building:levels=1
     geometry : n3328106755[55.4876239,28.8088797] n3328106756[55.4876545,28.8087066] n3328106760[55.4877538,28.8087614] n3328106759[55.4877230,28.8089343] n3328106755[55.4876239,28.8088797]
 w326189295
   other tags : addr:housenumber=3А | addr:street=Полевая улица | building=yes | building:levels=1
@@ -15819,7 +15819,7 @@ w344943308
   other tags : addr:housenumber=30 | addr:street=улица Кондратенко | building=yes | building:levels=1
     geometry : n3516648407[55.4936831,28.7879026] n3516648408[55.4937410,28.7880508] n3516648405[55.4936537,28.7881570] n3516648403[55.4935958,28.7880087] n3516648407[55.4936831,28.7879026]
 w344943309
-  other tags : addr:housenumber=3а | addr:street=улица Фурманова | building=yes | building:levels=1
+  other tags : addr:housenumber=3А | addr:street=улица Фурманова | building=yes | building:levels=1
     geometry : n3516648426[55.4945464,28.7851724] n3516648421[55.4944595,28.7850764] n3516648424[55.4945146,28.7849210] n3516648429[55.4946016,28.7850171] n3516648426[55.4945464,28.7851724]
 w344943310
   other tags : addr:housenumber=5 | addr:street=улица Фурманова | building=yes | building:levels=1
@@ -17076,7 +17076,7 @@ w346303755
   other tags : addr:housenumber=19 | addr:street=Невельская улица | building=yes | building:levels=1
     geometry : n3528417322[55.4993313,28.8123199] n3528417321[55.4993308,28.8121387] n3528417331[55.4994347,28.8121378] n3528417332[55.4994352,28.8123190] n3528417322[55.4993313,28.8123199]
 w346303756
-  other tags : addr:housenumber=19A | addr:street=Невельская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=19А | addr:street=Невельская улица | building=yes | building:levels=1
     geometry : n3528417316[55.4992956,28.8126165] n3528417315[55.4992951,28.8124353] n3528417325[55.4993990,28.8124344] n3528417326[55.4993995,28.8126156] n3528417316[55.4992956,28.8126165]
 w346303757
   other tags : addr:housenumber=21 | addr:street=Невельская улица | building=yes | building:levels=1
@@ -17415,7 +17415,7 @@ w346432199
   other tags : addr:housenumber=16 | addr:street=улица Куйбышева | building=yes | building:levels=1
     geometry : n3529684357[55.4999573,28.7835438] n3529684355[55.4998873,28.7834130] n3529684358[55.4999634,28.7832860] n3529684361[55.5000334,28.7834168] n3529684357[55.4999573,28.7835438]
 w346432201
-  other tags : addr:housenumber=16A | addr:street=улица Циолковского | building=yes | building:levels=1
+  other tags : addr:housenumber=16А | addr:street=улица Циолковского | building=yes | building:levels=1
     geometry : n3529684335[55.4936153,28.8096055] n3529684336[55.4936685,28.8094506] n3529684338[55.4937573,28.8095456] n3529684337[55.4937042,28.8097005] n3529684335[55.4936153,28.8096055]
 w346432202
   other tags : addr:housenumber=17 | addr:street=улица Куйбышева | building=yes | building:levels=1
@@ -19863,7 +19863,7 @@ w347105053
   other tags : addr:housenumber=37/24 | addr:street=улица Зинаиды Портновой | building=yes | building:levels=1
     geometry : n3535214799[55.4853032,28.8159202] n3535214793[55.4852942,28.8160612] n3535214824[55.4853785,28.8160780] n3535214827[55.4853875,28.8159370] n3535214799[55.4853032,28.8159202]
 w347105054
-  other tags : addr:housenumber=37А/35 | addr:street=улица Зинаиды Портновой | building=yes | building:levels=1
+  other tags : addr:housenumber=37а/35 | addr:street=улица Зинаиды Портновой | building=yes | building:levels=1
     geometry : n3535214795[55.4852993,28.8155202] n3535214802[55.4853135,28.8153407] n3535214840[55.4854164,28.8153661] n3535214833[55.4854022,28.8155456] n3535214795[55.4852993,28.8155202]
 w347105055
   other tags : addr:housenumber=38 | addr:street=улица Зинаиды Портновой | building=yes | building:levels=1
@@ -20367,7 +20367,7 @@ w347105227
   other tags : addr:housenumber=8А | addr:street=улица Зинаиды Портновой | building=yes | building:levels=1
     geometry : n3535214834[55.4854026,28.8210306] n3535214830[55.4853936,28.8211716] n3535214870[55.4854779,28.8211884] n3535214873[55.4854869,28.8210474] n3535214834[55.4854026,28.8210306]
 w347105228
-  other tags : addr:housenumber=8А/57 | addr:street=улица Сергея Кирова | building=yes | building:levels=1
+  other tags : addr:housenumber=8а/57 | addr:street=улица Сергея Кирова | building=yes | building:levels=1
     geometry : n3535214969[55.4856385,28.8102882] n3535214953[55.4856057,28.8105546] n3535214992[55.4856889,28.8105865] n3535215000[55.4857217,28.8103201] n3535214969[55.4856385,28.8102882]
 w347105229
   other tags : addr:housenumber=8Б | addr:street=улица Сергея Кирова | building=yes | building:levels=1

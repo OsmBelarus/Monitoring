@@ -244,6 +244,12 @@ n3212106451
 n3212106946
   other tags : addr:housenumber=11 | addr:street=1-й Окружной переулок | building=house
     geometry : [54.2316583,28.5532631]
+n3669843571
+  other tags : addr:housenumber=55 | addr:street=улица Пирогова | building=house | building:levels=1
+    geometry : [54.2429444,28.5528850]
+n3669903514
+  other tags : addr:housenumber=55 | addr:street=улица Пирогова | building=house | building:levels=1
+    geometry : [54.2427939,28.5525739]
 w53023438
   other tags : addr:housenumber=34 | addr:postcode=222525 | addr:street=Серебренникова улица | building=apartments | building:levels=5
     geometry : n671578449[54.1831018,28.4765543] n671578516[54.1822890,28.4766806] n671578443[54.1822750,28.4764175] n671578450[54.1830879,28.4762912] n671578449[54.1831018,28.4765543]
@@ -440,7 +446,7 @@ w265606219
   other tags : building=residential | building:levels=9
     geometry : n2712411783[54.2246847,28.4857616] n2712411801[54.2251954,28.4851114] n2712411804[54.2252725,28.4852885] n2712411787[54.2247618,28.4859387] n2712411783[54.2246847,28.4857616]
 w265606234
-  other tags : addr:city=Борисов | addr:housenumber=38 | addr:postcode=222120 | addr:street=улица Ватутина | building=residential | building:levels=9
+  other tags : addr:housenumber=38 | addr:postcode=222120 | addr:street=улица Ватутина | building=residential | building:levels=9
     geometry : n2712411748[54.2235059,28.4871665] n2712411752[54.2238538,28.4867235] n2712411755[54.2238874,28.4868007] n2712411772[54.2242133,28.4863857] n2712411774[54.2242904,28.4865629] n2712411762[54.2239513,28.4869945] n2712411759[54.2239090,28.4868972] n2712411749[54.2235742,28.4873234] n2712411748[54.2235059,28.4871665]
 w296898243
   other tags : building=residential | building:levels=7

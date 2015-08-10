@@ -354,10 +354,10 @@ n3568312896
   other tags : communication:mobile_phone=yes | man_made=tower | operator=MTS;VELCOM | operator:MNC=02;01 | tower:type=communication
     geometry : [51.7370224,28.2511321]
 n3671906012
-  other tags : addr:city=Ударное | addr:housenumber=11
+  other tags : addr:housenumber=11
     geometry : [51.9489127,28.3185918]
 n3671906013
-  other tags : addr:city=Ударное | addr:housenumber=12
+  other tags : addr:housenumber=12
     geometry : [51.9491668,28.3188862]
 w25122508
   other tags : admin_level=8 | boundary=administrative
@@ -1545,9 +1545,6 @@ w320631830
 w320631831
   other tags : man_made=cutline
     geometry : n3272401738[51.9804747,28.4907126] n3272401739[51.9824439,28.5253667]
-w320631835
-  other tags : landuse=basin
-    geometry : n3272401752[51.9500566,28.3414423] n3272401753[51.9508237,28.3434378] n3272401754[51.9488928,28.3455192] n3272401755[51.9482447,28.3456694] n3272401756[51.9476231,28.3438884] n3272401752[51.9500566,28.3414423]
 w320638276
   other tags : landuse=cemetery
     geometry : n3272513388[51.8843908,28.2310211] n3272513389[51.8838610,28.2308816] n3272513390[51.8833908,28.2315897] n3272513391[51.8840663,28.2318579] n3272513388[51.8843908,28.2310211]

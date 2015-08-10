@@ -54,7 +54,7 @@ n2956893540  null / null / Свято-Вознесенская церковь п
   other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
     geometry : [53.9519850,27.4304875]
 n3149890854  Храм Ушэсця Гасподняга / null / Храм Вознесения Господня / Храм Вознесения Господня
-  other tags : addr:city=Колодищи | addr:housenumber=3а | addr:postcode=223051 | addr:street=Партизанская улица | amenity=place_of_worship | denomination=orthodox | religion=christian
+  other tags : addr:housenumber=3А | addr:postcode=223051 | addr:street=Партизанская улица | amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.9521740,27.7765021]
 n3190770344  null / null / православная церковь
   other tags : amenity=place_of_worship
@@ -84,7 +84,7 @@ w62093907  царква / null / null / церковь
   other tags : amenity=place_of_worship | building=church
     geometry : n774092130[53.9826837,27.5558813] n774092095[53.9826525,27.5561995] n774092011[53.9825254,27.5561635] n774092226[53.9825566,27.5558453] n774092130[53.9826837,27.5558813]
 w76010341  Храм Ушэсця Гасподняга / null / Храм Вознесения Господня / Храм Вознесения Господня
-  other tags : addr:housenumber=3а | addr:postcode=223051 | addr:street=Партизанская улица | amenity=place_of_worship | building=church | building:levels=1 | denomination=russian_orthodox | historic=ерей Анатолий Ибрагимов | note:ru=Православная | religion=christian
+  other tags : addr:housenumber=3А | addr:postcode=223051 | addr:street=Партизанская улица | amenity=place_of_worship | building=church | building:levels=1 | denomination=russian_orthodox | historic=ерей Анатолий Ибрагимов | note:ru=Православная | religion=christian
     geometry : n897010950[53.9522134,27.7762215] n897010955[53.9521970,27.7765489] n897010961[53.9521134,27.7765369] n897010965[53.9521297,27.7762094] n897010950[53.9522134,27.7762215]
 w77907542
   other tags : amenity=place_of_worship | building=yes | religion=christian
@@ -95,8 +95,8 @@ w127582193  null / null / Церковь святых Веры, Надежды, 
 w148991674  Царква Святой Сёмухі / null / Церковь Святой Троицы / Церковь Святой Троицы
   other tags : addr:housenumber=15 | addr:street=Октябрьская улица | amenity=place_of_worship | building=yes
     geometry : n1620378871[53.9519352,27.7717523] n1620378874[53.9519960,27.7719942] n1620378866[53.9518406,27.7721068] n1620378863[53.9517922,27.7719140] n1620378869[53.9519004,27.7718355] n1620378868[53.9518881,27.7717865] n1620378871[53.9519352,27.7717523]
-w161635066  null / null / Церковь
-  other tags : amenity=place_of_worship | building=yes | religion=christian
+w161635066
+  other tags : amenity=place_of_worship | building=church | religion=christian
     geometry : n1736082678[54.0728028,27.6973595] n1736082837[54.0727741,27.6976902] n1736082834[54.0726712,27.6976643] n1736082672[54.0726999,27.6973336] n1736082678[54.0728028,27.6973595]
 w166831479
   other tags : amenity=place_of_worship | building=church | religion=christian

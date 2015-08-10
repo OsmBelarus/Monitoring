@@ -10148,10 +10148,10 @@ w297907369
   other tags : addr:housenumber=9 | addr:street=Пионерский переулок | building=yes
     geometry : n3018107662[53.0882550,25.3177613] n3018107661[53.0882215,25.3178132] n3018107659[53.0882046,25.3177829] n3018107655[53.0881560,25.3178583] n3018107652[53.0880960,25.3177509] n3018107657[53.0881780,25.3176237] n3018107662[53.0882550,25.3177613]
 w308755933  null / null / Баня
-  other tags : addr:city=Слоним | addr:postcode=231793 | addr:street=Парковая улица | building=yes | building:levels=1 | leisure=sauna
+  other tags : addr:postcode=231793 | addr:street=Парковая улица | building=yes | building:levels=1 | leisure=sauna
     geometry : n3140216975[53.0899894,25.3868408] n3140216976[53.0899401,25.3871635] n3140216977[53.0897795,25.3870954] n3140216978[53.0898288,25.3867727] n3140216975[53.0899894,25.3868408]
 w308764641
-  other tags : addr:city=Слоним | addr:postcode=231793 | addr:street=Парковая улица | amenity=fire_station | building=yes
+  other tags : addr:postcode=231793 | addr:street=Парковая улица | amenity=fire_station | building=yes
     geometry : n3140303665[53.0889450,25.3864449] n3140303666[53.0889920,25.3861508] n3140303667[53.0892631,25.3862710] n3140303668[53.0892161,25.3865651] n3140303665[53.0889450,25.3864449]
 w308771723
   other tags : building=yes | leisure=sports_centre
@@ -10160,13 +10160,13 @@ w308791533
   other tags : building=yes | shop=greengrocer
     geometry : n3140650898[53.0827708,25.3891749] n3140650899[53.0828066,25.3893821] n3140650900[53.0826963,25.3894349] n3140650901[53.0826605,25.3892277] n3140650898[53.0827708,25.3891749]
 w309281288
-  other tags : addr:city=Слоним | building=yes | building:levels=3
+  other tags : building=yes | building:levels=3
     geometry : n3146210924[53.0864733,25.3965382] n3146210925[53.0865491,25.3966966] n3146210926[53.0864547,25.3968218] n3146210927[53.0863789,25.3966634] n3146210924[53.0864733,25.3965382]
 w309309237  null / null / Альбертинское лесничество
   other tags : building=yes
     geometry : n3146457661[53.0911951,25.4002098] n3146457663[53.0912843,25.4002033] n3146457664[53.0912892,25.4003915] n3146457662[53.0912001,25.4003980] n3146457661[53.0911951,25.4002098]
 w309309242
-  other tags : addr:city=Слоним | addr:housenumber=5 | addr:postcode=231793 | addr:street=Парковая улица | building=yes | shop=car_repair
+  other tags : addr:housenumber=5 | addr:postcode=231793 | addr:street=Парковая улица | building=yes | shop=car_repair
     geometry : n3146457659[53.0897550,25.3816789] n3146457657[53.0897264,25.3820887] n3146457644[53.0894651,25.3820382] n3146457647[53.0894936,25.3816284] n3146457659[53.0897550,25.3816789]
 w311538833
   other tags : building=yes
@@ -10253,7 +10253,7 @@ w330490974
   other tags : addr:housenumber=157 | addr:street=Красноармейская улица | building=yes
     geometry : n3374585566[53.0711904,25.3317699] n3374585562[53.0711348,25.3316635] n3374585568[53.0711997,25.3315696] n3374585571[53.0712553,25.3316760] n3374585566[53.0711904,25.3317699]
 w330490975
-  other tags : addr:housenumber=157а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=157А | addr:street=Красноармейская улица | building=yes
     geometry : n3374585564[53.0711549,25.3320271] n3374585559[53.0710594,25.3318751] n3374585563[53.0711290,25.3317541] n3374585569[53.0712244,25.3319061] n3374585564[53.0711549,25.3320271]
 w330490976
   other tags : addr:housenumber=159 | addr:street=Красноармейская улица | building=yes
@@ -10271,7 +10271,7 @@ w330889108
   other tags : addr:housenumber=10 | addr:street=переулок Куйбышева | building=yes
     geometry : n3379268708[53.0712351,25.3286178] n3379268701[53.0711737,25.3285017] n3379268690[53.0710823,25.3286356] n3379268699[53.0711437,25.3287517] n3379268708[53.0712351,25.3286178]
 w330889109
-  other tags : addr:housenumber=10a | addr:street=переулок Менделеева | building=yes
+  other tags : addr:housenumber=10А | addr:street=переулок Менделеева | building=yes
     geometry : n3379268773[53.0720996,25.3267576] n3379268767[53.0720211,25.3268693] n3379268761[53.0719418,25.3267151] n3379268766[53.0720203,25.3266032] n3379268773[53.0720996,25.3267576]
 w330889110
   other tags : addr:housenumber=11 | addr:street=Анищика улица | building=yes
@@ -10292,7 +10292,7 @@ w330889115
   other tags : addr:housenumber=12 | addr:street=переулок Куйбышева | building=yes
     geometry : n3379268693[53.0711220,25.3284125] n3379268686[53.0710606,25.3282963] n3379268676[53.0709692,25.3284302] n3379268682[53.0710306,25.3285463] n3379268693[53.0711220,25.3284125]
 w330889116
-  other tags : addr:housenumber=12a | addr:street=переулок Менделеева | building=yes
+  other tags : addr:housenumber=12А | addr:street=переулок Менделеева | building=yes
     geometry : n3379268756[53.0718663,25.3263101] n3379268752[53.0717878,25.3264217] n3379268747[53.0717085,25.3262675] n3379268751[53.0717871,25.3261557] n3379268756[53.0718663,25.3263101]
 w330889117
   other tags : addr:housenumber=13 | addr:street=Анищика улица | building=yes
@@ -10460,7 +10460,7 @@ w330889173
   other tags : addr:housenumber=9 | addr:street=переулок Куйбышева | building=yes
     geometry : n3379268700[53.0711460,25.3291817] n3379268692[53.0710846,25.3290655] n3379268681[53.0709933,25.3291994] n3379268689[53.0710546,25.3293156] n3379268700[53.0711460,25.3291817]
 w330889174
-  other tags : addr:housenumber=96a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=96А | addr:street=Красноармейская улица | building=yes
     geometry : n3379268795[53.0725734,25.3278458] n3379268791[53.0725231,25.3279172] n3379268787[53.0724438,25.3277630] n3379268790[53.0724941,25.3276914] n3379268795[53.0725734,25.3278458]
 w330915012
   other tags : addr:housenumber=2 | addr:street=Вольный переулок | building=yes
@@ -10502,7 +10502,7 @@ w331180035
   other tags : addr:housenumber=42 | addr:street=Волгоградская улица | building=yes
     geometry : n3382386026[53.0838674,25.3785741] n3382386028[53.0838785,25.3784110] n3382386033[53.0839944,25.3784328] n3382386032[53.0839833,25.3785960] n3382386026[53.0838674,25.3785741]
 w331180036
-  other tags : addr:housenumber=42а | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=42А | addr:street=Волгоградская улица | building=yes
     geometry : n3382386035[53.0840837,25.3784375] n3382386037[53.0841125,25.3782764] n3382386041[53.0842096,25.3783245] n3382386039[53.0841808,25.3784855] n3382386035[53.0840837,25.3784375]
 w331180037
   other tags : addr:housenumber=43 | addr:street=Волгоградская улица | building=yes
@@ -10511,13 +10511,13 @@ w331180038
   other tags : addr:housenumber=44 | addr:street=Волгоградская улица | building=yes
     geometry : n3382386034[53.0840603,25.3777331] n3382386036[53.0840891,25.3775720] n3382386040[53.0841861,25.3776201] n3382386038[53.0841574,25.3777812] n3382386034[53.0840603,25.3777331]
 w331180039
-  other tags : addr:housenumber=44, | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=44 | addr:street=Волгоградская улица | building=yes
     geometry : n3382386054[53.0846483,25.3770852] n3382386055[53.0846631,25.3769327] n3382386057[53.0847620,25.3769594] n3382386056[53.0847472,25.3771119] n3382386054[53.0846483,25.3770852]
 w331180040
   other tags : addr:housenumber=44d | addr:street=Волгоградская улица | building=yes
     geometry : n3382386058[53.0848289,25.3771353] n3382386059[53.0848437,25.3769828] n3382386061[53.0849426,25.3770095] n3382386060[53.0849278,25.3771620] n3382386058[53.0848289,25.3771353]
 w331180041
-  other tags : addr:housenumber=44а | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=44А | addr:street=Волгоградская улица | building=yes
     geometry : n3382386042[53.0843498,25.3773038] n3382386043[53.0843646,25.3771513] n3382386045[53.0844635,25.3771780] n3382386044[53.0844487,25.3773304] n3382386042[53.0843498,25.3773038]
 w331180042
   other tags : addr:housenumber=45 | addr:street=Волгоградская улица | building=yes
@@ -10580,16 +10580,16 @@ w331183350
   other tags : addr:housenumber=37 | addr:street=Волгоградская улица | building=yes
     geometry : n3382396773[53.0831545,25.3812349] n3382396778[53.0831837,25.3811219] n3382411398[53.0832963,25.3812027] n3382411394[53.0832671,25.3813157] n3382396773[53.0831545,25.3812349]
 w331183351
-  other tags : addr:housenumber=37а | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=37А | addr:street=Волгоградская улица | building=yes
     geometry : n3382396775[53.0831658,25.3809603] n3382396782[53.0831952,25.3808262] n3382411401[53.0833135,25.3808982] n3382411397[53.0832840,25.3810323] n3382396775[53.0831658,25.3809603]
 w331183352
-  other tags : addr:housenumber=37б | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=37Б | addr:street=Волгоградская улица | building=yes
     geometry : n3382396779[53.0831844,25.3807040] n3382396784[53.0832085,25.3805139] n3382411399[53.0832965,25.3805448] n3382411396[53.0832725,25.3807349] n3382396779[53.0831844,25.3807040]
 w331183353
-  other tags : addr:housenumber=37в | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=37В | addr:street=Волгоградская улица | building=yes
     geometry : n3382411393[53.0832659,25.3803662] n3382411395[53.0832698,25.3802195] n3382411407[53.0833906,25.3802283] n3382411406[53.0833867,25.3803750] n3382411393[53.0832659,25.3803662]
 w331183354
-  other tags : addr:housenumber=37г | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=37Г | addr:street=Волгоградская улица | building=yes
     geometry : n3382396787[53.0832453,25.3801153] n3382396789[53.0832504,25.3799379] n3382411403[53.0833678,25.3799474] n3382411402[53.0833626,25.3801248] n3382396787[53.0832453,25.3801153]
 w331183355
   other tags : addr:housenumber=39 | addr:street=Волгоградская улица | building=yes
@@ -10688,34 +10688,34 @@ w331195462
   other tags : addr:housenumber=30 | addr:street=Волгоградская улица | building=yes
     geometry : n3382515479[53.0834279,25.3820900] n3382515481[53.0834390,25.3819269] n3382516597[53.0835549,25.3819487] n3382516594[53.0835438,25.3821118] n3382515479[53.0834279,25.3820900]
 w331195464
-  other tags : addr:housenumber=30а | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=30А | addr:street=Волгоградская улица | building=yes
     geometry : n3382515488[53.0834948,25.3816278] n3382515489[53.0835059,25.3814647] n3382516605[53.0836218,25.3814865] n3382516604[53.0836107,25.3816497] n3382515488[53.0834948,25.3816278]
 w331195466
   other tags : addr:housenumber=32 | addr:street=Волгоградская улица | building=yes
     geometry : n3382515490[53.0835149,25.3813606] n3382515491[53.0835259,25.3811974] n3382516609[53.0836418,25.3812192] n3382516607[53.0836308,25.3813824] n3382515490[53.0835149,25.3813606]
 w331195467
-  other tags : addr:housenumber=32а | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32А | addr:street=Волгоградская улица | building=yes
     geometry : n3382516600[53.0835951,25.3808594] n3382516603[53.0836062,25.3806963] n3382516619[53.0837221,25.3807181] n3382516616[53.0837110,25.3808812] n3382516600[53.0835951,25.3808594]
 w331195468
-  other tags : addr:housenumber=32б | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32Б | addr:street=Волгоградская улица | building=yes
     geometry : n3382516593[53.0835416,25.3805587] n3382516596[53.0835527,25.3803956] n3382516613[53.0836686,25.3804174] n3382516611[53.0836575,25.3805806] n3382516593[53.0835416,25.3805587]
 w331195469
-  other tags : addr:housenumber=32в | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32В | addr:street=Волгоградская улица | building=yes
     geometry : n3382515492[53.0835383,25.3802970] n3382516595[53.0835494,25.3801339] n3382516612[53.0836653,25.3801557] n3382516610[53.0836542,25.3803189] n3382515492[53.0835383,25.3802970]
 w331195470
-  other tags : addr:housenumber=32в | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32В | addr:street=Волгоградская улица | building=yes
     geometry : n3382515435[53.0830962,25.3859736] n3382515436[53.0831018,25.3858605] n3382515448[53.0832227,25.3858774] n3382515445[53.0832170,25.3859905] n3382515435[53.0830962,25.3859736]
 w331195471
-  other tags : addr:housenumber=32г | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32Г | addr:street=Волгоградская улица | building=yes
     geometry : n3382516599[53.0835851,25.3798571] n3382516601[53.0835962,25.3796940] n3382516617[53.0837121,25.3797158] n3382516615[53.0837010,25.3798790] n3382516599[53.0835851,25.3798571]
 w331195472
-  other tags : addr:housenumber=32д | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32Д | addr:street=Волгоградская улица | building=yes
     geometry : n3382516624[53.0840738,25.3799373] n3382516625[53.0840741,25.3797519] n3382516629[53.0842034,25.3797526] n3382516628[53.0842030,25.3799380] n3382516624[53.0840738,25.3799373]
 w331195473
-  other tags : addr:housenumber=32е | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32Е | addr:street=Волгоградская улица | building=yes
     geometry : n3382516623[53.0840373,25.3804073] n3382516622[53.0840303,25.3802357] n3382516626[53.0841612,25.3802209] n3382516627[53.0841682,25.3803924] n3382516623[53.0840373,25.3804073]
 w331195474
-  other tags : addr:housenumber=32ж | addr:street=Волгоградская улица | building=yes
+  other tags : addr:housenumber=32Ж | addr:street=Волгоградская улица | building=yes
     geometry : n3382516630[53.0842371,25.3804686] n3382516631[53.0842385,25.3802302] n3382516633[53.0843477,25.3802319] n3382516632[53.0843463,25.3804704] n3382516630[53.0842371,25.3804686]
 w331195475
   other tags : addr:housenumber=34 | addr:street=Волгоградская улица | building=yes
@@ -10745,7 +10745,7 @@ w331346392
   other tags : addr:housenumber=10 | addr:street=ул.Трудовая | building=yes
     geometry : n3384071953[53.0837292,25.3855404] n3384071955[53.0837333,25.3853203] n3384071971[53.0838537,25.3853266] n3384071969[53.0838496,25.3855467] n3384071953[53.0837292,25.3855404]
 w331346393
-  other tags : addr:housenumber=10а | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=10А | addr:street=Вольный переулок | building=yes
     geometry : n3384076804[53.0841963,25.3857062] n3384076807[53.0842062,25.3855366] n3384076828[53.0843254,25.3855558] n3384076827[53.0843155,25.3857255] n3384076804[53.0841963,25.3857062]
 w331346394
   other tags : addr:housenumber=12 | addr:street=Вольный переулок | building=yes
@@ -10766,10 +10766,10 @@ w331346399
   other tags : addr:housenumber=20 | addr:street=Вольный переулок | building=yes
     geometry : n3384076838[53.0844186,25.3840547] n3384076841[53.0844495,25.3838624] n3384076848[53.0846124,25.3839351] n3384076847[53.0845815,25.3841274] n3384076838[53.0844186,25.3840547]
 w331346400
-  other tags : addr:housenumber=2а | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=2А | addr:street=Вольный переулок | building=yes
     geometry : n3384071967[53.0838436,25.3879338] n3384071965[53.0838313,25.3877837] n3384071977[53.0839132,25.3877650] n3384071978[53.0839255,25.3879151] n3384071967[53.0838436,25.3879338]
 w331346401
-  other tags : addr:housenumber=2б | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=2Б | addr:street=Вольный переулок | building=yes
     geometry : n3384071952[53.0836626,25.3880223] n3384071951[53.0836503,25.3878722] n3384071954[53.0837322,25.3878535] n3384071957[53.0837445,25.3880036] n3384071952[53.0836626,25.3880223]
 w331346402
   other tags : addr:housenumber=3 | addr:street=Вольный переулок | building=yes
@@ -10784,7 +10784,7 @@ w331346405
   other tags : addr:housenumber=5 | addr:street=Вольный переулок | building=yes
     geometry : n3384071987[53.0841430,25.3841548] n3384071991[53.0841640,25.3840147] n3384076817[53.0842805,25.3840631] n3384076814[53.0842595,25.3842032] n3384071987[53.0841430,25.3841548]
 w331346406
-  other tags : addr:housenumber=5а | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=5А | addr:street=Вольный переулок | building=yes
     geometry : n3384076794[53.0841699,25.3839443] n3384076801[53.0841930,25.3837963] n3384076822[53.0842966,25.3838412] n3384076815[53.0842735,25.3839892] n3384076794[53.0841699,25.3839443]
 w331346407
   other tags : addr:housenumber=6 | addr:street=Вольный переулок | building=yes
@@ -10793,13 +10793,13 @@ w331346408
   other tags : addr:housenumber=6 | addr:street=ул.Трудовая | building=yes
     geometry : n3384071963[53.0837611,25.3863590] n3384071964[53.0837638,25.3862291] n3384071972[53.0838545,25.3862342] n3384071970[53.0838518,25.3863642] n3384071963[53.0837611,25.3863590]
 w331346409
-  other tags : addr:housenumber=6а | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=6А | addr:street=Вольный переулок | building=yes
     geometry : n3384076833[53.0843640,25.3869984] n3384076835[53.0843739,25.3868288] n3384076845[53.0844931,25.3868480] n3384076844[53.0844832,25.3870177] n3384076833[53.0843640,25.3869984]
 w331346410
   other tags : addr:housenumber=7 | addr:street=Вольный переулок | building=yes
     geometry : n3384071989[53.0841533,25.3830979] n3384076805[53.0842010,25.3830085] n3384076820[53.0842887,25.3831383] n3384076811[53.0842409,25.3832277] n3384071989[53.0841533,25.3830979]
 w331346411
-  other tags : addr:housenumber=7а | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=7А | addr:street=Вольный переулок | building=yes
     geometry : n3384071979[53.0839760,25.3832374] n3384071980[53.0840445,25.3831214] n3384076795[53.0841776,25.3833393] n3384071985[53.0841091,25.3834553] n3384071979[53.0839760,25.3832374]
 w331346412
   other tags : addr:housenumber=8 | addr:street=Вольный переулок | building=yes
@@ -10826,7 +10826,7 @@ w331356837
   other tags : addr:housenumber=24 | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384167423[53.0699670,25.3288066] n3384167430[53.0700324,25.3287051] n3384167439[53.0701226,25.3288661] n3384167433[53.0700572,25.3289677] n3384167423[53.0699670,25.3288066]
 w331356838
-  other tags : addr:housenumber=11a | addr:street=улица Король Анны | building=yes
+  other tags : addr:housenumber=11А | addr:street=улица Король Анны | building=yes
     geometry : n3384167407[53.0697774,25.3285491] n3384167400[53.0697192,25.3284360] n3384167410[53.0698197,25.3282928] n3384167415[53.0698779,25.3284059] n3384167407[53.0697774,25.3285491]
 w331356839
   other tags : addr:housenumber=12 | addr:street=улица Король Анны | building=yes
@@ -10853,7 +10853,7 @@ w331356846
   other tags : addr:housenumber=33 | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384167463[53.0703941,25.3289516] n3384167456[53.0703360,25.3288385] n3384167464[53.0704105,25.3287324] n3384167471[53.0704687,25.3288455] n3384167463[53.0703941,25.3289516]
 w331356847
-  other tags : addr:housenumber=14a | addr:street=улица Щорса | building=yes
+  other tags : addr:housenumber=14А | addr:street=улица Щорса | building=yes
     geometry : n3384167227[53.0668242,25.3306083] n3384167229[53.0668840,25.3307190] n3384167224[53.0667856,25.3308662] n3384167221[53.0667258,25.3307554] n3384167227[53.0668242,25.3306083]
 w331356848
   other tags : addr:housenumber=15 | addr:street=Социалистическая улица | building=yes
@@ -10889,7 +10889,7 @@ w331356858
   other tags : addr:housenumber=18 | addr:street=улица Щорса | building=yes
     geometry : n3384167204[53.0664618,25.3302234] n3384167208[53.0665303,25.3301277] n3384167211[53.0665814,25.3302291] n3384167205[53.0665129,25.3303248] n3384167204[53.0664618,25.3302234]
 w331356859
-  other tags : addr:housenumber=18a | addr:street=улица Щорса | building=yes
+  other tags : addr:housenumber=18А | addr:street=улица Щорса | building=yes
     geometry : n3384167216[53.0666374,25.3302331] n3384167219[53.0666953,25.3303466] n3384167213[53.0665945,25.3304891] n3384167209[53.0665366,25.3303756] n3384167216[53.0666374,25.3302331]
 w331356860
   other tags : addr:housenumber=19 | addr:street=улица Король Анны | building=yes
@@ -10901,7 +10901,7 @@ w331356862
   other tags : addr:housenumber=19 | addr:street=улица Щорса | building=yes
     geometry : n3384167203[53.0664613,25.3307817] n3384167207[53.0665298,25.3306860] n3384167212[53.0665882,25.3308017] n3384167206[53.0665197,25.3308975] n3384167203[53.0664613,25.3307817]
 w331356863
-  other tags : addr:housenumber=19a | addr:street=улица Щорса | building=yes
+  other tags : addr:housenumber=19А | addr:street=улица Щорса | building=yes
     geometry : n3384167210[53.0665662,25.3310095] n3384167215[53.0666347,25.3309138] n3384167220[53.0667197,25.3310824] n3384167217[53.0666512,25.3311782] n3384167210[53.0665662,25.3310095]
 w331356864
   other tags : addr:housenumber=2 | addr:street=Социалистическая улица | building=yes
@@ -10931,7 +10931,7 @@ w331356872
   other tags : addr:housenumber=22 | addr:street=Социалистическая улица | building=yes
     geometry : n3384167334[53.0684952,25.3329402] n3384167337[53.0685509,25.3330567] n3384167331[53.0684474,25.3331938] n3384167330[53.0683917,25.3330773] n3384167334[53.0684952,25.3329402]
 w331356873
-  other tags : addr:housenumber=22a | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=22А | addr:street=Социалистическая улица | building=yes
     geometry : n3384167336[53.0685487,25.3333920] n3384167333[53.0684898,25.3332798] n3384167339[53.0685895,25.3331350] n3384167342[53.0686483,25.3332472] n3384167336[53.0685487,25.3333920]
 w331356874
   other tags : addr:housenumber=23 | addr:street=Социалистическая улица | building=yes
@@ -10976,7 +10976,7 @@ w331356893
   other tags : addr:housenumber=34 | addr:street=улица Анищика | building=yes
     geometry : n3384167265[53.0673342,25.3303117] n3384167272[53.0674027,25.3302160] n3384167279[53.0674878,25.3303846] n3384167274[53.0674193,25.3304803] n3384167265[53.0673342,25.3303117]
 w331356894
-  other tags : addr:housenumber=34a | addr:street=улица Анищика | building=yes
+  other tags : addr:housenumber=34А | addr:street=улица Анищика | building=yes
     geometry : n3384167249[53.0671734,25.3295636] n3384167254[53.0672307,25.3296779] n3384167245[53.0671291,25.3298190] n3384167240[53.0670718,25.3297047] n3384167249[53.0671734,25.3295636]
 w331356895
   other tags : addr:housenumber=35 | addr:street=улица Анищика | building=yes
@@ -11012,7 +11012,7 @@ w331356905
   other tags : addr:housenumber=5 | addr:street=улица Щорса | building=yes
     geometry : n3384167306[53.0678480,25.3334067] n3384167313[53.0679165,25.3333110] n3384167320[53.0680016,25.3334796] n3384167314[53.0679331,25.3335753] n3384167306[53.0678480,25.3334067]
 w331356906
-  other tags : addr:housenumber=5a | addr:street=улица Король Анны | building=yes
+  other tags : addr:housenumber=5А | addr:street=улица Король Анны | building=yes
     geometry : n3384167475[53.0704948,25.3299290] n3384167467[53.0704367,25.3298158] n3384167480[53.0705372,25.3296727] n3384167485[53.0705953,25.3297858] n3384167475[53.0704948,25.3299290]
 w331356907
   other tags : addr:housenumber=6 | addr:street=улица Король Анны | building=yes
@@ -11039,7 +11039,7 @@ w331356914
   other tags : addr:housenumber=8 | addr:street=улица Щорса | building=yes
     geometry : n3384167302[53.0677976,25.3327273] n3384167309[53.0678862,25.3326036] n3384167315[53.0679712,25.3327722] n3384167308[53.0678827,25.3328959] n3384167302[53.0677976,25.3327273]
 w331356915
-  other tags : addr:housenumber=8a | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=8А | addr:street=Социалистическая улица | building=yes
     geometry : n3384167412[53.0698213,25.3311274] n3384167418[53.0698898,25.3310317] n3384167425[53.0699749,25.3312003] n3384167420[53.0699064,25.3312961] n3384167412[53.0698213,25.3311274]
 w331356916
   other tags : addr:housenumber=9 | addr:street=Социалистическая улица | building=yes
@@ -11048,7 +11048,7 @@ w331356917
   other tags : addr:housenumber=9 | addr:street=улица Щорса | building=yes
     geometry : n3384167275[53.0674230,25.3326039] n3384167281[53.0674915,25.3325082] n3384167288[53.0675766,25.3326768] n3384167283[53.0675080,25.3327725] n3384167275[53.0674230,25.3326039]
 w331356918
-  other tags : addr:housenumber=9a | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=9А | addr:street=Социалистическая улица | building=yes
     geometry : n3384167429[53.0699967,25.3315765] n3384167435[53.0700652,25.3314808] n3384167442[53.0701503,25.3316495] n3384167437[53.0700818,25.3317452] n3384167429[53.0699967,25.3315765]
 w331361039
   other tags : addr:housenumber=11 | addr:street=Вольный переулок | building=yes
@@ -11090,16 +11090,16 @@ w331361051
   other tags : addr:housenumber=42 | addr:street=Вольный переулок | building=yes
     geometry : n3384207121[53.0847277,25.3801739] n3384207131[53.0848301,25.3801698] n3384207132[53.0848330,25.3803692] n3384207122[53.0847306,25.3803733] n3384207121[53.0847277,25.3801739]
 w331361052
-  other tags : addr:housenumber=42a | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=42А | addr:street=Вольный переулок | building=yes
     geometry : n3384207128[53.0847826,25.3800314] n3384207127[53.0847810,25.3798610] n3384207141[53.0849008,25.3798579] n3384207142[53.0849024,25.3800283] n3384207128[53.0847826,25.3800314]
 w331361053
   other tags : addr:housenumber=44 | addr:street=Вольный переулок | building=yes
     geometry : n3384207096[53.0845105,25.3797874] n3384207109[53.0846128,25.3797936] n3384207107[53.0846084,25.3799929] n3384207095[53.0845061,25.3799867] n3384207096[53.0845105,25.3797874]
 w331361054
-  other tags : addr:housenumber=44a | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=44А | addr:street=Вольный переулок | building=yes
     geometry : n3384206989[53.0844295,25.3796112] n3384206990[53.0844393,25.3794416] n3384207102[53.0845586,25.3794608] n3384207101[53.0845487,25.3796305] n3384206989[53.0844295,25.3796112]
 w331361056
-  other tags : addr:housenumber=7б | addr:street=Вольный переулок | building=yes
+  other tags : addr:housenumber=7Б | addr:street=Вольный переулок | building=yes
     geometry : n3384206978[53.0840366,25.3825374] n3384206977[53.0839901,25.3824111] n3384206979[53.0840863,25.3823130] n3384206980[53.0841328,25.3824393] n3384206978[53.0840366,25.3825374]
 w331361057
   other tags : addr:housenumber=9 | addr:street=Вольный переулок | building=yes
@@ -11111,10 +11111,10 @@ w331362534
   other tags : addr:housenumber=12 | addr:street=улица Интернациональная | building=yes
     geometry : n3384218799[53.0686704,25.3299566] n3384218806[53.0687289,25.3300736] n3384218797[53.0686272,25.3302144] n3384218790[53.0685687,25.3300974] n3384218799[53.0686704,25.3299566]
 w331362535
-  other tags : addr:housenumber=12a | addr:street=улица Интернациональная | building=yes
+  other tags : addr:housenumber=12А | addr:street=улица Интернациональная | building=yes
     geometry : n3384218821[53.0689019,25.3304178] n3384218828[53.0689764,25.3305667] n3384218820[53.0688747,25.3307075] n3384218814[53.0688002,25.3305586] n3384218821[53.0689019,25.3304178]
 w331362538
-  other tags : addr:housenumber=14a | addr:street=улица Интернациональная | building=yes
+  other tags : addr:housenumber=14А | addr:street=улица Интернациональная | building=yes
     geometry : n3384218784[53.0685073,25.3295813] n3384218792[53.0685817,25.3297302] n3384218779[53.0684800,25.3298711] n3384218772[53.0684056,25.3297221] n3384218784[53.0685073,25.3295813]
 w331362541
   other tags : addr:housenumber=18 | addr:street=улица Анищика | building=yes
@@ -11123,7 +11123,7 @@ w331362544
   other tags : addr:housenumber=18 | addr:street=улица Интернациональная | building=yes
     geometry : n3384218734[53.0677584,25.3280992] n3384218737[53.0678329,25.3282482] n3384218732[53.0677312,25.3283890] n3384218730[53.0676567,25.3282400] n3384218734[53.0677584,25.3280992]
 w331362545
-  other tags : addr:housenumber=18a | addr:street=улица Интернациональная | building=yes
+  other tags : addr:housenumber=18А | addr:street=улица Интернациональная | building=yes
     geometry : n3384218745[53.0680181,25.3275210] n3384218750[53.0680766,25.3276380] n3384218742[53.0679749,25.3277788] n3384218739[53.0679164,25.3276618] n3384218745[53.0680181,25.3275210]
 w331362547
   other tags : addr:housenumber=20 | addr:street=улица Анищика | building=yes
@@ -11153,7 +11153,7 @@ w331362569
   other tags : addr:housenumber=26 | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218883[53.0698927,25.3292050] n3384218880[53.0698345,25.3290919] n3384218885[53.0699090,25.3289857] n3384218888[53.0699672,25.3290989] n3384218883[53.0698927,25.3292050]
 w331362571
-  other tags : addr:housenumber=26a | addr:street=улица Юрия Ковалевского | building=yes
+  other tags : addr:housenumber=26А | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218867[53.0695756,25.3288513] n3384218862[53.0695175,25.3287382] n3384218869[53.0695920,25.3286321] n3384218873[53.0696501,25.3287452] n3384218867[53.0695756,25.3288513]
 w331362574
   other tags : addr:housenumber=27 | addr:street=улица Анищика | building=yes
@@ -11162,7 +11162,7 @@ w331362577
   other tags : addr:housenumber=28 | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218875[53.0696971,25.3294688] n3384218872[53.0696389,25.3293557] n3384218876[53.0697134,25.3292496] n3384218878[53.0697716,25.3293627] n3384218875[53.0696971,25.3294688]
 w331362579
-  other tags : addr:housenumber=28a | addr:street=улица Юрия Ковалевского | building=yes
+  other tags : addr:housenumber=28А | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218858[53.0694609,25.3290646] n3384218855[53.0694028,25.3289515] n3384218860[53.0694773,25.3288454] n3384218864[53.0695355,25.3289585] n3384218858[53.0694609,25.3290646]
 w331362581
   other tags : addr:housenumber=29 | addr:street=улица Анищика | building=yes
@@ -11192,7 +11192,7 @@ w331362597
   other tags : addr:housenumber=39 | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218879[53.0698252,25.3299011] n3384218877[53.0697671,25.3297880] n3384218881[53.0698416,25.3296819] n3384218884[53.0698998,25.3297950] n3384218879[53.0698252,25.3299011]
 w331362600
-  other tags : addr:housenumber=39a | addr:street=улица Юрия Ковалевского | building=yes
+  other tags : addr:housenumber=39А | addr:street=улица Юрия Ковалевского | building=yes
     geometry : n3384218886[53.0699467,25.3302267] n3384218882[53.0698885,25.3301136] n3384218887[53.0699630,25.3300075] n3384218891[53.0700212,25.3301206] n3384218886[53.0699467,25.3302267]
 w331362602
   other tags : addr:housenumber=40 | addr:street=улица Юрия Ковалевского | building=yes
@@ -11234,7 +11234,7 @@ w331362614
   other tags : addr:housenumber=8 | addr:street=улица Интернациональная | building=yes
     geometry : n3384218848[53.0692843,25.3310793] n3384218851[53.0693428,25.3311964] n3384218846[53.0692411,25.3313372] n3384218842[53.0691826,25.3312202] n3384218848[53.0692843,25.3310793]
 w331362615
-  other tags : addr:housenumber=8a | addr:street=улица Интернациональная | building=yes
+  other tags : addr:housenumber=8А | addr:street=улица Интернациональная | building=yes
     geometry : n3384218844[53.0692135,25.3308379] n3384218847[53.0692720,25.3309550] n3384218840[53.0691703,25.3310958] n3384218837[53.0691118,25.3309788] n3384218844[53.0692135,25.3308379]
 w331372956
   other tags : addr:housenumber=12 | addr:street=улица Виноградова | building=yes
@@ -11246,7 +11246,7 @@ w331372958
   other tags : addr:housenumber=8 | addr:street=улица Виноградова | building=yes
     geometry : n3384329436[53.0659284,25.3294604] n3384329437[53.0659387,25.3296323] n3384329435[53.0657937,25.3296563] n3384329434[53.0657834,25.3294844] n3384329436[53.0659284,25.3294604]
 w331490800
-  other tags : addr:housenumber=1K | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=1 | addr:street=Приречный переулок | building=yes
     geometry : n3385680115[53.0724972,25.3312825] n3385680114[53.0724266,25.3311581] n3385680116[53.0725071,25.3310316] n3385680118[53.0725777,25.3311560] n3385680115[53.0724972,25.3312825]
 w331490801
   other tags : addr:housenumber=1Л | addr:street=Приречный переулок | building=yes
@@ -11255,7 +11255,7 @@ w331490803
   other tags : addr:housenumber=КН | addr:street=Приречный переулок | building=yes
     geometry : n3385680123[53.0729196,25.3316162] n3385680122[53.0728459,25.3314966] n3385680124[53.0730002,25.3312541] n3385680125[53.0730708,25.3313785] n3385680123[53.0729196,25.3316162]
 w331516396
-  other tags : addr:housenumber=1г | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=1Г | addr:street=Приречный переулок | building=yes
     geometry : n3385880285[53.0712653,25.3333251] n3385880284[53.0711992,25.3331940] n3385880286[53.0714084,25.3329021] n3385880287[53.0714745,25.3330332] n3385880285[53.0712653,25.3333251]
 w331516397
   other tags : addr:housenumber=1Ж | addr:street=Приречный переулок | building=yes
@@ -11267,31 +11267,31 @@ w331516399
   other tags : addr:housenumber=1И | addr:street=Приречный переулок | building=yes
     geometry : n3385883597[53.0723572,25.3315528] n3385883596[53.0722866,25.3314284] n3385883598[53.0723671,25.3313019] n3385883599[53.0724377,25.3314263] n3385883597[53.0723572,25.3315528]
 w331964054
-  other tags : addr:housenumber=2а | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2А | addr:street=ул.Боровая | building=yes
     geometry : n3390665975[53.0814716,25.3718964] n3390665976[53.0815030,25.3716774] n3390665979[53.0815952,25.3717140] n3390665978[53.0815638,25.3719330] n3390665975[53.0814716,25.3718964]
 w331964055
-  other tags : addr:housenumber=2б | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Б | addr:street=ул.Боровая | building=yes
     geometry : n3390665983[53.0817410,25.3705229] n3390665984[53.0817933,25.3703928] n3390665986[53.0818896,25.3705002] n3390665985[53.0818373,25.3706302] n3390665983[53.0817410,25.3705229]
 w331964056
-  other tags : addr:housenumber=2б | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Б | addr:street=ул.Боровая | building=yes
     geometry : n3390665977[53.0815521,25.3713465] n3390665980[53.0816096,25.3711180] n3390665982[53.0817173,25.3711932] n3390665981[53.0816598,25.3714216] n3390665977[53.0815521,25.3713465]
 w331964057
-  other tags : addr:housenumber=2в | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2В | addr:street=ул.Боровая | building=yes
     geometry : n3390665987[53.0819651,25.3702297] n3390665989[53.0820577,25.3700638] n3390665990[53.0821254,25.3701685] n3390665988[53.0820328,25.3703345] n3390665987[53.0819651,25.3702297]
 w331964058
-  other tags : addr:housenumber=2г | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Г | addr:street=ул.Боровая | building=yes
     geometry : n3390665991[53.0821866,25.3697586] n3390674293[53.0822866,25.3695685] n3390674294[53.0823821,25.3697079] n3390665992[53.0822821,25.3698979] n3390665991[53.0821866,25.3697586]
 w331964059
-  other tags : addr:housenumber=2д | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Д | addr:street=ул.Боровая | building=yes
     geometry : n3390674295[53.0824080,25.3694691] n3390674297[53.0824793,25.3693554] n3390674299[53.0825466,25.3694723] n3390674296[53.0824754,25.3695860] n3390674295[53.0824080,25.3694691]
 w331964060
-  other tags : addr:housenumber=2е | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Е | addr:street=ул.Боровая | building=yes
     geometry : n3390674298[53.0825296,25.3692375] n3390674301[53.0826071,25.3691074] n3390674302[53.0826770,25.3692228] n3390674300[53.0825995,25.3693529] n3390674298[53.0825296,25.3692375]
 w331964061
-  other tags : addr:housenumber=2ж | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2Ж | addr:street=ул.Боровая | building=yes
     geometry : n3390674303[53.0826794,25.3689265] n3390674304[53.0827524,25.3688039] n3390674307[53.0828391,25.3689471] n3390674305[53.0827660,25.3690697] n3390674303[53.0826794,25.3689265]
 w331964062
-  other tags : addr:housenumber=2з | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=2З | addr:street=ул.Боровая | building=yes
     geometry : n3390674306[53.0828124,25.3686698] n3390674308[53.0828854,25.3685472] n3390674310[53.0829721,25.3686904] n3390674309[53.0828991,25.3688130] n3390674306[53.0828124,25.3686698]
 w331964063
   other tags : addr:housenumber=4 | addr:street=ул.Боровая | building=yes
@@ -11627,7 +11627,7 @@ w331969606
   other tags : addr:housenumber=38 | addr:street=ул.Боровая | building=yes
     geometry : n3390730754[53.0805177,25.3768278] n3390730755[53.0805535,25.3766131] n3390730781[53.0808264,25.3767392] n3390730775[53.0807906,25.3769538] n3390730754[53.0805177,25.3768278]
 w331969607
-  other tags : addr:housenumber=39а | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=39А | addr:street=ул.Боровая | building=yes
     geometry : n3390730761[53.0806888,25.3789640] n3390730760[53.0806881,25.3787730] n3390730771[53.0807954,25.3787720] n3390730772[53.0807960,25.3789630] n3390730761[53.0806888,25.3789640]
 w331969608
   other tags : addr:housenumber=40 | addr:street=ул.Боровая | building=yes
@@ -11657,7 +11657,7 @@ w331986074
   other tags : addr:housenumber=4 | addr:street=пер.Боровой | building=yes
     geometry : n3390898912[53.0803672,25.3807170] n3390898913[53.0803684,25.3805909] n3390898923[53.0804525,25.3805932] n3390898922[53.0804513,25.3807193] n3390898912[53.0803672,25.3807170]
 w331986075
-  other tags : addr:housenumber=1а | addr:street=пер.Боровой | building=yes
+  other tags : addr:housenumber=1А | addr:street=пер.Боровой | building=yes
     geometry : n3390893489[53.0801388,25.3801848] n3390893488[53.0801382,25.3799938] n3390898900[53.0802454,25.3799928] n3390898901[53.0802461,25.3801838] n3390893489[53.0801388,25.3801848]
 w331986076
   other tags : addr:housenumber=2 | addr:street=пер.Боровой | building=yes
@@ -11687,7 +11687,7 @@ w331986084
   other tags : addr:housenumber=54 | addr:street=ул.Боровая | building=yes
     geometry : n3390898946[53.0806822,25.3800288] n3390898949[53.0806835,25.3798764] n3390898965[53.0807713,25.3798786] n3390898964[53.0807699,25.3800309] n3390898946[53.0806822,25.3800288]
 w331986085
-  other tags : addr:housenumber=54а | addr:street=ул.Боровая | building=yes
+  other tags : addr:housenumber=54А | addr:street=ул.Боровая | building=yes
     geometry : n3390898945[53.0806520,25.3803992] n3390898944[53.0806514,25.3802081] n3390898962[53.0807586,25.3802071] n3390898963[53.0807593,25.3803981] n3390898945[53.0806520,25.3803992]
 w331986086
   other tags : addr:housenumber=56 | addr:street=ул.Боровая | building=yes
@@ -11834,13 +11834,13 @@ w331986389
   other tags : addr:housenumber=293 | addr:street=Красноармейская улица | building=yes
     geometry : n3390901897[53.0580330,25.3550774] n3390901896[53.0579409,25.3551737] n3390901894[53.0578227,25.3548606] n3390901895[53.0579148,25.3547643] n3390901897[53.0580330,25.3550774]
 w331986390
-  other tags : addr:housenumber=293a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=293А | addr:street=Красноармейская улица | building=yes
     geometry : n3390901900[53.0583423,25.3545477] n3390901901[53.0583884,25.3547117] n3390901899[53.0582811,25.3547952] n3390901898[53.0582350,25.3546312] n3390901900[53.0583423,25.3545477]
 w331986391
-  other tags : addr:housenumber=293б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=293Б | addr:street=Красноармейская улица | building=yes
     geometry : n3390901892[53.0577631,25.3552564] n3390901893[53.0578037,25.3553602] n3390901890[53.0576529,25.3555231] n3390901888[53.0576123,25.3554193] n3390901892[53.0577631,25.3552564]
 w331986392
-  other tags : addr:housenumber=293в | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=293В | addr:street=Красноармейская улица | building=yes
     geometry : n3390901889[53.0576452,25.3549660] n3390901891[53.0576813,25.3550743] n3390901885[53.0575241,25.3552193] n3390901884[53.0574880,25.3551110] n3390901889[53.0576452,25.3549660]
 w331986393
   other tags : addr:housenumber=294 | addr:street=Красноармейская улица | building=yes
@@ -11876,7 +11876,7 @@ w331986403
   other tags : addr:housenumber=304 | addr:street=Красноармейская улица | building=yes
     geometry : n3390901147[53.0507530,25.3553465] n3390901148[53.0508220,25.3555329] n3390901146[53.0507212,25.3556363] n3390901144[53.0506521,25.3554499] n3390901147[53.0507530,25.3553465]
 w331986404
-  other tags : addr:housenumber=305в | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=305В | addr:street=Красноармейская улица | building=yes
     geometry : n3390901764[53.0555016,25.3531995] n3390901771[53.0555484,25.3533207] n3390901759[53.0554488,25.3534273] n3390901755[53.0554020,25.3533061] n3390901764[53.0555016,25.3531995]
 w331986405
   other tags : addr:housenumber=306 | addr:street=Красноармейская улица | building=yes
@@ -11888,7 +11888,7 @@ w331986407
   other tags : addr:housenumber=307/1 | addr:street=Красноармейская улица | building=yes
     geometry : n3390901783[53.0556837,25.3540761] n3390901793[53.0557571,25.3539997] n3390901801[53.0558199,25.3541668] n3390901791[53.0557465,25.3542432] n3390901783[53.0556837,25.3540761]
 w331986408
-  other tags : addr:housenumber=307a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=307А | addr:street=Красноармейская улица | building=yes
     geometry : n3390901800[53.0558139,25.3544184] n3390901807[53.0558850,25.3543362] n3390901812[53.0559527,25.3544980] n3390901805[53.0558816,25.3545802] n3390901800[53.0558139,25.3544184]
 w331986409
   other tags : addr:housenumber=309 | addr:street=Красноармейская улица | building=yes
@@ -11903,13 +11903,13 @@ w331986412
   other tags : addr:housenumber=315 | addr:street=Красноармейская улица | building=yes
     geometry : n3390901708[53.0550253,25.3526530] n3390901725[53.0551339,25.3525273] n3390901734[53.0552140,25.3527190] n3390901720[53.0551054,25.3528447] n3390901708[53.0550253,25.3526530]
 w331986413
-  other tags : addr:housenumber=315a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=315А | addr:street=Красноармейская улица | building=yes
     geometry : n3390901722[53.0551215,25.3541398] n3390901728[53.0551743,25.3542982] n3390901715[53.0550707,25.3543937] n3390901707[53.0550179,25.3542353] n3390901722[53.0551215,25.3541398]
 w331986414
   other tags : addr:housenumber=317 | addr:street=Красноармейская улица | building=yes
     geometry : n3390901735[53.0552240,25.3544827] n3390901740[53.0552768,25.3546411] n3390901727[53.0551732,25.3547367] n3390901721[53.0551204,25.3545783] n3390901735[53.0552240,25.3544827]
 w331986415
-  other tags : addr:housenumber=317a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=317А | addr:street=Красноармейская улица | building=yes
     geometry : n3390901670[53.0547007,25.3525560] n3390901681[53.0547873,25.3525495] n3390901685[53.0548148,25.3535764] n3390901674[53.0547283,25.3535829] n3390901670[53.0547007,25.3525560]
 w331986416
   other tags : addr:housenumber=319 | addr:street=Красноармейская улица | building=yes
@@ -11987,13 +11987,13 @@ w331988079
   other tags : addr:housenumber=101 | addr:street=ул.Войкова | building=yes
     geometry : n3390921144[53.0788112,25.3797972] n3390921145[53.0787818,25.3795995] n3390921153[53.0788813,25.3795585] n3390921152[53.0789107,25.3797562] n3390921144[53.0788112,25.3797972]
 w331988080
-  other tags : addr:housenumber=101а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=101А | addr:street=ул.Войкова | building=yes
     geometry : n3390921140[53.0787339,25.3793766] n3390921141[53.0787059,25.3791868] n3390921147[53.0788330,25.3791348] n3390921146[53.0788610,25.3793246] n3390921140[53.0787339,25.3793766]
 w331988081
-  other tags : addr:housenumber=101б | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=101Б | addr:street=ул.Войкова | building=yes
     geometry : n3390921136[53.0786375,25.3787581] n3390921137[53.0786400,25.3785225] n3390921143[53.0787574,25.3785259] n3390921142[53.0787549,25.3787616] n3390921136[53.0786375,25.3787581]
 w331988082
-  other tags : addr:housenumber=101в | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=101В | addr:street=ул.Войкова | building=yes
     geometry : n3390921134[53.0786047,25.3781857] n3390921135[53.0786063,25.3778271] n3390921139[53.0787296,25.3778287] n3390921138[53.0787279,25.3781873] n3390921134[53.0786047,25.3781857]
 w331988083
   other tags : addr:housenumber=103 | addr:street=ул.Войкова | building=yes
@@ -12020,7 +12020,7 @@ w332099344
   other tags : addr:housenumber=20 | addr:street=пер.Леошени | building=yes
     geometry : n3392178549[53.0795724,25.3787932] n3392178550[53.0795811,25.3785543] n3392178576[53.0797043,25.3785667] n3392178571[53.0796956,25.3788057] n3392178549[53.0795724,25.3787932]
 w332099345
-  other tags : addr:housenumber=52а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=52А | addr:street=ул.Войкова | building=yes
     geometry : n3392178624[53.0800429,25.3832332] n3392178623[53.0800425,25.3830827] n3392178633[53.0801351,25.3830821] n3392178634[53.0801355,25.3832326] n3392178624[53.0800429,25.3832332]
 w332099346
   other tags : addr:housenumber=54 | addr:street=ул.Войкова | building=yes
@@ -12056,7 +12056,7 @@ w332099356
   other tags : addr:housenumber=75 | addr:street=ул.Войкова | building=yes
     geometry : n3392178578[53.0797589,25.3828540] n3392178577[53.0797573,25.3826803] n3392178591[53.0798201,25.3826788] n3392178592[53.0798216,25.3828525] n3392178578[53.0797589,25.3828540]
 w332099357
-  other tags : addr:housenumber=75а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=75А | addr:street=ул.Войкова | building=yes
     geometry : n3392178568[53.0796804,25.3825908] n3392178569[53.0796841,25.3824315] n3392178588[53.0798014,25.3824389] n3392178586[53.0797977,25.3825983] n3392178568[53.0796804,25.3825908]
 w332099358
   other tags : addr:housenumber=76 | addr:street=ул.Войкова | building=yes
@@ -12065,7 +12065,7 @@ w332099359
   other tags : addr:housenumber=77 | addr:street=ул.Войкова | building=yes
     geometry : n3392178567[53.0796771,25.3823469] n3392178565[53.0796674,25.3821082] n3392178580[53.0797688,25.3820967] n3392178584[53.0797786,25.3823354] n3392178567[53.0796771,25.3823469]
 w332099360
-  other tags : addr:housenumber=77а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=77А | addr:street=ул.Войкова | building=yes
     geometry : n3392178500[53.0792377,25.3823244] n3392178499[53.0792280,25.3821866] n3392178523[53.0793636,25.3821603] n3392178525[53.0793732,25.3822981] n3392178500[53.0792377,25.3823244]
 w332099361
   other tags : addr:housenumber=78 | addr:street=ул.Войкова | building=yes
@@ -12074,7 +12074,7 @@ w332099362
   other tags : addr:housenumber=79 | addr:street=ул.Войкова | building=yes
     geometry : n3392178172[53.0790309,25.3823436] n3392178171[53.0790275,25.3821956] n3392178186[53.0791463,25.3821881] n3392178187[53.0791496,25.3823362] n3392178172[53.0790309,25.3823436]
 w332099363
-  other tags : addr:housenumber=79а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=79А | addr:street=ул.Войкова | building=yes
     geometry : n3392178170[53.0790081,25.3828103] n3392178169[53.0790048,25.3826623] n3392178179[53.0791236,25.3826548] n3392178181[53.0791269,25.3828029] n3392178170[53.0790081,25.3828103]
 w332099364
   other tags : addr:housenumber=80 | addr:street=ул.Войкова | building=yes
@@ -12083,7 +12083,7 @@ w332099365
   other tags : addr:housenumber=81 | addr:street=ул.Войкова | building=yes
     geometry : n3392178557[53.0796045,25.3819634] n3392178559[53.0796058,25.3818217] n3392178575[53.0797036,25.3818242] n3392178574[53.0797023,25.3819659] n3392178557[53.0796045,25.3819634]
 w332099366
-  other tags : addr:housenumber=81а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=81А | addr:street=ул.Войкова | building=yes
     geometry : n3392178175[53.0790535,25.3820607] n3392178176[53.0790573,25.3818666] n3392178183[53.0791378,25.3818709] n3392178182[53.0791340,25.3820650] n3392178175[53.0790535,25.3820607]
 w332099367
   other tags : addr:housenumber=82 | addr:street=ул.Войкова | building=yes
@@ -12095,7 +12095,7 @@ w332099369
   other tags : addr:housenumber=85 | addr:street=ул.Войкова | building=yes
     geometry : n3392178528[53.0794176,25.3813590] n3392178527[53.0794009,25.3812076] n3392178542[53.0795159,25.3811724] n3392178545[53.0795326,25.3813239] n3392178528[53.0794176,25.3813590]
 w332099370
-  other tags : addr:housenumber=85а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=85А | addr:street=ул.Войкова | building=yes
     geometry : n3392178178[53.0790662,25.3812111] n3392178177[53.0790629,25.3810630] n3392178493[53.0791816,25.3810556] n3392178494[53.0791850,25.3812036] n3392178178[53.0790662,25.3812111]
 w332099371
   other tags : addr:housenumber=86 | addr:street=ул.Войкова | building=yes
@@ -12104,7 +12104,7 @@ w332099372
   other tags : addr:housenumber=87 | addr:street=ул.Войкова | building=yes
     geometry : n3392178532[53.0794399,25.3807573] n3392178529[53.0794177,25.3805737] n3392178541[53.0794957,25.3805476] n3392178543[53.0795179,25.3807312] n3392178532[53.0794399,25.3807573]
 w332099373
-  other tags : addr:housenumber=87б | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=87Б | addr:street=ул.Войкова | building=yes
     geometry : n3392178168[53.0789304,25.3808860] n3392178167[53.0789251,25.3806731] n3392178173[53.0790279,25.3806660] n3392178174[53.0790332,25.3808789] n3392178168[53.0789304,25.3808860]
 w332099374
   other tags : addr:housenumber=88 | addr:street=ул.Войкова | building=yes
@@ -12131,13 +12131,13 @@ w332099381
   other tags : addr:housenumber=99 | addr:street=ул.Войкова | building=yes
     geometry : n3392178184[53.0791413,25.3788560] n3392178180[53.0791256,25.3786879] n3392178501[53.0792447,25.3786570] n3392178505[53.0792604,25.3788250] n3392178184[53.0791413,25.3788560]
 w332099382
-  other tags : addr:housenumber=99а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=99А | addr:street=ул.Войкова | building=yes
     geometry : n3392178188[53.0791649,25.3785725] n3392178189[53.0791674,25.3783369] n3392178510[53.0792848,25.3783403] n3392178509[53.0792823,25.3785760] n3392178188[53.0791649,25.3785725]
 w332099383
-  other tags : addr:housenumber=99б | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=99Б | addr:street=ул.Войкова | building=yes
     geometry : n3392178191[53.0791755,25.3782666] n3392178192[53.0791780,25.3780310] n3392178513[53.0792954,25.3780344] n3392178512[53.0792929,25.3782701] n3392178191[53.0791755,25.3782666]
 w332099384
-  other tags : addr:housenumber=99в | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=99В | addr:street=ул.Войкова | building=yes
     geometry : n3392178495[53.0791867,25.3779670] n3392178496[53.0791879,25.3777314] n3392178504[53.0792603,25.3777325] n3392178503[53.0792598,25.3778185] n3392178516[53.0793049,25.3778191] n3392178515[53.0793044,25.3778986] n3392178507[53.0792626,25.3778979] n3392178506[53.0792622,25.3779682] n3392178495[53.0791867,25.3779670]
 w332105567
   other tags : addr:housenumber=11 | addr:street=Весенняя улица | building=yes
@@ -12167,13 +12167,13 @@ w332105575
   other tags : addr:housenumber=218 | addr:street=Красноармейская улица | building=yes
     geometry : n3392229232[53.0600504,25.3456428] n3392229237[53.0601109,25.3455779] n3392229239[53.0601623,25.3457105] n3392229235[53.0601019,25.3457755] n3392229232[53.0600504,25.3456428]
 w332105576
-  other tags : addr:housenumber=218a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=218А | addr:street=Красноармейская улица | building=yes
     geometry : n3392229222[53.0598772,25.3453818] n3392229225[53.0599425,25.3452871] n3392229231[53.0600203,25.3454356] n3392229226[53.0599552,25.3455302] n3392229222[53.0598772,25.3453818]
 w332105577
   other tags : addr:housenumber=220 | addr:street=Красноармейская улица | building=yes
     geometry : n3392229219[53.0597650,25.3456916] n3392229221[53.0598262,25.3457935] n3392229218[53.0597425,25.3459328] n3392229213[53.0596813,25.3458311] n3392229219[53.0597650,25.3456916]
 w332105578
-  other tags : addr:housenumber=220a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=220А | addr:street=Красноармейская улица | building=yes
     geometry : n3392229199[53.0594653,25.3458281] n3392229203[53.0595261,25.3457255] n3392229207[53.0596105,25.3458637] n3392229204[53.0595498,25.3459663] n3392229199[53.0594653,25.3458281]
 w332105579
   other tags : addr:housenumber=222 | addr:street=Красноармейская улица | building=yes
@@ -12194,7 +12194,7 @@ w332105584
   other tags : addr:housenumber=230 | addr:street=Красноармейская улица | building=yes
     geometry : n3392229168[53.0587844,25.3469882] n3392229171[53.0588460,25.3469193] n3392229175[53.0589121,25.3470828] n3392229172[53.0588506,25.3471517] n3392229168[53.0587844,25.3469882]
 w332105585
-  other tags : addr:housenumber=230a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=230А | addr:street=Красноармейская улица | building=yes
     geometry : n3392229150[53.0584916,25.3470875] n3392229156[53.0585568,25.3469926] n3392229162[53.0586348,25.3471409] n3392229158[53.0585697,25.3472357] n3392229150[53.0584916,25.3470875]
 w332105586
   other tags : addr:housenumber=232 | addr:street=Красноармейская улица | building=yes
@@ -12233,7 +12233,7 @@ w332105597
   other tags : addr:housenumber=249 | addr:street=Красноармейская улица | building=yes
     geometry : n3392229293[53.0610757,25.3455675] n3392229297[53.0611255,25.3456854] n3392229291[53.0610286,25.3457987] n3392229287[53.0609788,25.3456810] n3392229293[53.0610757,25.3455675]
 w332105598
-  other tags : addr:housenumber=249a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=249А | addr:street=Красноармейская улица | building=yes
     geometry : n3392229292[53.0610545,25.3458976] n3392229298[53.0611272,25.3458195] n3392229301[53.0611915,25.3459850] n3392229296[53.0611188,25.3460631] n3392229292[53.0610545,25.3458976]
 w332105599
   other tags : addr:housenumber=25 | addr:street=Весенняя улица | building=yes
@@ -12251,7 +12251,7 @@ w332105603
   other tags : addr:housenumber=257 | addr:street=Красноармейская улица | building=yes
     geometry : n3392229245[53.0602193,25.3465284] n3392229250[53.0602785,25.3466336] n3392229242[53.0601920,25.3467683] n3392229238[53.0601329,25.3466633] n3392229245[53.0602193,25.3465284]
 w332105604
-  other tags : addr:housenumber=257a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=257А | addr:street=Красноармейская улица | building=yes
     geometry : n3392229244[53.0602100,25.3463672] n3392229249[53.0602646,25.3462554] n3392229258[53.0603742,25.3464037] n3392229252[53.0603197,25.3465154] n3392229244[53.0602100,25.3463672]
 w332105605
   other tags : addr:housenumber=259 | addr:street=Красноармейская улица | building=yes
@@ -12374,31 +12374,31 @@ w332242223
   other tags : addr:housenumber=186 | addr:street=Красноармейская улица | building=yes
     geometry : n3393529836[53.0637093,25.3416273] n3393529837[53.0637708,25.3417286] n3393529834[53.0636875,25.3418686] n3393529832[53.0636260,25.3417675] n3393529836[53.0637093,25.3416273]
 w332242224
-  other tags : addr:housenumber=186a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=186А | addr:street=Красноармейская улица | building=yes
     geometry : n3393529823[53.0634400,25.3410336] n3393529827[53.0635045,25.3411517] n3393529822[53.0634256,25.3412709] n3393529817[53.0633611,25.3411530] n3393529823[53.0634400,25.3410336]
 w332242225
-  other tags : addr:housenumber=186б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=186Б | addr:street=Красноармейская улица | building=yes
     geometry : n3393529818[53.0633874,25.3409604] n3393529815[53.0633249,25.3410599] n3393529808[53.0632115,25.3408623] n3393529813[53.0632739,25.3407628] n3393529818[53.0633874,25.3409604]
 w332242226
   other tags : addr:housenumber=188 | addr:street=Красноармейская улица | building=yes
     geometry : n3393529829[53.0635491,25.3420375] n3393529825[53.0634793,25.3421226] n3393529819[53.0634094,25.3419636] n3393529824[53.0634791,25.3418785] n3393529829[53.0635491,25.3420375]
 w332242227
-  other tags : addr:housenumber=188а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=188А | addr:street=Красноармейская улица | building=yes
     geometry : n3393529806[53.0631756,25.3413577] n3393529811[53.0632478,25.3414737] n3393529804[53.0631655,25.3416154] n3393529801[53.0630933,25.3414996] n3393529806[53.0631756,25.3413577]
 w332242228
   other tags : addr:housenumber=190/1 | addr:street=Красноармейская улица | building=yes
     geometry : n3393529805[53.0631657,25.3422918] n3393529809[53.0632253,25.3424451] n3393529802[53.0631259,25.3425522] n3393529799[53.0630662,25.3423991] n3393529805[53.0631657,25.3422918]
 w332242229
-  other tags : addr:housenumber=190a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=190А | addr:street=Красноармейская улица | building=yes
     geometry : n3393529784[53.0627659,25.3415944] n3393529786[53.0628081,25.3417166] n3393529781[53.0627201,25.3418007] n3393529778[53.0626779,25.3416787] n3393529784[53.0627659,25.3415944]
 w332242230
-  other tags : addr:housenumber=190б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=190Б | addr:street=Красноармейская улица | building=yes
     geometry : n3393529796[53.0629835,25.3412027] n3393529797[53.0630398,25.3413121] n3393529794[53.0629498,25.3414402] n3393529791[53.0628935,25.3413310] n3393529796[53.0629835,25.3412027]
 w332242231
   other tags : addr:housenumber=192 | addr:street=Красноармейская улица | building=yes
     geometry : n3393529790[53.0628636,25.3424616] n3393529793[53.0629343,25.3426284] n3393529787[53.0628348,25.3427451] n3393529783[53.0627641,25.3425784] n3393529790[53.0628636,25.3424616]
 w332242232
-  other tags : addr:housenumber=192a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=192А | addr:street=Красноармейская улица | building=yes
     geometry : n3393529779[53.0626823,25.3420777] n3393529782[53.0627395,25.3421857] n3393529777[53.0626740,25.3422820] n3393529773[53.0626167,25.3421741] n3393529779[53.0626823,25.3420777]
 w332242233
   other tags : addr:housenumber=194 | addr:street=Красноармейская улица | building=yes
@@ -12428,7 +12428,7 @@ w332242241
   other tags : addr:housenumber=210 | addr:street=Красноармейская улица | building=yes
     geometry : n3393529731[53.0609917,25.3446560] n3393529732[53.0610435,25.3447714] n3393529730[53.0609486,25.3448893] n3393529729[53.0608968,25.3447741] n3393529731[53.0609917,25.3446560]
 w332242242
-  other tags : addr:housenumber=212a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=212А | addr:street=Красноармейская улица | building=yes
     geometry : n3393529728[53.0607127,25.3451701] n3393529726[53.0606424,25.3452539] n3393529725[53.0605734,25.3450937] n3393529727[53.0606437,25.3450098] n3393529728[53.0607127,25.3451701]
 w332242243
   other tags : addr:housenumber=223 | addr:street=Красноармейская улица | building=yes
@@ -12461,7 +12461,7 @@ w332242252
   other tags : addr:housenumber=263 | addr:street=Красноармейская улица | building=yes
     geometry : n3393528268[53.0591869,25.3479565] n3393528274[53.0592776,25.3478395] n3393528277[53.0593068,25.3479023] n3393528273[53.0592762,25.3479418] n3393528280[53.0593488,25.3480977] n3393528276[53.0592888,25.3481751] n3393528268[53.0591869,25.3479565]
 w332242253
-  other tags : addr:housenumber=263a | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=263А | addr:street=Красноармейская улица | building=yes
     geometry : n3393528283[53.0594118,25.3479211] n3393528290[53.0594956,25.3477950] n3393529694[53.0595750,25.3479412] n3393528289[53.0594913,25.3480672] n3393528283[53.0594118,25.3479211]
 w332242254
   other tags : addr:housenumber=45 | addr:street=Приречная улица | building=yes
@@ -12482,7 +12482,7 @@ w332242259
   other tags : addr:housenumber=50 | addr:street=Приречная улица | building=yes
     geometry : n3393529703[53.0597673,25.3485356] n3393529701[53.0597073,25.3484340] n3393529705[53.0597919,25.3482960] n3393529707[53.0598518,25.3483974] n3393529703[53.0597673,25.3485356]
 w332242260
-  other tags : addr:housenumber=50a | addr:street=Приречная улица | building=yes
+  other tags : addr:housenumber=50А | addr:street=Приречная улица | building=yes
     geometry : n3393529696[53.0595850,25.3487452] n3393529693[53.0595365,25.3486273] n3393529698[53.0596342,25.3485160] n3393529700[53.0596827,25.3486337] n3393529696[53.0595850,25.3487452]
 w332242261
   other tags : addr:housenumber=51 | addr:street=Приречная улица | building=yes
@@ -12542,7 +12542,7 @@ w332257212
   other tags : addr:housenumber=27 | addr:street=Приречная улица | building=yes
     geometry : n3393684098[53.0618203,25.3461996] n3393684101[53.0618672,25.3461316] n3393684106[53.0619284,25.3462485] n3393684102[53.0618816,25.3463165] n3393684098[53.0618203,25.3461996]
 w332257213
-  other tags : addr:housenumber=27a | addr:street=1-я Приречная улица | building=yes
+  other tags : addr:housenumber=27А | addr:street=1-я Приречная улица | building=yes
     geometry : n3393684119[53.0620676,25.3469421] n3393684111[53.0619790,25.3468045] n3393684117[53.0620598,25.3466605] n3393684127[53.0621484,25.3467979] n3393684119[53.0620676,25.3469421]
 w332257214
   other tags : addr:housenumber=28 | addr:street=Приречная улица | building=yes
@@ -12560,7 +12560,7 @@ w332257218
   other tags : addr:housenumber=31 | addr:street=Приречная улица | building=yes
     geometry : n3393684069[53.0614489,25.3468359] n3393684065[53.0614012,25.3467227] n3393684072[53.0614982,25.3466096] n3393684075[53.0615459,25.3467226] n3393684069[53.0614489,25.3468359]
 w332257219
-  other tags : addr:housenumber=31б | addr:street=1-я Приречная улица | building=yes
+  other tags : addr:housenumber=31Б | addr:street=1-я Приречная улица | building=yes
     geometry : n3393684074[53.0615267,25.3476024] n3393684070[53.0614578,25.3474365] n3393684076[53.0615553,25.3473246] n3393684083[53.0616241,25.3474903] n3393684074[53.0615267,25.3476024]
 w332257220
   other tags : addr:housenumber=32 | addr:street=Приречная улица | building=yes
@@ -12683,10 +12683,10 @@ w332262617
   other tags : addr:housenumber=19 | addr:street=1-я Приречная улица | building=yes
     geometry : n3393781335[53.0634503,25.3458152] n3393781327[53.0633775,25.3456539] n3393781337[53.0634722,25.3455356] n3393781345[53.0635450,25.3456967] n3393781335[53.0634503,25.3458152]
 w332262618
-  other tags : addr:housenumber=1a | addr:street=1-я Приречная улица | building=yes
+  other tags : addr:housenumber=1А | addr:street=1-я Приречная улица | building=yes
     geometry : n3393781444[53.0650251,25.3438174] n3393781442[53.0649523,25.3436561] n3393781445[53.0650470,25.3435379] n3393781446[53.0651198,25.3436989] n3393781444[53.0650251,25.3438174]
 w332262620
-  other tags : addr:housenumber=1a | addr:street=Приречная улица | building=yes
+  other tags : addr:housenumber=1А | addr:street=Приречная улица | building=yes
     geometry : n3393781423[53.0645148,25.3430695] n3393781418[53.0644487,25.3429125] n3393781424[53.0645457,25.3427994] n3393781427[53.0646118,25.3429562] n3393781423[53.0645148,25.3430695]
 w332262621
   other tags : addr:housenumber=2 | addr:street=Приречная улица | building=yes
@@ -12737,7 +12737,7 @@ w332262640
   other tags : addr:housenumber=4 | addr:street=Приречная улица | building=yes
     geometry : n3393781395[53.0640915,25.3428486] n3393781390[53.0640352,25.3427150] n3393781397[53.0641070,25.3426312] n3393781401[53.0641633,25.3427646] n3393781395[53.0640915,25.3428486]
 w332262642
-  other tags : addr:housenumber=4a | addr:street=Приречная улица | building=yes
+  other tags : addr:housenumber=4А | addr:street=Приречная улица | building=yes
     geometry : n3393781385[53.0639921,25.3431922] n3393781377[53.0639192,25.3430191] n3393781388[53.0640162,25.3429060] n3393781394[53.0640891,25.3430789] n3393781385[53.0639921,25.3431922]
 w332262643
   other tags : addr:housenumber=5 | addr:street=1-я Приречная улица | building=yes
@@ -12746,7 +12746,7 @@ w332262644
   other tags : addr:housenumber=5 | addr:street=Приречная улица | building=yes
     geometry : n3393781400[53.0641472,25.3436131] n3393781393[53.0640744,25.3434400] n3393781402[53.0641713,25.3433269] n3393781405[53.0642442,25.3434998] n3393781400[53.0641472,25.3436131]
 w332262645
-  other tags : addr:housenumber=5a | addr:street=Приречная улица | building=yes
+  other tags : addr:housenumber=5А | addr:street=Приречная улица | building=yes
     geometry : n3393781386[53.0640157,25.3437859] n3393781381[53.0639428,25.3436129] n3393781389[53.0640196,25.3435233] n3393781396[53.0640925,25.3436962] n3393781386[53.0640157,25.3437859]
 w332262646
   other tags : addr:housenumber=6 | addr:street=Приречная улица | building=yes
@@ -12758,7 +12758,7 @@ w332262649
   other tags : addr:housenumber=7 | addr:street=Приречная улица | building=yes
     geometry : n3393781375[53.0638996,25.3439250] n3393781367[53.0638267,25.3437520] n3393781374[53.0638881,25.3436805] n3393781382[53.0639610,25.3438533] n3393781375[53.0638996,25.3439250]
 w332262650
-  other tags : addr:housenumber=7a | addr:street=Приречная улица | building=yes
+  other tags : addr:housenumber=7А | addr:street=Приречная улица | building=yes
     geometry : n3393781354[53.0636660,25.3442045] n3393781348[53.0635931,25.3440314] n3393781355[53.0636824,25.3439274] n3393781361[53.0637553,25.3441002] n3393781354[53.0636660,25.3442045]
 w332262651
   other tags : addr:housenumber=8 | addr:street=Приречная улица | building=yes
@@ -12788,7 +12788,7 @@ w332388576
   other tags : addr:housenumber=134 | addr:street=Красноармейская улица | building=yes
     geometry : n3395083072[53.0698465,25.3328295] n3395083074[53.0699141,25.3329505] n3395083070[53.0698416,25.3330626] n3395083067[53.0697740,25.3329419] n3395083072[53.0698465,25.3328295]
 w332388577
-  other tags : addr:housenumber=134а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=134А | addr:street=Красноармейская улица | building=yes
     geometry : n3395083061[53.0697051,25.3330354] n3395083066[53.0697727,25.3331564] n3395083059[53.0697002,25.3332686] n3395083055[53.0696326,25.3331479] n3395083061[53.0697051,25.3330354]
 w332388578
   other tags : addr:housenumber=136 | addr:street=Красноармейская улица | building=yes
@@ -12830,13 +12830,13 @@ w332388596
   other tags : addr:housenumber=164 | addr:street=Красноармейская улица | building=yes
     geometry : n3395082927[53.0659180,25.3380032] n3395082929[53.0659772,25.3381360] n3395082926[53.0659169,25.3382101] n3395082924[53.0658578,25.3380777] n3395082927[53.0659180,25.3380032]
 w332388597
-  other tags : addr:housenumber=164а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=164А | addr:street=Красноармейская улица | building=yes
     geometry : n3395082923[53.0658268,25.3380556] n3395082925[53.0658892,25.3381842] n3395082922[53.0658120,25.3382876] n3395082921[53.0657497,25.3381593] n3395082923[53.0658268,25.3380556]
 w332388598
   other tags : addr:housenumber=165 | addr:street=Красноармейская улица | building=yes
     geometry : n3395083115[53.0709148,25.3326918] n3395083116[53.0709796,25.3328170] n3395083114[53.0709006,25.3329303] n3395083112[53.0708357,25.3328054] n3395083115[53.0709148,25.3326918]
 w332388599
-  other tags : addr:housenumber=165а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=165А | addr:street=Красноармейская улица | building=yes
     geometry : n3395083109[53.0707741,25.3324801] n3395083111[53.0708381,25.3326064] n3395083107[53.0707624,25.3327126] n3395083104[53.0706984,25.3325866] n3395083109[53.0707741,25.3324801]
 w332388600
   other tags : addr:housenumber=166 | addr:street=Красноармейская улица | building=yes
@@ -12872,7 +12872,7 @@ w332388610
   other tags : addr:housenumber=176 | addr:street=Красноармейская улица | building=yes
     geometry : n3395082899[53.0647337,25.3399731] n3395082900[53.0648006,25.3400951] n3395082898[53.0647274,25.3402061] n3395082896[53.0646605,25.3400844] n3395082899[53.0647337,25.3399731]
 w332388611
-  other tags : addr:housenumber=176а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=176А | addr:street=Красноармейская улица | building=yes
     geometry : n3395082894[53.0646232,25.3396681] n3395082897[53.0647122,25.3398304] n3395082895[53.0646390,25.3399414] n3395080891[53.0645500,25.3397794] n3395082894[53.0646232,25.3396681]
 w332388612
   other tags : addr:housenumber=177 | addr:street=Красноармейская улица | building=yes
@@ -12890,7 +12890,7 @@ w332388616
   other tags : addr:housenumber=181 | addr:street=Красноармейская улица | building=yes
     geometry : n3395083053[53.0696249,25.3343449] n3395083063[53.0697117,25.3344993] n3395083057[53.0696393,25.3346117] n3395083049[53.0695526,25.3344576] n3395083053[53.0696249,25.3343449]
 w332388617
-  other tags : addr:housenumber=182а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=182А | addr:street=Красноармейская улица | building=yes
     geometry : n3395080875[53.0635818,25.3398084] n3395080876[53.0636480,25.3399316] n3395080873[53.0635741,25.3400413] n3395080871[53.0635079,25.3399184] n3395080875[53.0635818,25.3398084]
 w332388618
   other tags : addr:housenumber=183 | addr:street=Красноармейская улица | building=yes
@@ -12899,7 +12899,7 @@ w332388619
   other tags : addr:housenumber=184 | addr:street=Красноармейская улица | building=yes
     geometry : n3395080880[53.0639871,25.3411086] n3395080883[53.0640546,25.3412298] n3395080879[53.0639819,25.3413417] n3395080877[53.0639145,25.3412208] n3395080880[53.0639871,25.3411086]
 w332388620
-  other tags : addr:housenumber=184а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=184А | addr:street=Красноармейская улица | building=yes
     geometry : n3395080872[53.0635092,25.3402672] n3395080874[53.0635773,25.3403874] n3395080870[53.0635052,25.3405004] n3395080869[53.0634371,25.3403805] n3395080872[53.0635092,25.3402672]
 w332388621
   other tags : addr:housenumber=185 | addr:street=Красноармейская улица | building=yes
@@ -12908,7 +12908,7 @@ w332388622
   other tags : addr:housenumber=187 | addr:street=Красноармейская улица | building=yes
     geometry : n3395083030[53.0691657,25.3347744] n3395083038[53.0692672,25.3349568] n3395083033[53.0691945,25.3350687] n3395083026[53.0690930,25.3348865] n3395083030[53.0691657,25.3347744]
 w332388623
-  other tags : addr:housenumber=187а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=187А | addr:street=Красноармейская улица | building=yes
     geometry : n3395083028[53.0691119,25.3350982] n3395083031[53.0691765,25.3352237] n3395083027[53.0691012,25.3353308] n3395083024[53.0690366,25.3352056] n3395083028[53.0691119,25.3350982]
 w332388624
   other tags : addr:housenumber=189 | addr:street=Красноармейская улица | building=yes
@@ -12923,7 +12923,7 @@ w332388627
   other tags : addr:housenumber=197 | addr:street=Красноармейская улица | building=yes
     geometry : n3395082998[53.0681602,25.3360695] n3395083000[53.0682217,25.3361992] n3395082997[53.0681439,25.3363012] n3395082994[53.0680824,25.3361717] n3395082998[53.0681602,25.3360695]
 w332388628
-  other tags : addr:housenumber=197а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=197А | addr:street=Красноармейская улица | building=yes
     geometry : n3395082991[53.0680060,25.3362462] n3395082993[53.0680736,25.3363946] n3395082990[53.0679947,25.3364941] n3395082987[53.0679270,25.3363461] n3395082991[53.0680060,25.3362462]
 w332388629
   other tags : addr:housenumber=199 | addr:street=Красноармейская улица | building=yes
@@ -12956,7 +12956,7 @@ w332388638
   other tags : addr:housenumber=217 | addr:street=Красноармейская улица | building=yes
     geometry : n3395082935[53.0662143,25.3385046] n3395082937[53.0662812,25.3386266] n3395082934[53.0661175,25.3388753] n3395082932[53.0660506,25.3387536] n3395082935[53.0662143,25.3385046]
 w332388639
-  other tags : addr:housenumber=217а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=217А | addr:street=Красноармейская улица | building=yes
     geometry : n3395082931[53.0660022,25.3388399] n3395082933[53.0660691,25.3389620] n3395082930[53.0659959,25.3390730] n3395082928[53.0659290,25.3389512] n3395082931[53.0660022,25.3388399]
 w332388640
   other tags : addr:housenumber=221 | addr:street=Красноармейская улица | building=yes
@@ -12974,13 +12974,13 @@ w332392683
   other tags : addr:housenumber=18 | addr:street=Приречный переулок | building=yes
     geometry : n3395132573[53.0695869,25.3352736] n3395132575[53.0696713,25.3354261] n3395132574[53.0695984,25.3355377] n3395132572[53.0695140,25.3353855] n3395132573[53.0695869,25.3352736]
 w332392684
-  other tags : addr:housenumber=1а | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=1А | addr:street=Приречный переулок | building=yes
     geometry : n3395133898[53.0707912,25.3340962] n3395133894[53.0707115,25.3342555] n3395132592[53.0706354,25.3341500] n3395133895[53.0707150,25.3339907] n3395133898[53.0707912,25.3340962]
 w332392685
-  other tags : addr:housenumber=1б | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=1Б | addr:street=Приречный переулок | building=yes
     geometry : n3395133904[53.0708947,25.3337092] n3395133907[53.0709833,25.3338549] n3395133905[53.0709136,25.3339721] n3395133901[53.0708251,25.3338266] n3395133904[53.0708947,25.3337092]
 w332392686
-  other tags : addr:housenumber=1в | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=1В | addr:street=Приречный переулок | building=yes
     geometry : n3395133911[53.0712203,25.3334301] n3395133909[53.0711091,25.3336030] n3395133908[53.0710415,25.3334825] n3395133910[53.0711526,25.3333096] n3395133911[53.0712203,25.3334301]
 w332392687
   other tags : addr:housenumber=2 | addr:street=Приречный переулок | building=yes
@@ -12995,7 +12995,7 @@ w332392690
   other tags : addr:housenumber=28 | addr:street=Приречный переулок | building=yes
     geometry : n3395132562[53.0688975,25.3362376] n3395132563[53.0689539,25.3363838] n3395132561[53.0688706,25.3364728] n3395132560[53.0688141,25.3363269] n3395132562[53.0688975,25.3362376]
 w332392691
-  other tags : addr:housenumber=2а | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=2А | addr:street=Приречный переулок | building=yes
     geometry : n3395133902[53.0708807,25.3331085] n3395133906[53.0709651,25.3332610] n3395133903[53.0708922,25.3333725] n3395133899[53.0708079,25.3332203] n3395133902[53.0708807,25.3331085]
 w332392692
   other tags : addr:housenumber=30 | addr:street=Приречный переулок | building=yes
@@ -13061,13 +13061,13 @@ w332394567
   other tags : addr:housenumber=11 | addr:street=Приречный переулок | building=yes
     geometry : n3395152578[53.0697776,25.3355456] n3395152580[53.0698483,25.3356735] n3395152579[53.0697808,25.3357769] n3395152577[53.0697100,25.3356494] n3395152578[53.0697776,25.3355456]
 w332394568
-  other tags : addr:housenumber=11а | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=11А | addr:street=Приречный переулок | building=yes
     geometry : n3395152583[53.0699225,25.3360281] n3395152590[53.0700069,25.3361806] n3395152586[53.0699340,25.3362921] n3395152581[53.0698497,25.3361399] n3395152583[53.0699225,25.3360281]
 w332394569
   other tags : addr:housenumber=13 | addr:street=Приречный переулок | building=yes
     geometry : n3395152574[53.0695688,25.3357642] n3395152576[53.0696532,25.3359167] n3395152575[53.0695803,25.3360283] n3395152573[53.0694959,25.3358761] n3395152574[53.0695688,25.3357642]
 w332394570
-  other tags : addr:housenumber=13а | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=13А | addr:street=Приречный переулок | building=yes
     geometry : n3395152572[53.0694913,25.3361763] n3395152570[53.0693886,25.3362936] n3395152569[53.0693326,25.3361576] n3395152571[53.0694352,25.3360403] n3395152572[53.0694913,25.3361763]
 w332394571
   other tags : addr:housenumber=15 | addr:street=Приречный переулок | building=yes
@@ -13115,7 +13115,7 @@ w332394585
   other tags : addr:housenumber=5 | addr:street=Приречный переулок | building=yes
     geometry : n3395152994[53.0701947,25.3350279] n3395152996[53.0702791,25.3351804] n3395152995[53.0702062,25.3352920] n3395152993[53.0701219,25.3351398] n3395152994[53.0701947,25.3350279]
 w332394586
-  other tags : addr:housenumber=5а | addr:street=Приречный переулок | building=yes
+  other tags : addr:housenumber=5А | addr:street=Приречный переулок | building=yes
     geometry : n3395153005[53.0705005,25.3355545] n3395153008[53.0705542,25.3356504] n3395153006[53.0705121,25.3357157] n3395153004[53.0704584,25.3356197] n3395153005[53.0705005,25.3355545]
 w332394587
   other tags : addr:housenumber=7 | addr:street=Приречный переулок | building=yes
@@ -13601,7 +13601,7 @@ w335864370
   other tags : addr:housenumber=11 | addr:street=ул.Головского | building=yes
     geometry : n3429790368[53.0829761,25.3737468] n3429790376[53.0830008,25.3735605] n3429790388[53.0830942,25.3735948] n3429790385[53.0830695,25.3737811] n3429790368[53.0829761,25.3737468]
 w335864371
-  other tags : addr:housenumber=11а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=11А | addr:street=ул.Леошени | building=yes
     geometry : n3429790111[53.0807453,25.3839880] n3429790112[53.0807531,25.3838235] n3429790116[53.0808484,25.3838361] n3429790115[53.0808406,25.3840006] n3429790111[53.0807453,25.3839880]
 w335864372
   other tags : addr:housenumber=11 | addr:street=ул.Леошени | building=yes
@@ -13697,7 +13697,7 @@ w335864404
   other tags : addr:housenumber=39 | addr:street=ул.Леошени | building=yes
     geometry : n3429790179[53.0813551,25.3786207] n3429790184[53.0813702,25.3784418] n3429790197[53.0814662,25.3784642] n3429790195[53.0814511,25.3786431] n3429790179[53.0813551,25.3786207]
 w335864405
-  other tags : addr:housenumber=40а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=40А | addr:street=ул.Леошени | building=yes
     geometry : n3429790199[53.0814702,25.3807781] n3429790200[53.0814780,25.3806137] n3429790208[53.0815733,25.3806263] n3429790206[53.0815655,25.3807907] n3429790199[53.0814702,25.3807781]
 w335864406
   other tags : addr:housenumber=41 | addr:street=ул.Леошени | building=yes
@@ -13718,16 +13718,16 @@ w335864411
   other tags : addr:housenumber=48 | addr:street=ул.Леошени | building=yes
     geometry : n3429790211[53.0816262,25.3794422] n3429790214[53.0816340,25.3792778] n3429790231[53.0817293,25.3792904] n3429790229[53.0817215,25.3794548] n3429790211[53.0816262,25.3794422]
 w335864412
-  other tags : addr:housenumber=48а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=48А | addr:street=ул.Леошени | building=yes
     geometry : n3429790217[53.0816494,25.3787717] n3429790219[53.0816553,25.3785797] n3429790235[53.0817678,25.3785893] n3429790233[53.0817618,25.3787813] n3429790217[53.0816494,25.3787717]
 w335864413
-  other tags : addr:housenumber=48б | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=48Б | addr:street=ул.Леошени | building=yes
     geometry : n3429790218[53.0816532,25.3784793] n3429790221[53.0816591,25.3782873] n3429790236[53.0817715,25.3782969] n3429790234[53.0817656,25.3784889] n3429790218[53.0816532,25.3784793]
 w335864414
-  other tags : addr:housenumber=48в | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=48В | addr:street=ул.Леошени | building=yes
     geometry : n3429790227[53.0816943,25.3781620] n3429790228[53.0817002,25.3779701] n3429790240[53.0818126,25.3779797] n3429790238[53.0818067,25.3781716] n3429790227[53.0816943,25.3781620]
 w335864415
-  other tags : addr:housenumber=48д | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=48Д | addr:street=ул.Леошени | building=yes
     geometry : n3429790268[53.0820913,25.3779070] n3429790270[53.0820972,25.3777150] n3429790288[53.0822096,25.3777246] n3429790287[53.0822037,25.3779166] n3429790268[53.0820913,25.3779070]
 w335864416
   other tags : addr:housenumber=49 | addr:street=ул.Леошени | building=yes
@@ -13736,10 +13736,10 @@ w335864417
   other tags : addr:housenumber=5 | addr:street=ул.Головского | building=yes
     geometry : n3429790370[53.0829844,25.3726225] n3429790379[53.0830111,25.3724331] n3429790390[53.0831064,25.3724704] n3429790387[53.0830797,25.3726597] n3429790370[53.0829844,25.3726225]
 w335864418
-  other tags : addr:housenumber=50а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=50А | addr:street=ул.Леошени | building=yes
     geometry : n3429790248[53.0819223,25.3766661] n3429790250[53.0819429,25.3764961] n3429790263[53.0820462,25.3765309] n3429790259[53.0820255,25.3767009] n3429790248[53.0819223,25.3766661]
 w335864419
-  other tags : addr:housenumber=50б | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=50Б | addr:street=ул.Леошени | building=yes
     geometry : n3429790237[53.0817915,25.3774375] n3429790239[53.0818122,25.3772675] n3429790246[53.0819154,25.3773023] n3429790243[53.0818947,25.3774723] n3429790237[53.0817915,25.3774375]
 w335864420
   other tags : addr:housenumber=53 | addr:street=ул.Леошени | building=yes
@@ -13754,7 +13754,7 @@ w335864424
   other tags : addr:housenumber=56 | addr:street=ул.Леошени | building=yes
     geometry : n3429790261[53.0820437,25.3759975] n3429790265[53.0820607,25.3758337] n3429790277[53.0821377,25.3758559] n3429790274[53.0821207,25.3760197] n3429790261[53.0820437,25.3759975]
 w335864425
-  other tags : addr:housenumber=56а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=56А | addr:street=ул.Леошени | building=yes
     geometry : n3429790269[53.0820942,25.3756646] n3429790273[53.0821148,25.3754946] n3429790291[53.0822180,25.3755294] n3429790284[53.0821974,25.3756994] n3429790269[53.0820942,25.3756646]
 w335864426
   other tags : addr:housenumber=57 | addr:street=ул.Леошени | building=yes
@@ -13775,28 +13775,28 @@ w335864431
   other tags : addr:housenumber=64 | addr:street=ул.Леошени | building=yes
     geometry : n3429790312[53.0823969,25.3741301] n3429790314[53.0824150,25.3739456] n3429790326[53.0825356,25.3739784] n3429790325[53.0825175,25.3741630] n3429790312[53.0823969,25.3741301]
 w335864432
-  other tags : addr:housenumber=64а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=64А | addr:street=ул.Леошени | building=yes
     geometry : n3429790295[53.0822684,25.3745234] n3429790296[53.0822822,25.3743756] n3429790313[53.0824006,25.3744063] n3429790310[53.0823868,25.3745541] n3429790295[53.0822684,25.3745234]
 w335864433
-  other tags : addr:housenumber=65а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=65А | addr:street=ул.Леошени | building=yes
     geometry : n3429790289[53.0822097,25.3724377] n3429790292[53.0822260,25.3722947] n3429790301[53.0823192,25.3723242] n3429790298[53.0823029,25.3724672] n3429790289[53.0822097,25.3724377]
 w335864434
-  other tags : addr:housenumber=65а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=65А | addr:street=ул.Леошени | building=yes
     geometry : n3429790279[53.0821778,25.3722213] n3429790285[53.0822006,25.3720460] n3429790307[53.0823474,25.3720989] n3429790302[53.0823245,25.3722742] n3429790279[53.0821778,25.3722213]
 w335864435
-  other tags : addr:housenumber=66а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=66А | addr:street=ул.Леошени | building=yes
     geometry : n3429790317[53.0824669,25.3734288] n3429790321[53.0824850,25.3732442] n3429790332[53.0826057,25.3732771] n3429790330[53.0825875,25.3734616] n3429790317[53.0824669,25.3734288]
 w335864436
   other tags : addr:housenumber=67 | addr:street=ул.Леошени | building=yes
     geometry : n3429790303[53.0823259,25.3717323] n3429790305[53.0823413,25.3715459] n3429790316[53.0824365,25.3715677] n3429790315[53.0824211,25.3717541] n3429790303[53.0823259,25.3717323]
 w335864437
-  other tags : addr:housenumber=67а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=67А | addr:street=ул.Леошени | building=yes
     geometry : n3429790251[53.0819438,25.3716234] n3429790252[53.0819592,25.3714371] n3429790264[53.0820545,25.3714589] n3429790260[53.0820391,25.3716452] n3429790251[53.0819438,25.3716234]
 w335864438
   other tags : addr:housenumber=68 | addr:street=ул.Леошени | building=yes
     geometry : n3429790327[53.0825684,25.3727363] n3429790329[53.0825847,25.3725932] n3429790338[53.0826780,25.3726228] n3429790336[53.0826616,25.3727658] n3429790327[53.0825684,25.3727363]
 w335864439
-  other tags : addr:housenumber=68а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=68А | addr:street=ул.Леошени | building=yes
     geometry : n3429790333[53.0826169,25.3724564] n3429790334[53.0826333,25.3723133] n3429790340[53.0827265,25.3723429] n3429790339[53.0827102,25.3724859] n3429790333[53.0826169,25.3724564]
 w335864440
   other tags : addr:housenumber=7 | addr:street=ул.Головского | building=yes
@@ -13847,10 +13847,10 @@ w335891343
   other tags : addr:housenumber=11 | addr:street=переулок Юности | building=yes
     geometry : n3429988829[53.0784424,25.4014715] n3429988825[53.0784327,25.4016280] n3429988806[53.0783431,25.4016126] n3429988809[53.0783529,25.4014561] n3429988829[53.0784424,25.4014715]
 w335891345
-  other tags : addr:housenumber=11а | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=11А | addr:street=Подгорная улица | building=yes
     geometry : n3429988715[53.0773095,25.3997076] n3429988703[53.0772149,25.3997088] n3429988702[53.0772144,25.3995587] n3429988714[53.0773088,25.3995578] n3429988715[53.0773095,25.3997076]
 w335891346
-  other tags : addr:housenumber=11б | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=11Б | addr:street=Подгорная улица | building=yes
     geometry : n3429988710[53.0772910,25.4001382] n3429988697[53.0771968,25.4001248] n3429988700[53.0772046,25.3999754] n3429988712[53.0772987,25.3999889] n3429988710[53.0772910,25.4001382]
 w335891347
   other tags : addr:housenumber=12 | addr:street=Подгорная улица | building=yes
@@ -13862,7 +13862,7 @@ w335891351
   other tags : addr:housenumber=12 | addr:street=улица Мира | building=yes
     geometry : n3429988927[53.0790750,25.3996300] n3429988925[53.0790654,25.3997865] n3429988914[53.0789757,25.3997710] n3429988917[53.0789855,25.3996146] n3429988927[53.0790750,25.3996300]
 w335891353
-  other tags : addr:housenumber=12а | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=12А | addr:street=Подгорная улица | building=yes
     geometry : n3429988680[53.0770908,25.3999532] n3429988662[53.0769970,25.3999326] n3429988665[53.0770089,25.3997839] n3429988683[53.0771026,25.3998046] n3429988680[53.0770908,25.3999532]
 w335891354
   other tags : addr:housenumber=13 | addr:street=Барановичская улица | building=yes
@@ -13889,7 +13889,7 @@ w335891372
   other tags : addr:housenumber=15 | addr:street=переулок Юности | building=yes
     geometry : n3429988811[53.0783646,25.4021775] n3429988810[53.0783550,25.4023341] n3429988786[53.0782653,25.4023186] n3429988789[53.0782751,25.4021621] n3429988811[53.0783646,25.4021775]
 w335891374
-  other tags : addr:housenumber=15а | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=15А | addr:street=Подгорная улица | building=yes
     geometry : n3429988691[53.0771690,25.4003853] n3429988692[53.0771729,25.4002281] n3429988707[53.0772630,25.4002344] n3429988706[53.0772589,25.4003916] n3429988691[53.0771690,25.4003853]
 w335891375
   other tags : addr:housenumber=16 | addr:street=Барановичская улица | building=yes
@@ -13952,7 +13952,7 @@ w335891413
   other tags : addr:housenumber=20 | addr:street=улица Мира | building=yes
     geometry : n3429988907[53.0789019,25.4009067] n3429988904[53.0788922,25.4010632] n3429988892[53.0788025,25.4010477] n3429988893[53.0788123,25.4008913] n3429988907[53.0789019,25.4009067]
 w335891415
-  other tags : addr:housenumber=20а | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=20А | addr:street=Подгорная улица | building=yes
     geometry : n3429988652[53.0768513,25.4016875] n3429988646[53.0767589,25.4016537] n3429988647[53.0767836,25.4014670] n3429988655[53.0768759,25.4015009] n3429988652[53.0768513,25.4016875]
 w335891416
   other tags : addr:housenumber=21 | addr:street=Барановичская улица | building=yes
@@ -13982,7 +13982,7 @@ w335891431
   other tags : addr:housenumber=24 | addr:street=улица Мира | building=yes
     geometry : n3429988894[53.0788129,25.4015659] n3429988890[53.0787965,25.4017208] n3429988877[53.0787077,25.4016947] n3429988880[53.0787242,25.4015398] n3429988894[53.0788129,25.4015659]
 w335891433
-  other tags : addr:housenumber=24а | addr:street=Барановичская улица | building=yes
+  other tags : addr:housenumber=24А | addr:street=Барановичская улица | building=yes
     geometry : n3429988490[53.0745568,25.3958450] n3429988491[53.0745647,25.3960764] n3429988487[53.0744747,25.3960848] n3429988486[53.0744670,25.3958535] n3429988490[53.0745568,25.3958450]
 w335891435
   other tags : addr:housenumber=25 | addr:street=Барановичская улица | building=yes
@@ -14036,16 +14036,16 @@ w335891471
   other tags : addr:housenumber=32 | addr:street=улица Мира | building=yes
     geometry : n3429988864[53.0786372,25.4028803] n3429988858[53.0786183,25.4030345] n3429988843[53.0785300,25.4030043] n3429988846[53.0785490,25.4028502] n3429988864[53.0786372,25.4028803]
 w335891473
-  other tags : addr:housenumber=32а | addr:street=улица Мира | building=yes
+  other tags : addr:housenumber=32А | addr:street=улица Мира | building=yes
     geometry : n3429988844[53.0785305,25.4033426] n3429988835[53.0785076,25.4035908] n3429988813[53.0783800,25.4035581] n3429988817[53.0784030,25.4033100] n3429988844[53.0785305,25.4033426]
 w335891475
-  other tags : addr:housenumber=32б | addr:street=улица Мира | building=yes
+  other tags : addr:housenumber=32Б | addr:street=улица Мира | building=yes
     geometry : n3429988828[53.0784383,25.4038871] n3429988816[53.0784012,25.4041067] n3429988798[53.0783144,25.4040660] n3429988808[53.0783516,25.4038465] n3429988828[53.0784383,25.4038871]
 w335891477
-  other tags : addr:housenumber=32в | addr:street=улица Мира | building=yes
+  other tags : addr:housenumber=32В | addr:street=улица Мира | building=yes
     geometry : n3429988791[53.0782785,25.4042461] n3429988787[53.0782704,25.4044312] n3429988765[53.0781310,25.4044142] n3429988767[53.0781393,25.4042291] n3429988791[53.0782785,25.4042461]
 w335891478
-  other tags : addr:housenumber=32г | addr:street=улица Мира | building=yes
+  other tags : addr:housenumber=32Г | addr:street=улица Мира | building=yes
     geometry : n3429988788[53.0782745,25.4046688] n3429988790[53.0782762,25.4048653] n3429988775[53.0781861,25.4048674] n3429988774[53.0781845,25.4046710] n3429988788[53.0782745,25.4046688]
 w335891479
   other tags : addr:housenumber=33 | addr:street=Барановичская улица | building=yes
@@ -14081,7 +14081,7 @@ w335891494
   other tags : addr:housenumber=41 | addr:street=Барановичская улица | building=yes
     geometry : n3429988450[53.0732354,25.3973908] n3429988451[53.0733133,25.3975773] n3429988449[53.0731442,25.3977726] n3429988446[53.0730664,25.3975862] n3429988450[53.0732354,25.3973908]
 w335891498
-  other tags : addr:housenumber=41а | addr:street=Барановичская улица | building=yes
+  other tags : addr:housenumber=41А | addr:street=Барановичская улица | building=yes
     geometry : n3429988439[53.0727572,25.3978812] n3429988441[53.0728036,25.3980183] n3429988437[53.0727251,25.3980918] n3429988435[53.0726788,25.3979547] n3429988439[53.0727572,25.3978812]
 w335891500
   other tags : addr:housenumber=42 | addr:street=Барановичская улица | building=yes
@@ -14132,7 +14132,7 @@ w335891524
   other tags : addr:housenumber=57 | addr:street=Барановичская улица | building=yes
     geometry : n3429988082[53.0706311,25.4000103] n3429988083[53.0706510,25.4001642] n3429988081[53.0705628,25.4001956] n3429988080[53.0705431,25.4000417] n3429988082[53.0706311,25.4000103]
 w335891526
-  other tags : addr:housenumber=58а | addr:street=Барановичская улица | building=yes
+  other tags : addr:housenumber=58А | addr:street=Барановичская улица | building=yes
     geometry : n3429988070[53.0700912,25.3994445] n3429988071[53.0701034,25.3996006] n3429988067[53.0699343,25.3996372] n3429988066[53.0699222,25.3994813] n3429988070[53.0700912,25.3994445]
 w335891528
   other tags : addr:housenumber=59 | addr:street=Барановичская улица | building=yes
@@ -14195,7 +14195,7 @@ w335891551
   other tags : addr:housenumber=9 | addr:street=переулок Юности | building=yes
     geometry : n3429988832[53.0784777,25.4011597] n3429988830[53.0784656,25.4013562] n3429988812[53.0783759,25.4013407] n3429988814[53.0783882,25.4011443] n3429988832[53.0784777,25.4011597]
 w335891552
-  other tags : addr:housenumber=9б | addr:street=Подгорная улица | building=yes
+  other tags : addr:housenumber=9Б | addr:street=Подгорная улица | building=yes
     geometry : n3429988728[53.0774134,25.3988871] n3429988717[53.0773190,25.3988935] n3429988716[53.0773154,25.3987436] n3429988727[53.0774098,25.3987374] n3429988728[53.0774134,25.3988871]
 w335891553
   other tags : addr:housenumber=Магазин | addr:street=Барановичская улица | building=yes
@@ -14213,7 +14213,7 @@ w335898011
   other tags : addr:housenumber=3 | addr:street=ул.Леошени | building=yes
     geometry : n3430045369[53.0805793,25.3875653] n3430045368[53.0805596,25.3872394] n3430045372[53.0806792,25.3872193] n3430045373[53.0806990,25.3875453] n3430045369[53.0805793,25.3875653]
 w335898012
-  other tags : addr:housenumber=3а | addr:street=ул.Леошени | building=yes
+  other tags : addr:housenumber=3А | addr:street=ул.Леошени | building=yes
     geometry : n3430045367[53.0805196,25.3855895] n3430045366[53.0805188,25.3854027] n3430045370[53.0806108,25.3854016] n3430045371[53.0806116,25.3855884] n3430045367[53.0805196,25.3855895]
 w335898013
   other tags : addr:housenumber=50 | addr:street=ул.Войкова | building=yes
@@ -14258,7 +14258,7 @@ w335898441
   other tags : addr:housenumber=19 | addr:street=Нижняя улица | building=yes
     geometry : n3430049595[53.0777730,25.4016407] n3430048282[53.0776787,25.4016294] n3430048284[53.0776852,25.4014798] n3430049597[53.0777794,25.4014912] n3430049595[53.0777730,25.4016407]
 w335898442
-  other tags : addr:housenumber=1а | addr:street=Нижняя улица | building=yes
+  other tags : addr:housenumber=1А | addr:street=Нижняя улица | building=yes
     geometry : n3430049632[53.0786185,25.3985892] n3430049630[53.0784907,25.3986160] n3430049629[53.0784754,25.3984127] n3430049631[53.0786031,25.3983860] n3430049632[53.0786185,25.3985892]
 w335898443
   other tags : addr:housenumber=21 | addr:street=Нижняя улица | building=yes
@@ -14300,10 +14300,10 @@ w336048257
   other tags : addr:housenumber=12 | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311898[53.0786649,25.3856896] n3431311900[53.0786899,25.3854961] n3431311912[53.0788231,25.3855438] n3431311910[53.0787981,25.3857372] n3431311898[53.0786649,25.3856896]
 w336048258
-  other tags : addr:housenumber=12б | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=12Б | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311573[53.0782342,25.3855835] n3431311576[53.0782545,25.3853475] n3431311580[53.0783571,25.3853720] n3431311579[53.0783368,25.3856081] n3431311573[53.0782342,25.3855835]
 w336048259
-  other tags : addr:housenumber=12в | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=12В | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311565[53.0780179,25.3855145] n3431311566[53.0780361,25.3852811] n3431311570[53.0781402,25.3853036] n3431311569[53.0781221,25.3855370] n3431311565[53.0780179,25.3855145]
 w336048260
   other tags : addr:housenumber=13 | addr:street=пер.2-й Лесной | building=yes
@@ -14312,10 +14312,10 @@ w336048261
   other tags : addr:housenumber=13 | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311563[53.0779749,25.3859812] n3431311564[53.0779810,25.3857594] n3431311568[53.0780989,25.3857684] n3431311567[53.0780928,25.3859902] n3431311563[53.0779749,25.3859812]
 w336048262
-  other tags : addr:housenumber=13а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=13А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311577[53.0782879,25.3860270] n3431311578[53.0782985,25.3858277] n3431311583[53.0784231,25.3858461] n3431311581[53.0784125,25.3860454] n3431311577[53.0782879,25.3860270]
 w336048263
-  other tags : addr:housenumber=13б | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=13Б | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311571[53.0781569,25.3859926] n3431311572[53.0781699,25.3857820] n3431311575[53.0782540,25.3857963] n3431311574[53.0782411,25.3860069] n3431311571[53.0781569,25.3859926]
 w336048266
   other tags : addr:housenumber=14 | addr:street=пер.2-й Лесной | building=yes
@@ -14324,28 +14324,28 @@ w336048269
   other tags : addr:housenumber=15 | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311559[53.0777828,25.3859771] n3431311560[53.0777889,25.3857552] n3431311562[53.0779068,25.3857642] n3431311561[53.0779007,25.3859860] n3431311559[53.0777828,25.3859771]
 w336048271
-  other tags : addr:housenumber=15а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=15А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311592[53.0786277,25.3872971] n3431311894[53.0786367,25.3870775] n3431311906[53.0787474,25.3870901] n3431311904[53.0787384,25.3873097] n3431311592[53.0786277,25.3872971]
 w336048274
-  other tags : addr:housenumber=15б | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=15Б | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311893[53.0786310,25.3869085] n3431311896[53.0786400,25.3866889] n3431311907[53.0787508,25.3867014] n3431311905[53.0787418,25.3869210] n3431311893[53.0786310,25.3869085]
 w336048277
-  other tags : addr:housenumber=15в | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=15В | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311589[53.0786108,25.3876394] n3431311591[53.0786198,25.3874198] n3431311903[53.0787306,25.3874324] n3431311901[53.0787216,25.3876520] n3431311589[53.0786108,25.3876394]
 w336048279
   other tags : addr:housenumber=16 | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311920[53.0790018,25.3839145] n3431311921[53.0790074,25.3837344] n3431311931[53.0791200,25.3837441] n3431311929[53.0791143,25.3839243] n3431311920[53.0790018,25.3839145]
 w336048282
-  other tags : addr:housenumber=16а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=16А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311590[53.0786156,25.3848574] n3431311899[53.0786813,25.3847070] n3431311908[53.0787898,25.3848383] n3431311902[53.0787241,25.3849888] n3431311590[53.0786156,25.3848574]
 w336048284
   other tags : addr:housenumber=18 | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311930[53.0791150,25.3834498] n3431311928[53.0791134,25.3832583] n3431311955[53.0792613,25.3832548] n3431311956[53.0792629,25.3834464] n3431311930[53.0791150,25.3834498]
 w336048287
-  other tags : addr:housenumber=18а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=18А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311582[53.0784207,25.3856435] n3431311584[53.0784389,25.3854102] n3431311587[53.0785431,25.3854327] n3431311585[53.0785249,25.3856660] n3431311582[53.0784207,25.3856435]
 w336048290
-  other tags : addr:housenumber=1а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=1А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311971[53.0794738,25.3867247] n3431311974[53.0794828,25.3865051] n3431311981[53.0795935,25.3865177] n3431311979[53.0795846,25.3867373] n3431311971[53.0794738,25.3867247]
 w336048292
   other tags : addr:housenumber=2 | addr:street=пер.2-й Лесной | building=yes
@@ -14384,13 +14384,13 @@ w336048318
   other tags : addr:housenumber=51 | addr:street=ул.Войкова | building=yes
     geometry : n3431312108[53.0800466,25.3877097] n3431312105[53.0800388,25.3874926] n3431312117[53.0801365,25.3874828] n3431312118[53.0801444,25.3876998] n3431312108[53.0800466,25.3877097]
 w336048319
-  other tags : addr:housenumber=51а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=51А | addr:street=ул.Войкова | building=yes
     geometry : n3431311985[53.0797023,25.3877090] n3431311983[53.0796962,25.3874738] n3431311987[53.0797965,25.3874666] n3431311988[53.0798026,25.3877018] n3431311985[53.0797023,25.3877090]
 w336048320
   other tags : addr:housenumber=53 | addr:street=ул.Войкова | building=yes
     geometry : n3431312103[53.0800328,25.3873481] n3431312104[53.0800365,25.3871888] n3431312120[53.0801538,25.3871962] n3431312119[53.0801501,25.3873555] n3431312103[53.0800328,25.3873481]
 w336048321
-  other tags : addr:housenumber=55а | addr:street=пер.2-й Лесной | building=yes
+  other tags : addr:housenumber=55А | addr:street=пер.2-й Лесной | building=yes
     geometry : n3431311972[53.0794781,25.3870962] n3431311973[53.0794818,25.3868739] n3431311978[53.0795842,25.3868785] n3431311977[53.0795805,25.3871008] n3431311972[53.0794781,25.3870962]
 w336048322
   other tags : addr:housenumber=57 | addr:street=ул.Войкова | building=yes
@@ -14408,7 +14408,7 @@ w336048326
   other tags : addr:housenumber=63 | addr:street=ул.Войкова | building=yes
     geometry : n3431311989[53.0798575,25.3849687] n3431311990[53.0798612,25.3848094] n3431312098[53.0799785,25.3848168] n3431312097[53.0799748,25.3849761] n3431311989[53.0798575,25.3849687]
 w336048327
-  other tags : addr:housenumber=65а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=65А | addr:street=ул.Войкова | building=yes
     geometry : n3431311991[53.0799146,25.3847137] n3431311992[53.0799153,25.3845516] n3431312102[53.0800107,25.3845527] n3431312101[53.0800100,25.3847148] n3431311991[53.0799146,25.3847137]
 w336048328
   other tags : addr:housenumber=7 | addr:street=пер.2-й Лесной | building=yes
@@ -14474,19 +14474,19 @@ w336970169
   other tags : addr:housenumber=18 | addr:street=улица Циолковского | building=yes
     geometry : n3440625849[53.0705911,25.4020731] n3440625842[53.0705156,25.4020769] n3440625840[53.0705124,25.4018898] n3440625848[53.0705878,25.4018864] n3440625849[53.0705911,25.4020731]
 w336970170
-  other tags : addr:housenumber=18а | addr:street=Восточная улица | building=yes
+  other tags : addr:housenumber=18А | addr:street=Восточная улица | building=yes
     geometry : n3440627950[53.0726709,25.4000711] n3440627920[53.0725628,25.4000634] n3440627922[53.0725671,25.3998979] n3440627951[53.0726751,25.3999058] n3440627950[53.0726709,25.4000711]
 w336970171
-  other tags : addr:housenumber=18б | addr:street=Восточная улица | building=yes
+  other tags : addr:housenumber=18Б | addr:street=Восточная улица | building=yes
     geometry : n3440627934[53.0726362,25.4003052] n3440627906[53.0725281,25.4002975] n3440627907[53.0725317,25.4001568] n3440627935[53.0726397,25.4001646] n3440627934[53.0726362,25.4003052]
 w336970172
-  other tags : addr:housenumber=18в | addr:street=Восточная улица | building=yes
+  other tags : addr:housenumber=18В | addr:street=Восточная улица | building=yes
     geometry : n3440627943[53.0726532,25.4005594] n3440627912[53.0725451,25.4005517] n3440627915[53.0725494,25.4003863] n3440627944[53.0726574,25.4003941] n3440627943[53.0726532,25.4005594]
 w336970173
-  other tags : addr:housenumber=18г | addr:street=Восточная улица | building=yes
+  other tags : addr:housenumber=18Г | addr:street=Восточная улица | building=yes
     geometry : n3440627936[53.0726426,25.4007771] n3440627908[53.0725345,25.4007694] n3440627911[53.0725388,25.4006040] n3440627941[53.0726468,25.4006118] n3440627936[53.0726426,25.4007771]
 w336970174
-  other tags : addr:housenumber=18д | addr:street=Восточная улица | building=yes
+  other tags : addr:housenumber=18Д | addr:street=Восточная улица | building=yes
     geometry : n3440627931[53.0726249,25.4010125] n3440627903[53.0725168,25.4010048] n3440627904[53.0725211,25.4008393] n3440627932[53.0726291,25.4008471] n3440627931[53.0726249,25.4010125]
 w336970175
   other tags : addr:housenumber=19 | addr:street=улица Циолковского | building=yes
@@ -14750,16 +14750,16 @@ w336989060
   other tags : addr:housenumber=16 | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440819539[53.0757927,25.4007791] n3440819551[53.0759007,25.4007868] n3440819550[53.0758970,25.4009270] n3440819538[53.0757891,25.4009191] n3440819539[53.0757927,25.4007791]
 w336989061
-  other tags : addr:housenumber=16а | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=16А | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819118[53.0730583,25.4001086] n3440819122[53.0730638,25.3999546] n3440819138[53.0731617,25.3999644] n3440819137[53.0731561,25.4001183] n3440819118[53.0730583,25.4001086]
 w336989063
-  other tags : addr:housenumber=16б | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=16Б | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819130[53.0731118,25.4004861] n3440819113[53.0730192,25.4004795] n3440819114[53.0730234,25.4003163] n3440819132[53.0731159,25.4003231] n3440819130[53.0731118,25.4004861]
 w336989064
-  other tags : addr:housenumber=16в | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=16В | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819108[53.0729639,25.4007634] n3440819109[53.0729661,25.4006092] n3440819127[53.0730965,25.4006144] n3440819126[53.0730943,25.4007685] n3440819108[53.0729639,25.4007634]
 w336989066
-  other tags : addr:housenumber=16д | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=16Д | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819123[53.0730764,25.4010509] n3440819110[53.0729838,25.4010443] n3440819111[53.0729880,25.4008811] n3440819124[53.0730806,25.4008879] n3440819123[53.0730764,25.4010509]
 w336989067
   other tags : addr:housenumber=17 | addr:street=Юбилейная улица | building=yes
@@ -14792,7 +14792,7 @@ w336989076
   other tags : addr:housenumber=23 | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440819290[53.0753789,25.4023989] n3440819497[53.0754407,25.4024467] n3440819292[53.0754051,25.4025739] n3440819288[53.0753434,25.4025260] n3440819290[53.0753789,25.4023989]
 w336989077
-  other tags : addr:housenumber=23а | addr:street=улица Советских Пограничников | building=yes
+  other tags : addr:housenumber=23А | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440819283[53.0752956,25.4027892] n3440819291[53.0753895,25.4028781] n3440819289[53.0753479,25.4030000] n3440819279[53.0752540,25.4029110] n3440819283[53.0752956,25.4027892]
 w336989078
   other tags : addr:housenumber=24 | addr:street=Восточная улица | building=yes
@@ -14807,10 +14807,10 @@ w336989081
   other tags : addr:housenumber=25 | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819097[53.0726870,25.4027620] n3440819096[53.0726072,25.4026088] n3440819098[53.0726988,25.4024766] n3440819099[53.0727785,25.4026298] n3440819097[53.0726870,25.4027620]
 w336989082
-  other tags : addr:housenumber=25а | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=25А | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819129[53.0731077,25.4021148] n3440819116[53.0730278,25.4019616] n3440819134[53.0731194,25.4018294] n3440819141[53.0731992,25.4019826] n3440819129[53.0731077,25.4021148]
 w336989083
-  other tags : addr:housenumber=25б | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=25Б | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819148[53.0733418,25.4017515] n3440819144[53.0732620,25.4015984] n3440819152[53.0733535,25.4014662] n3440819155[53.0734333,25.4016194] n3440819148[53.0733418,25.4017515]
 w336989084
   other tags : addr:housenumber=26 | addr:street=Восточная улица | building=yes
@@ -14861,7 +14861,7 @@ w336989101
   other tags : addr:housenumber=39 | addr:street=Юбилейная улица | building=yes
     geometry : n3440819258[53.0749397,25.4032059] n3440819263[53.0750368,25.4032847] n3440819262[53.0749999,25.4034108] n3440819256[53.0749028,25.4033319] n3440819258[53.0749397,25.4032059]
 w336989102
-  other tags : addr:housenumber=3а | addr:street=Юбилейный переулок | building=yes
+  other tags : addr:housenumber=3А | addr:street=Юбилейный переулок | building=yes
     geometry : n3440819217[53.0742555,25.3988300] n3440819216[53.0742540,25.3986347] n3440819230[53.0743500,25.3986326] n3440819231[53.0743515,25.3988279] n3440819217[53.0742555,25.3988300]
 w336989103
   other tags : addr:housenumber=4 | addr:street=Юбилейная улица | building=yes
@@ -14918,7 +14918,7 @@ w336989120
   other tags : addr:housenumber=8 | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440819591[53.0765165,25.3994985] n3440819598[53.0766214,25.3995415] n3440819594[53.0766012,25.3996777] n3440819588[53.0764963,25.3996345] n3440819591[53.0765165,25.3994985]
 w336989121
-  other tags : addr:housenumber=8а | addr:street=улица Советских Пограничников | building=yes
+  other tags : addr:housenumber=8А | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440819587[53.0764865,25.3997417] n3440819586[53.0764746,25.3999205] n3440819580[53.0763908,25.3999050] n3440819582[53.0764028,25.3997263] n3440819587[53.0764865,25.3997417]
 w336989122
   other tags : addr:housenumber=9 | addr:street=Юбилейная улица | building=yes
@@ -14984,7 +14984,7 @@ w336991784
   other tags : addr:housenumber=25 | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440851394[53.0746609,25.4037639] n3440851413[53.0747660,25.4038060] n3440851412[53.0747462,25.4039424] n3440851391[53.0746412,25.4039002] n3440851394[53.0746609,25.4037639]
 w336991786
-  other tags : addr:housenumber=25а | addr:street=Нижняя улица | building=yes
+  other tags : addr:housenumber=25А | addr:street=Нижняя улица | building=yes
     geometry : n3440851561[53.0774105,25.4033649] n3440851547[53.0773023,25.4033400] n3440851550[53.0773179,25.4031520] n3440851562[53.0774260,25.4031771] n3440851561[53.0774105,25.4033649]
 w336991788
   other tags : addr:housenumber=26 | addr:street=Нижняя улица | building=yes
@@ -15059,7 +15059,7 @@ w336991814
   other tags : addr:housenumber=38 | addr:street=улица Советских Пограничников | building=yes
     geometry : n3440851351[53.0740195,25.4047538] n3440851349[53.0740002,25.4049308] n3440851343[53.0739172,25.4049057] n3440851346[53.0739366,25.4047288] n3440851351[53.0740195,25.4047538]
 w336991815
-  other tags : addr:housenumber=38а | addr:street=Нижняя улица | building=yes
+  other tags : addr:housenumber=38А | addr:street=Нижняя улица | building=yes
     geometry : n3440851536[53.0772071,25.4068101] n3440851519[53.0771126,25.4068174] n3440851518[53.0771078,25.4066429] n3440851535[53.0772022,25.4066358] n3440851536[53.0772071,25.4068101]
 w336991816
   other tags : addr:housenumber=39 | addr:street=улица Советских Пограничников | building=yes
@@ -15125,13 +15125,13 @@ w336992053
   other tags : addr:housenumber=31 | addr:street=ул.Войкова | building=yes
     geometry : n3440854130[53.0799434,25.3903461] n3440854131[53.0799471,25.3901868] n3440854135[53.0800644,25.3901942] n3440854134[53.0800607,25.3903535] n3440854130[53.0799434,25.3903461]
 w336992054
-  other tags : addr:housenumber=31а | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=31А | addr:street=ул.Войкова | building=yes
     geometry : n3440854124[53.0797420,25.3903657] n3440854125[53.0797474,25.3901615] n3440854127[53.0798495,25.3901690] n3440854126[53.0798442,25.3903731] n3440854124[53.0797420,25.3903657]
 w336992055
-  other tags : addr:housenumber=31в | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=31В | addr:street=ул.Войкова | building=yes
     geometry : n3440854121[53.0793930,25.3903561] n3440854120[53.0793919,25.3901463] n3440854122[53.0794890,25.3901449] n3440854123[53.0794901,25.3903547] n3440854121[53.0793930,25.3903561]
 w336992056
-  other tags : addr:housenumber=31г | addr:street=ул.Войкова | building=yes
+  other tags : addr:housenumber=31Г | addr:street=ул.Войкова | building=yes
     geometry : n3440854117[53.0792450,25.3903149] n3440854116[53.0792432,25.3901640] n3440854118[53.0793403,25.3901609] n3440854119[53.0793421,25.3903117] n3440854117[53.0792450,25.3903149]
 w336992057
   other tags : addr:housenumber=35 | addr:street=ул.Войкова | building=yes
@@ -15188,7 +15188,7 @@ w337137684
   other tags : addr:housenumber=28 | addr:street=ул.Войкова | building=yes
     geometry : n3442399888[53.0796570,25.3917595] n3442399889[53.0796607,25.3916002] n3442399899[53.0797780,25.3916076] n3442399898[53.0797743,25.3917669] n3442399888[53.0796570,25.3917595]
 w337137685
-  other tags : addr:housenumber=2б | addr:street=пер.1-Лесной | building=yes
+  other tags : addr:housenumber=2Б | addr:street=пер.1-Лесной | building=yes
     geometry : n3442399842[53.0789997,25.3909234] n3442399843[53.0790034,25.3907641] n3442399857[53.0791207,25.3907715] n3442399856[53.0791170,25.3909308] n3442399842[53.0789997,25.3909234]
 w337137686
   other tags : addr:housenumber=3 | addr:street=пер.1-Лесной | building=yes
@@ -15566,10 +15566,10 @@ w337142918
   other tags : addr:housenumber=10 | addr:street=улица Победы | building=yes
     geometry : n3442446406[53.0904065,25.3912219] n3442446411[53.0905452,25.3913489] n3442446408[53.0904953,25.3915004] n3442446400[53.0903564,25.3913734] n3442446406[53.0904065,25.3912219]
 w337142919
-  other tags : addr:housenumber=10а | addr:street=Молодежная улица | building=yes
+  other tags : addr:housenumber=10А | addr:street=Молодежная улица | building=yes
     geometry : n3442446431[53.0907991,25.3889731] n3442446422[53.0906767,25.3890625] n3442446417[53.0906388,25.3889186] n3442446427[53.0907612,25.3888291] n3442446431[53.0907991,25.3889731]
 w337142920
-  other tags : addr:housenumber=10б | addr:street=Молодежная улица | building=yes
+  other tags : addr:housenumber=10Б | addr:street=Молодежная улица | building=yes
     geometry : n3442446442[53.0910045,25.3892601] n3442446444[53.0910215,25.3894439] n3442446436[53.0909283,25.3894680] n3442446434[53.0909111,25.3892841] n3442446442[53.0910045,25.3892601]
 w337142921
   other tags : addr:housenumber=11 | addr:street=Молодежная улица | building=yes
@@ -15674,7 +15674,7 @@ w337142954
   other tags : addr:housenumber=3 | addr:street=улица Победы | building=yes
     geometry : n3442446211[53.0896907,25.3899024] n3442446224[53.0897926,25.3899956] n3442446219[53.0897427,25.3901472] n3442446208[53.0896407,25.3900540] n3442446211[53.0896907,25.3899024]
 w337142955
-  other tags : addr:housenumber=3а | addr:street=улица Победы | building=yes
+  other tags : addr:housenumber=3А | addr:street=улица Победы | building=yes
     geometry : n3442446250[53.0899644,25.3900402] n3442446241[53.0899039,25.3902054] n3442446228[53.0898152,25.3901154] n3442446237[53.0898757,25.3899500] n3442446250[53.0899644,25.3900402]
 w337142956
   other tags : addr:housenumber=4 | addr:street=Молодежная улица | building=yes
@@ -15719,7 +15719,7 @@ w337142969
   other tags : addr:housenumber=6 | addr:street=улица Победы | building=yes
     geometry : n3442446245[53.0899211,25.3907709] n3442446235[53.0898644,25.3909399] n3442446221[53.0897737,25.3908556] n3442446230[53.0898304,25.3906864] n3442446245[53.0899211,25.3907709]
 w337142970
-  other tags : addr:housenumber=6а | addr:street=Молодежная улица | building=yes
+  other tags : addr:housenumber=6А | addr:street=Молодежная улица | building=yes
     geometry : n3442446261[53.0900238,25.3889213] n3442446271[53.0900830,25.3890790] n3442446255[53.0900030,25.3891624] n3442446248[53.0899437,25.3890046] n3442446261[53.0900238,25.3889213]
 w337142971
   other tags : addr:housenumber=7 | addr:street=Молодежная улица | building=yes
@@ -15767,7 +15767,7 @@ w337153825
   other tags : addr:housenumber=101 | addr:street=ул.Минский тракт | building=yes
     geometry : n3442551532[53.0950042,25.3779143] n3442551531[53.0949684,25.3776975] n3442551541[53.0950698,25.3776510] n3442551542[53.0951056,25.3778678] n3442551532[53.0950042,25.3779143]
 w337153826
-  other tags : addr:housenumber=101а | addr:street=ул.Минский тракт | building=yes
+  other tags : addr:housenumber=101А | addr:street=ул.Минский тракт | building=yes
     geometry : n3442551510[53.0946736,25.3778770] n3442551509[53.0946602,25.3776833] n3442551516[53.0947686,25.3776625] n3442551519[53.0947820,25.3778562] n3442551510[53.0946736,25.3778770]
 w337153827
   other tags : addr:housenumber=103 | addr:street=ул.Минский тракт | building=yes
@@ -15857,7 +15857,7 @@ w337153855
   other tags : addr:housenumber=17 | addr:street=ул.Речная | building=yes
     geometry : n3442551814[53.0970934,25.3739275] n3442551813[53.0970881,25.3737739] n3442551827[53.0972033,25.3737627] n3442551828[53.0972086,25.3739163] n3442551814[53.0970934,25.3739275]
 w337153856
-  other tags : addr:housenumber=17а | addr:street=ул.Мелиораторов | building=yes
+  other tags : addr:housenumber=17А | addr:street=ул.Мелиораторов | building=yes
     geometry : n3442551508[53.0946516,25.3730635] n3442551507[53.0946455,25.3728879] n3442551518[53.0947803,25.3728750] n3442551520[53.0947863,25.3730506] n3442551508[53.0946516,25.3730635]
 w337153857
   other tags : addr:housenumber=18 | addr:street=пер.Мелиораторов | building=yes
@@ -15971,7 +15971,7 @@ w337153894
   other tags : addr:housenumber=39 | addr:street=ул.Заречная | building=yes
     geometry : n3442552104[53.1022880,25.3798061] n3442552103[53.1022533,25.3796023] n3442552105[53.1023315,25.3795654] n3442552107[53.1023662,25.3797692] n3442552104[53.1022880,25.3798061]
 w337153895
-  other tags : addr:housenumber=3а | addr:street=пер.Мелиораторов | building=yes
+  other tags : addr:housenumber=3А | addr:street=пер.Мелиораторов | building=yes
     geometry : n3442551664[53.0964227,25.3764378] n3442551661[53.0964057,25.3761466] n3442551670[53.0965158,25.3761288] n3442551672[53.0965328,25.3764200] n3442551664[53.0964227,25.3764378]
 w337153896
   other tags : addr:housenumber=4 | addr:street=пер.Мелиораторов | building=yes
@@ -15995,7 +15995,7 @@ w337153902
   other tags : addr:housenumber=42 | addr:street=ул.Минский тракт | building=yes
     geometry : n3442547988[53.0939583,25.3758813] n3442547987[53.0939499,25.3756852] n3442547989[53.0940499,25.3756733] n3442547990[53.0940583,25.3758694] n3442547988[53.0939583,25.3758813]
 w337153903
-  other tags : addr:housenumber=42б | addr:street=ул.Заречная | building=yes
+  other tags : addr:housenumber=42Б | addr:street=ул.Заречная | building=yes
     geometry : n3442552120[53.1033912,25.3801995] n3442552119[53.1033707,25.3800325] n3442552121[53.1034727,25.3799977] n3442552122[53.1034932,25.3801647] n3442552120[53.1033912,25.3801995]
 w337153904
   other tags : addr:housenumber=43 | addr:street=ул.Заречная | building=yes
@@ -16037,7 +16037,7 @@ w337153925
   other tags : addr:housenumber=7 | addr:street=ул.Речная | building=yes
     geometry : n3442551836[53.0972465,25.3760506] n3442551835[53.0972448,25.3758740] n3442551843[53.0973548,25.3758710] n3442551844[53.0973566,25.3760476] n3442551836[53.0972465,25.3760506]
 w337153926
-  other tags : addr:housenumber=7а | addr:street=пер.Мелиораторов | building=yes
+  other tags : addr:housenumber=7А | addr:street=пер.Мелиораторов | building=yes
     geometry : n3442551652[53.0963319,25.3752711] n3442551651[53.0963240,25.3750779] n3442551665[53.0964361,25.3750652] n3442551666[53.0964440,25.3752584] n3442551652[53.0963319,25.3752711]
 w337153927
   other tags : addr:housenumber=8 | addr:street=пер.Мелиораторов | building=yes
@@ -16058,10 +16058,10 @@ w337153932
   other tags : addr:housenumber=89 | addr:street=ул.Минский тракт | building=yes
     geometry : n3442547992[53.0942425,25.3737701] n3442547991[53.0942065,25.3734962] n3442551493[53.0943097,25.3734586] n3442551496[53.0943457,25.3737324] n3442547992[53.0942425,25.3737701]
 w337153933
-  other tags : addr:housenumber=8а | addr:street=пер.Мелиораторов | building=yes
+  other tags : addr:housenumber=8А | addr:street=пер.Мелиораторов | building=yes
     geometry : n3442551573[53.0956996,25.3766014] n3442551571[53.0956923,25.3764262] n3442551583[53.0958600,25.3764067] n3442551584[53.0958673,25.3765820] n3442551573[53.0956996,25.3766014]
 w337153934
-  other tags : addr:housenumber=8б | addr:street=пер.Мелиораторов | building=yes
+  other tags : addr:housenumber=8Б | addr:street=пер.Мелиораторов | building=yes
     geometry : n3442551558[53.0955123,25.3765762] n3442551557[53.0955007,25.3763927] n3442551566[53.0956204,25.3763717] n3442551568[53.0956320,25.3765553] n3442551558[53.0955123,25.3765762]
 w337153935
   other tags : addr:housenumber=9 | addr:street=пер.Мелиораторов | building=yes
@@ -16094,7 +16094,7 @@ w337171073
   other tags : addr:housenumber=107 | addr:street=ул.Минский тракт | building=yes
     geometry : n3442657313[53.0952951,25.3817176] n3442657312[53.0952867,25.3815761] n3442657316[53.0953765,25.3815614] n3442657317[53.0953849,25.3817029] n3442657313[53.0952951,25.3817176]
 w337171074
-  other tags : addr:housenumber=107а | addr:street=ул.Минский тракт | building=yes
+  other tags : addr:housenumber=107А | addr:street=ул.Минский тракт | building=yes
     geometry : n3442657315[53.0953502,25.3819913] n3442657314[53.0953383,25.3817954] n3442657318[53.0954419,25.3817779] n3442657319[53.0954538,25.3819738] n3442657315[53.0953502,25.3819913]
 w337171075
   other tags : addr:housenumber=12 | addr:street=ул.Минская | building=yes
@@ -16109,7 +16109,7 @@ w337171078
   other tags : addr:housenumber=19 | addr:street=ул.Минская | building=yes
     geometry : n3442657329[53.0970107,25.3789160] n3442657328[53.0969595,25.3787448] n3442657331[53.0970676,25.3786551] n3442657333[53.0971188,25.3788264] n3442657329[53.0970107,25.3789160]
 w337171079
-  other tags : addr:housenumber=1а | addr:street=ул.Заречная | building=yes
+  other tags : addr:housenumber=1А | addr:street=ул.Заречная | building=yes
     geometry : n3442657321[53.0958995,25.3820912] n3442657320[53.0958734,25.3819414] n3442657322[53.0960391,25.3818615] n3442657323[53.0960652,25.3820113] n3442657321[53.0958995,25.3820912]
 w337171080
   other tags : addr:housenumber=2 | addr:street=ул.Заречная | building=yes
@@ -16166,31 +16166,31 @@ w337176657
   other tags : addr:housenumber=41 | addr:street=Минский тракт | building=yes
     geometry : n3442751608[53.0935087,25.3620148] n3442751610[53.0935166,25.3618448] n3442751627[53.0936107,25.3618570] n3442751626[53.0936028,25.3620269] n3442751608[53.0935087,25.3620148]
 w337176658
-  other tags : addr:housenumber=41а | addr:street=Минский тракт пер. | building=yes
+  other tags : addr:housenumber=41А | addr:street=Минский тракт пер. | building=yes
     geometry : n3442751682[53.0940736,25.3621813] n3442751684[53.0940816,25.3620028] n3442751810[53.0941750,25.3620144] n3442751807[53.0941670,25.3621929] n3442751682[53.0940736,25.3621813]
 w337176659
   other tags : addr:housenumber=43 | addr:street=Минский тракт | building=yes
     geometry : n3442751604[53.0934915,25.3623373] n3442751606[53.0934994,25.3621674] n3442751623[53.0935934,25.3621795] n3442751621[53.0935855,25.3623494] n3442751604[53.0934915,25.3623373]
 w337176660
-  other tags : addr:housenumber=43а | addr:street=Минский тракт пер. | building=yes
+  other tags : addr:housenumber=43А | addr:street=Минский тракт пер. | building=yes
     geometry : n3442751677[53.0940542,25.3624373] n3442751681[53.0940598,25.3622903] n3442751804[53.0941549,25.3623002] n3442751802[53.0941493,25.3624472] n3442751677[53.0940542,25.3624373]
 w337176661
   other tags : addr:housenumber=45 | addr:street=Минский тракт | building=yes
     geometry : n3442751609[53.0935102,25.3626973] n3442751611[53.0935219,25.3625304] n3442751625[53.0935954,25.3625447] n3442751620[53.0935836,25.3627117] n3442751609[53.0935102,25.3626973]
 w337176662
-  other tags : addr:housenumber=45а | addr:street=Минский тракт пер. | building=yes
+  other tags : addr:housenumber=45А | addr:street=Минский тракт пер. | building=yes
     geometry : n3442751673[53.0940455,25.3627901] n3442751674[53.0940478,25.3626202] n3442751800[53.0941464,25.3626240] n3442751796[53.0941440,25.3627939] n3442751673[53.0940455,25.3627901]
 w337176663
   other tags : addr:housenumber=47 | addr:street=Минский тракт | building=yes
     geometry : n3442751597[53.0934536,25.3630769] n3442751599[53.0934615,25.3629070] n3442751617[53.0935556,25.3629191] n3442751616[53.0935477,25.3630890] n3442751597[53.0934536,25.3630769]
 w337176664
-  other tags : addr:housenumber=47а | addr:street=Минский тракт пер. | building=yes
+  other tags : addr:housenumber=47А | addr:street=Минский тракт пер. | building=yes
     geometry : n3442751679[53.0940576,25.3631197] n3442751678[53.0940564,25.3629325] n3442751797[53.0941446,25.3629308] n3442751798[53.0941458,25.3631180] n3442751679[53.0940576,25.3631197]
 w337176665
   other tags : addr:housenumber=49 | addr:street=Минский тракт | building=yes
     geometry : n3442751596[53.0934509,25.3634642] n3442751598[53.0934539,25.3633344] n3442751615[53.0935428,25.3633403] n3442751614[53.0935398,25.3634700] n3442751596[53.0934509,25.3634642]
 w337176666
-  other tags : addr:housenumber=4а | addr:street=Минский тракт пер. | building=yes
+  other tags : addr:housenumber=4А | addr:street=Минский тракт пер. | building=yes
     geometry : n3442751799[53.0941459,25.3616022] n3442751803[53.0941539,25.3614237] n3442751821[53.0942473,25.3614353] n3442751820[53.0942393,25.3616138] n3442751799[53.0941459,25.3616022]
 w337176667
   other tags : addr:housenumber=51 | addr:street=Минский тракт | building=yes
@@ -16229,7 +16229,7 @@ w337176678
   other tags : addr:housenumber=73 | addr:street=Минский тракт | building=yes
     geometry : n3442751653[53.0938110,25.3672289] n3442751652[53.0938080,25.3670879] n3442751662[53.0939281,25.3670809] n3442751663[53.0939311,25.3672218] n3442751653[53.0938110,25.3672289]
 w337176679
-  other tags : addr:housenumber=73б | addr:street=Минский тракт | building=yes
+  other tags : addr:housenumber=73Б | addr:street=Минский тракт | building=yes
     geometry : n3442751851[53.0945466,25.3698652] n3442751850[53.0945390,25.3696300] n3442751858[53.0946610,25.3696191] n3442751859[53.0946685,25.3698544] n3442751851[53.0945466,25.3698652]
 w337176680
   other tags : addr:housenumber=75 | addr:street=Минский тракт | building=yes
@@ -16247,13 +16247,13 @@ w337176684
   other tags : addr:housenumber=83 | addr:street=Минский тракт | building=yes
     geometry : n3442751670[53.0940222,25.3711513] n3442751669[53.0940202,25.3709820] n3442751690[53.0941129,25.3709791] n3442751691[53.0941149,25.3711484] n3442751670[53.0940222,25.3711513]
 w337176685
-  other tags : addr:housenumber=83а | addr:street=Минский тракт | building=yes
+  other tags : addr:housenumber=83А | addr:street=Минский тракт | building=yes
     geometry : n3442751811[53.0941787,25.3715351] n3442751806[53.0941637,25.3712217] n3442751823[53.0942611,25.3712088] n3442751826[53.0942761,25.3715222] n3442751811[53.0941787,25.3715351]
 w337176686
-  other tags : addr:housenumber=83б | addr:street=Минский тракт | building=yes
+  other tags : addr:housenumber=83Б | addr:street=Минский тракт | building=yes
     geometry : n3442751846[53.0944840,25.3710861] n3442751847[53.0944846,25.3709197] n3442751856[53.0946255,25.3709210] n3442751855[53.0946249,25.3710875] n3442751846[53.0944840,25.3710861]
 w337176687
-  other tags : addr:housenumber=83в | addr:street=Минский тракт | building=yes
+  other tags : addr:housenumber=83В | addr:street=Минский тракт | building=yes
     geometry : n3442751863[53.0946954,25.3708992] n3442751862[53.0946874,25.3705218] n3442751866[53.0948117,25.3705145] n3442751867[53.0948197,25.3708919] n3442751863[53.0946954,25.3708992]
 w337176688
   other tags : addr:housenumber=85 | addr:street=Минский тракт | building=yes
@@ -16289,10 +16289,10 @@ w337377742
   other tags : addr:housenumber=62 | addr:street=улица Ковалевского | building=yes
     geometry : n3444684172[53.0663346,25.3343918] n3444684178[53.0664315,25.3342579] n3444684175[53.0663559,25.3341066] n3444684169[53.0662590,25.3342405] n3444684172[53.0663346,25.3343918]
 w337377743
-  other tags : addr:housenumber=62а | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=62А | addr:street=улица Ковалевского | building=yes
     geometry : n3444684166[53.0662125,25.3346055] n3444684171[53.0662941,25.3344870] n3444684167[53.0662142,25.3343346] n3444684163[53.0661326,25.3344532] n3444684166[53.0662125,25.3346055]
 w337377744
-  other tags : addr:housenumber=62б | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=62Б | addr:street=улица Ковалевского | building=yes
     geometry : n3444684162[53.0660929,25.3347740] n3444684164[53.0661652,25.3346675] n3444684161[53.0660846,25.3345159] n3444684160[53.0660123,25.3346223] n3444684162[53.0660929,25.3347740]
 w337377745
   other tags : addr:housenumber=63 | addr:street=улица Ковалевского | building=yes
@@ -16361,7 +16361,7 @@ w337559151
   other tags : addr:housenumber=83 | addr:street=улица Ковалевского | building=yes
     geometry : n3446302963[53.0650927,25.3366262] n3446302967[53.0651875,25.3365002] n3446302965[53.0651240,25.3363679] n3446302961[53.0650292,25.3364939] n3446302963[53.0650927,25.3366262]
 w337559152
-  other tags : addr:housenumber=83а | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=83А | addr:street=улица Ковалевского | building=yes
     geometry : n3446302954[53.0648005,25.3370090] n3446302957[53.0648791,25.3368991] n3446302955[53.0648143,25.3367707] n3446302953[53.0647357,25.3368806] n3446302954[53.0648005,25.3370090]
 w337598045
   other tags : addr:housenumber=101 | addr:street=улица Ковалевского | building=yes
@@ -16445,7 +16445,7 @@ w337598071
   other tags : addr:housenumber=82 | addr:street=улица Ковалевского | building=yes
     geometry : n3446671100[53.0641749,25.3371437] n3446671102[53.0642536,25.3370338] n3446671101[53.0641888,25.3369054] n3446671097[53.0641102,25.3370153] n3446671100[53.0641749,25.3371437]
 w337598072
-  other tags : addr:housenumber=83б | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=83Б | addr:street=улица Ковалевского | building=yes
     geometry : n3446671141[53.0649438,25.3372559] n3446671148[53.0650224,25.3371461] n3446671142[53.0649577,25.3370177] n3446671140[53.0648790,25.3371275] n3446671141[53.0649438,25.3372559]
 w337598073
   other tags : addr:housenumber=84 | addr:street=улица Ковалевского | building=yes
@@ -16454,10 +16454,10 @@ w337598074
   other tags : addr:housenumber=85 | addr:street=улица Ковалевского | building=yes
     geometry : n3446671116[53.0645399,25.3374223] n3446671120[53.0646257,25.3373016] n3446671117[53.0645438,25.3371403] n3446671113[53.0644580,25.3372610] n3446671116[53.0645399,25.3374223]
 w337598075
-  other tags : addr:housenumber=85б | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=85Б | addr:street=улица Ковалевского | building=yes
     geometry : n3446671151[53.0650584,25.3375758] n3446671156[53.0651371,25.3374659] n3446671152[53.0650723,25.3373375] n3446671146[53.0649937,25.3374474] n3446671151[53.0650584,25.3375758]
 w337598076
-  other tags : addr:housenumber=85в | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=85В | addr:street=улица Ковалевского | building=yes
     geometry : n3446671128[53.0647246,25.3375253] n3446671135[53.0648032,25.3374154] n3446671132[53.0647385,25.3372870] n3446671124[53.0646598,25.3373969] n3446671128[53.0647246,25.3375253]
 w337598077
   other tags : addr:housenumber=86 | addr:street=улица Ковалевского | building=yes
@@ -16529,7 +16529,7 @@ w337769811
   other tags : addr:housenumber=38 | addr:street=переулок Тавлая | building=yes
     geometry : n3448223245[53.0660159,25.3337518] n3448223250[53.0661280,25.3335988] n3448223246[53.0660438,25.3334278] n3448223238[53.0659317,25.3335809] n3448223245[53.0660159,25.3337518]
 w337769812
-  other tags : addr:housenumber=40а | addr:street=переулок Тавлая | building=yes
+  other tags : addr:housenumber=40А | addr:street=переулок Тавлая | building=yes
     geometry : n3448223233[53.0658628,25.3339460] n3448223241[53.0659414,25.3338362] n3448223235[53.0658767,25.3337078] n3448223229[53.0657980,25.3338176] n3448223233[53.0658628,25.3339460]
 w337769813
   other tags : addr:housenumber=45 | addr:street=Анищика улица | building=yes
@@ -16616,7 +16616,7 @@ w337769840
   other tags : addr:housenumber=89f | addr:street=Анищика улица | building=yes
     geometry : n3448219743[53.0630236,25.3376457] n3448219748[53.0631107,25.3375276] n3448219744[53.0630407,25.3373848] n3448219741[53.0629537,25.3375029] n3448219743[53.0630236,25.3376457]
 w337769841
-  other tags : addr:housenumber=89б | addr:street=Анищика улица | building=yes
+  other tags : addr:housenumber=89Б | addr:street=Анищика улица | building=yes
     geometry : n3448219751[53.0631877,25.3379442] n3448219753[53.0632643,25.3378309] n3448219750[53.0631816,25.3376761] n3448219747[53.0631050,25.3377894] n3448219751[53.0631877,25.3379442]
 w337769842
   other tags : addr:housenumber=9 | addr:street=переулок Тавлая | building=yes
@@ -16658,10 +16658,10 @@ w337788661
   other tags : addr:housenumber=44 | addr:street=Социалистическая улица | building=yes
     geometry : n3448454456[53.0661481,25.3365746] n3448454458[53.0662295,25.3364477] n3448454459[53.0662958,25.3365655] n3448454457[53.0662144,25.3366924] n3448454456[53.0661481,25.3365746]
 w337788662
-  other tags : addr:housenumber=45а | addr:street=Ботаническая улица | building=yes
+  other tags : addr:housenumber=45А | addr:street=Ботаническая улица | building=yes
     geometry : n3448454466[53.0666784,25.3326418] n3448454472[53.0667695,25.3325261] n3448454467[53.0667029,25.3323809] n3448454464[53.0666118,25.3324966] n3448454466[53.0666784,25.3326418]
 w337788663
-  other tags : addr:housenumber=45б | addr:street=Ботаническая улица | building=yes
+  other tags : addr:housenumber=45Б | addr:street=Ботаническая улица | building=yes
     geometry : n3448454475[53.0667900,25.3328187] n3448454479[53.0668788,25.3326998] n3448454477[53.0668382,25.3326159] n3448454474[53.0667843,25.3326881] n3448454471[53.0667554,25.3326285] n3448454469[53.0667206,25.3326752] n3448454475[53.0667900,25.3328187]
 w337788664
   other tags : addr:housenumber=46 | addr:street=Социалистическая улица | building=yes
@@ -16670,10 +16670,10 @@ w337788665
   other tags : addr:housenumber=48 | addr:street=Социалистическая улица | building=yes
     geometry : n3448454445[53.0656638,25.3371849] n3448454448[53.0657301,25.3370919] n3448454451[53.0658025,25.3372348] n3448454449[53.0657362,25.3373279] n3448454445[53.0656638,25.3371849]
 w337788666
-  other tags : addr:housenumber=41а | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=41А | addr:street=Социалистическая улица | building=yes
     geometry : n3448454444[53.0656285,25.3377652] n3448454447[53.0657199,25.3376477] n3448454450[53.0658024,25.3378253] n3448454446[53.0657110,25.3379429] n3448454444[53.0656285,25.3377652]
 w337788667
-  other tags : addr:housenumber=52а | addr:street=Ботаническая улица | building=yes
+  other tags : addr:housenumber=52А | addr:street=Ботаническая улица | building=yes
     geometry : n3448454480[53.0668896,25.3330421] n3448454485[53.0669360,25.3329850] n3448454482[53.0669110,25.3329285] n3448454486[53.0669564,25.3328727] n3448454483[53.0669160,25.3327816] n3448454476[53.0668241,25.3328945] n3448454480[53.0668896,25.3330421]
 w337788670
   other tags : addr:housenumber=60 | addr:street=Анищика улица | building=yes
@@ -16736,7 +16736,7 @@ w338442138
   other tags : addr:housenumber=13 | addr:street=улица Новаторов | building=yes
     geometry : n3455219969[53.0646155,25.3274049] n3455219975[53.0647287,25.3273857] n3455219976[53.0647401,25.3275709] n3455219971[53.0646269,25.3275901] n3455219969[53.0646155,25.3274049]
 w338442139
-  other tags : addr:housenumber=13а | addr:street=улица Новаторов | building=yes
+  other tags : addr:housenumber=13А | addr:street=улица Новаторов | building=yes
     geometry : n3455219959[53.0643726,25.3274888] n3455219963[53.0644823,25.3274382] n3455219966[53.0645122,25.3276176] n3455219962[53.0644025,25.3276682] n3455219959[53.0643726,25.3274888]
 w338442140
   other tags : addr:housenumber=14 | addr:street=переулок Щорса | building=yes
@@ -16847,7 +16847,7 @@ w338444291
   other tags : addr:housenumber=54 | addr:street=Социалистическая улица | building=yes
     geometry : n3455236621[53.0650670,25.3380025] n3455236623[53.0651183,25.3381187] n3455236618[53.0649409,25.3383358] n3455236615[53.0648894,25.3382195] n3455236621[53.0650670,25.3380025]
 w338444292
-  other tags : addr:housenumber=54а | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=54А | addr:street=Социалистическая улица | building=yes
     geometry : n3455236612[53.0648572,25.3375754] n3455236616[53.0649079,25.3376925] n3455236610[53.0647837,25.3378416] n3455236609[53.0647329,25.3377246] n3455236612[53.0648572,25.3375754]
 w338444293
   other tags : addr:housenumber=56 | addr:street=Социалистическая улица | building=yes
@@ -16901,10 +16901,10 @@ w340069369
   other tags : addr:housenumber=23 | addr:street=улица Виноградова | building=yes
     geometry : n3472777832[53.0613446,25.3342755] n3472777844[53.0614399,25.3341389] n3472777856[53.0615189,25.3342914] n3472777843[53.0614236,25.3344280] n3472777832[53.0613446,25.3342755]
 w340069370
-  other tags : addr:housenumber=35а | addr:street=улица Новаторов | building=yes
+  other tags : addr:housenumber=35А | addr:street=улица Новаторов | building=yes
     geometry : n3472777877[53.0616899,25.3307013] n3472777890[53.0618150,25.3306159] n3472777895[53.0618603,25.3307996] n3472777882[53.0617352,25.3308850] n3472777877[53.0616899,25.3307013]
 w340069371
-  other tags : addr:housenumber=35б | addr:street=улица Новаторов | building=yes
+  other tags : addr:housenumber=35Б | addr:street=улица Новаторов | building=yes
     geometry : n3472777859[53.0615360,25.3308154] n3472777871[53.0616480,25.3307320] n3472777879[53.0616995,25.3309235] n3472777866[53.0615875,25.3310070] n3472777859[53.0615360,25.3308154]
 w340069372
   other tags : addr:housenumber=38 | addr:street=улица Виноградова | building=yes
@@ -16913,7 +16913,7 @@ w340069373
   other tags : addr:housenumber=38 | addr:street=улица Декабристов | building=yes
     geometry : n3472777886[53.0617565,25.3315162] n3472777897[53.0618788,25.3314568] n3472777901[53.0619149,25.3316622] n3472777889[53.0617926,25.3317217] n3472777886[53.0617565,25.3315162]
 w340069374
-  other tags : addr:housenumber=39а | addr:street=Южная улица | building=yes
+  other tags : addr:housenumber=39А | addr:street=Южная улица | building=yes
     geometry : n3472777900[53.0619105,25.3302780] n3472777893[53.0618217,25.3300732] n3472777903[53.0619208,25.3299542] n3472777905[53.0620096,25.3301590] n3472777900[53.0619105,25.3302780]
 w340069375
   other tags : addr:housenumber=40 | addr:street=улица Виноградова | building=yes
@@ -16925,7 +16925,7 @@ w340069377
   other tags : addr:housenumber=40 | addr:street=улица Новаторов | building=yes
     geometry : n3472777831[53.0613421,25.3304790] n3472777846[53.0614492,25.3304132] n3472777851[53.0614911,25.3306018] n3472777839[53.0613840,25.3306676] n3472777831[53.0613421,25.3304790]
 w340069378
-  other tags : addr:housenumber=40а | addr:street=улица Новаторов | building=yes
+  other tags : addr:housenumber=40А | addr:street=улица Новаторов | building=yes
     geometry : n3472777853[53.0615047,25.3303582] n3472777868[53.0616299,25.3302728] n3472777875[53.0616752,25.3304565] n3472777861[53.0615500,25.3305419] n3472777853[53.0615047,25.3303582]
 w340069379
   other tags : addr:housenumber=41 | addr:street=Южная улица | building=yes
@@ -17057,49 +17057,49 @@ w340827165
   other tags : addr:housenumber=9 | addr:street=переулок Южный | building=yes
     geometry : n3480750967[53.0619240,25.3367571] n3480750976[53.0620125,25.3366408] n3480750982[53.0620783,25.3367794] n3480750974[53.0619899,25.3368957] n3480750967[53.0619240,25.3367571]
 w340937563
-  other tags : addr:housenumber=101а | addr:street=улица Ковалевского | building=yes
+  other tags : addr:housenumber=101А | addr:street=улица Ковалевского | building=yes
     geometry : n3481564339[53.0637360,25.3390283] n3481564343[53.0638290,25.3388972] n3481564340[53.0637702,25.3387816] n3481564338[53.0636772,25.3389126] n3481564339[53.0637360,25.3390283]
 w340937564
-  other tags : addr:housenumber=174а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=174А | addr:street=Красноармейская улица | building=yes
     geometry : n3481564387[53.0646790,25.3389833] n3481564389[53.0647707,25.3391381] n3481564388[53.0646903,25.3392699] n3481564385[53.0645987,25.3391151] n3481564387[53.0646790,25.3389833]
 w340937566
-  other tags : addr:housenumber=174б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=174Б | addr:street=Красноармейская улица | building=yes
     geometry : n3481564384[53.0645669,25.3387897] n3481564386[53.0646282,25.3389025] n3481564382[53.0645276,25.3390538] n3481564379[53.0644663,25.3389410] n3481564384[53.0645669,25.3387897]
 w340937568
-  other tags : addr:housenumber=174в | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=174В | addr:street=Красноармейская улица | building=yes
     geometry : n3481564377[53.0644287,25.3385479] n3481564380[53.0644820,25.3386597] n3481564376[53.0643893,25.3387822] n3481564374[53.0643360,25.3386703] n3481564377[53.0644287,25.3385479]
 w340937569
   other tags : addr:housenumber=178 | addr:street=Красноармейская улица | building=yes
     geometry : n3481564362[53.0641350,25.3395036] n3481564369[53.0642015,25.3396394] n3481564360[53.0641232,25.3397456] n3481564354[53.0640567,25.3396098] n3481564362[53.0641350,25.3395036]
 w340937570
-  other tags : addr:housenumber=178а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=178А | addr:street=Красноармейская улица | building=yes
     geometry : n3481564371[53.0642550,25.3397096] n3481564373[53.0643083,25.3398214] n3481564370[53.0642156,25.3399439] n3481564364[53.0641623,25.3398320] n3481564371[53.0642550,25.3397096]
 w340937571
-  other tags : addr:housenumber=178б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=178Б | addr:street=Красноармейская улица | building=yes
     geometry : n3481564353[53.0640408,25.3392774] n3481564357[53.0640942,25.3393892] n3481564351[53.0640015,25.3395117] n3481564348[53.0639482,25.3393998] n3481564353[53.0640408,25.3392774]
 w340937572
-  other tags : addr:housenumber=178в | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=178В | addr:street=Красноармейская улица | building=yes
     geometry : n3481564346[53.0639127,25.3390697] n3481564349[53.0639661,25.3391816] n3481564344[53.0638734,25.3393041] n3481564342[53.0638200,25.3391922] n3481564346[53.0639127,25.3390697]
 w340937573
-  other tags : addr:housenumber=178г | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=178Г | addr:street=Красноармейская улица | building=yes
     geometry : n3481564361[53.0641344,25.3387462] n3481564367[53.0641991,25.3388590] n3481564363[53.0641356,25.3389598] n3481564355[53.0640709,25.3388470] n3481564361[53.0641344,25.3387462]
 w340937574
-  other tags : addr:housenumber=180а | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=180А | addr:street=Красноармейская улица | building=yes
     geometry : n3481564345[53.0638838,25.3397348] n3481564350[53.0639973,25.3399298] n3481564347[53.0639225,25.3400504] n3481564341[53.0638090,25.3398553] n3481564345[53.0638838,25.3397348]
 w340937575
-  other tags : addr:housenumber=180б | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=180Б | addr:street=Красноармейская улица | building=yes
     geometry : n3481564358[53.0641005,25.3400877] n3481564365[53.0641697,25.3402131] n3481564356[53.0640885,25.3403372] n3481564352[53.0640193,25.3402118] n3481564358[53.0641005,25.3400877]
 w340937576
-  other tags : addr:housenumber=180в | addr:street=Красноармейская улица | building=yes
+  other tags : addr:housenumber=180В | addr:street=Красноармейская улица | building=yes
     geometry : n3481564368[53.0641991,25.3403005] n3481564372[53.0642656,25.3404363] n3481564366[53.0641873,25.3405425] n3481564359[53.0641208,25.3404067] n3481564368[53.0641991,25.3403005]
 w340937577
-  other tags : addr:housenumber=56а | addr:street=Социалистическая улица | building=yes
+  other tags : addr:housenumber=56А | addr:street=Социалистическая улица | building=yes
     geometry : n3481564375[53.0643798,25.3379132] n3481564381[53.0644931,25.3377480] n3481564383[53.0645562,25.3378680] n3481564378[53.0644429,25.3380331] n3481564375[53.0643798,25.3379132]
 w342724469  null / null / ЕВРООПТ
-  other tags : addr:city=Слоним | addr:housenumber=42а | addr:street=Брестская улица | building=yes | building:levels=1 | opening_hours=9.00-22.00 | shop=supermarket
+  other tags : addr:housenumber=42А | addr:street=Брестская улица | building=yes | building:levels=1 | opening_hours=9:00-22:00 | shop=supermarket
     geometry : n3496894026[53.0879713,25.3035438] n3496894027[53.0873667,25.3042133] n3496894028[53.0871133,25.3035789] n3496894029[53.0877180,25.3029094] n3496894026[53.0879713,25.3035438]
 w342724473  null / null / ЕВРООПТ
-  other tags : addr:city=Слоним | addr:housenumber=58 | addr:street=Ершова | building=yes | shop=supermarket
+  other tags : addr:housenumber=58 | addr:street=Ершова | building=yes | shop=supermarket
     geometry : n3496894044[53.0821041,25.3046521] n3496894045[53.0825038,25.3057988] n3496894046[53.0820659,25.3062731] n3496894047[53.0816577,25.3050910] n3496894044[53.0821041,25.3046521]
 w355770847  null / null / СТО
   other tags : building=yes | building:levels=1
@@ -17111,7 +17111,7 @@ w355770850  null / null / Шиномонтаж
   other tags : building=yes
     geometry : n3613083625[53.0904574,25.3134111] n3613083626[53.0903974,25.3133359] n3613083627[53.0903136,25.3135076] n3613083622[53.0903684,25.3135880] n3613083625[53.0904574,25.3134111]
 w356190183
-  other tags : addr:housenumber=17а | addr:street=ул.Кольцевая | building=yes
+  other tags : addr:housenumber=17А | addr:street=ул.Кольцевая | building=yes
     geometry : n3616868770[53.0886465,25.2718004] n3616868764[53.0885499,25.2719156] n3616868766[53.0885932,25.2720161] n3616868772[53.0886897,25.2719009] n3616868770[53.0886465,25.2718004]
 w356190205
   other tags : addr:housenumber=33 | addr:street=ул.Кольцевая | building=yes

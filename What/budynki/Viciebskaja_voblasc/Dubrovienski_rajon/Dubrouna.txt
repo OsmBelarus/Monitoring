@@ -2236,8 +2236,8 @@ w155255771  null / null / Военкомат
 w155255772  null / null / ГАИ, паспортный стол
   other tags : amenity=police | building=yes | building:levels=1 | government=migration | office=government
     geometry : n1676653052[54.5719125,30.6826068] n1676653109[54.5720262,30.6828586] n1676653054[54.5719125,30.6830256] n1676653013[54.5717988,30.6827685] n1676653052[54.5719125,30.6826068]
-w155255773  null / null / Гостиница
-  other tags : building=yes | building:levels=1 | tourism=hotel
+w155255773
+  other tags : amenity=hotel | building=yes | building:levels=1 | tourism=hotel
     geometry : n1676653314[54.5724770,30.6871076] n1676653256[54.5723788,30.6870782] n1676653232[54.5723381,30.6874819] n1676653293[54.5724363,30.6875115] n3117833947[54.5724482,30.6873935] n3117833950[54.5724647,30.6873984] n3117833954[54.5724823,30.6872244] n3117833951[54.5724658,30.6872195] n1676653314[54.5724770,30.6871076]
 w155255778
   other tags : addr:housenumber=1 | addr:street=1-й Оршанский переулок | building=yes | building:levels=1
