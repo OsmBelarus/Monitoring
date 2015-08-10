@@ -1,5 +1,5 @@
 n306068135
-  other tags : amenity=atm | operator=Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
     geometry : [52.4644533,31.0341666]
 n306068165  null / null / магазин 'эконом Маркет' / магазин 'эконом Маркет'
   other tags : amenity=atm | operator=Приорбанк | shop=grocery
@@ -113,7 +113,7 @@ n1132607615
   other tags : amenity=atm | operator=Белинвестбанк
     geometry : [52.3967311,30.9043051]
 n1132607647
-  other tags : amenity=atm | operator=Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator=Белинвестбанк
     geometry : [52.4650781,30.9697226]
 n1211895651
   other tags : amenity=atm | operator=БПС-сбербанк
@@ -128,7 +128,7 @@ n1293166488
   other tags : amenity=atm | operator=АСБ "Беларусбанк"
     geometry : [52.4686839,31.0227491]
 n1334673861
-  other tags : amenity=atm
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
     geometry : [52.4754674,31.0238412]
 n1334673874
   other tags : amenity=atm | operator=Приорбанк
@@ -146,8 +146,8 @@ n1343517962
   other tags : amenity=atm | operator=Белагропромбанк
     geometry : [52.4341922,31.0082441]
 n1358141048
-  other tags : amenity=atm | operator=ОАО Белинвестбанк
-    geometry : [52.4692110,31.0208239]
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4694132,31.0207177]
 n1358199491
   other tags : amenity=atm | operator=АСБ "Беларусбанк"
     geometry : [52.4181388,31.0029332]
@@ -179,8 +179,8 @@ n2354855727
   other tags : amenity=atm | operator=БПС банк
     geometry : [52.4758133,31.0235773]
 n2354856771
-  other tags : amenity=atm | operator=Белинвестбанк
-    geometry : [52.4760779,31.0244031]
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4761972,31.0243543]
 n2354862951  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
   other tags : amenity=atm
     geometry : [52.4392288,31.0050701]
@@ -224,7 +224,7 @@ n3220494712
   other tags : amenity=atm | operator=Беларусбанк
     geometry : [52.4341041,30.9930378]
 n3244696912
-  other tags : amenity=atm | operator=Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
     geometry : [52.4663130,30.9840458]
 n3245783161
   other tags : amenity=atm | operator=БПС-Сбербанк
@@ -247,3 +247,30 @@ n3532952705
 n3585447096  null / null / Беларусбанк
   other tags : addr:city=Гомель | addr:housenumber=2 | addr:street=проезд Чачина | amenity=atm | operator=Беларусбанк
     geometry : [52.4242005,31.0021345]
+n3671753514
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator=Белинвестбанк
+    geometry : [52.4467865,30.9693238]
+n3671753515
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator=Белинвестбанк
+    geometry : [52.4498685,30.9631250]
+n3671753516
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=24/7 | operator=Белинвестбанк
+    geometry : [52.4564286,30.9562266]
+n3671753517
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | opening_hours=Mo,Tu,We,Th,Fr,Su 08:00-20:00 | operator=Белинвестбанк
+    geometry : [52.4599494,30.9951120]
+n3671753521
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4651988,30.9933589]
+n3671773850
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4710156,30.9802826]
+n3671773857
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4743138,31.0274463]
+n3671773859
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4815722,31.0205687]
+n3671773860
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=no | currency:USD=no | operator=Белинвестбанк
+    geometry : [52.4828396,31.0044428]
