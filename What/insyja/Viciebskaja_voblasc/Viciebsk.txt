@@ -590,9 +590,6 @@ n960602291  Мішкава / Miškava / Мишково / Мишково
 n983142236
   other tags : railway=crossing
     geometry : [55.1515626,30.2147891]
-n983245192  Кулінарыя / null / Кулинария
-  other tags : amenity=food_court | opening_hours=Mo-Fr 09:00-18:00
-    geometry : [55.1895984,30.2105655]
 n1000093935
   other tags : noexit=yes
     geometry : [55.2121787,30.2461054]
@@ -2755,6 +2752,9 @@ n1675297672
 n1676537887
   other tags : barrier=block | bicycle=yes | foot=yes
     geometry : [55.2028614,30.2130601]
+n1676739424
+  other tags : barrier=block | bicycle=yes | foot=yes
+    geometry : [55.1893304,30.2436657]
 n1685672606
   other tags : noexit=yes
     geometry : [55.1480987,30.1907412]
@@ -8254,7 +8254,7 @@ n2976422214
     geometry : [55.1888693,30.2435307]
 n2976422217
   other tags : entrance=main
-    geometry : [55.1889346,30.2444587]
+    geometry : [55.1889399,30.2444147]
 n2976422220
   other tags : amenity=drinking_water | man_made=standpipe
     geometry : [55.1893228,30.2381857]
@@ -10871,7 +10871,7 @@ n3199894457  null / null / Стоматология
     geometry : [55.1794654,30.2189637]
 n3200074455
   other tags : entrance=service
-    geometry : [55.1889573,30.2442702]
+    geometry : [55.1889626,30.2442262]
 n3203247605
   other tags : entrance=service
     geometry : [55.1617210,30.2028760]
@@ -12134,9 +12134,6 @@ n3561846211
 n3566527693  null / null / Травмопункт детский
   other tags : amenity=doctors | emergency=yes | healthcare:speciality=trauma | opening_hours=24/7
     geometry : [55.1847989,30.2091951]
-n3571425494  Графіці / Graffiti / Граффити / Граффити
-  other tags : artist_name=HoodGraffTeam | artwork_type=graffiti | contact:website=http://vk.com/myhoodisgood | tourism=artwork
-    geometry : [55.1902149,30.2335333]
 n3577951613
   other tags : man_made=water_tower
     geometry : [55.1384901,30.1755511]
@@ -15385,7 +15382,7 @@ w133264273
     geometry : n1466757367[55.1853312,30.2368302] n1466757366[55.1853108,30.2369699] n1466757368[55.1853795,30.2370007] n1466757369[55.1853999,30.2368610] n1466757367[55.1853312,30.2368302]
 w133959595  ТП-418 / null / ТП-418 / ТП-418
   other tags : building=industrial | building:levels=1 | location=indoor | power=substation | substation=converter
-    geometry : n1474061465[55.1902621,30.2336383] n1474061462[55.1902497,30.2335219] n3571425494[55.1902149,30.2335333] n1474061453[55.1901800,30.2335446] n2891291009[55.1901924,30.2336610] n1308166569[55.1902164,30.2336532] n1474061465[55.1902621,30.2336383]
+    geometry : n1474061465[55.1902621,30.2336383] n1474061462[55.1902497,30.2335219] n1474061453[55.1901800,30.2335446] n2891291009[55.1901924,30.2336610] n1308166569[55.1902164,30.2336532] n1474061465[55.1902621,30.2336383]
 w134107267  null / null / ТП-603
   other tags : building=industrial | building:levels=1 | location=indoor | operator=РУП «Витебскэнерго» | power=substation | substation=converter
     geometry : n1474916388[55.1926223,30.2447576] n1474916422[55.1927103,30.2447345] n1474916424[55.1927175,30.2448183] n1474916390[55.1926295,30.2448413] n1474916388[55.1926223,30.2447576]
@@ -19345,7 +19342,7 @@ w227333527
 w227333530
   other tags : location=overground | man_made=pipeline | type=heat
     geometry : n2360355295[55.1780723,30.1436498] n2360355294[55.1780088,30.1437085] n2360355293[55.1779823,30.1435881] n2360355291[55.1778501,30.1436715] n2360355292[55.1778818,30.1437857] n2360355290[55.1777090,30.1438938] n2484549850[55.1775459,30.1437483] n2360355289[55.1772417,30.1434769] n2360355288[55.1772188,30.1435695]
-w227338845  null / null / строительство бизнесс-центра
+w227338845  null / null / строительство бизнес-центра
   other tags : landuse=construction
     geometry : n2360400592[55.1854776,30.1954346] n2360400589[55.1849293,30.1951288] n2360400594[55.1850549,30.1942061] n2360400596[55.1854837,30.1944529] n2360400592[55.1854776,30.1954346]
 w227346806
