@@ -25,8 +25,8 @@ n1560647655  null / null / Костел Рождества Девы Марии /
 n1560650105  null / null / Церковь св. Петра и Павла (дерев.) / Церковь св. Петра и Павла (дерев.)
   other tags : amenity=place_of_worship | building=church | denomination=orthodox | description=По сведениям из других источников, храм был построен в 1764 г. Даты строительства / обновления: 1784 г. Рейтинг: увидеть по дороге | description:ru=По сведениям из других источников, храм был построен в 1764 г. Даты строительства / обновления: 1784 г. Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : [54.1585670,25.9063360]
-n2677685031  капліца / null / капліца
-  other tags : amenity=place_of_worship | fixme:komzpa=добавить русское имя | religion=christian
+n2677685031  капліца / null / копище
+  other tags : amenity=place_of_worship | religion=christian
     geometry : [54.0063276,25.6072920]
 n2678363243
   other tags : amenity=place_of_worship | religion=christian
@@ -41,10 +41,10 @@ w229786113  Касцёл Святога Сымона й Тадэвуша / null 
   other tags : amenity=place_of_worship | building=church | denomination=catholic | description=Даты строительства / обновления: 1904-10 гг. Рейтинг: увидеть интересно | description:ru=Даты строительства / обновления: 1904-10 гг. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian | tourism=attraction
     geometry : n2383332083[53.9659106,25.9790882] n2383332066[53.9657285,25.9790162] n2383332069[53.9657796,25.9786424] n2383332080[53.9659617,25.9787144] n2383332083[53.9659106,25.9790882]
 w242632083  Касцел Святога Казiмiра / null / Касцел Святога Казiмiра
-  other tags : amenity=place_of_worship | building=yes | denomination=catholic | fixme:komzpa=добавить русское имя | religion=christian | source=http://vedaj.by/index.php/garady/grodna/iue/lipnishki
+  other tags : amenity=place_of_worship | building=yes | denomination=catholic | religion=christian | source=http://vedaj.by/index.php/garady/grodna/iue/lipnishki
     geometry : n2500908301[54.0078083,25.6033462] n2500908303[54.0078756,25.6034338] n2500908306[54.0078515,25.6034873] n2500908308[54.0078960,25.6035453] n2500908310[54.0078724,25.6035978] n2500908312[54.0079028,25.6036374] n2500908314[54.0078629,25.6037263] n2678334162[54.0078321,25.6036862] n2500908316[54.0076914,25.6039994] n2500908318[54.0075340,25.6037946] n2500908319[54.0076709,25.6034898] n2500908321[54.0076306,25.6034375] n2500908323[54.0076783,25.6033313] n2500908325[54.0077169,25.6033815] n2500908327[54.0077391,25.6033321] n2500908328[54.0077868,25.6033941] n2500908301[54.0078083,25.6033462]
-w262169084  капліца / null / капліца
-  other tags : amenity=place_of_worship | building=yes | denomination=catholic | fixme:komzpa=добавить русское имя | religion=christian
+w262169084  капліца / null / копище
+  other tags : amenity=place_of_worship | building=yes | denomination=catholic | religion=christian
     geometry : n2678336859[53.9967249,25.5937263] n2678336860[53.9966597,25.5938471] n2678336861[53.9966021,25.5937570] n2678336862[53.9966673,25.5936363] n2678336859[53.9967249,25.5937263]
 w293178296  null / null / Касцёл Святога Мікалая
   other tags : amenity=place_of_worship | building=yes | denomination=catholic | religion=christian
