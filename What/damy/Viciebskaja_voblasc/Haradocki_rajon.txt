@@ -74,7 +74,7 @@ w167878431
   other tags : building=house | building:levels=1 | source=Bing
     geometry : n1792270732[55.7651943,30.0151256] n1792270733[55.7651199,30.0151202] n1792270734[55.7651153,30.0153194] n1792270731[55.7651897,30.0153248] n1792270732[55.7651943,30.0151256]
 w168039216
-  other tags : addr:housenumber=2 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=2 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793492738[55.8102769,30.0063020] n2965569203[55.8102656,30.0062757] n2965569202[55.8102290,30.0063253] n1793492740[55.8102379,30.0063460] n2965569201[55.8102135,30.0063789] n1793492737[55.8102673,30.0065048] n1793492739[55.8103459,30.0063985] n2965569204[55.8102945,30.0062782] n1793492738[55.8102769,30.0063020]
 w168039650
   other tags : building=house | building:levels=1 | source=Bing
@@ -92,31 +92,31 @@ w168040669
   other tags : building=house | building:levels=1 | source=Bing
     geometry : n1793508943[55.8085657,30.0079100] n1793508945[55.8084867,30.0079974] n1793508944[55.8085416,30.0081544] n1793508946[55.8086206,30.0080670] n1793508943[55.8085657,30.0079100]
 w168040756
-  other tags : addr:housenumber=17 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=17 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793509194[55.8086904,30.0076384] n1793509200[55.8086240,30.0077068] n1793509191[55.8086687,30.0078442] n1793509198[55.8087350,30.0077758] n1793509194[55.8086904,30.0076384]
 w168041004
-  other tags : addr:housenumber=15 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=15 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793509996[55.8088676,30.0073074] n1793509993[55.8088036,30.0073946] n1793509995[55.8088739,30.0075579] n1793509994[55.8089379,30.0074708] n1793509996[55.8088676,30.0073074]
 w168041120
   other tags : building=house | building:levels=1 | source=Bing
     geometry : n1793510412[55.8091048,30.0065501] n1793510409[55.8090191,30.0066531] n1793510410[55.8090893,30.0068384] n1793510414[55.8091751,30.0067354] n1793510412[55.8091048,30.0065501]
 w168041231
-  other tags : addr:housenumber=3 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=3 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793510651[55.8095852,30.0063154] n1793510650[55.8095061,30.0064103] n1793510652[55.8095749,30.0065920] n1793510649[55.8096540,30.0064970] n1793510651[55.8095852,30.0063154]
 w168041283
-  other tags : addr:housenumber=11 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=11 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793510683[55.8097898,30.0060698] n1793510680[55.8097147,30.0061651] n1793510681[55.8097810,30.0063305] n1793510682[55.8098561,30.0062352] n1793510683[55.8097898,30.0060698]
 w168041338
-  other tags : addr:housenumber=9 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=9 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793510966[55.8100553,30.0057499] n1793510968[55.8099804,30.0058419] n1793510965[55.8100422,30.0060014] n1793510967[55.8101171,30.0059095] n1793510966[55.8100553,30.0057499]
 w168041419
   other tags : building=house | building:levels=1 | source=Bing
     geometry : n1793510976[55.8103217,30.0053735] n1793510975[55.8102647,30.0054523] n1793510977[55.8103293,30.0056002] n1793510974[55.8103863,30.0055214] n1793510976[55.8103217,30.0053735]
 w168041565
-  other tags : addr:housenumber=3 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=3 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793511007[55.8106402,30.0048554] n1793511006[55.8105665,30.0049683] n1793511004[55.8106417,30.0051240] n1793511005[55.8107155,30.0050111] n1793511007[55.8106402,30.0048554]
 w168041635
-  other tags : addr:housenumber=1 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=1 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n1793511199[55.8109082,30.0045250] n1793511198[55.8108342,30.0046389] n1793511197[55.8108940,30.0047668] n1793511200[55.8109661,30.0046530] n1793511199[55.8109082,30.0045250]
 w168041704
   other tags : building=house | building:levels=1 | source=Bing
@@ -284,11 +284,11 @@ w292879817
   other tags : building=house | building:levels=1 | source=Bing
     geometry : n2964370522[55.8104934,30.0050943] n2964370524[55.8105663,30.0052370] n2964370525[55.8106085,30.0051689] n2964370523[55.8105356,30.0050261] n2964370522[55.8104934,30.0050943]
 w292998781
-  other tags : addr:housenumber=4 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=4 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n2965569198[55.8100777,30.0065614] n2965569196[55.8100665,30.0065351] n2965569194[55.8100298,30.0065847] n2965569195[55.8100387,30.0066054] n2965569192[55.8100143,30.0066383] n2965569193[55.8100291,30.0066726] n2965569197[55.8100682,30.0067643] n2965569200[55.8101467,30.0066579] n2965569199[55.8100953,30.0065376] n2965569198[55.8100777,30.0065614]
 w292998782
-  other tags : addr:housenumber=6 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=6 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n2965569189[55.8098734,30.0068167] n2965569187[55.8098622,30.0067903] n2965569185[55.8098255,30.0068399] n2965569186[55.8098344,30.0068606] n2965569184[55.8098100,30.0068936] n2965569188[55.8098639,30.0070195] n2965569191[55.8099424,30.0069131] n2965569190[55.8098910,30.0067928] n2965569189[55.8098734,30.0068167]
 w292998783
-  other tags : addr:housenumber=8 | building=house | building:levels=1 | source=Bing
+  other tags : addr:housenumber=8 | addr:street=Восточная улица | building=house | building:levels=1 | source=Bing
     geometry : n2965569181[55.8096731,30.0070803] n2965569179[55.8096619,30.0070540] n2965569177[55.8096253,30.0071036] n2965569178[55.8096341,30.0071243] n2965569176[55.8096098,30.0071572] n2965569180[55.8096636,30.0072831] n2965569183[55.8097422,30.0071768] n2965569182[55.8096907,30.0070565] n2965569181[55.8096731,30.0070803]
