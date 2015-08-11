@@ -157,9 +157,6 @@ n3157856969
 n3157856970
   other tags : highway=traffic_signals
     geometry : [53.9044041,25.2599287]
-n3158911210
-  other tags : highway=traffic_signals
-    geometry : [53.8970023,25.2765427]
 n3159079592
   other tags : highway=traffic_signals
     geometry : [53.8965213,25.3005917]
@@ -3063,10 +3060,10 @@ w310465247
   other tags : highway=footway
     geometry : n3158911250[53.9027710,25.2644857] n3154848185[53.9028680,25.2645801] n3158911251[53.9029662,25.2646571]
 w310465248
-  other tags : highway=unclassified | oneway=yes
+  other tags : highway=primary_link | oneway=yes
     geometry : n3158911215[53.8973091,25.2775568] n3646679843[53.8973184,25.2773154] n3646679838[53.8973294,25.2771870] n3646679844[53.8973417,25.2770874] n3158911218[53.8973634,25.2770044] n3646679840[53.8973917,25.2769514] n3646679841[53.8974253,25.2769010] n3646679839[53.8974822,25.2768398] n3158911221[53.8975816,25.2767723]
 w310465249
-  other tags : highway=unclassified | oneway=yes
+  other tags : highway=primary_link | oneway=yes
     geometry : n3158911212[53.8970579,25.2762340] n3158911210[53.8970023,25.2765427] n3158911209[53.8969645,25.2766728] n3158911207[53.8967599,25.2768843]
 w310475547  Савецкая вуліца / Savieckaja vulica / Советская улица / Советская улица
   other tags : highway=primary | surface=asphalt
