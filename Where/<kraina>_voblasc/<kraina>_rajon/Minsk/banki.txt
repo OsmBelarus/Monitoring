@@ -194,9 +194,6 @@ n474423883  null / null / Сбербанк / Сбербанк
 n475199565  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank | atm=no | operator=Беларусбанк
     geometry : [53.9482084,27.6718725]
-n475208289  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
-  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | description:be=ЦБП №117/1 | description:ru=ЦБУ №117/1 | opening_hours=Mo-Fr 09:00-19:00; -1-мо-Fr 09:00-16:00 "last workday of MoTh"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО | ref=117/1
-    geometry : [53.9449090,27.6896712]
 n475208291  Тэхнабанк / Technabank / Технобанк / Технобанк
   other tags : amenity=bank | atm=no | operator=Технобанк
     geometry : [53.9429223,27.6873180]
@@ -265,7 +262,7 @@ n977746139  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Мо
     geometry : [53.9471510,27.6913604]
 n990200781  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
   other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=no | description:be=ЦБП №717 | description:ru=ЦБУ №717 | opening_hours=Mo-Fr 09:00-19:00; -1-мо-Fr 09:00-16:00 "last workday of MoTh"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО
-    geometry : [53.9445534,27.6901198]
+    geometry : [53.9445723,27.6901627]
 n991120350  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=bank
     geometry : [53.8895429,27.5430150]
@@ -1191,6 +1188,9 @@ n3629393262  Ідэя Банк / Ideja Bank / Идея Банк / Идея Ба�
 n3647645271  Аддзяленне №511/198 / null / Отделение №511/198 / Отделение №511/198
   other tags : amenity=bank | atm=yes | contact:phone=+375 29 367-00-73 | drive_through=no | opening_hours=Mo-Fr 09:00-19:00 | operator=Беларусбанк | phone=+375 17  367-01-28 | website=http://belarusbank.by/ru/about/structure/search_filials/~Otdelenie_511_198
     geometry : [53.8580046,27.6080319]
+n3675432482  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : addr:housenumber=168 к2 | addr:postcode=220141 | addr:street=проспект Независимости | amenity=bank | atm=yes | description:be=ЦБП №117/1 | description:ru=ЦБУ №117/1 | opening_hours=Mo-Fr 09:00-19:00; -1-мо-Fr 09:00-16:00 "last workday of MoTh"; Su 09:20-15:00 | operator:be="Прiорбанк" ААТ | operator:ru="Приорбанк" ОАО | ref=117/1
+    geometry : [53.9449406,27.6897790]
 w25317741  ЦБП "Беларусбанк" / null / ЦБУ "Беларусбанк" / ЦБУ "Беларусбанк"
   other tags : addr:housenumber=9 | addr:street=улица Руссиянова | amenity=bank | building=public | opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-17:00; We[4] 11:00-20:00 | operator=Беларусбанк | phone=+375 17 285 94 49
     geometry : n275818051[53.9383179,27.6839695] n275818054[53.9385625,27.6839366] n275818061[53.9385714,27.6841264] n275818066[53.9383268,27.6841593] n275818051[53.9383179,27.6839695]

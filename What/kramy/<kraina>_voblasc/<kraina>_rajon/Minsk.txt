@@ -5951,18 +5951,6 @@ n2409003394  null / null / Тропинка
 n2409009184  null / null / Салон красоты «Студия Джокер»
   other tags : addr:housenumber=3 | addr:postcode=220070 | addr:street=бульвар Тракторостроителей | opening_hours=Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00 | phone=+375 17 297-08-47, +375 29 571-40-20, +375 17 230-18-87 (факс) | shop=hairdresser
     geometry : [53.8885677,27.6142121]
-n2410669725  Прадукты / null / Продукты / Продукты
-  other tags : opening_hours=Mo-Su 08:00-22:00 | shop=convenience
-    geometry : [53.9448594,27.6897165]
-n2410669726  Парысгандаль / null / Паристорг / Паристорг
-  other tags : description:be=Крама птушкафабрыкі | description:ru=Магазин птицефабрики | opening_hours=Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 10:00-19:00 | shop=convenience
-    geometry : [53.9441282,27.6880108]
-n2410669727  Артфлора / null / Артфлора / Артфлора
-  other tags : opening_hours=Mo-Sa 08:00-21:00; Su 10:00-21:00 | shop=florist
-    geometry : [53.9442723,27.6878839]
-n2410669728  Прадукты / null / Продукты / Продукты
-  other tags : opening_hours=Mo-Su 09:00-23:00 | operator:be=ТДА "Інторэкс" | operator:ru=ОДО "Инторекс" | shop=convenience
-    geometry : [53.9440144,27.6881108]
 n2412405967
   other tags : shop=convenience
     geometry : [53.8858174,27.6060874]
@@ -5978,9 +5966,6 @@ n2412441659  null / null / Мебельный
 n2415861780  null / null / Дружба
   other tags : shop=convenience
     geometry : [53.8801472,27.6047796]
-n2419870196  Штопар / null / Штопор / Штопор
-  other tags : opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00 | shop=alcohol
-    geometry : [53.9443544,27.6878119]
 n2430048115  null / null / Виталюр
   other tags : addr:housenumber=11 | addr:postcode=220112 | addr:street=Игуменский тракт | shop=supermarket | website=http://www.vitalur.by/
     geometry : [53.8468280,27.5700985]
@@ -7337,9 +7322,6 @@ n2624645080  null / null / LIFE  - сервисный центр
 n2625005434  null / null / Все для дома и ремонта
   other tags : shop=doityourself
     geometry : [53.9048311,27.4576796]
-n2626274099  Зоамагазін "Zoobazar" / null / Зоомагазин "Zoobazar" / Зоомагазин "Zoobazar"
-  other tags : addr:housenumber=168 к1 | addr:postcode=220141 | addr:street=проспект Независимости | shop=convenience
-    geometry : [53.9445301,27.6894667]
 n2626373406  Міла / null / Мила / Мила
   other tags : addr:housenumber=172 | addr:postcode=220141 | addr:street=проспект Независимости | shop=hardware
     geometry : [53.9447216,27.6906323]
@@ -9757,7 +9739,7 @@ n3268856090  Bielita Вiтэкс / null / Bielita Вiтэкс / Bielita Витэ
     geometry : [53.9450127,27.6899348]
 n3268862465  Дзвярная Лінія / null / Дверная Линия / Дверная Линия
   other tags : contact:phone=+375293911010 | contact:website=http://medvedev.by | description:be=Салон дзвярэй | description:ru=Салон дверей | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-17:00 | operator:be=ААТ "Мядзведзеў і К" | operator:ru=ООО "Медведев и К" | shop=door
-    geometry : [53.9446472,27.6884987]
+    geometry : [53.9446449,27.6885007]
 n3268863689  Сетка крам гарачых пуцёвак / null / Сеть магазинов горящих путевок / Сеть магазинов горящих путевок
   other tags : shop=travel_agency
     geometry : [53.9440515,27.6874243]
@@ -10711,7 +10693,7 @@ n3351855384  Дзеннік / null / Денник / Денник
     geometry : [53.9453606,27.6891879]
 n3351855385  Доктар Вет / null / Доктор Вет / Доктор Вет
   other tags : opening_hours=Mo-Su 10:00-21:00 | operator:be=СЗАТ "Ветсэрвіс-Плюс" | operator:ru=СЗАО "Ветсервис-Плюс" | shop=pet
-    geometry : [53.9440990,27.6880365]
+    geometry : [53.9441268,27.6880532]
 n3351855388  Недзень / null / Недень / Недень
   other tags : layer=-1 | opening_hours=Mo-Su 07:00-23:00 | shop=convenience
     geometry : [53.9453650,27.6889748]
@@ -11655,3 +11637,21 @@ n3671893668  Топ / null / Топ / Топ
 n3673563589  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.9197104,27.4790588]
+n3675432477  Штопар / null / Штопор / Штопор
+  other tags : opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00 | shop=alcohol
+    geometry : [53.9443694,27.6879229]
+n3675432478  Зоамагазін "Zoobazar" / null / Зоомагазин "Zoobazar" / Зоомагазин "Zoobazar"
+  other tags : addr:housenumber=168 к1 | addr:postcode=220141 | addr:street=проспект Независимости | shop=convenience
+    geometry : [53.9445557,27.6894034]
+n3675432481  Парысгандаль / null / Паристорг / Паристорг
+  other tags : description:be=Крама птушкафабрыкі | description:ru=Магазин птицефабрики | opening_hours=Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 10:00-19:00 | shop=convenience
+    geometry : [53.9441735,27.6880784]
+n3675432483  Прадукты / null / Продукты / Продукты
+  other tags : opening_hours=Mo-Su 09:00-23:00 | operator:be=ТДА "Інторэкс" | operator:ru=ОДО "Инторекс" | shop=convenience
+    geometry : [53.9440504,27.6881857]
+n3675432484  Артфлора / null / Артфлора / Артфлора
+  other tags : opening_hours=Mo-Sa 08:00-21:00; Su 10:00-21:00 | shop=florist
+    geometry : [53.9442935,27.6879604]
+n3675432485  Прадукты / null / Продукты / Продукты
+  other tags : opening_hours=Mo-Su 08:00-22:00 | shop=convenience
+    geometry : [53.9449881,27.6898165]
