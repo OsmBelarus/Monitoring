@@ -869,7 +869,7 @@ w62116446
   other tags : addr:housenumber=6 | addr:street=4-й переулок Чернышевского | building=yes | building:levels=1
     geometry : n774692049[54.5258450,30.4327357] n774692562[54.5258090,30.4329064] n774692333[54.5252260,30.4325405] n774692263[54.5252620,30.4323698] n774692049[54.5258450,30.4327357]
 w62116447  Дом рамёстваў / null / Дома ремёсел
-  other tags : addr:housenumber=8 | addr:street=Минская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Минская улица | building=yes | building:levels=1 | craft=handicraft
     geometry : n774692051[54.5074207,30.4218865] n774692271[54.5070797,30.4224018] n774692338[54.5070298,30.4223038] n774691872[54.5073708,30.4217885] n774692051[54.5074207,30.4218865]
 w62116448
   other tags : addr:housenumber=179 | addr:street=улица Ленина | building=yes | building:levels=1
@@ -3430,8 +3430,8 @@ w99505216
 w99505217
   other tags : addr:housenumber=17 | addr:street=улица Энгельса | building=yes | building:levels=1
     geometry : n1150947017[54.5104055,30.4169704] n1150946771[54.5105296,30.4169366] n1150946266[54.5105403,30.4170537] n1150946882[54.5104163,30.4170875] n1150947017[54.5104055,30.4169704]
-w99505218
-  other tags : addr:housenumber=2 | addr:street=Почтовый переулок | building=yes | building:levels=1
+w99505218  Цэнтральная бібліятэка імя Пушкіна / null / Центральная библиотека им. Пушкина А.С. / Центральная библиотека им. Пушкина А.С.
+  other tags : addr:housenumber=2 | addr:street=Почтовый переулок | amenity=library | building=yes | building:levels=1
     geometry : n1150947041[54.5095434,30.4286545] n1150946798[54.5097973,30.4281480] n1150946294[54.5099133,30.4283191] n1150946452[54.5096637,30.4288239] n1150947041[54.5095434,30.4286545]
 w99505219
   other tags : addr:housenumber=7 | addr:street=1-й Коммунальный переулок | building=yes | building:levels=1
@@ -5200,8 +5200,8 @@ w99726055
 w99726056
   other tags : addr:housenumber=77А | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n1152921065[54.5022584,30.4091388] n1152920736[54.5025519,30.4086416] n1152919190[54.5026319,30.4087816] n1152918653[54.5023384,30.4092788] n1152921065[54.5022584,30.4091388]
-w99726057
-  other tags : addr:housenumber=2 | addr:street=Замковая улица | building=yes | building:levels=1
+w99726057  null / null / Музей этнографии "Млын"
+  other tags : addr:housenumber=2 | addr:street=Замковая улица | building=yes | building:levels=1 | tourism=museum
     geometry : n1152920450[54.5061009,30.4213523] n1152918683[54.5061927,30.4211590] n1152921104[54.5063449,30.4213734] n1152921125[54.5062995,30.4214688] n2468290921[54.5062343,30.4213769] n2468290917[54.5061878,30.4214747] n1152920450[54.5061009,30.4213523]
 w99726058
   other tags : building=yes | building:levels=1
