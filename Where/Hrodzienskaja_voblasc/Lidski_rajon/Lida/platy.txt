@@ -97,7 +97,7 @@ n1433978845
 n1471143901
   other tags : barrier=gate
     geometry : [53.8733452,25.3194082]
-n1489319610
+n1489319610  null / null / Запасной выход
   other tags : access=permissive | barrier=gate
     geometry : [53.8937735,25.2841677]
 n2579953595
@@ -135,14 +135,14 @@ n3156057847
     geometry : [53.8973758,25.3043378]
 n3156092088
   other tags : access=no | barrier=gate
-    geometry : [53.8966938,25.2853564]
+    geometry : [53.8966938,25.2853018]
 n3157651414
   other tags : access=private | barrier=gate
     geometry : [53.9058055,25.3165191]
 n3157651415
   other tags : barrier=gate
     geometry : [53.9058446,25.3164807]
-n3159066786
+n3159066786  null / null / Запасной выход
   other tags : access=no | barrier=gate
     geometry : [53.8954949,25.2859297]
 n3395042042
@@ -169,6 +169,12 @@ n3431438263
 n3461366632
   other tags : barrier=gate
     geometry : [53.8928154,25.2550704]
+n3676726304  null / null / Запасной выход
+  other tags : access=no | barrier=gate
+    geometry : [53.8973424,25.2848009]
+n3676727029
+  other tags : barrier=gate | opening_hours=24/7
+    geometry : [53.8939531,25.2850341]
 w54518479  Мінірынак / null / Минирынок
   other tags : amenity=marketplace | barrier=fence
     geometry : n686677753[53.8931250,25.2548210] n686677749[53.8933779,25.2563687] n686677750[53.8927805,25.2566530] n686677754[53.8925481,25.2552958] n686677751[53.8927346,25.2551912] n1534554485[53.8928164,25.2550702] n686677752[53.8929196,25.2548988] n686677753[53.8931250,25.2548210]
