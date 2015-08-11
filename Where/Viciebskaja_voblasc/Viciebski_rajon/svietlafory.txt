@@ -11,7 +11,7 @@ n750710079  Газанапаўняльная станцыя / null / Газон�
   other tags : highway=bus_stop
     geometry : [55.1401100,30.1643707]
 n778200075  Малыя Лётцы / null / Малые Лётцы / Малые Лётцы
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2058616,29.9299216]
 n929304226  Канцавы маршрутак / null / конечная маршруток
   other tags : highway=bus_stop | public_transport=platform
@@ -92,10 +92,10 @@ n1842886214
   other tags : highway=bus_stop
     geometry : [55.3093855,30.1045230]
 n1862707941
-  other tags : highway=bus_stop | natural=Кузнецово
+  other tags : highway=bus_stop | natural=Кузнецово | public_transport=platform | shelter=yes
     geometry : [55.2203832,29.9977595]
 n1862707945
-  other tags : highway=bus_stop | natural=Кузнецово
+  other tags : highway=bus_stop | natural=Кузнецово | public_transport=platform | shelter=yes
     geometry : [55.2208953,29.9974359]
 n1866836682  null / null / Суйково
   other tags : highway=bus_stop
@@ -571,3 +571,15 @@ n3657191312
 n3657191314
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2446591,30.4466717]
+n3676715696
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1904380,29.9342208]
+n3676715698
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1907361,29.9346238]
+n3676718765
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2188759,29.9985157]
+n3676718798
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2190860,29.9990732]
