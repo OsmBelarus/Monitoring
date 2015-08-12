@@ -120,10 +120,10 @@ n341870968  Ціраспаль / Ciraspaĺ / Тирасполь
   other tags : highway=bus_stop
     geometry : [55.2227482,30.1173921]
 n341870983  Гімназія № 6 / null / Гимназия № 6 / Гимназия № 6
-  other tags : highway=bus_stop
-    geometry : [55.2280304,30.1176326]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2280393,30.1176520]
 n341871019  Гімназія № 6 / null / Гимназия № 6 / Гимназия № 6
-  other tags : highway=bus_stop
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2274172,30.1175369]
 n344453995  25-я школа / null / 25-я школа
   other tags : highway=bus_stop
@@ -711,8 +711,8 @@ n2141443268  null / null / Магазин № 35
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2257348,30.2550889]
 n2143487068  null / null / Посёлок Лужесно
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.2419467,30.1150837]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2419680,30.1151062]
 n2145755313  Аўтавакзал / null / Автовокзал / Автовокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1963091,30.1883647]
@@ -750,14 +750,14 @@ n2352602719  Завод «ВіЗАС» / null / Завод «ВиЗАС»
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [55.1971083,30.2620885]
 n2356011617  null / null / Давыдовка
-  other tags : highway=bus_stop
-    geometry : [55.2350927,30.1164198]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2350896,30.1164033]
 n2356011620  null / null / Давыдовка
-  other tags : highway=bus_stop
-    geometry : [55.2356034,30.1165713]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2355940,30.1166510]
 n2356011634  null / null / Посёлок Лужесно
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.2422571,30.1156184]
+    geometry : [55.2422592,30.1156558]
 n2356066218  null / null / Ленинградская
   other tags : highway=bus_stop
     geometry : [55.2189082,30.1244554]
