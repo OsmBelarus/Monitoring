@@ -5000,7 +5000,7 @@ w97690403
   other tags : addr:housenumber=19 | addr:street=Коммунистическая улица | building=house | loc_name=Чайка | shop=deli
     geometry : n1131002087[53.8835327,25.2842004] n1131002058[53.8838035,25.2845810] n1131002081[53.8837110,25.2847705] n1131002132[53.8834402,25.2843898] n1131002087[53.8835327,25.2842004]
 w97690406
-  other tags : addr:housenumber=1 | addr:street=улица Генерала Беды | building=house
+  other tags : addr:housenumber=1/44 | addr:street=улица Генерала Беды | building=house
     geometry : n1131002092[53.8881827,25.3135610] n1131002062[53.8880945,25.3136884] n1131002082[53.8879784,25.3134563] n1131002134[53.8880485,25.3133554] n3277156778[53.8880667,25.3133291] n1131002092[53.8881827,25.3135610]
 w97718157
   other tags : addr:housenumber=30А | addr:street=улица Льва Толстого | building=house
@@ -14936,7 +14936,7 @@ w333827020  null / null / 3а
   other tags : building=residential
     geometry : n3408785278[53.8883722,25.3146144] n3408785276[53.8883066,25.3147346] n3408785280[53.8883983,25.3148784] n3408785283[53.8884638,25.3147582] n3408785278[53.8883722,25.3146144]
 w333827021
-  other tags : addr:housenumber=44 | building=residential
+  other tags : building=residential
     geometry : n3408785281[53.8884019,25.3138803] n3408785277[53.8883565,25.3139352] n3408785279[53.8883972,25.3140321] n3408785282[53.8884426,25.3139772] n3408785281[53.8884019,25.3138803]
 w333827022
   other tags : addr:housenumber=46 | building=residential
