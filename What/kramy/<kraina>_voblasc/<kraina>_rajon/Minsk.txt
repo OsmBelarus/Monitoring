@@ -5545,9 +5545,6 @@ n2058558044
 n2058561641
   other tags : shop=motorcycle
     geometry : [53.8841412,27.5889422]
-n2079237664  null / Auto-zakaz BY / Авто-заказ Биуай
-  other tags : second_hand=only | shop=car | website=http://auto-zakaz.com/
-    geometry : [53.9382967,27.5335604]
 n2092785442  null / null / Альтесса
   other tags : addr:housenumber=55 | addr:street=улица Максима Горецкого | shop=car
     geometry : [53.8880193,27.4425173]
@@ -7919,8 +7916,8 @@ n2987628787
   other tags : shop=hairdresser
     geometry : [53.9307491,27.4280074]
 n2989400773  null / null / СТО-100
-  other tags : addr:street=Нововиленская улица | opening_hours=09:00-19:00 | shop=car_repair
-    geometry : [53.9400558,27.5273329]
+  other tags : opening_hours=09:00-19:00 | shop=car_repair
+    geometry : [53.9401343,27.5273783]
 n3011130053  null / null / Еврообои
   other tags : addr:housenumber=131 | addr:postcode=220045 | addr:street=проспект Дзержинского | shop=hardware
     geometry : [53.8441640,27.4747888]
@@ -11661,3 +11658,9 @@ n3679822064
 n3679822065
   other tags : shop=pet
     geometry : [53.9277733,27.4323890]
+n3680086136  null / Auto-zakaz BY / Авто-заказ Биуай
+  other tags : second_hand=only | shop=car | website=http://auto-zakaz.com/
+    geometry : [53.9382477,27.5335669]
+n3680086137  null / null / Скороход
+  other tags : shop=car_repair
+    geometry : [53.9399840,27.5273639]
