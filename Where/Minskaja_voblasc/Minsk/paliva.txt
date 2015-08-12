@@ -203,6 +203,12 @@ n3577384765  Беларуснафта № 12 / null / Белоруснефть �
   other names: name:en=Belorusneft № 12
   other tags : addr:housenumber=172 | addr:postcode=220053 | addr:street=Долгиновский тракт | amenity=fuel | contact:phone=+375(17) 335-3-225 | contact:website=http://www.belorusneft.by/ | fuel:lpg=yes | official_name=Белоруснефть МАЗС № 12 | opening_hours=Mo-Su 07:00-19:00 | operator=ПО «Белоруснефть»
     geometry : [53.9602819,27.5369872]
+n3678833967  null / null / АЗС Беларуснефть
+  other tags : amenity=fuel
+    geometry : [53.8593606,27.6772021]
+n3678833968  null / null / АЗС Беларуснефть
+  other tags : amenity=fuel
+    geometry : [53.8580318,27.6783018]
 w25313862  null / null / АЗС
   other tags : amenity=fuel | building=yes | operator=Беларуснефть
     geometry : n275740728[53.8151222,27.6894376] n275740729[53.8150502,27.6896636] n275740730[53.8149742,27.6895776] n275740731[53.8150502,27.6893576] n275740728[53.8151222,27.6894376]
