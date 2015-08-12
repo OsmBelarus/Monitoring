@@ -10259,7 +10259,7 @@ n3667791500
   other tags : crossing=traffic_signals | highway=crossing | traffic_calming=yes
     geometry : [53.9505373,27.5969053]
 n3668329816
-  other tags : crossing=zebra | highway=crossing
+  other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9484244,27.6423952]
 n3674615982
   other tags : crossing=uncontrolled | highway=crossing
@@ -10285,3 +10285,6 @@ n3676334972
 n3676334986
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9426707,27.6827967]
+n3677410128
+  other tags : crossing=uncontrolled | highway=crossing
+    geometry : [53.9325662,27.6436155]
