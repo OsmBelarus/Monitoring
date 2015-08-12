@@ -57,10 +57,10 @@ n1907186214  null / null / Окуни
     geometry : [55.6589317,29.9955809]
 n2158006308  null / null / Залучье
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4059497,30.0562985]
+    geometry : [55.4059192,30.0562776]
 n2158006325  null / null / Залучье
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4062540,30.0565944]
+    geometry : [55.4063252,30.0561826]
 n2163982463
   other tags : highway=bus_stop
     geometry : [55.6599959,30.0649502]
@@ -275,8 +275,8 @@ n2285806779  null / null / Батали
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.3888810,30.0802446]
 n2614423858  null / null / Турбаза «Лосвидо»
-  other tags : highway=bus_stop
-    geometry : [55.4074516,29.9919214]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4074442,29.9919733]
 n2614545768
   other tags : highway=bus_stop
     geometry : [55.4450753,30.1377941]
@@ -334,3 +334,15 @@ n3191311661
 n3191311662
   other tags : highway=bus_stop
     geometry : [55.4162914,29.7752404]
+n3679570241  Марыямпаль / null / Мариамполь / Мариамполь
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4001403,30.0258018]
+n3679580628
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3991953,30.0318723]
+n3679580641
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3994141,30.0325259]
+n3679581001
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4143839,29.9774892]

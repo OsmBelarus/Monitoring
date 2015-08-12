@@ -7784,11 +7784,11 @@ n3084699604
   other tags : power=tower
     geometry : [55.1709627,30.2996165]
 n3184807461
-  other tags : power=tower | structure=solid
-    geometry : [55.2258606,30.1088411]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2258764,30.1088596]
 n3184807479
-  other tags : power=tower
-    geometry : [55.2269718,30.1082753]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.2269797,30.1083124]
 n3193346828
   other tags : power=tower
     geometry : [55.1707772,30.2998511]
@@ -8440,6 +8440,36 @@ n3668318344
 n3671205798
   other tags : power=pole
     geometry : [55.2345518,30.1201070]
+n3679570244
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.2288025,30.1079580]
+n3679570255
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2295738,30.1082081]
+n3679570257
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2302348,30.1073683]
+n3679570258
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2305280,30.1076509]
+n3679570264
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2327030,30.1072420]
+n3679570279
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2344164,30.1073248]
+n3679570281
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2344948,30.1069122]
+n3679570303
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2364739,30.1069384]
+n3679570309
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2367222,30.1064984]
+n3679570318
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2375197,30.1060260]
 w30193295
   other tags : operator=Витебскэнерго | power=line
     geometry : n332678345[55.1886339,30.2164756] n332678335[55.1880885,30.2173676] n332678320[55.1866715,30.2211522] n332678301[55.1861562,30.2257588] n332678312[55.1856715,30.2301890]
