@@ -4935,7 +4935,7 @@ n1651839824  null / null / Салон-парикмахерская  Босса �
     geometry : [53.9275029,27.4865050]
 n1651875430
   other tags : shop=car
-    geometry : [53.9272665,27.4813211]
+    geometry : [53.9272735,27.4812868]
 n1652017035  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [53.9331611,27.6087904]
@@ -6041,9 +6041,9 @@ n2505994060  Шынамантаж / null / Шиномонтаж / Шиномон
 n2507328814  null / null / Панскi Пачастунак
   other tags : addr:housename=г. Минск, ул. Янки Мавра 24 | addr:housenumber=24 | addr:street=улица Янки Мавра | shop=Магазин_кулинария
     geometry : [53.9000972,27.4897248]
-n2507435255  null / null / Свитанок
+n2507435255  null / null / Свитанак
   other tags : addr:housenumber=118 | addr:street=улица Петра Глебки | shop=convenience
-    geometry : [53.9272724,27.4815689]
+    geometry : [53.9272688,27.4816436]
 n2507444558  null / null / "ProStore"
   other tags : addr:housenumber=86 | addr:street=проспект Победителей | shop=supermarket | website=http://www.prostore.by/
     geometry : [53.9379448,27.4893913]
@@ -11664,3 +11664,9 @@ n3680086136  null / Auto-zakaz BY / Авто-заказ Биуай
 n3680086137  null / null / Скороход
   other tags : shop=car_repair
     geometry : [53.9399840,27.5273639]
+n3680587396  null / null / Промтовары "Всё для Всех"
+  other tags : shop=convenience
+    geometry : [53.9272548,27.4896806]
+n3680661323  null / null / Минсктранс
+  other tags : shop=kiosk
+    geometry : [53.9249076,27.4772753]
