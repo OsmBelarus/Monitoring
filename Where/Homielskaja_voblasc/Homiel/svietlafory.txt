@@ -591,8 +591,8 @@ n1334729446  null / null / Чехова
 n1334729467  null / null / Вокзал
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes
     geometry : [52.4323410,30.9933628]
-n1334729627
-  other tags : highway=bus_stop
+n1334729627  null / null / Вокзал
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4337529,30.9924943]
 n1334767916  null / null / Администрация Советского района / Администрация Советского района
   other tags : highway=bus_stop
@@ -951,11 +951,11 @@ n3527895682  null / null / ул. Гастелло
 n3527903926  null / null / ул. Н. Ополчения
   other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4662084,30.9609965]
-n3530746375  null / null / Автобусный парк № 6
+n3530746375  null / null / Предприятие Каштан
   other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4862166,30.9954622]
-n3530746718  null / null / Автобусный парк № 6
-  other tags : bench=no | covered=no | highway=bus_stop | shelter=no
+n3530746718  null / null / Предприятие Каштан
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4854489,30.9953710]
 n3680446119  null / null / ул. Каменщикова
   other tags : bench=yes | covered=yes | highway=bus_stop | shelter=no
@@ -1008,3 +1008,12 @@ n3680740455  null / null / ул. Огаренко
 n3680740456  null / null / ул. Огаренко
   other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4682091,31.0220979]
+n3680774457  null / null / Автобусный парк №6
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4823763,31.0039405]
+n3680774458  null / null / Автобусный парк №6
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4829303,31.0031837]
+n3680774459  null / null / Ратон
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [52.4827330,30.9920645]
