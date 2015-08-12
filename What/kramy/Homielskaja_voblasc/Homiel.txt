@@ -1447,5 +1447,8 @@ n3667780444  null / null / Магазин
   other tags : shop=convenience
     geometry : [52.4241396,30.9487319]
 n3678623608  null / null / Сеть магазинов для детей "Оранжевый слон"
-  other tags : phone=+375 (33) 680-33-06 +375 (44) 568-88-97 +375 (44)785-00-10 | shop=supermarket
+  other tags : addr:housenumber=9 | addr:street=улица Хатаевича | phone=+375 (33) 680-33-06 +375 (44) 568-88-97 +375 (44)785-00-10 | shop=baby_goods
     geometry : [52.4455883,31.0165618]
+n3678678358  null / null / Сеть магазинов для детей "Оранжевый слон"
+  other tags : addr:housenumber=7 | addr:street=проспект Победы | phone=+375 (33) 680-33-06 +375 (44) 568-88-97 +375 (44)785-00-10 | shop=baby_goods
+    geometry : [52.4349284,31.0047105]
