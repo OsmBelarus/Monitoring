@@ -506,18 +506,12 @@ n1171936100  null / null / Радиозавод
 n1178825734  вуліца Галавацкага / vulica Halavackaha / улица Головацкого / улица Головацкого
   other tags : highway=bus_stop
     geometry : [52.4519219,31.0241355]
-n1178825799
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [52.4750042,31.0226268]
 n1178825820  вуліца Галавацкага / vulica Halavackaha / улица Головацкого / улица Головацкого
   other tags : highway=bus_stop
     geometry : [52.4509984,31.0233499]
 n1178825836  вуліца Макаёнка / null / улица Макаёнка / улица Макаёнка
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [52.4719491,31.0321928]
-n1178825889
-  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes
-    geometry : [52.4758298,31.0218569]
 n1178918765  Універсам / Univiersam / Универсам / Универсам
   other tags : highway=bus_stop
     geometry : [52.4483060,31.0231213]
@@ -555,6 +549,12 @@ n1212384287  null / null / Локомотивное депо
 n1212384295  null / null / Локомотивное депо
   other tags : highway=bus_stop
     geometry : [52.4400115,30.9684638]
+n1293166489  null / null / ул. Огоренко
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4692576,31.0213065]
+n1293166491  null / null / ул. Огаренко
+  other tags : highway=bus_stop
+    geometry : [52.4679305,31.0208706]
 n1323256251  null / null / Костюковка
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=stop_position | share_taxi=yes | shelter=yes | tactile_paving=yes
     geometry : [52.5362957,30.9166645]
@@ -570,8 +570,8 @@ n1326072615  null / null / 70 лет БССР
 n1326072617  null / null / 70 лет БССР
   other tags : highway=bus_stop
     geometry : [52.4024115,30.9196075]
-n1334663368
-  other tags : highway=bus_stop
+n1334663368  null / null / ул. Свиридова
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
     geometry : [52.4735314,31.0287840]
 n1334663371  вуліца Броўкі / null / ул. Бровки
   other tags : highway=bus_stop
@@ -639,7 +639,7 @@ n1362786135  null / null / ГомельОблАвтоТранс
 n1362790792  null / null / парк Фестивальный
   other tags : highway=bus_stop
     geometry : [52.4107585,30.9438059]
-n1366728457
+n1366728457  null / null / Микрорайон №21
   other tags : highway=bus_stop
     geometry : [52.4689689,31.0423142]
 n1373859017  null / null / Джураева
@@ -993,3 +993,18 @@ n3680461769  null / null / Кладбище
 n3680471396  null / null / ул. Яговкина
   other tags : highway=bus_stop
     geometry : [52.4825559,31.0147539]
+n3680740452  null / null / Универсам Брянский
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4751821,31.0233979]
+n3680740453  null / null / Универсам Брянский
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4750882,31.0225601]
+n3680740454  null / null / Универсам Брянский
+  other tags : highway=bus_stop
+    geometry : [52.4759624,31.0219302]
+n3680740455  null / null / ул. Огаренко
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4690558,31.0200805]
+n3680740456  null / null / ул. Огаренко
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.4682091,31.0220979]
