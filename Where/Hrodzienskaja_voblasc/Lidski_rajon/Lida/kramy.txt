@@ -325,37 +325,37 @@ n3161471088  null / null / Родны Кут
   other tags : opening_hours=09:00-22:00 | shop=supermarket
     geometry : [53.8985359,25.2525546]
 n3190154844
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8940313,25.2727445]
 n3190154845
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8956370,25.3202624]
 n3190154846
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8957989,25.3085776]
 n3190154847
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8989985,25.3081696]
 n3190154849
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.9064134,25.3149366]
 n3190247293
   other tags : operator=Табак | shop=kiosk
     geometry : [53.8689891,25.2843896]
 n3190247294
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8725660,25.3175500]
 n3190247295
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8745745,25.2781564]
 n3190247296
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8783975,25.2794468]
 n3190247299
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8903766,25.3051741]
 n3190247300
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8982013,25.2943694]
 n3196932049  null / null / Строительный дом Ома
   other tags : opening_hours=09:00-21:00 | phone=+375 154 56-05-35 | shop=doityourself | website=http://oma.by/
@@ -367,10 +367,10 @@ n3196968099
   other tags : shop=department_store
     geometry : [53.8976375,25.2675403]
 n3212625588
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8960207,25.2959240]
 n3212625589
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8964465,25.3004356]
 n3212707012
   other tags : shop=doityourself
@@ -626,19 +626,19 @@ n3677446638  null / null / ТеплОFF
   other tags : phone=+375 154 532638 | shop=bathroom_furnishing
     geometry : [53.8945949,25.3026512]
 n3685430901
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8916396,25.2951732]
 n3685517812  null / null / Евроопт
   other tags : loc_name=Журавинка | opening_hours=09:00-21:00 | shop=supermarket | website=http://evroopt.by/
     geometry : [53.8894582,25.2927438]
 n3685527058
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8899305,25.2876005]
 n3687891824
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8960353,25.3015203]
 n3687965573
-  other tags : operator=Табак | shop=kiosk
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
     geometry : [53.8934788,25.2557125]
 n3690797652  null / null / Мороженое
   other tags : amenity=ice_cream | operator=СООО Энарг | shop=kiosk | website=http://icelida.by/
@@ -667,3 +667,6 @@ n3690797659  null / null / Мороженое
 n3690797660  null / null / Мороженое
   other tags : amenity=ice_cream | operator=СООО Энарг | shop=kiosk | website=http://icelida.by/
     geometry : [53.8974653,25.3027521]
+n3690799179
+  other tags : operator=Табак | shop=kiosk | tobacco=yes
+    geometry : [53.8975886,25.2678026]
