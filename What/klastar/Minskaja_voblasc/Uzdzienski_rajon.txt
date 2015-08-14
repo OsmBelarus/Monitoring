@@ -1,6 +1,3 @@
-n1373784551  null / null / Церковь св. Петра и Павла / Церковь св. Петра и Павла
-  other tags : amenity=place_of_worship | denomination=orthodox | description=Рейтинг: увидеть по дороге | description:ru=Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
-    geometry : [53.6322380,27.4541360]
 n1374777447  null / null / Церковь (дерев.) / Церковь (дерев.)
   other tags : amenity=place_of_worship | denomination=orthodox | description=Даты строительства / обновления: до 1897 г. | description:ru=Даты строительства / обновления: до 1897 г. | ref=http://globus.tut.by | religion=christian
     geometry : [53.4694650,27.1330410]
@@ -19,3 +16,9 @@ w221336666  null / null / Свято-Никольская церковь
 w364702607  null / null / Церковь евангельских христиан баптистов
   other tags : amenity=place_of_worship | building=yes | denomination=baptist | religion=christian
     geometry : n3687477701[53.4315772,27.5978319] n3687477702[53.4313790,27.5978426] n3687477703[53.4313790,27.5980250] n3687477704[53.4315900,27.5980357] n3687477701[53.4315772,27.5978319]
+w364728560  Царква Святых апосталаў Пятра й Паўла / null / Церковь Святых Апостолов Петра и Павла / Церковь Святых Апостолов Петра и Павла
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
+    geometry : n3687746567[53.6322553,27.4541167] n3687746568[53.6322564,27.4545563] n3687746569[53.6321371,27.4545571] n3687746570[53.6321360,27.4541176] n3687746567[53.6322553,27.4541167]
+w364728563
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3687746580[53.6322553,27.4546641] n3687746581[53.6321438,27.4546788] n3687746582[53.6321494,27.4547992] n3687746583[53.6322609,27.4547845] n3687746580[53.6322553,27.4546641]
