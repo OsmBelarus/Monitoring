@@ -6203,8 +6203,8 @@ n2062612501
   other tags : power=pole
     geometry : [55.1986183,30.1748210]
 n2062693341
-  other tags : power=tower
-    geometry : [55.2198619,30.2185777]
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.2198619,30.2185362]
 n2062693342
   other tags : power=pole
     geometry : [55.2199118,30.2191165]
@@ -8470,6 +8470,15 @@ n3679570309
 n3679570318
   other tags : material=concrete | power=tower | structure=solid
     geometry : [55.2375197,30.1060260]
+n3687585054
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.2176253,30.2218734]
+n3687585056
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2187905,30.2200937]
+n3687585058
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.2195618,30.2188782]
 w30193295
   other tags : operator=Витебскэнерго | power=line
     geometry : n332678345[55.1886339,30.2164756] n332678335[55.1880885,30.2173676] n332678320[55.1866715,30.2211522] n332678301[55.1861562,30.2257588] n332678312[55.1856715,30.2301890]
