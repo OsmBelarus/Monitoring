@@ -425,16 +425,16 @@ n674060026  Полацкі рынак / Polacki rynak / Полоцкий рын�
   other tags : highway=bus_stop
     geometry : [55.2005267,30.1814525]
 n674060048  Шчорса / Ščorsa / Щорса
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2114974,30.1896595]
 n674060051  Шчорса / Ščorsa / Щорса
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2115354,30.1899442]
 n674060053  Лагерная / Lahiernaja / Лагерная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2125726,30.1857587]
 n674060056  Лагерная / Lahiernaja / Лагерная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2126407,30.1852905]
 n674060087  Куйбышава / Kujbyšava / Куйбышева
   other tags : highway=bus_stop
@@ -449,10 +449,10 @@ n674060097  1-я Калгасная / Pieršaja Kalhasnaja / 1-я Колхозн
   other tags : highway=bus_stop
     geometry : [55.2087151,30.2045157]
 n674060098  1-я Калгасная / Pieršaja Kalhasnaja / 1-я Колхозная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2099609,30.2038212]
 n674060099  3-я Лінія / Treciaja Linija / 3-я Линия
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2117292,30.2006886]
 n674060101  Янушкоўскага / Januškoŭskaha / Янушковского
   other tags : highway=bus_stop
@@ -491,7 +491,7 @@ n976710899
   other tags : highway=bus_stop
     geometry : [55.2126061,30.1993260]
 n976710902  Праразная / Praraznaja / Прорезная
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2136856,30.1971244]
 n1072544183  Камбінат Віцьба / null / комбинат Витьба
   other tags : highway=bus_stop | public_transport=platform
