@@ -1307,7 +1307,7 @@ n1576652908  null / null / ОКей
   other tags : shop=chemist
     geometry : [55.1930431,30.2174876]
 n1576653778  null / null / Мила
-  other tags : shop=chemist
+  other tags : contact:website=http://milashop.by/ | opening_hours=Mo-Su 09:00-20:00 | operator=ООО «Парфюм Трейд» | shop=cosmetics
     geometry : [55.1936444,30.2298824]
 n1576658238  Аўтастыль / null / Автостиль
   other tags : opening_hours=Mo-Su 09:00-21:00 | phone=+375-29-7107207 | shop=car_repair
@@ -1918,9 +1918,6 @@ n2408615173
 n2409371699  null / null / dirtbike
   other tags : opening_hours=Tu-Su 09:00-18:00 | operator=ИП Ермаков Р.А. | phone=+375336068000, +375298169699 | ref=30 | service:bicycle:repair=yes | service:bicycle:retail=yes | shop=bicycle | website=http://dirtbike.by/
     geometry : [55.1811906,30.2224723]
-n2410583266  null / null / Сувениры
-  other tags : opening_hours=Tu-Fr 10:00-14:00,15:00-19:00; Sa 10:00-14:00,15:00-18:00 | operator=ООО «Зелёное золото» | shop=gift
-    geometry : [55.1937523,30.2310368]
 n2410583267  null / null / Газовые котлы
   other tags : brand=Bosch | opening_hours=Mo-Fr 10:00-20:00; Sa,Su 10:00-17:00 | shop=furnace
     geometry : [55.1937234,30.2307367]
