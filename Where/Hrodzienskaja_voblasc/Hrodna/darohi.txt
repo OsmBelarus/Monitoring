@@ -5683,7 +5683,7 @@ w33116196
   other tags : highway=primary_link | lanes=1 | oneway=yes | source=survey | surface=asphalt
     geometry : n320668407[53.6693706,23.8611867] n421962526[53.6694190,23.8610777] n421962520[53.6694351,23.8608870] n320667556[53.6694192,23.8607741]
 w33116408
-  other tags : highway=primary_link | lanes=1 | oneway=yes | surface=asphalt
+  other tags : hgv=delivery | highway=primary_link | lanes=1 | oneway=yes | surface=asphalt
     geometry : n1840649840[53.6623228,23.8304647] n373820041[53.6624070,23.8305841] n1410842837[53.6624337,23.8306700] n373820043[53.6624388,23.8307716] n373820018[53.6624139,23.8309352]
 w33172429
   other tags : highway=footway
@@ -8334,7 +8334,7 @@ w61775160  вуліца Перамогі / vulica Pieramohi / улица Поб�
   other tags : highway=primary | lanes=4 | lit=yes | surface=asphalt
     geometry : n1840649840[53.6623228,23.8304647] n3653700105[53.6625576,23.8305176] n320749419[53.6626813,23.8305330] n2293914963[53.6628350,23.8305140] n320749416[53.6630542,23.8304486]
 w61775162  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
     geometry : n320749416[53.6630542,23.8304486] n320750430[53.6626748,23.8307499] n373820018[53.6624139,23.8309352]
 w62011989
   other tags : highway=footway | source=survey
@@ -9885,7 +9885,7 @@ w117918033
   other tags : highway=footway | surface=asphalt
     geometry : n350212427[53.6544400,23.8386059] n1840423059[53.6545458,23.8387628] n1328305474[53.6546238,23.8389086] n2298893474[53.6546539,23.8390508]
 w117918035  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
     geometry : n373820018[53.6624139,23.8309352] n1759717581[53.6623387,23.8309957] n320750432[53.6621607,23.8311379] n3653700092[53.6620097,23.8313042] n1750886712[53.6618476,23.8315107] n320750435[53.6616848,23.8317480] n320674380[53.6612804,23.8323613] n1328290625[53.6609062,23.8329616] n320739998[53.6607727,23.8331784] n3406594690[53.6604636,23.8337023] n320745944[53.6604094,23.8337996]
 w117918037
   other tags : highway=footway | surface=paving_stones
@@ -9894,7 +9894,7 @@ w117918039
   other tags : bicycle=yes | bridge=yes | highway=footway
     geometry : n1327250660[53.6563432,23.8439623] n1327250613[53.6566117,23.8433040]
 w117918044  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : bridge=yes | highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
+  other tags : bridge=yes | hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
     geometry : n350188562[53.6565303,23.8432117] n350188553[53.6562666,23.8438757]
 w117919748
   other tags : highway=footway | surface=paving_stones
@@ -9933,7 +9933,7 @@ w117921683
   other tags : highway=footway
     geometry : n1327275161[53.6582491,23.8408578] n2057970666[53.6582918,23.8408981] n1327275188[53.6583826,23.8409839] n1327275156[53.6592997,23.8420514]
 w117922265
-  other tags : bridge=yes | highway=footway | layer=1
+  other tags : bridge=yes | highway=footway | layer=1 | smoothness=bad | surface=asphalt
     geometry : n1327280261[53.6633738,23.8303258] n2007880987[53.6639635,23.8296647] n1327280279[53.6642149,23.8293515] n1327280253[53.6645919,23.8288153]
 w117922266
   other tags : highway=footway | surface=paving_stones
@@ -12629,7 +12629,7 @@ w209198519  вуліца Церашковай / vulica Cieraškovaj / улица
   other tags : highway=tertiary | lanes=2 | lit=yes | surface=asphalt
     geometry : n2194294115[53.6951209,23.8442758] n456015317[53.6950751,23.8448071] n2616321206[53.6949536,23.8461748] n2612102019[53.6949395,23.8463335] n320748361[53.6949310,23.8464290] n320671713[53.6948780,23.8469939]
 w209385541  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
     geometry : n320673500[53.6568188,23.8425129] n1842937197[53.6567256,23.8427340] n350188562[53.6565303,23.8432117]
 w209385542  вуліца Фамічова / vulica Famičova / улица Фомичёва / улица Фомичёва
   other tags : highway=tertiary | lanes=2 | surface=asphalt
@@ -13091,7 +13091,7 @@ w221002502
   other tags : highway=footway | surface=asphalt
     geometry : n2300599789[53.6524254,23.8438439] n2300614357[53.6525327,23.8446045] n2300614358[53.6525916,23.8450221] n522873059[53.6526002,23.8450833] n522873062[53.6526364,23.8453573] n2300599827[53.6527779,23.8465438]
 w221002503
-  other tags : highway=path
+  other tags : highway=path | surface=ground
     geometry : n2300599477[53.6515168,23.8494816] n2300599462[53.6514991,23.8496557] n2300599495[53.6515503,23.8499496] n3653226447[53.6519739,23.8506360] n3653226448[53.6519823,23.8507234] n3653226458[53.6522597,23.8513184] n3653226466[53.6525054,23.8521644] n2300599834[53.6526578,23.8525644]
 w221002504
   other tags : highway=footway
@@ -14372,7 +14372,7 @@ w228873960
   other tags : highway=footway | surface=asphalt
     geometry : n2375350208[53.6521464,23.8318548] n2375350209[53.6522013,23.8320372] n2375350210[53.6522577,23.8322245] n1328290654[53.6523239,23.8324439]
 w228873964
-  other tags : highway=footway
+  other tags : highway=footway | surface=paving_stones
     geometry : n2375350225[53.6623035,23.8301226] n2293914949[53.6622773,23.8299952] n3653700099[53.6622653,23.8298980] n2375350224[53.6622108,23.8299188] n2293914945[53.6621364,23.8298654] n2375350223[53.6620933,23.8297655] n2293914943[53.6620420,23.8297996] n1840657229[53.6619602,23.8298510]
 w228882370  Прыгарадная вуліца / Pryharadnaja vulica / Пригородная улица / Пригородная улица
   other tags : highway=residential | surface=unpaved
@@ -16467,10 +16467,10 @@ w285943079
   other tags : highway=path | surface=ground
     geometry : n2895839774[53.6822632,23.8145338] n2895839775[53.6825190,23.8143492] n2895839776[53.6826215,23.8141114] n2406416614[53.6826490,23.8137925]
 w285943080  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=40 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=40 | surface=asphalt | trolley_wire=yes
     geometry : n320745924[53.6587595,23.8375863] n2895839767[53.6587293,23.8376645] n1840649826[53.6586934,23.8377578] n2895839766[53.6586584,23.8378459] n1328247571[53.6584444,23.8383853] n2967900805[53.6583396,23.8386499]
 w285943081  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
     geometry : n320745920[53.6580095,23.8394836] n320674233[53.6579019,23.8397595] n1345705394[53.6578784,23.8398341] n1345705398[53.6574483,23.8409234] n718692913[53.6573542,23.8411663] n320745570[53.6569900,23.8420500] n1842937213[53.6568965,23.8423023] n320673500[53.6568188,23.8425129]
 w285947241
   other tags : bridge=yes | highway=footway
@@ -16908,13 +16908,13 @@ w293147617  вуліца Міру / vulica Miru / улица Мира / улиц
   other tags : highway=residential | surface=cobblestone
     geometry : n320684087[53.6750749,23.8104856] n1328383670[53.6750643,23.8106948] n1328426896[53.6750294,23.8114405] n1328383746[53.6749999,23.8119694] n1328383787[53.6749296,23.8133589] n320684089[53.6749067,23.8138891] n320684091[53.6748649,23.8146356] n320674934[53.6747273,23.8153672] n1328393566[53.6747057,23.8154334] n320684099[53.6746091,23.8157584] n1328437330[53.6740902,23.8170378] n1328437296[53.6738185,23.8175812] n2967952162[53.6736548,23.8180533]
 w293215927  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:forward=40 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | maxspeed:forward=40 | surface=asphalt | trolley_wire=yes
     geometry : n2967900805[53.6583396,23.8386499] n320745920[53.6580095,23.8394836]
 w293215928  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=40 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=40 | surface=asphalt | trolley_wire=yes
     geometry : n2967900806[53.6590312,23.8369033] n320745924[53.6587595,23.8375863]
 w293215929  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | maxspeed:backward=40 | surface=asphalt | trolley_wire=yes
     geometry : n320745941[53.6595251,23.8356791] n1840649834[53.6594144,23.8359402] n2967900806[53.6590312,23.8369033]
 w293220581
   other tags : highway=footway | surface=asphalt
@@ -18858,7 +18858,7 @@ w353922510
   other tags : highway=track
     geometry : n559519227[53.6784050,23.7697764] n3597147323[53.6783691,23.7693842] n3597147324[53.6782548,23.7690838] n3597147325[53.6780260,23.7688799] n3597147327[53.6778862,23.7686654] n3597147326[53.6776650,23.7682770]
 w356064198  праспект Янкі Купалы / praspiekt Janki Kupaly / проспект Янки Купалы / проспект Янки Купалы
-  other tags : highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
+  other tags : hgv=delivery | highway=primary | lanes=4 | maxspeed=60 | surface=asphalt | trolley_wire=yes
     geometry : n320745944[53.6604094,23.8337996] n320740005[53.6600433,23.8345217] n1759717551[53.6599447,23.8347353] n1759717527[53.6596137,23.8354716] n320745941[53.6595251,23.8356791]
 w356071392
   other tags : highway=track | layer=1 | maxspeed=60
@@ -19977,7 +19977,7 @@ w360773807
   other tags : highway=footway | surface=paving_stones
     geometry : n3653224677[53.6494968,23.8605815] n3653224670[53.6493634,23.8600655] n3653224663[53.6491177,23.8597313] n3653224668[53.6492782,23.8593929] n3653224667[53.6492698,23.8593126] n3653224666[53.6492272,23.8592280]
 w360773809
-  other tags : highway=path
+  other tags : highway=path | surface=ground
     geometry : n3653226466[53.6525054,23.8521644] n3653226461[53.6523466,23.8519557] n3653224723[53.6515660,23.8508756] n3653224712[53.6513822,23.8505739] n3653224702[53.6511150,23.8501797] n3653224699[53.6510866,23.8501179] n2300599228[53.6510988,23.8500675]
 w360818327
   other tags : highway=footway | surface=paving_stones
