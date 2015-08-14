@@ -203,6 +203,9 @@ n2650589245  null / null / Родная сторона
 n2650625133  null / null / ТЦ Пассаж
   other tags : shop=variety_store
     geometry : [53.1474189,29.2290691]
+n2650666776  null / null / парикмахерская Дося
+  other tags : shop=hairdresser
+    geometry : [53.1366556,29.2261058]
 n2650670021  null / null / магазин Авоська
   other tags : opening_hours=24/7 | shop=convenience
     geometry : [53.1366032,29.2268852]
@@ -218,6 +221,9 @@ n2650698956  null / null / Торговый дом "Силуэт"
 n2650702880  null / null / зоомаркет
   other tags : addr:housenumber=35 | addr:street=Комсомольская улица | opening_hours=10:00-17:00 | shop=pet
     geometry : [53.1353565,29.2281688]
+n2650704084  null / null / velcom
+  other tags : shop=mobile_phone
+    geometry : [53.1342093,29.2271315]
 n3027745883  null / null / Евроопт
   other tags : shop=convenience
     geometry : [53.1765780,29.1893480]
@@ -438,7 +444,7 @@ n3154686714  null / null / Остров чистоты
   other tags : shop=yes
     geometry : [53.1318344,29.2281092]
 n3154686722  null / null / Зоотовары "Кошкин дом"
-  other tags : shop=yes
+  other tags : shop=pet
     geometry : [53.1318143,29.2252114]
 n3154687233  null / null / Корзинка
   other tags : shop=supermarket
@@ -488,3 +494,6 @@ n3384007874  null / null / МогилевСоюзПечать
 n3564214693  null / null / Евроопт
   other tags : shop=supermarket
     geometry : [53.1396733,29.2144579]
+n3682457798  null / null / Евросеть
+  other tags : shop=electronics
+    geometry : [53.1345816,29.2271419]

@@ -1,6 +1,3 @@
-n306069927
-  other tags : shop=car
-    geometry : [52.9041500,30.0151600]
 n982331391  null / null / Льдинка
   other tags : shop=convenience
     geometry : [52.9048615,30.0458960]
@@ -61,7 +58,7 @@ n1725606827  null / null / Галина
     geometry : [52.8916614,30.0357282]
 n1725606834  null / null / Гомельоблсоюзпечать
   other tags : shop=kiosk
-    geometry : [52.8935801,30.0321383]
+    geometry : [52.8935173,30.0320508]
 n1725606838  null / null / Книги
   other tags : opening_hours=09:00-14:00,15:00-18:00 | shop=books
     geometry : [52.8929787,30.0359877]
@@ -119,9 +116,6 @@ n1934349488
 n2105388603
   other tags : shop=furniture
     geometry : [52.8907827,30.0425977]
-n2110392866
-  other tags : service=tyres | shop=car
-    geometry : [52.9056680,30.0559353]
 n2113349243
   other tags : shop=car_repair
     geometry : [52.8909282,30.0542598]
@@ -209,9 +203,6 @@ n2876456243  null / null / Людмила
 n2982819660
   other tags : shop=convenience
     geometry : [52.8939431,30.0346537]
-n2984506309
-  other tags : shop=yes
-    geometry : [52.8853171,30.0396109]
 n2984546059
   other tags : addr:housenumber=46 | addr:street=улица Козлова | shop=convenience
     geometry : [52.9001809,30.0174058]
@@ -285,3 +276,12 @@ n3627743424  null / null / ATLANT / Атлант
 n3650020641  null / null / 5 Элемент
   other tags : shop=electronics
     geometry : [52.8849410,30.0299283]
+n3682457801
+  other tags : shop=bicycle
+    geometry : [52.8942478,30.0302467]
+n3682457802
+  other tags : service=tyres | shop=car_repair
+    geometry : [52.8956879,30.0191114]
+n3682457804
+  other tags : service=tyres | shop=car_repair
+    geometry : [52.9013174,30.0099203]

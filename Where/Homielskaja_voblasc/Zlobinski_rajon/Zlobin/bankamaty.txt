@@ -35,8 +35,8 @@ n1762791759  Белінвестбанк / Bielinviestbank / Белинвестб
   other tags : amenity=atm
     geometry : [52.9044987,30.0344161]
 n2202589993  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : amenity=atm
-    geometry : [52.8940421,30.0290699]
+  other tags : amenity=atm | operator=БПС-Сбербанк
+    geometry : [52.8940434,30.0290220]
 n2708917289
   other tags : amenity=atm | operator=Альфа-Банк
     geometry : [52.8931633,30.0399418]
@@ -64,3 +64,6 @@ n3222719779
 n3222719782
   other tags : amenity=atm | operator=Приорбанк
     geometry : [52.9002466,30.0513446]
+n3682457800
+  other tags : amenity=atm | operator=Беларусбанк
+    geometry : [52.8853531,30.0368176]
