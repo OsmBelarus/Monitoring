@@ -209,19 +209,19 @@ n2265509180
   other tags : highway=bus_stop
     geometry : [55.6812421,30.4225393]
 n2265589794
-  other tags : highway=bus_stop
-    geometry : [55.6741652,30.3845896]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.6741652,30.3845788]
 n2265590335
-  other tags : highway=bus_stop
-    geometry : [55.6735008,30.3867237]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.6735374,30.3867237]
 n2265598921
   other tags : highway=bus_stop
     geometry : [55.6787333,30.3075483]
 n2265599393
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.6789053,30.3293958]
 n2265599421
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.6787184,30.3304862]
 n2265599489
   other tags : highway=bus_stop
@@ -281,17 +281,17 @@ n2614545768
   other tags : highway=bus_stop
     geometry : [55.4450753,30.1377941]
 n2615073445
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5681650,30.2883000]
 n2615073454
-  other tags : highway=bus_stop
-    geometry : [55.5682858,30.2874199]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.5682950,30.2874232]
 n2615076535
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5857010,30.3664376]
 n2615076536
-  other tags : highway=bus_stop
-    geometry : [55.5859138,30.3654271]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.5859061,30.3654645]
 n2616477611
   other tags : highway=bus_stop
     geometry : [55.6599315,30.0656666]
