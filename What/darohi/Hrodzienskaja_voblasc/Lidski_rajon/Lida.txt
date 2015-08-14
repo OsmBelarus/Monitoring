@@ -2964,7 +2964,7 @@ w310343549  Грунвальдзкая вуліца / Hrunvaĺdzkaja vulica / Г
   other tags : highway=secondary | layer=1 | surface=asphalt
     geometry : n275442356[53.8865461,25.3061904] n3284139982[53.8863867,25.3063138] n437384193[53.8850765,25.3070262] n3284139984[53.8849288,25.3070906] n676021409[53.8847401,25.3071373] n506297664[53.8845839,25.3070922] n2850399065[53.8842437,25.3069152]
 w310343550  Савецкая вуліца / Savieckaja vulica / Советская улица / Советская улица
-  other tags : highway=primary | surface=asphalt
+  other tags : highway=primary | lanes=4 | surface=asphalt
     geometry : n275442439[53.8987997,25.2973775] n3159079595[53.8987496,25.2974376] n275442440[53.8981746,25.2981273] n1209813074[53.8978742,25.2985536] n1209813077[53.8974129,25.2992080] n1304453788[53.8969644,25.2998459] n1304453850[53.8968319,25.3000454] n1404473387[53.8967301,25.3002051]
 w310343551
   other tags : highway=footway
@@ -3430,7 +3430,7 @@ w311100203  Чырвонаармейская вуліца / Čyrvonaarmiejskaja 
   other tags : highway=primary | lanes=5 | lanes:forward=2
     geometry : n3158911215[53.8973091,25.2775568] n2853145109[53.8974342,25.2781861] n3682942111[53.8975259,25.2786760]
 w311100207  Савецкая вуліца / Savieckaja vulica / Советская улица / Советская улица
-  other tags : highway=primary | surface=asphalt
+  other tags : highway=primary | lanes=4 | surface=asphalt
     geometry : n1404473387[53.8967301,25.3002051] n2590248316[53.8966827,25.3002794] n736607170[53.8966261,25.3003682]
 w311100208
   other tags : highway=trunk | int_ref=E 85
