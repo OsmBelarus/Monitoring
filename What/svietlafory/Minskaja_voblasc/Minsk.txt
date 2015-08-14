@@ -1395,7 +1395,7 @@ n343853795  null / null / Байкальская
   other tags : highway=bus_stop
     geometry : [53.8702274,27.6840359]
 n344775533  Мядзведжына / null / Медвежино
-  other tags : bench=yes | highway=bus_stop | shelter=yes
+  other tags : bench=yes | highway=bus_stop | shelter=yes | wheelchair=yes
     geometry : [53.8932630,27.4618940]
 n371266008  Універсам "Талін" / null / Поликлиника №31
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
@@ -2453,7 +2453,7 @@ n767081496  Алтайская / null / Алтайская / Алтайская
   other tags : generated=yes | highway=bus_stop
     geometry : [53.8731581,27.6712113]
 n767082142  вуліца Чыгладзэ / null / улица Чигладзе / улица Чигладзе
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | wheelchair=yes
     geometry : [53.9234360,27.5029617]
 n767082143  Кіжаватава / null / Кижеватова / Кижеватова
   other tags : generated=yes | highway=bus_stop
@@ -3973,7 +3973,7 @@ n767183528  null / null / РБУ
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9336564,27.6313211]
 n767183530  Мядзведжына / null / Медвежино
-  other tags : generated=yes | highway=bus_stop
+  other tags : generated=yes | highway=bus_stop | wheelchair=yes
     geometry : [53.8936312,27.4665877]
 n767183531  null / null / ДС Веснянка
   other tags : generated=yes | highway=bus_stop
