@@ -7,9 +7,6 @@ n1288695765
 n1374627588  null / null / Костел св. Роха (дерев.) / Костел св. Роха (дерев.)
   other tags : amenity=place_of_worship | denomination=catholic | description=Рейтинг: увидеть по дороге | description:ru=Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : [53.6281830,27.5504590]
-n1376621321  null / null / Церковь Свято-Троицкая (дерев.) / Церковь Свято-Троицкая (дерев.)
-  other tags : amenity=place_of_worship | denomination=orthodox | description=Даты строительства / обновления: 1826 г. Рейтинг: увидеть интересно | description:ru=Даты строительства / обновления: 1826 г. Рейтинг: увидеть интересно | ref=http://globus.tut.by | religion=christian
-    geometry : [53.5274898,28.1753252]
 n1412866303  царква / null / Церковь / церковь
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.5973584,27.6818531]
@@ -19,6 +16,9 @@ n1719467198
 w84632131
   other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n983156569[53.5276431,28.2485339] n983156606[53.5277166,28.2490287] n983156639[53.5275825,28.2490851] n983156649[53.5275090,28.2485903] n983156569[53.5276431,28.2485339]
+w128546755  null / null / Храм в честь Святой Троицы (1825)
+  other tags : addr:street=Центральная улица | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
+    geometry : n1420355577[53.5276348,28.1753774] n1420355579[53.5276339,28.1755960] n1420355575[53.5273809,28.1755931] n1420355572[53.5273818,28.1753744] n1420355577[53.5276348,28.1753774]
 w139751187  null / null / Церковь св. Ильи XIX век / Церковь св. Ильи XIX век
   other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n1531552779[53.6694774,27.9533269] n1531552737[53.6692245,27.9532549] n1531552862[53.6691985,27.9535157] n1531552858[53.6694514,27.9535876] n1531552779[53.6694774,27.9533269]
