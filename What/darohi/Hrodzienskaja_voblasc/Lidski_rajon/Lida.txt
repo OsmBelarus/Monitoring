@@ -1752,10 +1752,10 @@ w126269948  вуліца Фамічова / vulica Famičova / улица Фом
   other tags : highway=primary_link | lanes=1 | official_name=Лида - Радунь | oneway=yes | ref=Н6020 | surface=asphalt
     geometry : n1400256903[53.9081226,25.2495218] n1400256902[53.9081116,25.2492463] n1400256901[53.9081493,25.2490087] n1403136239[53.9082171,25.2487582] n1400256898[53.9083604,25.2484945]
 w126269949
-  other tags : highway=trunk_link | int_ref=E 85 | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | lanes=1 | oneway=yes
     geometry : n1400256908[53.9091063,25.2497824] n1400256905[53.9084108,25.2498201] n1400256907[53.9082472,25.2497632] n1400256903[53.9081226,25.2495218]
 w126269950
-  other tags : highway=trunk_link | int_ref=E 85 | oneway=yes
+  other tags : highway=trunk_link | int_ref=E 85 | lanes=1 | oneway=yes
     geometry : n628883747[53.9077969,25.2506987] n2853570172[53.9080678,25.2505213] n1400256906[53.9084754,25.2501850] n1400256908[53.9091063,25.2497824]
 w126269951  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
   other names: name:wikipedia:by=Мікалай_Францавіч_Гастэла | name:wikipedia:ru=Гастелло,_Николай_Францевич
@@ -3433,7 +3433,7 @@ w311100207  Савецкая вуліца / Savieckaja vulica / Советска
   other tags : highway=primary | lanes=4 | surface=asphalt
     geometry : n1404473387[53.8967301,25.3002051] n2590248316[53.8966827,25.3002794] n736607170[53.8966261,25.3003682]
 w311100208
-  other tags : highway=trunk | int_ref=E 85
+  other tags : highway=trunk | int_ref=E 85 | lanes=2
     geometry : n751806940[53.9229384,25.2478362] n1119024876[53.9221827,25.2480799] n275442348[53.9215000,25.2483000] n3161005621[53.9140813,25.2491786] n1119024825[53.9133920,25.2492602] n1119024856[53.9112355,25.2495155] n1098209133[53.9106326,25.2495869] n1098209055[53.9100273,25.2496585] n3159799322[53.9093665,25.2497474] n1400256908[53.9091063,25.2497824]
 w311100209  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
   other tags : highway=primary | lanes=2 | oneway=yes
