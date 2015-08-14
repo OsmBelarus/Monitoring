@@ -1922,10 +1922,10 @@ n1538683059
   other tags : amenity=parking
     geometry : [55.1940738,30.2488637]
 n1539202894
-  other tags : kiosk=ХодДаби
+  other tags : fixme=непонятка | kiosk=ХодДаби
     geometry : [55.1934523,30.1916355]
 n1539202896
-  other tags : kiosk=soap
+  other tags : fixme=непонятка | kiosk=soap
     geometry : [55.1933750,30.1920323]
 n1546182776
   other tags : noexit=yes
@@ -16418,6 +16418,9 @@ w168962061  ТП-365 / null / ТП-365 / ТП-365
 w168965303
   other tags : leisure=playground
     geometry : n1801466330[55.1939398,30.1890942] n1801466326[55.1938790,30.1895419] n1801466316[55.1937769,30.1894993] n1801466321[55.1938377,30.1890517] n1801466330[55.1939398,30.1890942]
+w168970619  ТП-48 / null / ТП-48 / ТП-48
+  other tags : building=industrial | building:levels=1 | location=indoor | operator=РУП «Витебскэнерго» | power=substation | substation=converter
+    geometry : n1801522555[55.1929511,30.1925546] n1801459426[55.1929717,30.1925615] n1801459428[55.1930424,30.1925851] n1801522556[55.1930329,30.1926730] n1801522550[55.1929416,30.1926425] n1801522555[55.1929511,30.1925546]
 w168979596
   other tags : building=industrial | building:levels=1 | building:material=concrete
     geometry : n1801600108[55.2244866,30.2468294] n1801600105[55.2244793,30.2467857] n1801600110[55.2245324,30.2467584] n1801600112[55.2245397,30.2468021] n1801600108[55.2244866,30.2468294]
