@@ -8479,6 +8479,42 @@ n3687585056
 n3687585058
   other tags : material=metal | power=tower | structure=lattice
     geometry : [55.2195618,30.2188782]
+n3688795307
+  other tags : fixme=продолжить | material=concrete | power=tower | structure=solid
+    geometry : [55.2235902,30.2356727]
+n3688795308
+  other tags : fixme=продолжить | material=concrete | power=tower | structure=solid
+    geometry : [55.2238042,30.2366502]
+n3688795309
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2254261,30.2374499]
+n3688795310
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2254852,30.2382497]
+n3688795317
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2271647,30.2398411]
+n3688795318
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2272994,30.2392644]
+n3688795324
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2274702,30.2429470]
+n3688796428
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2277072,30.2434752]
+n3688796429
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2277101,30.2455476]
+n3688796430
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2279844,30.2483023]
+n3688796431
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2280077,30.2465317]
+n3688796436
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.2281884,30.2483247]
 w30193295
   other tags : operator=Витебскэнерго | power=line
     geometry : n332678345[55.1886339,30.2164756] n332678335[55.1880885,30.2173676] n332678320[55.1866715,30.2211522] n332678301[55.1861562,30.2257588] n332678312[55.1856715,30.2301890]
@@ -8608,3 +8644,9 @@ w345411251
 w345411252
   other tags : power=line
     geometry : n3520964746[55.2529135,30.1154726] n3520964734[55.2514748,30.1156858] n3520964731[55.2500527,30.1158784] n3520964641[55.2477824,30.1161945] n3520964632[55.2461219,30.1164328] n3520964630[55.2455064,30.1165155] n2843287734[55.2443990,30.1166803] n2843287716[55.2443432,30.1139292] n2843287697[55.2442252,30.1095060]
+w364844463
+  other tags : power=line
+    geometry : n3688795307[55.2235902,30.2356727] n3688795309[55.2254261,30.2374499] n3688795318[55.2272994,30.2392644] n3688796428[55.2277072,30.2434752] n3688796431[55.2280077,30.2465317] n3688796436[55.2281884,30.2483247]
+w364844465
+  other tags : power=line
+    geometry : n3688796430[55.2279844,30.2483023] n3688796429[55.2277101,30.2455476] n3688795324[55.2274702,30.2429470] n3688795317[55.2271647,30.2398411] n3688795310[55.2254852,30.2382497] n3688795308[55.2238042,30.2366502]

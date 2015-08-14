@@ -862,10 +862,10 @@ n2487924434  null / null / ИП «ЧЕСС-Бел»
     geometry : [55.2452277,30.2516150]
 n2488244335  null / null / Войсковой городок
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.2258589,30.2470954]
+    geometry : [55.2258540,30.2470609]
 n2488244337  null / null / Войсковой городок
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.2268704,30.2466908]
+    geometry : [55.2268729,30.2466606]
 n2491505781  Анкабальнiца / null / Онкобольница
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1524874,30.2276744]
@@ -1193,3 +1193,6 @@ n3652705203
 n3652705204
   other tags : highway=bus_stop
     geometry : [55.1806666,30.1539323]
+n3688797255
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2439526,30.2078061]
