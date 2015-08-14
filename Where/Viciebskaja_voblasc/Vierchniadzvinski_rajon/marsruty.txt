@@ -1,5 +1,5 @@
 r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robeža (Pāternieki) / Рига — Даугавпилс — Краслава — белорусская граница (Патерниеки)
-  other names: name:lv=Rīga — Daugavpils — Krāslava — Baltkrievijas robeža (Pāternieki)
+  other names: name:lt=Ryga — Daugpilis — Kraslava — Baltarusijos siena | name:lv=Rīga — Daugavpils — Krāslava — Baltkrievijas robeža (Pāternieki)
   other tags : distance=307.0 km | network=lv:national | ref=A6 | route=road | type=route | wikipedia=lv:Autoceļš A6 (Latvija)
     geometry : <> w186999732: [???]
     geometry : <> w306117571: [???]
@@ -43,6 +43,7 @@ r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robe
     geometry : <forward> w123535928: [???]
     geometry : <forward> w166130507: [???]
     geometry : <forward> w43992440: [???]
+    geometry : <forward> w361293065: [???]
     geometry : <forward> w39164556: [???]
     geometry : <forward> w117060134: [???]
     geometry : <forward> w25609936: [???]
@@ -56,6 +57,7 @@ r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robe
     geometry : <forward> w315814627: [???]
     geometry : <forward> w25586524: [???]
     geometry : <forward> w151859336: [???]
+    geometry : <forward> w361297873: [???]
     geometry : <forward> w27132303: [???]
     geometry : <forward> w127382458: [???]
     geometry : <forward> w255577395: [???]
@@ -85,6 +87,7 @@ r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robe
     geometry : <backward> w166127933: [???]
     geometry : <backward> w123537346: [???]
     geometry : <backward> w129601392: [???]
+    geometry : <backward> w365162145: [???]
     geometry : <backward> w280940208: [???]
     geometry : <backward> w39164554: [???]
     geometry : <backward> w4722977: [???]
@@ -102,8 +105,10 @@ r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robe
     geometry : <backward> w51980828: [???]
     geometry : <backward> w315814632: [???]
     geometry : <backward> w128732236: [???]
+    geometry : <backward> w361313778: [???]
     geometry : <backward> w151859341: [???]
     geometry : <backward> w151859339: [???]
+    geometry : <backward> w361298916: [???]
     geometry : <backward> w128732235: [???]
     geometry : <backward> w75683757: [???]
     geometry : <backward> w89087987: [???]
@@ -294,7 +299,7 @@ r125486  null / null / Rīga — Daugavpils — Krāslava — Baltkrievijas robe
     geometry : <> w22734326: [???]
     geometry : <> w22734327: [???]
     geometry : <> w274475744: [???]
-    geometry : <> w22734328: n243872724[???] n61195322[???] n1427524689[???] n61195321[???] n3634151727[55.9536686,26.5789045] n61195320[???] n2451289040[???] n61195319[???] n2451274955[???] n61195318[???] n61195316[???] n778596119[???] n2325365232[???] n2791900959[???] n2791900932[???] n2791900971[???] : w22734328
+    geometry : <> w22734328: [???]
     geometry : <> w22734329: [???]
     geometry : <> w128487027: [???]
     geometry : <> w152363120: [???]
