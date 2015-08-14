@@ -3102,7 +3102,7 @@ n3133367434  null / null / Кулинария
   other tags : opening_hours=Mo-Su 08:00-15:00,15:30-20:00 | operator=ОАО «Витмил» | shop=convenience
     geometry : [55.1944991,30.2331585]
 n3139952302  null / null / Красный пищевик
-  other tags : shop=confectionery
+  other tags : opening_hours=09:00-19:00 | shop=confectionery
     geometry : [55.2036338,30.2126261]
 n3139952303  null / null / Мегатоп / Мегатоп
   other tags : addr:housenumber=5 | addr:street=Смоленская площадь | shop=shoes
@@ -3506,3 +3506,12 @@ n3646449044  null / null / Шиншиллёнок
 n3674457829  null / null / Р-плюс
   other tags : craft=electronics_repair | note=Гарантийная мастерская по многим наименованиям бытовой техники | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00; Su off | phone=+375-29-2145912, +375-44-7131696, +375-212-255902 | shop=electronics | website=http://r-plus.by/
     geometry : [55.1618452,30.2108576]
+n3683987672  null / null / Белбланкавыд
+  other tags : opening_hours=Mo-Sa 08:30-13:00, 14:00-17:00; Su, Sa off | shop=books
+    geometry : [55.2023543,30.2099990]
+n3683987673  null / null / Оптика
+  other tags : shop=optician
+    geometry : [55.2040182,30.2121306]
+n3683987674  null / null / Офисный комфорт
+  other tags : shop=furniture
+    geometry : [55.2022729,30.2101099]
