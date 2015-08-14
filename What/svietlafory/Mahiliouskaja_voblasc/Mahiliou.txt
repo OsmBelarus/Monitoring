@@ -9,13 +9,13 @@ n933716064  null / null / Минское шоссе
     geometry : [53.9306038,30.2634543]
 n1133190190  null / null / Островского
   other tags : highway=bus_stop
-    geometry : [53.8787125,30.3380273]
+    geometry : [53.8791879,30.3375801]
 n1133262649  null / null / гостиница "Турист"
-  other tags : highway=bus_stop
-    geometry : [53.8845906,30.3335424]
+  other tags : bench=yes | highway=bus_stop
+    geometry : [53.8849508,30.3333621]
 n1133262679  null / null / гостиница "Турист"
-  other tags : highway=bus_stop
-    geometry : [53.8836860,30.3339527]
+  other tags : bench=yes | highway=bus_stop
+    geometry : [53.8838251,30.3336732]
 n1205508004  null / null / Сурганова
   other tags : highway=bus_stop
     geometry : [53.9193716,30.3115061]
@@ -36,10 +36,10 @@ n1219751430  null / null / ресторан "Ясень"
     geometry : [53.8703100,30.3230300]
 n1231252405  null / null / бульвар Непокоренных
   other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [53.8665340,30.3455830]
+    geometry : [53.8664425,30.3454434]
 n1231455212  null / null / Островского
   other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [53.8776371,30.3372728]
+    geometry : [53.8775878,30.3372582]
 n1231455217  null / null / Бухгалтерская школа
   other tags : bench=yes | highway=bus_stop | shelter=yes
     geometry : [53.8660320,30.3309530]
@@ -319,10 +319,10 @@ n1436806020  null / null / Автобусный парк №1 / Автобусн
     geometry : [53.8638808,30.3575641]
 n1436806022  null / null / дворец Культуры области
   other tags : highway=bus_stop
-    geometry : [53.8867792,30.3314088]
+    geometry : [53.8866075,30.3315596]
 n1436806024  null / null / дворец Культуры области
   other tags : highway=bus_stop
-    geometry : [53.8868937,30.3318620]
+    geometry : [53.8870565,30.3317313]
 n1436806026  null / null / пл. Орджоникидзе
   other tags : highway=bus_stop
     geometry : [53.8956012,30.3362519]
@@ -352,7 +352,7 @@ n1436806049  null / null / Менжинского
     geometry : [53.8938941,30.3122763]
 n1436806050  null / null / Островского
   other tags : highway=bus_stop
-    geometry : [53.8772320,30.3386715]
+    geometry : [53.8774739,30.3384598]
 n1436806056  null / null / улица Щорса
   other tags : highway=bus_stop
     geometry : [53.8969114,30.3020760]
@@ -445,7 +445,7 @@ n1436887160  null / null / Центральная проходная
     geometry : [53.8214229,30.3368680]
 n1436887174  null / null / бульвар Непокоренных
   other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [53.8656788,30.3431618]
+    geometry : [53.8656264,30.3432118]
 n1436887178  null / null / 2-я проходная
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8276792,30.3368682]
@@ -471,8 +471,8 @@ n1437412142  null / null / КП "Зелёный Луг"
   other tags : highway=bus_stop
     geometry : [53.8783580,30.2661321]
 n1480420688  null / null / гостиница Турист
-  other tags : highway=bus_stop
-    geometry : [53.8843283,30.3326503]
+  other tags : bench=yes | highway=bus_stop
+    geometry : [53.8843374,30.3322677]
 n1480422302  плошча Леніна / Plošča Lienina / площадь Ленина / площадь Ленина
   other tags : highway=bus_stop
     geometry : [53.9093180,30.3404072]
