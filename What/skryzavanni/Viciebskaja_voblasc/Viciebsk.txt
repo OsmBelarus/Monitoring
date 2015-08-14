@@ -14,14 +14,14 @@ n310294447
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.2013853,30.2634899]
 n310294588
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.2040977,30.2692023]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.2040927,30.2691642]
 n310294591
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.2039706,30.2695797]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.2039717,30.2695435]
 n310294691
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.2005117,30.2687568]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.2005130,30.2687146]
 n310300184
   other tags : highway=crossing
     geometry : [55.2026604,30.1736593]
@@ -287,8 +287,8 @@ n867923010
   other tags : crossing=traffic_signals | highway=crossing | traffic_signals:sound=yes
     geometry : [55.1928651,30.2021143]
 n872453974
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.1992194,30.2685447]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1992189,30.2685034]
 n906495592
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [55.1660044,30.1995172]
@@ -1301,11 +1301,11 @@ n1885180452
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1973306,30.2654486]
 n1885180458
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.1978985,30.2679469]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1979034,30.2679013]
 n1885180480
-  other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.2015995,30.2691474]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.2016025,30.2691020]
 n1901694030
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1929420,30.1807541]
@@ -1839,7 +1839,7 @@ n2558517736
     geometry : [55.1740788,30.2136700]
 n2681921485
   other tags : crossing=uncontrolled | highway=crossing
-    geometry : [55.2044754,30.2710242]
+    geometry : [55.2044750,30.2710013]
 n2739451800
   other tags : crossing=traffic_signals | crossing_ref=pelican | highway=crossing
     geometry : [55.1569122,30.2145826]
