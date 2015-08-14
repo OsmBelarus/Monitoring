@@ -199,7 +199,7 @@ n2097988858  null / null / Гастелло
     geometry : [53.9011412,25.2692314]
 n2097989422  null / null / Строителей
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9151751,25.2374487]
+    geometry : [53.9150958,25.2373746]
 n2097989615  null / null / Строителей
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9156179,25.2375967]
@@ -235,7 +235,7 @@ n2097993771  null / null / Мицкевича
     geometry : [53.8965678,25.2998898]
 n2097993852  null / null / Лидское Пиво
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8971020,25.3018478]
+    geometry : [53.8971655,25.3020285]
 n2097993853  null / null / Лидское Пиво
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8967960,25.3014022]
@@ -304,13 +304,13 @@ n2098003504  null / null / Магазин Чайка
     geometry : [53.8834225,25.2832762]
 n2098003969  null / null / Магазин Чайка
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8837814,25.2839629]
+    geometry : [53.8838548,25.2840966]
 n2098004254  null / null / Коммунистическая
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8837133,25.2833717]
+    geometry : [53.8842223,25.2833674]
 n2098004377  null / null / Коммунистическая
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8840375,25.2836598]
+    geometry : [53.8847238,25.2833505]
 n2098004455  null / null / Ленинская
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8895278,25.2949161]
@@ -367,10 +367,10 @@ n2098014424  null / null / Клары Цеткин
     geometry : [53.8878884,25.2818624]
 n2098014425  null / null / Клары Цеткин
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8882878,25.2814536]
+    geometry : [53.8885030,25.2813763]
 n2098014772  null / null / Невского
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8913185,25.2798214]
+    geometry : [53.8911945,25.2798617]
 n2098014814  null / null / Невского
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8904099,25.2799885]
@@ -473,9 +473,12 @@ n3166462662  null / null / Куйбышева
 n3166462664  null / null / Строителей
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9145800,25.2354135]
+n3166462665  null / null / Фомичёва
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9112805,25.2429366]
 n3166462666  null / null / Фомичёва
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.9118486,25.2423620]
+    geometry : [53.9118037,25.2423096]
 n3168297683  null / null / Аэродромная
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8869182,25.3402488]
@@ -524,3 +527,15 @@ n3168461693  null / null / Универсам №17
 n3405146218  null / null / Евроопт
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8911906,25.2548516]
+n3682942102
+  other tags : highway=bus_stop
+    geometry : [53.8903650,25.3050219]
+n3682942108
+  other tags : highway=bus_stop
+    geometry : [53.8929764,25.3233485]
+n3682942117
+  other tags : highway=bus_stop
+    geometry : [53.9124456,25.2401081]
+n3682942118
+  other tags : highway=bus_stop
+    geometry : [53.9127541,25.2396390]
