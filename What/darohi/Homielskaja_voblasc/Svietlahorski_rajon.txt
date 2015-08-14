@@ -4141,8 +4141,11 @@ w311557948  null / null / Советская улица / Советская у�
 w311557950  null / null / Шоссейная улица
   other tags : highway=living_street
     geometry : n275193897[52.5221046,29.5947848] n3172354512[52.5223657,29.5948707] n3172354513[52.5225028,29.5956002] n3172354514[52.5240499,29.5989369]
+w311860746
+  other tags : highway=residential | living_street=yes
+    geometry : n288123637[52.6492023,29.6562317] n3176136333[52.6501790,29.6573899]
 w311860747  null / null / пос. Медков
-  other tags : highway=living_street
+  other tags : highway=residential | living_street=yes
     geometry : n3176136333[52.6501790,29.6573899] n3176136334[52.6502832,29.6571109] n3176136335[52.6509536,29.6579263] n3176136336[52.6510317,29.6586559]
 w312365012
   other tags : highway=track
