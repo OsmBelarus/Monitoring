@@ -224,19 +224,22 @@ n3233886662
   other tags : shop=jewelry
     geometry : [53.1326991,26.0227370]
 n3281714061  null / null / АЛМИ
-  other tags : shop=yes
+  other tags : shop=supermarket
     geometry : [53.1090518,25.9986093]
 n3281714826  null / null / цветочный магазин
-  other tags : shop=yes
+  other tags : shop=florist
     geometry : [53.1091549,25.9981587]
+n3281717100  null / null / Салон связи мтс
+  other tags : shop=mobile_phone
+    geometry : [53.1089101,25.9984805]
 n3281718565  null / null / Одежда и питание для животных
-  other tags : shop=yes
+  other tags : shop=boutique
     geometry : [53.1087139,25.9985311]
 n3281719873
   other tags : shop=fabric
     geometry : [53.1088813,25.9989818]
-n3281719931
-  other tags : shop=baby_goods
+n3281719931  null / null / ништяки для детей
+  other tags : shop=toys
     geometry : [53.1087912,25.9988316]
 n3281725376  null / null / Продуктовый магазин
   other tags : shop=convenience
@@ -246,25 +249,28 @@ n3281733554  null / null / Клубок
     geometry : [53.1237582,26.0163230]
 n3281733555  null / null / Егорка
   other tags : shop=deli
-    geometry : [53.1235795,26.0162234]
+    geometry : [53.1235831,26.0162428]
 n3281734256  null / null / Магазин обуви "Дядя Стёпа"
-  other tags : shop=yes
-    geometry : [53.1235439,26.0158436]
+  other tags : shop=shoes
+    geometry : [53.1235399,26.0158622]
 n3281745128  null / null / Ковры
-  other tags : shop=carpet
+  other tags : shop=boutique
     geometry : [53.1235245,26.0159870]
 n3281760614  null / null / Синьор-Помидор
   other tags : shop=convenience
-    geometry : [53.1233791,26.0156737]
+    geometry : [53.1233706,26.0156849]
 n3281762119  null / null / Обувной магазин
   other tags : shop=yes
     geometry : [53.1288229,26.0188247]
 n3281762461  null / null / Сырное царство
-  other tags : shop=cheese
-    geometry : [53.1234234,26.0159369]
+  other tags : shop=convenience
+    geometry : [53.1234292,26.0159518]
 n3281765392  null / null / BILITA
-  other tags : shop=cosmetics
+  other tags : shop=chemist
     geometry : [53.1314944,26.0170223]
+n3281771625  null / null / Салон связи МТС
+  other tags : shop=mobile_phone
+    geometry : [53.1314461,26.0170598]
 n3281772861  null / null / Пачуццё
   other tags : shop=gift
     geometry : [53.1316907,26.0168024]
@@ -325,6 +331,9 @@ n3281830494  null / null / праздник
 n3281830736  null / null / милая
   other tags : shop=beauty
     geometry : [53.1296153,26.0119237]
+n3281832649  null / null / свадебный салон
+  other tags : shop=boutique
+    geometry : [53.1294208,26.0112214]
 n3281833214  null / null / Атриум
   other tags : shop=mall
     geometry : [53.1300868,26.0152282]
@@ -374,17 +383,68 @@ n3281855274  null / null / Светиловский
   other tags : shop=mall
     geometry : [53.1446554,26.0064705]
 n3281855990
-  other tags : shop=vacuum_cleaner
-    geometry : [53.1442252,26.0070244]
-n3281856080
-  other tags : shop=carpet
-    geometry : [53.1444178,26.0064647]
+  other tags : shop=electronics
+    geometry : [53.1442205,26.0070204]
 n3281856169  null / null / МТС
   other tags : shop=mobile_phone
-    geometry : [53.1445574,26.0066894]
-n3281856209
-  other tags : shop=baby_goods
-    geometry : [53.1443699,26.0068879]
+    geometry : [53.1445458,26.0066939]
+n3281856209  null / null / Для детей
+  other tags : shop=toys
+    geometry : [53.1443793,26.0068454]
 n3281856522
   other tags : shop=convenience
     geometry : [53.1527332,25.9985093]
+n3282632930  null / null / магазин одежды Панда
+  other tags : shop=boutique
+    geometry : [53.1324211,26.0245508]
+n3282636284  null / null / книжный магазин
+  other tags : shop=books
+    geometry : [53.1327042,26.0186287]
+n3282639225  null / null / магазин одежды Купалинка
+  other tags : shop=boutique
+    geometry : [53.1331843,26.0155912]
+n3282639226  null / null / магазин Связной
+  other tags : shop=mobile_phone
+    geometry : [53.1331079,26.0156475]
+n3282639711  null / null / магазин обуви Марко
+  other tags : shop=shoes
+    geometry : [53.1331457,26.0156220]
+n3282647538  null / null / магазин Гуру
+  other tags : shop=convenience
+    geometry : [53.1329719,26.0149645]
+n3282654554  null / null / Оптика
+  other tags : shop=optician
+    geometry : [53.1363932,26.0126626]
+n3282661356  null / null / магазин Дружба
+  other tags : shop=department_store
+    geometry : [53.1532189,25.9990835]
+n3282668831  null / null / Евроопт
+  other tags : shop=convenience
+    geometry : [53.1539702,25.9983368]
+n3282669102  null / null / магазин Хлебосолье
+  other tags : shop=convenience
+    geometry : [53.1568844,26.0105166]
+n3282669111  null / null / Секондхэнд
+  other tags : shop=boutique
+    geometry : [53.1568218,26.0106520]
+n3282673808  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [53.1513143,26.0071351]
+n3282675500  null / null / магазин Златка
+  other tags : shop=convenience
+    geometry : [53.1501159,26.0107166]
+n3282675763  null / null / Маникюрный салон У Юлии
+  other tags : shop=beauty
+    geometry : [53.1512601,26.0071348]
+n3282676116  null / null / канцелярский магазин Три кота
+  other tags : shop=stationery
+    geometry : [53.1498480,26.0113236]
+n3282676673  null / null / Магазин Бакалея
+  other tags : shop=convenience
+    geometry : [53.1544587,26.0139564]
+n3282677436  null / null / Магазин Купалинка
+  other tags : shop=boutique
+    geometry : [53.1538255,26.0144075]
+n3389365974  null / null / магазин "Копеечка"/ аптека
+  other tags : shop=convenience
+    geometry : [53.1532384,26.0059997]
