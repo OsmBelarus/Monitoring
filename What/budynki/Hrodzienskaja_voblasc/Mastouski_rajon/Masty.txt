@@ -7314,7 +7314,7 @@ w301636875
   other tags : addr:street=улица Шаройко | building=yes | building:levels=1
     geometry : n3057153351[53.3998163,24.5383417] n3057153337[53.3997919,24.5384701] n3057153283[53.3996850,24.5384130] n3057153292[53.3997094,24.5382845] n3057153351[53.3998163,24.5383417]
 w301636877
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=107 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3057149729[53.3899322,24.5387070] n3057149734[53.3899516,24.5388735] n3057149750[53.3900653,24.5388363] n3057149745[53.3900460,24.5386698] n3057149729[53.3899322,24.5387070]
 w301636878
   other tags : addr:street=Солнечный переулок | building=yes | building:levels=1
@@ -7350,7 +7350,7 @@ w301636891
   other tags : addr:street=Зельвянская улица | building=yes | building:levels=1
     geometry : n3057153513[53.4001387,24.5351054] n3057153441[53.4000156,24.5351176] n3057153437[53.4000088,24.5349240] n3057153480[53.4000788,24.5349171] n3057153483[53.4000814,24.5349925] n3057153511[53.4001346,24.5349872] n3057153513[53.4001387,24.5351054]
 w301636892
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=109 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3057149685[53.3897246,24.5387677] n3057149688[53.3897407,24.5389198] n3057149712[53.3898790,24.5388787] n3057149708[53.3898676,24.5387713] n3057149696[53.3897928,24.5387936] n3057149694[53.3897880,24.5387489] n3057149685[53.3897246,24.5387677]
 w301636893
   other tags : addr:street=Краснофлотская улица | building=yes | building:levels=1
@@ -7467,10 +7467,10 @@ w315569078
   other tags : addr:housenumber=101 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975281[53.3907099,24.5384692] n3216975282[53.3907282,24.5386424] n3216975284[53.3908433,24.5386081] n3216975283[53.3908250,24.5384349] n3216975281[53.3907099,24.5384692]
 w315569079
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=113 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975271[53.3893588,24.5388626] n3216975269[53.3892627,24.5388942] n3216975270[53.3892864,24.5391126] n3216975272[53.3893887,24.5390915] n3216975271[53.3893588,24.5388626]
 w315569080
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=111 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975275[53.3896017,24.5387843] n3216975273[53.3894807,24.5388211] n3216975274[53.3894981,24.5389821] n3216975276[53.3896191,24.5389453] n3216975275[53.3896017,24.5387843]
 w315569081
   other tags : addr:street=Солнечная улица | building=yes | building:levels=1
@@ -7479,7 +7479,7 @@ w315569082
   other tags : addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n3216974337[53.3875894,24.5414565] n3216974336[53.3875806,24.5415714] n3216974332[53.3874878,24.5415514] n3216974333[53.3874966,24.5414365] n3216974337[53.3875894,24.5414565]
 w315569083
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=115 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975267[53.3890786,24.5389148] n3216975265[53.3889576,24.5389516] n3216975266[53.3889750,24.5391126] n3216975268[53.3890960,24.5390758] n3216975267[53.3890786,24.5389148]
 w315569084
   other tags : addr:street=Солнечная улица | building=yes | building:levels=1
