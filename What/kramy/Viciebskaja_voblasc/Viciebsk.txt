@@ -1554,7 +1554,7 @@ n1851424837
     geometry : [55.1691903,30.1217199]
 n1851427537  null / null / Духмяный хлеб
   other tags : shop=convenience
-    geometry : [55.1694423,30.1222896]
+    geometry : [55.1694323,30.1224351]
 n1851431893  null / null / Мебель
   other tags : shop=convenience
     geometry : [55.1696184,30.1269003]
@@ -1825,6 +1825,9 @@ n2378198036
 n2381018821  null / null / Шиномонтаж
   other tags : addr:housenumber=110 | addr:street=улица Титова | service=tyres | shop=car_repair
     geometry : [55.1973028,30.1578277]
+n2381554364
+  other tags : shop=convenience
+    geometry : [55.1863759,30.1683559]
 n2382466963  null / null / Автозапчасти
   other tags : shop=car_parts
     geometry : [55.1734635,30.1510506]
