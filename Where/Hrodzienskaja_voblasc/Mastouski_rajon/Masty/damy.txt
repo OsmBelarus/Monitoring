@@ -374,7 +374,7 @@ w206123413
   other tags : addr:street=Песковская улица | building=residential | building:levels=1
     geometry : n2161244667[53.3925696,24.5405784] n2161244668[53.3925680,24.5404937] n2161244660[53.3924904,24.5404979] n2161244662[53.3924920,24.5405826] n2161244667[53.3925696,24.5405784]
 w206123414
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=9 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245546[53.3964025,24.5269780] n3057152135[53.3963038,24.5269435] n2161245503[53.3962795,24.5271386] n2161245540[53.3963782,24.5271731] n2161245546[53.3964025,24.5269780]
 w206123419
   other tags : building=residential | building:levels=1
@@ -389,10 +389,10 @@ w206123423
   other tags : building=residential | building:levels=1
     geometry : n2161245681[53.3967887,24.5289994] n2161245650[53.3966661,24.5289774] n2161245648[53.3966626,24.5291056] n2161245679[53.3967766,24.5291187] n2161245681[53.3967887,24.5289994]
 w206123424
-  other tags : addr:street=Народная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Дачная улица | building=residential | building:levels=1
     geometry : n2161245758[53.3969932,24.5310905] n2161245712[53.3968850,24.5310537] n2161245703[53.3968664,24.5312078] n2161245747[53.3969745,24.5312446] n2161245758[53.3969932,24.5310905]
 w206123425
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245290[53.3952588,24.5264861] n2161245271[53.3951492,24.5264478] n2161245263[53.3951324,24.5265823] n2161245286[53.3952420,24.5266206] n2161245290[53.3952588,24.5264861]
 w206123426
   other tags : addr:housenumber=2 | addr:street=Учительская улица | building=residential | building:levels=1
@@ -401,7 +401,7 @@ w206123430
   other tags : addr:housenumber=22 | addr:street=Широкий переулок | building=residential | building:levels=1
     geometry : n2161245398[53.3957995,24.5272582] n2161245366[53.3956910,24.5272113] n2161245361[53.3956639,24.5273874] n2161245392[53.3957724,24.5274343] n2161245398[53.3957995,24.5272582]
 w206123434
-  other tags : addr:street=Жемчужная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=Дачная улица | building=residential | building:levels=1
     geometry : n2161245812[53.3972247,24.5297099] n2161245790[53.3971083,24.5296691] n2161245786[53.3970892,24.5298227] n2161245804[53.3972055,24.5298634] n2161245812[53.3972247,24.5297099]
 w206123435
   other tags : building=residential | building:levels=1
@@ -413,7 +413,7 @@ w206123439
   other tags : addr:street=Широкий переулок | building=residential | building:levels=1
     geometry : n2161245198[53.3949696,24.5297533] n2161245160[53.3948880,24.5297046] n2161245141[53.3948428,24.5299176] n2161245189[53.3949243,24.5299663] n2161245198[53.3949696,24.5297533]
 w206123440
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=15 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245326[53.3954891,24.5265593] n2161245311[53.3953733,24.5265074] n2161245307[53.3953391,24.5267221] n2161245323[53.3954145,24.5267559] n3139597447[53.3954210,24.5267147] n3139597448[53.3954614,24.5267328] n2161245326[53.3954891,24.5265593]
 w206123442
   other tags : building=residential | building:levels=1
@@ -425,7 +425,7 @@ w206123447
   other tags : addr:housenumber=12 | addr:street=Учительская улица | building=residential | building:levels=1
     geometry : n2161245304[53.3952968,24.5318446] n2161245281[53.3952028,24.5318089] n2161245275[53.3951743,24.5320198] n2161245297[53.3952684,24.5320555] n2161245304[53.3952968,24.5318446]
 w206123448
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=21 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245143[53.3948390,24.5263154] n2161245091[53.3947598,24.5262878] n2161245088[53.3947323,24.5265088] n2161245130[53.3948115,24.5265364] n2161245143[53.3948390,24.5263154]
 w206123449
   other tags : addr:housenumber=4 | addr:street=Широкий переулок | building=residential | building:levels=1
@@ -434,8 +434,8 @@ w206123450
   other tags : building=residential | building:levels=1
     geometry : n2161245700[53.3968422,24.5306857] n2161245677[53.3967754,24.5306637] n2161245675[53.3967577,24.5308159] n2161245692[53.3968216,24.5308385] n2161245700[53.3968422,24.5306857]
 w206123453
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
-    geometry : n2161245828[53.3973237,24.5273072] n2161245811[53.3972140,24.5272708] n2161245803[53.3971862,24.5274902] n2161245824[53.3972959,24.5275296] n2161245828[53.3973237,24.5273072]
+  other tags : addr:housenumber=1 | addr:street=Широкая улица | building=residential | building:levels=1
+    geometry : n2161245828[53.3973237,24.5273072] n2161245824[53.3972959,24.5275296] n2161245803[53.3971862,24.5274902] n2161245811[53.3972140,24.5272708] n2161245828[53.3973237,24.5273072]
 w206123457
   other tags : addr:housenumber=8 | addr:street=Жемчужная улица | building=residential | building:levels=1
     geometry : n2161245519[53.3962920,24.5292827] n2161245487[53.3961905,24.5292434] n2161245480[53.3961601,24.5294633] n2161245504[53.3962616,24.5295027] n2161245519[53.3962920,24.5292827]
@@ -494,7 +494,7 @@ w206123520
   other tags : building=residential | building:levels=1
     geometry : n2161244985[53.3943543,24.5295057] n3057151415[53.3943431,24.5296069] n3057151549[53.3944602,24.5296471] n3057151553[53.3944723,24.5295452] n2161244985[53.3943543,24.5295057]
 w206123521
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245654[53.3966604,24.5270634] n2161245595[53.3965508,24.5270250] n2161245582[53.3965251,24.5272311] n2161245628[53.3966348,24.5272695] n2161245654[53.3966604,24.5270634]
 w206123523
   other tags : addr:housenumber=24 | addr:street=Янтарная улица | building=residential | building:levels=1
@@ -503,7 +503,7 @@ w206123525
   other tags : addr:street=Народная улица | building=residential | building:levels=1
     geometry : n2161244925[53.3941502,24.5298778] n2161244899[53.3940514,24.5298389] n2161244895[53.3940293,24.5299967] n2161244919[53.3941282,24.5300356] n2161244925[53.3941502,24.5298778]
 w206123526
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245784[53.3970854,24.5272096] n2161245749[53.3969757,24.5271732] n2161245736[53.3969479,24.5273926] n2161245779[53.3970576,24.5274320] n2161245784[53.3970854,24.5272096]
 w206123528
   other tags : addr:housenumber=2 | addr:street=Учительская улица | building=residential | building:levels=1
@@ -518,7 +518,7 @@ w206123534
   other tags : building=residential | building:levels=1
     geometry : n2161245079[53.3946701,24.5268214] n2161245061[53.3946037,24.5267995] n2161245056[53.3945894,24.5269214] n2161245071[53.3946558,24.5269433] n2161245079[53.3946701,24.5268214]
 w206123535
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=24 | addr:street=Широкий переулок | building=residential | building:levels=1
     geometry : n2161245412[53.3958741,24.5267591] n2161245390[53.3957717,24.5267192] n2161245377[53.3957506,24.5268719] n2161245406[53.3958529,24.5269118] n2161245412[53.3958741,24.5267591]
 w206123537
   other tags : addr:street=Янтарная улица | building=residential | building:levels=1
@@ -572,10 +572,10 @@ w206123584
   other tags : addr:housenumber=10 | addr:street=Широкий переулок | building=residential | building:levels=1
     geometry : n2161245301[53.3952873,24.5299262] n2161245278[53.3951776,24.5298898] n2161245272[53.3951498,24.5301092] n2161245293[53.3952595,24.5301486] n2161245301[53.3952873,24.5299262]
 w206123585
-  other tags : addr:street=Янтарная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Янтарная улица | building=residential | building:levels=1
     geometry : n2161245506[53.3962739,24.5278639] n2161245491[53.3962091,24.5278374] n2161245486[53.3961871,24.5279889] n2161245500[53.3962519,24.5280154] n2161245506[53.3962739,24.5278639]
 w206123586
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=23 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245060[53.3946046,24.5262559] n2161245025[53.3945112,24.5262152] n2161245013[53.3944836,24.5263935] n2161245051[53.3945770,24.5264342] n2161245060[53.3946046,24.5262559]
 w206123588
   other tags : addr:street=Народная улица | building=residential | building:levels=1
@@ -605,7 +605,7 @@ w206123612
   other tags : addr:housenumber=22 | addr:street=Янтарная улица | building=residential | building:levels=1
     geometry : n2161245075[53.3946637,24.5271978] n2161245040[53.3945644,24.5271619] n2161245029[53.3945498,24.5272752] n2161245066[53.3946492,24.5273110] n2161245075[53.3946637,24.5271978]
 w206123615
-  other tags : building=residential | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Дачная улица | building=residential | building:levels=1
     geometry : n2161245781[53.3970529,24.5306520] n2161245743[53.3969432,24.5306156] n2161245725[53.3969154,24.5308350] n2161245775[53.3970251,24.5308744] n2161245781[53.3970529,24.5306520]
 w206123617
   other tags : addr:housenumber=6 | addr:street=Жемчужная улица | building=residential | building:levels=1
@@ -674,7 +674,7 @@ w206123672
   other tags : building=residential | building:levels=1
     geometry : n2161245688[53.3968073,24.5277162] n2161245664[53.3966847,24.5276942] n2161245663[53.3966812,24.5278225] n2161245685[53.3967952,24.5278355] n2161245688[53.3968073,24.5277162]
 w206123674
-  other tags : addr:street=Янтарная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Янтарная улица | building=residential | building:levels=1
     geometry : n3057152066[53.3960391,24.5277669] n2161245426[53.3959452,24.5277196] n2161245420[53.3959116,24.5279071] n3057152058[53.3960056,24.5279545] n3057152066[53.3960391,24.5277669]
 w206123679
   other tags : building=residential | building:levels=1
@@ -746,7 +746,7 @@ w206123750
   other tags : addr:street=Народная улица | building=residential | building:levels=1
     geometry : n2161245520[53.3963267,24.5313493] n3057152120[53.3962428,24.5313154] n2161245488[53.3962349,24.5313699] n3057152106[53.3961905,24.5313520] n2161245482[53.3961717,24.5314827] n2161245509[53.3963000,24.5315346] n2161245520[53.3963267,24.5313493]
 w206123754
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=25 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161244986[53.3943708,24.5261436] n2161244961[53.3942863,24.5261062] n2161244953[53.3942683,24.5262203] n2161244981[53.3943528,24.5262577] n2161244986[53.3943708,24.5261436]
 w206123755
   other tags : building=residential | building:levels=1
@@ -791,7 +791,7 @@ w206123797
   other tags : building=residential | building:levels=1
     geometry : n2161245780[53.3970490,24.5277690] n2161245731[53.3969264,24.5277470] n2161245730[53.3969229,24.5278753] n2161245777[53.3970369,24.5278883] n2161245780[53.3970490,24.5277690]
 w206123799
-  other tags : addr:street=Янтарная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=14 | addr:street=Янтарная улица | building=residential | building:levels=1
     geometry : n2161245373[53.3957204,24.5275736] n2161245353[53.3956254,24.5275299] n2161245348[53.3955923,24.5277330] n2161245368[53.3956872,24.5277766] n2161245373[53.3957204,24.5275736]
 w206123800
   other tags : building=residential | building:levels=1
@@ -833,7 +833,7 @@ w206123825
   other tags : addr:street=Жемчужная улица | building=residential | building:levels=1
     geometry : n2161244897[53.3940004,24.5289867] n3057151284[53.3940124,24.5289082] n2161244877[53.3939341,24.5288744] n2161244874[53.3939005,24.5290931] n2161244892[53.3940282,24.5291481] n3057151299[53.3940497,24.5290080] n2161244897[53.3940004,24.5289867]
 w206123826
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245705[53.3968558,24.5271466] n2161245674[53.3967673,24.5271160] n3057152253[53.3967584,24.5271882] n3057152252[53.3967371,24.5271808] n2161245672[53.3967190,24.5273278] n2161245698[53.3968288,24.5273659] n2161245705[53.3968558,24.5271466]
 w206123827
   other tags : addr:housenumber=7 | addr:street=Янтарная улица | building=residential | building:levels=1
@@ -875,7 +875,7 @@ w206123864
   other tags : addr:street=Янтарная улица | building=residential | building:levels=1
     geometry : n2161245813[53.3972299,24.5287955] n3057152402[53.3971850,24.5287812] n2161245794[53.3971672,24.5289335] n2161245809[53.3972092,24.5289484] n2161245813[53.3972299,24.5287955]
 w206123866
-  other tags : addr:street=Широкая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=11 | addr:street=Широкая улица | building=residential | building:levels=1
     geometry : n2161245457[53.3960854,24.5268106] n2161245451[53.3960602,24.5270140] n2161245476[53.3961456,24.5270438] n3057152099[53.3961708,24.5268404] n2161245457[53.3960854,24.5268106]
 w206123868
   other tags : addr:housenumber=13 | addr:street=Янтарная улица | building=residential | building:levels=1
@@ -887,7 +887,7 @@ w206123873
   other tags : addr:street=Народная улица | building=residential | building:levels=1
     geometry : n2161244978[53.3943472,24.5299209] n2161244948[53.3942385,24.5298770] n2161244940[53.3942054,24.5300943] n2161244973[53.3943141,24.5301412] n2161244978[53.3943472,24.5299209]
 w206123877
-  other tags : addr:street=Янтарная улица | building=residential | building:levels=1
+  other tags : addr:housenumber=13 | addr:street=Дачная улица | building=residential | building:levels=1
     geometry : n2161245840[53.3974305,24.5282705] n2161245823[53.3973146,24.5282338] n2161245822[53.3972921,24.5284339] n2161245837[53.3974080,24.5284706] n2161245840[53.3974305,24.5282705]
 w206126357
   other tags : building=residential | building:levels=1
@@ -985,3 +985,6 @@ w316554729
 w316554731
   other tags : building=residential | building:levels=1
     geometry : n3226783995[53.4095877,24.5299011] n3226783659[53.4095845,24.5300674] n3226783605[53.4095381,24.5300593] n3226783586[53.4095381,24.5298930] n3226783995[53.4095877,24.5299011]
+w365717709
+  other tags : addr:housenumber=19 | addr:street=Широкая улица | building=residential | building:levels=1
+    geometry : n3697200843[53.3950329,24.5263918] n3697200839[53.3949171,24.5263399] n3697200838[53.3948829,24.5265546] n3697200840[53.3949583,24.5265884] n3697200841[53.3949648,24.5265472] n3697200842[53.3950052,24.5265653] n3697200843[53.3950329,24.5263918]
