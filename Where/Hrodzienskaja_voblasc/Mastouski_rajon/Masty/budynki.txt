@@ -7275,7 +7275,7 @@ w301636854
   other tags : addr:street=Солнечный переулок | building=yes | building:levels=1
     geometry : n3057152166[53.3964210,24.5443031] n3057152168[53.3964287,24.5444853] n3057152145[53.3963266,24.5444975] n3057152142[53.3963189,24.5443152] n3057152166[53.3964210,24.5443031]
 w301636855
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=99 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3057150060[53.3908988,24.5384035] n3057150064[53.3909171,24.5385767] n3057150082[53.3910322,24.5385424] n3057150077[53.3910139,24.5383692] n3057150060[53.3908988,24.5384035]
 w301636858
   other tags : addr:street=Плодовая улица | building=yes | building:levels=1
@@ -7416,7 +7416,7 @@ w311420754
   other tags : addr:housenumber=2А | addr:street=проспект Мира | building=yes | building:levels=3
     geometry : n3170580517[53.4210903,24.5403608] n3170580518[53.4212166,24.5417748] n3170580519[53.4208153,24.5418757] n3170580520[53.4206890,24.5404617] n3170580517[53.4210903,24.5403608]
 w315569056
-  other tags : addr:housenumber=101 | addr:street=Первомайская улица | building=yes | building:levels=1
+  other tags : addr:housenumber=103 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975279[53.3905876,24.5385058] n3216975277[53.3904749,24.5385395] n3216975278[53.3904986,24.5387386] n3216975280[53.3906050,24.5387101] n3216975279[53.3905876,24.5385058]
 w315569057
   other tags : addr:housenumber=114 | addr:street=Песковская улица | building=yes | building:levels=1
@@ -7464,7 +7464,7 @@ w315569077
   other tags : addr:street=Солнечная улица | building=yes | building:levels=1
     geometry : n3216974325[53.3873714,24.5417332] n3216974324[53.3873626,24.5418481] n3216974317[53.3872698,24.5418281] n3216974318[53.3872786,24.5417132] n3216974325[53.3873714,24.5417332]
 w315569078
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=101 | addr:street=Первомайская улица | building=yes | building:levels=1
     geometry : n3216975281[53.3907099,24.5384692] n3216975282[53.3907282,24.5386424] n3216975284[53.3908433,24.5386081] n3216975283[53.3908250,24.5384349] n3216975281[53.3907099,24.5384692]
 w315569079
   other tags : building=yes | building:levels=1
