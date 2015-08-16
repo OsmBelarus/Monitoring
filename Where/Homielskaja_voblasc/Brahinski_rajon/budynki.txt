@@ -6056,10 +6056,10 @@ w365054268
   other tags : addr:housenumber=17 | addr:street=ул . Лесная | building=yes
     geometry : n3690987293[51.8431484,30.2638786] n3690987290[51.8430753,30.2638696] n3690987289[51.8430691,30.2640021] n3690987291[51.8431422,30.2640111] n3690987293[51.8431484,30.2638786]
 w365246448
-  other tags : addr:city=Кривча | addr:country=BY | addr:housenumber=1 | addr:street=ул. Новая | building=yes
+  other tags : addr:housenumber=1 | addr:street=ул. Новая | building=yes
     geometry : n3692837418[51.7487895,30.4258154] n3692837416[51.7487267,30.4259807] n3692837420[51.7488098,30.4260630] n3692837421[51.7488726,30.4258976] n3692837418[51.7487895,30.4258154]
 w365246449
-  other tags : addr:city=Кривча | addr:country=BY | addr:housenumber=1 | addr:street=Садовая улица | building=yes
+  other tags : addr:housenumber=1 | addr:street=Садовая улица | building=yes
     geometry : n3692837342[51.7443877,30.4301239] n3692837343[51.7444188,30.4302322] n3692837341[51.7443326,30.4302968] n3692837340[51.7443015,30.4301884] n3692837342[51.7443877,30.4301239]
 w365246450
   other tags : addr:housenumber=10 | addr:street=Молодежная улица | building=yes
@@ -6119,19 +6119,19 @@ w365246468
   other tags : addr:housenumber=27 | addr:street=Советская улица | building=yes
     geometry : n3692837347[51.7447967,30.4261002] n3692837345[51.7447132,30.4259756] n3692837344[51.7446593,30.4260698] n3692837346[51.7447427,30.4261944] n3692837347[51.7447967,30.4261002]
 w365246469
-  other tags : addr:housenumber=29.2 | addr:street=Советская улица | building=yes
+  other tags : addr:housenumber=29 к2 | addr:street=Советская улица | building=yes
     geometry : n3685453526[51.7486175,30.4163589] n3685453528[51.7487381,30.4164665] n3692837411[51.7486773,30.4166441] n3692837405[51.7485567,30.4165365] n3685453526[51.7486175,30.4163589]
 w365246470
-  other tags : addr:housenumber=2а | addr:street=Первомайская улица | building=yes
+  other tags : addr:housenumber=2А | addr:street=Первомайская улица | building=yes
     geometry : n3692837552[51.7514975,30.4202443] n3692837550[51.7513909,30.4203237] n3692837551[51.7514396,30.4204940] n3692837553[51.7515462,30.4204146] n3692837552[51.7514975,30.4202443]
 w365246471
   other tags : addr:housenumber=3 | addr:street=Молодежная улица | building=yes
     geometry : n3692837400[51.7484247,30.4190214] n3692837396[51.7483631,30.4191549] n3692837399[51.7484211,30.4192246] n3692837401[51.7484826,30.4190911] n3692837400[51.7484247,30.4190214]
 w365246472
-  other tags : addr:city=Кривча | addr:country=BY | addr:housenumber=3 | addr:street=ул. Новая | building=yes
+  other tags : addr:housenumber=3 | addr:street=ул. Новая | building=yes
     geometry : n3692837410[51.7486573,30.4261311] n3692837407[51.7485814,30.4262915] n3692837412[51.7486795,30.4264128] n3692837417[51.7487555,30.4262524] n3692837410[51.7486573,30.4261311]
 w365246473
-  other tags : addr:city=Кривча | addr:country=BY | addr:housenumber=4 | addr:street=ул. Новая | building=yes
+  other tags : addr:housenumber=4 | addr:street=ул. Новая | building=yes
     geometry : n3692837403[51.7484934,30.4259313] n3692837398[51.7484127,30.4261150] n3692837395[51.7483200,30.4260086] n3692837397[51.7484007,30.4258250] n3692837403[51.7484934,30.4259313]
 w365246474
   other tags : addr:housenumber=4 | addr:street=Первомайская улица | building=yes
@@ -6140,7 +6140,7 @@ w365246475
   other tags : addr:housenumber=5 | addr:street=Молодежная улица | building=yes
     geometry : n3692837535[51.7496217,30.4217456] n3692837534[51.7495603,30.4218779] n3692837536[51.7496476,30.4219836] n3692837537[51.7497090,30.4218513] n3692837535[51.7496217,30.4217456]
 w365246476
-  other tags : addr:city=Кривча | addr:country=BY | addr:housenumber=5 | addr:street=Садовая улица | building=yes
+  other tags : addr:housenumber=5 | addr:street=Садовая улица | building=yes
     geometry : n3692837366[51.7455512,30.4294346] n3692837369[51.7456006,30.4295372] n3692837373[51.7456703,30.4294497] n3692837370[51.7456209,30.4293470] n3692837366[51.7455512,30.4294346]
 w365246477
   other tags : addr:housenumber=6 | addr:street=Молодежная улица | building=yes
@@ -6293,7 +6293,7 @@ w365265395
   other tags : addr:housenumber=2 | addr:street=Луговая улица | building=yes
     geometry : n3692975084[51.7297295,30.4135851] n3692975083[51.7296659,30.4136602] n3692975085[51.7297438,30.4138325] n3692975086[51.7298074,30.4137574] n3692975084[51.7297295,30.4135851]
 w365265396
-  other tags : addr:housenumber=2а | addr:street=Пролетарская улица | building=yes
+  other tags : addr:housenumber=2А | addr:street=Пролетарская улица | building=yes
     geometry : n3692975134[51.7338311,30.3987423] n3692975131[51.7337513,30.3988763] n3692975133[51.7338208,30.3989842] n3692975135[51.7339006,30.3988502] n3692975134[51.7338311,30.3987423]
 w365265397
   other tags : addr:housenumber=3 | addr:street=Луговая улица | building=yes
@@ -6320,7 +6320,7 @@ w365265405
   other tags : addr:housenumber=47 | addr:street=Пролетарская улица | building=yes
     geometry : n3692975100[51.7302269,30.4067766] n3692975097[51.7301775,30.4068780] n3692975101[51.7302605,30.4069835] n3692975102[51.7303100,30.4068821] n3692975100[51.7302269,30.4067766]
 w365265406
-  other tags : addr:housenumber=4а | addr:street=Пролетарская улица | building=yes
+  other tags : addr:housenumber=4А | addr:street=Пролетарская улица | building=yes
     geometry : n3692975130[51.7337018,30.3989462] n3692975127[51.7336160,30.3990611] n3692975128[51.7336504,30.3991279] n3692975129[51.7336753,30.3991763] n3692975132[51.7337610,30.3990614] n3692975130[51.7337018,30.3989462]
 w365265407
   other tags : addr:housenumber=60 | addr:street=Пролетарская улица | building=yes
@@ -6332,7 +6332,7 @@ w365265409
   other tags : addr:housenumber=68 | addr:street=Пролетарская улица | building=yes
     geometry : n3692975071[51.7275109,30.4106317] n3692975070[51.7274518,30.4107071] n3692975072[51.7275111,30.4108282] n3692975073[51.7275701,30.4107528] n3692975071[51.7275109,30.4106317]
 w365265410
-  other tags : addr:housenumber=6а | addr:street=Пролетарская улица | building=yes
+  other tags : addr:housenumber=6А | addr:street=Пролетарская улица | building=yes
     geometry : n3692975123[51.7333165,30.3994416] n3692975119[51.7332352,30.3995665] n3692975122[51.7333030,30.3996816] n3692975126[51.7333843,30.3995567] n3692975123[51.7333165,30.3994416]
 w365693706
   other tags : addr:housenumber=2 | building=yes
