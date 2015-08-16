@@ -5296,8 +5296,8 @@ n1810141448  null / null / Mitsubishi Motors
 n1812540527  null / null / Салон Красоты "Жемчужина"
   other tags : addr:housenumber=66 | addr:postcode=220123 | addr:street=улица Максима Богдановича | opening_hours=09:00-21:00 | shop=hairdresser | website=http://myartego.by/
     geometry : [53.9228510,27.5697880]
-n1813068223
-  other tags : shop=convenience
+n1813068223  null / null / Инвастрой
+  other tags : opening_hours=09:00-22:00 | shop=convenience
     geometry : [53.8742784,27.5291722]
 n1817310704  null / null / Мясная Держава-3
   other tags : opening_hours=Mo-Su 08:00-20:00 | shop=butcher
@@ -11674,3 +11674,6 @@ n3691166525  null / null / Автофакт
 n3691177767  null / null / Дружба
   other tags : opening_hours=09:00-21:00 | shop=convenience | wheelchair=no
     geometry : [53.9342192,27.5417934]
+n3698444921  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [53.9323679,27.4350974]
