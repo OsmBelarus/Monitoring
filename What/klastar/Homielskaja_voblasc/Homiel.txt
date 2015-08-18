@@ -16,6 +16,9 @@ n455938878  null / null / Православная церковь
 n456038909  null / null / Церковь Иконы Божьей Матери
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [52.4644937,30.9698751]
+n456054752  null / null / Вифания
+  other tags : addr:housenumber=60 | addr:street=Московская улица | amenity=place_of_worship | denomination=baptist | religion=christian
+    geometry : [52.4315180,30.9768825]
 n456054759  null / null / Терпение
   other tags : addr:housenumber=13 | addr:street=улица Мичурина | amenity=place_of_worship | denomination=baptist | religion=christian
     geometry : [52.4745607,31.0201893]
@@ -43,9 +46,6 @@ w235266529
 w254692924  null / null / Гомельский мужской монастырь во имя святителя Николая Мирликийского Гомельской епархии
   other tags : addr:housenumber=4 | addr:street=улица Демьяна Бедного | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2604958623[52.4405241,30.9848382] n2604958625[52.4404838,30.9852628] n2604958627[52.4406349,30.9853014] n2604958629[52.4406752,30.9848768] n2788686464[52.4405801,30.9848525] n2604958623[52.4405241,30.9848382]
-w261670071  null / null / Вифания
-  other tags : addr:housenumber=60 | addr:street=Московская улица | amenity=place_of_worship | building=yes | denomination=baptist | religion=christian
-    geometry : n2672699308[52.4316155,30.9768429] n2672699307[52.4316037,30.9770239] n2672699286[52.4315508,30.9770146] n2672699282[52.4315424,30.9771427] n2672699231[52.4314235,30.9771219] n2672699239[52.4314298,30.9770240] n2672699199[52.4313552,30.9770109] n2672699206[52.4313690,30.9767998] n2672699308[52.4316155,30.9768429]
 w281556500  null / null / Церовь ЕХБ
   other tags : addr:housenumber=9 | addr:street=1-й переулок Николая Островского | amenity=place_of_worship | building=yes | denomination=baptist | phone=+375(232)412811 | religion=christian | website=http://www.gomel.baptist.by/ | wheelchair=yes
     geometry : n2855244411[52.4206494,30.9917548] n2855244407[52.4205430,30.9917305] n2855244406[52.4205118,30.9920988] n2855244410[52.4206182,30.9921231] n2855244411[52.4206494,30.9917548]
