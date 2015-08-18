@@ -8,10 +8,10 @@ w25258744  вуліца Рамановіч / vulica Ramanovič / улица Ро
   other tags : highway=primary | maxspeed=60 | ref=Р67
     geometry : n1940117966[53.8297970,28.9931119] n1841302540[53.8293947,28.9930330]
 w57999262
-  other tags : bridge=yes | highway=trunk | layer=1 | maxspeed=120 | oneway=yes | ref=М4 | toll=yes
+  other tags : bridge=yes | highway=trunk | layer=1 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt | toll=yes
     geometry : n719601568[53.8295044,29.0000546] n719601570[53.8292176,29.0067229]
 w57999303  вуліца Ханінава / vulica Chaninava / улица Хонинова / улица Хонинова
-  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | toll=yes
+  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | surface=asphalt | toll=yes
     geometry : n275250325[53.8296233,28.9984697] n719601568[53.8295044,29.0000546]
 w77417657  Камсамольская вуліца / Kamsamoĺskaja vulica / Комсомольская улица / Комсомольская улица
   other tags : highway=secondary
@@ -29,7 +29,7 @@ w80218335  Кастрычніцкая вуліца / Kastryčnickaja vulica / О
   other tags : highway=secondary
     geometry : n911201185[53.8394071,28.9940952] n950591081[53.8391765,28.9940608] n950590604[53.8381758,28.9939719] n950590598[53.8363873,28.9938293] n950590701[53.8361378,28.9937911] n950590985[53.8354007,28.9937475] n2797815552[53.8353609,28.9937697] n950590005[53.8332926,28.9935160] n950590765[53.8318738,28.9933917] n911201209[53.8308048,28.9932762] n1940117968[53.8302363,28.9931734]
 w80218369
-  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | toll=yes
+  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | surface=asphalt | toll=yes
     geometry : n950590263[53.8291807,28.9854280] n275250329[53.8294803,28.9864240] n718946983[53.8297236,28.9873820]
 w80218452
   other tags : highway=residential
@@ -291,7 +291,7 @@ w173288846  вуліца Ханінава / vulica Chaninava / улица Хон
   other tags : highway=secondary | lanes=2 | lit=yes | maxspeed=60
     geometry : n3458103404[53.8289489,28.9852483] n1841302536[53.8289863,28.9856589] n1841302537[53.8290307,28.9865038] n1841302538[53.8292273,28.9878783] n1841302539[53.8293457,28.9897411] n1841302540[53.8293947,28.9930330]
 w173288851  вуліца Ханінава / vulica Chaninava / улица Хонинова / улица Хонинова
-  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | toll=yes
+  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | surface=asphalt | toll=yes
     geometry : n718946983[53.8297236,28.9873820] n718946970[53.8298180,28.9880216] n718946985[53.8298950,28.9886415] n275250328[53.8299770,28.9894323] n718946972[53.8299965,28.9901790] n275250327[53.8299903,28.9909730] n275250326[53.8299033,28.9928963] n1940123606[53.8298237,28.9951489] n1940123613[53.8296331,28.9971814] n1940123598[53.8296318,28.9971950] n275250325[53.8296233,28.9984697]
 w176241932
   other tags : highway=primary | maxspeed=90 | ref=Р67 | surface=asphalt
@@ -318,7 +318,7 @@ w195512984  вуліца Ханінава / vulica Chaninava / улица Хон
   other tags : highway=trunk | lanes=2 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt | toll=yes
     geometry : n1938490074[53.8295532,29.0000645] n1938490080[53.8296914,28.9984872]
 w208071910
-  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | toll=yes
+  other tags : highway=trunk | maxspeed=120 | oneway=yes | ref=М4 | source=survey | surface=asphalt | toll=yes
     geometry : n1411196432[53.8238326,28.9665942] n2802346711[53.8240157,28.9672779] n3458103364[53.8253577,28.9719353] n3458103384[53.8280830,28.9815963] n3198387942[53.8289758,28.9846862] n950590263[53.8291807,28.9854280]
 w208071937  вуліца Горкага / vulica Horkaha / улица Горького / улица Горького
   other tags : highway=residential
