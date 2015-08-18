@@ -245,7 +245,7 @@ w25268934
   other tags : highway=trunk_link | oneway=yes
     geometry : n275319205[54.1529300,27.8106103] n275319206[54.1537316,27.8111136] n616012518[54.1542773,27.8116836] n275319207[54.1547800,27.8124100] n648851262[54.1554241,27.8134419] n648851264[54.1556132,27.8137701] n275319187[54.1556685,27.8140753]
 w25268935
-  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n275319208[54.1450900,27.8097400] n1131204213[54.1474213,27.8099642]
 w25268937
   other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
@@ -1046,7 +1046,7 @@ w92866061
   other tags : highway=trunk | lanes=2 | maxspeed=90 | ref=М3 | surface=asphalt
     geometry : n275311103[54.4225288,27.8966790] n338672963[54.4250872,27.8954950] n423183516[54.4252416,27.8954127]
 w93029208
-  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n275319224[54.1570283,27.8118953] n1078393773[54.1562691,27.8114913]
 w93029209
   other tags : description=Жодино - Дениски | highway=secondary | official_name=Жодино - Дениски | ref=Н9548
@@ -1055,10 +1055,10 @@ w93029210
   other tags : description=Жодино - Дениски | highway=secondary | official_name=Жодино - Дениски | ref=Н9548
     geometry : n275319184[54.1572033,27.8100032] n1638336964[54.1571794,27.8100639] n275319193[54.1567392,27.8111807] n616012564[54.1563083,27.8123332]
 w93029213
-  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1078393773[54.1562691,27.8114913] n275319189[54.1551571,27.8110492] n338642350[54.1526235,27.8103300] n338642349[54.1513257,27.8101450] n338642348[54.1486542,27.8098749] n1131204214[54.1480982,27.8098142]
 w93029219
-  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1078393772[54.1562123,27.8117966] n1078393770[54.1570073,27.8121642]
 w93029220
   other tags : description=Жодино - Дениски | highway=secondary | official_name=Жодино - Дениски | ref=Н9548
@@ -1304,16 +1304,16 @@ w97471169
   other tags : highway=track | tracktype=grade2
     geometry : n1128724563[54.1192958,27.9024053] n1128724635[54.1206253,27.9015089]
 w97713387
-  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1131204213[54.1474213,27.8099642] n1131204215[54.1480873,27.8100385]
 w97713389
-  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : bridge=yes | highway=trunk | lanes=2 | layer=1 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1131204214[54.1480982,27.8098142] n1131204211[54.1474276,27.8097360]
 w97713391
-  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1131204215[54.1480873,27.8100385] n448865137[54.1517488,27.8104129] n275319205[54.1529300,27.8106103] n275319209[54.1542871,27.8110137] n275319200[54.1551315,27.8112969] n616012529[54.1556921,27.8115561] n1078393772[54.1562123,27.8117966]
 w97713393
-  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | toll=yes
+  other tags : highway=trunk | lanes=2 | maxspeed=100 | oneway=yes | ref=М3 | surface=asphalt | toll=yes
     geometry : n1131204211[54.1474276,27.8097360] n275319225[54.1436410,27.8093672] n275319226[54.1380619,27.8088392] n338642339[54.1351931,27.8085293] n648219596[54.1334793,27.8083851] n275319227[54.1325497,27.8082678]
 w100799411  Цэнтральны завулак / null / Центральный переулок / Центральный переулок
   other tags : highway=residential | surface=unpaved
