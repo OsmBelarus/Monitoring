@@ -10025,11 +10025,11 @@ n3270523191  null / null / ДА-СТУДИЯ
 n3270523867  null / null / Charm Cleo / Шарм Клео
   other tags : addr:housenumber=1 | addr:street=Кальварийская улица | opening_hours=Mo-Fr 08:00-21:00 Sa 09:00-18:00 Su off | shop=beauty
     geometry : [53.9050435,27.5394147]
-n3270524361  null / null / БОНЖУР
-  other tags : addr:housenumber=4 | addr:street=улица Мельникайте | opening_hours=Mo-Sa 08:00-21:00 Su 09:00-21:00 | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270524361  null / null / Бонжур
+  other tags : addr:housenumber=4 | addr:street=улица Мельникайте | opening_hours=Mo-Sa 08:00-21:00; Su 09:00-21:00 | shop=beauty
     geometry : [53.9065071,27.5425716]
-n3270524362  null / null / АФИНА
-  other tags : addr:housenumber=9 | addr:street=улица Мельникайте | opening_hours=Mo-Fr 08:00-21:00 Sa 09:00-19:00 Su off | operator=САЛОН КРАСОТЫ | shop=beauty
+n3270524362  null / null / Афина
+  other tags : addr:housenumber=9 | addr:street=улица Мельникайте | opening_hours=Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su off | shop=beauty
     geometry : [53.9073911,27.5419204]
 n3270527285  null / null / Первая леди и лучший мужчина
   other tags : addr:door=906 | addr:housenumber=23 к1 | addr:street=проспект Победителей | opening_hours=Mo 09:00-21:00; Tu-Sa 08:00-21:00; Su 09:00-19:00 | phone=+375 17 3271642 | shop=beauty
