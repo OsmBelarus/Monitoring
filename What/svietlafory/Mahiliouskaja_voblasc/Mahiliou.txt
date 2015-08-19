@@ -408,7 +408,7 @@ n1436844565  Вакзал / null / вокзал / Вокзал
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9338554,30.3354310]
 n1436844567  null / null / Диагностический Центр
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9044701,30.3379823]
 n1436844580  null / null / КП "переезд"
   other tags : highway=bus_stop | public_transport=platform
@@ -477,8 +477,8 @@ n1480422302  плошча Леніна / Plošča Lienina / площадь Ле�
   other tags : highway=bus_stop
     geometry : [53.9093180,30.3404072]
 n1480422316  null / null / пл. Орджоникидзе
-  other tags : highway=bus_stop
-    geometry : [53.8960382,30.3368836]
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [53.8958674,30.3365933]
 n1480424483  null / null / Белорусско-Российский Университет
   other tags : highway=bus_stop
     geometry : [53.9084351,30.3440217]
