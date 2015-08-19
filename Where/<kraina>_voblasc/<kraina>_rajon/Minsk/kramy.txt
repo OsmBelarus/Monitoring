@@ -1,6 +1,6 @@
 n251693880  null / null / Спорттовары
-  other tags : shop=sports
-    geometry : [53.9262465,27.5946666]
+  other tags : opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-18:00 | operator=ЗАО "Интерпартнер" | shop=sports
+    geometry : [53.9262628,27.5946528]
 n252334832
   other tags : shop=car_repair
     geometry : [53.9164716,27.6855833]
@@ -7748,8 +7748,8 @@ n2777285065  null / null / "Каменка"
   other tags : shop=doityourself
     geometry : [53.9218755,27.4321687]
 n2777518486  null / null / Крутильщик (мастерская)
-  other tags : shop=bicycle
-    geometry : [53.9270890,27.5939152]
+  other tags : contact:phone=+375 44 7480486 | contact:website=http://remont.disport.by | phone=+375 29 7480404 | service:bicycle:repair=yes | shop=bicycle
+    geometry : [53.9269922,27.5932892]
 n2780442086  null / null / БелКомплектИнструмент
   other tags : brand=Titan, Kawasaki, Michelin, Sandvik, Iscar, Hitachi, Mitsubishi, Korloy | email=info@bki.by | fax=+375173903672 | opening_hours=Mo-Fr 09:00-17:00 | phone=+375173907325 | shop=doityourself | website=http://bki.by/
     geometry : [53.9096616,27.4275039]
@@ -9670,7 +9670,7 @@ n3268819164  Турыстычнае агенцтва «А» / null / Турис�
   other tags : contact:website=http://taa.by/ | shop=travel_agency
     geometry : [53.9307548,27.5887067]
 n3268821002  Веласалон Velostar / null / Велосалон Velostar / Велосалон Velostar
-  other tags : contact:website=http://velostar.by/ | shop=bicycle
+  other tags : contact:phone=+375 29 6748788 | contact:website=http://velostar.by/ | opening_hours=Mo-Fr 10:00-20:00; Sa 11:00-17:00 | shop=bicycle
     geometry : [53.9394584,27.5947578]
 n3268822529  Ламбард ЛБК / null / Ломбард ЛБК / Ломбард ЛБК
   other tags : shop=pawnbroker
