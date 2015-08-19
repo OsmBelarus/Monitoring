@@ -76,8 +76,8 @@ n1031631316
 n1031879913
   other tags : highway=bus_stop | shelter=yes | source=Bing
     geometry : [53.5231457,23.7854945]
-n1032009899
-  other tags : highway=bus_stop | shelter=yes | source=Bing
+n1032009899  null / null / Дубовка
+  other tags : bench=yes | covered=no | highway=bus_stop | shelter=yes | source=Bing
     geometry : [53.4649764,23.8364921]
 n1032786700
   other tags : highway=bus_stop | shelter=no | source=Bing
@@ -340,3 +340,6 @@ n3574795953
 n3574795959
   other tags : highway=bus_stop
     geometry : [53.6233935,23.7172230]
+n3700761465  null / null / Лужки
+  other tags : bench=yes | highway=bus_stop | shelter=yes
+    geometry : [53.4650904,23.7998182]
