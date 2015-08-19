@@ -4017,7 +4017,7 @@ n1398753492  null / null / Златка
 n1398753502  null / null / Белмаркет
   other tags : opening_hours=9:00-23:00 | shop=convenience
     geometry : [53.8875018,27.6916489]
-n1398765431  null / null / Заводской
+n1398765431  null / null / Рублевский
   other tags : shop=convenience
     geometry : [53.8836993,27.6847859]
 n1400120755  Свежая выпечка «Кошык беларуса» / null / Свежая выпечка "Кошык беларуса"
@@ -4359,8 +4359,8 @@ n1484650948  null / null / Раздольный
   other tags : opening_hours=09:00-23:00 | shop=supermarket
     geometry : [53.8809821,27.6688042]
 n1487179499  null / null / Продукты
-  other tags : addr:housenumber=30 | addr:postcode=220047 | addr:street=улица Герасименко | shop=convenience
-    geometry : [53.8827555,27.6849790]
+  other tags : addr:housenumber=30 | addr:postcode=220047 | addr:street=улица Герасименко | opening_hours=8:00-21:00 | operator=СиВаНиф | shop=convenience
+    geometry : [53.8827405,27.6850079]
 n1487180872  null / null / Мир косметики Bielita Вітэкс
   other names: name:uk=Мир косметики Bielita Вітэкс
   other tags : shop=chemist
@@ -11608,7 +11608,7 @@ n3665481569  null / null / Белсаюздрук
 n3667341491  null / null / SportService
   other tags : shop=yes
     geometry : [53.9556212,27.6201460]
-n3668774725  null / null / Парикмахерская
+n3668774725
   other tags : addr:housenumber=98 | addr:postcode=220047 | addr:street=Нестерова | operator=ЧУП "Марафет" | shop=hairdresser
     geometry : [53.8876300,27.6927795]
 n3670186161  null / null / Ломбард техники Zaem.by в Малиновке
@@ -11692,3 +11692,9 @@ n3700765873  null / null / Крокус
 n3701051197
   other tags : shop=erotic
     geometry : [53.8752911,27.5954721]
+n3701747242
+  other tags : shop=alcohol
+    geometry : [53.8837037,27.6850682]
+n3701747245
+  other tags : shop=florist
+    geometry : [53.8829147,27.6849599]
