@@ -191,7 +191,7 @@ w161649335
   other tags : addr:housenumber=7 | addr:street=улица Победы | building=yes | building:levels=1
     geometry : n1736208753[54.7356403,28.0616202] n1736208755[54.7356903,28.0615511] n1736208759[54.7357576,28.0616972] n1736208757[54.7357076,28.0617663] n1736208753[54.7356403,28.0616202]
 w161649338
-  other tags : addr:housenumber=7 | addr:street=улица Володарского | building=yes | building:levels=1
+  other tags : addr:housenumber=7 | addr:street=улица Кирова | building=yes | building:levels=1
     geometry : n1736208363[54.7328100,28.0634617] n1736208365[54.7328659,28.0634167] n1736208366[54.7328955,28.0635271] n1736208364[54.7328396,28.0635721] n1736208363[54.7328100,28.0634617]
 w161649339
   other tags : addr:housenumber=8 | addr:street=улица Володарского | building=yes | building:levels=1
@@ -785,7 +785,7 @@ w176484046
   other tags : building=yes | building:levels=5
     geometry : n1870021343[54.7286491,28.0669536] n2077242121[54.7285882,28.0668665] n2077242132[54.7286228,28.0668000] n1870021340[54.7285826,28.0667514] n1870021345[54.7287656,28.0663774] n1870021347[54.7288743,28.0665198] n1870021343[54.7286491,28.0669536]
 w179458491
-  other tags : addr:housenumber=18 | building=yes | building:levels=1
+  other tags : addr:housenumber=18 | addr:street=Советская улица | building=yes | building:levels=1
     geometry : n1898356145[54.7331821,28.0607614] n1898356146[54.7332493,28.0609643] n1898356142[54.7329352,28.0612603] n1898356141[54.7328679,28.0610622] n1898356145[54.7331821,28.0607614]
 w179458492
   other tags : building=yes | building:levels=1
@@ -806,10 +806,10 @@ w179458497
   other tags : building=yes | building:levels=1
     geometry : n1898356149[54.7334400,28.0605245] n1898356150[54.7334874,28.0606799] n1898356148[54.7332726,28.0608903] n1898356147[54.7332224,28.0607256] n1898356149[54.7334400,28.0605245]
 w179458498
-  other tags : addr:housenumber=5 | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=улица Кирова | building=yes | building:levels=1
     geometry : n1898356133[54.7325452,28.0625402] n1898356135[54.7326419,28.0624653] n1898356140[54.7328070,28.0631043] n1898356138[54.7327103,28.0631793] n1898356133[54.7325452,28.0625402]
-w179458499
-  other tags : addr:housename=Магазин | building=yes | building:levels=1
+w179458499  null / null / Магазин
+  other tags : building=yes | building:levels=1 | shop=convenience
     geometry : n1898356131[54.7324322,28.0620594] n1898356134[54.7325922,28.0619230] n1898356136[54.7326747,28.0622131] n1898356132[54.7325148,28.0623495] n1898356131[54.7324322,28.0620594]
 w179458500
   other tags : building=yes | building:levels=1
