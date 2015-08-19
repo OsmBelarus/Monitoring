@@ -3788,6 +3788,27 @@ n2115956057
 n2117381940
   other tags : addr:housenumber=2 | addr:street=8-я Социалистическая улица
     geometry : [55.1652742,30.1189349]
+n2123691981
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1967385,30.1824224]
+n2123691983
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1968882,30.1824178]
+n2123691984
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1970379,30.1824132]
+n2123691985
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1971876,30.1824085]
+n2123691988
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1973372,30.1824039]
+n2123691992
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1974869,30.1823993]
+n2123691995
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1976366,30.1823947]
 n2127635163
   other tags : addr:housenumber=16 | addr:street=улица Правды
     geometry : [55.1895906,30.2080279]
@@ -5056,6 +5077,15 @@ n2473406278
 n2473466241  null / null / фонтан
   other tags : amenity=fountain
     geometry : [55.1872881,30.1998420]
+n2475050762
+  other tags : addr:flats=1-35 | entrance=staircase | ref=1
+    geometry : [55.1982910,30.1770733]
+n2475050764
+  other tags : addr:flats=36-71 | entrance=staircase | ref=2
+    geometry : [55.1983008,30.1775307]
+n2475050765
+  other tags : addr:flats=72-107 | entrance=staircase | ref=3
+    geometry : [55.1983083,30.1779219]
 n2476556689
   other tags : amenity=waste_disposal
     geometry : [55.1983092,30.1761744]
@@ -10056,6 +10086,96 @@ n3060526621
 n3060564556
   other tags : addr:housenumber=7 | addr:street=1-я Прорезная улица
     geometry : [55.2125097,30.1991236]
+n3062720342
+  other tags : addr:flats=1-54 | entrance=staircase | ref=1
+    geometry : [55.1965255,30.1817345]
+n3062720345
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1968981,30.1797747]
+n3062720346
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1969043,30.1805350]
+n3062720347
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1969385,30.1817060]
+n3062720348
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1970466,30.1797725]
+n3062720349
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1970550,30.1805320]
+n3062720350
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1970859,30.1817031]
+n3062720353
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1971961,30.1797701]
+n3062720354
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1972079,30.1805293]
+n3062720355
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1972334,30.1817001]
+n3062720356
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1973476,30.1797678]
+n3062720357
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1973582,30.1805263]
+n3062720358
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1973808,30.1816972]
+n3062720359
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1974964,30.1797659]
+n3062720360
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1975067,30.1805239]
+n3062720361
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1975283,30.1816942]
+n3062720362
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1976474,30.1797634]
+n3062720363
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1976584,30.1805210]
+n3062720364
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1976757,30.1816913]
+n3062720365
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1978000,30.1797612]
+n3062720366
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1978061,30.1805181]
+n3062720367
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1978232,30.1816883]
+n3062720368
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1979491,30.1797588]
+n3062720369
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1979572,30.1805153]
+n3062720370
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1979706,30.1816854]
+n3062720372
+  other tags : addr:flats=41-74 | entrance=staircase | ref=2
+    geometry : [55.1983358,30.1822278]
+n3062720373
+  other tags : addr:flats=1-40 | entrance=staircase | ref=1
+    geometry : [55.1983541,30.1818246]
+n3062720374
+  other tags : addr:flats=1-38 | entrance=staircase | ref=1
+    geometry : [55.1983769,30.1804209]
+n3062720375
+  other tags : addr:flats=39-76 | entrance=staircase | ref=2
+    geometry : [55.1984034,30.1809088]
+n3062720376
+  other tags : addr:flats=77-116 | entrance=staircase | ref=3
+    geometry : [55.1984118,30.1813018]
 n3063390582  Таксафон / null / Таксофон / Таксофон
   other tags : amenity=telephone | contact:phone=+375 (212) 261-866 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
     geometry : [55.1944007,30.2324421]
@@ -10872,9 +10992,33 @@ n3203247605
 n3203677671
   other tags : barrier=lift_gate | bicycle=yes | foot=yes
     geometry : [55.1808099,30.2224263]
+n3204206387
+  other tags : addr:flats=1-36 | entrance=staircase | ref=1
+    geometry : [55.1972258,30.1768149]
+n3204206388
+  other tags : addr:flats=1-36 | entrance=staircase | ref=1
+    geometry : [55.1972560,30.1777787]
+n3204206393
+  other tags : addr:flats=34-70 | entrance=staircase | ref=2
+    geometry : [55.1973081,30.1786086]
+n3204206398
+  other tags : addr:flats=37-72 | entrance=staircase | ref=2
+    geometry : [55.1974707,30.1768860]
+n3204206399
+  other tags : addr:flats=37-72 | entrance=staircase | ref=2
+    geometry : [55.1974980,30.1778585]
+n3204206403
+  other tags : addr:flats=1-33 | entrance=staircase | ref=1
+    geometry : [55.1975198,30.1785951]
+n3204206414
+  other tags : addr:flats=1-40 | entrance=staircase | ref=1
+    geometry : [55.1977167,30.1769648]
 n3204206428  null / null / Ремонт обуви
   other tags : craft=shoemaker | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00
     geometry : [55.1979025,30.1783082]
+n3204206430
+  other tags : addr:flats=41-81 | entrance=staircase | ref=2
+    geometry : [55.1979614,30.1769485]
 n3204692278
   other tags : addr:housenumber=18 к1 (кв. 1-107) | addr:street=улица Генерала Ивановского
     geometry : [55.1666580,30.2618536]
@@ -10893,6 +11037,15 @@ n3204982116
 n3204982117
   other tags : addr:housenumber=39 (кв. 73-246) | addr:street=улица Петруся Бровки
     geometry : [55.1505877,30.2240676]
+n3205769698
+  other tags : addr:flats=1-36 | entrance=staircase | ref=1
+    geometry : [55.1953382,30.1817188]
+n3205769699
+  other tags : addr:flats=37-72 | entrance=staircase | ref=2
+    geometry : [55.1955845,30.1817383]
+n3205769700
+  other tags : addr:flats=73-108 | entrance=staircase | ref=3
+    geometry : [55.1958320,30.1817595]
 n3205769703
   other tags : entrance=main
     geometry : [55.1969857,30.1780847]
@@ -10902,9 +11055,21 @@ n3205769706
 n3205769707
   other tags : entrance=main
     geometry : [55.1970434,30.1789590]
+n3205769745
+  other tags : addr:flats=73-144 | entrance=staircase | ref=2
+    geometry : [55.1979199,30.1755917]
 n3205769751
   other tags : entrance=main
     geometry : [55.1980458,30.1762573]
+n3205769755
+  other tags : addr:flats=1-72 | entrance=staircase | ref=1
+    geometry : [55.1982135,30.1755634]
+n3205769758
+  other tags : entrance=staircase | fixme=номера квартир
+    geometry : [55.1983532,30.1796632]
+n3205769760
+  other tags : entrance=staircase | fixme=номера квартир
+    geometry : [55.1983623,30.1800920]
 n3205769764
   other tags : entrance=main
     geometry : [55.1985907,30.1823210]
@@ -11212,6 +11377,63 @@ n3350687338  null / null / Задунавская слобода
 n3351523290  null / null / Плоская гора
   other tags : natural=peak
     geometry : [55.1991164,30.2092652]
+n3358178008
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1939306,30.1824435]
+n3358178009
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1940777,30.1824417]
+n3358178010
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1942247,30.1824400]
+n3358178011
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1943718,30.1824383]
+n3358178012
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1945189,30.1824366]
+n3358178013
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1946659,30.1824349]
+n3358178014
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1948130,30.1824332]
+n3358178015
+  other tags : addr:flats=1-34 | entrance=staircase | ref=1
+    geometry : [55.1948791,30.1818109]
+n3358178016
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1949601,30.1824315]
+n3358178018
+  other tags : addr:flats=35-70 | entrance=staircase | ref=2
+    geometry : [55.1951238,30.1817555]
+n3358178019
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1952422,30.1824419]
+n3358178020
+  other tags : addr:flats=90-104 | entrance=staircase | ref=7
+    geometry : [55.1953923,30.1824375]
+n3358178021
+  other tags : addr:flats=75-89 | entrance=staircase | ref=6
+    geometry : [55.1955423,30.1824330]
+n3358178022
+  other tags : addr:flats=60-74 | entrance=staircase | ref=5
+    geometry : [55.1956924,30.1824286]
+n3358178023
+  other tags : addr:flats=46-59 | entrance=staircase | ref=4
+    geometry : [55.1958424,30.1824241]
+n3358178024
+  other tags : addr:flats=31-45 | entrance=staircase | ref=3
+    geometry : [55.1959924,30.1824197]
+n3358178025
+  other tags : addr:flats=16-30 | entrance=staircase | ref=2
+    geometry : [55.1961424,30.1824152]
+n3358178026
+  other tags : addr:flats=1-15 | entrance=staircase | ref=1
+    geometry : [55.1962925,30.1824108]
+n3358178027
+  other tags : addr:flats=105-119 | entrance=staircase | ref=8
+    geometry : [55.1965888,30.1824270]
 n3358230836
   other tags : entrance=service
     geometry : [55.2021434,30.2572365]
@@ -11341,6 +11563,9 @@ n3421432228
 n3424177194  null / null / Таксофон
   other tags : amenity=telephone | contact:phone=+375(212) 56-14-65 | contact:website=http://www.beltelecom.by/ | operator=РУП «Белтелеком» | payment:telephone_cards=yes
     geometry : [55.1973047,30.2411940]
+n3429932720
+  other tags : addr:flats=1-36 | entrance=staircase | ref=1
+    geometry : [55.1965354,30.1787167]
 n3429949003  Швейны цэх АМТЗ / null / Швейный цех ОМТС / Швейный цех ОМТС
   other tags : craft=tailor | opening_hours=Mo-Fr 08:00-12:00,13:00-17:00 | operator=БЖД
     geometry : [55.1985065,30.1783828]
@@ -11578,6 +11803,15 @@ n3471161695  null / null / Обмен валют
 n3471968129
   other tags : addr:housenumber=11 | addr:street=1-я Мопровская улица
     geometry : [55.1998820,30.1725304]
+n3471968133
+  other tags : addr:flats=73-108 | entrance=staircase | ref=3
+    geometry : [55.1965495,30.1772538]
+n3471968142
+  other tags : addr:flats=37-72 | entrance=staircase | ref=2
+    geometry : [55.1965708,30.1776292]
+n3471968151
+  other tags : addr:flats=1-36 | entrance=staircase | ref=1
+    geometry : [55.1965930,30.1780198]
 n3471968158
   other tags : entrance=main
     geometry : [55.1966308,30.1805350]
@@ -11590,6 +11824,9 @@ n3471968160
 n3471968173
   other tags : amenity=drinking_water | man_made=standpipe
     geometry : [55.1998511,30.1726259]
+n3471998790
+  other tags : addr:flats=1-143 | entrance=staircase | ref=1
+    geometry : [55.1980612,30.1785435]
 n3472113589
   other tags : advertising=billboard | lit=yes
     geometry : [55.1758745,30.2458242]
