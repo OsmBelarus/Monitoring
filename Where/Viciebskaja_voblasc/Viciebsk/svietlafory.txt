@@ -344,8 +344,8 @@ n674027549  Смаленскі рынак / Smalienski rynak / Смоленск�
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.2040256,30.2076656]
 n674027554  Фабрыка «Сцяг індустрыялізацыі» / null / фабрика "Знамя Индустрилизации"
-  other tags : highway=bus_stop
-    geometry : [55.2072720,30.2186406]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2072911,30.2186126]
 n674027558  Асіпенкі / Asipienki / Осипенко / Осипенко
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2147292,30.2326589]
@@ -559,6 +559,9 @@ n1325755531  вул. Смаленская / vul. Smalienskaja / Улица См�
 n1325755537  вул. Смаленская / vul. Smalienskaja / Улица Смоленская
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1936128,30.2333309]
+n1334908339
+  other tags : bus=yes | highway=bus_stop | public_transport=platform
+    geometry : [55.2052022,30.2762571]
 n1343741589  Тралейбусная / Traliejbusnaja / Троллейбусная
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1885553,30.2501387]
@@ -581,8 +584,8 @@ n1522164275  null / null / Улица Короткевича
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1736231,30.2582413]
 n1752556304  null / null / Тулово-1
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.1933564,30.2834285]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1933564,30.2834039]
 n1786458607
   other tags : highway=bus_stop
     geometry : [55.2143138,30.2466995]
@@ -598,9 +601,6 @@ n1839097327  null / null / Дачи-1
 n1839097330  null / null / Дачи-1
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1709880,30.2859584]
-n1839097335  null / null / Билево
-  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1729431,30.2704885]
 n1839097446  Маскоўская / Maskoŭskaja / Московская / Московская
   other tags : highway=bus_stop
     geometry : [55.1755487,30.2463108]
@@ -651,16 +651,16 @@ n1855953483
     geometry : [55.1690301,30.2651825]
 n1868900588  null / null / Лиозненская
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1908681,30.2808408]
+    geometry : [55.1908726,30.2808012]
 n1868900589  null / null / Лиозненская
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1910533,30.2815351]
+    geometry : [55.1910556,30.2814876]
 n1868900885  null / null / Улица Почтовая
-  other tags : highway=bus_stop
-    geometry : [55.1961434,30.2869549]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1961478,30.2869162]
 n1868900886  null / null / Улица Почтовая
-  other tags : highway=bus_stop
-    geometry : [55.1968353,30.2879974]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1968441,30.2879509]
 n1870050428
   other tags : highway=bus_stop | shelter=yes
     geometry : [55.1873455,30.1541142]
@@ -710,6 +710,12 @@ n2141443267  null / null / Магазин № 35
 n2141443268  null / null / Магазин № 35
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2257348,30.2550889]
+n2141443269  null / null / ТД « Витязь»
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2277555,30.2590128]
+n2141443270  null / null / ТД « Витязь»
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2278818,30.2603690]
 n2143487068  null / null / Посёлок Лужесно
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2419680,30.1151062]
@@ -834,7 +840,7 @@ n2438145713  null / null / Приборостроительный завод
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2050841,30.2146683]
 n2438145726  Фабрыка «Сцяг індустрыялізацыі» / null / фабрика "Знамя Индустрилизации"
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2074015,30.2193187]
 n2447618892  null / null / Посёлок Билево
   other tags : highway=bus_stop | public_transport=platform
@@ -997,7 +1003,7 @@ n2912317072
     geometry : [55.2107988,30.2256927]
 n2912317073
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.2113144,30.2262757]
+    geometry : [55.2113213,30.2262357]
 n2912518686  Чыгуначны вакзал / null / Ж/д вокзал / Ж/д вокзал
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1946791,30.1867405]
@@ -1072,7 +1078,7 @@ n2934883175  Свабодная эканамiчная зона / null / Своб
     geometry : [55.1601274,30.2353779]
 n2963128069
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.2051933,30.2771717]
+    geometry : [55.2051910,30.2771102]
 n2967118874  null / null / Школа № 21
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1976180,30.1958594]

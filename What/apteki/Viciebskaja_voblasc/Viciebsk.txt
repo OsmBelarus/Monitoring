@@ -170,7 +170,7 @@ n1314553678  Планета здароўя / Planieta zdaroŭja / Планета
     geometry : [55.1929498,30.2051419]
 n1326430259
   other tags : amenity=pharmacy
-    geometry : [55.2174223,30.2366904]
+    geometry : [55.2174255,30.2366423]
 n1340773425  null / null / Фарммаркет Аптека №6 / Фарммаркет Аптека №6
   other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00 | phone=+375-212-217746
     geometry : [55.1726831,30.2339998]
@@ -270,9 +270,9 @@ n2092729294
 n2215646364  Аптэка №44 / Apteka №44 / Аптека №44 / Аптека №44
   other tags : amenity=pharmacy
     geometry : [55.1858278,30.2048198]
-n2238880244  null / null / АПТЕКА N 2 ДЕ ЖУР / АПТЕКА N 2 ДЕ ЖУР
-  other tags : addr:housenumber=19 | addr:street=улица Гагарина | amenity=pharmacy | opening_hours=8:00-20:00 | operator=ООО СП ВИТВАР | phone=+375 212 23 27 20 | website=http://www.vitvar.by/
-    geometry : [55.2078020,30.2206374]
+n2238880244  null / null / Дежур № 2 / Дежур № 2
+  other tags : amenity=pharmacy | fixme=режим | opening_hours=8:00-20:00 | operator=ООО СП ВИТВАР | phone=+375 212 23 27 20 | website=http://www.vitvar.by/
+    geometry : [55.2077954,30.2206059]
 n2249763208  null / null / Планета Здоровья / Планета Здоровья
   other tags : amenity=pharmacy
     geometry : [55.1802836,30.2225054]

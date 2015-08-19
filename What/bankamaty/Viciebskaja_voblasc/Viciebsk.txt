@@ -256,9 +256,9 @@ n1767615381  ATM Белінвестбанк / ATM Bielinviestbank / ATM Бели
 n1767615390  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.2043970,30.2120322]
-n1771127101
-  other tags : amenity=atm
-    geometry : [55.2067708,30.2188539]
+n1771127101  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
+  other tags : amenity=atm | opening_hours=24/7 | operator=Беларусбанк | owner=ОАО «АСБ Беларусбанк»
+    geometry : [55.2067916,30.2189134]
 n1786418991  ATM Белзнешэканамбанк / null / null
   other tags : amenity=atm | operator=Белвнешэкономбанк
     geometry : [55.1670335,30.2103417]
@@ -391,8 +391,8 @@ n2969422397  Банк ВТБ / Bank VTB / Банк ВТБ / Банк ВТБ
 n2969538207  ATM Белінвестбанк / Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1581460,30.2144618]
-n3103594326  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
-  other tags : amenity=atm | official_name=ATM11953 | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк» | website=https://www.bps-sberbank.by/
+n3103594326  ATM БПС-Сбербанк / ATM BPS-Sbierbank / ATM БПС-Сбербанк / ATM БПС-Сбербанк
+  other tags : amenity=atm | contact:website=https://www.bps-sberbank.by/ | official_name=ATM11953 | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк»
     geometry : [55.2057410,30.2154641]
 n3121614349  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 17 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
@@ -430,3 +430,9 @@ n3548728963  ATM Белінвестбанк / ATM Bielinviestbank / ATM Бели
 n3605196179  ATM Альфа-Банк / null / ATM Альфа-Банк / ATM Альфа-Банк
   other tags : amenity=atm | contact:website=https://www.alfabank.by/ | opening_hours=24/7 | operator=Альфа-Банк | owner=ЗАО «Альфа-Банк»
     geometry : [55.1957723,30.1887932]
+n3701973165  ATM БПС-Сбербанк / ATM BPS-Sbierbank / ATM БПС-Сбербанк / ATM БПС-Сбербанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:website=https://www.bps-sberbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | official_name=ATM11953 | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк»
+    geometry : [55.1748122,30.2656009]
+n3701973166  ATM Беларусбанк / null / ATM Беларусбанк / ATM Беларусбанк
+  other tags : amenity=atm | cash_in=no | cash_out=yes | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=Беларусбанк | owner=ОАО «АСБ Беларусбанк»
+    geometry : [55.1748319,30.2656086]

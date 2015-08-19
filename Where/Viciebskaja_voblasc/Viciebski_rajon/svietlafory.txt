@@ -40,9 +40,6 @@ n1211578601
 n1211578602
   other tags : highway=bus_stop
     geometry : [55.1274228,30.2184116]
-n1334908339
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.2052128,30.2762986]
 n1501304348
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2058450,30.2874033]
@@ -170,17 +167,17 @@ n2331779257  null / null / Тулово
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2058344,30.2896525]
 n2331782473  null / null / Центральная
-  other tags : highway=bus_stop
-    geometry : [55.2022097,30.2911338]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2022119,30.2911106]
 n2331782476  null / null / Центральная
-  other tags : highway=bus_stop
-    geometry : [55.2021454,30.2909165]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2021454,30.2908546]
 n2331785416  null / null / Юбилейная
-  other tags : highway=bus_stop
-    geometry : [55.1997238,30.2901199]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1997260,30.2900967]
 n2331785419  null / null / Юбилейная
-  other tags : highway=bus_stop
-    geometry : [55.1990105,30.2896371]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1990083,30.2895674]
 n2340008484
   other tags : highway=bus_stop
     geometry : [55.1298077,30.2632369]

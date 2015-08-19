@@ -401,7 +401,7 @@ n1139866811  Цэнтр абутку Марка / null / Центр обуви �
   other tags : opening_hours=Mo-Sa 10:00-19:00; Sa 10:00-18:00 | shop=shoes
     geometry : [55.1952934,30.2287617]
 n1139866812  null / null / AMI мебель / AMI мебель
-  other tags : opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture | website=http://www.laguna.by/
+  other tags : contact:website=http://www.laguna.by/ | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture
     geometry : [55.1936099,30.2295051]
 n1139875734  null / null / Лиман
   other tags : contact:phone=+375-29-2630777 | shop=alcohol
@@ -825,10 +825,10 @@ n1310141424  WEST / null / WEST
     geometry : [55.1893994,30.2007737]
 n1310354088  null / null / Витебские продукты № 29
   other tags : opening_hours=Mo-Su 08:00-22:00 | phone=+375212548950 | shop=convenience | website=http://vitprod.by/index.php
-    geometry : [55.2082066,30.2213827]
+    geometry : [55.2082115,30.2213455]
 n1310354116
   other tags : shop=bakery
-    geometry : [55.2084050,30.2217650]
+    geometry : [55.2084099,30.2217278]
 n1310955770  Помнікі / null / Памятники
   other tags : opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-14:00 | shop=ritual
     geometry : [55.1928464,30.2263079]
@@ -895,9 +895,6 @@ n1325668237  null / null / Продукты
 n1325755534  Гаспадарчы гандаль / null / Витебский хозторг
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-15:00 | shop=hardware
     geometry : [55.1972074,30.2066234]
-n1326175767  Белдрэў / null / Белдрев
-  other tags : shop=furniture
-    geometry : [55.2055404,30.2164820]
 n1326430264  Віцебскія прадукты № 32 / null / Витебские продукты № 32 / Витебские продукты № 32
   other tags : contact:phone=+375(212) 23-12-44 | contact:website=http://vitprod.by | opening_hours=Mo-Su 08:00-22:00 | operator=ОАО «Витебские продукты» | shop=convenience
     geometry : [55.2174704,30.2390075]
@@ -906,7 +903,7 @@ n1326430265  Лявоніха / null / Лявониха
     geometry : [55.2147370,30.2323846]
 n1326430267  Сэканд-хэнд / null / Секонд-Хенд
   other tags : shop=second_hand
-    geometry : [55.2181285,30.2375636]
+    geometry : [55.2181301,30.2375155]
 n1334690100  Пінгвін / null / Пингвин / Пингвин
   other tags : opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-18:00 | shop=convenience
     geometry : [55.1781917,30.1762298]
@@ -1798,9 +1795,9 @@ n2367373075  null / null / Продукты
 n2371390727  null / null / Мебель
   other tags : shop=furniture
     geometry : [55.1846164,30.2495570]
-n2371874005
-  other tags : shop=furniture
-    geometry : [55.2022610,30.2103701]
+n2371874005  null / null / AMI мебель / AMI мебель
+  other tags : contact:website=http://www.laguna.by/ | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture
+    geometry : [55.2022260,30.2102935]
 n2371874057  null / null / Автокастинг
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00 | phone=+375295268268 | shop=car_parts | website=http://autokasting.by/
     geometry : [55.2029203,30.2116798]
@@ -1839,7 +1836,7 @@ n2382617702  null / null / Фламинго
     geometry : [55.1623955,30.2303914]
 n2384694736  null / null / Рыба
   other tags : official_name=фирменный магазин ОДО «Витебскрыба» | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-17:00 | shop=seafood
-    geometry : [55.2252756,30.2477221]
+    geometry : [55.2252659,30.2476683]
 n2385861992  null / null / Доброном
   other tags : shop=convenience | website=http://www.dobronom.by/
     geometry : [55.2041396,30.2118877]
@@ -2070,10 +2067,7 @@ n2492158820  null / null / Ирина
     geometry : [55.2155258,30.2350594]
 n2492158829  null / null / Тавда
   other tags : phone=+375212435043 | shop=houseware | website=http://tavda.by/index.php?route=common/home
-    geometry : [55.2178025,30.2380115]
-n2492213590
-  other tags : shop=clothes
-    geometry : [55.2051656,30.2158119]
+    geometry : [55.2178041,30.2379634]
 n2493013523  Буслік / null / Буслик / Буслик
   other tags : shop=baby_goods
     geometry : [55.1910079,30.2030390]
@@ -2802,7 +2796,7 @@ n2954678453  null / null / Крошка-маркет
     geometry : [55.1873410,30.2330486]
 n2965729510  null / null / TEXNO Плюс
   other tags : shop=electronics
-    geometry : [55.1744257,30.2652122]
+    geometry : [55.1752805,30.2667867]
 n2965911252  null / null / Веста № 74
   other tags : opening_hours=Mo-Sa 08:00-20:00 | phone=+375 (212) 36-21-39 | shop=convenience | website=http://vesta-retail.by/
     geometry : [55.1984053,30.1946848]
@@ -3501,17 +3495,29 @@ n3674457829  null / null / Р-плюс
   other tags : craft=electronics_repair | note=Гарантийная мастерская по многим наименованиям бытовой техники | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00; Su off | phone=+375-29-2145912, +375-44-7131696, +375-212-255902 | shop=electronics | website=http://r-plus.by/
     geometry : [55.1618452,30.2108576]
 n3683987672  null / null / Белбланкавыд
-  other tags : opening_hours=Mo-Sa 08:30-13:00, 14:00-17:00; Su, Sa off | shop=books
-    geometry : [55.2023543,30.2099990]
+  other tags : opening_hours=Mo-Sa 08:30-13:00, 14:00-17:00; Su, Sa off | operator=РУП «Издательство «Белбланкавыд» | shop=stationery
+    geometry : [55.2023415,30.2100147]
 n3683987673  null / null / Оптика
   other tags : shop=optician
     geometry : [55.2040182,30.2121306]
 n3683987674  null / null / Офисный комфорт
   other tags : shop=furniture
-    geometry : [55.2022729,30.2101099]
+    geometry : [55.2022745,30.2100641]
 n3684307463  null / null / АКС-Мебель
   other tags : shop=furniture
     geometry : [55.1787601,30.1920103]
 n3689198169  null / null / Сделай сам
-  other tags : shop=doityourself
-    geometry : [55.2094561,30.2223862]
+  other tags : opening_hours=Mo-Fr 09:00-19:00; Sa 10:00-15:00 | shop=doityourself
+    geometry : [55.2094630,30.2223343]
+n3701973170  null / null / Белснабэнерго
+  other tags : description=подшипники, ремни, сальники | shop=car_parts
+    geometry : [55.2095112,30.2224205]
+n3701973171  null / null / Магазин одной цены / Магазин одной цены
+  other tags : check_date=2015.08.17 | description=всё по 20000 | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | shop=variety_store
+    geometry : [55.2051254,30.2160107]
+n3701973174  null / null / Соло
+  other tags : contact:phone=+375 (29) 500-39-59, +375 (29) 944-25-62, +375 (212) 533-980 | description=воскресенье - по записи | opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-19:00 | operator=ЧТУП «ЛеМакс» | shop=hairdresser | smoking=no
+    geometry : [55.2054170,30.2168140]
+n3701973465
+  other tags : opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-15:00 | operator=ОАО «Знамя Индустриализации» | shop=clothes
+    geometry : [55.2068154,30.2189577]
