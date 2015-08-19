@@ -4856,8 +4856,8 @@ n1336582764
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8887368,27.5455616]
 n1336828841
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9210604,27.6267154]
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
+    geometry : [53.9210457,27.6266676]
 n1345256241
   other tags : highway=crossing
     geometry : [53.9268924,27.5015813]
@@ -7943,8 +7943,8 @@ n2353392678
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8594912,27.6084767]
 n2353407305
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9211169,27.6268697]
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
+    geometry : [53.9211982,27.6268965]
 n2356055875
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.8639031,27.6264625]
@@ -8090,8 +8090,8 @@ n2405689908
   other tags : highway=crossing
     geometry : [53.9018117,27.6630156]
 n2405691101
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9210378,27.6269374]
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
+    geometry : [53.9210163,27.6268919]
 n2405718332
   other tags : highway=crossing
     geometry : [53.9168571,27.5803142]
@@ -9734,8 +9734,8 @@ n3459144425
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9256823,27.6072163]
 n3459145578
-  other tags : crossing=traffic_signals | highway=crossing
-    geometry : [53.9210214,27.6267954]
+  other tags : crossing=traffic_signals | highway=crossing | sloped_curb=yes
+    geometry : [53.9209364,27.6267055]
 n3459148318
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.9206543,27.6306442]
@@ -10345,3 +10345,9 @@ n3700248871
 n3700248876
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9219108,27.4284618]
+n3700752038
+  other tags : bicycle=yes | crossing=traffic_signals | highway=crossing
+    geometry : [53.9070465,27.6237486]
+n3700752039
+  other tags : bicycle=yes | crossing=traffic_signals | highway=crossing
+    geometry : [53.9070489,27.6233883]
