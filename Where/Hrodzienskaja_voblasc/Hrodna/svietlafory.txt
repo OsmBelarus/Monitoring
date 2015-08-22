@@ -1023,6 +1023,12 @@ n2199954879  вуліца Дзяржынскага / vulica Dziaržynskaha / у�
 n2205158374  null / null / Заводоуправление
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.6764749,23.8929702]
+n2207492011  null / null / СУ–178
+  other tags : bench=yes | bus=yes | highway=bus_stop | shelter=yes
+    geometry : [53.6658766,23.9172566]
+n2207492012  null / null / Союзпроммонтаж
+  other tags : bench=yes | bus=yes | highway=bus_stop | shelter=yes
+    geometry : [53.6671321,23.9079580]
 n2211711899  null / null / СШ №37
   other tags : highway=bus_stop | source=survey
     geometry : [53.6566352,23.7804694]
@@ -1123,9 +1129,15 @@ n2342024681  Дзевятоўка–7 / Dzieviatoŭka–7 / Девятовка�
 n2343656190  Дзевятоўка–4 / Dzieviatoŭka–4 / Девятовка–4 / Девятовка–4
   other tags : bench=yes | bus=yes | highway=bus_stop | old_name=улица Белые Росы | public_transport=platform | shelter=yes
     geometry : [53.7153341,23.8574555]
+n2343901440  null / null / СУ–178
+  other tags : bench=yes | bus=yes | highway=bus_stop
+    geometry : [53.6654665,23.9190127]
 n2345811336  Зарыца / null / Зарица / Зарица
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | source=survey
     geometry : [53.7543792,23.8246904]
+n2347003865  null / null / Азот
+  other tags : bench=yes | bus=yes | highway=bus_stop | shelter=no | source=survey
+    geometry : [53.6689473,23.8917123]
 n2364941426  Хвойная вуліца / null / Хвойная улица / Хвойная улица
   other tags : bench=yes | bus=yes | highway=bus_stop | old_name=Фолюш | public_transport=platform | shelter=yes
     geometry : [53.6635265,23.7841221]
@@ -1195,3 +1207,6 @@ n3649492938  null / null / ул. Короткевича
 n3649492986  null / null / ул. Короткевича
   other tags : bench=yes | bus=yes | highway=bus_stop | shelter=yes
     geometry : [53.6237615,23.8009828]
+n3662389325  null / null / Союзпроммонтаж
+  other tags : bus=yes | highway=bus_stop
+    geometry : [53.6665546,23.9107326]
