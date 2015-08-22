@@ -9545,7 +9545,7 @@ n3389885760
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [53.9125160,27.4482814]
 n3392417716
-  other tags : crossing=zebra | highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9327957,27.4747342]
 n3392417747
   other tags : highway=crossing
@@ -9560,7 +9560,7 @@ n3393912196
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [53.8635570,27.6263873]
 n3395055996
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9325774,27.4750158]
 n3395056006
   other tags : highway=crossing
@@ -9644,10 +9644,10 @@ n3431248136
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.8747866,27.5870186]
 n3431885918
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9323984,27.4746402]
 n3431885924
-  other tags : highway=crossing
+  other tags : crossing=traffic_signals | highway=crossing
     geometry : [53.9325925,27.4743290]
 n3431885953
   other tags : highway=crossing
