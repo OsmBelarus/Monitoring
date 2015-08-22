@@ -4655,8 +4655,8 @@ n2401916319
   other tags : amenity=car_wash | opening_hours=07:00-21:00 | phone=+375-33-690-92-22
     geometry : [55.1732404,30.2444982]
 n2401954707  null / null / Гарант
-  other tags : craft=electronics_repair | electronics_repair=appliance, computer, tv | office=telecommunication | operator=ОАО «ВОТТЦ «Гарант» | website=http://www.vgarant.by/
-    geometry : [55.1794192,30.2264216]
+  other tags : contact:email=support@vgarant.net, info@vgarant.net | contact:phone=+375(29) 718-81-81, +375(33) 378-81-81, +375(212) 47-68-16 | contact:website=http://www.vgarant.by/ | craft=electronics_repair | electronics_repair=appliance, computer, tv | office=telecommunication | official_name=Витебский областной техно-торговый центр «Гарант» | opening_hours=Mo-Sa 08:00-20:00; Su 10:00-17:00 | operator=ОАО «ВОТТЦ «Гарант»
+    geometry : [55.1794240,30.2263845]
 n2401954718  null / null / Косметология
   other tags : amenity=doctors | opening_hours=Mo-Fr 08:00-21:00; Sa-Su 10:00-15:00
     geometry : [55.1793057,30.2258471]
@@ -10845,6 +10845,9 @@ n3158018909
 n3158018925
   other tags : railway=crossing
     geometry : [55.2211619,30.2531950]
+n3158161289  null / null / Инфокиоск / Инфокиоск
+  other tags : amenity=payment_terminal | operator=Беларусбанк
+    geometry : [55.1808482,30.2304046]
 n3158161290
   other tags : amenity=waste_disposal
     geometry : [55.1821280,30.2316455]
@@ -12987,6 +12990,15 @@ n3705098184
 n3705261011
   other tags : camera:mount=wall | camera:type=fixed | man_made=surveillance | surveillance=outdoor | surveillance:type=camera | surveillance:zone=parking
     geometry : [55.2008704,30.1745494]
+n3706571599  null / null / PayNet
+  other tags : amenity=payment_terminal | cash_out=no | contact:email=info@paynet.by | contact:phone=8-801-100-6000 | contact:website=http://paynet.by/ | currency:BYR=yes | currency:others=no | indoor=yes | language:ru=yes | network=PayNet | opening_hours=Mo-Su 09:00-22:00 | owner=ИООО «ПейНэт» | payment:cash=yes | payment:credit_cards=no | payment:debit_cards=no
+    geometry : [55.2034715,30.2691375]
+n3706571601  інфакіёск Беларусбанк / null / инфокиоск Беларусбанк / инфокиоск Беларусбанк
+  other tags : amenity=payment_terminal | cash_out=no | contact:email=info@belarusbank.by | contact:website=http://belarusbank.by/ | currency:BYR=yes | indoor=yes | language:be=yes | language:ru=yes | opening_hours=Mo-Su 09:00-22:00 | operator=Беларусбанк | owner=ОАО «АСБ Беларусбанк» | payment:cash=no | payment:credit_cards=yes | payment:debit_cards=yes
+    geometry : [55.2034744,30.2691599]
+n3706571604
+  other tags : amenity=bicycle_parking | bicycle_parking=ground_slots | capacity=9
+    geometry : [55.2033041,30.2121760]
 w24945781
   other tags : railway=rail
     geometry : n1795229425[55.1747042,30.1443735] n1795229426[55.1755118,30.1438214] n1795229427[55.1758477,30.1436376] n1795229428[55.1762173,30.1435126] n1795229430[55.1764107,30.1434868] n1795229432[55.1769396,30.1435346] n1795229435[55.1773133,30.1438031] n1795229436[55.1777144,30.1441965] n1990848735[55.1778820,30.1444055] n1990848736[55.1779586,30.1445225] n1795229437[55.1780273,30.1446465] n1990848737[55.1781751,30.1449435] n271087917[55.1783100,30.1452552] n1990848738[55.1784580,30.1456646] n271088306[55.1786339,30.1461485]
@@ -16110,7 +16122,7 @@ w162947669
   other tags : barrier=wall
     geometry : n1747398827[55.1821922,30.2109527] n1747398825[55.1821296,30.2109123] n1747398815[55.1820608,30.2112727] n1747398821[55.1821238,30.2113705] n1747398813[55.1820015,30.2120152] n2971327681[55.1820550,30.2120856] n1284616838[55.1820681,30.2121317] n1309636217[55.1825565,30.2123735] n1747398838[55.1824396,30.2130323] n1228315529[55.1825503,30.2130937]
 w163603751  null / null / Евроопт
-  other tags : addr:housenumber=137 | addr:street=улица Лазо | building=retail | building:levels=1 | opening_hours=Mo-Su 09:00-22:00 | shop=convenience | website=http://www.euroopt.by/
+  other tags : addr:housenumber=137 | addr:street=улица Лазо | building=retail | building:levels=1 | opening_hours=Mo-Su 09:00-22:00 | shop=supermarket | website=http://www.euroopt.by/
     geometry : n1752685739[55.2036629,30.2683809] n2965207264[55.2037477,30.2689452] n2963127894[55.2037545,30.2689904] n2294073556[55.2037639,30.2690532] n1752685719[55.2034662,30.2691905] n2963127888[55.2034563,30.2691242] n2965207265[55.2034502,30.2690839] n2963127887[55.2033838,30.2686419] n2963127889[55.2034569,30.2686081] n1752685718[55.2034383,30.2684846] n2963127891[55.2035573,30.2684296] n1752685739[55.2036629,30.2683809]
 w163926931
   other tags : building=warehouse | building:levels=1
@@ -25798,6 +25810,9 @@ w366330141
 w366436305
   other tags : natural=water
     geometry : n3704165564[55.2062528,30.2582555] n3704165565[55.2062690,30.2583765] n3704165567[55.2063238,30.2583783] n3704165566[55.2063076,30.2582163] n3704165564[55.2062528,30.2582555]
+w366667444
+  other tags : natural=tree_row
+    geometry : n3706571602[55.1794266,30.2286071] n3706571603[55.1805326,30.2290653]
 r68616  Кастрычніцкі раён / Kastryčnicki Rajon / Октябрьский район / Октябрьский район
   other tags : admin_level=9 | boundary=administrative | type=boundary | wikipedia=ru:Октябрьский_район_Витебска
     geometry : <outer> w30272994: n333629330[55.2233022,30.1296652] n333629333[55.2221879,30.1304412] n333629334[55.2207542,30.1314940] n333629336[55.2182219,30.1352507] n333629337[55.2165060,30.1381037] n333630238[55.2149078,30.1411245] n333630241[55.2137073,30.1433837] n333630243[55.2125657,30.1455525] n333630246[55.2119765,30.1470370] n333630248[55.2111016,30.1506855] n333630250[55.2101676,30.1551873] n333630253[55.2092336,30.1593821] n333630255[55.2086790,30.1626050] n1117825873[55.2083913,30.1654872] n333630256[55.2082119,30.1688051] n333630258[55.2080485,30.1744119] n1277036179[55.2079354,30.1769149] n1277036182[55.2079366,30.1782883] n333630259[55.2080550,30.1816507] n333630265[55.2080849,30.1873082] n333630266[55.2075917,30.1910798] n333630596[55.2066651,30.1936991] n333630599[55.2059925,30.1951658] n333630604[55.2040196,30.1971302] n333630610[55.2023754,30.1984398] n333630614[55.1998792,30.1999066] n333632895[55.1947846,30.1989637] n333632903[55.1932473,30.1987148] n1258018418[55.1931222,30.2007278] n333632944[55.1926464,30.2063139] n333632963[55.1912092,30.2059891] n905861013[55.1909410,30.2059244] n333632976[55.1893441,30.2056307] n333632995[55.1884974,30.2054184] n333633010[55.1874272,30.2051419] n333633031[55.1851815,30.2042215] n333633035[55.1835629,30.2034422] n333633040[55.1828233,30.2031248] : w30272994
