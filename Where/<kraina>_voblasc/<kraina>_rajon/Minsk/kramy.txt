@@ -205,6 +205,9 @@ n280817436  null / null / Рублевский №13 / Рублевский №1
 n280817908  Шчотаука / null / Щетовка
   other tags : addr:housenumber=6 к1 | addr:street=улица Крупской | shop=supermarket
     geometry : [53.8590131,27.6270569]
+n280818605  null / null / Минский зоопарк
+  other tags : shop=ticket
+    geometry : [53.8494619,27.6336991]
 n280818947  null / null / Невель / Невель
   other tags : shop=supermarket
     geometry : [53.8520193,27.5974726]
@@ -2657,7 +2660,7 @@ n849520220  null / null / Сухофрукты
 n849527825
   other tags : shop=books
     geometry : [53.8401545,27.5019139]
-n849528909  null / null / "ГАЗ"
+n849528909  null / null / ГАЗ
   other tags : shop=auto
     geometry : [53.8400279,27.5018388]
 n869280217  null / null / Fusion House
@@ -7187,6 +7190,12 @@ n2622216726  null / null / SWISS
 n2622216727  null / null / Номер 1
   other tags : opening_hours=9:00-20:00 | shop=hairdresser
     geometry : [53.9215780,27.5651630]
+n2622232865  null / null / Крама
+  other tags : addr:housenumber=4 | addr:street=улица Янки Лучины | shop=convenience
+    geometry : [53.8389528,27.5678568]
+n2622267289  null / null / Концелярские товары
+  other tags : shop=stationery
+    geometry : [53.8389438,27.5683529]
 n2622267291
   other tags : shop=pet
     geometry : [53.8389992,27.5684616]
@@ -7514,7 +7523,7 @@ n2628199391  null / null / Стэп
     geometry : [53.9383463,27.4873103]
 n2628400628  null / null / продуктовый
   other tags : shop=supermarket
-    geometry : [53.8409166,27.6318235]
+    geometry : [53.8409238,27.6317809]
 n2628648208  null / null / Секонд хенд
   other tags : addr:housenumber=18 | addr:street=улица Веры Хоружей | shop=clothes
     geometry : [53.9215229,27.5687412]
@@ -8059,7 +8068,7 @@ n3087381672  null / null / Златка
   other tags : addr:housenumber=137 | addr:street=улица Максима Богдановича | shop=convenience | website=http://www.zlatka.by/
     geometry : [53.9242203,27.5694486]
 n3088026455  null / null / Ритуальные принадлежности
-  other tags : shop=yes
+  other tags : shop=funeral_directors
     geometry : [53.8434070,27.6319248]
 n3088943736  null / null / Парус Джинс / Парус Джинс
   other names: name:en=Parus Jeans
@@ -8654,9 +8663,6 @@ n3159012324  null / null / ВелоСтайл
 n3164346794  Тэхагляд / null / Техосмотр / Техосмотр
   other tags : operator=ДС №8 СП ЗАО "Милленниум Групп" | shop=car
     geometry : [53.8044530,27.5933454]
-n3164403968
-  other tags : shop=convenience
-    geometry : [53.8460059,27.6329325]
 n3176126911  null / null / Алми
   other tags : addr:street=улица Притыцкого | shop=supermarket
     geometry : [53.9060009,27.4400961]
@@ -11707,3 +11713,6 @@ n3701747245
 n3702561009  null / null / Калi ласка
   other tags : opening_hours=Mo-Su 08:00-23:00 | shop=convenience
     geometry : [53.8826575,27.5126287]
+n3706796644
+  other tags : shop=gift
+    geometry : [53.8507683,27.6365620]

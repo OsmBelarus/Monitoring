@@ -3,7 +3,7 @@ n247278444  А-100 № 2 / null / А-100 № 2 / А-100 № 2
     geometry : [53.9643005,27.6433932]
 n255481016  null / null / Газпромнефть
   other tags : amenity=fuel | brand=Газпромнефть | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | operator=Газпромнефть | shop=kiosk
-    geometry : [53.8455843,27.4439659]
+    geometry : [53.8455843,27.4439547]
 n265496558
   other tags : amenity=fuel
     geometry : [53.7978981,27.3761753]
@@ -118,9 +118,6 @@ n2862601314  null / null / МАЗС №: 59
 n2882943172
   other tags : amenity=fuel
     geometry : [53.8024497,27.7920061]
-n2927436504
-  other tags : amenity=fuel | operator=Белоруснефть
-    geometry : [53.8454348,27.4139931]
 n2932324233  null / null / АЗС №60 Белоруснефть
   other tags : amenity=fuel | brand=Белоруснефть | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=00:00-24:00 | operator=Белоруснефть | shop=yes
     geometry : [53.9636943,27.6178006]
@@ -152,7 +149,7 @@ w243021181  null / null / МАЗС №58 Оргнефтехим
   other tags : amenity=fuel | building=yes
     geometry : n2504621326[53.8125910,27.5309296] n2504621327[53.8123246,27.5309078] n2504621328[53.8122902,27.5315591] n2504621329[53.8125609,27.5315846] n2504621330[53.8125738,27.5313408] n2504621326[53.8125910,27.5309296]
 w260185423
-  other tags : amenity=fuel
+  other tags : amenity=fuel | operator=Белоруснефть
     geometry : n2656691825[53.8450968,27.4153890] n2927544018[53.8453588,27.4154419] n2733659847[53.8453900,27.4150904] n2656691819[53.8458713,27.4141557] n2656691822[53.8455108,27.4133683] n2656691821[53.8454363,27.4133823] n2656691820[53.8452231,27.4139681] n2974512593[53.8451195,27.4148562] n3618110461[53.8451350,27.4149301] n2656691825[53.8450968,27.4153890]
 w302114152  null / null / АЗС
   other tags : amenity=fuel | barrier=fence | building=yes | fence_type=chain_link | operator=Белоруснефть

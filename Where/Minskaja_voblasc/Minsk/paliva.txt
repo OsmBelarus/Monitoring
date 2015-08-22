@@ -16,9 +16,6 @@ n255581631
 n256147335  Слаўнафта / null / Славнефть / Славнефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | shop=kiosk
     geometry : [53.8916973,27.4593777]
-n277051301  null / null / Минскоблнефтепродукт
-  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=82
-    geometry : [53.8490798,27.4362931]
 n278522500  null / null / Лукойл
   other tags : amenity=fuel | brand=Лукойл | fuel:diesel=yes | fuel:octane_91=yes | fuel:octane_95=yes | operator=Лукойл
     geometry : [53.8382133,27.5320734]
@@ -340,8 +337,8 @@ w254543377  UC № 1 / UC № 1 / UC № 1 / UC № 1
 w257061129  UC № 3 / UC № 3 / UC № 3 / UC № 3
   other tags : addr:housenumber=46 | addr:street=Логойский тракт | amenity=fuel | building=yes | building:levels=1 | contact:email=office@united-company.by | contact:phone=+375(17) 280-16-84 | contact:website=http://www.united-company.by/ | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | internet_access=wlan | official_name=United Company АЗК № 3 | opening_hours=24/7 | operator=СООО «Юнайтед Компани»
     geometry : n275862492[53.9597257,27.6294792] n3577384763[53.9597487,27.6295017] n1779294759[53.9597838,27.6295360] n275862470[53.9598137,27.6295652] n275862474[53.9599547,27.6297102] n275862476[53.9598777,27.6298021] n275862480[53.9595277,27.6294412] n275862485[53.9596417,27.6293402] n1779294772[53.9596637,27.6294205] n3704772113[53.9596913,27.6294466] n275862492[53.9597257,27.6294792]
-w262264214
-  other tags : amenity=fuel
+w262264214  null / null / Минскоблнефтепродукт
+  other tags : amenity=fuel | fuel:biodiesel=yes | fuel:diesel=yes | fuel:lpg=yes | fuel:octane_80=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | ref=82
     geometry : n2679287236[53.8489078,27.4360274] n2679290009[53.8488250,27.4360281] n2679287235[53.8488258,27.4363867] n2679290007[53.8488617,27.4363823] n2679290006[53.8488701,27.4364914] n2679287234[53.8489908,27.4367208] n2679290010[53.8490572,27.4367495] n2679287238[53.8495083,27.4367040] n2679290008[53.8495705,27.4365983] n2679290005[53.8496123,27.4363709] n2679287233[53.8496958,27.4363424] n2679287237[53.8496863,27.4361838] n2679290024[53.8496568,27.4361865] n2679290025[53.8496505,27.4360288] n2679290021[53.8495807,27.4360424] n2679290020[53.8494905,27.4357402] n2679287232[53.8494793,27.4356369] n2679290022[53.8494995,27.4355674] n2679290014[53.8494447,27.4355414] n2679290015[53.8493191,27.4355531] n2679290016[53.8492499,27.4356184] n2679287231[53.8492995,27.4356703] n2679290019[53.8493293,27.4357791] n2679290018[53.8493238,27.4358941] n2679287230[53.8492988,27.4359610] n2679290017[53.8492538,27.4359907] n2679290013[53.8491711,27.4359197] n2679290011[53.8490044,27.4359302] n2679287236[53.8489078,27.4360274]
 w269020721
   other tags : amenity=fuel

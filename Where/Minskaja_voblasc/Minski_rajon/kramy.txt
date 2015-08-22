@@ -624,7 +624,7 @@ n2026772210  null / null / СалютЕНС: салюты и феерверки
     geometry : [53.8525094,27.4239140]
 n2027002819
   other tags : shop=convenience
-    geometry : [53.8455416,27.4437819]
+    geometry : [53.8455261,27.4438287]
 n2030927391
   other tags : shop=toys
     geometry : [54.0131131,27.6784201]
@@ -871,6 +871,9 @@ n3056233050  МайстарПра / null / МастерПро / МастерПр
 n3067418276
   other tags : addr:street=Лесная улица | shop=yes
     geometry : [53.9582471,27.2721183]
+n3071724294  null / null / Покрышкино
+  other tags : addr:housenumber=10 | addr:postcode=223021 | addr:street=Меньковский тракт | phone=+375 29 365 99 99 | shop=tyres | website=http://pokrishkino.by/ | wheelchair=limited
+    geometry : [53.8472476,27.4154159]
 n3098541012
   other tags : shop=yes
     geometry : [53.8108596,27.3980692]
@@ -1051,3 +1054,6 @@ n3699070336  null / null / Продуктовый магазин
 n3702934381  null / null / ZooTerra
   other tags : shop=pet
     geometry : [53.8330236,27.7340280]
+n3706867581
+  other tags : shop=convenience
+    geometry : [53.8475412,27.4158952]
