@@ -804,10 +804,10 @@ n2353462351
     geometry : [55.1787422,30.2474073]
 n2354228705
   other tags : barrier=gate | motor_vehicle=yes
-    geometry : [55.1772023,30.2510448]
+    geometry : [55.1772049,30.2510125]
 n2354228715
   other tags : access=private | barrier=gate | motor_vehicle=yes
-    geometry : [55.1788423,30.2528062]
+    geometry : [55.1788215,30.2527569]
 n2354237526
   other tags : barrier=gate | motor_vehicle=yes
     geometry : [55.1814537,30.2558230]
@@ -40573,6 +40573,9 @@ w366754450
 w366754451
   other tags : barrier=fence
     geometry : n3707404015[55.1681407,30.2442633] n2795904521[55.1680141,30.2452797] n1574167187[55.1680639,30.2453333]
+w366819318
+  other tags : barrier=fence
+    geometry : n2354237514[55.1761263,30.2487988] n3707955426[55.1761130,30.2488924] n3707955425[55.1760810,30.2491177]
 r3351464
   other tags : barrier=fence | landuse=industrial | type=multipolygon
     geometry : <outer> w249144494: n1998235128[55.1665091,30.1572853] n1998235109[55.1640478,30.1571294] : w249144494
