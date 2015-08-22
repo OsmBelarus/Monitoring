@@ -128,6 +128,9 @@ n320672593
 n320680360
   other tags : access=no | barrier=border_control | description=п.п. Кадыш - Капчяместис | note=Исключён постановлением Совмина РБ от 15 февраля 2000 г. №204
     geometry : [53.9320664,23.6822472]
+n320681274
+  other tags : barrier=lift_gate | bicycle=no | boundary=country_border | foot=no
+    geometry : [53.7213035,23.5860436]
 n320686760
   other tags : railway=level_crossing
     geometry : [53.6268076,24.0922466]
@@ -6332,10 +6335,6 @@ w228990157  null / null / Памятник воинам и героям ВОВ
 w229449588
   other tags : barrier=wall | landuse=farmyard
     geometry : n2380467760[53.6495598,24.0075461] n2380467759[53.6495320,24.0075267] n2380467749[53.6479195,24.0063975] n2380467742[53.6474107,24.0060412] n2380467736[53.6465441,24.0095464] n2380467740[53.6472996,24.0100793] n2380467744[53.6474456,24.0094929] n2380467745[53.6475583,24.0095732] n2380467741[53.6473663,24.0103123] n2380467750[53.6483742,24.0110192] n2380467751[53.6485678,24.0102801] n2380467752[53.6488265,24.0104649] n2380467754[53.6490027,24.0097981] n2380467755[53.6490852,24.0096937] n2380467757[53.6492376,24.0090725] n2380467756[53.6492170,24.0089198] n2380467760[53.6495598,24.0075461]
-w230389754  Польшча — Беларусь / null / Polska — Беларусь / Польша — Беларусь
-  other names: name:en=Poland — Belarus | name:fr=Pologne — Biélorussie | name:pl=Polska — Białoruś
-  other tags : admin_level=2 | boundary=administrative
-    geometry : n1894004581[53.4086799,23.7259952] n2398671162[53.3979627,23.7329591] n2398671163[53.3955395,23.7345334] n1894004580[53.3915340,23.7371355] n1894004579[53.3780963,23.7443531] n320851169[53.3731895,23.7468627] n2080922544[53.3729380,23.7469913] n319953704[53.3722904,23.7473225]
 w230759561
   other tags : landuse=residential
     geometry : n2392110195[53.6255501,23.7387408] n2392110411[53.6264207,23.7392607] n2392110496[53.6272372,23.7355543] n2392110494[53.6271858,23.7345964] n2392110469[53.6268061,23.7332438] n2392110450[53.6267205,23.7332294] n2392110350[53.6261524,23.7337252] n2392110346[53.6261324,23.7338166] n2392110394[53.6263066,23.7345675] n2392110399[53.6263408,23.7349911] n2392110195[53.6255501,23.7387408]
@@ -10232,31 +10231,54 @@ r1312008
 r1583230
   other tags : highres=yes | note=High resolution coverage of Bing in Poland | render=no | source=Geoportal | type=multipolygon
     geometry : <outer> w227963512: [???]
+    geometry : <outer> w366751266: [???]
+    geometry : <outer> w366751267: [???]
+    geometry : <outer> w366751265: [???]
     geometry : <outer> w227963507: [???]
     geometry : <outer> w30543445: [???]
     geometry : <outer> w128239332: [???]
     geometry : <outer> w191976716: [???]
     geometry : <outer> w191976720: [???]
+    geometry : <outer> w366732278: [???]
     geometry : <outer> w191977991: [???]
     geometry : <outer> w191979070: [???]
+    geometry : <outer> w366705081: [???]
+    geometry : <outer> w366732277: [???]
+    geometry : <outer> w366732273: [???]
+    geometry : <outer> w366732272: [???]
+    geometry : <outer> w366732274: [???]
+    geometry : <outer> w366732275: [???]
     geometry : <outer> w191973639: [???]
+    geometry : <outer> w366705071: [???]
     geometry : <outer> w129478318: [???]
     geometry : <outer> w129583265: [???]
     geometry : <outer> w129477554: [???]
     geometry : <outer> w199148812: [???]
     geometry : <outer> w192466169: [???]
     geometry : <outer> w192466168: [???]
+    geometry : <outer> w366705078: [???]
+    geometry : <outer> w366705085: [???]
+    geometry : <outer> w366705075: [???]
     geometry : <outer> w192466674: [???]
+    geometry : <outer> w366705086: [???]
     geometry : <outer> w210561739: [???]
+    geometry : <outer> w366693392: [???]
+    geometry : <outer> w366693393: [???]
     geometry : <outer> w210559653: [???]
+    geometry : <outer> w366693390: [???]
     geometry : <outer> w210560907: [???]
     geometry : <outer> w129477541: [???]
     geometry : <outer> w191391689: [???]
+    geometry : <outer> w366693391: [???]
     geometry : <outer> w228776103: [???]
     geometry : <outer> w235855090: [???]
+    geometry : <outer> w366693389: [???]
     geometry : <outer> w191391342: [???]
+    geometry : <outer> w366693387: [???]
     geometry : <outer> w191389847: [???]
     geometry : <outer> w129370973: [???]
+    geometry : <outer> w366693386: [???]
+    geometry : <outer> w366693388: [???]
     geometry : <outer> w188180120: [???]
     geometry : <outer> w129370036: [???]
     geometry : <outer> w227963510: [???]
@@ -10265,7 +10287,6 @@ r1583230
     geometry : <outer> w191991055: [???]
     geometry : <inner> w171873673: [???]
     geometry : <inner> w237977949: [???]
-    geometry : <inner> w167386187: [???]
     geometry : <inner> w227951690: [???]
     geometry : <inner> w229949013: [???]
     geometry : <inner> w112900207: [???]
