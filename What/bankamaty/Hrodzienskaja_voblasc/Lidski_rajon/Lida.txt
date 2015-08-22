@@ -4,20 +4,20 @@ n1115543948  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n1131427244  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8931681,25.2985310]
-n1131427289  null / null / Приорбанк №50
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n1131427289  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | ref=50 | website=http://priorbank.by/
     geometry : [53.8929840,25.2965015]
-n1131427296  null / null / Приорбанк №208
-  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n1131427296  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | ref=208 | website=http://priorbank.by/
     geometry : [53.8934870,25.2999196]
-n1131427330  null / null / Паритетбанк
+n1131427330  Парытэтбанк / Parytetbank / Паритетбанк / Паритетбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Паритетбанк | website=http://paritetbank.by/
     geometry : [53.8904626,25.2986149]
-n1429798823  null / null / Приорбанк №609
-  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | operator=Приорбанк | website=http://priorbank.by/
+n1429798823  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | operator=Приорбанк | ref=609 | website=http://priorbank.by/
     geometry : [53.8847374,25.2982303]
-n2655966347  null / null / Белинвестбанк №20
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n2655966347  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=20 | website=http://belinvestbank.by/
     geometry : [53.8912877,25.2966027]
 n2655966348  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
@@ -25,8 +25,8 @@ n2655966348  Белаграпрамбанк / Bielahraprambank / Белагро�
 n2853192182  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8928114,25.2739574]
-n2853462222  null / null / БПС-Сбербанк ATM11518
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n2853462222  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM11518 | website=http://bps-sberbank.by/
     geometry : [53.8964320,25.2675735]
 n3126183808
   other tags : amenity=atm | operator=Беларусбанк
@@ -40,8 +40,8 @@ n3126189180  null / null / ПейНэт. Терминал CDX0502
 n3126204661  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=09:00-23:00 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8915767,25.2561248]
-n3126226666  null / null / БПС-Сбербанк ATM12290
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3126226666  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM12290 | website=http://bps-sberbank.by/
     geometry : [53.8720808,25.2819015]
 n3127099378  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : amenity=atm
@@ -52,14 +52,14 @@ n3127110108  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3127119613  null / null / Белгосстрах / Белгосстрах
   other tags : amenity=atm
     geometry : [53.8947255,25.2919489]
-n3127131030  null / null / Белинвестбанк №21
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3127131030  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=21 | website=http://belinvestbank.by/
     geometry : [53.8846242,25.2947988]
 n3127135759  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm
     geometry : [53.8827974,25.2954257]
-n3127162038  null / null / БПС-Сбербанк ATM12218
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3127162038  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM12218 | website=http://bps-sberbank.by/
     geometry : [53.9037427,25.2589709]
 n3216462723
   other tags : amenity=atm
@@ -88,10 +88,10 @@ n3385803166  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
 n3385803167  БелВЭБ / BielVEB / БелВЭБ / БелВЭБ
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Банк БелВЭБ | website=http://bveb.by/
     geometry : [53.8971806,25.3015389]
-n3385803168  null / null / БелВЭБ. Инфокиоск
+n3385803168  БелВЭБ. Інфакіеск / BielVEB. Infakijesk / БелВЭБ. Инфокиоск / БелВЭБ. Инфокиоск
   other tags : amenity=atm | opening_hours=09:00-23:00 | operator=Банк БелВЭБ | website=http://bveb.by/
     geometry : [53.8914694,25.2561675]
-n3385803169  null / null / БелВЭБ. Инфокиоск
+n3385803169  БелВЭБ. Інфакіеск / BielVEB. Infakijesk / БелВЭБ. Инфокиоск / БелВЭБ. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Th 09:00-19:00; Fr 09:00-17:45; Su off; Sa off; ph off | operator=Банк БелВЭБ | website=http://bveb.by/
     geometry : [53.8973012,25.3019428]
 n3390584135  Банк ВТБ / Bank VTB / ВТБ / Банк ВТБ
@@ -103,7 +103,7 @@ n3390611502  Белаграпрамбанк / Bielahraprambank / Белагро�
 n3390611503  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8728198,25.3179035]
-n3390611504  null / Bielahraprambank / Белагропромбанк / Белагропромбанк
+n3390611504  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8844813,25.3024149]
 n3390611505  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
@@ -118,16 +118,16 @@ n3390611507  Белаграпрамбанк / Bielahraprambank / Белагро�
 n3390611508  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.9340366,25.2471540]
-n3390611509  null / null / Белагропромбанк. Инфокиоск
+n3390611509  Белаграпрамбанк. Інфакіеск / Bielahraprambank. Infakijesk / Белагропромбанк. Инфокиоск / Белагропромбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=Mo-Fr 08:45-16:30; Su 13:00-14:00 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8675571,25.2862258]
-n3390611510  null / null / Белагропромбанк. Инфокиоск
+n3390611510  Белаграпрамбанк. Інфакіеск / Bielahraprambank. Infakijesk / Белагропромбанк. Инфокиоск / Белагропромбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8711551,25.3150686]
-n3390611511  null / null / Белагропромбанк. Инфокиоск
+n3390611511  Белаграпрамбанк. Інфакіеск / Bielahraprambank. Infakijesk / Белагропромбанк. Инфокиоск / Белагропромбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8830999,25.3024327]
-n3390611512  null / null / Белагропромбанк. Инфокиоск
+n3390611512  Белаграпрамбанк. Інфакіеск / Bielahraprambank. Infakijesk / Белагропромбанк. Инфокиоск / Белагропромбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=24/7 | operator=Белагропромбанк | website=http://belapb.by/
     geometry : [53.8920883,25.3048137]
 n3390897567  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
@@ -181,79 +181,79 @@ n3390897582  Беларусбанк / Bielarusbank / Беларусбанк / Б
 n3390897583  Беларусбанк / Bielarusbank / Беларусбанк / Беларусбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9404835,25.2461488]
-n3390897584  null / null / Беларусбанк. Инфокиоск
+n3390897584  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Fr 09:00-19:30; Sa 09:00-14:45 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8786498,25.3301803]
-n3390897585  null / null / Беларусбанк. Инфокиоск
+n3390897585  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8786531,25.3298620]
-n3390897586  null / null / Беларусбанк. Инфокиоск
+n3390897586  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8847714,25.2959844]
-n3390897587  null / null / Беларусбанк. Инфокиоск
+n3390897587  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8896754,25.2990762]
-n3390897588  null / null / Беларусбанк. Инфокиоск
+n3390897588  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8927989,25.2739660]
-n3390897589  null / null / Беларусбанк. Инфокиоск
+n3390897589  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo 09:00-18:00; Tu 09:00-19:00; We-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8931444,25.2983384]
-n3390897590  null / null / Беларусбанк. Инфокиоск
+n3390897590  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9001013,25.2557753]
-n3390897591  null / null / Беларусбанк. Инфокиоск
+n3390897591  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=06:00-24:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9067688,25.3167572]
-n3390897592  null / null / Беларусбанк. Инфокиоск
+n3390897592  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9404066,25.2461387]
-n3390915253  null / null / Беларусбанк. Инфокиоск
+n3390915253  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8744322,25.2799145]
-n3390915254  null / null / Беларусбанк. Инфокиоск
+n3390915254  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8750192,25.3359579]
-n3390915255  null / null / Беларусбанк. Инфокиоск
+n3390915255  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8812218,25.2956266]
-n3390915256  null / null / Беларусбанк. Инфокиоск
+n3390915256  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Fr 08:00-17:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8855898,25.3010582]
-n3390915257  null / null / Беларусбанк. Инфокиоск
+n3390915257  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8894039,25.2925944]
-n3390915258  null / null / Беларусбанк. Инфокиоск
+n3390915258  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8917413,25.3048801]
-n3390915259  null / null / Беларусбанк. Инфокиоск
+n3390915259  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Fr 08:00-17:30; Sa 08:30-14:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8933648,25.3022287]
-n3390915260  null / null / Беларусбанк. Инфокиоск
+n3390915260  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8934105,25.3024733]
-n3390915261  null / null / Беларусбанк. Инфокиоск
+n3390915261  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8945167,25.2854839]
-n3390915262  null / null / Беларусбанк. Инфокиоск
+n3390915262  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=08:00-20:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8948144,25.2925040]
-n3390915263  null / null / Беларусбанк. Инфокиоск
+n3390915263  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-14:00 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8967836,25.2679490]
-n3390915264  null / null / Беларусбанк. Инфокиоск
+n3390915264  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8989670,25.2964671]
-n3390915265  null / null / Беларусбанк. Инфокиоск
+n3390915265  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8991342,25.2607446]
-n3390915266  null / null / Беларусбанк. Инфокиоск
+n3390915266  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=Mo-Fr 09:00-18:30 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.8992252,25.3106940]
-n3390915267  null / null / Беларусбанк. Инфокиоск
+n3390915267  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9137375,25.2385210]
-n3390915268  null / null / Беларусбанк. Инфокиоск
+n3390915268  Беларусбанк. Інфакіеск / Bielarusbank. Infakijesk / Беларусбанк. Инфокиоск / Беларусбанк. Инфокиоск
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Беларусбанк | website=http://belarusbank.by/
     geometry : [53.9317034,25.2652405]
 n3392124194  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
@@ -262,59 +262,59 @@ n3392124194  Белгазпромбанк / Bielhazprombank / Белгазпро
 n3392124195  Белгазпромбанк / Bielhazprombank / Белгазпромбанк / Белгазпромбанк
   other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8983341,25.2912939]
-n3392124196  null / null / Белгазпромбанк. Инфокиоск
+n3392124196  Белгазпрамбанк. Інфакіеск / Bielhazprambank. Infakijesk / Белгазпромбанк. Инфокиоск / Белгазпромбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=24/7 | operator=Белгазпромбанк | website=http://belgazprombank.by/
     geometry : [53.8982968,25.2913094]
-n3392152504  null / null / Белинвестбанк №10
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152504  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=10 | website=http://belinvestbank.by/
     geometry : [53.9020749,25.3180458]
-n3392152505  null / null / Белинвестбанк №11
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152505  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=11 | website=http://belinvestbank.by/
     geometry : [53.8984147,25.2937228]
-n3392152507  null / null / Белинвестбанк №13
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152507  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=13 | website=http://belinvestbank.by/
     geometry : [53.9012470,25.3116114]
-n3392152508  null / null / Белинвестбанк №26
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152508  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Белинвестбанк | ref=26 | website=http://belinvestbank.by/
     geometry : [53.8906663,25.3026199]
-n3392152509  null / null / Белинвестбанк №31
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=09:00-23:00 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152509  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=09:00-23:00 | operator=Белинвестбанк | ref=31 | website=http://belinvestbank.by/
     geometry : [53.8915446,25.2561348]
-n3392152510  null / null / Белинвестбанк. Инфокиоск №507
-  other tags : amenity=atm | opening_hours=24/7 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152510  Белінвестбанк. Інфакіеск / Bielinviestbank. Infakijesk / Белинвестбанк. Инфокиоск / Белинвестбанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=24/7 | operator=Белинвестбанк | ref=507 | website=http://belinvestbank.by/
     geometry : [53.8912662,25.2966166]
-n3392152512  null / null / Белинвестбанк. Инфокиоск №522
-  other tags : amenity=atm | opening_hours=09:00-22:00 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152512  Белінвестбанк. Інфакіеск / Bielinviestbank. Infakijesk / Белинвестбанк. Инфокиоск / Белинвестбанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=09:00-22:00 | operator=Белинвестбанк | ref=522 | website=http://belinvestbank.by/
     geometry : [53.8985505,25.2567578]
-n3392152513  null / null / Белинвестбанк. Инфокиоск №506
-  other tags : amenity=atm | opening_hours=Mo-Fr 08:30-17:30 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3392152513  Белінвестбанк. Інфакіеск / Bielinviestbank. Infakijesk / Белинвестбанк. Инфокиоск / Белинвестбанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=Mo-Fr 08:30-17:30 | operator=Белинвестбанк | ref=506 | website=http://belinvestbank.by/
     geometry : [53.9021248,25.3182347]
-n3392331551  null / null / БПС-Сбербанк ATM10643
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331551  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM10643 | website=http://bps-sberbank.by/
     geometry : [53.8946701,25.2916790]
-n3392331552  null / null / БПС-Сбербанк ATM10892
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331552  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM10892 | website=http://bps-sberbank.by/
     geometry : [53.8771636,25.2780900]
-n3392331553  null / null / БПС-Сбербанк ATM11054
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331553  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=БПС-Сбербанк | ref=ATM11054 | website=http://bps-sberbank.by/
     geometry : [53.8901711,25.2863472]
-n3392331554  null / null / БПС-Сбербанк ATM12344
-  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331554  БПС-Сбербанк / BPS-Sbierbank / БПС-Сбербанк / БПС-Сбербанк
+  other tags : amenity=atm | currency:BYR=yes | operator=БПС-Сбербанк | ref=ATM12344 | website=http://bps-sberbank.by/
     geometry : [53.8854341,25.3001735]
-n3392331555  null / null / БПС-Сбербанк. Инфокиоск INF80037
-  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:00 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331555  БПС-Сбербанк. Інфакіеск / BPS-Sbierbank. Infakijesk / БПС-Сбербанк. Инфокиоск / БПС-Сбербанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:00 | operator=БПС-Сбербанк | ref=INF80037 | website=http://bps-sberbank.by/
     geometry : [53.8946421,25.2916872]
-n3392331556  null / null / БПС-Сбербанк. Инфокиоск INF80200
-  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331556  БПС-Сбербанк. Інфакіеск / BPS-Sbierbank. Infakijesk / БПС-Сбербанк. Инфокиоск / БПС-Сбербанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | ref=INF80200 | website=http://bps-sberbank.by/
     geometry : [53.9022510,25.2933090]
-n3392331557  null / null / БПС-Сбербанк. Инфокиоск INF80201
-  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331557  БПС-Сбербанк. Інфакіеск / BPS-Sbierbank. Infakijesk / БПС-Сбербанк. Инфокиоск / БПС-Сбербанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=24/7 | operator=БПС-Сбербанк | ref=INF80201 | website=http://bps-sberbank.by/
     geometry : [53.9025921,25.2945610]
-n3392331558  null / null / БПС-Сбербанк. Инфокиоск INF80296
-  other tags : amenity=atm | opening_hours=Mo-Fr 10:00-18:00 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331558  БПС-Сбербанк. Інфакіеск / BPS-Sbierbank. Infakijesk / БПС-Сбербанк. Инфокиоск / БПС-Сбербанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=Mo-Fr 10:00-18:00 | operator=БПС-Сбербанк | ref=INF80296 | website=http://bps-sberbank.by/
     geometry : [53.8770706,25.2780503]
-n3392331559  null / null / БПС-Сбербанк. Инфокиоск INF80319
-  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:30 | operator=БПС-Сбербанк | website=http://bps-sberbank.by/
+n3392331559  БПС-Сбербанк. Інфакіеск / BPS-Sbierbank. Infakijesk / БПС-Сбербанк. Инфокиоск / БПС-Сбербанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=Mo-Fr 09:00-18:30 | operator=БПС-Сбербанк | ref=INF80319 | website=http://bps-sberbank.by/
     geometry : [53.8854171,25.3002593]
 n3392484853  null / null / ПейНэт. Терминал CDX0619
   other tags : amenity=atm | operator=ИнтерПэйБанк | website=http://ipaybank.by/
@@ -406,66 +406,66 @@ n3393409344  МТБанк / MTBank / МТБанк / МТБанк
 n3393409345  МТБанк / MTBank / МТБанк / МТБанк
   other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | currency:USD=yes | opening_hours=24/7 | operator=МТБанк | website=http://mtbank.by/
     geometry : [53.8983594,25.2913807]
-n3393422978  null / null / Паритетбанк
+n3393422978  Парытэтбанк / Parytetbank / Паритетбанк / Паритетбанк
   other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Паритетбанк | website=http://paritetbank.by/
     geometry : [53.8933957,25.3014481]
-n3393422979  null / null / Паритетбанк. Инфокиоск
+n3393422979  Парытэтбанк. Інфакіеск / Parytetbank. Infakijesk / Паритетбанк. Инфокиоск / Паритетбанк. Инфокиоск
   other tags : amenity=atm | opening_hours=Mo-Th 09:00-17:30; Fr 09:00-16:15 | operator=Паритетбанк | website=http://paritetbank.by/
     geometry : [53.8933998,25.3015356]
-n3393573694  null / null / Приорбанк №109
-  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+n3393573694  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | ref=109 | website=http://priorbank.by/
     geometry : [53.9317226,25.2653289]
-n3393573695  null / null / Приорбанк №149
-  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+n3393573695  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | ref=149 | website=http://priorbank.by/
     geometry : [53.8955288,25.3182044]
-n3393573696  null / null / Приорбанк №195
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n3393573696  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | ref=195 | website=http://priorbank.by/
     geometry : [53.8781022,25.2784545]
-n3393573697  null / null / Приорбанк №231
-  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n3393573697  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | opening_hours=24/7 | operator=Приорбанк | ref=231 | website=http://priorbank.by/
     geometry : [53.8911196,25.2863520]
-n3393573698  null / null / Приорбанк №616
-  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | website=http://priorbank.by/
+n3393573698  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | operator=Приорбанк | ref=616 | website=http://priorbank.by/
     geometry : [53.8795155,25.2757101]
-n3393573699  null / null / Приорбанк №628
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n3393573699  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | ref=628 | website=http://priorbank.by/
     geometry : [53.8907088,25.3026272]
-n3393573700  null / null / Приорбанк №677
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | website=http://priorbank.by/
+n3393573700  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | ref=677 | website=http://priorbank.by/
     geometry : [53.9037503,25.2590112]
-n3393573701  null / null / Приорбанк №682
-  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n3393573701  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:EUR=yes | opening_hours=24/7 | operator=Приорбанк | ref=682 | website=http://priorbank.by/
     geometry : [53.8787385,25.3295305]
-n3393573702  null / null / Приорбанк №683
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | website=http://priorbank.by/
+n3393573702  Пріорбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | operator=Приорбанк | ref=683 | website=http://priorbank.by/
     geometry : [53.8916609,25.2560843]
-n3393573703  null / null / Приорбанк №98
-  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | website=http://priorbank.by/
+n3393573703  Прыёрбанк / Pryjorbank / Приорбанк / Приорбанк
+  other tags : amenity=atm | currency:BYR=yes | currency:USD=yes | opening_hours=24/7 | operator=Приорбанк | ref=98 | website=http://priorbank.by/
     geometry : [53.8970462,25.3028182]
-n3393573704  null / null / Приорбанк. Платёжно-справочный терминал №147
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573704  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=147 | website=http://priorbank.by/
     geometry : [53.8795404,25.2756585]
-n3393573705  null / null / Приорбанк. Платёжно-справочный терминал №217
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573705  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=217 | website=http://priorbank.by/
     geometry : [53.8928635,25.2963184]
-n3393573706  null / null / Приорбанк. Платёжно-справочный терминал №365
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573706  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=365 | website=http://priorbank.by/
     geometry : [53.8944894,25.3026806]
-n3393573707  null / null / Приорбанк. Платёжно-справочный терминал №603
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573707  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=603 | website=http://priorbank.by/
     geometry : [53.8916377,25.2560961]
-n3393573708  null / null / Приорбанк. Платёжно-справочный терминал №605
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573708  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=605 | website=http://priorbank.by/
     geometry : [53.8947445,25.2926663]
-n3393573709  null / null / Приорбанк. Платёжно-справочный терминал №607
-  other tags : amenity=atm | operator=Приорбанк | website=http://priorbank.by/
+n3393573709  Прыёрбанк. Плацежна-даведачны тэрмінал / Pryjorbank. Placiežna-daviedačny terminal / Приорбанк. Платёжно-справочный терминал / Приорбанк. Платёжно-справочный терминал
+  other tags : amenity=atm | operator=Приорбанк | ref=607 | website=http://priorbank.by/
     geometry : [53.8848500,25.2959753]
-n3393684847  null / null / Франсабанк. №12605
-  other tags : amenity=atm | operator=Франсабанк | website=http://fransabank.by/
+n3393684847  Франсабанк / Fransabank / Франсабанк / Франсабанк
+  other tags : amenity=atm | operator=Франсабанк | ref=12605 | website=http://fransabank.by/
     geometry : [53.8879763,25.2963209]
-n3393688999  null / null / Home Credit Bank
-  other tags : amenity=atm | currency:BYR=yes | operator=Хоум Кредит Банк | website=http://homecredit.by/
+n3393688999  Хоўм Крэдыт Банк / Choŭm Kredyt Bank / Хоум Кредит Банк / Хоум Кредит Банк
+  other tags : amenity=atm | currency:BYR=yes | operator=Home Credit Bank | website=http://homecredit.by/
     geometry : [53.8925352,25.3026951]
-n3702532532  null / null / Белинвестбанк. Инфокиоск №521
-  other tags : amenity=atm | opening_hours=09:00-22:00 | operator=Белинвестбанк | website=http://belinvestbank.by/
+n3702532532  Белінвестбанк. Інфакіеск / Bielinviestbank. Infakijesk / Белинвестбанк. Инфокиоск / Белинвестбанк. Инфокиоск
+  other tags : amenity=atm | opening_hours=09:00-22:00 | operator=Белинвестбанк | ref=521 | website=http://belinvestbank.by/
     geometry : [53.8936115,25.2987096]
