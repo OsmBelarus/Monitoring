@@ -1,18 +1,18 @@
-n306067673  null / null / Войсковой Храм В Честь Преподобного Сергия Радонежского / Войсковой Храм В Честь Преподобного Сергия Радонежского
-  other tags : amenity=place_of_worship | religion=christian
+n306067673  Храм святога прападобнага Сергія Раданежскага / Chram sviatoha prapadobnaha Sierhija Radaniežskaha / Храм святого преподобного Сергия Радонежского / Храм святого преподобного Сергия Радонежского
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.8922100,25.2675700]
 n306067682  Касцёл Беззаганнага Зачацця Найсвяцейшай Панны Марыі / Kasciol Biezzahannaha Začaccia Najsviaciejšaj Panny Maryi / Костёл Непорочного зачатия Наисвятейшей Панны Марии / Костёл Непорочного зачатия Наисвятейшей Панны Марии
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [53.8721593,25.2888983]
-n306067718  null / null / Храм Во Имя Св.Великомученика Георгия Побелоносца(Кладбищенский) / Храм Во Имя Св.Великомученика Георгия Побелоносца(Кладбищенский)
+n306067718  Храм святога велікамучаніка Георгія Перамаганосца / Chram sviatoha vielikamučanika Hieorhija Pieramahanosca / Храм святого великомученика Георгия Победоносца / Храм святого великомученика Георгия Победоносца
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [53.8997000,25.2946500]
+    geometry : [53.8997772,25.2945915]
 n913858751  Касцёл Святой Сям'і / Kasciol Sviatoj Siamji / Костёл Святой Семьи / Костёл Святой Семьи
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [53.8995423,25.2564980]
-n1039972099  null / null / Приход Храма Христа Спасителя
-  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
-    geometry : [53.9015114,25.2620086]
+n1039972099  Храм Хрыста Збавіцеля / Chram Chrysta Zbavicielia / Храм Христа Спасителя / Храм Христа Спасителя
+  other tags : amenity=place_of_worship | construction=yes | denomination=orthodox | religion=christian
+    geometry : [53.9017639,25.2621192]
 n1643046166  Капліца св. Барбары / null / Часовня католич. св. Варвары / Часовня католич. св. Варвары
   other names: name:en=St. Barbara Chapel
   other tags : amenity=place_of_worship | denomination=catholic | description=Даты строительства / обновления: 1930 г. Рейтинг: взглянуть | description:ru=Даты строительства / обновления: 1930 г. Рейтинг: взглянуть | ref=http://globus.tut.by | religion=christian
@@ -29,14 +29,25 @@ n3704588811  Касцёл Божай Міласэрнасці / Kasciol Božaj M
 n3704588812  Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі / Kasciol Uniebaŭziaccia Najsviaciejšaj Panny Maryi / Костёл В небо взятия Марии Панны / Костёл В небо взятия Марии Панны
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [53.9302371,25.2671245]
+n3707765358  Кафедральны сабор святога Архангела Міхаіла / Kafiedraĺny sabor sviatoha Archanhiela Michaila / Кафедральный собор святого Архангела Михаила / Кафедральный собор святого Архангела Михаила
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : [53.8937870,25.3031015]
+n3707765359  Храм Усіх Святых / Chram Usich Sviatych / Храм Всех Святых / Храм Всех Святых
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : [53.8837411,25.3016655]
+n3707765360  Храм святых Царскіх Пакутнікаў / Chram sviatych Carskich Pakutnikaŭ / Храм святых Царственных Страстотерпцев / Храм святых Царственных Страстотерпцев
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : [53.9015035,25.2621916]
+n3707765361  Храм у гонар святога благавернага князя Аляксандра Неўскага / Chram u honar sviatoha blahaviernaha kniazia Aliaksandra Nieŭskaha / Храм в честь святого благоверного князя Александра Невского / Храм в честь святого благоверного князя Александра Невского
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : [53.8805096,25.3303156]
+n3707765362  Храм іконы Божай Маці Спагнанне загінулых / Chram ikony Božaj Maci Spahnannie zahinulych / Храм иконы Божией Матери Взыскание погибших / Храм иконы Божией Матери Взыскание погибших
+  other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
+    geometry : [53.9144470,25.2371884]
+n3707765363  Храм іконы Божай Маці Усецарыца / Chram ikony Božaj Maci Usiecaryca / Храм иконы Божией Матери Всецарица / Храм иконы Божией Матери Всецарица
+  other tags : amenity=place_of_worship | denomination=orthodox | fixme=where | religion=christian
+    geometry : [53.9366106,25.2661089]
 w53448058  Фарны Касцёл / null / Костел Крестовоздвиженский / Костел Крестовоздвиженский
   other names: name:en=Church of the Exaltation of the Holy Cross
   other tags : addr:housenumber=2 | addr:street=Советская улица | amenity=place_of_worship | building=church | building:colour=LemonChiffon | building:parts=yes | denomination=catholic | description=Крестовоздвиженский фарный костел. Даты строительства / обновления: 1765-70 гг. Рейтинг: увидеть по дороге | description:ru=Крестовоздвиженский фарный костел. Даты строительства / обновления: 1765-70 гг. Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : n675592612[53.8893434,25.3029611] n675592613[53.8893425,25.3030840] n675592616[53.8893719,25.3030846] n2594375373[53.8893718,25.3030967] n2594375371[53.8893695,25.3034263] n2594375375[53.8893819,25.3034267] n2594375380[53.8893940,25.3034269] n2594375378[53.8893930,25.3035763] n2594375366[53.8893438,25.3035753] n2594375341[53.8892210,25.3035729] n675592603[53.8891739,25.3035720] n2594375335[53.8891749,25.3034221] n2594375338[53.8891990,25.3034228] n2594375339[53.8892013,25.3030934] n675592605[53.8892014,25.3030812] n675592601[53.8892345,25.3030818] n675592600[53.8892353,25.3029591] n2594375349[53.8892533,25.3029594] n2594375353[53.8892713,25.3029597] n2594375355[53.8892893,25.3029601] n2594375360[53.8893074,25.3029604] n2594375361[53.8893254,25.3029608] n675592612[53.8893434,25.3029611]
-w54277465  Сабор кафедральны св. Міхаіла Архангела 1825г / null / Собор кафедральный св. Михаила Архангела 1825г / Собор кафедральный св. Михаила Архангела 1825г
-  other names: name:en=St. Michael's Cathedral 1825
-  other tags : addr:housenumber=20 | addr:street=Советская улица | amenity=place_of_worship | building=church | denomination=russian_orthodox | description=Храм строился как костел св. Иосифа при монастыре пиаров, ныне - православная Михайловская церковь. На строительство костела 5000 руб. пожертвовал Павел I. Даты строительства / обновления: 1797-1825 гг. / 1863 г. Рейтинг: увидеть по дороге | description:ru=Храм строился как костел св. Иосифа при монастыре пиаров, ныне - православная Михайловская церковь. На строительство костела 5000 руб. пожертвовал Павел I. Даты строительства / обновления: 1797-1825 гг. / 1863 г. Рейтинг: увидеть по дороге | loc_name=Планетарий | ref=http://globus.tut.by | religion=christian | tourism=attraction
-    geometry : n684497834[53.8937206,25.3030080] n684497844[53.8938319,25.3029817] n2850390797[53.8938456,25.3031482] n2850390799[53.8938746,25.3031413] n2850391201[53.8938905,25.3033352] n2850390798[53.8938515,25.3033444] n684497840[53.8938889,25.3037991] n684497838[53.8937875,25.3038231] n684497834[53.8937206,25.3030080]
-w60921636  null / null / Храм во имя Всех святых
-  other tags : amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian
-    geometry : n762660648[53.8837971,25.3015974] n762660718[53.8838112,25.3017298] n762660387[53.8837852,25.3018101] n762660536[53.8837545,25.3018623] n762660686[53.8836906,25.3018582] n762660562[53.8836126,25.3017619] n762660711[53.8836055,25.3015974] n762660377[53.8836575,25.3014771] n762660527[53.8837403,25.3014490] n762660457[53.8837781,25.3015092] n762660648[53.8837971,25.3015974]
