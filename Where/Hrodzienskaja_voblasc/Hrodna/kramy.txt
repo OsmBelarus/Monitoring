@@ -635,8 +635,8 @@ n1463853141  null / null / GPS Repair
 n1514362561  null / null / Экспресс / Экспресс
   other tags : shop=convenience
     geometry : [53.6560846,23.8023797]
-n1523510819  null / null / Корзинка
-  other tags : shop=supermarket
+n1523510819  null / null / Доброном
+  other tags : opening_hours=9:00 - 21:00 | shop=supermarket
     geometry : [53.6595292,23.8095836]
 n1548371681  null / null / Алми
   other tags : shop=supermarket
@@ -1305,3 +1305,6 @@ n3615432369  null / null / Корона
 n3704212116  null / null / 5 элемент
   other tags : addr:city=Гродно | addr:housenumber=81 | addr:street=проспект Космонавтов | opening_hours=Mo-Fr 11:00-20:00; Sa-Su 10:00-20:00 | shop=electronics
     geometry : [53.6724868,23.8629096]
+n3704511192  null / null / Продукты
+  other tags : shop=supermarket
+    geometry : [53.6609506,23.8132326]
