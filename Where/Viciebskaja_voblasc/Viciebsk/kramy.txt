@@ -1065,7 +1065,7 @@ n1370870302  null / null / Быстрые займы
   other tags : contact:phone=+375(29) 2-835-835 | opening_hours=Mo-Fr 09:30-17:00 | shop=money_lender
     geometry : [55.1811905,30.2021075]
 n1383426656
-  other tags : shop=convenience
+  other tags : fixme=уточнить | shop=convenience
     geometry : [55.1695665,30.2626643]
 n1393770721  Еўраопт / null / Евроопт / Евроопт
   other tags : opening_hours=Mo-Su 09:00-22:00 | shop=convenience | website=http://www.euroopt.by/
@@ -1863,7 +1863,7 @@ n2401900450  null / null / Евролюкс
     geometry : [55.1762423,30.2368766]
 n2401916301  null / null / Салон-магазин кованых изделий «OST»
   other tags : craft=metal_construction | phone=+375-212-487771; +375-29-5109105 | shop=doityourself
-    geometry : [55.1728085,30.2441970]
+    geometry : [55.1728104,30.2441968]
 n2401954712  null / null / Ирис
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa 11:00-15:00 | shop=cosmetics
     geometry : [55.1792761,30.2275429]
@@ -3148,7 +3148,7 @@ n3210524002  Люстэрка / null / Зеркало / Зеркало
   other tags : description=2-й этаж | description:be=2-і паверх | description:ru=2-й этаж | shop=hairdresser
     geometry : [55.1888530,30.2050060]
 n3229287870
-  other tags : opening_hours=08:00-20:00 | shop=convenience
+  other tags : opening_hours=Mo-Su 08:00-20:00 | shop=convenience
     geometry : [55.1683859,30.2509774]
 n3229287872  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : opening_hours=08:00-20:00 | phone=+375-33-3955346 | service=tyres | shop=car_repair
@@ -3427,7 +3427,7 @@ n3605196182  null / null / Мила / Мила
     geometry : [55.1956775,30.1887518]
 n3607955021  Керхер / null / Karcher / Керхер
   other tags : brand=Karcher | description=пылесосы, минимойки, пароочистители | opening_hours=Mo-Sa 09:00-20:00; Su 10:00-17:00 | owner=СООО «Чистый свет Технологии» | shop=vacuum_cleaner
-    geometry : [55.1733151,30.2443606]
+    geometry : [55.1733305,30.2444205]
 n3607955022  null / null / Лотос
   other tags : opening_hours=Mo-Fr 07:30-20:00 | operator=ОАО «Объединение Лотос» | shop=dry_cleaning
     geometry : [55.1673998,30.2438987]
@@ -3524,3 +3524,9 @@ n3703064883  null / null / Beauty
 n3705261010  null / null / Метиз Юрал Креп / Метиз Юрал Креп
   other tags : contact:email=vitebsk@metizmarket.by | contact:phone=+375(29) 711-85-93, +375(29) 108-41-38, +375(212) 555-343 | contact:website=http://metizmarket.by/ | description=крепёжные изделия (опт, мелкий опт) | operator=ООО «Метиз Юрал Креп» | ref=10 | shop=hardware
     geometry : [55.2009478,30.1744701]
+n3707403927  null / null / Дом Красоты
+  other tags : opening_hours=Mo-Su 09:00-20:00 | operator=ООО «Дом красоты «Стилист» | shop=hairdresser
+    geometry : [55.1655519,30.2683144]
+n3707403928  null / null / Товары для животных
+  other tags : description=также ветеринарная аптека | opening_hours=Tu-Fr 10:00-14:00,15:00-19:00; Sa 10:00-16:00 | operator=ОДО «Вита-Вет» | shop=pet
+    geometry : [55.1660169,30.2614344]

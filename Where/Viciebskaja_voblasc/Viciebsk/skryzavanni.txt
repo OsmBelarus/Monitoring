@@ -321,7 +321,7 @@ n1038909881
     geometry : [55.1722222,30.2334984]
 n1068125904
   other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
-    geometry : [55.1696494,30.2605251]
+    geometry : [55.1696561,30.2604898]
 n1068125911
   other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
     geometry : [55.1690996,30.2634743]
@@ -1003,6 +1003,9 @@ n1447573798
 n1493263803
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.2040478,30.2143184]
+n1522164293
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1713424,30.2605617]
 n1584422466
   other tags : crossing=uncontrolled | highway=crossing | traffic_calming=table
     geometry : [55.1986165,30.1720761]
@@ -1327,6 +1330,9 @@ n1935095753
 n1937241050
   other tags : crossing=traffic_signals | highway=crossing
     geometry : [55.1993642,30.2388479]
+n1948087305
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1715419,30.2624679]
 n1964030930
   other tags : highway=crossing
     geometry : [55.1583073,30.2133122]
@@ -2095,6 +2101,9 @@ n2978696707
 n2978696721
   other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
     geometry : [55.1747531,30.2549696]
+n2978734440
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing
+    geometry : [55.1709365,30.2639389]
 n2983746664
   other tags : crossing=uncontrolled | highway=crossing
     geometry : [55.1619035,30.2282450]

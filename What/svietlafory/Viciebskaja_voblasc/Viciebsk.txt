@@ -647,8 +647,8 @@ n1855185870  null / null / улица 3-я Бебеля
   other tags : highway=bus_stop
     geometry : [55.1901871,30.1788409]
 n1855953483
-  other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1690301,30.2651825]
+  other tags : fixme=название | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1690262,30.2652050]
 n1868900588  null / null / Лиозненская
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1908726,30.2808012]
@@ -1151,6 +1151,12 @@ n3234419474  null / null / Улица Короткевича
 n3445682795  null / null / Генерала Ивановского
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1648221,30.2666181]
+n3445682796  null / null / СШ № 46
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1682721,30.2656222]
+n3445682797  null / null / СШ № 46
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1684610,30.2671078]
 n3445682842
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1673487,30.2783872]
