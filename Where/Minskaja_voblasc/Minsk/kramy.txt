@@ -8658,7 +8658,7 @@ n3158275719  Шынамантаж / null / Шиномонтаж / Шиномон
   other tags : shop=car_repair
     geometry : [53.9147600,27.4552898]
 n3158380011  null / null / Евроопт / Евроопт
-  other tags : shop=convenience
+  other tags : opening_hours=9-22 | shop=convenience
     geometry : [53.9329701,27.4735536]
 n3159012324  null / null / ВелоСтайл
   other tags : opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | operator=Байк-Спорт ЧТУП | phone=+375 29 253 90 90 | shop=bicycle | website=http://www.s-medved.by/
@@ -11728,3 +11728,12 @@ n3707186151
 n3707213256
   other tags : shop=ticket
     geometry : [53.9009087,27.5632719]
+n3708130980
+  other tags : shop=copyshop
+    geometry : [53.9062546,27.5210509]
+n3708159015  null / null / Донна роза
+  other tags : operator=ООО "Донна роза" | shop=florist
+    geometry : [53.9330078,27.4736430]
+n3708166038  null / null / Мила
+  other tags : operator=ООО "Парфюм Трейд" | shop=chemist
+    geometry : [53.9330616,27.4738351]
