@@ -236,8 +236,8 @@ n2360495694  null / null / Городничанка
 n2501222563
   other tags : amenity=cafe
     geometry : [53.6716000,23.7624226]
-n2596391064
-  other tags : amenity=cafe
+n2596391064  null / null / Pizza Smile
+  other tags : addr:housenumber=47 | addr:street=улица Победы | amenity=cafe | cuisine=pizza | opening_hours=Mo-Su 11:00-23:00
     geometry : [53.6508744,23.8326553]
 n2599226402  null / null / Магнолия
   other tags : amenity=cafe
@@ -297,6 +297,9 @@ n3273395788
 n3704190026  null / null / Веранда
   other tags : addr:city=Гродно | addr:housenumber=37 | addr:street=Подольная улица | amenity=restaurant | internet_access=wlan
     geometry : [53.6702412,23.8368073]
+n3704206403  null / null / Pizza Smile
+  other tags : addr:city=Гродно | addr:housenumber=81 | addr:street=проспект Космонавтов | amenity=cafe | cuisine=pizza | opening_hours=Mo-Su 11:00-23:00 | smoking=no
+    geometry : [53.6725926,23.8632403]
 w29125209
   other tags : amenity=fast_food | building=yes | building:levels=1
     geometry : n320417770[53.6858697,23.8390260] n320417767[53.6858454,23.8388434] n320417764[53.6859901,23.8387885] n320417763[53.6860382,23.8391508] n320417760[53.6858755,23.8392125] n320417768[53.6858727,23.8391919] n320417769[53.6858567,23.8391980] n379659399[53.6858356,23.8390389] n320417770[53.6858697,23.8390260]

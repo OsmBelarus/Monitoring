@@ -996,7 +996,7 @@ n2276463636  null / null / Технофренд
   other tags : addr:floor=1 | shop=electronics
     geometry : [53.6497905,23.8355799]
 n2276603070  null / null / Родная сторона
-  other tags : opening_hours=Mo-Su 08:00-23:00 | shop=supermarket | website=http://www.rstorona.by/stores/g-grodno/pobedy-47/
+  other tags : addr:housenumber=47 | addr:street=улица Победы | opening_hours=Mo-Su 08:00-23:00 | shop=supermarket | website=http://www.rstorona.by/stores/g-grodno/pobedy-47/
     geometry : [53.6505150,23.8327522]
 n2297090311  null / null / Двенадцать месяцев
   other tags : addr:floor=0 | opening_hours=10:00-21:00 | operator=ОДО "Леодки" | shop=shoes
@@ -1092,7 +1092,7 @@ n2579388560  null / null / Треви-Ан
   other tags : addr:floor=0 | opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00 | phone=+375 152 480 318 | shop=furniture | website=http://trevi.by/
     geometry : [53.6931956,23.8276269]
 n2596391060  null / null / 5 элемент
-  other tags : opening_hours=Mo-Su 10:00-21:00 | shop=electronics
+  other tags : addr:housenumber=47 | addr:street=улица Победы | opening_hours=Mo-Su 10:00-21:00 | shop=electronics
     geometry : [53.6500569,23.8331939]
 n2597163127  null / null / Arizona
   other tags : shop=shoes | website=http://arizona.obuv.by/
