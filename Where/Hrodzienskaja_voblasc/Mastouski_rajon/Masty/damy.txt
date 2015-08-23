@@ -113,7 +113,7 @@ w116029547
   other tags : building=residential | building:levels=1 | roof:material=metal | roof:orientation=along | roof:shape=gabled
     geometry : n1309442101[53.3941547,24.5338702] n1679472512[53.3942253,24.5338776] n1309442111[53.3942335,24.5338784] n1309442098[53.3942368,24.5337864] n1313522025[53.3942283,24.5337856] n1679472973[53.3942214,24.5337851] n1679472978[53.3942217,24.5337786] n1309442103[53.3941587,24.5337725] n1309442101[53.3941547,24.5338702]
 w131437491
-  other tags : addr:housenumber=6 | addr:street=Полевая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=6 | addr:street=Полевая улица | building=residential | building:levels=3
     geometry : n1446517557[53.4181014,24.5311668] n1446517559[53.4180052,24.5312106] n1446517561[53.4181359,24.5320189] n1446517563[53.4182321,24.5319751] n1446517557[53.4181014,24.5311668]
 w155556278
   other tags : addr:housenumber=91 | addr:street=Первомайская улица | building=residential | building:levels=2
@@ -338,13 +338,13 @@ w205895110
   other tags : addr:street=улица Волковича | building=residential | building:levels=1
     geometry : n2158887917[53.4119787,24.5214648] n2158887809[53.4119146,24.5215870] n2158887742[53.4117747,24.5213806] n2158887694[53.4118388,24.5212584] n2158887917[53.4119787,24.5214648]
 w205895111
-  other tags : addr:street=Полевая улица | building=residential | building:levels=1
+  other tags : addr:street=Полевая улица | building=residential | building:levels=2
     geometry : n2158887480[53.4184152,24.5301327] n2158887347[53.4184405,24.5303236] n2158887391[53.4183240,24.5303670] n2158888059[53.4182987,24.5301761] n2158887480[53.4184152,24.5301327]
 w205895114
-  other tags : addr:street=Полевая улица | building=residential | building:levels=1
+  other tags : addr:street=Полевая улица | building=residential | building:levels=2
     geometry : n2158887647[53.4185885,24.5296439] n2158887696[53.4186027,24.5298506] n2158887915[53.4184786,24.5298747] n2158887787[53.4184644,24.5296679] n2158887647[53.4185885,24.5296439]
 w205895123
-  other tags : addr:housenumber=12 | addr:street=Полевая улица | building=residential | building:levels=1
+  other tags : addr:housenumber=12 | addr:street=Полевая улица | building=residential | building:levels=2
     geometry : n2158887505[53.4184826,24.5298775] n2158887301[53.4185054,24.5300914] n2158888011[53.4184088,24.5301204] n2158887345[53.4183860,24.5299066] n2158887505[53.4184826,24.5298775]
 w205895125
   other tags : addr:housenumber=3 | addr:street=улица Суворова | building=residential | building:levels=1
@@ -917,7 +917,7 @@ w307881289
   other tags : addr:housenumber=12 | addr:street=Народная улица | building=residential | building:levels=1
     geometry : n3131113475[53.3954730,24.5304645] n3131113474[53.3954476,24.5306211] n3131113476[53.3955272,24.5306573] n3131113477[53.3955525,24.5305007] n3131113475[53.3954730,24.5304645]
 w314672234
-  other tags : addr:housenumber=7 | addr:street=Луговая улица | building=apartments | building:levels=5
+  other tags : addr:housenumber=7 | addr:street=Луговая улица | building=apartments | building:levels=5 | roof:colour=red | roof:shape=gabled
     geometry : n3207205518[53.4188366,24.5299360] n3207205519[53.4189878,24.5309507] n3207205520[53.4191361,24.5308884] n3207205521[53.4189850,24.5298737] n3207205518[53.4188366,24.5299360]
 w314672235
   other tags : addr:housenumber=5 | addr:street=Луговая улица | building=apartments | building:levels=5
