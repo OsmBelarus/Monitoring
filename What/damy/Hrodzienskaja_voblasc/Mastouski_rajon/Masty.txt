@@ -1,5 +1,5 @@
 w52521073
-  other tags : addr:housenumber=16 | addr:street=Первомайский переулок | attribution=Мармыш С. | building=residential | building:color=FFA286 | building:levels=1 | email=sergey920@mail.ru | roof:colour=grey | roof:material=eternit | roof:shape=gabled
+  other tags : addr:housenumber=16 | addr:street=Первомайский переулок | attribution=Мармыш С. | building=residential | building:color=FFA286 | building:levels=1 | email=sergey920@mail.ru | roof:colour=grey | roof:material=eternit | roof:orientation=across | roof:shape=gabled
     geometry : n667448367[53.3939764,24.5336947] n1329774037[53.3940673,24.5337045] n667448370[53.3940692,24.5337047] n667448372[53.3940636,24.5338536] n667448373[53.3939700,24.5338429] n667448367[53.3939764,24.5336947]
 w101253812
   other tags : addr:housenumber=11 | addr:street=улица Клары Цеткин | building=residential | building:levels=5
@@ -110,7 +110,7 @@ w111601454
   other tags : addr:housenumber=15 | addr:street=улица Строителей | building=residential | building:levels=5
     geometry : n1271090566[53.4186667,24.5471572] n1271090567[53.4187878,24.5482785] n1271090568[53.4188966,24.5482454] n2920298145[53.4188714,24.5480116] n2920298148[53.4189099,24.5479999] n2920298147[53.4188999,24.5479070] n2920298143[53.4188591,24.5479194] n2920298142[53.4188378,24.5477222] n2920298146[53.4188773,24.5477102] n2920298144[53.4188663,24.5476088] n2920298140[53.4188250,24.5476213] n2920298138[53.4187977,24.5473687] n2920298141[53.4188348,24.5473574] n2920298139[53.4188219,24.5472378] n2920298137[53.4187831,24.5472496] n1271090569[53.4187697,24.5471259] n1271090566[53.4186667,24.5471572]
 w116029547
-  other tags : building=residential | building:levels=1 | roof:material=metal | roof:orientation=along | roof:shape=gabled
+  other tags : building=residential | building:levels=1 | roof:material=metal | roof:orientation=across | roof:shape=gabled
     geometry : n1309442101[53.3941547,24.5338702] n1679472512[53.3942253,24.5338776] n1309442111[53.3942335,24.5338784] n1309442098[53.3942368,24.5337864] n1313522025[53.3942283,24.5337856] n1679472973[53.3942214,24.5337851] n1679472978[53.3942217,24.5337786] n1309442103[53.3941587,24.5337725] n1309442101[53.3941547,24.5338702]
 w131437491
   other tags : addr:housenumber=6 | addr:street=Полевая улица | building=residential | building:levels=3
