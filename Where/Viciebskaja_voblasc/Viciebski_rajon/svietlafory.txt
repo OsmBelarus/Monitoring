@@ -152,10 +152,10 @@ n2141443262  null / null / Витьба
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2509211,30.3216108]
 n2157319057
-  other tags : highway=bus_stop
-    geometry : [55.3517371,30.0789219]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3517371,30.0789523]
 n2157319095
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.3524246,30.0786152]
 n2286020722  null / null / Белвитунифарм / Белвитунифарм
   other tags : bus=yes | highway=bus_stop | public_transport=platform
@@ -242,10 +242,10 @@ n2613143491
   other tags : highway=bus_stop
     geometry : [55.3133202,30.1024247]
 n2616455107  null / null / Сущёво
-  other tags : highway=bus_stop
-    geometry : [55.3400948,30.2357233]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3401005,30.2356710]
 n2616455680  null / null / Сущёво
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.3395097,30.2385514]
 n2617759804  null / null / Калиново
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
@@ -266,11 +266,8 @@ n2617760485  null / null / Лужесно
   other tags : highway=bus_stop
     geometry : [55.2578041,30.1346159]
 n2631398439  null / null / Верховье
-  other tags : highway=bus_stop
-    geometry : [55.2892757,30.2497658]
-n2631398444  null / null / Верховье
-  other tags : highway=bus_stop
-    geometry : [55.2901323,30.2522419]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2892757,30.2497200]
 n2633704257  null / null / Букатино
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [55.2655848,30.1574542]
@@ -416,8 +413,8 @@ n2849045932
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1167487,30.2155461]
 n2905815264
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.3603007,30.0304385]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3602966,30.0304672]
 n2914902434  null / null / Суйково
   other tags : highway=bus_stop
     geometry : [55.2345919,30.0906671]
@@ -532,6 +529,9 @@ n3184804335  null / null / Тригубцы
 n3184804336  null / null / Тригубцы
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.3185349,30.2436868]
+n3184809053  null / null / Верховье
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2901323,30.2522081]
 n3217072927
   other tags : highway=bus_stop
     geometry : [55.1034434,30.2394081]
@@ -616,3 +616,21 @@ n3688797079
 n3699564803
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.4161880,30.3303950]
+n3711240707  null / null / Верховье
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2935936,30.2491045]
+n3711240708  Герасімава / null / Герасимово / Герасимово
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3602300,30.0625999]
+n3711248820
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2906117,30.2507566]
+n3711249007
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3064823,30.2883446]
+n3711249010
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3073670,30.2907070]
+n3711249756
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3621971,30.0446471]

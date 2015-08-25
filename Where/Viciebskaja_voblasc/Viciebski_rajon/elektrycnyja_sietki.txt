@@ -5548,9 +5548,6 @@ n2143600232
 n2143600235
   other tags : power=pole
     geometry : [55.3484707,30.1053295]
-n2143600237
-  other tags : power=pole
-    geometry : [55.3487529,30.1058166]
 n2143600239
   other tags : power=pole
     geometry : [55.3491282,30.1049912]
@@ -5567,8 +5564,8 @@ n2143601709
   other tags : power=pole
     geometry : [55.2513387,30.6035821]
 n2143655074
-  other tags : power=pole
-    geometry : [55.3465442,30.1067701]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3465410,30.1067923]
 n2143779314
   other tags : power=pole
     geometry : [55.2518264,30.6069757]
@@ -8901,10 +8898,10 @@ n2808046912
     geometry : [55.2423232,30.1216890]
 n2808775935
   other tags : power=tower
-    geometry : [55.3562159,30.0883020]
+    geometry : [55.3562087,30.0883273]
 n2808775962
   other tags : power=tower
-    geometry : [55.3576141,30.0921835]
+    geometry : [55.3576356,30.0922129]
 n2810375635
   other tags : power=pole
     geometry : [55.2517910,30.1842218]
@@ -8978,20 +8975,20 @@ n2903313406
   other tags : power=tower
     geometry : [55.2696975,30.0986297]
 n2912237510
-  other tags : power=pole
-    geometry : [55.3541374,30.0853653]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3541612,30.0854072]
 n2912237521
-  other tags : power=pole
-    geometry : [55.3548544,30.0852266]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3548659,30.0852570]
 n2912237539
-  other tags : power=pole
-    geometry : [55.3557570,30.0870640]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3557628,30.0870944]
 n2912237547
-  other tags : power=pole
-    geometry : [55.3561261,30.0860835]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3561376,30.0861088]
 n2912237549
-  other tags : power=pole
-    geometry : [55.3561709,30.0849716]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3561824,30.0849969]
 n2922028606
   other tags : power=tower
     geometry : [55.1372853,30.2312226]
@@ -11198,8 +11195,8 @@ n3184812582
   other tags : power=pole
     geometry : [55.3133922,30.2436994]
 n3184813248
-  other tags : power=tower | structure=solid
-    geometry : [55.3487544,30.1058156]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3487589,30.1058430]
 n3184813336
   other tags : power=pole
     geometry : [55.3502629,30.1589279]
@@ -11219,8 +11216,8 @@ n3184813359
   other tags : power=pole
     geometry : [55.3508905,30.1628965]
 n3184813363
-  other tags : power=tower | structure=solid
-    geometry : [55.3509046,30.1048882]
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3509030,30.1049251]
 n3184813365
   other tags : power=pole
     geometry : [55.3509729,30.1550592]
@@ -11270,7 +11267,7 @@ n3184813408
   other tags : power=pole
     geometry : [55.3527113,30.1455675]
 n3184813410
-  other tags : power=tower | structure=solid
+  other tags : material=concrete | power=tower | structure=solid
     geometry : [55.3527368,30.1040990]
 n3184813417
   other tags : power=pole
@@ -12124,6 +12121,57 @@ n3633729972
 n3688880890
   other tags : power=pole
     geometry : [55.1863100,30.1133536]
+n3711249295
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3385049,30.1102810]
+n3711249324
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3408581,30.1092615]
+n3711249330
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3425380,30.1085335]
+n3711249338
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3444606,30.1077079]
+n3711249522
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3546252,30.1033140]
+n3711249594
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3568360,30.1023709]
+n3711249660
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3589349,30.1014568]
+n3711249662
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3589917,30.0957034]
+n3711249701
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3600346,30.0984837]
+n3711249730
+  other tags : material=metal | power=tower | structure=lattice
+    geometry : [55.3608354,30.1006381]
+n3711249767
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3629349,30.0997337]
+n3711249776
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3650281,30.0988351]
+n3711249789
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3671334,30.0979209]
+n3711249791
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3698425,30.0967571]
+n3711249792
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3719303,30.0958654]
+n3711249793
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3739704,30.0949853]
+n3711249794
+  other tags : material=concrete | power=tower | structure=solid
+    geometry : [55.3759842,30.0941209]
 w176278568
   other tags : power=line
     geometry : n1868254044[55.0042477,30.3045140] n1868254404[55.0041682,30.3041214] n1868254400[55.0037964,30.3022841] n1868254033[55.0037506,30.3020576]
@@ -12195,7 +12243,7 @@ w312611928
     geometry : n3184813459[55.3546178,30.1330492] n3184813460[55.3546910,30.1345909] n3184813457[55.3545135,30.1355984] n3184813449[55.3542592,30.1370113] n3184813445[55.3540469,30.1382698] n3184813438[55.3537981,30.1395347] n3184813433[55.3536083,30.1405493] n3184813431[55.3533650,30.1419103] n3184813426[55.3531468,30.1431149] n3184813417[55.3528943,30.1444957] n3184813408[55.3527113,30.1455675] n3184813402[55.3524203,30.1471221] n3184813396[55.3522154,30.1482743] n3184813386[55.3519830,30.1494878] n3184813383[55.3517360,30.1508718] n3184813376[55.3514761,30.1523330] n3184813369[55.3512584,30.1535175] n3184813365[55.3509729,30.1550592] n3184813357[55.3507405,30.1563466] n3184813347[55.3505008,30.1576469] n3184813336[55.3502629,30.1589279] n3184813343[55.3504385,30.1600094] n3184813353[55.3506581,30.1614192] n3184813359[55.3508905,30.1628965] n3184813368[55.3511146,30.1643026]
 w312611934
   other tags : power=line
-    geometry : n3184813248[55.3487544,30.1058156] n3184813363[55.3509046,30.1048882] n3184813410[55.3527368,30.1040990]
+    geometry : n3711249295[55.3385049,30.1102810] n3711249324[55.3408581,30.1092615] n3711249330[55.3425380,30.1085335] n3711249338[55.3444606,30.1077079] n2143655074[55.3465410,30.1067923] n3184813248[55.3487589,30.1058430] n3184813363[55.3509030,30.1049251] n3184813410[55.3527368,30.1040990] n3711249522[55.3546252,30.1033140] n3711249594[55.3568360,30.1023709] n3711249660[55.3589349,30.1014568] n3711249730[55.3608354,30.1006381]
 w313391724
   other tags : power=minor_line
     geometry : n3193514264[55.3060540,30.2883635] n3193514267[55.3063848,30.2891080] n3193514270[55.3067416,30.2899474] n3193514275[55.3071294,30.2908096] n3193514280[55.3074512,30.2915822] n3193514283[55.3078240,30.2923478] n3193514285[55.3080828,30.2929297] n3193514287[55.3083719,30.2935712] n3193514290[55.3087536,30.2943876] n3193514292[55.3091339,30.2952405] n3193514295[55.3095114,30.2960813] n3193514298[55.3098904,30.2969269] n3193514300[55.3102555,30.2977555] n3193514302[55.3106053,30.2985136]
@@ -12265,3 +12313,9 @@ w358454574
 w358454575
   other tags : power=minor_line
     geometry : n3633729966[55.2513542,30.1287228] n3633729967[55.2517402,30.1294512] n3633729968[55.2525051,30.1308493] n3633729969[55.2529261,30.1316059] n3633729970[55.2533136,30.1323471] n3633729971[55.2537390,30.1331088] n3633729972[55.2540944,30.1337861]
+w367174340
+  other tags : power=line
+    geometry : n3711249730[55.3608354,30.1006381] n3711249701[55.3600346,30.0984837] n3711249662[55.3589917,30.0957034] n2808775962[55.3576356,30.0922129] n2808775935[55.3562087,30.0883273] n2912237539[55.3557628,30.0870944]
+w367174348
+  other tags : power=line
+    geometry : n3711249794[55.3759842,30.0941209] n3711249793[55.3739704,30.0949853] n3711249792[55.3719303,30.0958654] n3711249791[55.3698425,30.0967571] n3711249789[55.3671334,30.0979209] n3711249776[55.3650281,30.0988351] n3711249767[55.3629349,30.0997337] n3711249730[55.3608354,30.1006381]

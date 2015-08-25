@@ -1,15 +1,15 @@
 n275173964
-  other tags : traffic_calming=bump
-    geometry : [55.3587433,30.0718376]
+  other tags : crossing=uncontrolled | crossing_ref=zebra | highway=crossing | traffic_calming=bump
+    geometry : [55.3587723,30.0718512]
 n306292833
   other tags : traffic_calming=bump
     geometry : [55.2347972,30.0903156]
 n334185615
   other tags : traffic_calming=bump
-    geometry : [55.3610289,30.0681904]
+    geometry : [55.3610430,30.0682504]
 n340008060
   other tags : traffic_calming=bump
-    geometry : [55.3387649,30.2392463]
+    geometry : [55.3387706,30.2392089]
 n340154385
   other tags : traffic_calming=bump
     geometry : [55.2427046,30.1170594]
@@ -48,7 +48,10 @@ n1157179865
     geometry : [55.2616314,30.3541400]
 n1317833020
   other tags : traffic_calming=bump
-    geometry : [55.3407862,30.2351796]
+    geometry : [55.3407902,30.2351549]
+n1786295842
+  other tags : traffic_calming=bump
+    geometry : [55.3566605,30.0740962]
 n1866836686
   other tags : traffic_calming=bump
     geometry : [55.2352694,30.0889891]
@@ -81,7 +84,7 @@ n2905815274
     geometry : [55.3605762,30.0597967]
 n2905815277
   other tags : traffic_calming=bump
-    geometry : [55.3606714,30.0326995]
+    geometry : [55.3604367,30.0311139]
 n2919480400
   other tags : traffic_calming=bump
     geometry : [55.1286661,30.2600694]
@@ -91,3 +94,12 @@ n2919480422
 n3633914696
   other tags : traffic_calming=bump
     geometry : [55.1354718,30.1500485]
+n3711248739
+  other tags : traffic_calming=bump
+    geometry : [55.2887860,30.2574181]
+n3711248749
+  other tags : traffic_calming=bump
+    geometry : [55.2889993,30.2555165]
+n3711249591
+  other tags : traffic_calming=bump
+    geometry : [55.3567597,30.0744325]

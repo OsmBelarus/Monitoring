@@ -475,9 +475,9 @@ n674060108  null / null / ПМК-25 / ПМК-25
 n674060109  Хладакамбінат / null / Хладокомбинат / Хладокомбинат
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2144212,30.2551375]
-n800107470
-  other tags : highway=bus_stop
-    geometry : [55.3010966,30.3050754]
+n800107470  Руба / null / Руба / Руба
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.3011027,30.3050430]
 n805027496  Праспект Перамогі / Praspiekt Pieramohi / Проспект Победы / Проспект Победы
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1623691,30.2223091]
@@ -529,7 +529,7 @@ n1206310719  Камбінат Віцьба / null / комбинат Витьб�
 n1210175477  ААТ Чырвоны кастрычнік / null / ОАО Красный Октябрь
   other tags : highway=bus_stop
     geometry : [55.2029084,30.2175746]
-n1210175493  ААТ «Чырвоны кастрычнік» / null / ОАО «Красный Октябрь»
+n1210175493  ААТ «Чырвоны кастрычнік» / null / ОАО «Красный Октябрь» / ОАО «Красный Октябрь»
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2034060,30.2175922]
 n1213058676
@@ -1120,10 +1120,10 @@ n2989721437
     geometry : [55.2037279,30.1823693]
 n3003935884  null / null / Руба-2
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.3105008,30.3100655]
+    geometry : [55.3105119,30.3101669]
 n3003937468  null / null / Руба-2
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.3107470,30.3103101]
+    geometry : [55.3107432,30.3102634]
 n3054618264  Плошча Свабоды / Plošča Svabody / Площадь Свободы
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
     geometry : [55.1925496,30.2075618]
@@ -1208,3 +1208,6 @@ n3652705204
 n3688797255
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2439526,30.2078061]
+n3711240709  null / null / Дальняя / Дальняя
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2197979,30.2421739]
