@@ -1,10 +1,10 @@
 n503677955
   other tags : highway=bus_stop
     geometry : [52.1379393,29.3148591]
-n674422625  Калінкавічы / null / Калинковичи / Калинковичи
+n674422625  Калінкавічы / null / ЖД вокзал Калинковичи / ЖД вокзал Калинковичи
   other names: name:lt=Kalinkavičai
-  other tags : highway=bus_stop
-    geometry : [52.1383214,29.3128296]
+  other tags : bench=yes | covered=yes | highway=bus_stop | shelter=yes
+    geometry : [52.1382814,29.3128580]
 n992374446  null / null / Город (Авт. №9, №201)
   other tags : highway=bus_stop
     geometry : [52.1232997,29.3346388]
@@ -62,3 +62,6 @@ n2592712698  null / null / Свердлова 31
 n2639662296
   other tags : bench=yes | highway=bus_stop | shelter=yes | tactile_paving=yes
     geometry : [52.1126988,29.3255451]
+n3711905386
+  other tags : highway=bus_stop
+    geometry : [52.1330803,29.3118275]
