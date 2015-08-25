@@ -1,5 +1,5 @@
 n306067368  Беларуснафта / Bielarusnafta / Белоруснефть / Белоруснефть
-  other tags : addr:street=159км дороги М6 Минск-Гродно | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 60-43-46 | ref=АЗС №74 | website=http://belorusneft.by/
+  other tags : addr:street=159км дороги М6 Минск-Гродно | amenity=fuel | description=159 км дороги М6 Минск-Гродно | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 60-43-46 | ref=АЗС №74 | website=http://belorusneft.by/
     geometry : [53.8301994,25.3630442]
 n436179617  Газпрамнафта / Hazpramnafta / Газпромнефть / Газпромнефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Газпромнефть-Белнефтепродукт | ref=АЗС №81 | website=http://gpnbonus.by/
@@ -10,15 +10,12 @@ n815566279  null / null / Лукойл
 n1263176004  null / null / АГНКС Лида
   other tags : amenity=fuel | fuel:lpg=yes | opening_hours=24/7 | operator=Белтрансгаз | phone=+375 154 54-01-11, +375 154 54-22-30 | website=http://metan.by/
     geometry : [53.8657492,25.2419132]
-n1376007274
-  other tags : amenity=fuel | opening_hours=10:00-18:00
+n1376007274  Беларуснафта / Bielarusnafta / Белоруснефть / Белоруснефть
+  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 57-53-05 | ref=АЗС №14 | website=http://belorusneft.by/
     geometry : [53.6493565,25.3094907]
 n3305629361  Газпрамнафта / Hazpramnafta / Газпромнефть / Газпромнефть
   other tags : addr:street=159км дороги М6 Минск-Гродно | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | fuel:octane_98=yes | opening_hours=24/7 | operator=Газпромнефть-Белнефтепродукт | ref=АЗС №4 | website=http://gpnbonus.by/
     geometry : [53.8286437,25.3751564]
-n3306260266  Беларуснафта №21 / Belorusneft №21 / Белоруснефть №21 / Белоруснефть №21
-  other tags : addr:street=173км дороги М6 Минск-Гродно (д. Цыборы) | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375-154-580325 | website=http://www.belorusneft.by/
-    geometry : [53.8436067,25.1818624]
 n3306548270  Беларуснафта / Bielarusnafta / Белоруснефть / Белоруснефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 54-75-95 | ref=АЗС №2 | website=http://belorusneft.by/
     geometry : [53.8701628,25.2553372]
@@ -26,7 +23,7 @@ n3306548271  Беларуснафта / Bielarusnafta / Белоруснефть
   other tags : amenity=fuel | fuel:lpg=yes | opening_hours=06:00-22:00 | operator=Белоруснефть | phone=+375 154 54-75-95 | ref=АЗС №2 | website=http://belorusneft.by/
     geometry : [53.8705571,25.2552950]
 n3384124209  Беларуснафта / Bielarusnafta / Белоруснефть / Белоруснефть
-  other tags : addr:street=Циборы | amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 58-03-25 | ref=АЗС №21 | website=http://belorusneft.by/
+  other tags : addr:street=Циборы | amenity=fuel | description=173 км дороги М6 Минск-Гродно | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 58-03-25 | ref=АЗС №21 | website=http://belorusneft.by/
     geometry : [53.8462802,25.1863856]
 n3677282169  null / null / АЗС Белоруснефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | website=http://belorusneft.by/
