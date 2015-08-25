@@ -31,9 +31,9 @@ n1428283750  null / null / Очистные Сооружения
 n1428283754  плошча Леніна / Plošča Lienina / площадь Ленина / площадь Ленина
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.6949780,31.7167705]
-n1428283757  Паліклініка / null / поликлиника / Поликлиника
+n1428283757  Паліклініка (канечны) / null / Поликлиника (конечная) / Поликлиника (конечная)
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [53.7379344,31.6859520]
+    geometry : [53.7372866,31.6861354]
 n1428283758  null / null / Пригородная
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.6706743,31.7192435]
@@ -142,3 +142,6 @@ n2499732057  null / null / СТО
 n2724066781  вуліца Чалюскіна / null / улица Челюскина / улица Челюскина
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [53.7381324,31.7042048]
+n3711843158  null / null / Автовокзал
+  other tags : highway=bus_stop
+    geometry : [53.7050780,31.7234305]
