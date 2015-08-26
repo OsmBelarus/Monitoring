@@ -2132,19 +2132,19 @@ w242211305  null / null / Печь обжига
   other tags : building=yes
     geometry : n2497250024[51.9404371,30.7872965] n2497250028[51.9403621,30.7875283] n2497250026[51.9400459,30.7872590] n2497250017[51.9401209,30.7870273] n2497250024[51.9404371,30.7872965]
 w242211306
-  other tags : addr:housenumber=1 | building=yes
+  other tags : addr:housenumber=1 | addr:street=переулок Пушкина | building=yes
     geometry : n2497250001[51.9396309,30.7802980] n2497250003[51.9396316,30.7802024] n2497250005[51.9397289,30.7802024] n2497250007[51.9397298,30.7802980] n2497250001[51.9396309,30.7802980]
 w242211307
-  other tags : addr:housenumber=2 | building=yes
+  other tags : addr:housenumber=2 | addr:street=переулок Пушкина | building=yes
     geometry : n2497249999[51.9395421,30.7801281] n2497249990[51.9394766,30.7801281] n2497249992[51.9394766,30.7803087] n2497249998[51.9395416,30.7803087] n2497249999[51.9395421,30.7801281]
 w242211308
-  other tags : addr:housenumber=3 | building=yes
+  other tags : addr:housenumber=3 | addr:street=переулок Пушкина | building=yes
     geometry : n2497250009[51.9397844,30.7808469] n2497250011[51.9398127,30.7806698] n2497250015[51.9398790,30.7806998] n2497250013[51.9398475,30.7808767] n2497250009[51.9397844,30.7808469]
 w242211309
-  other tags : addr:housenumber=4 | building=yes
+  other tags : addr:housenumber=4 | addr:street=переулок Пушкина | building=yes
     geometry : n2497249997[51.9395413,30.7805675] n2497250000[51.9395421,30.7806769] n2497249988[51.9394242,30.7806804] n2497249986[51.9394220,30.7805742] n2497249997[51.9395413,30.7805675]
 w242211310
-  other tags : addr:housenumber=6 | building=yes
+  other tags : addr:housenumber=6 | addr:street=переулок Пушкина | building=yes
     geometry : n2497249996[51.9395311,30.7808398] n2497249984[51.9394198,30.7807796] n2497249982[51.9393958,30.7808894] n2497249994[51.9395053,30.7809523] n2497249996[51.9395311,30.7808398]
 w242483148
   other tags : addr:housenumber=50 | addr:street=улица Шевелёва | building=yes
@@ -3224,7 +3224,7 @@ w301787571
   other tags : addr:housenumber=50 | addr:street=улица Фроленкова | building=yes
     geometry : n3059214707[51.9365332,30.7852941] n3059214706[51.9365114,30.7853640] n3059214708[51.9365776,30.7854203] n3059214710[51.9365991,30.7853507] n3059214707[51.9365332,30.7852941]
 w301787572
-  other tags : addr:housenumber=52 | addr:street=улица Фроленкова | building=yes
+  other tags : addr:housenumber=76 | addr:street=улица Фроленкова | building=yes
     geometry : n3059214714[51.9366747,30.7850499] n3059214711[51.9366103,30.7849809] n3059214709[51.9365897,30.7850388] n3059214712[51.9366535,30.7851072] n3059214714[51.9366747,30.7850499]
 w301787573
   other tags : addr:housenumber=54 | addr:street=улица Фроленкова | building=yes
@@ -4904,7 +4904,7 @@ w366474351
   other tags : addr:street=Солнечная улица | building=yes
     geometry : n3704520340[51.9311040,30.7770035] n3704520341[51.9311418,30.7771190] n3704520345[51.9312642,30.7770089] n3704520344[51.9312275,30.7768934] n3704520340[51.9311040,30.7770035]
 w366480897
-  other tags : addr:housenumber=10 | addr:street=Мележа | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Мележа | building=yes
     geometry : n3704586458[51.9325750,30.7776558] n3704586457[51.9325380,30.7775127] n3704586462[51.9326890,30.7774004] n3704586464[51.9327296,30.7775348] n3704586458[51.9325750,30.7776558]
 w366480898
   other tags : addr:housenumber=14 | addr:street=Новая улица | building=yes
@@ -4919,7 +4919,7 @@ w366480901
   other tags : addr:housenumber=19 | addr:street=Новая улица | building=yes
     geometry : n3704586459[51.9326112,30.7747471] n3704586465[51.9327497,30.7746654] n3704586466[51.9327749,30.7747790] n3704586460[51.9326364,30.7748594] n3704586459[51.9326112,30.7747471]
 w366480902
-  other tags : addr:housenumber=20 | addr:street=Мележа | building=yes
+  other tags : addr:housenumber=20 | addr:street=улица Мележа | building=yes
     geometry : n3704586454[51.9319228,30.7754362] n3704586453[51.9318894,30.7752919] n3704586455[51.9320630,30.7751836] n3704586456[51.9320986,30.7753352] n3704586454[51.9319228,30.7754362]
 w366480904
   other tags : addr:housenumber=20 | addr:street=Новая улица | building=yes
@@ -4928,7 +4928,7 @@ w366480905
   other tags : addr:housenumber=22 | addr:street=Новая улица | building=yes
     geometry : n3704586470[51.9329102,30.7746195] n3704586469[51.9328850,30.7744983] n3704586474[51.9330204,30.7744255] n3704586476[51.9330455,30.7745429] n3704586470[51.9329102,30.7746195]
 w366480906
-  other tags : addr:housenumber=8 | addr:street=Мележа | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Мележа | building=yes
     geometry : n3704586461[51.9326661,30.7779931] n3704586463[51.9326985,30.7781201] n3704586468[51.9328432,30.7780142] n3704586467[51.9328108,30.7778880] n3704586461[51.9326661,30.7779931]
 w366485276
   other tags : addr:housenumber=17 | addr:street=Луговая улица | building=yes
@@ -4958,7 +4958,7 @@ w366485291
   other tags : addr:housenumber=25 | addr:street=Луговая улица | building=yes
     geometry : n3704636719[51.9367008,30.7728802] n3704636720[51.9367066,30.7729919] n3704636710[51.9365803,30.7730042] n3704636709[51.9365759,30.7728941] n3704636719[51.9367008,30.7728802]
 w366485292
-  other tags : addr:housenumber=76 | addr:street=Фроленкова | building=yes
+  other tags : addr:housenumber=76 | addr:street=улица Фроленкова | building=yes
     geometry : n3704639046[51.9374852,30.7820152] n3704639045[51.9374545,30.7821123] n3704639047[51.9374889,30.7821427] n3704639049[51.9375204,30.7820431] n3704639046[51.9374852,30.7820152]
 w366485293
   other tags : addr:housenumber=78 | addr:street=Фроленкова | building=yes
@@ -4982,116 +4982,116 @@ w366485299
   other tags : addr:housenumber=90 | addr:street=Фроленкова | building=yes
     geometry : n3704639075[51.9382996,30.7792061] n3704639072[51.9382213,30.7794500] n3704639074[51.9382839,30.7795013] n3704639076[51.9383609,30.7792567] n3704639075[51.9382996,30.7792061]
 w366664944
-  other tags : addr:housenumber=1 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Шипилова | building=yes
     geometry : n3706544450[51.9404859,30.7790717] n3706544447[51.9404454,30.7791786] n3706544442[51.9403471,30.7790762] n3706544444[51.9403898,30.7789734] n3706544450[51.9404859,30.7790717]
 w366664945
-  other tags : addr:housenumber=10 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Шипилова | building=yes
     geometry : n3706544519[51.9413483,30.7769132] n3706544522[51.9414252,30.7769754] n3706544517[51.9413356,30.7772467] n3706544512[51.9412613,30.7771782] n3706544519[51.9413483,30.7769132]
 w366664946
-  other tags : addr:housenumber=11 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=11 | addr:street=улица Шипилова | building=yes
     geometry : n3706544499[51.9410485,30.7774933] n3706544496[51.9410101,30.7776034] n3706544483[51.9408947,30.7774906] n3706544490[51.9409354,30.7773803] n3706544499[51.9410485,30.7774933]
 w366664948
-  other tags : addr:housenumber=12 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Шипилова | building=yes
     geometry : n3706544520[51.9414083,30.7766932] n3706544523[51.9414843,30.7767534] n3706544527[51.9415616,30.7764904] n3706544524[51.9414877,30.7764301] n3706544520[51.9414083,30.7766932]
 w366664950
-  other tags : addr:housenumber=13 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=13 | addr:street=улица Шипилова | building=yes
     geometry : n3706544507[51.9411600,30.7771645] n3706544500[51.9410502,30.7770631] n3706544497[51.9410147,30.7771617] n3706544505[51.9411296,30.7772631] n3706544507[51.9411600,30.7771645]
 w366664952
-  other tags : addr:housenumber=14 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Шипилова | building=yes
     geometry : n3706544531[51.9416313,30.7759697] n3706544534[51.9417056,30.7757204] n3706544538[51.9417799,30.7757861] n3706544535[51.9417056,30.7760328] n3706544531[51.9416313,30.7759697]
 w366664953
-  other tags : addr:housenumber=15 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Шипилова | building=yes
     geometry : n3706544514[51.9412647,30.7768384] n3706544506[51.9411583,30.7767397] n3706544504[51.9411245,30.7768357] n3706544511[51.9412314,30.7769364] n3706544514[51.9412647,30.7768384]
 w366664955
-  other tags : addr:housenumber=16 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=16 | addr:street=улица Шипилова | building=yes
     geometry : n3706544537[51.9417576,30.7754988] n3706544540[51.9418214,30.7755524] n3706544543[51.9418836,30.7753511] n3706544541[51.9418224,30.7753007] n3706544537[51.9417576,30.7754988]
 w366664956
-  other tags : addr:housenumber=17 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Шипилова | building=yes
     geometry : n3706544518[51.9413375,30.7766287] n3706544521[51.9414100,30.7763753] n3706544516[51.9413342,30.7763210] n3706544513[51.9412630,30.7765781] n3706544518[51.9413375,30.7766287]
 w366664957
-  other tags : addr:housenumber=19 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Шипилова | building=yes
     geometry : n3706544529[51.9416262,30.7756546] n3706544528[51.9415637,30.7758601] n3706544525[51.9414928,30.7758026] n3706544526[51.9415546,30.7755967] n3706544529[51.9416262,30.7756546]
 w366664958
-  other tags : addr:housenumber=2 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Шипилова | building=yes
     geometry : n3706544453[51.9405282,30.7792388] n3706544459[51.9406059,30.7793183] n3706544466[51.9407140,30.7790361] n3706544460[51.9406356,30.7789573] n3706544453[51.9405282,30.7792388]
 w366664959
-  other tags : addr:housenumber=21 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Шипилова | building=yes
     geometry : n3706544533[51.9416909,30.7754370] n3706544536[51.9417527,30.7752424] n3706544532[51.9416899,30.7751905] n3706544530[51.9416295,30.7753893] n3706544533[51.9416909,30.7754370]
 w366664960
-  other tags : addr:housenumber=23 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=23 | addr:street=улица Шипилова | building=yes
     geometry : n3706544547[51.9419845,30.7746768] n3706544544[51.9418896,30.7745918] n3706544542[51.9418605,30.7746767] n3706544546[51.9419544,30.7747608] n3706544547[51.9419845,30.7746768]
 w366664961
-  other tags : addr:housenumber=3 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Шипилова | building=yes
     geometry : n3706544456[51.9405924,30.7787812] n3706544451[51.9404978,30.7786661] n3706544448[51.9404538,30.7787620] n3706544454[51.9405470,30.7788783] n3706544456[51.9405924,30.7787812]
 w366664962
-  other tags : addr:housenumber=4 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Шипилова | building=yes
     geometry : n3706544468[51.9407207,30.7787483] n3706544478[51.9408272,30.7784688] n3706544484[51.9408981,30.7785456] n3706544474[51.9407883,30.7788251] n3706544468[51.9407207,30.7787483]
 w366664963
-  other tags : addr:housenumber=5 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Шипилова | building=yes
     geometry : n3706544469[51.9407292,30.7784168] n3706544461[51.9406363,30.7783044] n3706544458[51.9405957,30.7783976] n3706544464[51.9406887,30.7785099] n3706544469[51.9407292,30.7784168]
 w366664964
-  other tags : addr:housenumber=6 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=6 | addr:street=улица Шипилова | building=yes
     geometry : n3706544495[51.9410041,30.7779580] n3706544487[51.9409167,30.7782003] n3706544493[51.9409893,30.7782661] n3706544501[51.9410755,30.7780249] n3706544495[51.9410041,30.7779580]
 w366664965
-  other tags : addr:housenumber=7 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Шипилова | building=yes
     geometry : n3706544481[51.9408491,30.7781071] n3706544472[51.9407478,30.7780003] n3706544465[51.9407106,30.7780962] n3706544476[51.9408103,30.7782014] n3706544481[51.9408491,30.7781071]
 w366664966
-  other tags : addr:housenumber=8 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=8 | addr:street=улица Шипилова | building=yes
     geometry : n3706544515[51.9412793,30.7774763] n3706544510[51.9411937,30.7773947] n3706544502[51.9410958,30.7776933] n3706544509[51.9411802,30.7777701] n3706544515[51.9412793,30.7774763]
 w366664968
-  other tags : addr:housenumber=9 | addr:street=Шипилова | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Шипилова | building=yes
     geometry : n3706544491[51.9409484,30.7778177] n3706544486[51.9409128,30.7779158] n3706544475[51.9408001,30.7778030] n3706544479[51.9408356,30.7777071] n3706544491[51.9409484,30.7778177]
 w366664969
-  other tags : addr:housenumber=21 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=21 | addr:street=улица Пушкина | building=yes
     geometry : n3706544102[51.9393099,30.7787480] n3706544106[51.9393912,30.7787712] n3706544104[51.9393601,30.7790037] n3706544100[51.9392789,30.7789766] n3706544102[51.9393099,30.7787480]
 w366664971
-  other tags : addr:housenumber=5 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=5 | addr:street=улица Пушкина | building=yes
     geometry : n3706544477[51.9408262,30.7797253] n3706544471[51.9407462,30.7796536] n3706544463[51.9406638,30.7798958] n3706544470[51.9407450,30.7799695] n3706544477[51.9408262,30.7797253]
 w366664972
-  other tags : addr:housenumber=6 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=6 | addr:street=улица Пушкина | building=yes
     geometry : n3706544122[51.9396628,30.7786712] n3706544123[51.9396795,30.7785201] n3706544117[51.9395099,30.7784678] n3706544116[51.9394931,30.7786209] n3706544122[51.9396628,30.7786712]
 w366664973
-  other tags : addr:housenumber=15 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=15 | addr:street=улица Пушкина | building=yes
     geometry : n3706544121[51.9398975,30.7789904] n3706544425[51.9399715,30.7790175] n3706544124[51.9399393,30.7792403] n3706544120[51.9398652,30.7792113] n3706544121[51.9398975,30.7789904]
 w366664974
-  other tags : addr:housenumber=3 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=3 | addr:street=улица Пушкина | building=yes
     geometry : n3706544494[51.9409982,30.7798958] n3706544488[51.9409170,30.7801245] n3706544480[51.9408382,30.7800566] n3706544489[51.9409182,30.7798261] n3706544494[51.9409982,30.7798958]
 w366664975
-  other tags : addr:housenumber=5 | addr:street=пер. Пушкина | building=yes
+  other tags : addr:housenumber=5 | addr:street=переулок Пушкина | building=yes
     geometry : n3706544452[51.9405192,30.7811301] n3706544455[51.9405658,30.7809460] n3706544445[51.9403962,30.7808375] n3706544443[51.9403532,30.7810158] n3706544452[51.9405192,30.7811301]
 w366664976
-  other tags : addr:housenumber=17 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=17 | addr:street=улица Пушкина | building=yes
     geometry : n3706544115[51.9396575,30.7789151] n3706544119[51.9397280,30.7789384] n3706544118[51.9396993,30.7791593] n3706544114[51.9396288,30.7791341] n3706544115[51.9396575,30.7789151]
 w366664977
-  other tags : addr:housenumber=7 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=7 | addr:street=улица Пушкина | building=yes
     geometry : n3706544449[51.9404775,30.7793512] n3706544462[51.9406447,30.7795156] n3706544457[51.9405924,30.7796554] n3706544446[51.9404262,30.7794842] n3706544449[51.9404775,30.7793512]
 w366664978
-  other tags : addr:housenumber=9 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=9 | addr:street=улица Пушкина | building=yes
     geometry : n3706544441[51.9403317,30.7792516] n3706544439[51.9401907,30.7791482] n3706544438[51.9401517,30.7792848] n3706544440[51.9402920,30.7793867] n3706544441[51.9403317,30.7792516]
 w366664979
-  other tags : addr:housenumber=1 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=1 | addr:street=улица Пушкина | building=yes
     geometry : n3706544508[51.9411750,30.7803957] n3706544498[51.9410269,30.7802524] n3706544492[51.9409708,30.7804054] n3706544503[51.9411153,30.7805527] n3706544508[51.9411750,30.7803957]
 w366664980
-  other tags : addr:housenumber=7 | addr:street=пер. Пушкина | building=yes
+  other tags : addr:housenumber=7 | addr:street=переулок Пушкина | building=yes
     geometry : n3706544485[51.9409051,30.7812095] n3706544482[51.9408597,30.7813529] n3706544467[51.9407187,30.7812328] n3706544473[51.9407629,30.7810914] n3706544485[51.9409051,30.7812095]
 w366664981
-  other tags : addr:housenumber=14 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=14 | addr:street=улица Пушкина | building=yes
     geometry : n3706544096[51.9390320,30.7784271] n3706544097[51.9390667,30.7782043] n3706544095[51.9389783,30.7781771] n3706544094[51.9389460,30.7783922] n3706544096[51.9390320,30.7784271]
 w366664983
-  other tags : addr:housenumber=4 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=4 | addr:street=улица Пушкина | building=yes
     geometry : n3706544430[51.9399100,30.7787662] n3706544431[51.9399303,30.7786015] n3706544427[51.9397488,30.7785472] n3706544426[51.9397296,30.7787061] n3706544430[51.9399100,30.7787662]
 w366664984
-  other tags : addr:housenumber=19 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=19 | addr:street=улица Пушкина | building=yes
     geometry : n3706544110[51.9394652,30.7787939] n3706544113[51.9395417,30.7788190] n3706544112[51.9395106,30.7790380] n3706544108[51.9394330,30.7790109] n3706544110[51.9394652,30.7787939]
 w366664985
-  other tags : addr:housenumber=10 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=10 | addr:street=улица Пушкина | building=yes
     geometry : n3706544109[51.9393187,30.7785433] n3706544111[51.9393474,30.7783147] n3706544107[51.9392733,30.7782953] n3706544105[51.9392470,30.7785201] n3706544109[51.9393187,30.7785433]
 w366664986
-  other tags : addr:housenumber=12 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=12 | addr:street=улица Пушкина | building=yes
     geometry : n3706544101[51.9391802,30.7784968] n3706544103[51.9392112,30.7782721] n3706544099[51.9391300,30.7782449] n3706544098[51.9390989,30.7784658] n3706544101[51.9391802,30.7784968]
 w366664987
-  other tags : addr:housenumber=2 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Пушкина | building=yes
     geometry : n3706544436[51.9400976,30.7788417] n3706544434[51.9400068,30.7788030] n3706544435[51.9400522,30.7785085] n3706544437[51.9401453,30.7785472] n3706544436[51.9400976,30.7788417]
 w366670436
-  other tags : addr:housenumber=23 | addr:street=Пушкина | building=yes
+  other tags : addr:housenumber=23 | addr:street=улица Пушкина | building=yes
     geometry : n3706595928[51.9392340,30.7786690] n3706595926[51.9391597,30.7786443] n3706595925[51.9391326,30.7788444] n3706595927[51.9392120,30.7788745] n3706595928[51.9392340,30.7786690]
