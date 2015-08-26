@@ -11,9 +11,6 @@ n1186367360  null / null / Ивацевичская ЦРБ
 n1186367393  null / null / Ивацевичский РОВД
   other tags : amenity=police
     geometry : [52.7133859,25.3488440]
-n1186367397  Гасцініца / null / Гостиница / Гостиница
-  other tags : tourism=hotel
-    geometry : [52.7093945,25.3395712]
 n1365412653  Івацэвічы / Ivacevičy / Ивацевичи / Ивацевичи
   other tags : height=155.6 | man_made=monitoring_station | ref=26938 | source=http://weather.gladstonefamily.net | website=http://meteoinfo.by/meteostation/?page=26
     geometry : [52.7162877,25.3503398]
@@ -56,6 +53,9 @@ n3685308807  null / null / Детская поликлиника
 n3685308808  null / null / РПО ЖКХ
   other tags : 
     geometry : [52.7164663,25.3445090]
+n3713588242  null / null / РИК Ивацевичи
+  other tags : 
+    geometry : [52.7093949,25.3394178]
 w275709634
   other tags : landuse=industrial
     geometry : n2803759811[52.7099260,25.3152120] n2803759814[52.7101911,25.3161462] n2803759812[52.7100330,25.3168701] n2803759810[52.7095231,25.3164324] n2803759809[52.7092886,25.3159106] n2803759811[52.7099260,25.3152120]
