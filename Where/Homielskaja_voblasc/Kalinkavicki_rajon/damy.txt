@@ -1,17 +1,17 @@
 w248989730
-  other tags : addr:housenumber=10 | building=house
+  other tags : addr:housenumber=10 | addr:street=улица Шоссейная | building=house
     geometry : n2556934256[52.1562669,29.2943053] n2556934255[52.1562357,29.2944421] n2556934253[52.1561516,29.2943913] n2556934254[52.1561827,29.2942544] n2556934256[52.1562669,29.2943053]
 w248989731
-  other tags : addr:housenumber=12 | building=house
+  other tags : addr:housenumber=12 | addr:street=улица Шоссейная | building=house
     geometry : n2556934261[52.1563560,29.2938876] n2556934260[52.1563296,29.2940271] n2556934257[52.1562438,29.2939838] n2556934258[52.1562703,29.2938444] n2556934261[52.1563560,29.2938876]
 w248989733
-  other tags : addr:housenumber=2 | building=house
+  other tags : addr:housenumber=2 | addr:street=улица Шоссейная | building=house
     geometry : n2556934240[52.1559399,29.2957860] n2556934238[52.1559109,29.2959241] n2556934235[52.1558259,29.2958767] n2556934236[52.1558549,29.2957386] n2556934240[52.1559399,29.2957860]
 w248989734
-  other tags : addr:housenumber=6 | building=house
+  other tags : addr:housenumber=6 | addr:street=улица Шоссейная | building=house
     geometry : n2556934247[52.1560880,29.2950889] n2556934245[52.1560590,29.2952269] n2556934241[52.1559740,29.2951796] n2556934243[52.1560029,29.2950416] n2556934247[52.1560880,29.2950889]
 w248989735
-  other tags : addr:housenumber=8 | building=house
+  other tags : addr:housenumber=8 | addr:street=улица Шоссейная | building=house
     geometry : n2556934252[52.1561852,29.2947202] n2556934251[52.1561549,29.2948575] n2556934248[52.1560704,29.2948078] n2556934250[52.1561008,29.2946706] n2556934252[52.1561852,29.2947202]
 w249525717
   other tags : addr:housenumber=19 | addr:street=Полевая улица | building=house
@@ -383,10 +383,10 @@ w287068768
   other tags : addr:housenumber=5 | building=house
     geometry : n2907281985[52.3366579,29.4032222] n2907281990[52.3367226,29.4032216] n2907281989[52.3367223,29.4031463] n2907281992[52.3367618,29.4031458] n2907281991[52.3367612,29.4030271] n2907281984[52.3366570,29.4030285] n2907281985[52.3366579,29.4032222]
 w291921631
-  other tags : addr:housenumber=14 | building=house
+  other tags : addr:housenumber=14 | addr:street=улица Шоссейная | building=house
     geometry : n2954277373[52.1563647,29.2935905] n2954277372[52.1563633,29.2937365] n2954277370[52.1562735,29.2937339] n2954277371[52.1562750,29.2935880] n2954277373[52.1563647,29.2935905]
 w291921633
-  other tags : addr:housenumber=4 | building=house
+  other tags : addr:housenumber=4 | addr:street=улица Шоссейная | building=house
     geometry : n2954277369[52.1560122,29.2954649] n2954277368[52.1559833,29.2956030] n2954277366[52.1558983,29.2955556] n2954277367[52.1559273,29.2954175] n2954277369[52.1560122,29.2954649]
 w292278750
   other tags : addr:housenumber=1 | addr:street=Кольцевая улица | building=house
@@ -416,13 +416,13 @@ w292278758
   other tags : addr:housenumber=3 | addr:street=Кольцевая улица | building=house
     geometry : n2958286289[52.1535173,29.2978563] n2958286285[52.1534543,29.2976846] n2958286277[52.1533282,29.2978063] n2958286282[52.1533913,29.2979780] n2958286289[52.1535173,29.2978563]
 w292278759
-  other tags : addr:housenumber=31 | addr:street=переулок Дружбы | building=house
+  other tags : addr:housenumber=31 | addr:street=1-й переулок Дружбы | building=house
     geometry : n2958286261[52.1510270,29.2932055] n2958286257[52.1509317,29.2930796] n2958286256[52.1508552,29.2932334] n2958286258[52.1509505,29.2933593] n2958286261[52.1510270,29.2932055]
 w292278760
-  other tags : addr:housenumber=32 | addr:street=переулок Дружбы | building=house
+  other tags : addr:housenumber=32 | addr:street=1-й переулок Дружбы | building=house
     geometry : n2958286266[52.1511204,29.2935988] n2958286265[52.1510810,29.2934095] n2958286259[52.1509659,29.2934732] n2958286260[52.1510054,29.2936625] n2958286266[52.1511204,29.2935988]
 w292278761
-  other tags : addr:housenumber=34 | addr:street=переулок Дружбы | building=house
+  other tags : addr:housenumber=34 | addr:street=1-й переулок Дружбы | building=house
     geometry : n2958286269[52.1511907,29.2939622] n2958286268[52.1511547,29.2937711] n2958286262[52.1510386,29.2938292] n2958286264[52.1510746,29.2940203] n2958286269[52.1511907,29.2939622]
 w292278762
   other tags : addr:housenumber=4 | addr:street=Кольцевая улица | building=house
