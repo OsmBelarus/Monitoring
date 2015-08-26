@@ -13037,14 +13037,14 @@ n3711249018
     geometry : [55.3095399,30.3071387]
 n3711893341  Дабрачынны цэнтр "Карытас" / null / Благотворительный центр "Каритас"
   other names: name:cs=Charitativní centrum "Caritas" | name:de=Charitable Zentrum "Caritas" | name:en=Charitable center "Caritas" | name:es=Centro de caridad "Caritas" | name:fr=Centre de bienfaisance «Caritas» | name:it=Caritatevoli centro "Caritas" | name:pl=Charytatywne Centrum "Caritas"
-  other tags : addr:housenumber=46А | addr:street=улица Гагарина | amenity=social_facility | social_facility:for=underprivileged | wheelchair=yes
+  other tags : amenity=social_facility | social_facility:for=underprivileged | wheelchair=yes
     geometry : [55.2104014,30.2237924]
 n3711909104  Сталовая для бяздомных / null / Столовая для бездомных
   other tags : amenity=social_facility | opening_hours=В зимний период, ежедневно, кроме субботы и воскресенья, в 14-00 | operator=Католический центр "Каритас" | social_facility=food_bank | social_facility:for=underprivileged | wheelchair=yes
     geometry : [55.2105288,30.2235720]
 n3711918895  група Ананімных Алкаголікаў "Адраджэнне" / null / группа Анонимных Алкоголиков "Возрождение"
   other names: name:en=AA group "Revival"
-  other tags : amenity=social_facility | opening_hours=вторник, пятница:19-00; воскресенье: 15-00 | social_facility:for=drug_addicted | wheelchair=yes
+  other tags : addr:housenumber=46А | addr:street=улица Гагарина | amenity=social_facility | opening_hours=вторник, пятница:19-00; воскресенье: 15-00 | social_facility:for=drug_addicted | wheelchair=yes
     geometry : [55.2104919,30.2236354]
 n3711934880  Дабрачыннае каталіцкае таварыства "Карытас" / null / Благотворительное католическое общество "Каритас"
   other names: name:cs=Charitativní Katolická společnost "Caritas" | name:de=Charitable Gesellschaft katholische "Caritas" | name:en=Charitable Catholic Society "Caritas" | name:fr=Bienfaisance société catholique «Caritas» | name:pl=Towarzystwa Dobroczynności katolicka "Caritas"
