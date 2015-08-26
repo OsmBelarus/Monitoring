@@ -82,12 +82,6 @@ n1825039898  null / null / Куковячино
 n1825039936  null / null / Куковячино
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1541129,30.0118561]
-n1842886211
-  other tags : highway=bus_stop
-    geometry : [55.3093513,30.1043188]
-n1842886214
-  other tags : highway=bus_stop
-    geometry : [55.3093855,30.1045230]
 n1862707941
   other tags : highway=bus_stop | natural=Кузнецово | public_transport=platform | shelter=yes
     geometry : [55.2203832,29.9977595]
@@ -236,11 +230,11 @@ n2613121053
   other tags : highway=bus_stop
     geometry : [55.3325854,30.0919088]
 n2613143490
-  other tags : highway=bus_stop
-    geometry : [55.3125579,30.1025130]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3125682,30.1025431]
 n2613143491
-  other tags : highway=bus_stop
-    geometry : [55.3133202,30.1024247]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.3133339,30.1024728]
 n2616455107  null / null / Сущёво
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.3401005,30.2356710]
