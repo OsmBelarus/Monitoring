@@ -416,8 +416,8 @@ n674059981  Віцебсклес / null / Витебсклес
   other tags : highway=bus_stop
     geometry : [55.2122378,30.1396234]
 n674060016  Сівакова / null / Сивакова
-  other tags : highway=bus_stop
-    geometry : [55.2046856,30.1622635]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2046923,30.1622167]
 n674060021  Аблваенкамат / null / Облвоенкомат / Облвоенкомат
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2028792,30.1732468]
@@ -780,8 +780,8 @@ n2372623507
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1556168,30.2116484]
 n2401073553  Сівакова / null / Сивакова
-  other tags : highway=bus_stop
-    geometry : [55.2044023,30.1626791]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2043979,30.1626401]
 n2402040960  null / null / Драмтеатр им. Якуба Коласа
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1927489,30.2034255]
@@ -943,10 +943,10 @@ n2731802528  39-й Арміі вул. / null / Улица 39-й Армии / У�
     geometry : [55.1677223,30.1298254]
 n2749826443  null / null / 12-я Бебеля
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1830151,30.1599468]
+    geometry : [55.1830025,30.1600098]
 n2751843046  null / null / 12-я Бебеля
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.1817065,30.1572199]
+    geometry : [55.1816921,30.1572419]
 n2755029766  null / null / Билево-2
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1679134,30.2768765]
@@ -1021,7 +1021,7 @@ n2917557472
     geometry : [55.1613026,30.1752606]
 n2918006566
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.1942810,30.1443034]
+    geometry : [55.1942734,30.1443791]
 n2932271046  null / null / Предприятие «Белвитунифарм»
   other tags : highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1961906,30.2520768]
@@ -1194,16 +1194,16 @@ n3652705200
   other tags : highway=bus_stop
     geometry : [55.1859849,30.1675372]
 n3652705201  null / null / 9-ая Бебеля
-  other tags : highway=bus_stop
-    geometry : [55.1848103,30.1645251]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1848041,30.1645359]
 n3652705202  null / null / 9-ая Бебеля
-  other tags : highway=bus_stop
-    geometry : [55.1843884,30.1638251]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1843637,30.1638756]
 n3652705203
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1806919,30.1535214]
 n3652705204
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1806666,30.1539323]
 n3688797255
   other tags : highway=bus_stop | public_transport=platform
@@ -1211,3 +1211,6 @@ n3688797255
 n3711240709  null / null / Дальняя / Дальняя
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2197979,30.2421739]
+n3712689753
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1940978,30.1423448]

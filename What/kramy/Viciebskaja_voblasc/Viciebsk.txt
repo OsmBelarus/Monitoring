@@ -1637,7 +1637,7 @@ n2078208362  null / null / Витебские продукты № 33
   other tags : contact:phone=+375 (212) 26-12-66 | contact:website=http://www.vitprod.by/index.php | opening_hours=Mo-Su 08:00-21:00 | operator=ОАО «Витебские продукты» | shop=convenience
     geometry : [55.1898617,30.2447690]
 n2078690915
-  other tags : phone=+375333273330 | ref=316 | service:bicycle:repair=yes | shop=bicycle
+  other tags : contact:phone=+375(33) 327-33-30 | ref=316 | service:bicycle:repair=yes | service:bicycle:second_hand=yes | shop=bicycle
     geometry : [55.1858862,30.2517891]
 n2078743070  null / null / Шиномонтаж
   other tags : service=tyres | shop=car_repair
@@ -2205,7 +2205,7 @@ n2551916745  null / null / Фолиант
     geometry : [55.1907679,30.2048878]
 n2551977439  null / null / Продукты
   other tags : shop=convenience
-    geometry : [55.1807484,30.1534212]
+    geometry : [55.1807459,30.1534881]
 n2553829018
   other tags : opening_hours=Mo-Fr 09:00-19:00 | phone=+375-212-232375 | shop=car_parts | website=http://www.aps-vitebsk.by/
     geometry : [55.2274828,30.2611259]
@@ -3524,3 +3524,9 @@ n3707403927  null / null / Дом Красоты
 n3707403928  null / null / Товары для животных
   other tags : description=также ветеринарная аптека | opening_hours=Tu-Fr 10:00-14:00,15:00-19:00; Sa 10:00-16:00 | operator=ОДО «Вита-Вет» | shop=pet
     geometry : [55.1660169,30.2614344]
+n3712687304  null / null / Печка
+  other tags : contact:email=pechka.vitebsk@mail.ru | contact:phone=+375(29) 713-77-07 | contact:website=http://pechka-vek.by/ | description=камины, печи для бани | opening_hours=Tu-Fr 10:00-19:00; Sa,Su 10:00-17:00 | operator=ИП Беляев С.Н. | shop=furnace
+    geometry : [55.2084888,30.1478198]
+n3712687306  null / null / Шиномонтаж
+  other tags : opening_hours=Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00 | service=tyres | shop=car_repair
+    geometry : [55.1937007,30.1452115]
