@@ -165,11 +165,11 @@ n306067642
 n306067645
   other tags : man_made=tower
     geometry : [53.7973900,25.2380000]
-n306067651  null / null / братское захаронение
-  other tags : tourism=обелиск
+n306067651
+  other tags : historic=memorial | memorial=war_memorial
     geometry : [53.8916315,25.2492213]
 n306067652
-  other tags : historic=monument | man_made=obelisk | tourism=viewpoint
+  other tags : historic=memorial | memorial=war_memorial
     geometry : [53.8952353,25.2487922]
 n306067662
   other tags : man_made=tower
@@ -646,6 +646,12 @@ n3610665002
 n3610676463
   other tags : bridge=yes
     geometry : [53.7501974,25.4586154]
+n3714712030  Ліда 1323 / null / Лида 1323
+  other tags : historic=memorial | memorial=stele
+    geometry : [53.8617010,25.2277876]
+n3714712031
+  other tags : historic=memorial | memorial=war_memorial
+    geometry : [53.8918168,25.2500392]
 w25139794
   other tags : admin_level=8 | boundary=administrative
     geometry : n273956290[53.9176400,25.5390900] n273956292[53.9160900,25.5377200] n273956293[53.9146300,25.5402100] n273956295[53.9154900,25.5420100] n273956297[53.9167800,25.5422700] n273956290[53.9176400,25.5390900]
