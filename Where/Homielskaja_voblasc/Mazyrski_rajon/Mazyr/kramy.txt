@@ -24,7 +24,7 @@ n674418147  null / null / Сто
     geometry : [52.0477700,29.2121300]
 n674418416
   other tags : shop=convenience
-    geometry : [52.0405400,29.2157800]
+    geometry : [52.0407164,29.2157832]
 n674419910  null / null / Санта / Санта
   other tags : shop=convenience
     geometry : [52.0400142,29.2717947]
@@ -299,8 +299,8 @@ n3193015553  null / null / Текстиль
 n3224886555  null / null / Надэкс
   other tags : addr:housenumber=49 | addr:street=Пролетарская улица | shop=clothes
     geometry : [52.0512336,29.2443064]
-n3224886556  null / null / Мир мебели
-  other tags : addr:housenumber=47 | addr:street=Пролетарская улица | shop=furniture
+n3224886556  null / null / Atlant-Gefest
+  other tags : addr:housenumber=47 | addr:street=Пролетарская улица | shop=electronics
     geometry : [52.0519164,29.2448643]
 n3227912919  null / null / Пари-матч
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=bookmaker
@@ -415,10 +415,10 @@ n3260037087  null / null / Ами-мебель
     geometry : [52.0460361,29.2643983]
 n3260037092  null / null / Ритуальные услуги
   other tags : addr:housenumber=85 | addr:street=Пролетарская улица | shop=funeral_directors
-    geometry : [52.0457333,29.2364819]
+    geometry : [52.0458841,29.2366384]
 n3260037093  null / null / Спорттовары
   other tags : addr:housenumber=85 | addr:street=Пролетарская улица | shop=sports
-    geometry : [52.0458191,29.2365838]
+    geometry : [52.0456917,29.2362859]
 n3260037094  null / null / Гранит
   other tags : addr:housenumber=4А | addr:street=Швейный переулок | shop=funeral_directors
     geometry : [52.0513418,29.2424042]
@@ -486,3 +486,15 @@ n3524850510  null / null / Оптика
 n3525964868  null / null / Колибри
   other tags : addr:housenumber=34 | addr:street=Ленинская улица | shop=cosmetics
     geometry : [52.0455241,29.2587453]
+n3717092525  null / null / Мебель
+  other tags : addr:housenumber=87 | addr:street=Пролетарская улица | shop=furniture
+    geometry : [52.0452189,29.2353538]
+n3717092526  null / null / Оптика
+  other tags : addr:housenumber=83 | addr:street=Пролетарская улица | shop=optician
+    geometry : [52.0460686,29.2369929]
+n3717092527  null / null / Штофф
+  other tags : addr:housenumber=83 | addr:street=Пролетарская улица | shop=wine
+    geometry : [52.0463833,29.2375758]
+n3717092603  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [52.0405957,29.2154478]
