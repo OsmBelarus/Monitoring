@@ -2139,9 +2139,6 @@ n492041222  null / null / Минимаг
 n492041226  500 дробязяў / null / 500 мелочей / 500 мелочей
   other tags : shop=kiosk
     geometry : [53.9070345,27.5887117]
-n493124034  Валгаград / null / Рублевский / Волгоград
-  other tags : addr:housenumber=40 к2 | addr:street=проспект Газеты «Правда» | shop=supermarket
-    geometry : [53.8616182,27.4770483]
 n493130773  null / null / Насенне
   other tags : operator=Минсксортсемовощ, ОАО | shop=garden_centre
     geometry : [53.8646906,27.4812626]
@@ -6835,7 +6832,7 @@ n2618464598  null / null / Магазин спортивной одежды
     geometry : [53.8924283,27.5668947]
 n2618472419  null / null / Мила
   other tags : shop=cosmetics
-    geometry : [53.8657969,27.4764565]
+    geometry : [53.8657712,27.4765367]
 n2618472424  null / null / Чистка подушек
   other tags : shop=dry_cleaning
     geometry : [53.8649036,27.4694339]
@@ -6843,10 +6840,10 @@ n2618472440  Цырульня / null / парикмахерская
   other tags : shop=hairdresser
     geometry : [53.8645366,27.4723843]
 n2618472446  null / null / Лондон
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.8711855,27.4733714]
 n2618472449  null / null / бытовой дискаунтер
-  other tags : shop=yes
+  other tags : shop=chemist
     geometry : [53.8710021,27.4738327]
 n2618472451  null / null / цветы
   other tags : shop=yes
@@ -10262,9 +10259,6 @@ n3282467130  null / null / Yves Rocher
 n3282916505  null / null / Adidas, Reebok
   other tags : addr:housenumber=36 | addr:postcode=220012 | addr:street=улица Якуба Коласа | shop=sports
     geometry : [53.9280243,27.5965549]
-n3283849673  null / null / "Юго-Запад"
-  other tags : shop=supermarket
-    geometry : [53.8682390,27.4841022]
 n3283852985  null / null / Мила
   other tags : addr:housenumber=20 | addr:postcode=220116 | addr:street=проспект Газеты Правда | shop=cosmetics
     geometry : [53.8676576,27.4840837]

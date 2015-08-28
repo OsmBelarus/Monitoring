@@ -143,8 +143,8 @@ n305675020  null / null / Pizza Smile / Пицца Смайл
 n305675082  Рэстаран "Батыскаф" / null / Батискаф / Батискаф
   other tags : amenity=restaurant
     geometry : [53.8592100,27.4696000]
-n305675288  Валгаград / null / Паб-еда / Пабеда
-  other tags : amenity=cafe | cuisine=cafe;diner
+n305675288  null / null / Паб-еда / Паб-еда
+  other tags : amenity=cafe | cuisine=cafe;diner | fixme=возможно ошибка в названии
     geometry : [53.8620201,27.4776400]
 n305675289  null / null / Дуплет / Дуплет
   other tags : amenity=cafe | cuisine=cafe;diner
