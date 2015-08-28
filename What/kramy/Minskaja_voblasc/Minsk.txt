@@ -3603,6 +3603,9 @@ n1244392702
 n1252398084
   other tags : shop=convenience
     geometry : [53.8394742,27.6195973]
+n1256485671  null / null / Эмейзинг Вэй
+  other tags : shop=travel_agency
+    geometry : [53.9022721,27.5522062]
 n1256912875
   other tags : shop=pet
     geometry : [53.9109200,27.4977769]
@@ -4649,9 +4652,9 @@ n1588748961  null / null / Хоз.маг
 n1589864544  null / null / Булочки
   other tags : shop=kiosk
     geometry : [53.9187062,27.5852821]
-n1590419057
+n1590419057  null / null / Продукты / Продукты
   other tags : shop=convenience
-    geometry : [53.8657936,27.4765654]
+    geometry : [53.8657721,27.4766021]
 n1590597726  Далс / null / Далс / Далс
   other tags : phone=+375 17 2855162; +375 44 7855161 | shop=hairdresser
     geometry : [53.8698679,27.6444171]
@@ -5978,9 +5981,6 @@ n2454061176  null / null / Гаспадар
 n2455761984  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [53.8754760,27.9037721]
-n2457918677  null / null / Немига, 3
-  other tags : addr:housenumber=3 | addr:street=улица Немига | shop=mall
-    geometry : [53.9041311,27.5524994]
 n2459145180  null / null / Товары для дома
   other tags : addr:housenumber=10А | addr:street=улица Барамзиной | shop=hardware
     geometry : [53.8761181,27.9054832]
@@ -6835,7 +6835,7 @@ n2618464598  null / null / Магазин спортивной одежды
     geometry : [53.8924283,27.5668947]
 n2618472419  null / null / Мила
   other tags : shop=cosmetics
-    geometry : [53.8658209,27.4764398]
+    geometry : [53.8657969,27.4764565]
 n2618472424  null / null / Чистка подушек
   other tags : shop=dry_cleaning
     geometry : [53.8649036,27.4694339]
@@ -7028,6 +7028,9 @@ n2620202430  null / null / Peugeot
 n2620202431  null / null / Armani
   other tags : shop=boutique
     geometry : [53.9014892,27.5496734]
+n2620202432  null / null / Туристическое агенство
+  other tags : shop=travel_agency
+    geometry : [53.9018368,27.5509286]
 n2620202433  null / null / Кравт
   other tags : shop=yes
     geometry : [53.9031137,27.5508428]
@@ -8386,8 +8389,8 @@ n3143653653  null / null / Модные штучки
 n3143657460  null / null / Аматиста
   other tags : shop=wine
     geometry : [53.8878219,27.5373304]
-n3143658989  null / null / Магазин чая «Чайный лист»
-  other tags : shop=yes
+n3143658989  null / null / Чайный лист
+  other tags : shop=tea
     geometry : [53.9019660,27.5508218]
 n3143661334  null / null / Chester
   other tags : shop=shoes
@@ -8396,7 +8399,7 @@ n3143663012  null / null / Итейра
   other tags : shop=beauty
     geometry : [53.9019827,27.5502060]
 n3143663099  null / null / Mango
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9025415,27.5500078]
 n3143667360  null / null / Аркада
   other tags : shop=yes
@@ -8411,18 +8414,21 @@ n3143670238  null / null / Дисконт центр "Ромашка"
   other tags : shop=clothes
     geometry : [53.9080585,27.5499724]
 n3143670725  null / null / ZIKO
-  other tags : shop=yes
+  other tags : shop=jewelry
     geometry : [53.9019203,27.5532689]
 n3143675577  null / null / Заточка инструмента
   other tags : shop=yes
     geometry : [53.9019240,27.5525910]
 n3143676060  null / null / Adidas
-  other tags : shop=yes
+  other tags : shop=clothes
     geometry : [53.9008384,27.5511799]
 n3143676160  null / null / Ювелирные изделия «Чараўніца»
   other names: name:uk=Ювелирные изделия «Чараўніца»
   other tags : shop=yes
     geometry : [53.8979958,27.5532275]
+n3143676617  null / null / Викинг туристик
+  other tags : shop=travel_agency
+    geometry : [53.9016408,27.5500276]
 n3143676790  null / null / Бутик «Paul Zileri»
   other tags : shop=clothes
     geometry : [53.8974400,27.5518146]
@@ -8591,9 +8597,6 @@ n3148016653  null / null / Салон светильников
 n3148016654  null / null / Академкнига
   other tags : shop=books
     geometry : [53.9220514,27.6015636]
-n3148746152  null / null / Живое пиво
-  other tags : shop=alcohol
-    geometry : [53.8658881,27.4766056]
 n3148752811  null / null / Лемира
   other tags : addr:housenumber=6Б | addr:postcode=220049 | addr:street=улица Кнорина | shop=massage
     geometry : [53.9310653,27.6133648]
@@ -8815,7 +8818,7 @@ n3203331495
   other tags : shop=clothes
     geometry : [53.9015940,27.5529632]
 n3203331497
-  other tags : shop=second_hand
+  other tags : second_hand=only | shop=clothes
     geometry : [53.9032049,27.5517972]
 n3203332470
   other tags : shop=florist
@@ -9957,15 +9960,9 @@ n3270445909  null / null / Джамбо
 n3270484294  null / null / ДЮНА
   other tags : addr:housenumber=2 | addr:street=улица Короля | opening_hours=12 00-06 00 | operator=САУНА-ЛЮКС | shop=beauty
     geometry : [53.9007078,27.5460936]
-n3270484295  null / null / BODYJAZZ (БОДИДЖАЗ)
-  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | opening_hours=09 00-21 00 | operator=ЦЕНТР ЭСТЕТИКИ | shop=beauty
+n3270484295  null / null / Bodyjazz / Бодиджаз
+  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | opening_hours=Mo-Su 09:00-21:00 | operator=ЦЕНТР ЭСТЕТИКИ | shop=beauty
     geometry : [53.9030979,27.5518584]
-n3270484296  null / null / VIP-САУНА
-  other tags : addr:housenumber=7 | addr:street=Комсомольская улица | opening_hours=00 00-24 00 | shop=beauty
-    geometry : [53.9031896,27.5519611]
-n3270485961  null / null / САУНА НА РЕВОЛЮЦИОННОЙ
-  other tags : addr:housenumber=12 | addr:street=Революционная улица | opening_hours=00 00-24 00 | shop=beauty
-    geometry : [53.9030333,27.5523610]
 n3270488965  null / null / Мастер-стиль
   other tags : opening_hours=Mo-Su 09:00-21:00 | shop=beauty
     geometry : [53.8963328,27.5647492]
@@ -10521,19 +10518,19 @@ n3284638582  null / null / So-Va.by - подарки
   other tags : shop=clothes
     geometry : [53.9042087,27.5524764]
 n3284638583  null / null / Bork
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9036749,27.5517827]
 n3284638584  null / null / RTX - GSM телефоны
-  other tags : shop=yes
+  other tags : shop=mobile_phone
     geometry : [53.9037291,27.5519490]
 n3284638585  null / null / Garra Rufa
   other tags : shop=massage
     geometry : [53.9036936,27.5521649]
 n3284638586  null / null / Dr.Koffer
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9037729,27.5521755]
 n3284638587  null / null / Kristi
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9041670,27.5522923]
 n3285697949
   other tags : shop=furniture
@@ -11514,7 +11511,7 @@ n3659819210  null / null / Мила
   other tags : opening_hours=09:00-20:00 | shop=cosmetics
     geometry : [53.9058471,27.5389300]
 n3661313637
-  other tags : shop=yes
+  other tags : fixme=тип магазина | shop=yes
     geometry : [53.9024008,27.5487393]
 n3661313694  null / null / Империя
   other tags : shop=boutique
@@ -11678,6 +11675,9 @@ n3700765873  null / null / Крокус
 n3701051197
   other tags : shop=erotic
     geometry : [53.8752911,27.5954721]
+n3701423813  null / null / Tourist Info
+  other tags : shop=travel_agency
+    geometry : [53.9018826,27.5507680]
 n3701747242
   other tags : shop=alcohol
     geometry : [53.8837037,27.6850682]
@@ -11711,3 +11711,9 @@ n3708159015  null / null / Донна роза
 n3708166038  null / null / Мила
   other tags : operator=ООО "Парфюм Трейд" | shop=chemist
     geometry : [53.9330616,27.4738656]
+n3717299152  null / null / Literatura.by
+  other tags : contact:email=shop@literatura.by | contact:phone=+375(29) 634-44-61 | contact:website=http://literatura.by/ | opening_hours=Mo-Fr 18:00-21:00; Sa 10:00-17:00 | shop=books
+    geometry : [53.8659470,27.4764910]
+n3717299153  null / null / Literatura.by
+  other tags : contact:email=shop@literatura.by | contact:phone=+375(29) 626-78-90, +375(29) 878-78-90 | contact:website=http://literatura.by/ | opening_hours=Mo-Fr 09:00-21:00; Sa 10:00-17:00 | shop=books
+    geometry : [53.9024800,27.5514528]
