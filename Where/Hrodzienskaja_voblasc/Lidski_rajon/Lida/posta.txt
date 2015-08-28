@@ -1,15 +1,33 @@
-n1039972031  null / null / ОПС Лида-12
-  other tags : amenity=post_office
+n1039972031  АПС Ліда-12 / APS Lida-12 / ОПС Лида-12 / ОПС Лида-12
+  other tags : addr:postcode=231292 | amenity=post_office | opening_hours=Mo-Fr 09:00-19:00; Sa 09:30-13:00,14:00-17:00 | phone=+375 154 56-57-93 | ref=12 | website=http://belpost.by/
     geometry : [53.8969568,25.2679743]
-n1369285677
-  other tags : amenity=post_office
-    geometry : [53.8991288,25.3108384]
-n1370331421  Белпошта / null / Белпочта
-  other tags : amenity=post_office
-    geometry : [53.8824851,25.2941458]
-n3127126572  null / null / Белпочта
-  other tags : amenity=post_office | collection_times=09:00-18:00
-    geometry : [53.8989185,25.2966306]
-n3381010963
-  other tags : amenity=post_office
+n1369285677  АПС Ліда-6 / APS Lida-6 / ОПС Лида-6 / ОПС Лида-6
+  other tags : addr:postcode=231286 | amenity=post_office | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00 | phone=+375 154 56-72-28 | ref=6 | website=http://belpost.by/
+    geometry : [53.8991865,25.3108353]
+n1370331421  АПС Ліда-1 / APS Lida-1 / ОПС Лида-1 / ОПС Лида-1
+  other tags : addr:postcode=231281 | amenity=post_office | opening_hours=Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-16:00 | phone=+375 154 52-83-58 | ref=1 | website=http://belpost.by/
+    geometry : [53.8819594,25.2948828]
+n3381010963  АПС Ліда-11 / APS Lida-11 / ОПС Лида-11 / ОПС Лида-11
+  other tags : addr:postcode=231291 | amenity=post_office | opening_hours=Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-16:00 | phone=+375 154 52-86-20 | ref=11 | website=http://belpost.by/
     geometry : [53.8948264,25.2926162]
+n3716540796  АПС Ліда-13 / APS Lida-13 / ОПС Лида-13 / ОПС Лида-13
+  other tags : addr:postcode=231293 | amenity=post_office | opening_hours=Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-16:00 | phone=+375 154 54-59-27 | ref=13 | website=http://belpost.by/
+    geometry : [53.8700489,25.2946417]
+n3716540797  АПС Ліда-14 / APS Lida-14 / ОПС Лида-14 / ОПС Лида-14
+  other tags : addr:postcode=231294 | amenity=post_office | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00 | phone=+375 154 55-82-40 | ref=14 | website=http://belpost.by/
+    geometry : [53.9342480,25.2635255]
+n3716540798  АПС Ліда-15 / APS Lida-15 / ОПС Лида-15 / ОПС Лида-15
+  other tags : addr:postcode=231295 | amenity=post_office | opening_hours=Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-15:00 | phone=+375 154 55-97-68 | ref=15 | website=http://belpost.by/
+    geometry : [53.9136870,25.2386645]
+n3716540799  АПС Ліда-2 / APS Lida-2 / ОПС Лида-2 / ОПС Лида-2
+  other tags : addr:postcode=231282 | amenity=post_office | opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-15:00 | phone=+375 154 55-72-64 | ref=2 | website=http://belpost.by/
+    geometry : [53.8788085,25.3305202]
+n3716540800  АПС Ліда-4 / APS Lida-4 / ОПС Лида-4 / ОПС Лида-4
+  other tags : addr:postcode=231284 | amenity=post_office | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00 | phone=+375 154 55-19-45 | ref=4 | website=http://belpost.by/
+    geometry : [53.8912787,25.2779272]
+n3716540801  АПС Ліда-8 / APS Lida-8 / ОПС Лида-8 / ОПС Лида-8
+  other tags : addr:postcode=231288 | amenity=post_office | opening_hours=Tu-Fr 07:30-11:30,12:00-16:00; Sa 07:30-11:30 | phone=+375 154 52-12-69 | ref=8 | website=http://belpost.by/
+    geometry : [53.9085481,25.3137327]
+n3716540802  Ліда РВПС / Lida RVPS / Лида РУПС / Лида РУПС
+  other tags : addr:postcode=231300 | amenity=post_office | phone=+375 154 52-07-92 | ref=0 | website=http://belpost.by/
+    geometry : [53.8820928,25.2947202]
