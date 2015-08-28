@@ -295,8 +295,8 @@ n2371874058  Аптэка №4 / Apteka №4 / Аптека №4 / Аптека 
   other tags : amenity=pharmacy | operator=ИП "Итера-Мед" ООО
     geometry : [55.2030195,30.2118100]
 n2412447101  null / null / Аптека № 51 / Аптека № 51
-  other tags : amenity=pharmacy | opening_hours=Tu-Sa 10:00-14:00, 14:30-18:00 | operator=РУП "Фармация"
-    geometry : [55.2232644,30.1178838]
+  other tags : amenity=pharmacy | contact:website=http://pharmacia.by/ | description=5-й категории | opening_hours=Mo-Su 09:00-14:00,14:30-20:00 | operator=РУП "Фармация" | pharmacy:category=5
+    geometry : [55.2225904,30.1190161]
 n2477656768  Аптэка / Apteka / Аптека / Аптека
   other tags : amenity=pharmacy
     geometry : [55.1912854,30.2049506]

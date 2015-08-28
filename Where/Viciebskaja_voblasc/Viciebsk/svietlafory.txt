@@ -107,18 +107,18 @@ n336327648  Бібліятэка імя Леніна / null / Библиотек
 n339587854  Камсамольская / Kamsamoĺskaja / Комсомольская / Комсомольская
   other tags : highway=bus_stop
     geometry : [55.1941458,30.1951151]
-n341870906
-  other tags : highway=bus_stop
-    geometry : [55.2121469,30.1252833]
+n341870906  null / null / Посёлок Мишково / Посёлок Мишково
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2120508,30.1254401]
 n341870918  null / null / Автобаза
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.2105218,30.1292886]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2099410,30.1307267]
 n341870923  Ціраспаль / Ciraspaĺ / Тирасполь
-  other tags : bench=yes | highway=bus_stop | shelter=yes
-    geometry : [55.2222787,30.1177096]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2222593,30.1177351]
 n341870968  Ціраспаль / Ciraspaĺ / Тирасполь
-  other tags : highway=bus_stop
-    geometry : [55.2227482,30.1173921]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.2227252,30.1173624]
 n341870983  Гімназія № 6 / null / Гимназия № 6 / Гимназия № 6
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.2280393,30.1176520]
@@ -1019,7 +1019,7 @@ n2915101936
 n2917557472
   other tags : highway=bus_stop
     geometry : [55.1613026,30.1752606]
-n2918006566
+n2918006566  null / null / Улица Титова / Улица Титова
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1942734,30.1443791]
 n2932271046  null / null / Предприятие «Белвитунифарм»
@@ -1211,6 +1211,12 @@ n3688797255
 n3711240709  null / null / Дальняя / Дальняя
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2197979,30.2421739]
-n3712689753
+n3712689753  null / null / Улица Титова / Улица Титова
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1940978,30.1423448]
+n3716272601  ДРБУ-144 / null / ДРСУ-144 / ДРСУ-144
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.1958248,30.1309737]
+n3716272602  ДРБУ-144 / null / ДРСУ-144 / ДРСУ-144
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1961476,30.1312652]
