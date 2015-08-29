@@ -11,8 +11,8 @@ n306066163  11-я школа / Adzinaccataja škola / 11-я школа
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1796866,30.2214701]
 n306066659
-  other tags : highway=bus_stop
-    geometry : [55.1603483,30.1693627]
+  other tags : fixme=проверить | highway=bus_stop
+    geometry : [55.1603456,30.1692961]
 n314953823  Вуліца генерала Маргелава / vul. Marhielava / Улица генерала Маргелова / Улица генерала Маргелова
   other tags : highway=bus_stop | shelter=yes
     geometry : [55.1617715,30.2097204]
@@ -772,7 +772,7 @@ n2356066222  null / null / Ленинградская
     geometry : [55.2194970,30.1237256]
 n2363740800  ГЦ «Карона» / null / ТЦ «Корона»
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes | tram=yes
-    geometry : [55.1601638,30.1699208]
+    geometry : [55.1601657,30.1698972]
 n2372623493
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1552983,30.2102671]
@@ -1220,3 +1220,6 @@ n3716272601  ДРБУ-144 / null / ДРСУ-144 / ДРСУ-144
 n3716272602  ДРБУ-144 / null / ДРСУ-144 / ДРСУ-144
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1961476,30.1312652]
+n3718714680  ГЦ «Карона» / null / ТЦ «Корона»
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1595141,30.1689190]
