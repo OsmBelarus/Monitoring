@@ -1,12 +1,9 @@
 n639577012
   other tags : amenity=fuel | operator=Белоруснефть
     geometry : [52.1200041,28.1686740]
-n781859619  null / null / Белоруснефть №6
-  other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | operator=Белоруснефть | phone=+375-2350-51053 | website=http://beloil.by/
-    geometry : [52.2134142,28.5761982]
-n2382016399  null / null / Белоруснефть №6
-  other tags : amenity=fuel | fuel:lpg=yes | operator=Белоруснефть | phone=+375-2350-51053 | website=http://beloil.by/
-    geometry : [52.2132923,28.5753591]
+w274910422  null / null / Белоруснефть АЗС №6
+  other tags : amenity=fuel | building=yes | building:levels=1 | operator=Белоруснефть | phone=+375-2350-51053 | website=http://beloil.by/
+    geometry : n2795792924[52.2133608,28.5759785] n2795792927[52.2134708,28.5760114] n3718748418[52.2134659,28.5761134] n3718748417[52.2137568,28.5761965] n2795792925[52.2137321,28.5764138] n3718748419[52.2134396,28.5763172] n3718748420[52.2134231,28.5762206] n2795792923[52.2133377,28.5762072] n2795792924[52.2133608,28.5759785]
 w295331535  null / null / АГЗС
   other tags : amenity=fuel | opening_hours=Mo-Fr 07:00-12:00; 14:00-17:00 | operator=Житковичимежрайгаз | shop=no
     geometry : n2990438719[52.1400941,28.5029587] n2990438718[52.1400910,28.5030439] n2990438716[52.1400321,28.5030382] n2990438717[52.1400352,28.5029531] n2990438719[52.1400941,28.5029587]
