@@ -25,9 +25,6 @@ n565676925  null / null / Свято-Троицкий храм
 n737203701  null / null / Адраджэнне
   other tags : amenity=place_of_worship | denomination=pentecostal | religion=christian | website=http://gomelgrace.com/
     geometry : [52.4260257,30.9748149]
-n737203703  null / null / Благодать / Благодать
-  other tags : amenity=place_of_worship | denomination=pentecostal | religion=christian | website=http://gomelgrace.com/ | wheelchair=no
-    geometry : [52.4211692,30.9772286]
 n1421070760  null / null / Собор Александра Невского
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian | wheelchair=no
     geometry : [52.3796465,31.0319658]
@@ -46,6 +43,9 @@ w206636423  null / null / Дом молитвы ЕХБ
 w235266529
   other tags : amenity=place_of_worship | building=yes | religion=christian
     geometry : n2433520088[52.3797165,31.0316494] n2433520089[52.3795946,31.0316563] n2433520090[52.3795990,31.0318631] n2433520091[52.3795670,31.0318649] n2433520092[52.3795725,31.0321277] n2433520093[52.3796074,31.0321257] n2433520094[52.3796098,31.0322398] n2433520095[52.3797189,31.0322337] n2433520096[52.3797168,31.0321317] n2433520097[52.3797494,31.0321299] n2433520098[52.3797440,31.0318735] n2433520100[52.3797213,31.0318748] n2433520088[52.3797165,31.0316494]
+w246985639  null / null / Церковь христиан веры евангельской "Благодать"
+  other tags : addr:housenumber=15 | addr:street=улица Радости | amenity=place_of_worship | building=yes | denomination=evangelical | phone=(0232) 391-778 | religion=christian
+    geometry : n2539397107[52.4213000,30.9772513] n2539397099[52.4211780,30.9772236] n2539397098[52.4211546,30.9775003] n2539397106[52.4212766,30.9775281] n2539397107[52.4213000,30.9772513]
 w254692924  null / null / Гомельский мужской монастырь во имя святителя Николая Мирликийского Гомельской епархии
   other tags : addr:housenumber=4 | addr:street=улица Демьяна Бедного | amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n2604958623[52.4405241,30.9848382] n2604958625[52.4404838,30.9852628] n2604958627[52.4406349,30.9853014] n2604958629[52.4406752,30.9848768] n2788686464[52.4405801,30.9848525] n2604958623[52.4405241,30.9848382]
