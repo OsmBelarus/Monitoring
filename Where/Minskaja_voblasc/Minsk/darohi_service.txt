@@ -29543,7 +29543,7 @@ w163737407
   other tags : highway=service | living_street=yes | service=driveway
     geometry : n430133077[53.9179711,27.5621818] n430133078[53.9179085,27.5621838] n430133082[53.9174585,27.5620689]
 w163738199
-  other tags : highway=service | service=driveway | surface=asphalt
+  other tags : access=private | highway=service | service=driveway | surface=asphalt
     geometry : n1754158086[53.9107906,27.5674973] n3653747464[53.9107408,27.5674222] n1578571297[53.9107208,27.5673919] n1754158085[53.9106144,27.5672436] n1754158087[53.9112007,27.5660950] n1754158084[53.9106110,27.5651412] n1754158083[53.9097459,27.5664545]
 w163826006
   other tags : access=private | highway=service
@@ -37319,7 +37319,7 @@ w255222472
   other tags : access=private | bicycle=private | foot=private | highway=service
     geometry : n2373865025[53.9097575,27.5713944] n2373865032[53.9092919,27.5720687] n2373865037[53.9094523,27.5724033] n2373865043[53.9099210,27.5717239]
 w255225250
-  other tags : highway=service | service=driveway | surface=asphalt
+  other tags : access=private | highway=service | service=driveway | surface=asphalt
     geometry : n2609393744[53.9104323,27.5648366] n1754158084[53.9106110,27.5651412]
 w255229395
   other tags : highway=service
