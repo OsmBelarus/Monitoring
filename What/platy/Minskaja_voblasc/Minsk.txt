@@ -425,7 +425,7 @@ n1413895235
   other tags : barrier=gate | bicycle=yes | foot=yes | motorcar=yes
     geometry : [53.9156149,27.5758376]
 n1413895309
-  other tags : barrier=gate | bicycle=yes | foot=yes
+  other tags : access=no | barrier=gate | bicycle=yes | foot=permissive
     geometry : [53.9159833,27.5776491]
 n1413895328
   other tags : access=private | barrier=gate | bicycle=yes | foot=yes
@@ -694,9 +694,6 @@ n1585687992
 n1588222181
   other tags : barrier=gate | bicycle=yes | foot=yes
     geometry : [53.9310128,27.6071724]
-n1588729706
-  other tags : barrier=gate
-    geometry : [53.9178304,27.5857395]
 n1588747234
   other tags : barrier=gate
     geometry : [53.8782745,27.5909555]
@@ -2321,7 +2318,7 @@ n3421208505
   other tags : barrier=gate | bicycle=yes | foot=yes
     geometry : [53.8647718,27.5051129]
 n3421348238
-  other tags : barrier=gate
+  other tags : access=no | barrier=gate | foot=permissive
     geometry : [53.9165598,27.5792752]
 n3421384674
   other tags : access=private | barrier=gate
