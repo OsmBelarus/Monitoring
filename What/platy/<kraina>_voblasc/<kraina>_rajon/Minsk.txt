@@ -3181,6 +3181,9 @@ n3718410796
 n3718471415
   other tags : barrier=gate | bicycle=yes | foot=yes | horse=yes | motor_vehicle=yes
     geometry : [53.9106042,27.5692548]
+n3718471604
+  other tags : barrier=gate | bicycle=yes | foot=yes
+    geometry : [53.9113120,27.5702898]
 w23297666
   other tags : barrier=fence
     geometry : n252178583[53.9265885,27.5969956] n252178570[53.9260376,27.5964463] n1638705046[53.9260608,27.5963694] n252178571[53.9262257,27.5958687]
@@ -7738,3 +7741,6 @@ w367977663
 w367981304
   other tags : barrier=fence
     geometry : n1585232917[53.9106370,27.5693075] n3718471459[53.9105797,27.5692154]
+w367981442
+  other tags : barrier=fence
+    geometry : n1585232930[53.9112398,27.5702178] n277159255[53.9113243,27.5703089]
