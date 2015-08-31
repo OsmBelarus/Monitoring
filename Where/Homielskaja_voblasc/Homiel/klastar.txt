@@ -28,12 +28,6 @@ n737203701  null / null / Адраджэнне
 n1421070760  null / null / Собор Александра Невского
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian | wheelchair=no
     geometry : [52.3796465,31.0319658]
-n3700995968  null / null / Живая вера
-  other tags : amenity=place_of_worship | building=church | denomination=charismatic | religion=christian
-    geometry : [52.4376792,30.9877533]
-n3700995969  null / null / Преображение
-  other tags : amenity=place_of_worship | building=church | denomination=pentecostal | religion=christian
-    geometry : [52.4379431,30.9860322]
 w121815399  null / null / Храм Иконы Божьей Матери
   other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n1362764494[52.4181627,30.9953224] n1362764615[52.4180292,30.9952913] n1362764607[52.4179861,30.9958856] n1362764601[52.4181235,30.9959232] n1362764494[52.4181627,30.9953224]
@@ -76,3 +70,9 @@ w337344660  null / null / Царква Серафіма Сароўскага
 w345163526  null / null / Свято-Георгиевский храм
   other tags : addr:housenumber=8 | addr:street=1-й переулок Крупской | amenity=place_of_worship | building=church | denomination=russian_orthodox | religion=christian
     geometry : n3518559188[52.4661096,31.0146314] n3518559185[52.4660697,31.0148399] n3518559183[52.4660413,31.0148253] n3518559181[52.4660335,31.0148657] n3518559179[52.4659836,31.0148400] n3518559180[52.4659950,31.0147804] n3518559177[52.4659456,31.0147549] n3518559178[52.4659797,31.0145761] n3518559182[52.4660348,31.0146045] n3518559184[52.4660442,31.0145553] n3518559187[52.4660900,31.0145788] n3518559186[52.4660826,31.0146175] n3518559188[52.4661096,31.0146314]
+w364525326  null / null / Церковь “Живая вера”
+  other tags : addr:housenumber=18 | addr:street=Химакова улица | amenity=place_of_worship | building=yes | denomination=charismatic | religion=christian
+    geometry : n3685607658[52.4376627,30.9875548] n3685607654[52.4376333,30.9878346] n3685607660[52.4376916,30.9878511] n3685607661[52.4377089,30.9876859] n3685607662[52.4377360,30.9876935] n3685607663[52.4377480,30.9875789] n3685607658[52.4376627,30.9875548]
+w368165060  null / null / Церковь Божия «Преображение»
+  other tags : addr:housenumber=12 | addr:street=улица Горького | amenity=place_of_worship | building=yes | denomination=evangelical | religion=christian
+    geometry : n3720236493[52.4379326,30.9859107] n3720236494[52.4377717,30.9858710] n3720236495[52.4377502,30.9861057] n3720236496[52.4379110,30.9861454] n3720236493[52.4379326,30.9859107]

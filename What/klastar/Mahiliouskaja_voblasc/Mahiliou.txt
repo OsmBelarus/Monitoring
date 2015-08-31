@@ -9,14 +9,14 @@ n2279373009  Нікольскі манастыр / null / Подникольск
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.8939207,30.3455332]
 w86759264  Царква Трох Сьвяціцеляў / null / Церковь Трех Светителей
-  other tags : addr:housenumber=75 | addr:street=Первомайская улица | amenity=place_of_worship | building=yes | religion=christian
+  other tags : addr:housenumber=75 | addr:street=Первомайская улица | amenity=place_of_worship | building=yes | building:levels=9 | religion=christian
     geometry : n1008817893[53.9111563,30.3413962] n1009014007[53.9111134,30.3419374] n1008869694[53.9109250,30.3418943] n1009201516[53.9109679,30.3413532] n1008817893[53.9111563,30.3413962]
 w86760885  Касцёл св. Станіслава / null / костёл св. Станислава
   other names: name:en=St. Stanislas church
   other tags : addr:housenumber=4 | addr:street=Комсомольская улица | amenity=place_of_worship | building=yes | denomination=catholic | religion=christian
     geometry : n1009014310[53.8983042,30.3345341] n1008843220[53.8983876,30.3346298] n1009149885[53.8985594,30.3341986] n1008808879[53.8983657,30.3339762] n1009039575[53.8983890,30.3339176] n1009008215[53.8983160,30.3338338] n1009159753[53.8982056,30.3341107] n1008869920[53.8982771,30.3341927] n1009201837[53.8982972,30.3341420] n1008837357[53.8984092,30.3342705] n1009014310[53.8983042,30.3345341]
 w86765188
-  other tags : amenity=place_of_worship | building=yes | religion=christian
+  other tags : amenity=place_of_worship | building=yes | building:levels=9 | religion=christian
     geometry : n1009031556[53.8691497,30.3523437] n1008835973[53.8691491,30.3528205] n1009138053[53.8694240,30.3528215] n1008827910[53.8694246,30.3523446] n1009031556[53.8691497,30.3523437]
 w164600770  null / null / Свято-Крестовоздвиженский собор
   other tags : addr:street=улица Плеханова | amenity=place_of_worship | building=yes | denomination=orthodox | religion=christian

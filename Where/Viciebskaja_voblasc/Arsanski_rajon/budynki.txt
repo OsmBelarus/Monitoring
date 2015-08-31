@@ -5546,13 +5546,13 @@ w163786218
   other tags : building=yes | building:levels=1
     geometry : n1754637615[54.6027013,30.3680755] n1754637612[54.6026321,30.3678853] n1754637601[54.6022661,30.3682818] n1754637605[54.6023242,30.3684528] n1754637615[54.6027013,30.3680755]
 w163786228
-  other tags : addr:housenumber=3 | building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Госпитальная улица | building=yes | building:levels=1
     geometry : n1754637604[54.6028113,30.3729048] n1754637600[54.6027100,30.3730900] n1754637611[54.6029333,30.3734539] n1754637614[54.6030346,30.3732687] n1754637604[54.6028113,30.3729048]
 w163786229
-  other tags : addr:housenumber=2 | building=yes | building:levels=1
+  other tags : addr:housenumber=2 | addr:street=Госпитальная улица | building=yes | building:levels=1
     geometry : n1754637595[54.6027179,30.3729368] n1754637592[54.6026434,30.3728061] n1754637586[54.6023402,30.3733210] n1754637590[54.6024148,30.3734517] n1754637595[54.6027179,30.3729368]
 w163786230
-  other tags : addr:housenumber=1 | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Госпитальная улица | building=yes | building:levels=1
     geometry : n1754637582[54.6023276,30.3735835] n1754637579[54.6022303,30.3734298] n1754637574[54.6019392,30.3739792] n1754637577[54.6020365,30.3741329] n1754637582[54.6023276,30.3735835]
 w163786232
   other tags : building=yes | building:levels=1
@@ -20255,10 +20255,10 @@ w297900555
   other tags : addr:housenumber=121 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3018044608[54.5465095,30.4666394] n3018044610[54.5465682,30.4665808] n3018044613[54.5467165,30.4670234] n3018044611[54.5466578,30.4670819] n3018044608[54.5465095,30.4666394]
 w297900557
-  other tags : addr:housenumber=4а | building=yes | building:levels=1
+  other tags : addr:housenumber=4а | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3018044604[54.5464507,30.4654270] n3018044607[54.5465095,30.4653585] n3018044609[54.5465452,30.4654495] n3018044605[54.5464864,30.4655180] n3018044604[54.5464507,30.4654270]
 w297900559
-  other tags : addr:housenumber=10 | building=yes | building:levels=1
+  other tags : addr:housenumber=10 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3018044612[54.5466799,30.4660230] n3018044615[54.5467439,30.4659351] n3018044616[54.5467822,30.4660181] n3018044614[54.5467183,30.4661059] n3018044612[54.5466799,30.4660230]
 w300751437
   other tags : addr:housenumber=10 | addr:street=Набережная улица | building=yes
@@ -24272,31 +24272,31 @@ w367801650
   other tags : building=yes | building:levels=1
     geometry : n3716817685[54.5464063,30.4642178] n3716817689[54.5464703,30.4641299] n3716817691[54.5465086,30.4642129] n3716817687[54.5464447,30.4643007] n3716817685[54.5464063,30.4642178]
 w367802760
-  other tags : addr:housenumber=1 | building=yes | building:levels=1
+  other tags : addr:housenumber=1 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716826098[54.5460195,30.4649946] n3716826100[54.5460882,30.4649178] n3716826102[54.5461216,30.4650069] n3716826099[54.5460531,30.4650835] n3716826098[54.5460195,30.4649946]
 w367802762
   other tags : addr:housenumber=12 | building=yes | building:levels=1
     geometry : n3716826101[54.5461155,30.4659968] n3716826105[54.5461850,30.4659223] n3716826107[54.5462175,30.4660124] n3716826103[54.5461481,30.4660868] n3716826101[54.5461155,30.4659968]
 w367802765
-  other tags : addr:housenumber=2а | building=yes | building:levels=1
+  other tags : addr:housenumber=2а | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716826108[54.5462177,30.4648802] n3716826112[54.5462850,30.4647999] n3716826113[54.5463199,30.4648872] n3716826110[54.5462528,30.4649674] n3716826108[54.5462177,30.4648802]
 w367802767
-  other tags : addr:housenumber=5 | building=yes | building:levels=1
+  other tags : addr:housenumber=5 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716826104[54.5461825,30.4656452] n3716826109[54.5462525,30.4655722] n3716826111[54.5462843,30.4656630] n3716826106[54.5462144,30.4657359] n3716826104[54.5461825,30.4656452]
 w367805410
-  other tags : addr:housenumber=17 | building=yes | building:levels=1
+  other tags : addr:housenumber=17 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716852634[54.5473472,30.4679778] n3716852636[54.5474112,30.4678899] n3716852637[54.5474495,30.4679729] n3716852635[54.5473856,30.4680607] n3716852634[54.5473472,30.4679778]
 w367805411
-  other tags : addr:housenumber=18 | building=yes | building:levels=1
+  other tags : addr:housenumber=18 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716852646[54.5485349,30.4702638] n3716852648[54.5486024,30.4701808] n3716852649[54.5486508,30.4702977] n3716852647[54.5485833,30.4703807] n3716852646[54.5485349,30.4702638]
 w367805412
-  other tags : addr:housenumber=8 | building=yes | building:levels=1
+  other tags : addr:housenumber=8 | addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3716852422[54.5465674,30.4657539] n3716852424[54.5466318,30.4656668] n3716852625[54.5466698,30.4657502] n3716852423[54.5466055,30.4658372] n3716852422[54.5465674,30.4657539]
 w367805413
-  other tags : addr:housenumber=куртенко | building=yes | building:levels=1
+  other tags : addr:street=Оршанская улица | building=yes | building:levels=1 | note=куртенко
     geometry : n3716852642[54.5483423,30.4709817] n3716852644[54.5484063,30.4708938] n3716852645[54.5484446,30.4709768] n3716852643[54.5483807,30.4710646] n3716852642[54.5483423,30.4709817]
 w367805414
-  other tags : addr:housenumber=медведева | building=yes | building:levels=1
+  other tags : addr:street=Оршанская улица | building=yes | building:levels=1 | note=медведева
     geometry : n3716852638[54.5476784,30.4695179] n3716852640[54.5477424,30.4694300] n3716852641[54.5477807,30.4695130] n3716852639[54.5477168,30.4696008] n3716852638[54.5476784,30.4695179]
 w367805415
   other tags : building=yes | building:levels=1

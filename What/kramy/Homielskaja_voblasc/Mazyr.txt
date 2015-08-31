@@ -325,7 +325,7 @@ n3235804664  null / null / Промтовары
     geometry : [52.0519991,29.2441045]
 n3235804665
   other tags : shop=hairdresser
-    geometry : [52.0523653,29.2443888]
+    geometry : [52.0523577,29.2444450]
 n3235822682  null / null / Зоо-Природа
   other tags : shop=pet
     geometry : [52.0522556,29.2605089]
@@ -382,7 +382,7 @@ n3257797500  null / null / Стужка
     geometry : [52.0499844,29.2649334]
 n3259525691  null / null / Оптика
   other tags : addr:housenumber=92 | addr:street=Пролетарская улица | shop=optician
-    geometry : [52.0490255,29.2415459]
+    geometry : [52.0489755,29.2415117]
 n3259700371  null / null / Евроопт
   other tags : addr:housenumber=48 | addr:street=Первомайская улица | shop=supermarket
     geometry : [52.0452360,29.2383782]
@@ -394,7 +394,7 @@ n3259863648  null / null / Припять
     geometry : [52.0262687,29.2312064]
 n3259863649  null / null / Припятский
   other tags : shop=yes
-    geometry : [52.0522139,29.2442683]
+    geometry : [52.0521390,29.2441906]
 n3259863650  null / null / Мясная лавка
   other tags : addr:housenumber=20 | addr:street=бульвар Юности | shop=butcher
     geometry : [52.0346360,29.2139701]
@@ -448,10 +448,10 @@ n3332193394  null / null / Ритуальные услуги
     geometry : [52.0376721,29.1912551]
 n3339355992  null / null / Славиа голд
   other tags : shop=jewelry
-    geometry : [52.0524695,29.2444650]
-n3339356093
+    geometry : [52.0524358,29.2445072]
+n3339356093  null / null / Царское золото
   other tags : shop=jewelry
-    geometry : [52.0523310,29.2443416]
+    geometry : [52.0522424,29.2443532]
 n3339356094
   other tags : shop=furniture
     geometry : [52.0508894,29.2433760]
@@ -480,9 +480,6 @@ n3524850510  null / null / Оптика
 n3525964868  null / null / Колибри
   other tags : addr:housenumber=34 | addr:street=Ленинская улица | shop=cosmetics
     geometry : [52.0455241,29.2587453]
-n3717092525  null / null / Мебель
-  other tags : addr:housenumber=87 | addr:street=Пролетарская улица | shop=furniture
-    geometry : [52.0452189,29.2353538]
 n3717092526  null / null / Оптика
   other tags : addr:housenumber=83 | addr:street=Пролетарская улица | shop=optician
     geometry : [52.0460686,29.2369929]
@@ -492,6 +489,27 @@ n3717092527  null / null / Штофф
 n3717092603  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [52.0405957,29.2154478]
+n3719986270
+  other tags : shop=convenience
+    geometry : [52.0484051,29.2404699]
+n3719986271  null / null / Ирма
+  other tags : shop=chemist
+    geometry : [52.0490940,29.2417302]
+n3719986272  null / null / Алеко
+  other tags : addr:housenumber=81 | addr:street=Пролетарская улица | shop=shoes
+    geometry : [52.0469408,29.2386987]
+n3719986274
+  other tags : shop=car_parts
+    geometry : [52.0471276,29.2390545]
+n3719986551
+  other tags : shop=car_parts
+    geometry : [52.0523232,29.2444176]
+n3719986556
+  other tags : shop=shoes
+    geometry : [52.0526369,29.2446722]
+n3720067702
+  other tags : shop=doityourself
+    geometry : [52.0526965,29.2442683]
 n3721454635
   other tags : shop=garden_centre
     geometry : [52.0528251,29.2568738]
