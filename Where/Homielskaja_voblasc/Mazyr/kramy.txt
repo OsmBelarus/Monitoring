@@ -242,9 +242,9 @@ n2769472588
 n2847095437  null / null / КаМо компьютер-сервис
   other tags : addr:housenumber=16 | addr:postcode=247760 | addr:street=бульвар Дружбы | note=Расположен в здании магазина "Продукты" | opening_hours=10:00-21:00 | phone=+375333006510 | shop=computer | website=http://kamo.by/
     geometry : [52.0295220,29.2447941]
-n3010334668  null / null / Автомасла
+n3010334668  null / null / ЧП Катер
   other tags : addr:housenumber=114 | addr:street=Советская улица | shop=car_parts
-    geometry : [52.0529576,29.2560110]
+    geometry : [52.0530048,29.2560348]
 n3030077126  null / null / Союзпечать
   other tags : shop=newsagent
     geometry : [52.0283924,29.2144744]
@@ -498,3 +498,9 @@ n3717092527  null / null / Штофф
 n3717092603  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [52.0405957,29.2154478]
+n3721454635
+  other tags : shop=garden_centre
+    geometry : [52.0528251,29.2568738]
+n3721454636
+  other tags : shop=clothes
+    geometry : [52.0528324,29.2568265]
