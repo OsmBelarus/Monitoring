@@ -225,9 +225,9 @@ n2853192120  null / null / Меридиан / Меридиан
 n2853192121  null / null / Север / Север
   other tags : shop=convenience
     geometry : [53.8926378,25.2734387]
-n3097812281  null / null / Компьютерная помощь и продажа bitcoin
-  other tags : addr:housenumber=34 | addr:postcode=231300 | addr:street=Ленинская улица | opening_hours=24/7 | payment:bitcoin=yes | phone=+37060015774 (sms) | shop=computer
-    geometry : [53.8902960,25.2914830]
+n3097812281  null / null / Bitcoin exchange, rent a car, rental housing and various aid.
+  other tags : addr:city=Лида | addr:housenumber=34 | addr:postcode=231300 | addr:street=Ленинская улица | opening_hours=24/7 | payment:bitcoin=yes | phone=+375293722823 (sms) | shop=computer
+    geometry : [53.8903097,25.2914897]
 n3126184195  null / null / Ласунак
   other tags : shop=yes
     geometry : [53.8970590,25.2553647]
@@ -582,6 +582,9 @@ n3383951944  null / null / Лукойл
 n3383951945  null / null / Лукойл
   other tags : shop=convenience
     geometry : [53.8995094,25.2982709]
+n3390762643  null / null / Ремонт обуви
+  other tags : shop=shoes
+    geometry : [53.8875250,25.2921001]
 n3392484852  null / null / Магазин №17
   other tags : shop=convenience
     geometry : [53.8789601,25.2794152]
