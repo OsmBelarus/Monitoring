@@ -6568,7 +6568,7 @@ w36977534  вуліца Баграмяна / vulica Bahramiana / улица Ба
   other tags : highway=tertiary | lanes=2 | oneway=yes | surface=asphalt
     geometry : n433352699[55.1731502,30.2675981] n433352694[55.1730237,30.2675443]
 w36977712  вуліца Багатырова / vulica Bahatyrova / улица Богатырёва / улица Богатырёва
-  other tags : highway=tertiary | lanes=2 | oneway=yes
+  other tags : highway=tertiary | lanes=2 | oneway=yes | surface=asphalt
     geometry : n656826398[55.1677326,30.2777698] n2876226038[55.1677758,30.2774484] n1358455348[55.1680451,30.2752814] n986010178[55.1681258,30.2744813] n1872449468[55.1681478,30.2742992] n1358455354[55.1681839,30.2738583] n1574172899[55.1682021,30.2734214] n2415993779[55.1682357,30.2725583] n821280095[55.1682773,30.2714915]
 w37208682  1-я Шэвардзінаўская вуліца / 1-ja Ševardzinaŭskaja vulica / 1-я Шевардиновская улица / 1-я Шевардиновская улица
   other tags : highway=residential
@@ -8083,7 +8083,7 @@ w79645434
   other tags : highway=unclassified | oneway=no | surface=asphalt
     geometry : n929407493[55.1705579,30.2670468] n929407470[55.1706042,30.2666826]
 w79645444  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes
+  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt
     geometry : n429976626[55.1650883,30.2652944] n3445682815[55.1649857,30.2660995] n929407495[55.1646882,30.2684326] n2876225980[55.1643723,30.2709841] n2876225963[55.1640500,30.2735859] n2876225957[55.1637724,30.2757537] n1347945122[55.1637201,30.2761966]
 w79673655  Старасельская вуліца / Starasieĺskaja vulica / Старосельская улица / Старосельская улица
   other tags : highway=residential | maxspeed=60 | note=жилая улица | smoothness=excellent | surface=asphalt | surface:grade=3
@@ -11271,10 +11271,10 @@ w129213371
   other tags : highway=track | surface=unpaved
     geometry : n580041898[55.1723484,30.2801158] n3445682915[55.1724619,30.2803963] n580041900[55.1728410,30.2810133] n580041902[55.1730099,30.2814670] n1803740220[55.1730620,30.2819844] n580041904[55.1730807,30.2823785] n1803740222[55.1730330,30.2828884] n580041906[55.1729665,30.2831472] n580041909[55.1727474,30.2833168] n1803740187[55.1725856,30.2834139] n580041911[55.1724671,30.2834290] n3445682914[55.1722885,30.2833420] n3445682912[55.1719840,30.2831516] n1803740129[55.1715598,30.2828472] n3445682907[55.1714814,30.2826989]
 w129213372  вуліца Акцёраў Яроменкаў / vulica Akcioraŭ Jaromienkaŭ / улица Актёров Ерёменко / улица Актёров Ерёменко
-  other tags : highway=tertiary
+  other tags : highway=tertiary | surface=asphalt
     geometry : n1347945122[55.1637201,30.2761966] n1347945501[55.1638877,30.2762543]
 w129213373  вуліца Акцёраў Яроменкаў / vulica Akcioraŭ Jaromienkaŭ / улица Актёров Ерёменко / улица Актёров Ерёменко
-  other tags : highway=tertiary
+  other tags : highway=tertiary | surface=asphalt
     geometry : n1347945501[55.1638877,30.2762543] n2876225961[55.1640420,30.2763151] n2876225993[55.1646667,30.2765614] n1347945085[55.1655976,30.2769282] n1347945574[55.1665358,30.2772981] n3147625993[55.1674147,30.2776445] n1347944850[55.1675302,30.2776900]
 w129390536
   other tags : footway=crossing | highway=footway
@@ -13174,7 +13174,7 @@ w184526361  вуліца 33-й Арміі / vulica 33-j Armii / улица 33-й
   other tags : highway=tertiary | lanes=3 | oneway=yes | source=survey/gpx | surface=asphalt
     geometry : n1347945122[55.1637201,30.2761966] n929407460[55.1636685,30.2765590] n2720650342[55.1631186,30.2803060] n2866740616[55.1631939,30.2808526] n3445682810[55.1647657,30.2855721] n2876226006[55.1649462,30.2861142] n2876226009[55.1650451,30.2863729] n3445682832[55.1655217,30.2877959] n2876226033[55.1667734,30.2915323]
 w184526362  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes
+  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt
     geometry : n1347945501[55.1638877,30.2762543] n2876225958[55.1639373,30.2758289] n1347945279[55.1640661,30.2748185] n2876225969[55.1642105,30.2736414] n1347945439[55.1643271,30.2727140] n2876225991[55.1645355,30.2710411]
 w184858017
   other tags : highway=footway
@@ -27251,7 +27251,7 @@ w355061149  вуліца Генерала Іваноўскага / vulica Hienie
   other tags : highway=tertiary | lanes=4 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
     geometry : n3606808735[55.1652721,30.2637222] n3445682823[55.1651960,30.2643566] n803868365[55.1651404,30.2648196]
 w355061150  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=4 | oneway=yes | turn:lanes=left;through|through|through|through;right
+  other tags : highway=tertiary | lanes=4 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|through|through;right
     geometry : n929407505[55.1648626,30.2685011] n1347945036[55.1650426,30.2671210] n3445682822[55.1651640,30.2661600] n929407476[55.1652856,30.2651979]
 w355061153  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
   other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt | turn:lanes=left|left|right|right
@@ -27552,10 +27552,10 @@ w357548486
   other tags : highway=footway
     geometry : n3627744198[55.1808940,30.2460865] n3627744200[55.1809141,30.2460947] n3627744215[55.1810033,30.2461572] n3627744213[55.1809967,30.2462015]
 w358211281  вуліца Акцёраў Яроменкаў / vulica Akcioraŭ Jaromienkaŭ / улица Актёров Ерёменко / улица Актёров Ерёменко
-  other tags : highway=tertiary
-    geometry : n1347944850[55.1675302,30.2776900] n656826398[55.1677326,30.2777698]
-w358211282  вуліца Акцёраў Яроменкаў / vulica Akcioraŭ Jaromienkaŭ / улица Актёров Ерёменко / улица Актёров Ерёменко
   other tags : highway=tertiary | surface=asphalt
+    geometry : n656826398[55.1677326,30.2777698] n1347944850[55.1675302,30.2776900]
+w358211282  вуліца Акцёраў Яроменкаў / vulica Akcioraŭ Jaromienkaŭ / улица Актёров Ерёменко / улица Актёров Ерёменко
+  other tags : highway=tertiary | surface=asphalt | turn:lanes=left;through|right
     geometry : n1345946200[55.1698017,30.2785842] n1358456665[55.1704540,30.2788297] n3009139228[55.1713846,30.2791980] n1415785070[55.1715324,30.2792549]
 w358211283  вуліца Баграмяна / vulica Bahramiana / улица Баграмяна / улица Баграмяна
   other tags : highway=tertiary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|right
