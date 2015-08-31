@@ -155,12 +155,6 @@ n2150148547
 n2150192831  null / null / Штофф
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=alcohol
     geometry : [52.0476692,29.2670566]
-n2150262769  null / null / Союзпечать
-  other tags : shop=newsagent
-    geometry : [52.0367675,29.2182310]
-n2154223566  null / null / МастерОК
-  other tags : shop=doityourself
-    geometry : [52.0371075,29.2174290]
 n2154236463  null / null / Жемчужина
   other tags : shop=convenience
     geometry : [52.0327530,29.2221658]
@@ -205,7 +199,7 @@ n2760147836  null / null / Евросеть
     geometry : [52.0359495,29.2093463]
 n2760147838  null / null / Связной
   other tags : shop=mobile_phone
-    geometry : [52.0360128,29.2096487]
+    geometry : [52.0360458,29.2096529]
 n2763730407  null / null / Пинскдрев
   other tags : shop=furniture
     geometry : [52.0276622,29.2367173]
@@ -504,3 +498,6 @@ n3721454635
 n3721454636
   other tags : shop=clothes
     geometry : [52.0528324,29.2568265]
+n3721503413  null / null / Парикмахерская
+  other tags : shop=hairdresser
+    geometry : [52.0373731,29.2176541]
