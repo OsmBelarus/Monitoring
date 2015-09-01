@@ -291,7 +291,7 @@ w25285521
     geometry : n275435265[53.0463441,25.8399322] n275435291[53.0464079,25.8408308] n275435290[53.0465111,25.8427434] n275435289[53.0467675,25.8452381] n724302936[53.0470962,25.8474239] n275435288[53.0473779,25.8486006] n724302961[53.0477447,25.8499176] n724302943[53.0480310,25.8507021]
 w25285522
   other tags : highway=motorway_link | maxspeed=90 | oneway=no | source=trace | surface=asphalt
-    geometry : n434482207[53.0516838,25.8508908] n3213232416[53.0497703,25.8399928] n3213232418[53.0495597,25.8387932]
+    geometry : n434482207[53.0516838,25.8508908] n3723851147[53.0503228,25.8431393]
 w25285523
   other tags : highway=path
     geometry : n275435293[53.0167491,25.8233808] n275435253[53.0141000,25.8275700] n275435294[53.0038000,25.8439600]
@@ -1196,7 +1196,7 @@ w127020820
   other tags : highway=primary | maxspeed=90 | ref=Р99 | surface=asphalt
     geometry : n724302966[53.0526424,25.8586481] n1406746532[53.0522837,25.8581260]
 w127020821
-  other tags : highway=primary | maxspeed=90 | oneway=no | ref=Р99 | surface=asphalt
+  other tags : highway=primary | maxspeed=70 | oneway=no | ref=Р99 | surface=asphalt
     geometry : n275435222[53.0492495,25.8370266] n275435223[53.0490773,25.8361013]
 w127020823
   other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=no | ref=Р99 | surface=asphalt
@@ -4475,7 +4475,7 @@ w310012603
   other tags : highway=primary | maxspeed=60 | ref=Р43 | surface=asphalt
     geometry : n275430580[52.8976376,25.8583119] n275435731[52.8963892,25.8517461] n1823233934[52.8960584,25.8500066] n2349810300[52.8957449,25.8483241] n3153691031[52.8956991,25.8480761] n2349695505[52.8950758,25.8446976] n1823233922[52.8948221,25.8433706]
 w315217188
-  other tags : highway=motorway_link | maxspeed=50 | oneway=no | source=trace | surface=asphalt
+  other tags : highway=motorway_link | maxspeed=30 | oneway=no | source=trace | surface=asphalt
     geometry : n3213232418[53.0495597,25.8387932] n275435222[53.0492495,25.8370266]
 w315217189
   other tags : highway=motorway_link | maxspeed=50 | oneway=no | surface=asphalt
@@ -5089,3 +5089,9 @@ w366518392  null / null / ул.Цветочная
 w367156868
   other tags : highway=track
     geometry : n3711079868[53.1224532,26.0937860] n3711079870[53.1238854,26.0925270] n3711079879[53.1242271,26.0927944]
+w368526731
+  other tags : highway=motorway_link | maxspeed=50 | oneway=no | source=trace | surface=asphalt
+    geometry : n3723851146[53.0500187,25.8414075] n3213232416[53.0497703,25.8399928] n3213232418[53.0495597,25.8387932]
+w368526732
+  other tags : highway=motorway_link | maxspeed=70 | oneway=no | source=trace | surface=asphalt
+    geometry : n3723851147[53.0503228,25.8431393] n3723851146[53.0500187,25.8414075]
