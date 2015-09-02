@@ -347,10 +347,10 @@ w102844164
   other tags : addr:housenumber=4 | addr:street=улица Титова | building=yes | building:levels=3 | source=Bing
     geometry : n1187612202[52.1918886,23.9834452] n1187612203[52.1920179,23.9833115] n1187612204[52.1922803,23.9839867] n1187612205[52.1921510,23.9841204] n1187612202[52.1918886,23.9834452]
 w102844165
-  other tags : addr:housenumber=6 | addr:street=улица Титова | building=yes | source=Bing
+  other tags : addr:housenumber=6 | addr:street=улица Титова | building=yes | building:levels=3 | source=Bing
     geometry : n1187612208[52.1927303,23.9852021] n1187612209[52.1924776,23.9845545] n1187612211[52.1923732,23.9846629] n1187612212[52.1926260,23.9853105] n1187612208[52.1927303,23.9852021]
 w102844166
-  other tags : addr:housenumber=8 | addr:street=улица Титова | building=yes | source=Bing
+  other tags : addr:housenumber=8 | addr:street=улица Титова | building=yes | building:levels=4 | source=Bing
     geometry : n1187612214[52.1928152,23.9855629] n1187612215[52.1927007,23.9856823] n1187612216[52.1929059,23.9862059] n1187612218[52.1930204,23.9860865] n1187612214[52.1928152,23.9855629]
 w102844176
   other tags : addr:housenumber=10 | addr:street=улица XXII Съезда КПСС | building=yes | building:levels=4 | source=Bing
@@ -2927,7 +2927,7 @@ w145682268
   other tags : building=yes
     geometry : n1590508393[52.1953152,23.9749021] n1590508438[52.1953478,23.9749927] n1590508327[52.1952809,23.9750568] n1590508293[52.1952482,23.9749662] n1590508393[52.1953152,23.9749021]
 w145682271
-  other tags : building=yes
+  other tags : building=yes | building:levels=1
     geometry : n1590506900[52.1923770,23.9843570] n1590506872[52.1922806,23.9844575] n1590506821[52.1921974,23.9842450] n1590506875[52.1922938,23.9841446] n1590506900[52.1923770,23.9843570]
 w145682272
   other tags : addr:housenumber=6 | addr:street=Заводская улица | building=yes
