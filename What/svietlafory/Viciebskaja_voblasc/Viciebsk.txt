@@ -356,16 +356,16 @@ n674035829  вул. Церашковай / vul. Cieraškovaj / Улица Тер
   other tags : bus=yes | highway=bus_stop | public_transport=platform | trolleybus=yes
     geometry : [55.1816297,30.2450383]
 n674059871  9-я Сацыялістычная вул. / 9-ja Sacyjalistyčnaja vul. / 9-я Социалистическая улица / 9-я Социалистическая улица
-  other tags : highway=bus_stop
-    geometry : [55.1635278,30.1183366]
-n674059872  ДБК / null / ДСК
-  other tags : highway=bus_stop
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.1635303,30.1182975]
+n674059872  ДБК / null / ДСК / ДСК
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1655129,30.1233893]
-n674059873  ДБК / null / ДСК
-  other tags : highway=bus_stop
+n674059873  ДБК / null / ДСК / ДСК
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1654910,30.1240595]
 n674059874  Горкага / Horkaha / Горького
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1667384,30.1269581]
 n674059880  39-й Арміі вул. / null / Улица 39-й Армии / Улица 39-й Армии
   other tags : bus=yes | highway=bus_stop | public_transport=platform | tram=yes
@@ -726,7 +726,7 @@ n2145755314  Аўтавакзал / null / Автовокзал / Автовок
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.1973810,30.1892999]
 n2189274142  9-я Сацыялістычная вул. / 9-ja Sacyjalistyčnaja vul. / 9-я Социалистическая улица / 9-я Социалистическая улица
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1638649,30.1185915]
 n2294073523  null / null / Магазин «Омега»
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes | trolleybus=yes
