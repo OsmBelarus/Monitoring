@@ -375,7 +375,7 @@ n3257797495
   other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=hairdresser
     geometry : [52.0475133,29.2574272]
 n3257797496  null / null / Полесье-6
-  other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=yes
+  other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=convenience
     geometry : [52.0478828,29.2580441]
 n3257797500  null / null / Стужка
   other tags : addr:housenumber=132 | addr:street=Советская улица | shop=curtain
@@ -498,6 +498,9 @@ n3719986271  null / null / Ирма
 n3719986272  null / null / Алеко
   other tags : addr:housenumber=81 | addr:street=Пролетарская улица | shop=shoes
     geometry : [52.0469408,29.2386987]
+n3719986273  null / null / Керамическая плитка
+  other tags : shop=doityourself
+    geometry : [52.0471839,29.2391616]
 n3719986274
   other tags : shop=car_parts
     geometry : [52.0471276,29.2390545]
@@ -510,6 +513,9 @@ n3719986556
 n3720067702
   other tags : shop=doityourself
     geometry : [52.0526965,29.2442683]
+n3720067898  null / null / Мир плитки
+  other tags : shop=doityourself
+    geometry : [52.0528680,29.2462344]
 n3721454635
   other tags : shop=garden_centre
     geometry : [52.0528251,29.2568738]

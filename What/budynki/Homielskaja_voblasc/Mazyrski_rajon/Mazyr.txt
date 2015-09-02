@@ -1796,7 +1796,7 @@ w113983509
   other tags : addr:housenumber=15А | addr:street=Первомайская улица | building=yes
     geometry : n1291761787[52.0486169,29.2487713] n1291761349[52.0483709,29.2490828] n2972868004[52.0484125,29.2491620] n1291761494[52.0484488,29.2492455] n1291762068[52.0486948,29.2489340] n1291761787[52.0486169,29.2487713]
 w113983510  null / null / Стройград
-  other tags : addr:housenumber=84 | addr:street=Пролетарская улица | building=yes | shop=yes
+  other tags : addr:housenumber=84 | addr:street=Пролетарская улица | building=yes | shop=doityourself
     geometry : n1291761547[52.0510744,29.2436464] n1291762165[52.0507924,29.2434116] n1291761685[52.0508429,29.2432512] n1291761816[52.0511249,29.2434860] n1291761547[52.0510744,29.2436464]
 w113983515
   other tags : addr:housenumber=81А | addr:street=Пролетарская улица | building=yes
@@ -3065,7 +3065,7 @@ w205052529  null / null / Связной
   other tags : building=yes | shop=mobile_phone
     geometry : n2150263313[52.0368541,29.2182476] n2150263314[52.0368101,29.2182809] n2150263312[52.0368186,29.2183106] n2150263311[52.0368060,29.2183201] n2150263317[52.0368152,29.2183520] n2150263310[52.0368301,29.2183407] n2150263315[52.0368405,29.2183769] n2150263316[52.0368821,29.2183454] n2150263313[52.0368541,29.2182476]
 w205052726  null / null / МастерОК
-  other tags : addr:housenumber=1А | addr:street=улица Нефтестроителей | building=yes | building:levels=2 | craft=scaffolder
+  other tags : addr:housenumber=1А | addr:street=улица Нефтестроителей | building=yes | building:levels=2 | shop=doityourself
     geometry : n674418062[52.0369368,29.2173772] n674423197[52.0372301,29.2171783] n674424619[52.0372923,29.2174206] n2150264635[52.0369990,29.2176196] n674418062[52.0369368,29.2173772]
 w205053307  null / null / Планета здоровья
   other tags : addr:housenumber=1В | addr:street=улица Нефтестроителей | amenity=pharmacy | building=yes
@@ -9373,8 +9373,11 @@ w276919226
 w276919232
   other tags : addr:housenumber=11А | addr:street=улица Рыжкова | building=yes
     geometry : n2814731849[52.0446801,29.2522800] n2814731846[52.0445742,29.2524978] n2814731850[52.0447652,29.2527433] n2814731851[52.0448711,29.2525255] n2814731849[52.0446801,29.2522800]
+w277508757  null / null / Игровой клуб «Кайман»
+  other tags : addr:housenumber=8 | addr:street=улица Рыжкова | amenity=nightclub | building=yes
+    geometry : n2820138724[52.0481529,29.2542642] n2820138728[52.0482759,29.2545213] n2820138731[52.0484129,29.2543481] n2820138730[52.0482899,29.2540910] n2820138724[52.0481529,29.2542642]
 w277508758  null / null / Мир инструмента
-  other tags : addr:housenumber=44Б | addr:street=улица Пушкина | building=yes | shop=yes
+  other tags : addr:housenumber=44Б | addr:street=улица Пушкина | building=yes | shop=doityourself
     geometry : n2820137781[52.0468893,29.2554319] n2820137786[52.0470000,29.2559179] n2820137789[52.0471317,29.2558386] n2820137787[52.0470210,29.2553526] n2820137781[52.0468893,29.2554319]
 w277508759
   other tags : addr:street=улица Рыжкова | building=yes
@@ -11165,7 +11168,7 @@ w306080547
   other tags : addr:housenumber=13 | addr:street=Коммунальная улица | building=yes
     geometry : n3108923660[52.0480065,29.2361865] n3108923658[52.0479086,29.2360812] n3108923657[52.0478185,29.2363029] n3108923659[52.0479164,29.2364081] n3108923660[52.0480065,29.2361865]
 w306081338
-  other tags : addr:housenumber=16А | addr:street=Коммунальная улица | building=yes | craft=scaffolder
+  other tags : addr:housenumber=16А | addr:street=Коммунальная улица | building=yes | shop=doityourself
     geometry : n3108931955[52.0483803,29.2348196] n3108931953[52.0482760,29.2349402] n3108931954[52.0483634,29.2351403] n3108931956[52.0484678,29.2350197] n3108931955[52.0483803,29.2348196]
 w306082270
   other tags : addr:housenumber=8 | addr:street=Ветровая улица | building=yes
@@ -11444,7 +11447,7 @@ w319367189  null / null / АрматураСтройСервис
   other tags : building=yes | shop=yes
     geometry : n3257797469[52.0429676,29.2556986] n3257797470[52.0428983,29.2556986] n3257797471[52.0428983,29.2558380] n3257797472[52.0429676,29.2558380] n3257797469[52.0429676,29.2556986]
 w319367192  null / null / Электросервис и сантехника
-  other tags : addr:housenumber=44А | addr:street=улица Пушкина | building=yes | shop=yes
+  other tags : addr:housenumber=44А | addr:street=улица Пушкина | building=yes | shop=doityourself
     geometry : n3257797487[52.0471636,29.2559198] n3257797488[52.0470250,29.2560057] n3257797489[52.0471438,29.2565904] n3257797490[52.0472790,29.2564831] n3257797487[52.0471636,29.2559198]
 w319367193  null / null / Краска
   other tags : building=yes | shop=paint
@@ -11831,7 +11834,7 @@ w368147241  null / null / ТП
   other tags : building=yes | power=substation
     geometry : n3720067867[52.0539599,29.2458160] n3720067868[52.0539335,29.2459340] n3720067869[52.0538807,29.2459179] n3720067870[52.0539087,29.2457892] n3720067867[52.0539599,29.2458160]
 w368147248  null / null / Двери
-  other tags : building=yes | craft=scaffolder
+  other tags : building=yes | shop=doityourself
     geometry : n2456537464[52.0528178,29.2470826] n3720067895[52.0528008,29.2471906] n3720067896[52.0526668,29.2471329] n3720067897[52.0526831,29.2470196] n2456537464[52.0528178,29.2470826]
 w368147275
   other tags : building=yes
