@@ -18,7 +18,7 @@ n306064648
     geometry : [52.1019700,29.0395300]
 n306064650  Прудок / Prudok / Прудок / Прудок
   other tags : aeroway=helipad
-    geometry : [52.0892896,29.0969869]
+    geometry : [52.0694768,29.1110412]
 n306064707  Міхалкі / Michalki / Михалки / Михалки
   other tags : esr:user=151338 | railway=station
     geometry : [51.9527795,29.2052822]
@@ -316,9 +316,6 @@ n2957142843  null / null / Митрополиту Макарию
 n2963870781  null / null / 137км
   other tags : tourism=viewpoint
     geometry : [52.0963162,29.1826441]
-n2995678509
-  other tags : aeroway=helipad
-    geometry : [52.0694574,29.1110624]
 n3054763545
   other tags : railway=switch
     geometry : [52.0395119,29.1698839]
@@ -6140,6 +6137,12 @@ w368669499
 w368669505
   other tags : man_made=cutline
     geometry : n3725211226[52.0705376,28.9759549] n3725211227[52.1084423,28.9729079]
+w368670676
+  other tags : landuse=industrial
+    geometry : n3725223343[52.0897455,29.0946690] n3725223344[52.0883215,29.0962140] n3725223345[52.0891917,29.0979735] n3725223346[52.0905629,29.0966002] n3725223343[52.0897455,29.0946690]
+w368670677
+  other tags : landuse=military
+    geometry : n3725223364[52.0751482,29.1083375] n3725223365[52.0727083,29.1081873] n3725223366[52.0723653,29.1128866] n3725223367[52.0749372,29.1131655] n3725223364[52.0751482,29.1083375]
 r2409358  null / null / Мозырский нефтеперерабатывающий завод
   other names: name:en=JSC Mozyr Oil Refinery
   other tags : industrial=refinery | landuse=industrial | type=multipolygon | wikipedia=ru:Мозырский нефтеперерабатывающий завод
