@@ -7556,16 +7556,16 @@ w368410223
   other tags : addr:city=Красная Поляна | addr:country=BY | building=yes
     geometry : n3722512155[51.7558871,30.5141832] n3722512153[51.7558025,30.5141786] n3722512152[51.7557988,30.5143572] n3722512154[51.7558834,30.5143619] n3722512155[51.7558871,30.5141832]
 w368410816
-  other tags : addr:city=Волоховщина | addr:country=BY | addr:housenumber=14 | building=yes
+  other tags : addr:city=Волоховщина | addr:country=BY | addr:housenumber=14 | addr:street=д. Волоховщина | building=yes
     geometry : n3722517429[51.7412589,30.2739991] n3722517431[51.7413306,30.2740537] n3722517433[51.7413818,30.2738784] n3722517430[51.7413102,30.2738238] n3722517429[51.7412589,30.2739991]
 w368410817
-  other tags : addr:city=Волоховщина | addr:country=BY | addr:housenumber=22 | building=yes
+  other tags : addr:city=Волоховщина | addr:country=BY | addr:housenumber=22 | addr:street=д. Волоховщина | building=yes
     geometry : n3722517437[51.7417441,30.2717965] n3722517435[51.7416695,30.2717694] n3722517434[51.7416445,30.2719493] n3722517436[51.7417191,30.2719764] n3722517437[51.7417441,30.2717965]
 w368413370
-  other tags : addr:city=Дабрагоща | addr:country=BY | addr:housenumber=6 | building=yes
+  other tags : addr:city=Доброгоща | addr:country=BY | addr:housenumber=6 | addr:street=п. Доброгоща | building=yes
     geometry : n3722535294[51.7147679,30.5047937] n3722535293[51.7147142,30.5046397] n3722535291[51.7145918,30.5047509] n3722535292[51.7146455,30.5049049] n3722535294[51.7147679,30.5047937]
 w368413372
-  other tags : addr:city=Дабрагоща | addr:country=BY | addr:housenumber=8 | building=yes
+  other tags : addr:city=Доброгоща | addr:country=BY | addr:housenumber=8 | addr:street=п. Доброгоща | building=yes
     geometry : n3722535289[51.7144078,30.5034914] n3722535290[51.7144436,30.5035755] n3722535288[51.7143652,30.5036625] n3722535287[51.7143293,30.5035785] n3722535289[51.7144078,30.5034914]
 w368413373
   other tags : addr:city=Громкий | addr:country=BY | building=yes
@@ -7744,6 +7744,9 @@ w368449857
 w368449858
   other tags : addr:city=Ковака | addr:country=BY | addr:housenumber=8 | addr:street=ул. Новая | building=yes
     geometry : n3722855555[51.8229275,30.2345999] n3722855549[51.8228142,30.2346235] n3722855550[51.8228256,30.2347672] n3722855556[51.8229389,30.2347437] n3722855555[51.8229275,30.2345999]
+w368634915
+  other tags : building=yes
+    geometry : n3724879041[51.7540276,30.4726586] n3724879042[51.7536424,30.4737315] n3724879043[51.7538284,30.4738710] n3724879044[51.7541937,30.4728517] n3724879041[51.7540276,30.4726586]
 r5454399
   other tags : building=yes
     geometry : <> w366810589: n3707876354[51.7325886,30.4011429] n3707876353[51.7325294,30.4012493] n3707876351[51.7324493,30.4011331] n3707876352[51.7325085,30.4010267] n3707876354[51.7325886,30.4011429] : w366810589
