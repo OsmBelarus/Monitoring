@@ -662,13 +662,13 @@ w327496446
   other tags : bridge=yes | electrified=no | gauge=1520 | layer=1 | railway=rail | usage=main
     geometry : n2158651044[53.4146878,24.5086581] n2158651020[53.4128618,24.5065171]
 w365810840
-  other tags : building=public | building:levels=1
+  other tags : building=public | building:colour=white | building:levels=1 | building:material=brick
     geometry : n3698195949[53.3954286,24.5347581] n369941726[53.3953138,24.5347557] n369941727[53.3953154,24.5344680] n369941720[53.3954305,24.5344698] n3698195949[53.3954286,24.5347581]
 w365810841
-  other tags : addr:housenumber=2 | addr:street=улица Будённого | building=public | building:levels=3 | roof:colour=red | roof:material=roof_tiles | roof:shape=half-hipped
+  other tags : addr:housenumber=2 | addr:street=улица Будённого | building=public | building:colour=white | building:levels=3 | building:material=brick | roof:colour=red | roof:material=roof_tiles | roof:shape=half-hipped
     geometry : n369941726[53.3953138,24.5347557] n3698195949[53.3954286,24.5347581] n1679472819[53.3954271,24.5350715] n1679472821[53.3948993,24.5350631] n1679472830[53.3949009,24.5347512] n369941725[53.3950155,24.5347509] n369941726[53.3953138,24.5347557]
 w365810842
-  other tags : building=public | building:levels=1
+  other tags : building=public | building:colour=white | building:levels=1 | building:material=brick
     geometry : n1679472830[53.3949009,24.5347512] n369941723[53.3949027,24.5344565] n369941724[53.3950172,24.5344583] n369941725[53.3950155,24.5347509] n1679472830[53.3949009,24.5347512]
 r2703245  null / null / Центральный мост
   other tags : layer=1 | type=bridge
