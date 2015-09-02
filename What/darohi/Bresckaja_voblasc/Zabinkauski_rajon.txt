@@ -116,13 +116,13 @@ w31773632
   other tags : highway=track | surface=sand | tracktype=grade3 | width=4
     geometry : n355691213[52.1875129,24.1364772] n355691215[52.1871451,24.1371178]
 w31775046
-  other tags : bridge=yes | highway=trunk | int_ref=E 30 | lanes=2 | layer=1 | oneway=yes | ref=М1 | toll=yes
+  other tags : bridge=yes | highway=trunk | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n355709086[52.1350210,23.9459979] n355709088[52.1354654,23.9482349]
 w31775048
   other tags : highway=trunk | int_ref=E 30 | lanes=2 | maxspeed=90 | oneway=yes | ref=М1 | toll=yes
     geometry : n355709088[52.1354654,23.9482349] n275459562[52.1364587,23.9533402] n2303802629[52.1365653,23.9538249] n2303802641[52.1373255,23.9576722] n2303802644[52.1374203,23.9581628] n2303802642[52.1374811,23.9584769] n2095536041[52.1420302,23.9819775] n441531861[52.1421286,23.9824859] n2095536055[52.1424902,23.9843628] n2095536063[52.1439899,23.9921476] n2095536068[52.1458427,24.0018223]
 w31775050
-  other tags : bridge=yes | highway=trunk | int_ref=E 30 | lanes=2 | layer=1 | oneway=yes | ref=М1 | toll=yes
+  other tags : bridge=yes | highway=trunk | int_ref=E 30 | lanes=2 | layer=1 | maxspeed=70 | oneway=yes | ref=М1 | toll=yes
     geometry : n355709083[52.1356224,23.9482732] n355709085[52.1351926,23.9460349]
 w31776119
   other tags : highway=track | surface=sand | tracktype=grade3
