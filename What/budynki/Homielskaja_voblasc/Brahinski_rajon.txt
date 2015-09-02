@@ -1274,7 +1274,7 @@ w259733631
   other tags : addr:housenumber=4 | addr:street=Песочная улица | building=yes
     geometry : n2651862009[51.7378386,30.3228620] n2651862010[51.7378393,30.3230026] n2651862005[51.7377680,30.3230037] n2651862004[51.7377672,30.3228630] n2651862009[51.7378386,30.3228620]
 w259733632  null / null / ФАП
-  other tags : building=yes
+  other tags : amenity=doctors | building=yes
     geometry : n2651861817[51.7353028,30.3294785] n2651861818[51.7353110,30.3296426] n2651861812[51.7352060,30.3296564] n2651861811[51.7351977,30.3294923] n2651861817[51.7353028,30.3294785]
 w259733633
   other tags : addr:housenumber=3 | addr:street=Песочная улица | building=yes
@@ -1382,7 +1382,7 @@ w259733680
   other tags : addr:housenumber=14 | addr:street=Песочная улица | building=yes
     geometry : n2651861967[51.7374809,30.3212424] n2651861976[51.7375111,30.3213717] n2651861944[51.7374162,30.3214295] n2651861939[51.7373860,30.3213002] n2651861967[51.7374809,30.3212424]
 w259733681  null / null / Магазин
-  other tags : building=yes
+  other tags : building=yes | shop=convenience
     geometry : n2651861833[51.7355952,30.3293968] n2651861834[51.7356054,30.3296078] n2651861825[51.7354601,30.3296261] n2651861824[51.7354499,30.3294151] n2651861833[51.7355952,30.3293968]
 w259733682
   other tags : addr:housenumber=12 | addr:street=Песочная улица | building=yes
@@ -7391,10 +7391,10 @@ w367820560
   other tags : addr:housenumber=7 | addr:street=Крестьянская улица | building=yes
     geometry : n3716980563[51.7396798,30.4435874] n3716980561[51.7395779,30.4436659] n3716980562[51.7396162,30.4437955] n3716980564[51.7397181,30.4437170] n3716980563[51.7396798,30.4435874]
 w367821059
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=2 | addr:street=улица Новая | building=yes
+  other tags : addr:housenumber=2 | addr:street=улица Новая | building=yes
     geometry : n3716986937[51.7150441,30.3655684] n3716986935[51.7149365,30.3656131] n3716986936[51.7149722,30.3658364] n3716986938[51.7150798,30.3657917] n3716986937[51.7150441,30.3655684]
 w367821060
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=8 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=8 | addr:street=Новая улица | building=yes
     geometry : n3716986941[51.7155729,30.3669668] n3716986939[51.7154670,30.3670363] n3716986940[51.7155151,30.3672271] n3716986942[51.7156210,30.3671575] n3716986941[51.7155729,30.3669668]
 w368402931
   other tags : addr:city=Жиличи | addr:country=BY | addr:housenumber=1 | addr:street=ул. Днепровская | building=yes
@@ -7442,34 +7442,34 @@ w368402945
   other tags : addr:city=Жиличи | addr:country=BY | addr:housenumber=9 | addr:street=ул. Мамкина | building=yes
     geometry : n3722430950[51.6980826,30.5381256] n3722430946[51.6979819,30.5381619] n3722430945[51.6979601,30.5380044] n3722430948[51.6980608,30.5379681] n3722430950[51.6980826,30.5381256]
 w368404875
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=12 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=12 | addr:street=Новая улица | building=yes
     geometry : n3722468447[51.7161217,30.3688997] n3722468444[51.7160213,30.3689821] n3722468446[51.7160590,30.3691016] n3722468448[51.7161594,30.3690192] n3722468447[51.7161217,30.3688997]
 w368404876
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=15 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=15 | addr:street=Новая улица | building=yes
     geometry : n3722468455[51.7168036,30.3697931] n3722468453[51.7167047,30.3699079] n3722468454[51.7167743,30.3700642] n3722468456[51.7168733,30.3699494] n3722468455[51.7168036,30.3697931]
 w368404877
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=20 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=20 | addr:street=Новая улица | building=yes
     geometry : n3722468459[51.7170220,30.3712668] n3722468457[51.7169212,30.3713736] n3722468458[51.7169877,30.3715369] n3722468460[51.7170884,30.3714301] n3722468459[51.7170220,30.3712668]
 w368404878
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=29 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=29 | addr:street=Новая улица | building=yes
     geometry : n3722468463[51.7178586,30.3726039] n3722468464[51.7178877,30.3727311] n3722468462[51.7177789,30.3727960] n3722468461[51.7177497,30.3726688] n3722468463[51.7178586,30.3726039]
 w368404879
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=3 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=3 | addr:street=Новая улица | building=yes
     geometry : n3722468443[51.7159843,30.3674754] n3722468441[51.7158959,30.3675489] n3722468442[51.7159607,30.3677519] n3722468445[51.7160491,30.3676784] n3722468443[51.7159843,30.3674754]
 w368404881
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=34 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=34 | addr:street=Новая улица | building=yes
     geometry : n3722468473[51.7185341,30.3765274] n3722468469[51.7184221,30.3765768] n3722468472[51.7184462,30.3767196] n3722468475[51.7185583,30.3766702] n3722468473[51.7185341,30.3765274]
 w368404882
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=36 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=36 | addr:street=Новая улица | building=yes
     geometry : n3722468474[51.7185551,30.3769075] n3722468470[51.7184397,30.3769176] n3722468471[51.7184450,30.3770759] n3722468476[51.7185604,30.3770659] n3722468474[51.7185551,30.3769075]
 w368404883
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=40 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=40 | addr:street=Новая улица | building=yes
     geometry : n3722468467[51.7182807,30.3783006] n3722468468[51.7182904,30.3784332] n3722468466[51.7181645,30.3784571] n3722468465[51.7181548,30.3783245] n3722468467[51.7182807,30.3783006]
 w368404884
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=42 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=42 | addr:street=Новая улица | building=yes
     geometry : n3722468451[51.7165147,30.3807453] n3722468449[51.7164128,30.3807630] n3722468450[51.7164274,30.3809821] n3722468452[51.7165292,30.3809645] n3722468451[51.7165147,30.3807453]
 w368404885
-  other tags : addr:city=Юрковичи | addr:country=BY | addr:housenumber=51 | addr:street=Новая улица | building=yes
+  other tags : addr:housenumber=51 | addr:street=Новая улица | building=yes
     geometry : n3722468439[51.7157373,30.3816360] n3722468437[51.7156465,30.3816672] n3722468438[51.7156741,30.3818763] n3722468440[51.7157649,30.3818451] n3722468439[51.7157373,30.3816360]
 w368410194
   other tags : addr:city=Бересневка | addr:country=BY | addr:housenumber=10 | addr:street=Новая улица | building=yes
@@ -7546,9 +7546,15 @@ w368410217
 w368410218
   other tags : addr:housenumber=75 | addr:street=Центральная улица | building=yes
     geometry : n3722512366[51.7746784,30.5256902] n3722512364[51.7745909,30.5256782] n3722512363[51.7745826,30.5258371] n3722512365[51.7746700,30.5258492] n3722512366[51.7746784,30.5256902]
+w368410219
+  other tags : addr:housenumber=87 | addr:street=Центральная улица | building=yes
+    geometry : n3722512370[51.7761382,30.5261177] n3722512368[51.7760496,30.5260484] n3722512367[51.7760141,30.5261670] n3722512369[51.7761026,30.5262363] n3722512370[51.7761382,30.5261177]
 w368410220
   other tags : addr:housenumber=9 | addr:street=Центральная улица | building=yes
     geometry : n3722512169[51.7607140,30.5238711] n3722512167[51.7606285,30.5238373] n3722512166[51.7606035,30.5240019] n3722512168[51.7606891,30.5240357] n3722512169[51.7607140,30.5238711]
+w368410221
+  other tags : addr:housenumber=93 | addr:street=Центральная улица | building=yes
+    geometry : n3722512374[51.7771060,30.5267153] n3722512372[51.7770330,30.5266724] n3722512371[51.7769954,30.5268392] n3722512373[51.7770684,30.5268821] n3722512374[51.7771060,30.5267153]
 w368410222
   other tags : addr:city=Красная Поляна | addr:country=BY | building=yes
     geometry : n3722512162[51.7591290,30.5140693] n3722512160[51.7590555,30.5140710] n3722512161[51.7590573,30.5142783] n3722512163[51.7591308,30.5142766] n3722512162[51.7591290,30.5140693]

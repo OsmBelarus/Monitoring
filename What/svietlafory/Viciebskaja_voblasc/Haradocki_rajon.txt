@@ -13,9 +13,9 @@ n1662691688  Лахі / null / Лахи
 n1662888971  Гуркі / null / Гурки
   other tags : highway=bus_stop
     geometry : [55.7833357,30.0169960]
-n1722859479
-  other tags : highway=bus_stop
-    geometry : [55.4449736,30.1382474]
+n1722859479  Пальмінка / null / Пальминка / Пальминка
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.4449794,30.1383154]
 n1790677199
   other tags : highway=bus_stop
     geometry : [55.7048447,30.0032038]
@@ -56,11 +56,11 @@ n1907186214  null / null / Окуни
   other tags : highway=bus_stop
     geometry : [55.6589317,29.9955809]
 n2158006308  null / null / Залучье
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4059192,30.0562776]
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4058913,30.0563267]
 n2158006325  null / null / Залучье
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4063252,30.0561826]
+    geometry : [55.4062953,30.0562212]
 n2163982463
   other tags : highway=bus_stop
     geometry : [55.6599959,30.0649502]
@@ -256,12 +256,12 @@ n2278605770  null / null / Поворот на Кабище / Поворот н�
 n2278605772  null / null / Поворот на Кабище / Поворот на Кабище
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.4027664,30.0637768]
-n2278607501
+n2278607501  null / null / Хортово / Хортово
   other tags : highway=bus_stop
-    geometry : [55.4159995,30.0784061]
-n2278607502
-  other tags : highway=bus_stop
-    geometry : [55.4168488,30.0792629]
+    geometry : [55.4159877,30.0784833]
+n2278607502  null / null / Хортово / Хортово
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4168393,30.0793091]
 n2285799537  null / null / Дачи
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.3962808,30.0698038]
@@ -277,9 +277,9 @@ n2285806779  null / null / Батали
 n2614423858  null / null / Турбаза «Лосвидо»
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.4074442,29.9919733]
-n2614545768
-  other tags : highway=bus_stop
-    geometry : [55.4450753,30.1377941]
+n2614545768  Пальмінка / null / Пальминка / Пальминка
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4450599,30.1378655]
 n2615073445
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5681650,30.2883000]
@@ -311,23 +311,23 @@ n2842804042
   other tags : highway=bus_stop
     geometry : [55.6591566,30.2425199]
 n2859210863  null / null / Кабище
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.4283595,30.2155309]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4283534,30.2155551]
 n2863241511
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5506842,29.9763173]
 n2863241520
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5517233,29.9769192]
-n2993390945
+n2993390945  null / null / Поворот на Боровую / Поворот на Боровую
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4306078,30.0224780]
-n2993390946
+    geometry : [55.4305942,30.0225559]
+n2993390946  null / null / Поворот на Боровую / Поворот на Боровую
+  other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4308246,30.0190466]
+n2993390950  null / null / Поворот на Боровую / Поворот на Боровую
   other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4308282,30.0189661]
-n2993390950
-  other tags : bus=yes | highway=bus_stop | public_transport=platform
-    geometry : [55.4321069,30.0209478]
+    geometry : [55.4320853,30.0210135]
 n3191311661
   other tags : highway=bus_stop
     geometry : [55.4160465,29.7736146]
@@ -349,3 +349,15 @@ n3679581001  null / null / Прудники / Прудники
 n3696386851
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.5911460,30.4302404]
+n3724113156  null / null / Боровцы / Боровцы
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.4372941,30.1858345]
+n3724113157  null / null / Боровцы / Боровцы
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4377779,30.1851271]
+n3724113159  null / null / Кабище
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.4281660,30.2149462]
+n3724115229
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.4417907,30.1220849]
