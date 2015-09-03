@@ -106,7 +106,7 @@ n333608811  Селіванаўцы / Sielivanaŭcy / Селивановцы / С
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8200769,23.7781285]
 n406025360  Сапоцкін / Sapockin / Сопоцкин / Сопоцкин
-  other names: name:lt=Sapackinė
+  other names: name:lt=Sapackinė | name:pl=Sopoćkinie
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | fixme=description=г.п. Сопоцкин | place=village | population=1132 | population:date=2012 | wikipedia=ru:Сопоцкин
     geometry : [53.8312349,23.6559563]
 n406077132  Асочнікі / Asočniki / Осочники / Осочники
@@ -262,6 +262,7 @@ n568465943  Войтаўцы / Vojtaŭcy / Войтовцы / Войтовцы
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet | wikipedia=ru:Войтовцы (деревня)
     geometry : [53.8167486,23.7688346]
 n568469376  Шынкаўцы / Šynkaŭcy / Шинковцы / Шинковцы
+  other names: name:pl=Szymkowce
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8207391,23.7409042]
 n568469380  Белічаны / Bieličany / Беличаны / Беличаны
@@ -510,10 +511,11 @@ n629605607  Навасады / Navasady / Новосады / Новосады
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.7967375,23.6753487]
 n629605610  Васілевічы / Vasilievičy / Василевичи / Василевичи
-  other names: name:lt=Vasilevičai
+  other names: name:lt=Vasilevičai | name:pl=Wasilewicze
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8074554,23.7075454]
 n629605614  Каўняны / Kaŭniany / Ковняны / Ковняны
+  other names: name:pl=Kowniany
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8234264,23.7082126]
 n629605617  Вусенікі / Vusieniki / Усеники / Усеники
@@ -541,6 +543,7 @@ n629605676  Ятвезь / Jatvieź / Ятвезь / Ятвезь
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | alt_name:be=Яцвезь | place=hamlet
     geometry : [53.8452856,23.7750413]
 n629605680  Кодзеўцы / Kodzieŭcy / Кодевцы / Кодевцы
+  other names: name:pl=Kodziowce
   other tags : addr:country=BY | addr:district=Гродненский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.8266322,23.7550304]
 n629605697  Лінкі / Linki / Линки / Линки
