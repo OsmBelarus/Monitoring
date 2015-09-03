@@ -409,9 +409,9 @@ n1139884141  Мяскавіт / null / МяскоВит № 9
 n1139884162  null / null / Продукты
   other tags : opening_hours=Mo-Su 08:00-23:00 | operator=УЧТП «Улла» | shop=convenience
     geometry : [55.1951166,30.2393910]
-n1139884166  null / null / Парикмахерская №19
-  other tags : shop=hairdresser
-    geometry : [55.1952110,30.2409341]
+n1139884166  null / null / Парикмахерская № 12 / Парикмахерская № 12
+  other tags : opening_hours=Mo-Fr 07:00-20:00; Sa 08:00-18:00 | operator=ОАО «Мир услуг плюс» | shop=hairdresser
+    geometry : [55.1952339,30.2411836]
 n1139884168  Гранд сэрвіс / null / Гранд сервис
   other tags : opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su 10:00-15:00 | operator=ООО «ПКФ Гранд сервис» | shop=houseware
     geometry : [55.1951839,30.2406393]
@@ -1770,7 +1770,7 @@ n2358062366  null / null / Для всех
     geometry : [55.1951082,30.2397320]
 n2358062371  null / null / зоомагазин
   other tags : shop=pet
-    geometry : [55.1952257,30.2410942]
+    geometry : [55.1952110,30.2409341]
 n2358159331  null / null / Продукты
   other tags : opening_hours=Mo-Sa 08:00-20:00; Su 08:00-15:00 | operator=ООО «Ольгово» | shop=convenience
     geometry : [55.1997189,30.2448395]
@@ -3542,3 +3542,12 @@ n3716278981
 n3721358233  null / null / Придвинье
   other tags : shop=alcohol
     geometry : [55.2051951,30.2101104]
+n3726761900  null / null / Аквамарин / Аквамарин
+  other tags : opening_hours=Mo-Fr 11:00-18:00; Sa 11:00-15:00 | shop=travel_agency
+    geometry : [55.1952212,30.2410457]
+n3726761901  null / null / Оптика / Оптика
+  other tags : opening_hours=Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-15:00 | shop=optician
+    geometry : [55.1952619,30.2411795]
+n3726761902  null / null / солярий Rio
+  other tags : opening_hours=Mo-Sa 10:00-20:00 | operator=ЧП «Загарушка» | shop=beauty
+    geometry : [55.1952363,30.2412094]
