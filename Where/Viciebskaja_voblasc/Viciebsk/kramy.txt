@@ -1777,8 +1777,8 @@ n2358159331  null / null / Продукты
 n2361060211  null / null / Двинский бровар
   other tags : opening_hours=09:00-21:00 | shop=beverages
     geometry : [55.2005650,30.1973036]
-n2365485577  null / null / Остров чистоты
-  other tags : shop=chemist
+n2365485577  null / null / Остров чистоты / Остров чистоты
+  other tags : level=2 | opening_hours=Mo-Su 10:00-20:00 | operator=ЧТУП «Западхимторг» | shop=chemist
     geometry : [55.1927134,30.2516094]
 n2367373075  null / null / Продукты
   other tags : opening_hours=08:00-20:00 | operator=ЧУП «Никодемия» | shop=convenience
@@ -2090,11 +2090,11 @@ n2499264646  null / null / хозяйственный маг. «Тавда»
   other tags : addr:housenumber=36 | addr:street=улица Максима Горького | shop=hardware
     geometry : [55.1781331,30.1780117]
 n2499815682  null / null / Автомаркет
-  other tags : contact:phone=+375295555522 | contact:website=http://avtomarket.by/ | ref=101 | shop=car_parts | wheelchair=yes
+  other tags : contact:phone=+375295555522 | contact:website=http://avtomarket.by/ | level=1 | ref=101 | shop=car_parts | wheelchair=yes
     geometry : [55.1927242,30.2515170]
 n2499823068  null / null / Королевство Сна
-  other tags : contact:website=http://mebelny.by/ | ref=301 | shop=furniture | wheelchair=limited
-    geometry : [55.1926901,30.2517356]
+  other tags : contact:website=http://mebelny.by/ | level=3 | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-18:00 | operator=ООО «Кондор ПТМ Плюс» | ref=301 | shop=furniture
+    geometry : [55.1926884,30.2516334]
 n2499827114  null / null / elektro.by электро-инструменты
   other tags : phone=+375295121111 | ref=19 | shop=electrotools | website=http://elektro.by/ | wheelchair=yes
     geometry : [55.1918329,30.2528446]
@@ -2105,7 +2105,7 @@ n2499854583  null / null / Alfa-C.by
   other tags : phone=+375295331111 | shop=computer | source=Снаров Александр | website=http://alfa-c.by/ | wheelchair=limited
     geometry : [55.1915537,30.2522432]
 n2503360894  null / null / Алло
-  other tags : operator=МТС | shop=mobile_phone
+  other tags : level=1 | operator=МТС | shop=mobile_phone
     geometry : [55.1926668,30.2515345]
 n2503375595  null / null / Памятники
   other tags : contact:phone=+375292164192, +375295149655 | craft=stonemason | opening_hours=Tu-Fr 10:00-18:00; Sa 10:00-17:00; Su 10:00-14:00 | shop=funeral_directors
@@ -2257,7 +2257,7 @@ n2627530069  null / null / компьютерный дискаунтер
 n2627551657  null / null / Бутик цветов
   other tags : opening_hours=Mo-Su 10:00-19:00 | shop=florist
     geometry : [55.1690003,30.2237421]
-n2627589017  null / null / Салон красоты "Дамские Штучки"
+n2627589017  null / null / Дамские Штучки / Дамские Штучки
   other tags : shop=beauty
     geometry : [55.1825514,30.2313699]
 n2627598290  null / null / торговый киоск
