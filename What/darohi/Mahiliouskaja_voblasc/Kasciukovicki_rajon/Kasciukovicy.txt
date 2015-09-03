@@ -35,10 +35,10 @@ w204107527
   other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60
     geometry : n1851259220[53.3594560,32.0680046] n2141242204[53.3595171,32.0678614] n2141242205[53.3595354,32.0676617] n2141242203[53.3594922,32.0674668]
 w204107529
-  other tags : highway=primary_link | lanes=2 | maxspeed=90 | oneway=yes
+  other tags : highway=primary_link | lanes=2 | maxspeed=90 | oneway=yes | surface=asphalt
     geometry : n2141242206[53.3598204,32.0677533] n2141242203[53.3594922,32.0674668]
 w204107531
-  other tags : highway=primary_link | lanes=2 | maxspeed=60 | oneway=yes
+  other tags : highway=primary_link | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n2141242198[53.3592368,32.0673050] n2141242187[53.3587948,32.0672364]
 w204107533
   other tags : highway=primary_link | lanes=2 | maxspeed=60 | oneway=yes
@@ -53,10 +53,10 @@ w204284579
   other tags : highway=primary | maxspeed=60 | ref=Р74
     geometry : n2141242200[53.3593152,32.0685175] n1881920281[53.3595705,32.0718441]
 w204284767
-  other tags : highway=primary_link | maxspeed=60 | oneway=yes
+  other tags : highway=primary_link | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n2141242187[53.3587948,32.0672364] n2141242189[53.3588838,32.0674865] n2141242190[53.3590127,32.0677884] n2141242194[53.3590872,32.0679181]
 w204284769
-  other tags : highway=primary_link | maxspeed=90 | oneway=yes
+  other tags : highway=primary_link | maxspeed=90 | oneway=yes | surface=asphalt
     geometry : n1851259220[53.3594560,32.0680046] n2141242206[53.3598204,32.0677533]
 w206623031  вуліца Жбанкова / vulica Žbankova / улица Жбанкова / улица Жбанкова
   other tags : highway=residential | surface=asphalt
@@ -83,13 +83,13 @@ w207541424  Інтэрнацыянальная вуліца / Internacyjanaĺnaj
   other tags : highway=residential | surface=asphalt
     geometry : n2178044110[53.3446748,32.0605549] n2203152765[53.3436782,32.0608847] n2216366542[53.3431358,32.0609505] n2178044102[53.3427232,32.0610005]
 w207644978
-  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60
+  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60 | surface=asphalt
     geometry : n2141242194[53.3590872,32.0679181] n2141242195[53.3591399,32.0680178]
 w207644984
-  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60
+  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60 | surface=asphalt
     geometry : n2141242203[53.3594922,32.0674668] n2141242202[53.3594250,32.0673587] n2141242201[53.3593299,32.0672985] n2141242198[53.3592368,32.0673050]
 w207644986
-  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60
+  other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60 | surface=asphalt
     geometry : n2141242195[53.3591399,32.0680178] n2141242197[53.3591878,32.0680688] n2141242199[53.3592776,32.0681083] n2178986575[53.3593949,32.0680748] n1851259220[53.3594560,32.0680046]
 w207644988
   other tags : highway=primary_link | junction=roundabout | lanes=2 | maxspeed=60
@@ -263,7 +263,7 @@ w211720674  вуліца 60 гадоў Кастрычніка / vulica 60 hadoŭ
   other tags : highway=tertiary | maxspeed=60 | surface=asphalt
     geometry : n1199773976[53.3448501,32.0627027] n2207823448[53.3442846,32.0632078] n2202878063[53.3440805,32.0634372] n2207860897[53.3436266,32.0639285] n2216366544[53.3432833,32.0642112] n2208010959[53.3417683,32.0650480] n275083767[53.3391735,32.0665922] n275083768[53.3374043,32.0676918]
 w211768541
-  other tags : highway=primary | maxspeed=90
+  other tags : highway=primary | maxspeed=90 | surface=asphalt
     geometry : n2217299753[53.3884034,32.0848866] n275083712[53.3808467,32.0822293] n275083713[53.3764981,32.0807035] n2407815917[53.3738729,32.0798219] n1851259222[53.3716615,32.0786375] n2407815916[53.3701259,32.0773902] n2407815915[53.3687640,32.0758046]
 w215040291  Майская вуліца / Majskaja vulica / Майская улица / Майская улица
   other tags : highway=residential
@@ -479,7 +479,7 @@ w257053683  вуліца Энергетыкаў / vulica Enierhietykaŭ / ули
   other tags : highway=residential
     geometry : n2141242184[53.3582781,32.0667827] n2626682714[53.3580735,32.0670942] n2626682710[53.3579322,32.0676463] n2626682707[53.3577669,32.0682410] n3324951980[53.3574386,32.0694404] n3324951969[53.3572829,32.0700092] n3324951950[53.3570871,32.0707242] n3324951937[53.3569736,32.0711388] n3324951906[53.3567042,32.0721229] n2626682701[53.3565117,32.0727526]
 w257053690
-  other tags : highway=primary | maxspeed=60
+  other tags : highway=primary | maxspeed=60 | surface=asphalt
     geometry : n2407815915[53.3687640,32.0758046] n1200124072[53.3661589,32.0725640] n2407815914[53.3650180,32.0711854] n2141242214[53.3638553,32.0700948] n2141242213[53.3626827,32.0692425] n2141242212[53.3620342,32.0688405] n2141242208[53.3602471,32.0679687] n2141242206[53.3598204,32.0677533]
 w262533999
   other tags : highway=unclassified | surface=asphalt
