@@ -15,10 +15,10 @@ n1425114592  Дзіцячая паліклініка / Dziciačaja paliklinika /
     geometry : [53.8974894,25.2865897]
 n1425114594  Лядовы Палац / Liadovy Palac / Ледовый дворец / Ледовый дворец
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8956194,25.3219699]
+    geometry : [53.8952919,25.3220467]
 n1425114595  Дзіцячы сад №22 / Dziciačy sad №22 / Детский сад №22 / Детский сад №22
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8960715,25.3219109]
+    geometry : [53.8964735,25.3217573]
 n1425114596  вуліца Крупскай / vulica Krupskaj / улица Крупской / улица Крупской
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8939805,25.2727688]
@@ -27,7 +27,7 @@ n1425114597  Лакафарба / Lakafarba / Лакокраска / Лакок�
     geometry : [53.9065981,25.3149598]
 n1425114598  Лядовы Палац / Liadovy Palac / Ледовый дворец / Ледовый дворец
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8933228,25.3238070]
+    geometry : [53.8934866,25.3237431]
 n1425114599  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9011702,25.3179142]
@@ -498,7 +498,7 @@ n3168297691  вуліца Паркавая / vulica Parkavaja / улица Па�
     geometry : [53.8846332,25.3344682]
 n3168297692  паварот Лакафарба / pavarot Lakafarba / поворот Лакокраска / поворот Лакокраска
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8929752,25.3243130]
+    geometry : [53.8930133,25.3248922]
 n3168297693  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8920304,25.3033303]
@@ -538,3 +538,9 @@ n3682942118
 n3687341636  Дачы ДРБУ / Dačy DRBU / Дачи ДРСУ / Дачи ДРСУ
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8770772,25.2539735]
+n3727901108
+  other tags : highway=bus_stop
+    geometry : [53.8911512,25.3149526]
+n3727901109
+  other tags : highway=bus_stop
+    geometry : [53.8912149,25.3140315]
