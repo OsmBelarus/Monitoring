@@ -201,8 +201,8 @@ n858614238
 n860158894
   other tags : shop=florist
     geometry : [55.1579542,30.2140565]
-n861311253  null / null / Евроопт
-  other tags : opening_hours=Mo-Su 09:00-21:00 | shop=convenience | website=http://www.euroopt.by/
+n861311253  Еўраопт / null / Евроопт / Евроопт
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «Евроторг» | shop=convenience
     geometry : [55.2065162,30.2183632]
 n889859767  Разумныя рэчы / null / Умные вещи
   other tags : opening_hours=10:00-20:00 | shop=electronics
@@ -1065,7 +1065,7 @@ n1383426656
   other tags : fixme=уточнить | shop=convenience
     geometry : [55.1695665,30.2626643]
 n1393770721  Еўраопт / null / Евроопт / Евроопт
-  other tags : opening_hours=Mo-Su 09:00-22:00 | shop=convenience | website=http://www.euroopt.by/
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-22:00 | operator=ООО «Евроторг» | shop=convenience
     geometry : [55.1585472,30.2123220]
 n1397107655  null / null / Мебель
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | operator=ЧТУП «АртельЛюкс» | shop=furniture
@@ -1229,7 +1229,7 @@ n1523160768
   other tags : shop=clothes
     geometry : [55.2016143,30.2054743]
 n1524588379  Еўраопт / null / Евроопт / Евроопт
-  other tags : opening_hours=Mo-Su 09:00-21:00 | shop=convenience | website=http://www.euroopt.by/
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «Евроторг» | shop=convenience
     geometry : [55.1897030,30.2086458]
 n1525997768
   other tags : shop=hairdresser
@@ -1484,7 +1484,7 @@ n1749412581
   other tags : shop=convenience
     geometry : [55.1956226,30.2203401]
 n1762963588  Еўраопт / null / Евроопт / Евроопт
-  other tags : opening_hours=09:00-21:00 | shop=supermarket | website=http://www.euroopt.by/
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «Евроторг» | shop=supermarket
     geometry : [55.1704255,30.1272572]
 n1770401688  null / null / Автозапчасти
   other tags : shop=car_parts
@@ -2473,11 +2473,11 @@ n2774790511  null / null / Салон дверей
 n2774790512  null / null / Салон дверей
   other tags : shop=doityourself
     geometry : [55.1813687,30.2086169]
-n2778405155  null / null / Евроопт
-  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-21:00 | shop=convenience
+n2778405155  null / null / Евроопт / Евроопт
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «Евроторг» | shop=convenience
     geometry : [55.1958379,30.2431976]
-n2782582544  null / null / Евроопт
-  other tags : level=1 | opening_hours=Mo-Su 09:00-21:00 | shop=convenience | website=http://www.euroopt.by/
+n2782582544  Еўраопт / null / Евроопт / Евроопт
+  other tags : contact:website=http://www.euroopt.by/ | level=1 | opening_hours=Mo-Su 09:00-21:00 | operator=ООО «Евроторг» | shop=convenience
     geometry : [55.1779907,30.2202980]
 n2791865402  null / null / Мотовело
   other tags : contact:phone=+375445564622 | contact:website=http://motovelo.by/ | description=уровень (-2) (минус второй), павильон № 3 | level=-2 | opening_hours=Mo-Su 10:00-20:00 | operator=СЗАО «Торговая сеть «Мотовело» | ref=3 | service:bicycle:retail=yes | shop=bicycle
@@ -3159,8 +3159,8 @@ n3330597593
 n3330603894  null / null / OGGI
   other tags : shop=clothes
     geometry : [55.1913079,30.2050309]
-n3330610659  null / null / Евроопт
-  other tags : shop=supermarket
+n3330610659  null / null / Евроопт / Евроопт
+  other tags : contact:website=http://www.euroopt.by/ | opening_hours=Mo-Su 09:00-23:00 | operator=ООО «Евроторг» | shop=supermarket
     geometry : [55.1911875,30.2030963]
 n3330615193  null / null / Глобус
   other tags : contact:phone=+375 (212) 36-28-11 | description=книги, канцтовары | opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00 | operator=ОАО «Витебсккнига» | ref=15 | shop=books

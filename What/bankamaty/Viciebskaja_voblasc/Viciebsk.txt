@@ -320,16 +320,16 @@ n2419144364  Прыёрбанк / Pryjorbank / Приорбанк / Приорб
   other tags : amenity=atm | operator=Приорбанк
     geometry : [55.1517292,30.2241468]
 n2473332710  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
-  other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+  other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1915271,30.2049180]
 n2473332711  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | official_name=Банкомат № 52 | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1911955,30.2023997]
 n2477653956  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
-  other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+  other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1913040,30.2041356]
-n2478588881  Банк Масква-Мінск / Bank Maskva-Minsk / Банк Москва-Минск / Банк Москва-Минск
-  other tags : amenity=atm
+n2478588881  ATM Банк Масква-Мінск / ATM Bank Maskva-Minsk / ATM Банк Москва-Минск / ATM Банк Москва-Минск
+  other tags : amenity=atm | contact:website=http://www.mmbank.by/ | opening_hours=24/7 | operator=Банк Москва-Минск | owner=ОАО «Банк Москва-Минск»
     geometry : [55.1911237,30.2051678]
 n2480889618  БТА Банк / BTA Bank / БТА Банк / БТА Банк
   other tags : amenity=atm | owner=ЗАО «БТА Банк» | website=http://www.btabank.by/ru/offices-vitebsk
@@ -394,8 +394,8 @@ n2969538207  ATM Белінвестбанк / Bielinviestbank / ATM Белинв
 n3103594326  ATM БПС-Сбербанк / ATM BPS-Sbierbank / ATM БПС-Сбербанк / ATM БПС-Сбербанк
   other tags : amenity=atm | contact:website=https://www.bps-sberbank.by/ | official_name=ATM11953 | opening_hours=24/7 | operator=БПС-Сбербанк | owner=ОАО «БПС-Сбербанк»
     geometry : [55.2057410,30.2154641]
-n3121614349  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
-  other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 17 | opening_hours=24/7 | operator=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
+n3121614349  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
+  other tags : amenity=atm | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | official_name=Банкомат № 17 | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
     geometry : [55.1585750,30.2123968]
 n3121614350  ATM Белінвестбанк / ATM Bielinviestbank / ATM Белинвестбанк / ATM Белинвестбанк
   other tags : amenity=atm | cash_out=yes | contact:email=belbb@belinvestbank.by | contact:website=http://www.belinvestbank.by/ | currency:BYR=yes | language:be=yes | language:ru=yes | official_name=Банкомат № 1 | opening_hours=24/7 | operator=Белинвестбанк | owner=ОАО «Белорусский банк развития и реконструкции «Белинвестбанк»
