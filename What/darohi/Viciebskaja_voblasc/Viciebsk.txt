@@ -16377,9 +16377,6 @@ w243046020  Каштанавая вуліца / Kaštanavaja vulica / Кашта
 w243046021  2-і Каштанавы завулак / 2-i Kaštanavy zavulak / 2-й Каштановый переулок / 2-й Каштановый переулок
   other tags : highway=residential | source=gpx/survey | surface=gravel
     geometry : n3097144056[55.1927550,30.2732256] n2755029907[55.1929252,30.2717601]
-w243046022  3-і Каштанавы завулак / 3-i Kaštanavy zavulak / 3-й Каштановый переулок / 3-й Каштановый переулок
-  other tags : highway=construction
-    geometry : n2504877551[55.1940791,30.2737030] n2504877552[55.1942994,30.2717535]
 w243046023  1-ы Каштанавы завулак / 1-y Kaštanavy zavulak / 1-й Каштановый переулок / 1-й Каштановый переулок
   other tags : highway=residential | source=gpx/survey | surface=gravel
     geometry : n2504877553[55.1919732,30.2729315] n2755029906[55.1920837,30.2718424]
@@ -20665,16 +20662,16 @@ w300691868
   other tags : highway=track
     geometry : n2829962108[55.1879454,30.3064480] n3048025946[55.1882983,30.3062653]
 w300693610  праспект Фрунзэ / praspiekt Frunze / проспект Фрунзе / проспект Фрунзе
-  other tags : highway=construction
+  other tags : highway=proposed
     geometry : n310294698[55.1978367,30.2678066] n3048024765[55.1977972,30.2712093] n3048032513[55.1977856,30.2726431] n3048045554[55.1975305,30.2787694] n3048045555[55.1975200,30.2790203] n3048032514[55.1974790,30.2800049] n826698309[55.1965182,30.2874385]
 w300694517  Лесапаркавая вуліца / Liesaparkavaja vulica / Лесопарковая улица / Лесопарковая улица
-  other tags : highway=construction
+  other tags : highway=proposed
     geometry : n2963127705[55.1944122,30.2710362] n3048024765[55.1977972,30.2712093]
 w300695210  вуліца Казіміра Малевіча / vulica Kazimira Malieviča / улица Казимира Малевича / улица Казимира Малевича
-  other tags : highway=construction
+  other tags : highway=proposed
     geometry : n2963127719[55.1948360,30.2777262] n3048045554[55.1975305,30.2787694]
 w300695211  вуліца Казіміра Малевіча / vulica Kazimira Malieviča / улица Казимира Малевича / улица Казимира Малевича
-  other tags : highway=construction
+  other tags : highway=proposed
     geometry : n2963127718[55.1948128,30.2780121] n3048045555[55.1975200,30.2790203]
 w300695703  вуліца Грышчанкі / vulica Hryščanki / улица Грищенко / улица Грищенко
   other tags : highway=proposed
@@ -28361,7 +28358,7 @@ w368641247
   other tags : highway=track
     geometry : n3724928656[55.1969432,30.2501233] n3724928657[55.1969915,30.2499270] n3724928659[55.1970780,30.2497326] n3724928660[55.1972000,30.2495827] n2020523855[55.1974367,30.2495681]
 w368748894  3-і Каштанавы завулак / 3-i Kaštanavy zavulak / 3-й Каштановый переулок / 3-й Каштановый переулок
-  other tags : highway=residential | source=gpx/survey | surface=gravel
+  other tags : fixme=уточнить по треку | highway=residential | source=gpx/survey | surface=gravel
     geometry : n3725935695[55.1937548,30.2735867] n3725935696[55.1939191,30.2721718]
 w368752916
   other tags : highway=path
