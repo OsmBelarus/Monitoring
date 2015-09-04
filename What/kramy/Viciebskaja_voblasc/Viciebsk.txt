@@ -401,8 +401,8 @@ n1139866812  null / null / AMI мебель / AMI мебель
   other tags : contact:website=http://www.laguna.by/ | opening_hours=Mo-Sa 10:00-19:00; Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture
     geometry : [55.1936099,30.2295051]
 n1139875734  null / null / Лиман
-  other tags : contact:phone=+375-29-2630777 | shop=alcohol
-    geometry : [55.1969412,30.2415310]
+  other tags : opening_hours=Mo-Su 10:00-24:00 | shop=alcohol
+    geometry : [55.1969227,30.2415608]
 n1139884141  Мяскавіт / null / МяскоВит № 9
   other tags : contact:website=http://vmk.by/ | opening_hours=Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 08:00-20:00 | operator=ОАО «Витебский мясокомбинат» | shop=butcher
     geometry : [55.1950838,30.2394672]
@@ -3551,3 +3551,9 @@ n3726761901  null / null / Оптика / Оптика
 n3726761902  null / null / солярий Rio
   other tags : opening_hours=Mo-Sa 10:00-20:00 | operator=ЧП «Загарушка» | shop=beauty
     geometry : [55.1952363,30.2412094]
+n3727841372  null / null / Автомобили из США / Автомобили из США
+  other tags : contact:email=spas_vit@mail.ru | contact:phone=+375(29) 713-16-91, +375(29) 166-16-91, +375(212) 55-76-85 | contact:skype=autoby-spas | operator=ЗАО «Спас» | second_hand=only | shop=car
+    geometry : [55.1968814,30.2415548]
+n3727841375  null / null / Черри / Черри
+  other tags : level=3 | shop=beauty
+    geometry : [55.1968731,30.2414609]
