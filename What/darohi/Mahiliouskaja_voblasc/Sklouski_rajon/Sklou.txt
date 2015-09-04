@@ -14,7 +14,7 @@ w25243430
   other tags : embankment=yes | highway=primary | maxspeed=60 | surface=asphalt
     geometry : n275154927[54.2059216,30.3047365] n927734715[54.2060365,30.3052880]
 w25243431
-  other tags : highway=primary | maxspeed=60 | oneway=yes | ref=Р77
+  other tags : highway=primary | maxspeed=60 | oneway=yes | ref=Р77 | surface=asphalt
     geometry : n2794674504[54.1922534,30.3044221] n2794674510[54.1923648,30.3047933] n603554080[54.1924312,30.3050670]
 w25243433  Ганчарная вуліца / Hančarnaja vulica / Гончарная улица / Гончарная улица
   other tags : highway=residential
@@ -731,7 +731,7 @@ w268006371  Кляновая вуліца / Klianovaja vulica / Кленовая
   other tags : highway=residential
     geometry : n2210957693[54.1933027,30.3202327] n2210957707[54.1942788,30.3188064] n2210957711[54.1946360,30.3183011]
 w274799831
-  other tags : highway=primary | maxspeed=60 | ref=Р77
+  other tags : highway=primary | maxspeed=60 | ref=Р77 | surface=asphalt
     geometry : n2794674504[54.1922534,30.3044221] n3294929736[54.1919659,30.3039261]
 w274799835
   other tags : highway=primary | maxspeed=60 | oneway=yes | ref=Р77
