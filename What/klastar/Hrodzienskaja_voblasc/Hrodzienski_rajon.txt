@@ -42,9 +42,6 @@ n320410006  null / null / Костёл Святой Троицы / Костёл 
 n320410008  null / null / Храм во имя Св.благоверного кн.Александра Невского 1881г.
   other tags : amenity=place_of_worship | denomination=orthodox | religion=christian
     geometry : [53.4628065,23.8849256]
-n320410009  null / null / костел Вознесения найсвятейшей девы Марии
-  other tags : amenity=place_of_worship | denomination=catholic | religion=christian
-    geometry : [53.4046020,23.7611920]
 n461292092
   other tags : amenity=place_of_worship | denomination=catholic | religion=christian
     geometry : [53.6960998,23.9437617]
@@ -96,3 +93,7 @@ w295819075  null / null / Церковь Благовещения Пресвят
 w368716017  null / null / Каплица
   other tags : amenity=place_of_worship | building=yes | religion=christian
     geometry : n3725628648[53.5863733,23.7978044] n3725628649[53.5863608,23.7978674] n3725628650[53.5863317,23.7978488] n3725628651[53.5863442,23.7977834] n3725628648[53.5863733,23.7978044]
+w368900742  Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі / null / костел Вознесения найсвятейшей девы Марии / Костел Успения Пресвятой Девы Марии
+  other names: name:pl=Kościół Wniebowzięcia NMP
+  other tags : amenity=place_of_worship | building=church | denomination=catholic | religion=christian | tourism=attraction
+    geometry : n3727415142[53.4047188,23.7616258] n3727415143[53.4047222,23.7616403] n3727415141[53.4047098,23.7616880] n3727415138[53.4046744,23.7617115] n3727415137[53.4046463,23.7616924] n3727415136[53.4046427,23.7616772] n3727415135[53.4046087,23.7616997] n3727415133[53.4045627,23.7615048] n3727415134[53.4045794,23.7614937] n3727415132[53.4045263,23.7612688] n2788682316[53.4046371,23.7611952] n3727415139[53.4046909,23.7614230] n3727415140[53.4047097,23.7614104] n3727415144[53.4047549,23.7616018] n3727415142[53.4047188,23.7616258]
