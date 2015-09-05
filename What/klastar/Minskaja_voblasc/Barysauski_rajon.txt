@@ -7,9 +7,21 @@ n1376720219  null / null / Храм в честь Святой Троицы 1891
 n1560640207  null / null / Церковь Успенская (дерев.) / Церковь Успенская (дерев.)
   other tags : amenity=place_of_worship | building=church | denomination=orthodox | description=Даты строительства / обновления: 1842 г. Рейтинг: увидеть по дороге | description:ru=Даты строительства / обновления: 1842 г. Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : [54.2067420,28.8888680]
+n3729178024  null / null / Часовня св.Георгия
+  other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
+    geometry : [54.4941603,28.6819694]
+n3729179124  null / null / Церковь Покровская
+  other tags : amenity=place_of_worship | denomination=russian_orthodox | religion=christian
+    geometry : [54.4912128,28.6689178]
 w362613135  Царква Святога Міхала Арханёла / null / Храм во имя Св. Арх. Михаила / Храм во имя Св. Арх. Михаила
   other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian | tourism=attraction
     geometry : n3668843964[54.3574933,28.2209161] n3668843965[54.3572870,28.2207766] n3668843966[54.3572308,28.2210019] n3668843967[54.3574496,28.2211521] n3668843964[54.3574933,28.2209161]
 w362834006  null / null / Церковь св.Николая
   other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
     geometry : n3670821176[54.1980019,28.6226397] n3670821177[54.1978324,28.6229294] n3670821178[54.1977634,28.6227685] n3670821179[54.1979203,28.6225003] n3670821176[54.1980019,28.6226397]
+w369096571  null / null / Церковь св. Ксении Петербуржской
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n3729177986[54.4943815,28.6824683] n3729177987[54.4943565,28.6829297] n3729177988[54.4944687,28.6829189] n3729177989[54.4944562,28.6824576] n3729177986[54.4943815,28.6824683]
+w369096572  null / null / Жилой корпус
+  other tags : amenity=place_of_worship | building=yes | religion=christian
+    geometry : n3729177990[54.4947553,28.6821894] n3729177991[54.4947553,28.6827473] n3729177992[54.4948737,28.6827473] n3729177993[54.4948737,28.6821787] n3729177990[54.4947553,28.6821894]
