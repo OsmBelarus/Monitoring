@@ -1,6 +1,3 @@
-n306064046  null / null / Часовня / Часовня
-  other tags : amenity=place_of_worship
-    geometry : [54.4926366,27.8596074]
 n1370855843  null / null / Костёл св.Доминика
   other tags : amenity=place_of_worship
     geometry : [54.4313708,27.7456937]
@@ -10,9 +7,15 @@ n1370855844  Царква / null / Церковь / Церковь
 n1376734793  null / null / Часовня католич. св. Иоанна Крестителя (дерев.) / Часовня католич. св. Иоанна Крестителя (дерев.)
   other tags : amenity=place_of_worship | denomination=catholic | description=Часовня относилась к амнишевскому парафиальному костелу (не сохранился). Даты строительства / обновления: 1816 г. Рейтинг: увидеть по дороге | description:ru=Часовня относилась к амнишевскому парафиальному костелу (не сохранился). Даты строительства / обновления: 1816 г. Рейтинг: увидеть по дороге | ref=http://globus.tut.by | religion=christian
     geometry : [54.5686700,27.8776290]
+n3729510554  null / null / Костел св. Михаила Архангела
+  other tags : amenity=place_of_worship | denomination=roman_catholic | religion=christian
+    geometry : [54.4896617,27.8605717]
 w167854355  null / null / Костёл св.Доминика
   other tags : amenity=place_of_worship | building=yes
     geometry : n1792002192[54.4315378,27.7457460] n1792002194[54.4315486,27.7459598] n1792002187[54.4314489,27.7459747] n1792002183[54.4314381,27.7457609] n1792002192[54.4315378,27.7457460]
+w181550602  null / null / церковь Казанской иконы Богоматери
+  other tags : amenity=place_of_worship | building=yes | denomination=russian_orthodox | religion=christian
+    geometry : n1919638792[54.4925953,27.8594358] n1919638798[54.4926997,27.8594553] n1919638796[54.4926789,27.8597863] n1919638789[54.4925745,27.8597668] n1919638792[54.4925953,27.8594358]
 w227817906  null / null / Церковь Покрова Пресвятой Богородицы
   other tags : alt_name=Храм в честь покрова Пресвятой Богородицы; Горавецкая Свято-Покровская церковь; Храм Покрова Божьей Матери | amenity=place_of_worship | building=church | denomination=orthodox | place_of_worship:type=church | ref:sobory.ru=25357 | religion=christian | religion:deanery=Логойское благочиние | religion:eparchy=Минская епархия | start_date=1753
     geometry : n2364602518[54.4105284,27.5695537] n2364602521[54.4105362,27.5696832] n2364602493[54.4104060,27.5697064] n2364602492[54.4104044,27.5696801] n2364602485[54.4103703,27.5696862] n2364602482[54.4103657,27.5696104] n2364602489[54.4104001,27.5696043] n2364602487[54.4103984,27.5695769] n2364602518[54.4105284,27.5695537]
