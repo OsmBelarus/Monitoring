@@ -5662,7 +5662,7 @@ w30274363
   other tags : highway=secondary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|right
     geometry : n333662522[55.1686187,30.1669849] n1114611753[55.1669472,30.1674781] n3533123086[55.1666418,30.1675690] n1497689723[55.1606533,30.1693504]
 w30321594  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=4 | surface=asphalt
+  other tags : highway=tertiary | lanes=4 | maxspeed=60 | surface=asphalt
     geometry : n334322135[55.1662425,30.2553041] n334322140[55.1659164,30.2550509] n3607955087[55.1658602,30.2549387] n334322146[55.1657967,30.2548119]
 w30426179
   other tags : highway=footway
@@ -7401,10 +7401,10 @@ w66091968  вуліца Леніна / vulica Lienina / улица Ленина 
   other tags : highway=primary | lanes=3 | maxspeed=50 | oneway=yes | trolley_wire=yes
     geometry : n310306690[55.1847012,30.2040948] n1201839967[55.1848304,30.2041484] n344291133[55.1857590,30.2045588] n1240959225[55.1864275,30.2048443] n2932271048[55.1869286,30.2050312] n310306909[55.1873949,30.2052186] n1740021774[55.1878603,30.2052987] n1740021776[55.1879702,30.2053263] n2565961569[55.1880565,30.2053464] n2565961554[55.1884757,30.2054586] n310306523[55.1889875,30.2055925]
 w66319818  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n429976624[55.1653311,30.2648055] n3445682827[55.1653751,30.2644190] n334322383[55.1655444,30.2629159] n1805804398[55.1656850,30.2616775]
 w66319822  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n334322135[55.1662425,30.2553041] n2876226026[55.1661843,30.2556952] n1840963010[55.1657620,30.2594830]
 w66353827
   other tags : highway=unclassified | oneway=no | surface=asphalt
@@ -7540,7 +7540,7 @@ w66645819  25-я Гарадоцкая вуліца / 25-ja Haradockaja vulica / 
   other tags : highway=residential | surface=unpaved
     geometry : n341748691[55.2048611,30.1603327] n2413540280[55.2047784,30.1602883] n1805800702[55.2038006,30.1597761] n310299259[55.2034386,30.1595441]
 w66732091  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=4 | oneway=no | surface=asphalt
+  other tags : highway=tertiary | lanes=3 | oneway=no | surface=asphalt
     geometry : n334322064[55.1741199,30.2587154] n806926474[55.1742517,30.2587776]
 w67196760  вуліца Воінаў-Інтэрнацыяналістаў / vulica Voinaŭ-Internacyjanalistaŭ / улица Воинов-Интернационалистов / улица Воинов-Интернационалистов
   other tags : highway=primary | lanes=4 | maxspeed=60 | maxspeed:practical=70 | oneway=yes
@@ -26728,16 +26728,16 @@ w351838712  праспект Будаўнікоў / praspiekt Budaŭnikoŭ / п�
   other tags : highway=primary | lanes=5 | maxspeed=60 | oneway=yes | surface=asphalt | trolley_wire=yes | turn:lanes=left|through|through|through|right
     geometry : n3576421710[55.1696075,30.2302559] n310292930[55.1694456,30.2314849]
 w351839439  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=4 | surface=asphalt
+  other tags : highway=tertiary | lanes=4 | maxspeed=60 | surface=asphalt
     geometry : n1820646984[55.1702453,30.2570926] n1820644734[55.1703505,30.2571420]
 w351839440  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=3 | surface=asphalt | turn:lanes=left|through|through
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | surface=asphalt | turn:lanes=left|through|through
     geometry : n1852920975[55.1713498,30.2575019] n3607955292[55.1711396,30.2574454] n2755029796[55.1705379,30.2572189] n1820644734[55.1703505,30.2571420]
 w351839441  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=3 | surface=asphalt | turn:lanes=left|left;through|right
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | surface=asphalt | turn:lanes=left|left;through|right
     geometry : n1852920975[55.1713498,30.2575019] n873809374[55.1716282,30.2576263] n1852920987[55.1719745,30.2577771] n1852920990[55.1726567,30.2580716] n806926469[55.1729953,30.2582191] n1855953537[55.1739509,30.2586328] n334322064[55.1741199,30.2587154]
 w351839442  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=3 | surface=asphalt | turn:lanes=through|through|right
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | surface=asphalt | turn:lanes=through|through|right
     geometry : n334322237[55.1675210,30.2558569] n1852920842[55.1676489,30.2559069] n1852920850[55.1680373,30.2560658] n371706420[55.1686795,30.2563405] n2383694358[55.1687681,30.2563811] n2383659342[55.1690453,30.2564862] n1788400376[55.1697587,30.2568312] n2755029787[55.1700632,30.2570098] n1820646984[55.1702453,30.2570926]
 w351869974  вуліца Гараўца / vulica Haraŭca / улица Горовца / улица Горовца
   other tags : highway=primary | lanes=3 | lanes:forward=2 | lanes:psv:backward=1 | maxspeed=60 | oneway=no | surface=asphalt | trolley_wire=yes
@@ -27176,19 +27176,19 @@ w355061146  вуліца Генерала Іваноўскага / vulica Hienie
   other tags : highway=tertiary | lanes=3 | oneway=yes | turn:lanes=left;through|through|through|through;right
     geometry : n2876225991[55.1645355,30.2710411] n1347944823[55.1647233,30.2695602] n929407505[55.1648626,30.2685011]
 w355061147  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=4 | oneway=yes | surface=asphalt | turn:lanes=left|left|right|right
+  other tags : highway=tertiary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|right|right
     geometry : n1383426648[55.1662294,30.2569207] n2876226029[55.1663629,30.2557619] n2505648927[55.1664046,30.2553966]
 w355061148  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
     geometry : n1840963010[55.1657620,30.2594830] n3607955080[55.1656765,30.2602518] n3707403939[55.1655763,30.2611523] n1805804396[55.1655232,30.2616292] n3606808735[55.1652721,30.2637222]
 w355061149  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=4 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
+  other tags : highway=tertiary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|through|through|right
     geometry : n3606808735[55.1652721,30.2637222] n3445682823[55.1651960,30.2643566] n803868365[55.1651404,30.2648196]
 w355061150  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
   other tags : highway=tertiary | lanes=4 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|through|through;right
     geometry : n929407505[55.1648626,30.2685011] n1347945036[55.1650426,30.2671210] n3445682822[55.1651640,30.2661600] n929407476[55.1652856,30.2651979]
 w355061153  вуліца Генерала Іваноўскага / vulica Hienierala Ivanoŭskaha / улица Генерала Ивановского / улица Генерала Ивановского
-  other tags : highway=tertiary | lanes=3 | oneway=yes | surface=asphalt | turn:lanes=left|left|right|right
+  other tags : highway=tertiary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left|left|right|right
     geometry : n1805804398[55.1656850,30.2616775] n1805517365[55.1657613,30.2610292] n3607955085[55.1658423,30.2603056] n1817794990[55.1659276,30.2595429] n1352769006[55.1661937,30.2572190] n1383426648[55.1662294,30.2569207]
 w355069624  Маскоўскі праспект / Maskoŭski praspiekt / Московский проспект / Московский проспект
   other tags : highway=primary | lanes=3 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|right
@@ -27562,7 +27562,7 @@ w359214522  Маскоўскі праспект / Maskoŭski praspiekt / Мос�
   other tags : highway=primary | lanes=4 | maxspeed=60 | oneway=yes | surface=asphalt | turn:lanes=left;through|through|through|right
     geometry : n2978696682[55.1739787,30.2608718] n1855953543[55.1742118,30.2591011] n806926474[55.1742517,30.2587776]
 w359214523  вуліца Караткевіча / vulica Karatkieviča / улица Короткевича / улица Короткевича
-  other tags : highway=tertiary | lanes=4 | surface=asphalt | turn:lanes=left|through|through
+  other tags : highway=tertiary | lanes=4 | maxspeed=60 | surface=asphalt | turn:lanes=left|through|through
     geometry : n334322237[55.1675210,30.2558569] n1788400267[55.1673649,30.2557779] n1788400260[55.1666327,30.2554977] n2505648927[55.1664046,30.2553966] n1815059901[55.1663573,30.2553697] n334322135[55.1662425,30.2553041]
 w359381794  1-я вуліца Даватара / 1-ja vulica Davatara / 1-я улица Доватора / 1-я улица Доватора
   other tags : highway=tertiary
