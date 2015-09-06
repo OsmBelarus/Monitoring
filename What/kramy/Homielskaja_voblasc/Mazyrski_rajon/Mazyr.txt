@@ -6,10 +6,10 @@ n306064734  СТА / null / null / СТО
     geometry : [52.0436969,29.2210360]
 n613399261  Еўраопт / null / Евроопт / Евроопт
   other tags : addr:housenumber=138 | addr:street=Советская улица | shop=supermarket
-    geometry : [52.0485208,29.2667673]
+    geometry : [52.0486961,29.2668015]
 n616690402  null / null / Дары от Зари
   other tags : addr:housenumber=124 | addr:street=Советская улица | shop=butcher
-    geometry : [52.0518716,29.2616087]
+    geometry : [52.0519120,29.2615551]
 n616960665  Аўтазапчасткі / null / null / Автозапчасти
   other tags : shop=car_parts
     geometry : [52.0476343,29.2400045]
@@ -55,7 +55,7 @@ n1118901404  Светач / null / Светоч / Светоч
     geometry : [52.0498596,29.2649901]
 n1118901406  null / null / Техноград
   other tags : shop=electronics
-    geometry : [52.0488395,29.2665588]
+    geometry : [52.0488467,29.2665835]
 n1209943632
   other tags : shop=convenience
     geometry : [52.0787009,29.1986694]
@@ -121,7 +121,7 @@ n2145443616  null / null / Элема
     geometry : [52.0502990,29.2661826]
 n2145451130  null / null / ТВОЁ
   other tags : addr:street=Советская улица | shop=clothes
-    geometry : [52.0517116,29.2619091]
+    geometry : [52.0517125,29.2619250]
 n2145457522  null / null / Союзпечать
   other tags : shop=kiosk
     geometry : [52.0468306,29.2722661]
@@ -298,7 +298,7 @@ n3224886556  null / null / Atlant-Gefest
     geometry : [52.0519164,29.2448643]
 n3227912919  null / null / Пари-матч
   other tags : addr:housenumber=9 | addr:street=площадь Ленина | shop=bookmaker
-    geometry : [52.0475311,29.2669899]
+    geometry : [52.0475572,29.2669619]
 n3227912920  null / null / Центр слуха
   other tags : addr:housenumber=9 | addr:street=Ленинская улица | shop=hearing_aids
     geometry : [52.0458990,29.2636934]
@@ -346,7 +346,7 @@ n3253244556  null / null / Союзпечать
     geometry : [52.0433918,29.2496219]
 n3253246206  null / null / Культтовары
   other tags : shop=yes
-    geometry : [52.0489204,29.2663709]
+    geometry : [52.0489475,29.2663876]
 n3253246207  null / null / Союзпечать
   other tags : shop=kiosk
     geometry : [52.0493192,29.2653484]
@@ -370,7 +370,7 @@ n3253246215
     geometry : [52.0526482,29.2580561]
 n3253246222
   other tags : shop=stationery
-    geometry : [52.0519456,29.2613713]
+    geometry : [52.0519253,29.2614374]
 n3257797495
   other tags : addr:housenumber=34 | addr:street=улица Пушкина | shop=hairdresser
     geometry : [52.0475133,29.2574272]
@@ -438,8 +438,8 @@ n3270045667  null / null / Твоё бельё
   other tags : shop=clothes
     geometry : [52.0504573,29.2639832]
 n3270045735  null / null / Котлы
-  other tags : shop=yes
-    geometry : [52.0485064,29.2645129]
+  other tags : addr:housenumber=5 | addr:street=улица Пушкина | shop=furnace
+    geometry : [52.0485210,29.2645736]
 n3328394250
   other tags : addr:housenumber=1 | addr:street=улица Якуба Коласа | shop=hairdresser
     geometry : [52.0412961,29.2787656]
@@ -525,3 +525,18 @@ n3721454636
 n3721503413  null / null / Парикмахерская
   other tags : shop=hairdresser
     geometry : [52.0373731,29.2176541]
+n3730505352  null / null / Стильные детки
+  other tags : addr:housenumber=138 | addr:street=Советская улица | shop=baby_goods
+    geometry : [52.0491474,29.2659995]
+n3730505353  null / null / Life
+  other tags : addr:housenumber=138 | addr:street=Советская улица | shop=mobile_phone
+    geometry : [52.0490956,29.2661001]
+n3730505355  null / null / Faberlic
+  other tags : addr:housenumber=128 | addr:street=Советская улица | shop=cosmetics
+    geometry : [52.0506182,29.2637696]
+n3730505358  null / null / Инструмент
+  other tags : addr:housenumber=124 | addr:street=Советская улица | shop=doityourself
+    geometry : [52.0518990,29.2613998]
+n3730505362  null / null / Шторы
+  other tags : shop=interior_decoration
+    geometry : [52.0463878,29.2666899]
