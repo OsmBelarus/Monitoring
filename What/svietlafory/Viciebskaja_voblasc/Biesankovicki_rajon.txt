@@ -11,7 +11,7 @@ n1779245478  null / null / Соржица
   other tags : highway=bus_stop
     geometry : [55.0703555,29.7149937]
 n1779245479  null / null / Задорожье
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.1038964,29.6960701]
 n1779245482  null / null / Долгое
   other tags : highway=bus_stop | public_transport=platform
@@ -23,7 +23,7 @@ n1779245500  null / null / Дуброво
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.0663228,29.7508245]
 n1779245501  null / null / Черногостье
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.0925406,29.7186040]
 n1779245505  null / null / Крупенино
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
