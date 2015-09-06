@@ -509,14 +509,17 @@ w369245959
   other tags : highway=service | surface=ground
     geometry : n3730530516[54.5154357,26.9348466] n3730530517[54.5149843,26.9346098]
 w369246420
-  other tags : access=private | highway=service | surface=gravel
+  other tags : access=private | highway=service | service=driveway | surface=gravel
     geometry : n3730524631[54.5160051,26.9345540] n3730534614[54.5159475,26.9347697]
 w369248383
-  other tags : access=private | highway=service | surface=concrete
+  other tags : access=private | highway=service | service=driveway | surface=concrete
     geometry : n3730550523[54.5162537,26.9352474] n3730550524[54.5161424,26.9357354]
 w369248384
-  other tags : access=private | highway=service
+  other tags : access=private | highway=service | service=driveway
     geometry : n3730551128[54.5165138,26.9354053] n3730551129[54.5164005,26.9359028]
 w369248906
   other tags : highway=service
     geometry : n3730553774[54.5167643,26.9337907] n3730553775[54.5165583,26.9346862] n3730553776[54.5163282,26.9345286] n3730553789[54.5164478,26.9339837] n3730553784[54.5164951,26.9337833] n3730553777[54.5165270,26.9336381]
+w369249986
+  other tags : access=private | highway=service | service=driveway
+    geometry : n3730564218[54.5167205,26.9356454] n3730564219[54.5166258,26.9360541]
