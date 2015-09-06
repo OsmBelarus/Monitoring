@@ -1,9 +1,6 @@
 n306067809  null / null / Костел Св. Петра И Павла / Костел Св. Петра И Павла
   other tags : amenity=place_of_worship
     geometry : [53.7622000,24.8286700]
-n306067810  null / null / Костел Св. Иоанна Крестителя / Костел Св. Иоанна Крестителя
-  other tags : amenity=place_of_worship
-    geometry : [53.7772748,24.8492000]
 n391814076  null / null / Костёл
   other tags : amenity=place_of_worship | religion=christian
     geometry : [53.6653476,24.8767418]
@@ -17,9 +14,10 @@ w123458984  Царква Раства Багародзіцы / null / Церко
   other names: name:en=Church of the Nativity of the Mother of God
   other tags : amenity=place_of_worship | denomination=orthodox | description:ru=Церковь оборонительного типа, около 1524 г. | religion=christian
     geometry : n1376711724[53.6976782,24.9998750] n1376711730[53.6975599,24.9999613] n1376711726[53.6976290,25.0002313] n1376711723[53.6977473,25.0001450] n1376711724[53.6976782,24.9998750]
-w182087926
-  other tags : amenity=place_of_worship | religion=christian
-    geometry : n1924286843[53.7773482,24.8495184] n1924287034[53.7771763,24.8495449] n1924286983[53.7771496,24.8490493] n1924287050[53.7773215,24.8490228] n1924286843[53.7773482,24.8495184]
+w182087926  Касцёл Святога Яна Хрысцiцеля / null / Костел Святого Яна Крестителя / Костел Св. Иоанна Крестителя
+  other names: name:pl=Kościół pw. św. Jana Chrzciciela
+  other tags : amenity=place_of_worship | building=church | denomination=roman_catholic | religion=christian | tourism=attraction
+    geometry : n1924286843[53.7773482,24.8495184] n1924287034[53.7771763,24.8495449] n2788682144[53.7771496,24.8490493] n306067810[53.7773215,24.8490228] n1924286843[53.7773482,24.8495184]
 w236634561  null / null / Церковь Рождества Пресвятой Богородицы
   other tags : amenity=place_of_worship | building=church | denomination=orthodox | religion=christian
     geometry : n2446438796[53.5120241,24.8348234] n2446438811[53.5120885,24.8348202] n2446438813[53.5120910,24.8349577] n2446438818[53.5121159,24.8349564] n2446438822[53.5121188,24.8351136] n2446438814[53.5120938,24.8351148] n2446438815[53.5120946,24.8351617] n2446438799[53.5120302,24.8351649] n2446438798[53.5120294,24.8351181] n2446438788[53.5120070,24.8351192] n2446438786[53.5120042,24.8349621] n2446438797[53.5120265,24.8349610] n2446438796[53.5120241,24.8348234]
