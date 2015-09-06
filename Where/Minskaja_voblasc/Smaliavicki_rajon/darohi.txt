@@ -1076,7 +1076,7 @@ w39245278
   other tags : highway=unclassified | oneway=yes
     geometry : n459484076[54.0202938,27.8898717] n2183320528[54.0204937,27.8896271] n415588889[54.0209583,27.8888466]
 w39245280
-  other tags : highway=primary | lanes=1 | maxspeed=90 | oneway=yes | ref=Р80
+  other tags : highway=primary | lanes=1 | maxspeed=90 | oneway=yes | ref=Р80 | surface=asphalt
     geometry : n420209849[54.0164171,27.8903179] n1485609809[54.0167175,27.8899665] n275311928[54.0171001,27.8895949]
 w39245336
   other tags : highway=trunk_link
@@ -3560,7 +3560,7 @@ w177660008
   other tags : highway=trunk | lanes=2 | maxspeed=90 | oneway=yes | ref=М2
     geometry : n1880771714[54.0167117,27.8898696] n1880771713[54.0164329,27.8901592] n1485609808[54.0160536,27.8905866]
 w177660009
-  other tags : highway=primary | lanes=1 | maxspeed=90 | oneway=yes | ref=Р80
+  other tags : highway=primary | lanes=1 | maxspeed=90 | oneway=yes | ref=Р80 | surface=asphalt
     geometry : n275311928[54.0171001,27.8895949] n1880771714[54.0167117,27.8898696]
 w177660010
   other tags : highway=trunk_link | lanes=1 | maxspeed=40 | oneway=yes | ref=М2 | toll=yes
