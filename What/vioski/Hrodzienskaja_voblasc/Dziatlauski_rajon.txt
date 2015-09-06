@@ -49,6 +49,7 @@ n242989218  Дубраўка / Dubraŭka / Дубровка / Дубровка
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5278800,25.1703700]
 n242989227  Алёхнавічы / Aliochnavičy / Алёхновичи / Алёхновичи
+  other names: name:pl=Olechnowicze
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5389500,25.2891500]
 n242989231  Навікі / Naviki / Новики / Новики
@@ -58,6 +59,7 @@ n242989234  Раманавічы / Ramanavičy / Романовичи / Рома
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5095100,25.2139700]
 n242989241  Русакі / Rusaki / Русаки / Русаки
+  other names: name:pl=Rusaki
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5173200,25.2824600]
 n242989244  Труханавічы / Truchanavičy / Трухановичи / Трухановичи
@@ -274,6 +276,7 @@ n242989881  Нагародавічы / Naharodavičy / Нагородовичи 
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5817952,25.3751383]
 n242989884  Страла / Strala / Стрела / Стрела
+  other names: name:pl=Strzała
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5367272,25.3304816]
 n242989887  Вусце / Vuscie / Устье / Устье
@@ -283,9 +286,11 @@ n242989891  Каршакі / Karšaki / Коршаки / Коршаки
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5760004,25.3242927]
 n242989894  Малыя Краглі / Malyja Krahli / Малые Крагли / Малые Крагли
+  other names: name:pl=Krahle Małe
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5542300,25.3459700]
 n242989897  Вялікія Краглі / Vialikija Krahli / Великие Крагли / Великие Крагли
+  other names: name:pl=Krahle Wielkie
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5460700,25.3520700]
 n242989901  Зачэпічы / Začepičy / Зачепичи / Зачепичи
@@ -298,6 +303,7 @@ n242989907  Серафіны / Sierafiny / Серафины / Серафины
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | alt_name:be=Сарафіны | place=hamlet
     geometry : [53.5786000,25.4274300]
 n242989910  Гезгалы / Hiezhaly / Гезгалы / Гезгалы
+  other names: name:pl=Gieżgały
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=village
     geometry : [53.6023255,25.3725000]
 n242989913  Баравікі / Baraviki / Боровики / Боровики
@@ -385,6 +391,7 @@ n242990443  Войневічы / Vojnievičy / Войневичи / Войнев
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.2635200,25.3766200]
 n242990698  Яцукі / Jacuki / Яцуки / Яцуки
+  other names: name:pl=Jacuki
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5911400,25.5330000]
 n242990701  Брычыцы / Bryčycy / Бричицы / Бричицы
@@ -436,6 +443,7 @@ n242990778  Марозавічы / Marozavičy / Морозовичи / Моро
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5295100,25.5749700]
 n242990781  Боцкавічы / Bockavičy / Боцковичи / Боцковичи
+  other names: name:pl=Boćkowicze
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5805800,25.5754900]
 n242990788  Панікарты / Panikarty / Паникарты / Паникарты
@@ -665,6 +673,7 @@ n3221510317  Гірыкі / Hiryki / Гирики / Гирики
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.4846962,25.4729335]
 n3221523171  Коскі / Koski / Коски / Коски
+  other names: name:pl=Koski
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : [53.5951958,25.3962414]
 n3221530588  Выгада / Vyhada / Выгода / Выгода
@@ -899,6 +908,7 @@ w25140427  Вусце / Vuscie / Устье / Устье
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : n273966193[53.5860700,25.4086300] n273966194[53.5855893,25.4087192] n273966195[53.5841800,25.4091500] n273966196[53.5836700,25.4095800] n273966197[53.5835800,25.4173000] n273966198[53.5853000,25.4175600] n273966199[53.5867600,25.4222800] n273966201[53.5883900,25.4229600] n273966202[53.5907000,25.4228800] n273966204[53.5906200,25.4194500] n273966205[53.5900200,25.4196200] n273966206[53.5891600,25.4184200] n273966208[53.5887300,25.4166100] n273966209[53.5880500,25.4130100] n273966211[53.5875300,25.4115500] n273966212[53.5872700,25.4103500] n273966213[53.5869669,25.4092696] n273966193[53.5860700,25.4086300]
 w25140428  Нагародавічы / Naharodavičy / Нагородовичи / Нагородовичи
+  other names: name:pl=Nahorodowicze
   other tags : addr:country=BY | addr:district=Дятловский район | addr:region=Гродненская область | place=hamlet
     geometry : n273966215[53.5750216,25.3700031] n2728257952[53.5766719,25.3716053] n273966217[53.5764095,25.3764320] n273966218[53.5782466,25.3799982] n2728258005[53.5793318,25.3804024] n273966219[53.5814300,25.3805600] n3197616812[53.5829053,25.3800522] n273966221[53.5836809,25.3797182] n273966222[53.5849621,25.3791797] n273966224[53.5871741,25.3796224] n273966225[53.5873027,25.3759134] n2728258077[53.5845254,25.3737348] n2728258047[53.5824852,25.3718402] n2728258038[53.5818967,25.3688331] n273966226[53.5791363,25.3668260] n273966228[53.5784212,25.3666605] n273966229[53.5762033,25.3669516] n273966215[53.5750216,25.3700031]
 w25140431  Погіры / Pohiry / Погири / Погири

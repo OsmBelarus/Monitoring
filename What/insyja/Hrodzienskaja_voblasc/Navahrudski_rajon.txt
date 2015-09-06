@@ -8,9 +8,11 @@ n242993115  Куборка / Kuborka / Куборка / Куборка
   other tags : addr:country=BY | addr:district=Новогрудский район | addr:region=Гродненская область | place=suburb
     geometry : [53.5860290,25.8342949]
 n242993121  Мітраполь / Mitrapoĺ / Митрополь / Митрополь
+  other names: name:pl=Metropolia
   other tags : addr:country=BY | addr:district=Новогрудский район | addr:region=Гродненская область | place=suburb
     geometry : [53.5988615,25.7994242]
 n242993127  Грабнікі / Hrabniki / Грабники / Грабники
+  other names: name:pl=Grabniki
   other tags : addr:country=BY | addr:district=Новогрудский район | addr:region=Гродненская область | place=suburb
     geometry : [53.6051009,25.8000958]
 n242993137  Слухавічы / Sluchavičy / Слуховичи / Слуховичи
@@ -308,6 +310,10 @@ n3672170936  null / null / Николая Чудотворца
 n3674884519  null / null / Макавеев
   other tags : natural=spring
     geometry : [53.7163705,25.7969528]
+n3729910030
+  other names: name:pl=Bujaczki
+  other tags : place=isolated_dwelling
+    geometry : [53.6724299,25.4672123]
 w25137164
   other tags : landuse=farmyard
     geometry : n273909465[53.6913096,26.0708669] n273909467[53.6916504,26.0738318] n273909468[53.6931739,26.0733325] n273909469[53.6928332,26.0703676] n273909465[53.6913096,26.0708669]
