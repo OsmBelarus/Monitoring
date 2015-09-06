@@ -377,11 +377,11 @@ n2842546445  null / null / Степанково
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.2366237,29.9511318]
 n2842577189
-  other tags : highway=bus_stop
-    geometry : [55.4870310,30.7664494]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.4870350,30.7664285]
 n2842577190
-  other tags : highway=bus_stop
-    geometry : [55.4872327,30.7669615]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.4872485,30.7669057]
 n2842612190
   other tags : highway=bus_stop
     geometry : [55.4999899,30.7741700]
@@ -389,8 +389,8 @@ n2842612191
   other tags : highway=bus_stop
     geometry : [55.5004895,30.7741488]
 n2842666528
-  other tags : highway=bus_stop
-    geometry : [55.5377826,30.8178724]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.5377850,30.8178254]
 n2843347700  null / null / Станция Лужесно
   other tags : bus=yes | highway=bus_stop | public_transport=platform
     geometry : [55.2541421,30.1138232]
