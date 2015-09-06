@@ -326,11 +326,11 @@ n2841919040
   other tags : highway=bus_stop
     geometry : [55.2723814,30.4212184]
 n2841919240
-  other tags : highway=bus_stop
-    geometry : [55.2607107,30.3510370]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2607348,30.3509684]
 n2841919241
-  other tags : highway=bus_stop
-    geometry : [55.2609945,30.3524543]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.2609855,30.3524279]
 n2841919257
   other tags : highway=bus_stop
     geometry : [55.2772661,30.4832495]
