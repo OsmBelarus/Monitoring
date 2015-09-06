@@ -78,10 +78,10 @@ n2221016050
     geometry : [55.5046327,30.0301111]
 n2221178819
   other tags : highway=bus_stop | public_transport=platform
-    geometry : [55.5085635,30.0749255]
+    geometry : [55.5085576,30.0749938]
 n2221179441
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [55.5085494,30.0753645]
+    geometry : [55.5085464,30.0754380]
 n2228058622
   other tags : highway=bus_stop
     geometry : [55.5189543,30.0339010]
@@ -89,10 +89,10 @@ n2228061120
   other tags : highway=bus_stop
     geometry : [55.5198113,30.0344519]
 n2229070120
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [55.5170492,30.0984245]
 n2229070123
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | public_transport=platform
     geometry : [55.5171981,30.0990780]
 n2230700213
   other tags : highway=bus_stop
