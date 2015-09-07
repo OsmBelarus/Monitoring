@@ -71,7 +71,7 @@ n1425114617  Школа №6 / Škola №6 / Школа №6 / Школа №6
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8944898,25.2782261]
 n1425114620  Школа №6 / Škola №6 / Школа №6 / Школа №6
-  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8952017,25.2778349]
 n1425114623  вуліца 8 Сакавіка / vulica 8 Sakavika / улица 8 Марта / улица 8 Марта
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -176,25 +176,25 @@ n2097987584  Гастэлы-1 / Hastely-1 / Гастелло-1 / Гастелл�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9037889,25.2598188]
 n2097987791  вуліца Кальцавая / vulica Kaĺcavaja / улица Кольцевая / улица Кольцевая
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9060180,25.2544264]
 n2097988463  магазін Алмі / mahazin Almi / магазин Алми / магазин Алми
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9045940,25.2595954]
 n2097988534  магазін Алмі / mahazin Almi / магазин Алми / магазин Алми
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9042061,25.2601776]
 n2097988718  Дзіцячы сад №31 / Dziciačy sad №31 / Детский сад №31 / Детский сад №31
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8992649,25.2744517]
 n2097988852  Дзіцячы сад №31 / Dziciačy sad №31 / Детский сад №31 / Детский сад №31
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8985790,25.2756672]
 n2097988857  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9017102,25.2682863]
 n2097988858  вуліца Гастэлы / vulica Hastely / улица Гастелло / улица Гастелло
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9011412,25.2692314]
 n2097989422  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улица Строителей / улица Строителей
   other tags : highway=bus_stop | public_transport=platform
@@ -302,10 +302,10 @@ n2098003969  магазін Чайка / mahazin Čajka / магазин Чай�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8838859,25.2841960]
 n2098004254  вуліца Камуністычная / vulica Kamunistyčnaja / улица Коммунистическая / улица Коммунистическая
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=no | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8842223,25.2833674]
 n2098004377  вуліца Камуністычная / vulica Kamunistyčnaja / улица Коммунистическая / улица Коммунистическая
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8847238,25.2833505]
 n2098004455  вуліца Ленінская / vulica Lieninskaja / улица Ленинская / улица Ленинская
   other tags : highway=bus_stop | public_transport=platform
@@ -359,16 +359,16 @@ n2098014092  вуліца Выдайкі / vulica Vydajki / улица Выда�
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8820500,25.2843011]
 n2098014424  вуліца Клары Цэткін / vulica Klary Cetkin / улица Клары Цеткин / улица Клары Цеткин
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8878884,25.2818624]
 n2098014425  вуліца Клары Цэткін / vulica Klary Cetkin / улица Клары Цеткин / улица Клары Цеткин
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8885030,25.2813763]
 n2098014772  вуліца Неўскага / vulica Nieŭskaha / улица Невского / улица Невского
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8911945,25.2798617]
 n2098014814  вуліца Неўскага / vulica Nieŭskaha / улица Невского / улица Невского
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8904099,25.2799885]
 n2098015312  вуліца Тухачэўскага / vulica Tuchačeŭskaha / улица Тухачевского / улица Тухачевского
   other tags : highway=bus_stop | public_transport=platform
