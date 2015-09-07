@@ -947,10 +947,10 @@ w362517617
   other tags : addr:housenumber=1 | addr:street=Стахановская улица | building=house
     geometry : n3668085082[54.4981014,26.9233536] n3668085083[54.4982261,26.9233160] n3668085084[54.4982416,26.9234555] n3668085085[54.4981170,26.9234931] n3668085082[54.4981014,26.9233536]
 w369240923
-  other tags : addr:city=Вилейка | addr:housenumber=15 | addr:street=Вилейская улица | building=house | building:levels=1
+  other tags : addr:city=Вилейка | addr:housenumber=15 | addr:street=Вилейская улица | building=house | building:levels=1 | roof:colour=grey | roof:direction=across | roof:height=3 | roof:material=asbestos | roof:orientation=along | roof:shape=gabled
     geometry : n3730483098[54.5152250,26.9354116] n3730483099[54.5151834,26.9355996] n3730483100[54.5152937,26.9356721] n3730483101[54.5153354,26.9354841] n3730483098[54.5152250,26.9354116]
 w369241184
-  other tags : addr:city=Вилейка | addr:housenumber=13 | addr:street=Вилейская улица | building=house | building:levels=1 | roof:height=3 | roof:material=asbestos | roof:orientation=across | roof:shape=gabled
+  other tags : addr:city=Вилейка | addr:housenumber=13 | addr:street=Вилейская улица | building=house | building:levels=1 | roof:colour=brown | roof:direction=across | roof:height=3 | roof:material=metal | roof:orientation=across | roof:shape=gabled
     geometry : n3730476689[54.5150911,26.9359450] n3730476690[54.5152125,26.9360322] n3730476691[54.5151698,26.9362084] n3730476692[54.5150484,26.9361212] n3730476689[54.5150911,26.9359450]
 w369241662
   other tags : addr:city=Вилейка | addr:housenumber=11 | addr:street=Вилейская улица | building=house | building:levels=2
@@ -1138,3 +1138,21 @@ w369319850
 w369370064
   other tags : addr:city=Вилейка | addr:housenumber=62 | addr:street=улица Волынца | building=residential | building:levels=5
     geometry : n3731647364[54.5125078,26.9286180] n3731647371[54.5129385,26.9289077] n3731647365[54.5128940,26.9291040] n3731689856[54.5128687,26.9290870] n3731689862[54.5127582,26.9290127] n3731689861[54.5126509,26.9289405] n3731689859[54.5125400,26.9288659] n3731647366[54.5124633,26.9288143] n3731647364[54.5125078,26.9286180]
+w369419926
+  other tags : addr:housenumber=6 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080467[54.5162331,26.9380357] n3732080468[54.5163233,26.9381017] n3732080469[54.5162784,26.9382841] n3732080470[54.5161881,26.9382181] n3732080467[54.5162331,26.9380357]
+w369419929
+  other tags : addr:city=Вилейка | addr:housenumber=8 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080476[54.5164533,26.9381861] n3732080477[54.5165455,26.9382518] n3732080478[54.5165116,26.9383927] n3732080479[54.5164195,26.9383270] n3732080476[54.5164533,26.9381861]
+w369419934
+  other tags : addr:city=Вилейка | addr:housenumber=12 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080492[54.5169455,26.9385911] n3732080493[54.5170245,26.9386560] n3732080494[54.5169815,26.9388117] n3732080495[54.5169024,26.9387469] n3732080492[54.5169455,26.9385911]
+w369419936
+  other tags : addr:city=Вилейка | addr:housenumber=14 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080498[54.5171768,26.9394061] n3732080499[54.5172578,26.9394656] n3732080500[54.5172912,26.9393305] n3732080501[54.5172102,26.9392710] n3732080498[54.5171768,26.9394061]
+w369419938
+  other tags : addr:city=Вилейка | addr:housenumber=16 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080504[54.5174936,26.9389409] n3732080505[54.5175760,26.9390049] n3732080506[54.5175286,26.9391863] n3732080507[54.5174461,26.9391222] n3732080504[54.5174936,26.9389409]
+w369419941
+  other tags : addr:city=Вилейка | addr:housenumber=18 | addr:street=Куренецкая улица | building=house | building:levels=1
+    geometry : n3732080511[54.5177592,26.9392885] n3732080512[54.5178954,26.9393857] n3732080513[54.5179271,26.9392538] n3732080514[54.5178591,26.9392053] n3732080515[54.5178477,26.9392529] n3732080516[54.5177795,26.9392042] n3732080511[54.5177592,26.9392885]
