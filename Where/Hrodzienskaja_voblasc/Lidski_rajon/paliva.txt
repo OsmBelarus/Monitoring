@@ -25,7 +25,7 @@ n3306548271  Беларуснафта / Bielarusnafta / Белоруснефть
 n3384124209  Беларуснафта / Bielarusnafta / Белоруснефть / Белоруснефть
   other tags : addr:street=Циборы | amenity=fuel | description=173 км дороги М6 Минск-Гродно | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | phone=+375 154 58-03-25 | ref=АЗС №21 | website=http://belorusneft.by/
     geometry : [53.8462802,25.1863856]
-n3677282169  null / null / АЗС Белоруснефть
+n3677282169  null / null / Белоруснефть
   other tags : amenity=fuel | fuel:diesel=yes | fuel:octane_92=yes | fuel:octane_95=yes | opening_hours=24/7 | operator=Белоруснефть | website=http://belorusneft.by/
     geometry : [53.8954464,25.3430379]
 n3711585013  Модульны пункт запраўкі / Moduĺny punkt zapraŭki / Модульный пункт заправки / Модульный пункт заправки
@@ -35,5 +35,5 @@ n3711585015  Модульны пункт запраўкі / Moduĺny punkt zapra
   other tags : access=private | amenity=fuel | fuel:lpg=yes | opening_hours=08:00-12:00 | operator=Белтрансгаз | phone=+375 33 657-25-14 | website=http://metan.by/
     geometry : [53.8007700,25.1494000]
 w355424804
-  other tags : amenity=fuel | landuse=construction
+  other tags : amenity=fuel | landuse=industrial
     geometry : n3610384199[53.8951468,25.3423173] n3610384201[53.8957731,25.3420978] n3610384202[53.8959812,25.3435714] n3610384200[53.8952936,25.3439295] n3610384199[53.8951468,25.3423173]

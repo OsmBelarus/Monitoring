@@ -95,11 +95,11 @@ n3166462665  вуліца Фамічова / vulica Famičova / улица Фо�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9109286,25.2437322]
 n3168297688  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8944032,25.3360856]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8944386,25.3365666]
 n3168297689  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8944926,25.3388769]
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8944682,25.3385387]
 n3168434276  Газанапаўняльная станцыя / Hazanapaŭniaĺnaja stancyja / Газонаполнительная станция / Газонаполнительная станция
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8644873,25.2350032]
@@ -182,17 +182,17 @@ n3686796050
   other tags : highway=bus_stop
     geometry : [53.8498039,25.3395183]
 n3691898532
-  other tags : highway=bus_stop
+  other tags : bench=yes | highway=bus_stop | shelter=no
     geometry : [53.8959814,25.3510248]
 n3691898533
-  other tags : highway=bus_stop
-    geometry : [53.8959925,25.3499141]
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.8960309,25.3502238]
 n3691898535
-  other tags : highway=bus_stop
-    geometry : [53.8975750,25.3575789]
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.8975652,25.3574289]
 n3691898536
-  other tags : highway=bus_stop
-    geometry : [53.8977208,25.3590306]
+  other tags : bench=yes | highway=bus_stop | shelter=no
+    geometry : [53.8978943,25.3602418]
 n3692000621
   other tags : highway=bus_stop
     geometry : [53.8949696,25.3908921]

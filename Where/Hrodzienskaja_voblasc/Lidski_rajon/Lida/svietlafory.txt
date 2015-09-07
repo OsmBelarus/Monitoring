@@ -1,9 +1,9 @@
 n1425114588  вуліца Калініна / vulica Kalinina / улица Калинина / улица Калинина
-  other tags : highway=bus_stop | public_transport=platform | shelter=no
-    geometry : [53.8892996,25.3156574]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8893297,25.3157577]
 n1425114589  вуліца Калініна / vulica Kalinina / улица Калинина / улица Калинина
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8886299,25.3139828]
+    geometry : [53.8887101,25.3140406]
 n1425114590  вуліца Баўмана / vulica Baŭmana / улица Баумана / улица Баумана
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8870715,25.3087500]
@@ -50,10 +50,10 @@ n1425114606  Музычная школа / Muzyčnaja škola / Музыкаль�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8915444,25.3030712]
 n1425114607  вуліца Навасельская / vulica Navasieĺskaja / улица Новосельская / улица Новосельская
-  other tags : highway=bus_stop | public_transport=platform | shelter=no
-    geometry : [53.8912635,25.3213560]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8912816,25.3211998]
 n1425114608  вуліца Навасельская / vulica Navasieĺskaja / улица Новосельская / улица Новосельская
-  other tags : highway=bus_stop | public_transport=platform | shelter=no
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8909809,25.3196409]
 n1425114609  Абутковая фабрыка / Abutkovaja fabryka / Обувная фабрика / Обувная фабрика
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -63,7 +63,7 @@ n1425114610  Абутковая фабрыка / Abutkovaja fabryka / Обувн
     geometry : [53.8977814,25.2912909]
 n1425114611  вуліца Савецкая / vulica Savieckaja / улица Советская / улица Советская
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8954267,25.3016372]
+    geometry : [53.8953723,25.3016208]
 n1425114613  вуліца Савецкая / vulica Savieckaja / улица Советская / улица Советская
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8959905,25.3015614]
@@ -75,7 +75,7 @@ n1425114620  Школа №6 / Škola №6 / Школа №6 / Школа №6
     geometry : [53.8952017,25.2778349]
 n1425114623  вуліца 8 Сакавіка / vulica 8 Sakavika / улица 8 Марта / улица 8 Марта
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8986124,25.2974860]
+    geometry : [53.8983681,25.2977328]
 n1425114627  вуліца 8 Сакавіка / vulica 8 Sakavika / улица 8 Марта / улица 8 Марта
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8987274,25.2967136]
@@ -83,7 +83,7 @@ n1427783873  Аўтобусны парк №2 / Aŭtobusny park №2 / Авто�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8727832,25.3168992]
 n1427783876  Аўтобусны парк №2 / Aŭtobusny park №2 / Автобусный парк №2 / Автобусный парк №2
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8726374,25.3174737]
 n1427783891  Кніжны свет / Knižny sviet / Книжный мир / Книжный мир
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -107,10 +107,10 @@ n1427783917  Раённая паліклініка / Rajonnaja paliklinika / Р�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8924594,25.2966516]
 n1427783921  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8816649,25.3074251]
 n1427783924  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8818716,25.3076410]
 n1427783944  Ваенкамат / Vajenkamat / Военкомат / Военкомат
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -125,11 +125,11 @@ n1427831917  Кінатэатр Юбілейны / Kinateatr Jubiliejny / Кин
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8899854,25.2993062]
 n1427831921  завод Лідсельмаш / zavod Lidsieĺmaš / завод Лидсельмаш / завод Лидсельмаш
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8998715,25.2960119]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9016716,25.2941874]
 n1427831923  завод Лідсельмаш / zavod Lidsieĺmaš / завод Лидсельмаш / завод Лидсельмаш
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9002563,25.2959478]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9023717,25.2939588]
 n1427831925  вуліца Астроўскага / vulica Astroŭskaha / улица Островского / улица Островского
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8835533,25.2983439]
@@ -140,32 +140,32 @@ n1427831933  вуліца Прытыцкага / vulica Prytyckaha / улица 
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9329397,25.2640050]
 n1427831934  вуліца Рачная / vulica Račnaja / улица Речная / улица Речная
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9157746,25.2794365]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9171232,25.2780017]
 n1427831935  вуліца Рачная / vulica Račnaja / улица Речная / улица Речная
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9160350,25.2796539]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9174106,25.2780857]
 n1427831936  Рынак / Rynak / Рынок / Рынок
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8841236,25.3013959]
 n1427831937  Школа №5 / Škola №5 / Школа №5 / Школа №5
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9138551,25.2814118]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9140279,25.2812538]
 n1427831940  Школа №5 / Škola №5 / Школа №5 / Школа №5
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.9144688,25.2812919]
 n1427831941  вуліца Свярдлова / vulica Sviardlova / улица Свердлова / улица Свердлова
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9038433,25.2923331]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9038838,25.2922300]
 n1427831944  вуліца Свярдлова / vulica Sviardlova / улица Свердлова / улица Свердлова
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9040112,25.2917708]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9041271,25.2916740]
 n1427831950  вуліца Паўночная / vulica Paŭnočnaja / улица Северная / улица Северная
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9193027,25.2757208]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9203930,25.2745081]
 n1427831951  вуліца Паўночная / vulica Paŭnočnaja / улица Северная / улица Северная
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9196117,25.2758183]
+  other tags : bench=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9205177,25.2748329]
 n1561171267  Школа №17 / Škola №17 / Школа №17 / Школа №17
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8934907,25.2558698]
@@ -200,32 +200,32 @@ n2097989422  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улиц�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9151031,25.2372187]
 n2097989615  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улица Строителей / улица Строителей
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9156179,25.2375967]
 n2097989769  вуліца Хмяльніцкага / vulica Chmiaĺnickaha / улица Хмельницкого / улица Хмельницкого
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9194532,25.2428822]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9193246,25.2424896]
 n2097989770  вуліца Хмяльніцкага / vulica Chmiaĺnickaha / улица Хмельницкого / улица Хмельницкого
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9194977,25.2422808]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9196441,25.2425038]
 n2097990297  мікрараён Маладзёжны / mikrarajon Maladziožny / микрорайон Молодёжный / микрорайон Молодёжный
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9220942,25.2460686]
+  other tags : bench=no | bin=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9219032,25.2457486]
 n2097990924  мікрараён Маладзёжны / mikrarajon Maladziožny / микрорайон Молодёжный / микрорайон Молодёжный
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9221388,25.2456078]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9216364,25.2449190]
 n2097991478  Дачы / Dačy / Дачи / Дачи
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9266058,25.2465658]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9275250,25.2463138]
 n2097991484  Дачы / Dačy / Дачи / Дачи
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9275446,25.2461065]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9266254,25.2463829]
 n2097991594  завод Нёман / zavod Nioman / завод Неман / завод Неман
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9346780,25.2449800]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9345338,25.2449290]
 n2097991702  завод Нёман / zavod Nioman / завод Неман / завод Неман
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.9350638,25.2444175]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9340866,25.2444464]
 n2097991739  Лідахлебапрадукт / Lidachliebapradukt / Лидахлебопродукт / Лидахлебопродукт
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9413409,25.2458970]
@@ -248,29 +248,29 @@ n2097996768  Паўднёвы гарадок / Paŭdniovy haradok / Южный �
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8753653,25.3366249]
 n2097996769  Патсдам / Patsdam / Потсдам / Потсдам
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8793194,25.3336940]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8794452,25.3335791]
 n2097996968  Патсдам / Patsdam / Потсдам / Потсдам
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8787698,25.3344896]
 n2097997013  Лайкаўшчына / Lajkaŭščyna / Лайковщизна / Лайковщизна
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8825632,25.3301171]
+  other tags : bench=no | bin=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8827005,25.3299671]
 n2097997532  Лайкаўшчына / Lajkaŭščyna / Лайковщизна / Лайковщизна
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8824866,25.3312127]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8824932,25.3310954]
 n2097998030  вуліца Малахава / vulica Malachava / улица Малахова / улица Малахова
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8841672,25.3252867]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8844608,25.3242403]
 n2097998032  вуліца Малахава / vulica Malachava / улица Малахова / улица Малахова
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8840316,25.3249908]
 n2097999098  вуліца Герцэна / vulica Hiercena / улица Герцена / улица Герцена
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8771840,25.3126195]
 n2097999127  вуліца Герцэна / vulica Hiercena / улица Герцена / улица Герцена
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8771171,25.3123257]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8771080,25.3122717]
 n2098000364  вуліца Хасанаўская / vulica Chasanaŭskaja / улица Хасановская / улица Хасановская
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8633456,25.2852289]
@@ -313,9 +313,6 @@ n2098004455  вуліца Ленінская / vulica Lieninskaja / улица �
 n2098004848  Магазін Агеньчык / Mahazin Ahieńčyk / Магазин Огонёк / Магазин Огонёк
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8905011,25.3009881]
-n2098005435  бульвар Гедыміна / buĺvar Hiedymina / бульвар Гедимина / бульвар Гедимина
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8862518,25.3013825]
 n2098006718  АТС / ATS / АТС / АТС
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8792612,25.2855722]
@@ -422,17 +419,17 @@ n3157732454  Лідабудматэрыялы / Lidabudmateryjaly / Лидаст
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9362962,25.2641224]
 n3157732455  Прадуктовы магазін / Praduktovy mahazin / Продуктовый магазин / Продуктовый магазин
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9108763,25.2845829]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9109913,25.2844299]
 n3157732456  Прадуктовы магазін / Praduktovy mahazin / Продуктовый магазин / Продуктовый магазин
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9101740,25.2857314]
+  other tags : bench=no | bin=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9101102,25.2857624]
 n3157732457  вуліца Шчорса / vulica Ščorsa / улица Щорса / улица Щорса
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9065169,25.2895669]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9064363,25.2895702]
 n3157732458  вуліца Шчорса / vulica Ščorsa / улица Щорса / улица Щорса
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9066559,25.2889771]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9065221,25.2892342]
 n3159010564  Аўтавакзал / Aŭtavakzal / Автовокзал / Автовокзал
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8837222,25.2945334]
@@ -443,20 +440,20 @@ n3159192716  Лакафарба / Lakafarba / Лакокраска / Лакок�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9061208,25.3141986]
 n3164399578  вуліца генерала Бяды / vulica hienierala Biady / улица генерала Беды / улица генерала Беды
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8877537,25.3134794]
+  other tags : bench=no | bin=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8874719,25.3147984]
 n3164399579  вуліца генерала Бяды / vulica hienierala Biady / улица генерала Беды / улица генерала Беды
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8878226,25.3138246]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8871334,25.3161515]
 n3164399580  магазін Віталюр / mahazin Vitaliur / магазин Виталюр / магазин Виталюр
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8810319,25.2800567]
 n3164399581  вуліца Акрэсціна / vulica Akrescina / улица Окрестина / улица Окрестина
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8856416,25.3205645]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8862516,25.3187245]
 n3164399582  вуліца Акрэсціна / vulica Akrescina / улица Окрестина / улица Окрестина
-  other tags : fixme=where | highway=bus_stop | public_transport=platform
-    geometry : [53.8859604,25.3203692]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8859952,25.3199030]
 n3164399583  Універсам №17 / Univiersam №17 / Универсам №17 / Универсам №17
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8784927,25.2791876]
@@ -541,3 +538,24 @@ n3727901108
 n3727901109
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8912149,25.3140315]
+n3731737788  бульвар Гедыміна / buĺvar Hiedymina / бульвар Гедимина / бульвар Гедимина
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8860353,25.3014741]
+n3731737809
+  other tags : bench=yes | highway=bus_stop | shelter=no
+    geometry : [53.8789653,25.3284576]
+n3731739638
+  other tags : bench=no | bin=no | highway=bus_stop | shelter=no
+    geometry : [53.9185510,25.2766132]
+n3731739661
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.9338945,25.2623364]
+n3731739665
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.9353536,25.2472391]
+n3731739668
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.9355677,25.2467513]
+n3731739671
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.9377757,25.2598853]
