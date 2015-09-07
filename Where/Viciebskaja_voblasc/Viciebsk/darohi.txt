@@ -5481,10 +5481,10 @@ w30017699
   other tags : highway=footway
     geometry : n330831565[55.1884787,30.2180585] n330445031[55.1885255,30.2179052] n3369956179[55.1888163,30.2181276] n330445032[55.1888749,30.2181724]
 w30045301
-  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n275174565[55.1926812,30.1294380] n330893378[55.1927256,30.1278813]
 w30045302  вуліца Цітова / vulica Citova / улица Титова / улица Титова
-  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n330896126[55.1937749,30.1413818] n2362100913[55.1937145,30.1408882] n2362100879[55.1934472,30.1393888] n2507942121[55.1934190,30.1392251] n3344476500[55.1929884,30.1367141]
 w30046007
   other tags : highway=tertiary | maxspeed=60 | oneway=no
@@ -6165,13 +6165,13 @@ w32611995  Шумілінская вуліца / Šumilinskaja vulica / Шуми
   other tags : highway=secondary | maxspeed=60 | surface=asphalt
     geometry : n366724049[55.2280418,30.1068390] n1791750921[55.2279070,30.1071657] n275174514[55.2276691,30.1078506] n354671929[55.2272895,30.1090278] n401479953[55.2271338,30.1094525] n401479954[55.2269702,30.1098274] n366724130[55.2264192,30.1107959] n2264115704[55.2259809,30.1115651] n310295856[55.2255651,30.1123189] n306293089[55.2252549,30.1128350] n869846514[55.2248407,30.1135627] n310295854[55.2245544,30.1140415] n1877170853[55.2241665,30.1147039] n3184804343[55.2236779,30.1155062] n468274514[55.2236140,30.1156111] n2005177256[55.2230938,30.1165537] n572489328[55.2229308,30.1168550] n2005177249[55.2228280,30.1170452] n3716279022[55.2227569,30.1171828] n1877170844[55.2226629,30.1173646] n2356011601[55.2225639,30.1175181] n310295860[55.2224804,30.1176366]
 w32612228
-  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n330893378[55.1927256,30.1278813] n366726083[55.1927997,30.1251048] n330893374[55.1929098,30.1212957] n330893369[55.1928634,30.1195899] n821694112[55.1928237,30.1188166] n2494282122[55.1928135,30.1186459]
 w32612229
-  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : bridge=yes | highway=primary | lanes=2 | layer=1 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n330896068[55.1925794,30.1278646] n330896071[55.1925331,30.1294107]
 w32612231
-  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n330896071[55.1925331,30.1294107] n1872671172[55.1925039,30.1314432] n330896073[55.1925313,30.1332197] n330896076[55.1926272,30.1352118]
 w32612232
   other tags : highway=unclassified | oneway=yes
@@ -6595,10 +6595,10 @@ w37849532
   other tags : highway=track
     geometry : n443888097[55.2328458,30.1766558] n443888096[55.2325588,30.1757977] n443888095[55.2319151,30.1738821] n443888094[55.2315572,30.1728630] n2465227419[55.2312956,30.1722331] n443888093[55.2309981,30.1717441] n2465227362[55.2308791,30.1715324] n443888092[55.2307042,30.1711631] n443888091[55.2304978,30.1705678] n2465227299[55.2304100,30.1701821] n2465227283[55.2303738,30.1698373] n443888090[55.2304065,30.1695664] n700358054[55.2306154,30.1694936]
 w37851788
-  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n2494282122[55.1928135,30.1186459] n275174563[55.1927311,30.1174557] n1872671173[55.1926160,30.1164395] n3599004722[55.1925414,30.1158832]
 w37851790
-  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n3599004721[55.1923863,30.1159623] n1872671171[55.1924656,30.1165153] n330896058[55.1925856,30.1175254] n330896061[55.1926773,30.1190981] n330896063[55.1927330,30.1202535] n330909053[55.1927496,30.1212925] n330896066[55.1926899,30.1239965] n366726082[55.1926447,30.1253383] n330896068[55.1925794,30.1278646]
 w37877375  вуліца Зяньковай / vulica Ziańkovaj / улица Зеньковой / улица Зеньковой
   other tags : highway=residential
@@ -16195,10 +16195,10 @@ w242542559
   other tags : highway=track | smoothness=bad | tracktype=grade4
     geometry : n310295307[55.2047113,30.1149480] n1908277842[55.2050474,30.1155841] n821694130[55.2053597,30.1159420] n2500088383[55.2054856,30.1163892] n2500088387[55.2056795,30.1162074] n2500088390[55.2058215,30.1161915]
 w242638591
-  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=90 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n366726107[55.1927834,30.1351798] n330893382[55.1926679,30.1331799] n1872671175[55.1926280,30.1313641] n275174565[55.1926812,30.1294380]
 w242638592
-  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n330896076[55.1926272,30.1352118] n566180099[55.1927716,30.1365017] n494986459[55.1929072,30.1372103]
 w242952783
   other tags : highway=footway
@@ -23307,10 +23307,10 @@ w327636513  null / null / 3-й Сквозной переулок
   other tags : highway=proposed
     geometry : n3344467682[55.2029744,30.1218988] n3344467683[55.2038621,30.1270191] n3344467684[55.2032480,30.1314248]
 w327637586  вуліца Цітова / vulica Citova / улица Титова / улица Титова
-  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes
+  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | surface=asphalt
     geometry : n494986459[55.1929072,30.1372103] n1792800429[55.1932526,30.1390189] n330896107[55.1936327,30.1409293] n330896126[55.1937749,30.1413818]
 w327637587
-  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | ref=Р20
+  other tags : highway=primary | lanes=2 | maxspeed=60 | oneway=yes | ref=Р20 | surface=asphalt
     geometry : n3344476500[55.1929884,30.1367141] n566180098[55.1929481,30.1364573] n366726107[55.1927834,30.1351798]
 w328330926
   other tags : highway=proposed
