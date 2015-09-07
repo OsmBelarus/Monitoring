@@ -122,9 +122,9 @@ n1109736186  null / null / Куриный
 n1109736187  null / null / Мясная лавка
   other tags : shop=convenience
     geometry : [54.4783662,26.8911522]
-n1109738367  null / null / Хозяйственный
-  other tags : shop=convenience
-    geometry : [54.5132559,26.9291625]
+n1109738367  null / null / Хозяйственные мелочи
+  other tags : addr:city=Вилейка | addr:housenumber=62 | addr:street=улица Волынца | operator=ОАО "Белохозторг" | shop=hardware
+    geometry : [54.5130183,26.9290641]
 n1112165789  Прадукты / null / Продукты / Продукты
   other names: name:uk=Продукти
   other tags : shop=convenience
@@ -240,3 +240,6 @@ n3210730070  null / null / Second hand
 n3212101074  null / null / Second hand
   other tags : shop=clothes
     geometry : [54.4862348,26.8968243]
+n3731647372  null / null / Зоодом
+  other tags : operator=ИП Бжезовская Т.М. | shop=pet
+    geometry : [54.5132433,26.9291432]
