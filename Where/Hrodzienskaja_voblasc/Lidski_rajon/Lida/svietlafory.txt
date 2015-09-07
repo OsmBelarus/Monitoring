@@ -44,11 +44,11 @@ n1425114604  Дзяржаўтаінспекцыя / Dziaržaŭtainspiekcyja / Г
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8979253,25.2820059]
 n1425114605  Музычная школа / Muzyčnaja škola / Музыкальная школа / Музыкальная школа
-  other tags : highway=bus_stop | public_transport=platform | shelter=no
-    geometry : [53.8909696,25.3027852]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8909596,25.3027140]
 n1425114606  Музычная школа / Muzyčnaja škola / Музыкальная школа / Музыкальная школа
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8916643,25.3030882]
+    geometry : [53.8915444,25.3030712]
 n1425114607  вуліца Навасельская / vulica Navasieĺskaja / улица Новосельская / улица Новосельская
   other tags : highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8912635,25.3213560]
@@ -230,20 +230,20 @@ n2097991739  Лідахлебапрадукт / Lidachliebapradukt / Лидах�
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9413409,25.2458970]
 n2097993771  плошча Міцкевіча / plošča Mickieviča / площадь Мицкевича / площадь Мицкевича
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8965678,25.2998898]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8965496,25.2995747]
 n2097993852  Лідскае Піва / Lidskaje Piva / Лидское Пиво / Лидское Пиво
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8971655,25.3020285]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8972709,25.3022014]
 n2097993853  Лідскае Піва / Lidskaje Piva / Лидское Пиво / Лидское Пиво
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8967960,25.3014022]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8968013,25.3015989]
 n2097994161  вуліца Набярэжная / vulica Nabiarežnaja / улица Набережная / улица Набережная
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8989859,25.3083012]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8990044,25.3082354]
 n2097995117  вуліца Таўлая / vulica Taŭlaja / улица Тавлая / улица Тавлая
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8946024,25.3150915]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8944945,25.3148764]
 n2097996768  Паўднёвы гарадок / Paŭdniovy haradok / Южный городок / Южный городок
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8753653,25.3366249]
@@ -290,13 +290,13 @@ n2098001899  завод Оптык / zavod Optyk / завод Оптик / за�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8745114,25.2776417]
 n2098002188  Ветлячэбніца / Vietliačebnica / Ветлечебница / Ветлечебница
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8771867,25.2737758]
 n2098002895  магазін Віталюр / mahazin Vitaliur / магазин Виталюр / магазин Виталюр
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8797381,25.2776869]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8800109,25.2779978]
 n2098003504  магазін Чайка / mahazin Čajka / магазин Чайка / магазин Чайка
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8833065,25.2830718]
 n2098003969  магазін Чайка / mahazin Čajka / магазин Чайка / магазин Чайка
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
@@ -386,16 +386,16 @@ n2098019207  Бальніца / Baĺnica / Больница / Больница
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8947043,25.2869865]
 n2098019798  вуліца Касманаўтаў / vulica Kasmanaŭtaŭ / улица Космонавтов / улица Космонавтов
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8899916,25.2874943]
 n2098020068  вуліца Касманаўтаў / vulica Kasmanaŭtaŭ / улица Космонавтов / улица Космонавтов
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8899625,25.2868472]
 n2098021277  ДРБУ / DRBU / ДРСУ / ДРСУ
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8722783,25.2588038]
 n2098021333  ДРБУ / DRBU / ДРСУ / ДРСУ
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8726654,25.2613328]
 n2098025920  вуліца Дзяржынскага / vulica Dziaržynskaha / улица Дзержинского / улица Дзержинского
   other tags : fixme=where | highway=bus_stop | public_transport=platform
@@ -437,8 +437,8 @@ n3159010564  Аўтавакзал / Aŭtavakzal / Автовокзал / Авт�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8837222,25.2945334]
 n3159010565  Школа №8 / Škola №8 / Школа №8 / Школа №8
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8998946,25.3116771]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8999448,25.3119684]
 n3159192716  Лакафарба / Lakafarba / Лакокраска / Лакокраска
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9061208,25.3141986]
@@ -449,8 +449,8 @@ n3164399579  вуліца генерала Бяды / vulica hienierala Biady / 
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8878226,25.3138246]
 n3164399580  магазін Віталюр / mahazin Vitaliur / магазин Виталюр / магазин Виталюр
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8804738,25.2792900]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8810319,25.2800567]
 n3164399581  вуліца Акрэсціна / vulica Akrescina / улица Окрестина / улица Окрестина
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8856416,25.3205645]
@@ -500,10 +500,10 @@ n3168297692  паварот Лакафарба / pavarot Lakafarba / повор�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8929765,25.3249106]
 n3168297693  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8920304,25.3033303]
 n3168297694  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8929035,25.3066319]
 n3168297695  вуліца Цэнтральная / vulica Centraĺnaja / улица Центральная / улица Центральная
   other tags : fixme=where | highway=bus_stop | public_transport=platform
@@ -512,8 +512,8 @@ n3168297696  вуліца Цэнтральная / vulica Centraĺnaja / ули�
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8896752,25.3486123]
 n3168297697  вуліца Таўлая / vulica Taŭlaja / улица Тавлая / улица Тавлая
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8943081,25.3132300]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8943441,25.3131166]
 n3168410461  вуліца Баграціёна / vulica Bahracijona / улица Багратиона / улица Багратиона
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9001915,25.2673735]
