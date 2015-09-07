@@ -12,7 +12,7 @@ n1425114591  вуліца Баўмана / vulica Baŭmana / улица Баум
     geometry : [53.8872543,25.3091392]
 n1425114592  Дзіцячая паліклініка / Dziciačaja paliklinika / Детская поликлиника / Детская поликлиника
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8974140,25.2868388]
+    geometry : [53.8974276,25.2868314]
 n1425114594  Лядовы Палац / Liadovy Palac / Ледовый дворец / Ледовый дворец
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8952919,25.3220467]
@@ -42,10 +42,10 @@ n1425114602  Лідскі замак / Lidski zamak / Лидский Замок 
     geometry : [53.8872507,25.3047238]
 n1425114604  Дзяржаўтаінспекцыя / Dziaržaŭtainspiekcyja / Госавтоинспекция / Госавтоинспекция
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8979253,25.2820059]
+    geometry : [53.8979503,25.2820461]
 n1425114605  Музычная школа / Muzyčnaja škola / Музыкальная школа / Музыкальная школа
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
-    geometry : [53.8909596,25.3027140]
+    geometry : [53.8909649,25.3026718]
 n1425114606  Музычная школа / Muzyčnaja škola / Музыкальная школа / Музыкальная школа
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8915444,25.3030712]
@@ -87,7 +87,7 @@ n1427783876  Аўтобусны парк №2 / Aŭtobusny park №2 / Авто�
     geometry : [53.8726374,25.3174737]
 n1427783891  Кніжны свет / Knižny sviet / Книжный мир / Книжный мир
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8915113,25.2975964]
+    geometry : [53.8915452,25.2976112]
 n1427783899  мікрараён Чырвонаармейскі / mikrarajon Čyrvonaarmiejski / микрорайон Красноармейский / микрорайон Красноармейский
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8946169,25.2618696]
@@ -105,7 +105,7 @@ n1427783915  вуліца Рыбіноўскага / vulica Rybinoŭskaha / ул
     geometry : [53.8959876,25.2707606]
 n1427783917  Раённая паліклініка / Rajonnaja paliklinika / Районная поликлиника / Районная поликлиника
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8925293,25.2967125]
+    geometry : [53.8924594,25.2966516]
 n1427783921  праспект Перамогі / praspiekt Pieramohi / проспект Победы / проспект Победы
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8816649,25.3074251]
@@ -197,8 +197,8 @@ n2097988858  вуліца Гастэлы / vulica Hastely / улица Гаст�
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9011412,25.2692314]
 n2097989422  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улица Строителей / улица Строителей
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.9150958,25.2373746]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.9151031,25.2372187]
 n2097989615  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улица Строителей / улица Строителей
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9156179,25.2375967]
@@ -380,11 +380,11 @@ n2098016591  вуліца Кааператыўная / vulica Kaapieratyŭnaja /
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9002665,25.2581210]
 n2098018756  Бальніца / Baĺnica / Больница / Больница
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8957889,25.2868374]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8955725,25.2869042]
 n2098019207  Бальніца / Baĺnica / Больница / Больница
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8947043,25.2869865]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8946797,25.2868919]
 n2098019798  вуліца Касманаўтаў / vulica Kasmanaŭtaŭ / улица Космонавтов / улица Космонавтов
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8899916,25.2874943]
@@ -462,19 +462,16 @@ n3164399583  Універсам №17 / Univiersam №17 / Универсам �
     geometry : [53.8784927,25.2791876]
 n3166462661  вуліца Куйбышава / vulica Kujbyšava / улица Куйбышева / улица Куйбышева
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8973264,25.2779243]
+    geometry : [53.8972514,25.2776881]
 n3166462662  вуліца Куйбышава / vulica Kujbyšava / улица Куйбышева / улица Куйбышева
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8974431,25.2776220]
+    geometry : [53.8975561,25.2780040]
 n3166462664  вуліца Будаўнікоў / vulica Budaŭnikoŭ / улица Строителей / улица Строителей
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9145800,25.2354135]
-n3166462665  вуліца Фамічова / vulica Famičova / улица Фомичёва / улица Фомичёва
-  other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.9112805,25.2429366]
 n3166462666  вуліца Фамічова / vulica Famičova / улица Фомичёва / улица Фомичёва
-  other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.9118037,25.2423096]
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.9114958,25.2429903]
 n3168297683  вуліца Аэрадромная / vulica Aeradromnaja / улица Аэродромная / улица Аэродромная
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8869182,25.3402488]
@@ -530,11 +527,11 @@ n3682942108
   other tags : highway=bus_stop | shelter=yes
     geometry : [53.8929764,25.3233485]
 n3682942117
-  other tags : highway=bus_stop
-    geometry : [53.9124456,25.2401081]
+  other tags : bench=yes | highway=bus_stop | shelter=no
+    geometry : [53.9123961,25.2401742]
 n3682942118
-  other tags : highway=bus_stop
-    geometry : [53.9127541,25.2396390]
+  other tags : bench=yes | highway=bus_stop | shelter=no
+    geometry : [53.9127511,25.2396592]
 n3687341636  Дачы ДРБУ / Dačy DRBU / Дачи ДРСУ / Дачи ДРСУ
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8770772,25.2539735]
