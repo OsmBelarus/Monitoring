@@ -18,7 +18,7 @@ n1425114594  Лядовы Палац / Liadovy Palac / Ледовый дворе
     geometry : [53.8952919,25.3220467]
 n1425114595  Дзіцячы сад №22 / Dziciačy sad №22 / Детский сад №22 / Детский сад №22
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8964735,25.3217573]
+    geometry : [53.8964526,25.3217351]
 n1425114596  вуліца Крупскай / vulica Krupskaj / улица Крупской / улица Крупской
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8939805,25.2727688]
@@ -27,13 +27,13 @@ n1425114597  Лакафарба / Lakafarba / Лакокраска / Лакок�
     geometry : [53.9065981,25.3149598]
 n1425114598  Лядовы Палац / Liadovy Palac / Ледовый дворец / Ледовый дворец
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8934866,25.3237431]
+    geometry : [53.8935450,25.3237908]
 n1425114599  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9011702,25.3179142]
 n1425114600  Школа №8 / Škola №8 / Школа №8 / Школа №8
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.9015540,25.3167145]
+    geometry : [53.9015540,25.3166754]
 n1425114601  Белінвестбанк / Bielinviestbank / Белинвестбанк / Белинвестбанк
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.9021226,25.3176288]
@@ -122,8 +122,8 @@ n1427831916  мікрараён Індустрыяльны / mikrarajon Industry
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.9360899,25.2765853]
 n1427831917  Кінатэатр Юбілейны / Kinateatr Jubiliejny / Кинотеатр Юбилейный / Кинотеатр Юбилейный
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8900304,25.2991231]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8899854,25.2993062]
 n1427831921  завод Лідсельмаш / zavod Lidsieĺmaš / завод Лидсельмаш / завод Лидсельмаш
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8998715,25.2960119]
@@ -299,7 +299,7 @@ n2098003504  магазін Чайка / mahazin Čajka / магазин Чай�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8833065,25.2830718]
 n2098003969  магазін Чайка / mahazin Čajka / магазин Чайка / магазин Чайка
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8838859,25.2841960]
 n2098004254  вуліца Камуністычная / vulica Kamunistyčnaja / улица Коммунистическая / улица Коммунистическая
   other tags : bench=no | bin=no | highway=bus_stop | public_transport=platform | shelter=no
@@ -308,11 +308,11 @@ n2098004377  вуліца Камуністычная / vulica Kamunistyčnaja / 
   other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8847238,25.2833505]
 n2098004455  вуліца Ленінская / vulica Lieninskaja / улица Ленинская / улица Ленинская
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8895278,25.2949161]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8894988,25.2947295]
 n2098004848  Магазін Агеньчык / Mahazin Ahieńčyk / Магазин Огонёк / Магазин Огонёк
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8904831,25.3010593]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8905011,25.3009881]
 n2098005435  бульвар Гедыміна / buĺvar Hiedymina / бульвар Гедимина / бульвар Гедимина
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8862518,25.3013825]
@@ -413,7 +413,7 @@ n3157462709  бульвар Гедыміна / buĺvar Hiedymina / бульва�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8869733,25.3005745]
 n3157732452  вуліца Ленінская / vulica Lieninskaja / улица Ленинская / улица Ленинская
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8894707,25.2961785]
 n3157732453  Лідабудматэрыялы / Lidabudmateryjaly / Лидастройматериалы / Лидастройматериалы
   other tags : fixme=where | highway=bus_stop | public_transport=platform
@@ -483,7 +483,7 @@ n3168297684  вуліца Аэрадромная / vulica Aeradromnaja / ули�
     geometry : [53.8869675,25.3407293]
 n3168297685  Дзіцячы сад №22 / Dziciačy sad №22 / Детский сад №22 / Детский сад №22
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8956491,25.3203443]
+    geometry : [53.8957018,25.3204102]
 n3168297686  вуліца Загародняя / vulica Zaharodniaja / улица Загородная / улица Загородная
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8943998,25.3468753]
@@ -498,7 +498,7 @@ n3168297691  вуліца Паркавая / vulica Parkavaja / улица Па�
     geometry : [53.8846332,25.3344682]
 n3168297692  паварот Лакафарба / pavarot Lakafarba / поворот Лакокраска / поворот Лакокраска
   other tags : highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8930133,25.3248922]
+    geometry : [53.8929765,25.3249106]
 n3168297693  Белаграпрамбанк / Bielahraprambank / Белагропромбанк / Белагропромбанк
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8920304,25.3033303]
@@ -524,10 +524,10 @@ n3405146218  Еўраопт / Jeŭraopt / Евроопт / Евроопт
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.8911906,25.2548516]
 n3682942102
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8902995,25.3055160]
 n3682942108
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8929764,25.3233485]
 n3682942117
   other tags : highway=bus_stop
@@ -539,8 +539,8 @@ n3687341636  Дачы ДРБУ / Dačy DRBU / Дачи ДРСУ / Дачи ДР�
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8770772,25.2539735]
 n3727901108
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8911512,25.3149526]
 n3727901109
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8912149,25.3140315]
