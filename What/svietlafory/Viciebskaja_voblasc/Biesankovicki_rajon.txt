@@ -110,11 +110,11 @@ n2537624691
   other tags : highway=bus_stop
     geometry : [55.0208411,29.4786420]
 n2560337573
-  other tags : highway=bus_stop
-    geometry : [55.0198867,29.5512189]
+  other tags : highway=bus_stop | public_transport=platform
+    geometry : [55.0198575,29.5512772]
 n2560337575
-  other tags : highway=bus_stop
-    geometry : [55.0205888,29.5501537]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [55.0205345,29.5502047]
 n2660097579  null / null / Вядерево
   other tags : highway=bus_stop | public_transport=platform
     geometry : [55.1493358,29.9099648]
