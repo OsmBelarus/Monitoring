@@ -274,7 +274,7 @@ n2238880244  null / null / Дежур № 2 / Дежур № 2
   other tags : amenity=pharmacy | contact:email=apteka14@vitvar.by | contact:phone=+375(212) 23-27-20 | contact:website=http://www.vitvar.by/ | description=5-й категории | opening_hours=Mo-Fr 08:00-21:00; Sa,Su 10:00-20:00 | operator=ООО СП «ВитВар» | pharmacy:category=5
     geometry : [55.2077954,30.2206059]
 n2249763208  null / null / Планета Здоровья / Планета Здоровья
-  other tags : amenity=pharmacy
+  other tags : amenity=pharmacy | description=5-й категории | opening_hours=Mo-Su 09:00-22:00 | operator=ИООО «АБФармация» | pharmacy:category=5
     geometry : [55.1802836,30.2225054]
 n2250256827
   other tags : amenity=pharmacy
@@ -319,7 +319,7 @@ n2558229016  null / null / Аптека №49 / Аптека №49
   other tags : addr:housenumber=25Б | addr:street=улица Чкалова | amenity=pharmacy | phone=+375-212-27-03-22
     geometry : [55.1676242,30.2095971]
 n2630859279  null / null / Аптека № 1 «Де Жур» / Аптека № 1 «Де Жур»
-  other tags : amenity=pharmacy | contact:phone=+375212475475 | contact:website=http://www.vitvar.by/ | opening_hours=8:00-24:00 | operator=ООО СП «Витвар»
+  other tags : amenity=pharmacy | contact:phone=+375212475475 | contact:website=http://www.vitvar.by/ | opening_hours=Mo-Su 08:00-24:00 | operator=ООО СП «Витвар»
     geometry : [55.1806437,30.2164870]
 n2631039647  null / null / АПТЕКА N 14 Витвар / АПТЕКА N 14 Витвар
   other tags : addr:housenumber=135А | addr:street=Ленинградская улица | amenity=pharmacy | opening_hours=9:00-21:00 | operator=ООО СП ВИТВАР | phone=+375 212 35 39 36 | website=http://www.vitvar.by/

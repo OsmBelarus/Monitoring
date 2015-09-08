@@ -1612,9 +1612,9 @@ n2006115848  null / null / Вулкан
 n2006119191  Веста № 70 / null / Веста № 70 / Веста № 70
   other tags : contact:email=pokypatel_vesta@tut.by | contact:phone=+375(212) 360-998 | contact:website=http://vesta-retail.by/ | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off | operator=ОАО «Веста» | shop=convenience
     geometry : [55.1913013,30.1913747]
-n2022062560  null / null / ТехноПлюс
-  other tags : opening_hours=10:00-22:00 | shop=electronics
-    geometry : [55.1798905,30.2228007]
+n2022062560  null / null / ТехноПлюс / ТехноПлюс
+  other tags : level=2 | opening_hours=Mo-Su 10:00-21:00 | shop=electronics
+    geometry : [55.1799155,30.2228590]
 n2028963970  null / null / Олимп
   other tags : opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00 | phone=+375212539999 | shop=outdoor
     geometry : [55.1890631,30.2486578]
@@ -1642,9 +1642,6 @@ n2078743070  null / null / Шиномонтаж
 n2115233060  null / null / Веста № 129 (филиал)
   other tags : opening_hours=Mo-Sa 08:00-20:00; Su 08:00-19:00 | phone=+375 (212) 34-13-45 | shop=convenience | website=http://vesta-retail.by/
     geometry : [55.1786325,30.1769466]
-n2127338965  null / null / Центр стекла
-  other tags : craft=glaziery | shop=furniture
-    geometry : [55.1804570,30.2174750]
 n2127651393  Шынамантаж / null / Шиномонтаж / Шиномонтаж
   other tags : service=tyres | shop=car_repair
     geometry : [55.1976195,30.1932496]
@@ -1940,7 +1937,7 @@ n2427192758  null / null / Лёгкий сон
   other tags : contact:email=mikhail@yablakau.com | contact:phone=+375(33) 3-243-243 | contact:website=http://flylady.by/#!/ | description=сухая чистка подушек | level=2 | opening_hours=Tu-Sa 09:00-17:00 | operator=ЧСУП «Инлинг груп» | shop=dry_cleaning
     geometry : [55.1830000,30.1898739]
 n2429247224
-  other tags : shop=convenience
+  other tags : fixme=проверить | shop=convenience
     geometry : [55.1806746,30.2163235]
 n2431626927  null / null / Шиномонтаж
   other tags : contact:email=info@kis.by | contact:phone=+375(212) 355-973, +375(212) 355-541 | contact:website=http://www.navigator.by/ | opening_hours=Mo-Fr 08:00-19:00; Sa 10:00-17:00 | operator=ЗАО «КиС» | service=tyres | shop=car_repair
@@ -2065,14 +2062,14 @@ n2493665118
 n2497454794  null / null / СТО
   other tags : shop=car_repair
     geometry : [55.1729175,30.2448021]
-n2499040894  null / null / Зоомагазин
-  other tags : shop=pet
+n2499040894  null / null / Зоомагазин / Зоомагазин
+  other tags : opening_hours=Mo-Su 10:00-20:00 | operator=ЧП «ВитМедиаСервис» | shop=pet
     geometry : [55.1809498,30.2148059]
 n2499040895  null / null / Кот и пёс
   other tags : shop=pet
     geometry : [55.1811327,30.2138215]
 n2499041982  null / null / Кабан и щука
-  other tags : shop=fishing
+  other tags : fixme=проверить | shop=fishing
     geometry : [55.1810054,30.2145066]
 n2499061524  null / null / ювелирный "7 карат"
   other tags : shop=jewelry
@@ -2167,7 +2164,7 @@ n2528688058  null / null / Autoreal.by
 n2530020755  null / null / Копи-центр «Точка»
   other tags : opening_hours=Mo-Fr 09:00-18:00 | shop=copyshop
     geometry : [55.1782977,30.2307202]
-n2530020759  null / null / Рыбачок
+n2530020759  null / null / Рыбачок / Рыбачок
   other tags : opening_hours=Mo-Sa 09:00-19:00; Su 09:00-17:00 | shop=fishing
     geometry : [55.1800297,30.2202049]
 n2530020760  null / null / Тип-Топ
@@ -2484,7 +2481,7 @@ n2791865402  null / null / Мотовело
     geometry : [55.1913298,30.2048138]
 n2791865431  null / null / Спорт-сервис
   other tags : opening_hours=Mo-Fr 09:00-13:00,14:00-19:00; Sa 10:00-16:00 | phone=+375296289136 | service:bicycle:retail=yes | shop=sports
-    geometry : [55.1801321,30.2235861]
+    geometry : [55.1801336,30.2235729]
 n2810627602  null / null / Ювелир-Карат
   other tags : opening_hours=Mo-Sa 10:00-20:00; Su 10:00-18:00 | operator=ИООО «Ювелир-Карат» | shop=jewelry
     geometry : [55.1853466,30.2045488]
@@ -2747,7 +2744,7 @@ n2949719565  null / null / Ломбард
   other tags : shop=pawnbroker
     geometry : [55.1814768,30.2021302]
 n2949719566  null / null / Магазин TRUVOR (мужской стиль)
-  other tags : clothes=men | opening_hours=Mo-Su 09:00-18:00 | shop=clothes
+  other tags : clothes=men | fixme=проверить | opening_hours=Mo-Su 09:00-18:00 | shop=clothes
     geometry : [55.1801326,30.2191907]
 n2949719567  null / null / Оса
   other tags : description=ноутбуки | opening_hours=Mo-Su 10:00-20:00 | operator=ЧП «Мир компьютерных технологий» | shop=computer
@@ -2836,9 +2833,9 @@ n2969538209  null / null / Цветы
 n2969538210  null / null / Эконом класс
   other tags : second_hand=only | shop=clothes
     geometry : [55.1581110,30.2145036]
-n2971327678  null / null / Любава
+n2971327678  null / null / Любава / Любава
   other names: name:en=Lubawa
-  other tags : contact:website=http://www.lubawa.su/ | shop=clothes
+  other tags : contact:website=http://www.lubawa.su/ | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | shop=clothes
     geometry : [55.1813557,30.2126973]
 n2971341723  null / null / Аладэн
   other names: name:en=Aladen
@@ -3054,10 +3051,10 @@ n3126163598  null / null / Ремонт электроинструмента
   other tags : opening_hours=Mo-Fr 10:00-18:00 | phone=+375-212-363340 | shop=doityourself
     geometry : [55.1909021,30.1955086]
 n3126383706  null / null / Зоотовары
-  other tags : level=0 | opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | operator=ИП Левшина | shop=pet
+  other tags : level=0 | opening_hours=Mo-Fr 09:00-19:00; Sa,Su 10:00-17:00 | operator=ИП Левшина | shop=pet
     geometry : [55.1813587,30.2132946]
 n3126383707  null / null / Рыбак
-  other tags : opening_hours=Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00 | operator=ИП Левшина | shop=fishing
+  other tags : description=мотыль, опарыш, червь | level=0 | opening_hours=Mo-Fr 09:00-19:00; Sa,Su 10:00-17:00 | operator=ИП Левшина | shop=fishing
     geometry : [55.1813290,30.2133686]
 n3129492584  null / null / Хозяюшка
   other tags : opening_hours=Mo-Su 08:00-20:00 | operator=ЧП «Красота и чистота» | shop=chemist
@@ -3195,8 +3192,8 @@ n3373140968  null / null / Ремонт легковых авто и микро�
 n3374718762  Еўрасець / null / Евросеть
   other tags : operator=Евросеть | shop=mobile_phone
     geometry : [55.1920037,30.2058712]
-n3399988362  null / null / АМИ мебель
-  other tags : addr:housenumber=20 | addr:street=Московский проспект | opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | phone=+375-33-3706654, +375-29-6451892 | shop=furniture | website=http://www.laguna.by/
+n3399988362  null / null / AMI мебель
+  other tags : addr:housenumber=20 | addr:street=Московский проспект | contact:phone=+375-33-3706654, +375-29-6451892 | contact:website=http://www.laguna.by/ | opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | operator=ТДУП «Торговый дом «Лагуна» | shop=furniture
     geometry : [55.1812733,30.2128902]
 n3408531499  Продукты / null / Продукты / Продукты
   other tags : contact:phone=+375 (212) 47-45-70 | contact:website=http://maragurmana.by/ | official_name=Магазин № 7 | opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-15:00 | operator=ОАО «Птицефабрика Городок» | shop=convenience
@@ -3220,12 +3217,6 @@ n3410541089  null / null / Парикмахерская
 n3410541090  null / null / Сервис-центр
   other tags : shop=electronics
     geometry : [55.1790279,30.2152565]
-n3411340218  null / null / Добрыня
-  other tags : description=авто-мото-бензотехника | opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=motorcycle
-    geometry : [55.1799665,30.2200645]
-n3411340220
-  other tags : opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-17:00 | shop=bicycle
-    geometry : [55.1799723,30.2200900]
 n3428267725  null / null / AMI мебель / AMI мебель
   other tags : opening_hours=Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00 | shop=furniture | website=http://www.laguna.by/
     geometry : [55.1769046,30.1786065]
@@ -3289,9 +3280,9 @@ n3493482619  null / null / Амалия
 n3495221593  null / null / Карапузик.by
   other tags : contact:website=http://karapuzik.by/ | opening_hours=Mo-Su 10:00-19:00 | operator=ЧТУП «Кнопик» | second_hand=yes | shop=baby_goods
     geometry : [55.1936945,30.2258543]
-n3495221594  null / null / Клёво тут
-  other tags : level=2 | opening_hours=Mo 10:00-17:00; Tu-Sa 10:00-19:00; Su 10:00-15:00 | shop=fishing
-    geometry : [55.1799996,30.2228068]
+n3495221594  null / null / Клёво тут / Клёво тут
+  other tags : level=2 | opening_hours=Mo,Sa 09:00-18:00; Tu-Fr 09:00-19:00; Su 09:00-15:00 | shop=fishing
+    geometry : [55.1799137,30.2227340]
 n3495221595  null / null / МегаТур
   other tags : contact:phone=+375(29) 365-87-87, +375(33) 365-87-87 | opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-15:00 | operator=ЧТУП «Витебск-МегаТур» | shop=travel_agency
     geometry : [55.1855559,30.2046472]
@@ -3557,3 +3548,12 @@ n3727841372  null / null / Автомобили из США / Автомобил
 n3727841375  null / null / Черри / Черри
   other tags : level=3 | shop=beauty
     geometry : [55.1968731,30.2414609]
+n3733536331  null / null / Зоо Лавка / Зоо Лавка
+  other tags : level=2 | opening_hours=Mo-Su 09:00-21:00 | shop=pet
+    geometry : [55.1799519,30.2227615]
+n3733536332  null / null / От мамы к маме / От мамы к маме
+  other tags : description=детский комиссионный | opening_hours=Mo-Fr 10:00-14:00,15:00-19:00; Sa 10:00-14:00,15:00-16:00 | second_hand=only | shop=baby_goods
+    geometry : [55.1811107,30.2139401]
+n3733536335  null / null / Шиномонтаж / Шиномонтаж
+  other tags : service=tyres | shop=car_repair
+    geometry : [55.1807281,30.2221914]
