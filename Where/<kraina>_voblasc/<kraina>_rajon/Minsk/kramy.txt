@@ -4447,9 +4447,6 @@ n1509391745  null / null / Зоотовары
 n1511658262  «Вікторыя» / null / «Виктория»
   other tags : addr:housenumber=10 | addr:postcode=220045 | addr:street=улица Ежи Гедройца | shop=hairdresser | wheelchair=yes
     geometry : [53.8511853,27.4789598]
-n1517543901  Азарэнне / null / Азарэнне
-  other tags : shop=convenience
-    geometry : [53.9120756,27.4393706]
 n1517543928  null / null / Домашний
   other tags : shop=convenience
     geometry : [53.9226179,27.4552723]
@@ -10194,7 +10191,7 @@ n3279313791  null / null / оптика
   other tags : shop=optician
     geometry : [53.8757603,27.6313943]
 n3280259261  null / null / Евроопт
-  other tags : addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=Mo-Su 09:00-22:00 | operator=Евроторг | shop=supermarket
+  other tags : addr:housenumber=19 | addr:street=улица Кунцевщина | opening_hours=Mo-Su 09:00-22:00 | operator=Евроторг | shop=convenience
     geometry : [53.9116372,27.4349498]
 n3280267064  null / null / Bon Market
   other tags : addr:housenumber=37 | addr:street=улица Кунцевщина | shop=convenience
@@ -10206,7 +10203,7 @@ n3280584989  null / null / Магазин Разливного пива
   other tags : addr:housenumber=37 | addr:street=улица Кунцевщина | shop=beverages
     geometry : [53.9153931,27.4353283]
 n3280592770  null / null / Подкова
-  other tags : addr:housenumber=27 | addr:street=улица Кунцевщина | shop=supermarket
+  other tags : addr:housenumber=27 | addr:street=улица Кунцевщина | shop=alcohol
     geometry : [53.9130014,27.4351098]
 n3280592831  null / null / Волковысские продукты
   other tags : addr:housenumber=37 | addr:street=улица Кунцевщина | shop=supermarket
