@@ -7135,7 +7135,7 @@ n2621455399  null / null / Белсаюздрук
     geometry : [53.9003553,27.4421508]
 n2621455402  null / null / Белсаюздрук
   other tags : shop=kiosk
-    geometry : [53.9060616,27.4354620]
+    geometry : [53.9060839,27.4354584]
 n2621456253  null / null / Белсаюздрук
   other tags : shop=kiosk
     geometry : [53.9052364,27.4360253]
@@ -11293,9 +11293,6 @@ n3627837422  null / null / Златка
 n3627865936
   other tags : shop=hardware
     geometry : [53.8802606,27.6687601]
-n3629393267  null / null / BASTA
-  other tags : addr:housenumber=97 | addr:street=улица Притыцкого | shop=shoes
-    geometry : [53.9058219,27.4364599]
 n3629393268  null / null / Тропинка
   other tags : addr:housenumber=97 | addr:street=улица Притыцкого | opening_hours=08:00-23:00 | shop=convenience | website=http://sosedi.by/o_nas/tropinka/
     geometry : [53.9056235,27.4365200]
@@ -11699,3 +11696,6 @@ n3718996754  null / null / Отличный
 n3723645365  null / null / Радзивиловский
   other tags : shop=convenience
     geometry : [53.8495495,27.4796936]
+n3732559741  null / null / Керамин
+  other tags : addr:city=Minsk | addr:housenumber=97 | addr:street=улица Притыцкого | opening_hours=пн-пт: 09:00 – 21:00, сб-вс: 09:00 – 20:00 | shop=ceramic_tile,_sanitary_engineering | website=http://www.keramin.com
+    geometry : [53.9059510,27.4366010]
