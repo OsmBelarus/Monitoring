@@ -14,11 +14,11 @@ w53375459
   other tags : addr:housenumber=65 к1 | addr:street=улица Тухачевского | building=apartments
     geometry : n674960726[53.8978271,25.2588650] n674960727[53.8977166,25.2589230] n674960741[53.8979999,25.2604792] n674960735[53.8981105,25.2604212] n674960726[53.8978271,25.2588650]
 w53396625
-  other tags : addr:housenumber=72 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n675143028[53.8942477,25.2563805] n675143027[53.8941342,25.2564406] n675143044[53.8944014,25.2578940] n675143042[53.8944181,25.2578851] n675143043[53.8945149,25.2578339] n675143028[53.8942477,25.2563805]
+  other tags : addr:housenumber=72 | addr:street=улица Рыбиновского | building=apartments | building:flats=79 | building:levels=5 | building:year_bild=1995
+    geometry : n675143028[53.8942315,25.2562658] n675143027[53.8941181,25.2563261] n675143044[53.8943880,25.2577874] n675143042[53.8944299,25.2577651] n675143043[53.8945014,25.2577271] n675143028[53.8942315,25.2562658]
 w53396630
-  other tags : addr:housenumber=70 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n675143042[53.8944181,25.2578851] n675143044[53.8944014,25.2578940] n675143041[53.8943155,25.2579394] n675143040[53.8944466,25.2586527] n675143039[53.8945492,25.2585984] n675143042[53.8944181,25.2578851]
+  other tags : addr:housenumber=70 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=1992
+    geometry : n675143042[53.8944299,25.2577651] n675143044[53.8943880,25.2577874] n675143041[53.8943273,25.2578197] n675143040[53.8944599,25.2585378] n675143039[53.8945625,25.2584832] n675143042[53.8944299,25.2577651]
 w53448038
   other tags : addr:housenumber=6 | addr:street=Ленинская улица | building=apartments | building:levels=5
     geometry : n675592523[53.8905266,25.3014602] n675592524[53.8906445,25.3014660] n675592608[53.8906313,25.3022352] n675592606[53.8905134,25.3022293] n675592523[53.8905266,25.3014602]
@@ -344,7 +344,7 @@ w54515765
   other tags : addr:housenumber=10 к1 | addr:street=улица 7 Ноября | building=apartments | building:flats=144 | building:levels=9 | building:material=concrete | building:year_bild=1978 | roof:colour=dimgray
     geometry : n686623246[53.8904918,25.2949785] n686623265[53.8914900,25.2945391] n686623266[53.8915168,25.2947146] n686623247[53.8905186,25.2951541] n686623246[53.8904918,25.2949785]
 w54515768
-  other tags : addr:housenumber=28А | addr:street=Ленинская улица | building=apartments | building:colour=Moccasin | building:levels=5 | building:material=plaster | roof:colour=dimgray
+  other tags : addr:housenumber=28А | addr:street=Ленинская улица | building=apartments | building:colour=Moccasin | building:flats=119 | building:levels=5 | building:material=plaster | building:year_bild=1971 | roof:colour=dimgray
     geometry : n686623243[53.8897523,25.2947621] n686623233[53.8894640,25.2929993] n686623234[53.8895807,25.2929443] n686623244[53.8898690,25.2947071] n686623243[53.8897523,25.2947621]
 w54515769
   other tags : addr:housenumber=17 | addr:street=Ленинская улица | building=apartments
@@ -359,7 +359,7 @@ w54515775
   other tags : addr:housenumber=8 к1 | addr:street=улица 7 Ноября | building=apartments | building:flats=142 | building:levels=9 | building:material=concrete | building:year_bild=1977 | roof:colour=dimgray
     geometry : n686623271[53.8927198,25.2939969] n686623272[53.8927434,25.2941507] n686623264[53.8917253,25.2946008] n686623263[53.8917017,25.2944470] n686623271[53.8927198,25.2939969]
 w54518480
-  other tags : addr:housenumber=32 | addr:street=Ленинская улица | building=apartments | building:levels=5
+  other tags : addr:housenumber=32 | addr:street=Ленинская улица | building=apartments | building:flats=20 | building:levels=5 | building:year_bild=1990
     geometry : n686677755[53.8902942,25.2918710] n686677757[53.8900641,25.2919663] n686677758[53.8900432,25.2918213] n686677759[53.8902733,25.2917260] n686677755[53.8902942,25.2918710]
 w54518481
   other tags : addr:housenumber=2 к2 | addr:street=улица Космонавтов | building=apartments | building:flats=90 | building:levels=5 | building:year_bild=1974
@@ -371,25 +371,25 @@ w56292296
   other tags : addr:housenumber=77 | addr:street=улица Тухачевского | building=apartments | building:levels=5
     geometry : n672411280[53.8977876,25.2577247] n706198690[53.8984062,25.2574040] n706198689[53.8984377,25.2575790] n706198685[53.8978191,25.2578997] n672411280[53.8977876,25.2577247]
 w56322966
-  other tags : addr:housenumber=40 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=40 | addr:street=улица Рыбиновского | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1987
     geometry : n676277608[53.8962430,25.2626510] n706678831[53.8956244,25.2629717] n706678885[53.8955930,25.2627967] n706678903[53.8962116,25.2624760] n676277608[53.8962430,25.2626510]
 w56322968
   other tags : addr:housenumber=53 | addr:street=улица Тухачевского | building=apartments
     geometry : n676277663[53.8973691,25.2653402] n706678882[53.8974321,25.2656902] n706678901[53.8973290,25.2657436] n706678955[53.8972660,25.2653937] n676277663[53.8973691,25.2653402]
 w56322969
-  other tags : addr:housenumber=34 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=34 | addr:street=улица Рыбиновского | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1987
     geometry : n676277655[53.8969020,25.2653352] n706678852[53.8970912,25.2663849] n706678905[53.8969881,25.2664384] n706678922[53.8967989,25.2653887] n676277655[53.8969020,25.2653352]
 w56322970
   other tags : addr:housenumber=33 | addr:street=улица Тухачевского | building=apartments
     geometry : n706678916[53.8987397,25.2669734] n706678970[53.8978701,25.2674171] n706678980[53.8978394,25.2672441] n706678861[53.8987090,25.2668004] n706678916[53.8987397,25.2669734]
 w56322973
-  other tags : addr:housenumber=48 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=48 | addr:street=улица Рыбиновского | building=apartments | building:flats=36 | building:levels=5 | building:year_bild=1988
     geometry : n676277615[53.8968014,25.2625099] n706678886[53.8965952,25.2626169] n706678945[53.8965637,25.2624419] n706678958[53.8967699,25.2623349] n676277615[53.8968014,25.2625099]
 w56322974
   other tags : addr:housenumber=49 | addr:street=улица Тухачевского | building=apartments
     geometry : n706678933[53.8981008,25.2649343] n706678979[53.8981638,25.2652842] n706678819[53.8980607,25.2653377] n706678877[53.8979977,25.2649878] n706678933[53.8981008,25.2649343]
 w56322975
-  other tags : addr:housenumber=44 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=44 | addr:street=улица Рыбиновского | building=apartments | building:flats=36 | building:levels=9 | building:year_bild=1988
     geometry : n706678939[53.8969510,25.2632741] n706678805[53.8967448,25.2633810] n706678829[53.8967133,25.2632061] n706678884[53.8969194,25.2630991] n706678939[53.8969510,25.2632741]
 w56322977
   other tags : addr:housenumber=47 | addr:street=улица Тухачевского | building=apartments
@@ -398,14 +398,14 @@ w56322978
   other tags : addr:housenumber=51 | addr:street=улица Тухачевского | building=apartments
     geometry : n706678952[53.8977439,25.2651377] n706678826[53.8978069,25.2654876] n706678847[53.8977038,25.2655411] n706678898[53.8976408,25.2651912] n706678952[53.8977439,25.2651377]
 w56322979
-  other tags : addr:housenumber=28 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=28 | addr:street=улица Рыбиновского | building=apartments | building:flats=80 | building:levels=5 | building:year_bild=1987
     geometry : n676277703[53.8971614,25.2668924] n706678957[53.8962656,25.2673117] n706678969[53.8962316,25.2671029] n706678851[53.8971275,25.2666836] n676277703[53.8971614,25.2668924]
 w56322981
   other tags : addr:housenumber=83 | addr:street=улица Тухачевского | building=apartments
-    geometry : n706678962[53.8970675,25.2571061] n706678838[53.8960368,25.2576421] n706678855[53.8960052,25.2574671] n706678910[53.8970359,25.2569312] n706678962[53.8970675,25.2571061]
+    geometry : n706678962[53.8970790,25.2569967] n706678838[53.8960483,25.2575327] n706678855[53.8960167,25.2573577] n706678910[53.8970474,25.2568218] n706678962[53.8970790,25.2569967]
 w56322982
-  other tags : addr:housenumber=30 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n676277646[53.8959063,25.2656343] n706678966[53.8961691,25.2670324] n706678974[53.8960414,25.2671015] n706678857[53.8957786,25.2657035] n676277646[53.8959063,25.2656343]
+  other tags : addr:housenumber=30 | addr:street=улица Рыбиновского | building=apartments | building:flats=39 | building:levels=5 | building:year_bild=1989
+    geometry : n676277646[53.8959048,25.2656347] n3733075929[53.8960385,25.2663373] n3733075927[53.8959109,25.2664072] n706678857[53.8957773,25.2657046] n676277646[53.8959048,25.2656347]
 w56322983
   other tags : addr:housenumber=79 | addr:street=улица Тухачевского | building=apartments | building:levels=9
     geometry : n706280061[53.8974704,25.2584622] n706678930[53.8972188,25.2570623] n706678976[53.8973219,25.2570089] n706678807[53.8975735,25.2584088] n706280061[53.8974704,25.2584622]
@@ -416,20 +416,20 @@ w56322985
   other tags : addr:housenumber=45 | addr:street=улица Тухачевского | building=apartments
     geometry : n676277695[53.8984510,25.2657787] n706678938[53.8976264,25.2662073] n706678799[53.8975948,25.2660324] n706678828[53.8984194,25.2656038] n676277695[53.8984510,25.2657787]
 w56322986
-  other tags : addr:housenumber=42 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=42 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=9 | building:year_bild=1988
     geometry : n706678982[53.8964068,25.2625716] n706678862[53.8965325,25.2632716] n706678879[53.8964294,25.2633250] n706678934[53.8963037,25.2626250] n706678982[53.8964068,25.2625716]
 w56322988
-  other tags : addr:housenumber=32 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=32 | addr:street=улица Рыбиновского | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1986
     geometry : n676277648[53.8960779,25.2655215] n706678823[53.8966955,25.2651956] n706678842[53.8967275,25.2653703] n706678897[53.8961099,25.2656962] n676277648[53.8960779,25.2655215]
 w56322992
-  other tags : addr:housenumber=64 к1 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n706678836[53.8961171,25.2592178] n706678895[53.8958655,25.2578179] n706678907[53.8959686,25.2577646] n706678961[53.8962201,25.2591645] n706678836[53.8961171,25.2592178]
+  other tags : addr:housenumber=64 к1 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=1993
+    geometry : n3733075928[53.8960152,25.2584307] n706678895[53.8958901,25.2577336] n706678907[53.8959932,25.2576803] n3733075931[53.8961182,25.2583774] n3733075928[53.8960152,25.2584307]
 w56322993
   other tags : addr:housenumber=27 | addr:street=улица Тухачевского | building=apartments
     geometry : n676277759[53.9001157,25.2662286] n706678848[53.8990163,25.2668100] n706678858[53.8989847,25.2666362] n706678912[53.9000859,25.2660329] n712543274[53.9001003,25.2661160] n676277759[53.9001157,25.2662286]
 w56322994
   other tags : addr:housenumber=81 | addr:street=улица Тухачевского | building=apartments
-    geometry : n674960711[53.8974166,25.2586702] n706678860[53.8963859,25.2592061] n706678867[53.8963543,25.2590312] n706678927[53.8973850,25.2584953] n674960711[53.8974166,25.2586702]
+    geometry : n674960711[53.8974207,25.2585740] n706678860[53.8963900,25.2591099] n706678867[53.8963584,25.2589350] n706678927[53.8973891,25.2583991] n674960711[53.8974207,25.2585740]
 w57055673
   other tags : addr:housenumber=39 | addr:street=улица Тухачевского | building=apartments
     geometry : n676277716[53.8997012,25.2633707] n712543272[53.8999769,25.2648689] n712543291[53.8998710,25.2649250] n712543281[53.8995953,25.2634269] n676277716[53.8997012,25.2633707]
@@ -485,7 +485,7 @@ w58404219
   other tags : addr:housenumber=4 к2 | addr:street=улица Космонавтов | building=apartments | building:flats=90 | building:levels=5 | building:year_bild=1974
     geometry : n724164498[53.8901583,25.2889699] n724164499[53.8901817,25.2891272] n724164496[53.8893900,25.2894665] n724164501[53.8893666,25.2893093] n724164498[53.8901583,25.2889699]
 w58404222
-  other tags : addr:housenumber=30 | addr:street=Ленинская улица | building=apartments
+  other tags : addr:housenumber=30 | addr:street=Ленинская улица | building=apartments | building:flats=40 | building:levels=9 | building:year_bild=1979
     geometry : n724164495[53.8896912,25.2919825] n724164497[53.8894888,25.2920616] n3729119142[53.8894718,25.2919367] n1106610925[53.8895686,25.2918988] n3729119144[53.8895623,25.2918527] n2850579128[53.8896679,25.2918114] n724164495[53.8896912,25.2919825]
 w58404410
   other tags : addr:housenumber=16 к2 | addr:street=улица Космонавтов | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1973
@@ -506,7 +506,7 @@ w58512355
   other tags : addr:housenumber=6 к3 | addr:street=улица 7 Ноября | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1976
     geometry : n725190815[53.8925096,25.2922914] n725190824[53.8922621,25.2923950] n2850584258[53.8922502,25.2923135] n725190804[53.8922354,25.2922116] n725190807[53.8924829,25.2921080] n725190815[53.8925096,25.2922914]
 w58515812
-  other tags : addr:housenumber=34 | addr:street=Ленинская улица | building=apartments | building:levels=5
+  other tags : addr:housenumber=34 | addr:street=Ленинская улица | building=apartments | building:flats=20 | building:levels=5 | building:year_bild=1990
     geometry : n725217372[53.8903226,25.2912981] n725217438[53.8903808,25.2916790] n725217395[53.8902801,25.2917233] n725217393[53.8902220,25.2913424] n725217372[53.8903226,25.2912981]
 w58515813
   other tags : addr:housenumber=32 | addr:street=улица Черняховского | building=apartments
@@ -575,8 +575,8 @@ w59309016
   other tags : addr:housenumber=43 к3 | addr:street=улица Гастелло | building=apartments | building:levels=5
     geometry : n735568880[53.9007673,25.2554287] n735568851[53.9007909,25.2555598] n2853556251[53.9007987,25.2556029] n2853556247[53.9007666,25.2556196] n735568707[53.9008010,25.2558105] n735568576[53.9006786,25.2558740] n735568677[53.9006128,25.2555089] n735568880[53.9007673,25.2554287]
 w59309021
-  other tags : addr:housenumber=84 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n676277575[53.8953140,25.2526871] n735568462[53.8951114,25.2533330] n735568518[53.8950162,25.2532470] n735568808[53.8952188,25.2526011] n676277575[53.8953140,25.2526871]
+  other tags : addr:housenumber=84 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=1999
+    geometry : n676277575[53.8953346,25.2525648] n735568462[53.8951320,25.2532107] n735568518[53.8950368,25.2531247] n735568808[53.8952394,25.2524788] n676277575[53.8953346,25.2525648]
 w59309028
   other tags : addr:housenumber=24 | addr:street=Кооперативная улица | building=apartments
     geometry : n982712885[53.8996082,25.2530000] n735568481[53.8994363,25.2520525] n735568751[53.8997985,25.2518632] n735568638[53.8998303,25.2520383] n735568878[53.8995696,25.2521745] n982712847[53.8997097,25.2529469] n982712885[53.8996082,25.2530000]
@@ -608,8 +608,8 @@ w59309051
   other tags : addr:housenumber=43 к2 | addr:street=улица Гастелло | building=apartments | building:levels=5
     geometry : n735568885[53.9013570,25.2550323] n2853556249[53.9007524,25.2553459] n735568880[53.9007673,25.2554287] n735568851[53.9007909,25.2555598] n735568774[53.9013955,25.2552462] n735568885[53.9013570,25.2550323]
 w59309052
-  other tags : addr:housenumber=84 к1 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n735568852[53.8951126,25.2534194] n735568648[53.8953015,25.2544691] n735568728[53.8951984,25.2545225] n735568548[53.8950095,25.2534728] n735568852[53.8951126,25.2534194]
+  other tags : addr:housenumber=84 к1 | addr:street=улица Рыбиновского | building=apartments | building:flats=108 | building:levels=9 | building:year_bild=1998
+    geometry : n735568852[53.8951126,25.2533189] n735568648[53.8953015,25.2543686] n735568728[53.8951984,25.2544220] n735568548[53.8950095,25.2533723] n735568852[53.8951126,25.2533189]
 w59309054
   other tags : addr:housenumber=47 к3 | addr:street=улица Гастелло | building=apartments | building:levels=7
     geometry : n735568356[53.9029652,25.2575478] n735568861[53.9019980,25.2580711] n735568556[53.9019589,25.2578631] n735568491[53.9029261,25.2573398] n735568356[53.9029652,25.2575478]
@@ -630,64 +630,64 @@ w59479727
     geometry : n737818944[53.8983743,25.3150614] n737818976[53.8984448,25.3152884] n737818617[53.8983126,25.3154066] n737818668[53.8983247,25.3154455] n737818843[53.8981819,25.3155733] n737818887[53.8982029,25.3156408] n737819046[53.8980876,25.3157439] n737819094[53.8980163,25.3155143] n737818725[53.8981294,25.3154131] n737818757[53.8981142,25.3153642] n737818947[53.8982646,25.3152297] n737819158[53.8982476,25.3151748] n737818944[53.8983743,25.3150614]
 w59549410
   other tags : addr:housenumber=66 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652838[53.8951235,25.2574615] n738652797[53.8947105,25.2576718] n738652815[53.8946795,25.2574966] n738652882[53.8950925,25.2572863] n738652838[53.8951235,25.2574615]
+    geometry : n738652838[53.8951209,25.2573896] n738652797[53.8947079,25.2575999] n738652815[53.8946769,25.2574247] n738652882[53.8950899,25.2572144] n738652838[53.8951209,25.2573896]
 w59549413
-  other tags : addr:housenumber=50 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=50 | addr:street=улица Рыбиновского | building=apartments | building:flats=14 | building:levels=5 | building:year_bild=1999
     geometry : n738652854[53.8960915,25.2616719] n738652853[53.8960599,25.2614971] n738652845[53.8961108,25.2614707] n738652804[53.8960944,25.2613800] n738652822[53.8961971,25.2613266] n738652889[53.8962450,25.2615920] n738652854[53.8960915,25.2616719]
 w59549416
-  other tags : addr:housenumber=82 к2 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652891[53.8948820,25.2547877] n738652855[53.8947171,25.2539015] n738652814[53.8946652,25.2539293] n738652874[53.8946293,25.2537363] n738652832[53.8947830,25.2536539] n738652800[53.8949840,25.2547331] n738652891[53.8948820,25.2547877]
+  other tags : addr:housenumber=82 к2 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=2001
+    geometry : n738652891[53.8948820,25.2547877] n3733075817[53.8947461,25.2540572] n3733075820[53.8948481,25.2540032] n738652800[53.8949840,25.2547331] n738652891[53.8948820,25.2547877]
 w59549417
-  other tags : addr:housenumber=74 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652879[53.8950582,25.2558727] n738652835[53.8944358,25.2561847] n738652902[53.8944053,25.2560096] n738652852[53.8950278,25.2556976] n738652879[53.8950582,25.2558727]
+  other tags : addr:housenumber=74 | addr:street=улица Рыбиновского | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1991
+    geometry : n738652879[53.8950582,25.2558108] n738652835[53.8944358,25.2561228] n738652902[53.8944053,25.2559477] n738652852[53.8950278,25.2556357] n738652879[53.8950582,25.2558108]
 w59549418
-  other tags : addr:housenumber=86 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652840[53.8933602,25.2536465] n738652799[53.8934838,25.2543475] n738652817[53.8933805,25.2544000] n738652884[53.8932569,25.2536990] n738652840[53.8933602,25.2536465]
+  other tags : addr:housenumber=86 | addr:street=улица Рыбиновского | building=apartments | building:flats=71 | building:levels=9 | building:year_bild=2001
+    geometry : n738652840[53.8933914,25.2535687] n738652799[53.8935150,25.2542697] n738652817[53.8934117,25.2543222] n738652884[53.8932881,25.2536212] n738652840[53.8933914,25.2535687]
 w59549420
-  other tags : addr:housenumber=58 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=58 | addr:street=улица Рыбиновского | building=apartments | building:flats=80 | building:levels=5 | building:year_bild=1992
     geometry : n738652892[53.8948013,25.2595978] n738652850[53.8946924,25.2596550] n738652868[53.8949668,25.2611595] n738652826[53.8950098,25.2611369] n738652842[53.8950756,25.2611024] n738652892[53.8948013,25.2595978]
 w59549421
   other tags : addr:housenumber=80 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652851[53.8938765,25.2548803] n738652869[53.8939081,25.2550552] n738652858[53.8935470,25.2552429] n738652877[53.8934363,25.2546298] n738652878[53.8935394,25.2545763] n738652901[53.8936185,25.2550144] n738652851[53.8938765,25.2548803]
+    geometry : n738652851[53.8939058,25.2547963] n738652869[53.8939374,25.2549712] n738652858[53.8935763,25.2551589] n738652877[53.8934656,25.2545458] n738652878[53.8935687,25.2544923] n738652901[53.8936478,25.2549304] n738652851[53.8939058,25.2547963]
 w59549423
-  other tags : addr:housenumber=82 к3 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652841[53.8946392,25.2552855] n738652860[53.8945938,25.2550418] n738652824[53.8948989,25.2548782] n738652891[53.8948820,25.2547877] n738652800[53.8949840,25.2547331] n738652867[53.8950462,25.2550673] n738652841[53.8946392,25.2552855]
+  other tags : addr:housenumber=82 к3 | addr:street=улица Рыбиновского | building=apartments | building:flats=20 | building:levels=5 | building:year_bild=2000
+    geometry : n738652841[53.8946392,25.2552855] n738652860[53.8945938,25.2550418] n3733075819[53.8948304,25.2549149] n3733075821[53.8948738,25.2551597] n738652841[53.8946392,25.2552855]
 w59549424
-  other tags : addr:housenumber=64 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652828[53.8952324,25.2558797] n738652896[53.8956032,25.2580103] n738652803[53.8954930,25.2580656] n738652870[53.8951222,25.2559350] n738652828[53.8952324,25.2558797]
+  other tags : addr:housenumber=64 | addr:street=улица Рыбиновского | building=apartments | building:flats=120 | building:levels=5 | building:year_bild=1990
+    geometry : n738652828[53.8952324,25.2558178] n738652896[53.8956032,25.2579484] n738652803[53.8954930,25.2580037] n738652870[53.8951222,25.2558731] n738652828[53.8952324,25.2558178]
 w59549425
-  other tags : addr:housenumber=62 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652899[53.8955227,25.2584401] n738652856[53.8946972,25.2588679] n738652807[53.8946657,25.2586928] n738652876[53.8954911,25.2582649] n738652899[53.8955227,25.2584401]
+  other tags : addr:housenumber=62 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1991
+    geometry : n738652899[53.8955180,25.2583762] n3733075823[53.8951050,25.2585894] n3733075822[53.8950736,25.2584140] n738652876[53.8954865,25.2582007] n738652899[53.8955180,25.2583762]
 w59549428
-  other tags : addr:housenumber=54 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=54 | addr:street=улица Рыбиновского | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1990
     geometry : n738652795[53.8958877,25.2605271] n738652861[53.8952691,25.2608477] n738652880[53.8952376,25.2606728] n738652836[53.8958562,25.2603521] n738652795[53.8958877,25.2605271]
 w59549430
-  other tags : addr:housenumber=74 к1 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652828[53.8952324,25.2558797] n738652870[53.8951222,25.2559350] n738652812[53.8951071,25.2558483] n738652879[53.8950582,25.2558727] n738652852[53.8950278,25.2556976] n738652809[53.8951868,25.2556179] n738652828[53.8952324,25.2558797]
+  other tags : addr:housenumber=74 к1 | addr:street=улица Рыбиновского | building=apartments | building:flats=14 | building:levels=5 | building:year_bild=1996
+    geometry : n738652828[53.8952324,25.2558178] n738652870[53.8951222,25.2558731] n738652812[53.8951071,25.2557864] n738652879[53.8950582,25.2558108] n738652852[53.8950278,25.2556357] n738652809[53.8951868,25.2555560] n738652828[53.8952324,25.2558178]
 w59549431
-  other tags : addr:housenumber=56 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=56 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=1992
     geometry : n738652826[53.8950098,25.2611369] n738652868[53.8949668,25.2611595] n738652801[53.8949189,25.2611847] n738652819[53.8950514,25.2619115] n738652886[53.8951423,25.2618637] n738652826[53.8950098,25.2611369]
 w59549432
-  other tags : addr:housenumber=82 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652887[53.8940084,25.2540692] n738652837[53.8941499,25.2539934] n738652881[53.8941858,25.2541863] n738652843[53.8941518,25.2542046] n738652796[53.8942309,25.2546294] n738652863[53.8941234,25.2546870] n738652887[53.8940084,25.2540692]
+  other tags : addr:housenumber=82 | addr:street=улица Рыбиновского | building=apartments | building:flats=20 | building:levels=5 | building:year_bild=2001
+    geometry : n3733075811[53.8941712,25.2543086] n738652796[53.8942309,25.2546294] n738652863[53.8941234,25.2546870] n3733075809[53.8940639,25.2543672] n3733075811[53.8941712,25.2543086]
 w59549434
-  other tags : addr:housenumber=52 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=52 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1990
     geometry : n738652871[53.8960707,25.2606266] n738652829[53.8959680,25.2606800] n738652804[53.8960944,25.2613800] n738652822[53.8961971,25.2613266] n738652871[53.8960707,25.2606266]
 w59549438
-  other tags : addr:housenumber=68 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652888[53.8950163,25.2568373] n738652844[53.8946033,25.2570475] n738652864[53.8945724,25.2568724] n738652821[53.8949854,25.2566622] n738652888[53.8950163,25.2568373]
+  other tags : addr:housenumber=68 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1993
+    geometry : n738652888[53.8950110,25.2567744] n738652844[53.8945980,25.2569846] n738652864[53.8945671,25.2568095] n738652821[53.8949801,25.2565993] n738652888[53.8950110,25.2567744]
 w59549440
-  other tags : addr:housenumber=88 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652890[53.8935736,25.2529159] n738652848[53.8933710,25.2535618] n738652866[53.8932757,25.2534758] n738652823[53.8934784,25.2528299] n738652890[53.8935736,25.2529159]
+  other tags : addr:housenumber=88 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=2000
+    geometry : n738652890[53.8935974,25.2527977] n738652848[53.8933948,25.2534436] n738652866[53.8932995,25.2533576] n738652823[53.8935022,25.2527117] n738652890[53.8935974,25.2527977]
 w59549441
-  other tags : addr:housenumber=50 | addr:street=улица Рыбиновского | building=apartments
+  other tags : addr:housenumber=50 | addr:street=улица Рыбиновского | building=apartments | building:flats=80 | building:levels=5 | building:year_bild=1991
     geometry : n738652854[53.8960915,25.2616719] n738652813[53.8952663,25.2621010] n738652897[53.8952347,25.2619262] n738652853[53.8960599,25.2614971] n738652854[53.8960915,25.2616719]
 w59549442
-  other tags : addr:housenumber=82 к1 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652814[53.8946652,25.2539293] n738652881[53.8941858,25.2541863] n738652837[53.8941499,25.2539934] n738652874[53.8946293,25.2537363] n738652814[53.8946652,25.2539293]
+  other tags : addr:housenumber=82 к1 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=2001
+    geometry : n3733075814[53.8946652,25.2539293] n738652881[53.8941858,25.2541863] n738652837[53.8941499,25.2539934] n3733075812[53.8946293,25.2537363] n3733075814[53.8946652,25.2539293]
 w59549444
-  other tags : addr:housenumber=36 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n738652883[53.8955697,25.2644218] n738652816[53.8955119,25.2644527] n738652833[53.8956479,25.2651859] n738652900[53.8957538,25.2651293] n738652839[53.8956179,25.2643961] n738652857[53.8956716,25.2643674] n738652798[53.8954111,25.2629622] n738652865[53.8953092,25.2630167] n738652883[53.8955697,25.2644218]
+  other tags : addr:housenumber=36 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=5 | building:year_bild=1989
+    geometry : n738652883[53.8955697,25.2644218] n738652839[53.8956179,25.2643961] n738652857[53.8956716,25.2643674] n738652798[53.8954111,25.2629623] n738652865[53.8953092,25.2630167] n738652883[53.8955697,25.2644218]
 w59559392
   other tags : addr:housenumber=18 | addr:street=Кооперативная улица | building=apartments | building:levels=10
     geometry : n738806798[53.9001088,25.2549122] n738806796[53.9001561,25.2551746] n738806792[53.9000531,25.2552282] n738806797[53.9000057,25.2549658] n738806798[53.9001088,25.2549122]
@@ -2770,12 +2770,21 @@ w66592448
 w76436918
   other tags : addr:housenumber=12 | addr:street=улица 7 Ноября | building=apartments | building:colour=LemonChiffon | building:levels=10 | building:material=plaster | building:part=yes | roof:colour=dimgray
     geometry : n901161525[53.8903612,25.2949276] n901161500[53.8903967,25.2951530] n901161527[53.8900247,25.2953220] n901161530[53.8899299,25.2947210] n901161505[53.8900603,25.2946618] n901161528[53.8901195,25.2950374] n901161525[53.8903612,25.2949276]
+w76437077
+  other tags : addr:housenumber=20 | addr:street=Ленинская улица | building=apartments | building:flats=12 | building:levels=2 | building:year_bild=1955
+    geometry : n901166093[53.8899597,25.2963772] n901166095[53.8900576,25.2968283] n901166102[53.8899101,25.2969205] n901166089[53.8898122,25.2964695] n901166093[53.8899597,25.2963772]
+w76437078
+  other tags : addr:housenumber=22А | addr:street=Ленинская улица | building=house | building:flats=2 | building:levels=1 | building:year_bild=1950
+    geometry : n901166090[53.8899707,25.2960366] n901166109[53.8900228,25.2961993] n901166101[53.8899063,25.2963069] n901166104[53.8898541,25.2961442] n901166090[53.8899707,25.2960366]
+w76437079
+  other tags : addr:housenumber=22 | addr:street=Ленинская улица | building=apartments | building:flats=4 | building:levels=2 | building:year_bild=1939
+    geometry : n901166107[53.8897887,25.2959072] n3645863196[53.8898143,25.2960079] n3645863195[53.8898421,25.2959875] n901166108[53.8898665,25.2960836] n901166087[53.8897414,25.2961753] n901166103[53.8896913,25.2959786] n901166107[53.8897887,25.2959072]
 w77993904
-  other tags : addr:housenumber=92 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n916488742[53.8946089,25.2527149] n916488764[53.8941544,25.2527771] n916488801[53.8941453,25.2525860] n916488723[53.8945999,25.2525238] n916488742[53.8946089,25.2527149]
+  other tags : addr:housenumber=92 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=2004
+    geometry : n916488742[53.8946224,25.2525805] n916488764[53.8941679,25.2526427] n916488801[53.8941588,25.2524516] n916488723[53.8946134,25.2523894] n916488742[53.8946224,25.2525805]
 w77993911
-  other tags : addr:housenumber=90 | addr:street=улица Рыбиновского | building=apartments
-    geometry : n916488764[53.8941544,25.2527771] n916488733[53.8937243,25.2528360] n916488743[53.8937153,25.2526448] n916488801[53.8941453,25.2525860] n916488764[53.8941544,25.2527771]
+  other tags : addr:housenumber=90 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=2003
+    geometry : n916488764[53.8941679,25.2526427] n916488733[53.8937378,25.2527016] n916488743[53.8937288,25.2525104] n916488801[53.8941588,25.2524516] n916488764[53.8941679,25.2526427]
 w78518222
   other tags : addr:housenumber=25 | addr:street=улица Рыбиновского | building=apartments
     geometry : n921375436[53.8950836,25.2661952] n921375414[53.8952355,25.2670029] n921375420[53.8950453,25.2671059] n921375424[53.8948934,25.2662982] n921375436[53.8950836,25.2661952]
@@ -3005,7 +3014,7 @@ w90133926
   other tags : addr:housenumber=16 | addr:street=улица Черняховского | building=residential | building:levels=3
     geometry : n1044925315[53.8957737,25.2864230] n1044925327[53.8956043,25.2864937] n1044925309[53.8955738,25.2862836] n1044925322[53.8957433,25.2862128] n1044925315[53.8957737,25.2864230]
 w90135185
-  other tags : addr:housenumber=2 | addr:street=улица Мицкевича | building=apartments
+  other tags : addr:housenumber=2 | addr:street=улица Мицкевича | building=apartments | building:flats=27 | building:levels=3 | building:year_bild=1953
     geometry : n1044939417[53.8940985,25.2876935] n1044939337[53.8942104,25.2883572] n1044939426[53.8937981,25.2885573] n1044939373[53.8937516,25.2882813] n1044939368[53.8940641,25.2881297] n1044939297[53.8939988,25.2877419] n1044939417[53.8940985,25.2876935]
 w90173562
   other tags : addr:housenumber=4 | building=house
@@ -4160,7 +4169,7 @@ w95404208  null / null / 33
   other tags : addr:housenumber=2 | addr:street=улица Тургенева | building=house
     geometry : n1106284966[53.9005954,25.2702198] n1106284690[53.9004888,25.2702634] n1106284587[53.9005349,25.2705888] n1106284906[53.9006415,25.2705452] n1106284966[53.9005954,25.2702198]
 w95435960
-  other tags : addr:housenumber=30 | addr:street=Ленинская улица | building=apartments | building:levels=9
+  other tags : addr:housenumber=30 | addr:street=Ленинская улица | building=apartments | building:flats=40 | building:levels=9 | building:year_bild=1979
     geometry : n3729119143[53.8895054,25.2914337] n3729119144[53.8895623,25.2918527] n1106610925[53.8895686,25.2918988] n3729119142[53.8894718,25.2919367] n724164500[53.8894406,25.2919489] n2850579125[53.8893774,25.2914838] n3729119143[53.8895054,25.2914337]
 w95999378
   other tags : addr:housenumber=9 | addr:street=улица Тухачевского | building=house
@@ -4187,7 +4196,7 @@ w96247892
   other tags : addr:housenumber=20/20 | addr:street=улица Выдайко | building=house
     geometry : n1115621370[53.8821758,25.2859415] n1115621295[53.8821948,25.2860905] n1115621279[53.8821070,25.2861227] n1115621358[53.8820880,25.2859737] n1115621370[53.8821758,25.2859415]
 w96265005
-  other tags : addr:housenumber=15 | addr:street=улица Космодемьянской | building=house
+  other tags : addr:housenumber=15 | addr:street=улица Осликовского | building=house | building:flats=1 | building:levels=1 | building:year_bild=1972
     geometry : n1115882177[53.8990142,25.2691153] n1115882127[53.8991171,25.2690677] n1115882168[53.8991527,25.2692890] n1115882242[53.8990497,25.2693366] n1115882177[53.8990142,25.2691153]
 w96265007
   other tags : addr:housenumber=7 | addr:street=2-й переулок Гастелло | building=house
@@ -4860,7 +4869,7 @@ w96849298
     geometry : n1122241388[53.8946701,25.3135738] n1122241458[53.8947328,25.3137590] n1122241413[53.8946725,25.3138177] n1122241482[53.8946098,25.3136326] n1122241388[53.8946701,25.3135738]
 w97120366
   other tags : addr:housenumber=30 | addr:street=улица Льва Толстого | building=house
-    geometry : n1125097070[53.8985284,25.2834845] n1125097015[53.8985849,25.2835776] n1125097047[53.8985301,25.2836734] n1125096994[53.8984736,25.2835803] n1125097070[53.8985284,25.2834845]
+    geometry : n1125097070[53.8984415,25.2834096] n1125097015[53.8985482,25.2835736] n1125097047[53.8984955,25.2836725] n1125096994[53.8983887,25.2835086] n1125097070[53.8984415,25.2834096]
 w97120367
   other tags : addr:street=Красноармейская улица | building=house
     geometry : n1125097013[53.8980516,25.2814503] n1125097046[53.8981418,25.2814465] n1125096993[53.8981441,25.2815995] n1125097037[53.8980539,25.2816033] n1125097013[53.8980516,25.2814503]
@@ -4892,13 +4901,13 @@ w97120376
   other tags : addr:street=Красноармейская улица | building=house
     geometry : n1125097003[53.8979613,25.2821802] n1125097041[53.8980496,25.2822117] n1125096989[53.8980311,25.2823615] n1125097033[53.8979428,25.2823300] n1125097003[53.8979613,25.2821802]
 w97123566
-  other tags : addr:housenumber=22 | addr:street=улица Льва Толстого | building=apartments
+  other tags : addr:housenumber=22 | addr:street=улица Льва Толстого | building=apartments | building:flats=8 | building:levels=2 | building:year_bild=1959
     geometry : n1125161156[53.8997932,25.2835676] n1125161377[53.8998423,25.2838290] n1125161590[53.8997567,25.2838754] n1125161267[53.8997076,25.2836139] n1125161156[53.8997932,25.2835676]
 w97123567
   other tags : addr:housenumber=26 | addr:street=улица Льва Толстого | building=house
     geometry : n1125161174[53.8989553,25.2823148] n1125161389[53.8990417,25.2822707] n1125161612[53.8990676,25.2824173] n1125161282[53.8989812,25.2824614] n1125161174[53.8989553,25.2823148]
 w97123569
-  other tags : addr:housenumber=24 | addr:street=улица Льва Толстого | building=apartments
+  other tags : addr:housenumber=24 | addr:street=улица Льва Толстого | building=apartments | building:flats=8 | building:levels=2 | building:year_bild=1959
     geometry : n1125161294[53.8996936,25.2830585] n1125161577[53.8997427,25.2833200] n1125161262[53.8996572,25.2833663] n1125161493[53.8996080,25.2831048] n1125161294[53.8996936,25.2830585]
 w97123577
   other tags : addr:street=Красноармейская улица | building=house
@@ -4907,17 +4916,17 @@ w97123583
   other tags : addr:street=Красноармейская улица | building=house
     geometry : n1125161279[53.8988636,25.2818313] n1125161517[53.8989500,25.2817872] n1125161188[53.8989759,25.2819338] n1125161472[53.8988895,25.2819779] n1125161279[53.8988636,25.2818313]
 w97123590
-  other tags : addr:housenumber=18 | addr:street=улица Льва Толстого | building=apartments
+  other tags : addr:housenumber=18 | addr:street=улица Льва Толстого | building=apartments | building:flats=8 | building:levels=2 | building:year_bild=1962
     geometry : n1125161256[53.8999629,25.2844174] n1125161480[53.9000283,25.2847653] n1125161164[53.8999427,25.2848117] n1125161380[53.8998773,25.2844637] n1125161256[53.8999629,25.2844174]
 w97123599
   other tags : addr:street=Красноармейская улица | building=house
     geometry : n1125161275[53.8990545,25.2828942] n1125161511[53.8991409,25.2828501] n1125161184[53.8991668,25.2829967] n1125161469[53.8990804,25.2830408] n1125161275[53.8990545,25.2828942]
 w97123601
-  other tags : addr:street=Красноармейская улица | building=house
-    geometry : n1125161467[53.8987805,25.2829571] n1125161148[53.8988669,25.2829130] n1125161374[53.8988928,25.2830596] n1125161586[53.8988064,25.2831037] n1125161467[53.8987805,25.2829571]
+  other tags : addr:housenumber=30А | addr:street=улица Льва Толстого | building=house | building:flats=3 | building:levels=1 | building:year_bild=1938
+    geometry : n1125161467[53.8986713,25.2831254] n1125161148[53.8988024,25.2830584] n1125161374[53.8988284,25.2832049] n1125161586[53.8986973,25.2832719] n1125161467[53.8986713,25.2831254]
 w97123612
-  other tags : addr:housenumber=20 | addr:street=улица Льва Толстого | building=apartments
-    geometry : n1125161398[53.8998578,25.2839498] n1125161627[53.8999232,25.2842977] n1125161371[53.8998376,25.2843440] n1125161581[53.8997722,25.2839961] n1125161398[53.8998578,25.2839498]
+  other tags : addr:housenumber=20 | addr:street=улица Льва Толстого | building=apartments | building:flats=8 | building:levels=2 | building:year_bild=1962
+    geometry : n1125161398[53.8998710,25.2839428] n1125161627[53.8999359,25.2842928] n1125161371[53.8998374,25.2843454] n1125161581[53.8997725,25.2839955] n1125161398[53.8998710,25.2839428]
 w97234991
   other tags : addr:housenumber=46 | addr:street=улица Невского | building=apartments
     geometry : n1126336115[53.8914979,25.2697831] n1126336188[53.8919848,25.2694890] n1126336185[53.8920251,25.2696811] n1126336133[53.8915382,25.2699751] n1126336115[53.8914979,25.2697831]
@@ -5015,8 +5024,8 @@ w97690406
   other tags : addr:housenumber=1/44 | addr:street=улица Генерала Беды | building=house
     geometry : n1131002092[53.8881827,25.3135610] n1131002062[53.8880945,25.3136884] n1131002082[53.8879784,25.3134563] n1131002134[53.8880485,25.3133554] n3277156778[53.8880667,25.3133291] n1131002092[53.8881827,25.3135610]
 w97718157
-  other tags : addr:housenumber=30А | addr:street=улица Льва Толстого | building=house
-    geometry : n1131253748[53.8984992,25.2832466] n1131253749[53.8985557,25.2833397] n1131253746[53.8985009,25.2834355] n1131253744[53.8984444,25.2833424] n1131253748[53.8984992,25.2832466]
+  other tags : addr:housenumber=30А | addr:street=улица Льва Толстого | building=house | building:flats=1 | building:levels=1 | building:year_bild=1932
+    geometry : n1131253748[53.8985781,25.2830636] n1131253749[53.8986119,25.2832842] n1131253746[53.8985150,25.2833270] n1131253744[53.8984812,25.2831064] n1131253748[53.8985781,25.2830636]
 w97721735
   other tags : addr:housenumber=19 | addr:street=2-й переулок Свердлова | building=house
     geometry : n1131298993[53.9185628,25.2846786] n1131299149[53.9185806,25.2848380] n1131299124[53.9184911,25.2848668] n1131299088[53.9184733,25.2847075] n1131298993[53.9185628,25.2846786]
@@ -5684,7 +5693,7 @@ w310805954
   other tags : addr:housenumber=10 | addr:street=улица Пролыгина | building=apartments
     geometry : n3162927503[53.9304837,25.2719918] n3162927523[53.9307977,25.2719741] n3408347148[53.9308867,25.2718750] n3408347149[53.9309281,25.2717136] n3162927522[53.9309132,25.2712399] n3162927518[53.9307685,25.2712505] n3162927519[53.9307823,25.2717642] n3162927502[53.9304789,25.2717879] n3162927503[53.9304837,25.2719918]
 w313891908
-  other tags : addr:housenumber=3 | addr:street=улица Мицкевича | building=residential | building:levels=2
+  other tags : addr:housenumber=3 | addr:street=улица Мицкевича | building=residential | building:flats=5 | building:levels=2 | building:year_bild=1939
     geometry : n3199321767[53.8951708,25.2877113] n3199321768[53.8951966,25.2878941] n3199321766[53.8949566,25.2879915] n3199321765[53.8949308,25.2878087] n3199321767[53.8951708,25.2877113]
 w320706216
   other tags : addr:housenumber=25 | building=residential
@@ -12218,8 +12227,8 @@ w326193845
   other tags : addr:housenumber=24 | building=residential
     geometry : n3328147024[53.9007751,25.2762282] n3328147019[53.9006870,25.2762708] n3328147022[53.9007224,25.2764816] n3328147025[53.9008105,25.2764390] n3328147024[53.9007751,25.2762282]
 w326193846
-  other tags : addr:housenumber=26 | building=residential
-    geometry : n3328147032[53.9010119,25.2761967] n3328147028[53.9009063,25.2762050] n3328147029[53.9009125,25.2764328] n3328147033[53.9010180,25.2764246] n3328147032[53.9010119,25.2761967]
+  other tags : addr:housenumber=26 | addr:street=улица Крылова | building=house | building:flats=1 | building:levels=1 | building:year_bild=1937
+    geometry : n3328147032[53.9010082,25.2762012] n3328147028[53.9008939,25.2762468] n3328147029[53.9009195,25.2764315] n3328147033[53.9010338,25.2763860] n3328147032[53.9010082,25.2762012]
 w326193847
   other tags : addr:housenumber=7 | building=residential
     geometry : n3328147012[53.9005980,25.2757551] n3328147003[53.9004886,25.2758003] n3328147007[53.9005125,25.2759671] n3328147014[53.9006219,25.2759219] n3328147012[53.9005980,25.2757551]
@@ -12563,10 +12572,10 @@ w327393694
   other tags : addr:housenumber=9 | building=residential
     geometry : n3341751054[53.8998026,25.2683327] n3341751055[53.8998362,25.2685244] n3341751051[53.8996356,25.2686256] n3341751050[53.8996021,25.2684339] n3341751054[53.8998026,25.2683327]
 w327393695
-  other tags : addr:housenumber=14 | building=residential
+  other tags : addr:housenumber=14А | addr:street=улица Осликовского | building=house | building:flats=2 | building:levels=1 | building:year_bild=1973
     geometry : n3341751058[53.8999219,25.2689388] n3341751059[53.8999568,25.2691668] n3341751053[53.8997706,25.2692489] n3341751052[53.8997356,25.2690210] n3341751058[53.8999219,25.2689388]
 w327394104
-  other tags : addr:housenumber=10а | building=residential
+  other tags : addr:housenumber=10а | addr:street=улица Осликовского | building=house | building:flats=1 | building:levels=1 | building:year_bild=1973
     geometry : n3341752953[53.8998605,25.2698457] n3341752951[53.8997407,25.2699031] n3341752952[53.8997818,25.2701503] n3341752955[53.8999016,25.2700930] n3341752953[53.8998605,25.2698457]
 w327394105  null / null / 2/31
   other tags : building=residential
@@ -12585,7 +12594,7 @@ w327397133
     geometry : n3341809507[53.8993271,25.2703131] n3341809495[53.8992239,25.2703633] n3341809499[53.8992552,25.2705491] n3341809512[53.8993585,25.2704989] n3341809507[53.8993271,25.2703131]
 w327397134
   other tags : addr:housenumber=12 | building=residential
-    geometry : n3341809524[53.8994696,25.2696404] n3341809509[53.8993327,25.2697052] n3341809513[53.8993594,25.2698677] n3341809526[53.8994963,25.2698029] n3341809524[53.8994696,25.2696404]
+    geometry : n3341809524[53.8995561,25.2697043] n3341809509[53.8994192,25.2697691] n3341809513[53.8994459,25.2699316] n3341809526[53.8995828,25.2698668] n3341809524[53.8995561,25.2697043]
 w327397135
   other tags : addr:housenumber=13 | building=residential
     geometry : n3341809089[53.8992061,25.2696505] n3341809081[53.8990946,25.2697045] n3341809084[53.8991387,25.2699661] n3341809498[53.8992501,25.2699121] n3341809089[53.8992061,25.2696505]
@@ -12596,7 +12605,7 @@ w327397137
   other tags : addr:housenumber=16 | building=residential
     geometry : n3341809511[53.8993461,25.2689736] n3341809091[53.8992108,25.2690355] n3341809496[53.8992363,25.2691957] n3341809515[53.8993716,25.2691338] n3341809511[53.8993461,25.2689736]
 w327397138
-  other tags : addr:housenumber=18 | building=residential
+  other tags : addr:housenumber=18 | addr:street=улица Осликовского | building=house | building:flats=2 | building:levels=1 | building:year_bild=1973
     geometry : n3341809503[53.8992906,25.2685873] n3341809088[53.8991828,25.2686363] n3341809494[53.8992219,25.2688838] n3341809508[53.8993297,25.2688348] n3341809503[53.8992906,25.2685873]
 w327397139
   other tags : addr:housenumber=20 | building=residential
@@ -12716,7 +12725,7 @@ w327404964  null / null / 7б
   other tags : building=residential
     geometry : n3341917155[53.8976822,25.2743808] n3341917156[53.8977259,25.2746069] n3341917158[53.8978483,25.2745387] n3341917157[53.8978046,25.2743126] n3341917155[53.8976822,25.2743808]
 w327404965
-  other tags : addr:housenumber=7 | building=residential
+  other tags : addr2:housenumber=7 | addr:housenumber=18б | addr:street=Красноармейская улица | building=house | building:flats=1 | building:levels=1 | building:year_bild=1952
     geometry : n3341917153[53.8976567,25.2764123] n3341917151[53.8975265,25.2764447] n3341917152[53.8975433,25.2766390] n3341917154[53.8976735,25.2766065] n3341917153[53.8976567,25.2764123]
 w327404966
   other tags : addr:housenumber=9 | building=residential
@@ -19882,3 +19891,27 @@ w369457468
 w369457469
   other tags : addr:housenumber=8 к2 | addr:street=улица 7 Ноября | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1976
     geometry : n755798560[53.8922622,25.2933061] n3732475988[53.8920200,25.2934105] n3732475987[53.8919911,25.2932179] n3732475989[53.8922333,25.2931134] n755798560[53.8922622,25.2933061]
+w369527488
+  other tags : addr:housenumber=30 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1987
+    geometry : n3733075929[53.8960385,25.2663373] n3733075933[53.8961704,25.2670313] n3733075930[53.8960429,25.2671011] n3733075927[53.8959109,25.2664072] n3733075929[53.8960385,25.2663373]
+w369527489
+  other tags : addr:housenumber=36 | addr:street=улица Рыбиновского | building=apartments | building:flats=79 | building:levels=9 | building:year_bild=1988
+    geometry : n738652839[53.8956179,25.2643961] n3733075926[53.8957538,25.2651293] n3733075925[53.8956479,25.2651859] n3733075824[53.8955119,25.2644527] n738652883[53.8955697,25.2644218] n738652839[53.8956179,25.2643961]
+w369527490
+  other tags : addr:housenumber=62 | addr:street=улица Рыбиновского | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1991
+    geometry : n3733075822[53.8950736,25.2584140] n3733075823[53.8951050,25.2585894] n3733075815[53.8946924,25.2588025] n3733075813[53.8946609,25.2586270] n3733075822[53.8950736,25.2584140]
+w369527491
+  other tags : addr:housenumber=64 к1 | addr:street=улица Рыбиновского | building=apartments | building:flats=72 | building:levels=9 | building:year_bild=1993
+    geometry : n3733075931[53.8961182,25.2583774] n3733075928[53.8960152,25.2584307] n3733075932[53.8961449,25.2591300] n3733075934[53.8962479,25.2590768] n3733075931[53.8961182,25.2583774]
+w369527492
+  other tags : addr:housenumber=82 к1Г | addr:street=улица Рыбиновского | building=apartments | building:flats=14 | building:levels=5 | building:year_bild=2001
+    geometry : n3733075818[53.8947830,25.2536539] n3733075820[53.8948481,25.2540032] n3733075817[53.8947461,25.2540572] n3733075816[53.8947171,25.2539015] n3733075814[53.8946652,25.2539293] n3733075812[53.8946293,25.2537363] n3733075818[53.8947830,25.2536539]
+w369527493
+  other tags : addr:housenumber=82 к3Г | addr:street=улица Рыбиновского | building=apartments | building:flats=14 | building:levels=5 | building:year_bild=2001
+    geometry : n738652800[53.8949840,25.2547331] n738652867[53.8950462,25.2550673] n3733075821[53.8948738,25.2551597] n3733075819[53.8948304,25.2549149] n738652824[53.8948989,25.2548782] n738652891[53.8948820,25.2547877] n738652800[53.8949840,25.2547331]
+w369527494
+  other tags : addr:housenumber=82 кГ | addr:street=улица Рыбиновского | building=apartments | building:flats=14 | building:levels=5 | building:year_bild=2001
+    geometry : n738652837[53.8941499,25.2539934] n738652881[53.8941858,25.2541863] n3733075810[53.8941518,25.2542046] n3733075811[53.8941712,25.2543086] n3733075809[53.8940639,25.2543672] n3733075808[53.8940084,25.2540692] n738652837[53.8941499,25.2539934]
+w369527497
+  other tags : addr:street=улица Льва Толстого | building=house
+    geometry : n3733075937[53.8984296,25.2831398] n3733075938[53.8984634,25.2833604] n3733075936[53.8983665,25.2834032] n3733075935[53.8983327,25.2831826] n3733075937[53.8984296,25.2831398]
