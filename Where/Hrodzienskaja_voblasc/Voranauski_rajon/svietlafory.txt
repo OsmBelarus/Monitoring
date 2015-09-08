@@ -17,11 +17,17 @@ n3029358859
   other tags : bus=yes | highway=bus_stop | public_transport=stop_position
     geometry : [54.1107806,25.2799565]
 n3685948298
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8605397,24.9221814]
 n3685948299
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8610568,24.9234006]
 n3685948301
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8638141,24.9295384]
+n3733537354
+  other tags : highway=bus_stop | shelter=no
+    geometry : [53.8332686,24.8987679]
+n3733537355
+  other tags : highway=bus_stop | shelter=yes
+    geometry : [53.8336707,24.8997577]

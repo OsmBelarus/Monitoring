@@ -13,15 +13,18 @@ n2097989294  Могілкі Зосіна / Mohilki Zosina / Кладбище З�
 n2097994589  Малейкаўшчызна / Maliejkaŭščyzna / Малейковщизна / Малейковщизна
   other tags : fixme=where | highway=bus_stop | public_transport=platform
     geometry : [53.9203077,25.3110092]
+n2098021277  ДРБУ / DRBU / ДРСУ / ДРСУ
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
+    geometry : [53.8720559,25.2582918]
 n2098021524  Астроўля / Astroŭlia / Островля / Островля
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8692828,25.2500622]
 n2098021664  Астроўля / Astroŭlia / Островля / Островля
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8686723,25.2472899]
 n2098022531  null / null / поворот
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
-    geometry : [53.8635412,25.2317394]
+    geometry : [53.8635412,25.2317355]
 n2098022904  Бальніца Астроўля / Baĺnica Astroŭlia / Больница Островля / Больница Островля
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8705198,25.2332584]
@@ -47,10 +50,10 @@ n2921834521  null / null / Дитва
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8428488,25.1772199]
 n2921834557
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8468607,25.1877212]
 n2921834558
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8466890,25.1866637]
 n2931006232  null / null / Репники
   other tags : bench=yes | bus=yes | highway=bus_stop | public_transport=platform | shelter=yes
@@ -101,13 +104,13 @@ n3168297689  Навасёлкі / Navasiolki / Новосёлки / Новосё
   other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8944682,25.3385387]
 n3168434276  Газанапаўняльная станцыя / Hazanapaŭniaĺnaja stancyja / Газонаполнительная станция / Газонаполнительная станция
-  other tags : highway=bus_stop | public_transport=platform
-    geometry : [53.8644873,25.2350032]
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
+    geometry : [53.8641594,25.2343506]
 n3168434277  Газанапаўняльная станцыя / Hazanapaŭniaĺnaja stancyja / Газонаполнительная станция / Газонаполнительная станция
   other tags : highway=bus_stop | public_transport=platform
     geometry : [53.8646152,25.2338138]
 n3306254073  null / null / Мыто
-  other tags : highway=bus_stop
+  other tags : highway=bus_stop | shelter=yes
     geometry : [53.8239815,25.1265991]
 n3306283936  null / null / Филоновцы
   other tags : highway=bus_stop
@@ -128,52 +131,52 @@ n3306298168  null / null / Бобовцы
   other tags : highway=bus_stop
     geometry : [53.8109597,25.1114793]
 n3685948264
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8239069,25.1243913]
 n3685948265
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8258477,25.1099536]
 n3685948266
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8266453,25.1069973]
 n3685948267
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8285758,25.0371372]
 n3685948268
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8296308,25.0345708]
 n3685948270
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8322954,25.0144594]
 n3685948271
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8325385,24.9680913]
 n3685948272
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8335042,25.0121354]
 n3685948284
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8446900,24.9638094]
 n3685948285
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | bin=no | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8463473,24.9625044]
 n3685948291
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8509024,24.9550124]
 n3685948292
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8532724,24.9513108]
 n3685948293
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8545281,25.2077101]
 n3685948294
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8550817,25.2096947]
 n3685948295
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : bench=yes | highway=bus_stop | public_transport=platform | shelter=no
     geometry : [53.8582400,25.2176284]
 n3685948297
-  other tags : highway=bus_stop | public_transport=platform
+  other tags : highway=bus_stop | public_transport=platform | shelter=yes
     geometry : [53.8591784,25.2208152]
 n3686796047
   other tags : highway=bus_stop
