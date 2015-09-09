@@ -350,8 +350,8 @@ w54515769
   other tags : addr:housenumber=17 | addr:street=Ленинская улица | building=apartments
     geometry : n686623245[53.8891871,25.2955649] n686623242[53.8891067,25.2956109] n686623241[53.8888292,25.2942152] n686623240[53.8889096,25.2941692] n686623245[53.8891871,25.2955649]
 w54515770
-  other tags : addr:housenumber=29А | addr:street=улица Суворова | building=apartments | building:levels=5
-    geometry : n686623236[53.8901702,25.2924857] n686623237[53.8895256,25.2927563] n686623238[53.8894951,25.2925472] n686623239[53.8901397,25.2922766] n686623236[53.8901702,25.2924857]
+  other tags : addr:housenumber=29А | addr:street=улица Суворова | building=apartments | building:flats=118 | building:levels=5 | building:year_bild=1971
+    geometry : n686623236[53.8901639,25.2924328] n686623237[53.8895188,25.2927031] n686623238[53.8894884,25.2924940] n686623239[53.8901335,25.2922237] n686623236[53.8901639,25.2924328]
 w54515774
   other tags : addr:housenumber=6 к2 | addr:street=улица 7 Ноября | building=apartments | building:flats=40 | building:levels=5 | building:year_bild=1977
     geometry : n686623261[53.8927096,25.2928252] n686623262[53.8928131,25.2927834] n686623270[53.8929328,25.2936353] n686623269[53.8928294,25.2936772] n686623261[53.8927096,25.2928252]
@@ -475,6 +475,9 @@ w57846661
 w58105403
   other tags : addr:housenumber=8 к2 | addr:street=улица 7 Ноября | building=apartments | building:flats=60 | building:levels=5 | building:year_bild=1976
     geometry : n755798560[53.8922622,25.2933061] n721051763[53.8923743,25.2932577] n721051736[53.8924343,25.2936584] n721051741[53.8923222,25.2937067] n755798560[53.8922622,25.2933061]
+w58118975
+  other tags : addr:housenumber=12 | addr:street=улица Суворова | building=house | building:flats=3 | building:levels=1 | building:year_bild=1926
+    geometry : n721226497[53.8916843,25.2937538] n721226491[53.8915735,25.2938326] n721226494[53.8916201,25.2940214] n721226498[53.8917310,25.2939426] n721226497[53.8916843,25.2937538]
 w58402928
   other tags : addr:housenumber=18 к1 | addr:street=улица Космонавтов | building=apartments | building:flats=72 | building:levels=5 | building:year_bild=1979
     geometry : n724149743[53.8930395,25.2841499] n724149737[53.8930664,25.2843205] n724149736[53.8925657,25.2845479] n724149744[53.8925388,25.2843774] n724149743[53.8930395,25.2841499]
@@ -1241,16 +1244,16 @@ w64472706
   other tags : addr:housenumber=20 | addr:street=3-я Круповская улица | building=house
     geometry : n792862146[53.9174290,25.2351098] n792862115[53.9173291,25.2353442] n792862104[53.9172397,25.2352343] n792862150[53.9173396,25.2349999] n792862146[53.9174290,25.2351098]
 w64472707
-  other tags : addr:housenumber=2 | addr:street=3-я Круповская улица | building=house
+  other tags : addr2:housenumber=2 | addr2:street=3-я Круповская улица | addr:housenumber=9 | addr:street=улица Строителей | building=house | building:flats=2 | building:levels=1 | building:year_bild=1969
     geometry : n792862120[53.9161895,25.2379877] n792862165[53.9161374,25.2381120] n792862157[53.9160642,25.2380236] n792862126[53.9161163,25.2378993] n792862120[53.9161895,25.2379877]
 w64472714
   other tags : addr:housenumber=17 | addr:street=2-я Круповская улица | building=house
     geometry : n792862123[53.9165695,25.2342823] n792862145[53.9165174,25.2344066] n792862110[53.9164442,25.2343182] n792862100[53.9164963,25.2341939] n792862123[53.9165695,25.2342823]
 w64472715
-  other tags : addr:housenumber=1/7 | addr:street=3-я Круповская улица | building=house
+  other tags : addr2:housenumber=1 | addr2:street=3-я Круповская улица | addr:housenumber=7 | addr:street=улица Строителей | building=house | building:flats=3 | building:levels=1 | building:year_bild=1980
     geometry : n792862113[53.9159782,25.2377059] n792862102[53.9159261,25.2378301] n792862148[53.9157785,25.2376519] n792862170[53.9158306,25.2375276] n792862113[53.9159782,25.2377059]
 w64472717
-  other tags : addr:housenumber=2/5 | addr:street=2-я Круповская улица | building=house
+  other tags : addr2:housenumber=2 | addr2:street=2-я Круповская улица | addr:housenumber=5 | addr:street=улица Строителей | building=house | building:flats=3 | building:levels=1 | building:year_bild=1974
     geometry : n792862135[53.9157202,25.2374007] n792862156[53.9156681,25.2375250] n792862124[53.9155346,25.2373637] n792862116[53.9155867,25.2372394] n792862135[53.9157202,25.2374007]
 w64472718
   other tags : addr:housenumber=18/14 | addr:street=3-я Круповская улица | building=house
@@ -1319,7 +1322,7 @@ w64484909
   other tags : addr:housenumber=18/32 | addr:street=1-я Полевая улица | building=house
     geometry : n792901275[53.9187797,25.2375223] n792901427[53.9187276,25.2376465] n792901403[53.9186372,25.2375373] n792901283[53.9186893,25.2374130] n792901275[53.9187797,25.2375223]
 w64484910
-  other tags : addr:housenumber=30 | addr:street=Спортивная улица | building=house
+  other tags : addr:housenumber=30 | addr:street=Спортивная улица | building=house | building:flats=1 | building:levels=1 | building:year_bild=1980
     geometry : n792901462[53.9177051,25.2362312] n792901354[53.9176530,25.2363555] n792901434[53.9175798,25.2362671] n792901317[53.9176319,25.2361428] n792901462[53.9177051,25.2362312]
 w64484911
   other tags : addr:housenumber=31 | addr:street=Садовая улица | building=house
@@ -4214,7 +4217,7 @@ w96265014
   other tags : addr:housenumber=10 | addr:street=улица Осликовского | building=house
     geometry : n1115882164[53.8994312,25.2700714] n1115882236[53.8995574,25.2700041] n1115882176[53.8995993,25.2702303] n1115882205[53.8994731,25.2702976] n1115882164[53.8994312,25.2700714]
 w96265018
-  other tags : addr:housenumber=13 | addr:street=улица Тургенева | building=house
+  other tags : addr:housenumber=13 | addr:street=улица Тургенева | building=house | building:flats=3 | building:levels=1 | building:year_bild=1974
     geometry : n1115882125[53.8995625,25.2680717] n1115882214[53.8997147,25.2679884] n1115882173[53.8997432,25.2681385] n1115882200[53.8995911,25.2682219] n1115882125[53.8995625,25.2680717]
 w96281334
   other tags : addr:housenumber=36 | addr:street=Артиллерийская улица | building=house
@@ -5374,6 +5377,9 @@ w281178743
 w281359018
   other tags : addr:housenumber=5 | building=residential
     geometry : n2853192129[53.8897293,25.2785998] n2853192125[53.8895479,25.2786839] n2853192126[53.8895841,25.2789082] n2853192128[53.8897235,25.2788435] n2853192127[53.8897083,25.2787490] n2853192130[53.8897502,25.2787296] n2853192129[53.8897293,25.2785998]
+w281413208
+  other tags : addr:housenumber=1 | addr:street=улица Строителей | building=apartments | building:flats=12 | building:levels=2 | building:year_bild=1974
+    geometry : n2853633128[53.9147294,25.2361040] n2853633145[53.9149917,25.2364404] n2853633137[53.9149177,25.2366066] n2853633119[53.9146554,25.2362702] n2853633128[53.9147294,25.2361040]
 w281413211
   other tags : addr:housenumber=10 | addr:street=улица Фомичёва | building=apartments
     geometry : n2853633179[53.9154507,25.2341895] n2853633160[53.9152317,25.2346492] n2853633168[53.9153227,25.2347742] n2853633188[53.9155417,25.2343144] n2853633179[53.9154507,25.2341895]
@@ -5386,6 +5392,9 @@ w281413218
 w281413225
   other tags : addr:housenumber=12 | addr:street=улица Фомичёва | building=apartments
     geometry : n2853633302[53.9156973,25.2335824] n2853633185[53.9155074,25.2340237] n2853633192[53.9156093,25.2341500] n2853633307[53.9157992,25.2337088] n2853633302[53.9156973,25.2335824]
+w281413229
+  other tags : addr:housenumber=3 | addr:street=улица Строителей | building=apartments | building:flats=12 | building:levels=2 | building:year_bild=1973
+    geometry : n2853633155[53.9151007,25.2365866] n2853633169[53.9153485,25.2368759] n3716543789[53.9152820,25.2370402] n2853633150[53.9150342,25.2367509] n2853633155[53.9151007,25.2365866]
 w281413236
   other tags : addr:housenumber=2 | addr:street=улица Строителей | building=apartments
     geometry : n2853629780[53.9140782,25.2389656] n2853629784[53.9141986,25.2386269] n2853629788[53.9142558,25.2386855] n2853629791[53.9143008,25.2385590] n2853633124[53.9146708,25.2389382] n2853633115[53.9146093,25.2391110] n2853629790[53.9142910,25.2387847] n2853629783[53.9141870,25.2390771] n2853629780[53.9140782,25.2389656]
@@ -6344,7 +6353,7 @@ w320854694
   other tags : addr:housenumber=22 | building=residential
     geometry : n3275061495[53.9189997,25.2406905] n3275061484[53.9189213,25.2405886] n3275061477[53.9188667,25.2407097] n3275061488[53.9189451,25.2408116] n3275061495[53.9189997,25.2406905]
 w320854695
-  other tags : addr:housenumber=24 | building=residential
+  other tags : addr:housenumber=24 | addr:street=Спортивная улица | building=house | building:flats=1 | building:levels=1 | building:year_bild=1971
     geometry : n3275060883[53.9173514,25.2371231] n3275060876[53.9172994,25.2372376] n3275060865[53.9172242,25.2371392] n3275060873[53.9172761,25.2370246] n3275060883[53.9173514,25.2371231]
 w320854696
   other tags : addr:housenumber=2 | addr:street=Хвойная улица | building=residential
@@ -6451,8 +6460,8 @@ w320854734
 w320854736
   other tags : building=residential
     geometry : n3275058712[53.9156369,25.2348769] n3275058710[53.9154856,25.2346937] n3275058709[53.9154309,25.2348240] n3275058711[53.9155822,25.2350072] n3275058712[53.9156369,25.2348769]
-w320854737  null / null / 11/11
-  other tags : building=residential
+w320854737
+  other tags : addr2:housenumber=11 | addr:housenumber=11 | addr:street=улица Строителей | building=house | building:flats=1 | building:levels=1 | building:year_bild=1969
     geometry : n3275060775[53.9164900,25.2382732] n3275060766[53.9164245,25.2381898] n3275058758[53.9163589,25.2383487] n3275060767[53.9164291,25.2384321] n3275060775[53.9164900,25.2382732]
 w320854739
   other tags : addr:housenumber=7 | building=residential
@@ -12566,10 +12575,10 @@ w327382516
   other tags : addr:housenumber=7 | building=residential
     geometry : n3341545458[53.9025765,25.2729229] n3341545456[53.9024234,25.2729966] n3341545457[53.9024559,25.2731910] n3341545459[53.9026089,25.2731173] n3341545458[53.9025765,25.2729229]
 w327393693
-  other tags : addr:housenumber=7 | building=residential
+  other tags : addr:housenumber=7 | addr:street=улица Тургенева | building=house | building:flats=2 | building:levels=1 | building:year_bild=1973
     geometry : n3341751060[53.8999985,25.2692604] n3341751056[53.8998597,25.2693331] n3341751057[53.8999001,25.2695554] n3341751061[53.9000389,25.2694826] n3341751060[53.8999985,25.2692604]
 w327393694
-  other tags : addr:housenumber=9 | building=residential
+  other tags : addr:housenumber=9 | addr:street=улица Тургенева | building=house | building:flats=6 | building:levels=1 | building:year_bild=1973
     geometry : n3341751054[53.8998026,25.2683327] n3341751055[53.8998362,25.2685244] n3341751051[53.8996356,25.2686256] n3341751050[53.8996021,25.2684339] n3341751054[53.8998026,25.2683327]
 w327393695
   other tags : addr:housenumber=14А | addr:street=улица Осликовского | building=house | building:flats=2 | building:levels=1 | building:year_bild=1973
@@ -12581,7 +12590,7 @@ w327394105  null / null / 2/31
   other tags : building=residential
     geometry : n3341752969[53.9003816,25.2699441] n3341752966[53.9003091,25.2699846] n3341752968[53.9003572,25.2702330] n3341752970[53.9004298,25.2701924] n3341752969[53.9003816,25.2699441]
 w327394106
-  other tags : addr:housenumber=3 | building=residential
+  other tags : addr:housenumber=3 | addr:street=улица Тургенева | building=house | building:flats=2 | building:levels=1 | building:year_bild=1974
     geometry : n3341752962[53.9001506,25.2702302] n3341752956[53.8999240,25.2703676] n3341752954[53.8998935,25.2702225] n3341752961[53.9001200,25.2700850] n3341752962[53.9001506,25.2702302]
 w327394107
   other tags : addr:housenumber=4 | building=residential
