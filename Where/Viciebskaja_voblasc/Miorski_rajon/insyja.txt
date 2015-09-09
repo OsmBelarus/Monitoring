@@ -124,9 +124,6 @@ n243021277  Мурашчына / Muraščyna / Муращино / Муращин
 n243023861  Свіркі / Svirki / Свирки / Свирки
   other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
     geometry : [55.4051700,28.2623300]
-n243023868  Красняне / Krasnianie / Красняне / Красняне
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
-    geometry : [55.4578700,28.2367500]
 n306064915
   other tags : tourism=viewpoint
     geometry : [55.6136500,27.9817500]
@@ -382,12 +379,12 @@ n3671446709
 n3734358994  null / null / Мельница водяная
   other tags : tourism=attraction
     geometry : [55.4464274,28.1668427]
+n3734374916  null / null / Усадьба
+  other tags : tourism=attraction
+    geometry : [55.4646421,28.2461824]
 w14351601
   other tags : abandoned=yes | aeroway=runway
     geometry : n139333477[55.6414057,27.6764610] n1811653593[55.6532431,27.7027649] n139333479[55.6593244,27.7163182]
-w25120470  Красняне / Krasnianie / Красняне / Красняне
-  other tags : addr:country=BY | addr:district=Миорский район | addr:region=Витебская область | place=isolated_dwelling
-    geometry : n273503664[55.4589800,28.2404400] n273503665[55.4595000,28.2355500] n273503666[55.4587200,28.2352100] n273503667[55.4584700,28.2333200] n273503668[55.4562400,28.2328900] n273503669[55.4561500,28.2379500] n273503670[55.4572700,28.2383000] n273503671[55.4574400,28.2402700] n273503664[55.4589800,28.2404400]
 w25120503
   other tags : admin_level=8 | boundary=administrative
     geometry : n273504085[55.4069700,28.2519400] n273504086[55.4068800,28.2509100] n273504087[55.4049100,28.2507400] n273504093[55.4049100,28.2540900] n273504094[55.4070600,28.2542600] n273504085[55.4069700,28.2519400]
