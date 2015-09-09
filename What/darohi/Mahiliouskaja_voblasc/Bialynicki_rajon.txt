@@ -701,7 +701,7 @@ w167863593
   other tags : bridge=yes | highway=unclassified | layer=1
     geometry : n550406134[53.9665277,29.7273313] n550406141[53.9658837,29.7263478]
 w168766934
-  other tags : highway=trunk_link
+  other tags : highway=trunk_link | surface=asphalt
     geometry : n1925626923[53.9787140,30.0281295] n1925626967[53.9787740,30.0276730] n1925626977[53.9788118,30.0273619] n1925626973[53.9791251,30.0254570] n1925626976[53.9791904,30.0248621] n1925626974[53.9792219,30.0243685] n1925626978[53.9793039,30.0205920]
 w168766936
   other tags : bridge=yes | highway=trunk | lanes=2 | maxspeed=120 | oneway=yes | ref=М4 | surface=asphalt | toll=yes
@@ -986,7 +986,7 @@ w182216764
   other tags : highway=primary | lanes=2 | maxspeed=90 | surface=asphalt
     geometry : n1925626926[53.9788853,30.0206397] n1925626852[53.9787361,30.0210641] n1925627050[53.9783995,30.0220447]
 w182216765
-  other tags : highway=trunk_link
+  other tags : highway=trunk_link | surface=asphalt
     geometry : n1925626978[53.9793039,30.0205920] n1925626970[53.9793462,30.0186163]
 w182216766
   other tags : highway=trunk_link
