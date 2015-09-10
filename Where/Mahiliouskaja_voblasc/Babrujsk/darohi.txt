@@ -266,7 +266,7 @@ w25252038
   other tags : highway=unclassified | surface=unpaved
     geometry : n275203265[53.1391183,29.3035917] n1210983628[53.1385355,29.3037021]
 w25252154  Магілёўская вуліца / Mahilioŭskaja vulica / Могилёвская улица / Могилёвская улица
-  other tags : highway=primary | maxspeed=60 | ref=Р93
+  other tags : highway=primary | maxspeed=60 | ref=Р93 | surface=asphalt
     geometry : n2875829332[53.1390467,29.2929517] n2875829333[53.1394715,29.2935418] n3395924509[53.1409985,29.2955346] n2326317815[53.1423314,29.2973518] n2875829335[53.1441655,29.2998610] n1210980733[53.1447237,29.3006160] n3396004110[53.1460003,29.3023568]
 w25253525
   other tags : highway=primary_link | oneway=yes
@@ -5456,7 +5456,7 @@ w330735006
   other tags : area=yes | highway=pedestrian
     geometry : n3377305452[53.1785477,29.1933835] n3377305453[53.1787768,29.1941235] n3377305454[53.1785856,29.1942884] n3377305455[53.1783566,29.1935484] n3377305452[53.1785477,29.1933835]
 w331287612
-  other tags : highway=primary | maxspeed=90 | ref=Р93
+  other tags : highway=primary | maxspeed=90 | ref=Р93 | surface=asphalt
     geometry : n3383466084[53.1557826,29.3157654] n3383466054[53.1554083,29.3152527] n3396004109[53.1526695,29.3114934] n3396004110[53.1460003,29.3023568]
 w331295741
   other tags : highway=path
