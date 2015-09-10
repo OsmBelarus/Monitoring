@@ -2417,7 +2417,7 @@ w159003252
   other tags : addr:housenumber=145 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132296[54.4320925,30.3762904] n1711132322[54.4322811,30.3763705] n1711132312[54.4322500,30.3765872] n1711132291[54.4320614,30.3765071] n1711132296[54.4320925,30.3762904]
 w159003253
-  other tags : addr:housenumber=16 | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=41 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132744[54.4377476,30.3822726] n1711132750[54.4380291,30.3826409] n1711132748[54.4379607,30.3827955] n1711132742[54.4376792,30.3824272] n1711132744[54.4377476,30.3822726]
 w159003254
   other tags : addr:housenumber=168 | addr:street=Центральная улица | building=yes | building:levels=1
@@ -2426,22 +2426,22 @@ w159003255
   other tags : addr:housenumber=17 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132759[54.4383118,30.3820501] n1711132753[54.4381165,30.3825444] n1711132752[54.4380220,30.3824339] n1711132757[54.4382172,30.3819396] n1711132759[54.4383118,30.3820501]
 w159003256
-  other tags : addr:housenumber=18 | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=37 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132738[54.4376069,30.3816208] n1711132747[54.4378330,30.3819082] n1711132745[54.4377717,30.3820508] n1711132737[54.4375456,30.3817635] n1711132738[54.4376069,30.3816208]
 w159003257
-  other tags : addr:housenumber=19 | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=39 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132733[54.4372919,30.3816389] n1711132735[54.4374394,30.3818521] n1711132734[54.4373576,30.3820193] n1711132732[54.4372101,30.3818061] n1711132733[54.4372919,30.3816389]
 w159003258
   other tags : addr:housenumber=2 | addr:street=Молодёжная улица | building=yes | building:levels=1
     geometry : n1711132662[54.4364631,30.3782535] n1711132673[54.4365252,30.3783361] n1711132660[54.4364718,30.3784550] n1711132649[54.4364096,30.3783724] n1711132662[54.4364631,30.3782535]
 w159003259
-  other tags : addr:housenumber=20 | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=35 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132723[54.4370502,30.3813252] n1711132731[54.4372058,30.3815212] n1711132730[54.4371314,30.3816958] n1711132718[54.4369758,30.3814998] n1711132723[54.4370502,30.3813252]
 w159003260
   other tags : addr:housenumber=31 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132709[54.4364606,30.3805678] n1711132721[54.4367308,30.3809271] n1711132717[54.4366562,30.3810930] n1711132703[54.4363860,30.3807337] n1711132709[54.4364606,30.3805678]
 w159003261
-  other tags : addr:housenumber=22 | addr:street=Центральная улица | building=yes | building:levels=1
+  other tags : addr:housenumber=29 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n1711132644[54.4360208,30.3800344] n1711132674[54.4362406,30.3803359] n1711132665[54.4361763,30.3804745] n1711132635[54.4359565,30.3801730] n1711132644[54.4360208,30.3800344]
 w159003262
   other tags : addr:housenumber=24 | addr:street=Центральная улица | building=yes | building:levels=1
@@ -20147,7 +20147,7 @@ w293000299
   other tags : addr:housenumber=11 | building=yes
     geometry : n2965580334[54.5920847,30.0650267] n2965580333[54.5920632,30.0652432] n2965578629[54.5919710,30.0652159] n2965578630[54.5919925,30.0649994] n2965580334[54.5920847,30.0650267]
 w293000300
-  other tags : addr:housenumber=5 | building=yes
+  other tags : addr:housenumber=5 | addr:street=Студенческая улица | building=yes
     geometry : n2965580344[54.5923545,30.0629905] n2965580343[54.5923330,30.0632070] n2965580340[54.5922408,30.0631797] n2965580342[54.5922623,30.0629632] n2965580344[54.5923545,30.0629905]
 w293000301
   other tags : addr:housenumber=7 | building=yes
@@ -23648,7 +23648,7 @@ w349839364
   other tags : building=yes | building:levels=1
     geometry : n3556320044[54.4391920,30.3850932] n3556320048[54.4393700,30.3851639] n3556320047[54.4393448,30.3853516] n3556320041[54.4391668,30.3852810] n3556320044[54.4391920,30.3850932]
 w349839365
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=33 | addr:street=Центральная улица | building=yes | building:levels=1
     geometry : n3556303474[54.4368123,30.3808932] n3556303480[54.4369014,30.3806963] n3556303490[54.4371232,30.3809930] n3556303486[54.4370342,30.3811898] n3556303474[54.4368123,30.3808932]
 w349839366
   other tags : building=yes | building:levels=1
@@ -24629,7 +24629,7 @@ w369392013
   other tags : building=yes | building:levels=1
     geometry : n3731868772[54.6001625,30.0621203] n3731868771[54.6001420,30.0622204] n3731868767[54.5999823,30.0621227] n3731868769[54.6000028,30.0620226] n3731868772[54.6001625,30.0621203]
 w369392014
-  other tags : building=yes | building:levels=1
+  other tags : addr:housenumber=3 | addr:street=Студенческая улица | building=yes | building:levels=1
     geometry : n3731868073[54.5924047,30.0623932] n3731868071[54.5923873,30.0625427] n3731868065[54.5923130,30.0625170] n3731868067[54.5923303,30.0623676] n3731868073[54.5924047,30.0623932]
 w369392015
   other tags : building=yes | building:levels=1
@@ -24683,7 +24683,7 @@ w369392031
   other tags : building=yes | building:levels=1
     geometry : n3731868743[54.5992698,30.0658570] n3731868741[54.5992398,30.0660236] n3731868736[54.5991775,30.0659902] n3731868738[54.5992074,30.0658236] n3731868743[54.5992698,30.0658570]
 w369392032
-  other tags : building=yes | building:levels=1
+  other tags : addr:street=Оршанская улица | building=yes | building:levels=1
     geometry : n3731868283[54.5957504,30.0688533] n3731868282[54.5957119,30.0689340] n3731868278[54.5956393,30.0688309] n3731868281[54.5956778,30.0687502] n3731868283[54.5957504,30.0688533]
 w369392033
   other tags : building=yes | building:levels=1
