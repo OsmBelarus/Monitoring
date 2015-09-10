@@ -14,7 +14,7 @@ n243019870  Весялова / Viesialova / Веселово / Веселово
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.3639600,28.3399200]
 n243019874  Зембін / Ziembin / Зембин / Зембин
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet | wikipedia=ru:Зембин
     geometry : [54.3583340,28.2170603]
 n243019876  Касцюкі / Kasciuki / Костюки / Костюки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -45,10 +45,10 @@ n243020008  Валокі / Valoki / Волоки / Волоки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.5706400,28.2053400]
 n243020011  Мсціж / Msciž / Мстиж / Мстиж
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.5636800,28.1930600]
 n243020014  Сялец / Sialiec / Селец / Селец
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зембинский сельский Совет | place=hamlet
     geometry : [54.5104493,28.3593920]
 n243020017  Тартак / Tartak / Тартак / Тартак
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -61,7 +61,7 @@ n243020023  Халмоўка / Chalmoŭka / Холмовка / Холмовка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.6049700,28.2372700]
 n243020026  Макаўе / Makaŭje / Маковье / Маковье
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Мстижский сельский Совет | place=hamlet
     geometry : [54.5831700,28.2341800]
 n243020039  Ваілава / Vailava / Воилово / Воилово
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -76,7 +76,7 @@ n243020100  Чмялі / Čmiali / Чмели / Чмели
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.3719470,28.2128618]
 n243020103  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зембинский сельский Совет | place=hamlet
     geometry : [54.3614600,28.2501400]
 n243020107  Янова / Janova / Яново / Яново
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Янава | place=hamlet
@@ -136,7 +136,7 @@ n243020133  Новае Сяло / null / Новое Село / Новое Сел
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.4854900,28.2991500]
 n243020134  Іканы / Ikany / Иканы / Иканы
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.4969900,28.2147800]
 n243020135  Будзенічы / Budzieničy / Буденичи / Буденичи
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -179,7 +179,7 @@ n243021564  Гарэлы Луг / Harely Luh / Горелый Луг / Горе�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.4965700,28.1719500]
 n243021572  Ніўкі / Niŭki / Нивки / Нивки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Мстижский сельский Совет | place=hamlet
     geometry : [54.6027400,28.1429400]
 n243021574  Зарэчча / Zarečča / Заречье / Заречье
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -190,8 +190,8 @@ n243021579  Разліцце / Razliccie / Разлитье / Разлитье
 n243021583  Загор’е / Zahorje / Загорье / Загорье
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.5624000,28.1800200]
-n243021587  Гаравец / Haraviec / Горовец / Горовец
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:ru=Гаравец | place=hamlet
+n243021587  Гаравец / Haraviec / Горавец / Горавец
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Мстижский сельский Совет | alt_name=Горовец | alt_name:ru=Гаравец | place=hamlet
     geometry : [54.6041100,28.0764200]
 n243021590  Собалеўка / Sobalieŭka / Соболевка / Соболевка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -222,7 +222,7 @@ n243022601  Бальшая Ухалода / null / Большая Ухолода
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Вялікая Ухалода | alt_name:ru=Великая Ухолода | place=hamlet
     geometry : [54.1993300,28.6121800]
 n243022602  Дубовы Лог / Dubovy Loh / Дубовый Лог / Дубовый Лог
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Гливинский сельский Совет | place=hamlet
     geometry : [54.1293800,28.5582700]
 n243022603  Малая Ухалода / Malaja Uchaloda / Малая Ухолода / Малая Ухолода
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -231,7 +231,7 @@ n243022604  Глівін / Hlivin / Гливин / Гливин
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1596800,28.6081400]
 n243022605  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Гливинский сельский Совет | place=hamlet
     geometry : [54.1166800,28.6853000]
 n243022606  Палялюм / Palialium / Полелюм / Полелюм
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Палелюм | place=hamlet
@@ -267,7 +267,7 @@ n243022632  Цешкаўка / Cieškaŭka / Тешковка / Тешковка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Цяшкоўка | place=hamlet
     geometry : [54.0111100,28.7180000]
 n243022635  Забашавічы / Zabašavičy / Забашевичи / Забашевичи
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.0460400,28.6269400]
 n243022646  Рэчкі / Rečki / Речки / Речки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -285,7 +285,7 @@ n243022652  Ніціеўшчына / Nicijeŭščyna / Нитиевщина / Н
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [53.9755700,28.6218700]
 n243022653  Міхайлова / Michajlova / Михайлово / Михайлово
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Міхалова | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зачистский сельский Совет | alt_name:be=Міхалова | place=hamlet
     geometry : [54.3461968,28.6799671]
 n243022654  Пагадзіца / Pahadzica / Погодица / Погодица
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -348,7 +348,7 @@ n243022715  Завалы / Zavaly / Завалы / Завалы
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1801900,28.6735400]
 n243022720  Старая Мётча / Staraja Miotča / Старая Мётча / Старая Мётча
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Старая Мёдча | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Старая Мёдча | place=hamlet | wikipedia=ru:Старая Мётча
     geometry : [54.1859400,28.7174900]
 n243022723  Гара / Hara / Гора / Гора
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -360,7 +360,7 @@ n243022729  Ярцаўка / Jarcaŭka / Ярцевка / Ярцевка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Ярцаўкі | place=hamlet
     geometry : [54.2066300,28.7050400]
 n243022732  Неманіца / Niemanica / Неманица / Неманица
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.2741800,28.6122600]
 n243022735  Аскеркі / Askierki / Аскерки / Аскерки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -372,7 +372,7 @@ n243023513  null / null / Глубочица / Глубочица
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.5943200,28.5138100]
 n243023514  Клетнае / Klietnaje / Клетное / Клетное
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Моисеевщинский сельский Совет | place=hamlet
     geometry : [54.5294332,28.5335117]
 n243023515  Хонава / Chonava / Хоново / Хоново
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -399,7 +399,7 @@ n243023522  Вільянова / Viĺjanova / Вильяново / Вильян�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Віллянова;Вілянова | place=hamlet
     geometry : [54.4091731,28.4567406]
 n243023523  Дубовы Лог / Dubovy Loh / Дубовый Лог / Дубовый Лог
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Веселовский сельский Совет | place=hamlet
     geometry : [54.4601700,28.4878900]
 n243023524  Мядзведзеўка / Miadzviedzieŭka / Медведевка / Медведевка
   other names: name:uk=Медведівка
@@ -418,10 +418,10 @@ n243023528  Мсценне / Msciennie / Мстенье / Мстенье
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.4127900,28.3875600]
 n243023529  Ельніца / Jeĺnica / Ельница / Ельница
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Веселовский сельский Совет | place=hamlet
     geometry : [54.4505600,28.4566500]
 n243023530  Загор’е / Zahorje / Загорье / Загорье
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Веселовский сельский Совет | place=hamlet
     geometry : [54.4073000,28.4036900]
 n243023531  Рагатка / Rahatka / Рогатка / Рогатка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -454,7 +454,7 @@ n243023540  null / null / Дубовики / Дубовики
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.3522800,28.4448900]
 n243023541  Селішча / Sielišča / Селище / Селище
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Пригородный сельский Совет | place=hamlet
     geometry : [54.3398300,28.4954500]
 n243023542  Малая Трасцяніца / Malaja Trascianica / Малая Тростяница / Малая Тростяница
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -514,14 +514,14 @@ n243023559  Стаі / Stai / Стаи / Стаи
 n243023560  Гарэліца / Harelica / Горелица / Горелица
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1553900,28.4089300]
-n243023561  Бальшое Стахава / Vialikaje Stachava / Бальшое Стахава / Большое Стахово
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Вялікае Стахава | alt_name:ru=Великое Стахово | place=hamlet
+n243023561  Бальшое Стахава / Vialikaje Stachava / Большое Стахово / Большое Стахово
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Пригородный сельский Совет | alt_name:be=Вялікае Стахава | alt_name:ru=Великое Стахово | place=hamlet
     geometry : [54.2595133,28.3875486]
 n243023562  Струпень / Strupień / Струпень / Струпень
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1540100,28.4666100]
 n243023564  Ельніца / Jeĺnica / Ельница / Ельница
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Пересадский сельский Совет | place=hamlet
     geometry : [54.1543600,28.4351100]
 n243023565  Праходы / Prachody / Проходы / Проходы
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -562,7 +562,7 @@ n243024432  Ніўкі / Niŭki / Нивки / Нивки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.0588404,28.7921951]
 n243024435  Студзёнка / Studzionka / Студёнка / Студёнка
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Сцюдзёнка | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Метченский сельский Совет | alt_name:be=Сцюдзёнка | place=hamlet
     geometry : [54.1097200,28.8692400]
 n243024437  Клыпенка / Klypienka / Клыпенка / Клыпенка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Клыпінка | place=hamlet
@@ -577,7 +577,7 @@ n243024446  Чэрнеўка / Černieŭka / Черневка / Черневка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Чарняўка | place=hamlet
     geometry : [54.0532909,28.8582733]
 n243024452  Аздзяцічы / Azdziacičy / Оздятичи / Оздятичи
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.0985700,28.8307000]
 n243024458  Чарневічы / Čarnievičy / Черневичи / Черневичи
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -595,7 +595,7 @@ n243024481  Рабінаўка / Rabinaŭka / Рябиновка / Рябино�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1945283,28.8719784]
 n243024484  Селішча / Sielišča / Селище / Селище
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Селішчы | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Метченский сельский Совет | alt_name:be=Селішчы | place=hamlet
     geometry : [54.1991600,28.7853800]
 n243024487  Дроздзіна / Drozdzina / Дроздино / Дроздино
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -631,7 +631,7 @@ n243024517  Пабярэжжа / Pabiarežža / Побережье / Побер�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.0543700,28.8286400]
 n243024520  Лошніца / Lošnica / Лошница / Лошница
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village | wikipedia=ru:Лошница
     geometry : [54.2764137,28.7710607]
 n243024523  Баяры / Bajary / Бояры / Бояры
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -646,7 +646,7 @@ n243024532  Ябланка / Jablanka / Яблонка / Яблонка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Яблынька | place=hamlet
     geometry : [54.1395900,28.8857200]
 n243024535  Вяляцічы / Vialiacičy / Велятичи / Велятичи
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Віляцічы | place=village
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Віляцічы | place=village | wikipedia=ru:Велятичи (Минская область)
     geometry : [54.1626834,28.9027174]
 n243024538  Зорычы / Zoryčy / Зоричи / Зоричи
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Сморкі | place=hamlet
@@ -663,23 +663,23 @@ n243024547  Прабарнае / Prabarnaje / Праборное / Прабор�
 n243024550  Красная Гара / Krasnaja Hara / Красная Гора / Красная Гора
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.2022500,28.8598800]
-n243024554  Восаў / Vosaŭ / Осов / Осов
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Восава | place=hamlet
+n243024554  Хутар Восаў / Vosaŭ / Хутор Осов / Хутор Осов
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Метченский сельский Совет | alt_name:be=Восава | place=hamlet
     geometry : [54.1587400,28.8107000]
 n243024557  Боркі / Borki / Борки / Борки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Метченский сельский Совет | place=hamlet
     geometry : [54.1778700,28.7995400]
 n243024560  Зялёная Дубрава / Zialionaja Dubrava / Зелёная Дубрава / Зелёная Дубрава
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Зялёнка | place=hamlet
     geometry : [54.2025900,28.7442700]
 n243024563  Навасады / Navasady / Новосады / Новосады
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Велятичский сельский Совет | place=hamlet
     geometry : [54.1975300,28.8505300]
 n243024566  null / null / Воробьёвщина / Воробьёвщина
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.1928900,28.8388500]
 n243024569  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Велятичский сельский Совет | place=hamlet
     geometry : [54.2449900,28.8837400]
 n243024572  Баравыя / Baravyja / Боровые / Боровые
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -731,7 +731,7 @@ n243024624  Вышні Стан / Vyšni Stan / Вышний Стан / Вышн
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.3518500,28.7538800]
 n243024627  Новае Сяло / Novaje Sialo / Новое Село / Новое Село
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зачистский сельский Совет | place=hamlet
     geometry : [54.3890200,28.8248600]
 n243024630  Белае / Bielaje / Белое / Белое
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -740,7 +740,7 @@ n243024636  Зачысце / Začyscie / Зачистье / Зачистье
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : [54.3942600,28.7475300]
 n243024644  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Лошницкий сельский Совет | place=village
     geometry : [54.3200100,28.7690700]
 n243024651  Бутэлеўшчына / Butelieŭščyna / Бутелевщина / Бутелевщина
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -751,8 +751,8 @@ n243024654  Узнацкі Вугал / Uznacki Vuhal / Узнацкий Уго�
 n243024657  Лабачыха / Labačycha / Лобачиха / Лобачиха
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.3398300,28.7460700]
-n243024659  Казлы / Kazly / Козлы / Козлы
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+n243024659  Казлы 2 / Kazly / Козлы 2 / Козлы 2
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зачистский сельский Совет | old_name=Козлы | place=hamlet
     geometry : [54.3759700,28.8172300]
 n243024662  Краўцова Ніва / Kraŭcova Niva / Кравцова Нива / Кравцова Нива
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -818,7 +818,7 @@ n243025943  Вобча / Vobča / Обча / Обча
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.5245400,28.6837600]
 n243025946  Старына / Staryna / Старина / Старина
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Моисеевщинский сельский Совет | place=hamlet
     geometry : [54.5431700,28.6844500]
 n243025949  Барань / Barań / Барань / Барань
   other names: name:lt=Baranis
@@ -852,7 +852,7 @@ n243025968  Плітчанка / Plitčanka / Плитченка / Плитче�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.4433147,28.5741042]
 n243025969  Боркі / Borki / Борки / Борки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Зачистский сельский Совет | place=hamlet
     geometry : [54.3965656,28.7096513]
 n243025970  Пруды / Prudy / Пруды / Пруды
   other names: name:uk=Пруди
@@ -898,7 +898,7 @@ n243025991  Ржаўка / Ržaŭka / Ржавка / Ржавка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : [54.5654900,28.6703700]
 n243025994  Сялец / Sialiec / Селец / Селец
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Моисеевщинский сельский Совет | place=hamlet
     geometry : [54.6151000,28.6374100]
 n243025998  Каршавіца / Karšavica / Коршевица / Коршевица
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:ru=Каршевица | place=hamlet
@@ -937,23 +937,23 @@ n2539407606  Галубы / Haluby / Голубы / Голубы
 n2539425272  Добрыцкае / Dobryckaje / Добрицкое / Добрицкое
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Дабрыцкае | place=hamlet
     geometry : [54.1872306,28.7020733]
-n2539435033  Кастрычнік / Kastryčnik / Костричник / Костричник
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Клёпкі | alt_name:ru=Октябрь | place=hamlet
+n2539435033  Кастрычнік / Kastryčnik / Октябрь / Октябрь
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Мстижский сельский Совет | alt_name:be=Клёпкі | alt_name:ru=Костричник | place=hamlet
     geometry : [54.6323834,28.1949561]
 n2924273903  Восава / Vosava / Осово / Осово
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Моисеевщинский сельский Совет | place=hamlet
     geometry : [54.5729605,28.7341179]
 n3105393328  Навасады / Navasady / Новосады / Новосады
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Лошницкий сельский Совет | place=hamlet
     geometry : [54.2548506,28.7357825]
 n3105422948  Клетнае / Klietnaje / Клетное / Клетное
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Моисеевщинский сельский Совет | place=hamlet
     geometry : [54.5247170,28.5389198]
 n3245799538  Каменка / Kamienka / Каменка / Каменка
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Метченский сельский Совет | place=hamlet
     geometry : [54.1333880,28.8467219]
 n3245806630  Міхайлова / Michajlova / Михайлово / Михайлово
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Міхалова | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | addr:subdistrict=Неманицкий сельский Совет | alt_name:be=Міхалова | place=hamlet
     geometry : [54.3370276,28.6769947]
 n3245894878  Навасады / Navasady / Новосады / Новосады
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1042,8 +1042,8 @@ w25107735  Узнацкі Вугал / Uznacki Vuhal / Узнацкий Угол
 w25107738  Бутэлеўшчына / Butelieŭščyna / Бутелевщина / Бутелевщина
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273317066[54.3646400,28.8467500] n273317068[54.3639600,28.8473500] n273317071[54.3628400,28.8489800] n273317072[54.3621500,28.8549000] n273317075[54.3624900,28.8578200] n273317077[54.3613800,28.8574800] n273317079[54.3605200,28.8574800] n273317081[54.3604300,28.8584200] n273317083[54.3607800,28.8615100] n273317085[54.3627500,28.8616900] n273317088[54.3653300,28.8570500] n273317090[54.3661900,28.8480400] n273317066[54.3646400,28.8467500]
-w25107739  Казлы / Kazly / Козлы / Козлы
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+w25107739  Казлы 2 / Kazly / Козлы 2 / Козлы 2
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | old_name=Козлы | place=hamlet
     geometry : n273317094[54.3800900,28.8175700] n273317097[54.3772600,28.8157700] n273317098[54.3763100,28.8141400] n273317101[54.3724500,28.8119900] n273317104[54.3711700,28.8174800] n273317114[54.3749400,28.8204000] n273317117[54.3794000,28.8228900] n273317094[54.3800900,28.8175700]
 w25107740  Лабачыха / Labačycha / Лобачиха / Лобачиха
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1055,7 +1055,7 @@ w25107750  Ратуцічы / Ratucičy / Ратутичи / Ратутичи
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273317248[54.3243496,28.8129898] n273317256[54.3239948,28.8185098] n273317260[54.3251600,28.8204900] n273317265[54.3301988,28.8250863] n1184339138[54.3300435,28.8288924] n1184339111[54.3271024,28.8283053] n273317309[54.3265438,28.8315497] n3228716999[54.3294041,28.8320054] n273317316[54.3304589,28.8335273] n273317322[54.3318252,28.8325797] n3228717020[54.3315392,28.8300897] n273317324[54.3346900,28.8280400] n273317338[54.3357807,28.8260805] n273317342[54.3350648,28.8241851] n273317346[54.3315694,28.8261188] n1184339028[54.3313158,28.8182965] n273317358[54.3312792,28.8132467] n273317248[54.3243496,28.8129898]
 w25107751  Навасёлкі / Navasiolki / Новосёлки / Новосёлки
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : n1184339032[54.3274319,28.7504637] n1184339135[54.3200554,28.7454607] n1184339093[54.3203538,28.7507237] n1184339051[54.3220257,28.7579620] n273317370[54.3212100,28.7602300] n273317372[54.3193192,28.7588972] n273317374[54.3182314,28.7607746] n273317377[54.3176900,28.7646100] n273317390[54.3193200,28.7672700] n273317392[54.3188900,28.7689000] n1184339042[54.3180772,28.7708828] n1184339088[54.3087792,28.7651720] n1184339127[54.3079283,28.7691502] n1184339027[54.3160172,28.7759528] n1184339074[54.3153272,28.7772328] n1184339120[54.3139573,28.7810128] n273317406[54.3151200,28.7828900] n273317408[54.3167500,28.7841800] n273317409[54.3192400,28.7775700] n273317412[54.3248380,28.7811757] n273317424[54.3276295,28.7705302] n273317427[54.3270500,28.7663300] n273317429[54.3251600,28.7652100] n273317431[54.3237690,28.7662876] n273317432[54.3231253,28.7653389] n273317435[54.3249000,28.7588600] n1184339032[54.3274319,28.7504637]
 w25107754  Млёхава / Mliochava / Млёхово / Млёхово
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Млёхаў | place=hamlet
@@ -1101,7 +1101,7 @@ w25107783  Баяры / Bajary / Бояры / Бояры
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273317854[54.2658194,28.8404405] n273317855[54.2577800,28.8247800] n273317857[54.2577000,28.8222900] n273317859[54.2562271,28.8219500] n1433751288[54.2547380,28.8260764] n1433751290[54.2561179,28.8299364] n273317868[54.2561683,28.8337639] n273317869[54.2562400,28.8357600] n2803153985[54.2578153,28.8426078] n273317871[54.2612100,28.8474400] n273317872[54.2624200,28.8523300] n273317874[54.2644800,28.8503600] n273317875[54.2634153,28.8462063] n273317877[54.2643880,28.8454656] n273317880[54.2646500,28.8481200] n273317881[54.2659400,28.8496700] n273317883[54.2680923,28.8463197] n273317854[54.2658194,28.8404405]
 w25107785  Лошніца / Lošnica / Лошница / Лошница
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : n273317888[54.2936258,28.7625973] n3245938898[54.2923295,28.7621276] n3245938899[54.2923862,28.7611559] n3245938900[54.2927707,28.7612422] n3245938901[54.2930290,28.7590503] n3245938897[54.2922854,28.7588344] n3245938896[54.2921072,28.7609700] n3135744885[54.2909528,28.7605546] n3135744882[54.2879923,28.7595309] n3135744877[54.2864019,28.7592000] n3135744879[54.2865636,28.7555980] n273317891[54.2825033,28.7540279] n273317902[54.2800100,28.7530200] n3135744865[54.2797206,28.7506106] n273317904[54.2783974,28.7505213] n273317905[54.2780400,28.7484700] n273317907[54.2769285,28.7490342] n273317908[54.2770541,28.7506270] n3135744862[54.2761122,28.7505029] n3135744861[54.2756604,28.7567237] n273317913[54.2667217,28.7535688] n3135744852[54.2666338,28.7546350] n3135744849[54.2660737,28.7544504] n3135744846[54.2656789,28.7572380] n3135744845[54.2646132,28.7568757] n273317915[54.2643923,28.7590313] n273317916[54.2648729,28.7634363] n1276354919[54.2653970,28.7636397] n273317918[54.2651704,28.7668601] n273317919[54.2655114,28.7667182] n273317921[54.2682535,28.7674563] n1276354940[54.2675144,28.7742885] n3245938735[54.2714811,28.7759751] n273317922[54.2748409,28.7782524] n273317932[54.2743718,28.7812182] n3245938756[54.2763093,28.7821827] n273317933[54.2760717,28.7851726] n273317936[54.2794121,28.7870594] n3245938770[54.2798770,28.7863908] n3245938767[54.2792877,28.7834236] n3245938775[54.2813025,28.7814537] n3135744867[54.2816365,28.7823541] n3245938821[54.2824346,28.7815759] n3245938820[54.2823098,28.7805681] n273317938[54.2855004,28.7775095] n273317942[54.2869961,28.7806742] n273317944[54.2893095,28.7772876] n3245938894[54.2900003,28.7714952] n3523425988[54.2910999,28.7719985] n3245938895[54.2913016,28.7720908] n924528658[54.2914477,28.7704156] n273317945[54.2916900,28.7660700] n273317946[54.2948869,28.7672533] n1276354948[54.2962814,28.7669723] n273317948[54.2969022,28.7653646] n273317949[54.2976370,28.7596439] n2803139436[54.2941453,28.7583341] n273317888[54.2936258,28.7625973]
 w25107786  Бярозаўка / Biarozaŭka / Берёзовка / Берёзовка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1118,7 +1118,7 @@ w25107791  Зорычы / Zoryčy / Зоричи / Зоричи
 w25107797  Ябланка / Jablanka / Яблонка / Яблонка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Яблынька | place=hamlet
     geometry : n273318224[54.1433700,28.8869200] n273318226[54.1439700,28.8847700] n273318228[54.1423400,28.8823700] n273318230[54.1392500,28.8827100] n273318232[54.1357300,28.8819400] n273318234[54.1356500,28.8842600] n273318236[54.1353900,28.8864900] n273318237[54.1377900,28.8870900] n273318239[54.1377100,28.8882900] n273318242[54.1392500,28.8888100] n273318243[54.1400200,28.8882900] n273318245[54.1428600,28.8895800] n273318224[54.1433700,28.8869200]
-w25107799  Восаў / Vosaŭ / Осов / Осов
+w25107799  Хутар Восаў / Vosaŭ / Хутор Осов / Хутор Осов
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Восава | place=hamlet
     geometry : n273318247[54.1599300,28.8080400] n273318249[54.1597700,28.8072700] n273318253[54.1570200,28.8070100] n273318254[54.1568400,28.8149900] n273318256[54.1592500,28.8152500] n273318258[54.1597700,28.8115600] n273318247[54.1599300,28.8080400]
 w25107800  Красная Гара / Krasnaja Hara / Красная Гора / Красная Гора
@@ -1371,7 +1371,7 @@ w25109834  Ланкаўшчына / Lankaŭščyna / Ланковщина / Ла
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Ланкоўшчына | landuse=residential | place=hamlet
     geometry : n273356425[54.2609691,28.6838441] n273356427[54.2637760,28.6818419] n3245894819[54.2634192,28.6803759] n273356428[54.2625058,28.6810274] n273356430[54.2617970,28.6781147] n3245894804[54.2610862,28.6786218] n273356431[54.2605063,28.6762389] n3245894791[54.2592899,28.6771065] n273356433[54.2591308,28.6764530] n273356438[54.2585076,28.6768975] n273356439[54.2572512,28.6777936] n273356440[54.2576626,28.6794839] n3245894733[54.2559459,28.6807082] n273356441[54.2548402,28.6761650] n3245894699[54.2541460,28.6766601] n3245894704[54.2543960,28.6776874] n3245894697[54.2539555,28.6780015] n3245894702[54.2541871,28.6789528] n273356442[54.2537936,28.6792334] n3245894700[54.2541471,28.6806860] n3245894705[54.2543969,28.6805078] n3245894721[54.2548831,28.6825052] n3245894723[54.2551384,28.6823231] n273356443[54.2568375,28.6893039] n3245894737[54.2560691,28.6898519] n273356445[54.2561528,28.6901960] n3245894726[54.2555875,28.6905991] n3245894729[54.2557342,28.6912017] n3245894746[54.2564333,28.6907031] n273356446[54.2565705,28.6912668] n3245894774[54.2577791,28.6904048] n3245894781[54.2580720,28.6916083] n273356448[54.2587406,28.6911315] n273356457[54.2577528,28.6870726] n273356458[54.2611629,28.6846402] n273356425[54.2609691,28.6838441]
 w25109835  Неманіца / Niemanica / Неманица / Неманица
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | landuse=residential | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | landuse=residential | place=village
     geometry : n273356382[54.2688793,28.5960517] n273356357[54.2694289,28.5861993] n273356361[54.2643986,28.5855665] n3245834743[54.2650632,28.5878311] n273356362[54.2649100,28.5897700] n273356364[54.2664004,28.5936535] n3245834742[54.2648636,28.5958349] n273356365[54.2646742,28.5964150] n273356371[54.2677984,28.6006816] n3245836375[54.2674859,28.6013784] n3245836402[54.2685271,28.6027785] n3245836392[54.2682399,28.6033588] n3245836383[54.2676943,28.6027293] n3245836371[54.2673439,28.6040669] n3245836404[54.2687292,28.6054555] n3245836396[54.2684234,28.6061729] n273356373[54.2696688,28.6073690] n3245836420[54.2700440,28.6060852] n3245836421[54.2700949,28.6059110] n3245836426[54.2702152,28.6050876] n3245836424[54.2701851,28.6040241] n3245836417[54.2697744,28.6026690] n273356374[54.2698848,28.6025027] n273356376[54.2706458,28.6020908] n3245836447[54.2710416,28.6041159] n273356477[54.2711324,28.6062864] n273356479[54.2704800,28.6091700] n3245836433[54.2705769,28.6105947] n273356481[54.2701063,28.6123274] n3245836431[54.2705501,28.6145492] n3245836449[54.2710665,28.6141777] n3245836501[54.2725229,28.6193780] n3245836468[54.2716796,28.6201535] n273356485[54.2719730,28.6213488] n273356490[54.2769259,28.6176165] n273356492[54.2765471,28.6160439] n273356494[54.2796305,28.6137540] n273356462[54.2791780,28.6121812] n273356463[54.2776796,28.6133349] n3245836555[54.2755387,28.6042548] n3245836576[54.2769949,28.6030874] n3245836565[54.2762100,28.6001159] n273356471[54.2743746,28.5960386] n3245836485[54.2722130,28.5968613] n3245836492[54.2723163,28.5958885] n3245836464[54.2716036,28.5957116] n3245836463[54.2715520,28.5969321] n3245836427[54.2702299,28.5977457] n273356472[54.2693603,28.5981775] n273356382[54.2688793,28.5960517]
 w25109837  Ярцаўка / Jarcaŭka / Ярцевка / Ярцевка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Ярцаўкі | place=hamlet
@@ -1441,7 +1441,7 @@ w25109888  Палялюм / Palialium / Полелюм / Полелюм
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Палелюм | place=hamlet
     geometry : n273357269[54.0480100,28.6830700] n3112141181[54.0477698,28.6834143] n3112141180[54.0475502,28.6837418] n273357270[54.0467300,28.6855600] n273357272[54.0462100,28.6869300] n273357273[54.0471600,28.6900200] n273357274[54.0484400,28.6904500] n273357275[54.0508400,28.6902000] n273357307[54.0511000,28.6920800] n273357308[54.0523100,28.6919100] n273357310[54.0549600,28.6920800] n273357312[54.0545300,28.6872800] n395509542[54.0546009,28.6860742] n273357314[54.0546200,28.6833300] n273357315[54.0528200,28.6828100] n273357317[54.0522200,28.6789500] n273357318[54.0511000,28.6786100] n273357320[54.0503300,28.6788700] n273357269[54.0480100,28.6830700]
 w25109891  Забашавічы / Zabašavičy / Забашевичи / Забашевичи
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : n273357322[54.0577100,28.6391300] n273357324[54.0588319,28.6393904] n273357325[54.0585700,28.6353500] n273357327[54.0574967,28.6323318] n273357332[54.0524309,28.6237134] n273357335[54.0453113,28.6182433] n3102619878[54.0435583,28.6192026] n273357349[54.0379820,28.6083682] n273357351[54.0374687,28.6125796] n273357354[54.0375400,28.6173300] n273357355[54.0378900,28.6202400] n273357357[54.0399500,28.6237600] n273357358[54.0359900,28.6276300] n273357361[54.0368600,28.6308900] n273357364[54.0367700,28.6317500] n273357367[54.0385250,28.6349375] n273357369[54.0403705,28.6309555] n273357372[54.0433060,28.6358757] n273357375[54.0468688,28.6384242] n273357384[54.0515300,28.6325200] n273357386[54.0546200,28.6318300] n273357387[54.0561700,28.6354400] n273357389[54.0561700,28.6391300] n273357322[54.0577100,28.6391300]
 w25109892  Шабынькі / Šabyńki / Шабыньки / Шабыньки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1598,7 +1598,7 @@ w25110978  Малое Стахава / Maloje Stachava / Малое Стахов
 w25110980  Пчэльнік / Pčeĺnik / Пчельник / Пчельник
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273377354[54.2891100,28.4921000] n273377356[54.2888600,28.4884100] n273377357[54.2844800,28.4893500] n273377359[54.2839600,28.4884100] n273377361[54.2840500,28.4859200] n273377307[54.2811300,28.4858300] n273377306[54.2803600,28.4884100] n273377363[54.2805300,28.4941600] n273377364[54.2798236,28.5021039] n273377365[54.2853468,28.5062042] n273377367[54.2867100,28.5017100] n273377368[54.2871400,28.4981900] n273377370[54.2910800,28.5012800] n273377371[54.2921100,28.4971600] n273377373[54.2924600,28.4942400] n273377354[54.2891100,28.4921000]
-w25110981  Бальшое Стахава / Vialikaje Stachava / Бальшое Стахава / Большое Стахово
+w25110981  Бальшое Стахава / Vialikaje Stachava / Большое Стахово / Большое Стахово
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Вялікае Стахава | alt_name:ru=Великое Стахово | place=hamlet
     geometry : n273377374[54.2628500,28.3758800] n273377376[54.2616500,28.3741700] n273377378[54.2574620,28.3731106] n273377380[54.2555500,28.3781200] n273377382[54.2552900,28.3999200] n1403016163[54.2592847,28.3996006] n1403016166[54.2593647,28.3982306] n1403016165[54.2593647,28.3966906] n1403016162[54.2591947,28.3945406] n1403016164[54.2593647,28.3934206] n1403016167[54.2607840,28.3910903] n1403016174[54.2620740,28.3900603] n1403016178[54.2634440,28.3895503] n1403016179[54.2639540,28.3889503] n1403016180[54.2643040,28.3881703] n1403016187[54.2644740,28.3871403] n273377407[54.2639600,28.3851500] n273377409[54.2633600,28.3820600] n273377411[54.2635300,28.3777700] n273377374[54.2628500,28.3758800]
 w25110998  Дубовы Лог / Dubovy Loh / Дубовый Лог / Дубовый Лог
@@ -1697,7 +1697,7 @@ w25121020  Будзенічы / Budzieničy / Буденичи / Буденич�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273509104[54.5209216,28.2958264] n273509105[54.5242000,28.2997500] n273509106[54.5232600,28.3032700] n273509107[54.5260900,28.3061000] n273509108[54.5281097,28.3076905] n273509109[54.5296729,28.3045111] n273509110[54.5272900,28.3017300] n273509111[54.5282400,28.2982900] n273509112[54.5213626,28.2924215] n273509104[54.5209216,28.2958264]
 w25121025  Іканы / Ikany / Иканы / Иканы
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : n273509128[54.5037800,28.2080000] n273509129[54.5031700,28.2067100] n273509130[54.5023100,28.2078300] n273509131[54.4991400,28.2049100] n273509134[54.4977895,28.2040568] n273509135[54.4968182,28.2055836] n273509136[54.4959600,28.2065400] n273509137[54.4945900,28.2073100] n273509138[54.4921900,28.2076600] n273509139[54.4921900,28.2110900] n273509140[54.4945900,28.2110000] n273509143[54.4954777,28.2130191] n273509149[54.4903101,28.2198944] n273509150[54.4895216,28.2225522] n273509151[54.4902686,28.2299077] n273509152[54.4938032,28.2314780] n273509153[54.4971502,28.2267813] n273509154[54.4965700,28.2237100] n273509155[54.4974200,28.2221600] n273509156[54.4986300,28.2237900] n273509157[54.5006000,28.2198400] n273509158[54.5000800,28.2183800] n273509159[54.5027500,28.2126300] n273509128[54.5037800,28.2080000]
 w25121027  Бараўляны / Baraŭliany / Боровляны / Боровляны
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Бараўляні | place=hamlet
@@ -1817,8 +1817,8 @@ w25124549  Нядаль / Niadaĺ / Недаль / Недаль
 w25124552  Собалеўка / Sobalieŭka / Соболевка / Соболевка
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273603048[54.5817100,28.1611400] n273603049[54.5828200,28.1616500] n273603051[54.5849700,28.1560700] n273603053[54.5862301,28.1542375] n1076856342[54.5861734,28.1511475] n1076856190[54.5863534,28.1496075] n273603057[54.5860900,28.1482600] n273603059[54.5848800,28.1485200] n273603061[54.5805900,28.1596800] n273603048[54.5817100,28.1611400]
-w25124553  Гаравец / Haraviec / Горовец / Горовец
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:ru=Гаравец | place=hamlet
+w25124553  Гаравец / Haraviec / Горавец / Горавец
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name=Горовец | alt_name:ru=Гаравец | place=hamlet
     geometry : n273603064[54.6001600,28.0742700] n273603065[54.6001600,28.0764200] n273603066[54.6033400,28.0765100] n273603069[54.6042800,28.0799400] n273603070[54.6051400,28.0813100] n273603072[54.6072800,28.0777900] n273603073[54.6060900,28.0765900] n273603075[54.6061700,28.0723900] n273603077[54.6002500,28.0722100] n273603064[54.6001600,28.0742700]
 w25124555  Ніўкі / Niŭki / Нивки / Нивки
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1836,7 +1836,7 @@ w25124559  Вароўскага / Varoŭskaha / Воровского / Воро�
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n273603147[54.5796500,28.1062000] n273603145[54.5785300,28.1044000] n273603167[54.5781900,28.1035400] n1076856469[54.5771670,28.1025797] n1076856417[54.5735670,28.0993997] n273603212[54.5734700,28.1006200] n273603215[54.5701200,28.0980500] n273603216[54.5695200,28.1003700] n273603218[54.5647100,28.0951300] n273603220[54.5630800,28.0996800] n273603222[54.5716700,28.1086100] n273603223[54.5772500,28.1246600] n273603226[54.5793100,28.1220800] n273603228[54.5769000,28.1148700] n273603230[54.5774100,28.1144400] n273603231[54.5762200,28.1111800] n273603147[54.5796500,28.1062000]
 w25124560  Мсціж / Msciž / Мстиж / Мстиж
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=village
     geometry : n273508815[54.5656600,28.2022500] n273508814[54.5664300,28.2006200] n273508813[54.5668600,28.2000200] n273508825[54.5676300,28.1983000] n273603235[54.5668600,28.1970100] n273603236[54.5701200,28.1932400] n273603237[54.5693500,28.1910900] n273603241[54.5690900,28.1895500] n273603242[54.5703800,28.1883400] n273603244[54.5697800,28.1868800] n273603246[54.5689200,28.1842200] n1186330146[54.5665384,28.1847883] n1186330160[54.5663784,28.1855583] n1186330020[54.5655084,28.1878783] n1186330013[54.5650884,28.1879583] n1186330066[54.5637085,28.1875383] n273603257[54.5629100,28.1880000] n273603259[54.5629100,28.1902300] n1394082382[54.5583230,28.1928622] n273603261[54.5547635,28.1935415] n273603263[54.5537300,28.1972700] n273603266[54.5531300,28.1972700] n273603267[54.5531300,28.2021600] n273603268[54.5569000,28.2021600] n273603272[54.5635100,28.1994200] n273603273[54.5650500,28.2013000] n273508815[54.5656600,28.2022500]
 w25124561  Загор’е / Zahorje / Загорье / Загорье
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
@@ -1890,8 +1890,8 @@ w246981962  Рубленікі / Rublieniki / Рубленики / Рублен�
 w246990401  Галубы / Haluby / Голубы / Голубы
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | place=hamlet
     geometry : n2539407604[54.2898189,28.8687457] n2539407602[54.2873160,28.8690617] n2539407603[54.2876849,28.8728081] n3135744883[54.2880641,28.8745141] n3135744884[54.2894523,28.8771387] n3135744886[54.2912088,28.8763844] n2539407605[54.2905426,28.8725019] n3504439977[54.2906587,28.8690886] n2539407604[54.2898189,28.8687457]
-w246993356  Кастрычнік / Kastryčnik / Костричник / Костричник
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Клёпкі | alt_name:ru=Октябрь | place=hamlet
+w246993356  Кастрычнік / Kastryčnik / Октябрь / Октябрь
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Клёпкі | alt_name:ru=Костричник | place=hamlet
     geometry : n2539435010[54.6334290,28.1934534] n2539434993[54.6317450,28.1935083] n2539434994[54.6317958,28.1967581] n2539435006[54.6323805,28.1967691] n2539435010[54.6334290,28.1934534]
 w288872821  Стоткаўшчына / Stotkaŭščyna / Стотковщина / Стотковщина
   other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | alt_name:be=Статкоўшчына | alt_name:ru=Статковщина | place=hamlet
@@ -1918,7 +1918,7 @@ r4728959  Вяляцічы / Vialiacičy / Велятичи / Велятичи
     geometry : <outer> w25107794: n273318111[54.1753800,28.9103500] n273318113[54.1797600,28.9098400] n273318114[54.1810500,28.9111200] n273318116[54.1839700,28.9115500] n273318117[54.1869700,28.9101800] n273318119[54.1876600,28.9091500] n273318120[54.1876600,28.9060600] n273318122[54.1913500,28.9051200] n273318123[54.1909200,28.8961000] n273318125[54.1890300,28.8963600] n273318126[54.1889500,28.8983400] n273318128[54.1855200,28.8989400] n273318130[54.1851700,28.9022800] n273318133[54.1710640,28.9057387] n273318134[54.1708400,28.9017700] n273318136[54.1694600,28.9010800] n273318138[54.1692900,28.8978200] n273318139[54.1707500,28.8939600] n273318141[54.1716100,28.8901800] n273318148[54.1716900,28.8837400] n273318150[54.1709200,28.8707000] n273318151[54.1695535,28.8704572] n273318152[54.1686000,28.8684700] n273318154[54.1667200,28.8693200] n273318156[54.1667691,28.8711423] n273318157[54.1659252,28.8709504] n273318159[54.1653275,28.8828713] n273318162[54.1627376,28.8910101] n273318165[54.1615700,28.8966200] n273318174[54.1589000,28.8995400] n273318176[54.1577072,28.9022108] n273318178[54.1537935,28.9033561] n273318180[54.1528761,28.9109891] n273318181[54.1608000,28.9123300] n273318182[54.1608800,28.9144700] n273297700[54.1617400,28.9144700] n273297699[54.1625100,28.9149900] n273297696[54.1632000,28.9157600] n273297694[54.1642095,28.9159045] n273318184[54.1649067,28.9163294] n273318185[54.1654826,28.9159165] n273318187[54.1659500,28.9147300] n273318189[54.1674000,28.9137000] n273318192[54.1678300,28.9132700] n273318195[54.1686000,28.9119000] n273318111[54.1753800,28.9103500] : w25107794
     geometry : <label> n243024535[54.1626834,28.9027174] : n243024535  Вяляцічы / Vialiacičy / Велятичи / Велятичи
 r4728964  Аздзяцічы / Azdziacičy / Оздятичи / Оздятичи
-  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | landuse=residential | place=hamlet | type=multipolygon
+  other tags : addr:country=BY | addr:district=Борисовский район | addr:region=Минская область | landuse=residential | place=village | type=multipolygon
     geometry : <outer> w318184112: n3245799160[54.0815724,28.8125723] n3245799147[54.0809395,28.8121601] n3245799127[54.0802125,28.8153183] n3245799128[54.0802447,28.8156692] n3245799136[54.0805631,28.8159050] n3245799140[54.0806661,28.8157953] n3245799148[54.0810199,28.8146932] n3245799160[54.0815724,28.8125723] : w318184112
     geometry : <outer> w25107854: n273319196[54.0861091,28.8357500] n273319200[54.0924050,28.8351625] n273319202[54.0925134,28.8385410] n273319216[54.1128073,28.8366468] n273319219[54.1124798,28.8264385] n273319180[54.1048078,28.8271547] n273319181[54.1046208,28.8213268] n3245799349[54.0994782,28.8218068] n273319183[54.0994513,28.8209701] n273319187[54.0952499,28.8213622] n3245799302[54.0953781,28.8253570] n3245799280[54.0939543,28.8254899] n273319189[54.0940450,28.8283159] n3245799217[54.0860439,28.8290625] n3245799174[54.0823948,28.8266177] n3245799175[54.0824361,28.8234351] n3245799121[54.0799758,28.8234568] n273319190[54.0800500,28.8255427] n3245799165[54.0818663,28.8256152] n273319191[54.0820032,28.8287140] n273319193[54.0841386,28.8310203] n273319195[54.0842625,28.8323877] n273319196[54.0861091,28.8357500] : w25107854
     geometry : <label> n243024452[54.0985700,28.8307000] : n243024452  Аздзяцічы / Azdziacičy / Оздятичи / Оздятичи
