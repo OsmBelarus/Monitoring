@@ -3075,7 +3075,7 @@ w28254475  4-я Украінская вуліца / 4-ja Ukrainskaja vulica / 4-
   other tags : highway=residential
     geometry : n310299953[55.1743854,30.1510383] n3011111570[55.1743764,30.1511880] n310299937[55.1743609,30.1513005] n1004231585[55.1743174,30.1515391] n310299933[55.1742426,30.1525945]
 w28254477  вуліца Будзёнага / vulica Budzionaha / улица Будённого / улица Будённого
-  other tags : highway=primary | lanes=2 | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115 | surface=asphalt
+  other tags : highway=primary | lanes=2 | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115 | surface=asphalt | turn:lanes=left|left|left;through
     geometry : n310309997[55.1856485,30.1885779] n310310503[55.1855003,30.1885946]
 w28254480  вуліца Гурынава / vulica Hurynava / улица Гуринова / улица Гуринова
   other tags : highway=residential | surface=asphalt
@@ -5457,7 +5457,7 @@ w29983565
   other tags : bridge=yes | highway=secondary | lanes=2 | layer=1 | maxspeed=40 | maxspeed:practical=60 | maxweight=5 | width=6
     geometry : n330076761[55.1932177,30.1838953] n327113477[55.1931029,30.1853519]
 w29983574  вуліца Зяньковай / vulica Ziańkovaj / улица Зеньковой / улица Зеньковой
-  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | surface=asphalt | turn:lanes=left|through|right
+  other tags : highway=secondary | lanes=2 | maxspeed=40 | maxspeed:practical=60 | surface=asphalt | turn:lanes=left;through|right
     geometry : n327113477[55.1931029,30.1853519] n332593130[55.1930516,30.1859493] n336386718[55.1930124,30.1862230] n310303156[55.1929463,30.1864688] n310303157[55.1927442,30.1869361] n310303148[55.1924391,30.1876102] n310303150[55.1921667,30.1882141] n310303151[55.1918591,30.1888816] n310303152[55.1917889,30.1891187] n1435305285[55.1917088,30.1896784] n1436437555[55.1916896,30.1898263] n310306749[55.1916738,30.1899341]
 w29986979  2-я вуліца Даватара / 2-ja vulica Davatara / 2-я улица Доватора / 2-я улица Доватора
   other tags : highway=residential
@@ -24522,7 +24522,7 @@ w337587885  вуліца Праўды / vulica Praŭdy / улица Правды
   other tags : highway=secondary | lanes=2 | maxspeed=50 | trolley_wire=yes | turn:lanes=left|through|through;right
     geometry : n310311106[55.1856075,30.2259988] n360012996[55.1855419,30.2265879] n2932271080[55.1854735,30.2272441] n569476755[55.1854613,30.2273370] n569476758[55.1853772,30.2280979] n310292612[55.1853439,30.2284020] n453663450[55.1852942,30.2288572] n2932271079[55.1852334,30.2294307] n332737440[55.1851873,30.2298345] n332737139[55.1851466,30.2302157] n360012982[55.1850875,30.2307456] n360012971[55.1850571,30.2310206]
 w337588182  вуліца Будзёнага / vulica Budzionaha / улица Будённого / улица Будённого
-  other tags : highway=primary | lanes=2 | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115 | surface=asphalt | turn:lanes=left|left|left|through
+  other tags : highway=primary | lanes=3 | maxspeed=60 | official_name=Витебск — Городок (до автомобильной дороги М-8) | oneway=yes | ref=Р115 | surface=asphalt | turn:lanes=left|left|left;through
     geometry : n1855826958[55.1876725,30.1890284] n2728292153[55.1870085,30.1888193] n332593285[55.1866336,30.1887021] n310309089[55.1863935,30.1886223] n310309093[55.1861271,30.1885794] n1272484979[55.1858389,30.1885674] n310309997[55.1856485,30.1885779]
 w337588183  вуліца Генерала Белабародава / vulica Hienierala Bielabarodava / улица Генерала Белобородова / улица Генерала Белобородова
   other names: name:de=uliza Generala Beloborodowa (Allgemeine Beloborodow Straße) | name:fr=oulitsa guenerala Byeloborodova (rue du général Byeloborodov)
