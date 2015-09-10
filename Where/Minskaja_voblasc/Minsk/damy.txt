@@ -1790,7 +1790,7 @@ w25432717
   other tags : addr:housenumber=11 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
     geometry : n277172700[53.8836146,27.5573098] n277172703[53.8833727,27.5576684] n277172704[53.8832873,27.5575025] n277172725[53.8835292,27.5571439] n277172700[53.8836146,27.5573098]
 w25432719
-  other tags : addr:housenumber=3 к1 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments
+  other tags : addr:housenumber=3 к1 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments | building:levels=12
     geometry : n277172727[53.8825287,27.5565017] n277172728[53.8825138,27.5565017] n277172729[53.8825136,27.5566305] n2342975987[53.8823777,27.5566302] n277172731[53.8822767,27.5566300] n277172732[53.8822768,27.5564905] n277172733[53.8823146,27.5564906] n277172738[53.8823148,27.5562925] n277172744[53.8824447,27.5562929] n277172745[53.8824447,27.5562446] n277172746[53.8825138,27.5562448] n277172748[53.8825136,27.5564217] n277172756[53.8825287,27.5564217] n277172727[53.8825287,27.5565017]
 w25432721
   other tags : addr:housenumber=9А | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
@@ -1805,7 +1805,7 @@ w25432728
   other tags : addr:housenumber=16 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
     geometry : n277172815[53.8835980,27.5593540] n276693116[53.8831470,27.5598395] n276693115[53.8830799,27.5596557] n276693114[53.8831124,27.5596215] n277172834[53.8835330,27.5591770] n277172815[53.8835980,27.5593540]
 w25432730
-  other tags : addr:housenumber=3 к2 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments
+  other tags : addr:housenumber=3 к2 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments | building:levels=9
     geometry : n277172837[53.8820800,27.5565960] n277172838[53.8820800,27.5568000] n277172840[53.8818090,27.5568000] n277172841[53.8818090,27.5568860] n277172842[53.8815190,27.5568860] n277172844[53.8815190,27.5566710] n277172846[53.8818010,27.5566710] n277172847[53.8818010,27.5565960] n277172837[53.8820800,27.5565960]
 w25432732
   other tags : addr:housenumber=18 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
@@ -1813,11 +1813,11 @@ w25432732
 w25432733
   other tags : addr:housenumber=20 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
     geometry : n277172874[53.8840072,27.5609375] n277172876[53.8833589,27.5611292] n277172877[53.8833371,27.5609174] n277172878[53.8839854,27.5607257] n277172874[53.8840072,27.5609375]
-w25432735
-  other tags : addr:housenumber=3 | addr:postcode=220007 | addr:street=Вузовский переулок | building=apartments
+w25432735  null / null / Интернат
+  other tags : addr:housenumber=3 | addr:postcode=220007 | addr:street=Вузовский переулок | building=apartments | building:levels=9
     geometry : n277172886[53.8817718,27.5575507] n277172888[53.8819382,27.5580532] n277172890[53.8818801,27.5581086] n277172892[53.8819896,27.5584394] n277172902[53.8818597,27.5585633] n277172914[53.8817364,27.5581909] n277172940[53.8817940,27.5581360] n277172941[53.8816413,27.5576750] n277172886[53.8817718,27.5575507]
 w25432736
-  other tags : addr:housenumber=10 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments
+  other tags : addr:housenumber=10 | addr:postcode=220007 | addr:street=улица Артиллеристов | building=apartments | building:levels=5
     geometry : n277172953[53.8832304,27.5583544] n276693034[53.8828026,27.5587967] n276693033[53.8827366,27.5588626] n277172954[53.8826326,27.5589710] n277172957[53.8825663,27.5587860] n277172958[53.8831641,27.5581694] n277172953[53.8832304,27.5583544]
 w25432739
   other tags : addr:housenumber=9 | addr:postcode=220007 | addr:street=Вузовский переулок | building=apartments
@@ -1838,7 +1838,7 @@ w25432750
   other tags : addr:housenumber=12 | addr:postcode=220007 | addr:street=улица Володько | building=apartments
     geometry : n462619539[53.8765974,27.5615319] n277173117[53.8763856,27.5615090] n277173120[53.8763937,27.5612948] n462619542[53.8766054,27.5613177] n462619539[53.8765974,27.5615319]
 w25432753
-  other tags : addr:housenumber=8 | addr:postcode=220007 | addr:street=Бакинская улица | building=apartments
+  other tags : addr:housenumber=8 | addr:postcode=220007 | addr:street=Бакинская улица | building=apartments | building:levels=9
     geometry : n277173130[53.8813446,27.5581716] n277173134[53.8813363,27.5588106] n277173135[53.8812108,27.5588059] n277173137[53.8812191,27.5581669] n277173130[53.8813446,27.5581716]
 w25432755
   other tags : addr:housenumber=18 к2 | addr:postcode=220007 | addr:street=Бакинская улица | building=apartments
@@ -1961,7 +1961,7 @@ w25434805
   other tags : addr:housenumber=14 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments
     geometry : n277181576[53.8801000,27.5549660] n277181577[53.8800960,27.5561460] n277181578[53.8799740,27.5561460] n277181579[53.8799890,27.5549600] n277181576[53.8801000,27.5549660]
 w25434806
-  other tags : addr:housenumber=10 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments
+  other tags : addr:housenumber=10 | addr:postcode=220007 | addr:street=улица Левкова | building=apartments | building:levels=9
     geometry : n277181580[53.8811331,27.5546391] n277181581[53.8810097,27.5561970] n277181582[53.8809050,27.5561731] n277181583[53.8806289,27.5561102] n277181584[53.8806452,27.5559045] n277181585[53.8809084,27.5559645] n277181586[53.8810155,27.5546123] n277181580[53.8811331,27.5546391]
 w25434807
   other tags : addr:housenumber=4 | addr:street=1-й переулок Жуковского | building=apartments | roof:shape=hipped
